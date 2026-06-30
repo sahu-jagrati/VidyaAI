@@ -1,0 +1,687 @@
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+1. The measure of an angle is 14° less than the 
+measure of its complementary angle then find 
+the value of angle ? 
+एक कोण का मान उसके कोटिपूरक कोण से 14° कम है। कोण का 
+मान ज्ञात करे। 
+a)44°        b)34°         c)52°        d)38°  
+2. Two angles are complementary. The larger 
+angle is 6° less than five times the measure of 
+the smaller angle. What is the measure of the 
+larger angle? 
+दो कोण पूरक हैं। बडा कोण ,छोिे कोण के माप के पाांच 
+गुना से 6° कम है। बडे कोण का माप क्या है? 
+(RRB ALP 2024) 
+A) 63° 
+B) 87° 
+C) 74° 
+D) 66° 
+3. If two supplementary angles differ by 74º, then 
+one of the angles is: 
+;fn nks सांपूरक dks.kksa dk varj 74º gS] rks muesa ls ,d dks.k ----------------- 
+gksxkA 
+(a) 
+65º 
+(b) 
+55º 
+(c) 
+43º 
+(d) 
+53º 
+4. The measure of the supplementary of an angle 
+is 10° more than four times of original angle . 
+find the complementary angle of that 
+particular angle? 
+ककसी कोण का सांपूरक कोण उस कोण के चार गुने से 10° अधिक 
+है।मूल कोण का कोटिपूरक कोण ज्ञात करे। 
+a)26°       b)34°      c)56°        d)70° 
+5. The supplementry angle of angle K is 
+(13x+30) ° and the complement of angle K 
+measures 7x°. what is K? 
+कोण K का सांपूरक कोण(13x+30) °  है और  कोटिपूरक 7x° है।K 
+का मान क्या होगा। 
+a)20°        b)42°        c)14°          d)26°  
+6. x and y are two supplementry angles. If 
+supplymentry angle of x is equal to half the 
+complementry of y then find x:y? 
+x और y दो सांपूरक कोण है।यटद  कोण x का सांपूरक कोण , कोण y 
+के कोटिपूरक कोण का आिा है।तब  x:y ज्ञात करे। 
+a)5:3        b)3:1         c)5:1           d)2:3 
+7. The measure of supplement of ⎳ A is 40°  
+larger than twice the  measure of the 
+complement of angle of A. What is the sum in 
+degrees, of the measures of the supplement 
+and complement of ⎳ A? 
+कोण A का सांपूरक कोण उसके कोटिपूरक के दोगुने से 40° अधिक 
+है। कोण A के सम्पूरक और कोटिपूरक कोण का योग ककतना 
+होगा। 
+a)190°       b)140°      c)175°       d)230° 
+8. If the angles of a triangle are in the ratio of 
+9∶ 11∶ 16, then the difference between the 
+greatest angle and the smallest angle is: 
+यदि किसी त्रिभुज िे िोणों िा अनुपात 9∶ 11∶ 16 है, तो 
+सबसे बडे िोण और सबसे छोटे िोण िे बीच िा अंतर है: 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 40° 
+B) 35° 
+C) 25° 
+D) 30° 
+9. In a triangle, values of all the angles are 
+integers. Which one of the following cannot be 
+the proportion of their measures? 
+,d f=Hkqt esa] LkHkh dks.kksa ds eku iw.kkaZd gSA fuEufyf[kr esa ls dkSu 
+lk muds ekiksa dk vuqikr ugha gks ldrk gS\ 
+(A) 1 : 2 : 3 
+ 
+(B) 3 : 4 : 5 
+ 
+ 
+(C) 5 : 6 : 7 
+ 
+(D) 6 : 7 : 8 
+10. In ΔPQR, if 4∠P = 5∠Q = 20∠R, then the value 
+of ∠Q is: 
+ΔPQR में, यटद 4∠P = 5∠Q = 20∠R है, तो ∠Q का मान 
+क्या है?  SSC CGL 2024 Pre 
+ 
+[A] 
+72º         [B]36º 
+ 
+[C] 
+90º        [D]45º 
+ 
+11. If the vertical angle of an isosceles triangle 
+is 42°, then the measure of the other two 
+angles will be: 
+यदि एि समद्विबाहु त्रिभुज िा ऊर्धिााधर िोण 42° है, तो 
+अन्य िो िोणों िा माप होगा: 
+(SSC SELECTION POST XII HIGHER 
+SECONDARY LEVEL) 
+A) 59°, 59° 
+B) 69°, 69° 
+C) 79°, 79° 
+D) 89°, 89° 
+12. In a ∆ABC, if 
+𝟏
+𝟐 A + B + C = 120º, then the 
+value of 
+𝟏
+𝟒 A is: 
+∆ABC में, यदि if 
+1
+2 A + B + C = 120º है, तो 
+1
+4 A 
+िा मान ज्ञात िीजजए। SSC CGL 2024 Pre 
+[A] 
+20º   
+[B]40º 
+[C] 
+60º   
+[D]30º 
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+13. The angles of a triangle are (8x–15)°, (6x–11)° 
+and (4x–10)°. What is the value of x? 
+fdlh f=Hkqt ds dks.kksa dk eki (8x–15)°, (6x–11)° vkSj (4x–10)° gSA 
+x dk eku Kkr djsaA 
+(a) 
+12 
+(b) 
+16 
+(c) 
+15 
+(d) 
+18 
+14. If three angles of a triangle are (18x+6°), 
+(10x+30°) and (15x+15°), then the triangle is: 
+यदि किसी त्रिभुज िे तीन िोण (18x+6°), (10x+30°) और 
+(15x+15°) हैं, तो त्रिभुज है: 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) Scalene 
+B) Equilateral 
+C) Right angled 
+D) Isosceles 
+15. In a triangle ABC, the three angles are x, y and 
+y + 10. Also, 2x − 4y = 20°. Which type of 
+triangle is ABC? 
+एक त्रिभुज ABC में तीन कोण x, y और y + 10 हैं। साथ 
+ही, 2x - 4y = 20° है। ABC त्रकस प्रकार का त्रिभुज है? 
+1. Equilateral/समबाहु  
+2. Obtuse/अत्रिक कोण 
+3. Acute/न्यूनकोण 
+ 
+4.Right-angled/समकोण 
+ 
+SSC CGL 2023 PRE 
+16. P, Q and R are the three angles of a triangle. If 
+P − Q = 20° and Q − R = 26°, then ∠P is equal 
+to: 
+P, Q और R एि त्रिभुज िे तीन िोण हैं। यदि P − Q = 20° है 
+और Q − R = 26° है, तो ∠P ननम्नलिखित में से किसिे बराबर 
+है?  SSC CGL 2024 Pre 
+[A] 
+52º          [B]46º 
+[C] 
+92º         [D]82º 
+ 
+17. By decreasing 17° from each angle of a triangle, 
+the ratio of their angles is  
+3:4: 7. The radian measure of the greatest angle 
+is: 
+एक त्रिभुज के प्रत्येक कोण से 17° घटाने पर उनके कोणों का अनुपात 
+3
+ :
+4
+ :
+7
+ 
+होगा
+ 
+क्या
+ 
+माप
+ 
+रेत्रियन
+ 
+का
+ 
+कोण
+ 
+बडे
+ 
+सबसे
+ 
+है।
+?                                                                                             
+SSC CHSL Pre 2024 
+ 
+ 
+[A] 
+𝟏𝟓𝟑𝝅
+𝟑𝟔𝟎       [B]
+𝟏𝟔𝟕𝝅
+𝟏𝟖𝟎 
+ 
+[C] 
+𝟏𝟔𝟑𝝅
+𝟑𝟔𝟎           [D]
+𝟏𝟔𝟑𝝅
+𝟏𝟖𝟎 
+18. Which of the following statements is/are 
+correct? 
+A triangle can have all angles less than 60°.  
+B. A triangle can have one obtuse angle. 
+C. A triangle can have two right angles.  
+D. A triangle can have two acute angles. 
+ननम्नललखित में से कौन सा/से कथन सही है/हैं? 
+ A. एक त्रिभुज के सभी कोण 60° से कम हो सकते हैं।  
+B. एक त्रिभुज में एक अधिककोण हो सकता है। 
+C. एक त्रिभुज में दो समकोण हो सकते हैं।  
+D. एक त्रिभुज में दो न्यूनकोण हो सकते हैं। 
+SSC CPO 2024 
+i) B 
+ii) B and D 
+iii) A and C 
+iv) A 
+19. If one angle of triangle PQR is greater than 
+the sum of the other two, the triangle PQR 
+will be: 
+यटद त्रिभुज PQR का एक कोण अन्य दो कोणों के योग से 
+बडा है, तो त्रिभुज PQR होगा:SSC CPO 2024 
+A) Obtuse angle 
+B) Equilateral  
+C) right angle 
+D) Acute angle 
+20. The measures of two angles of a triangle are in 
+the ratio 3 : 7. If the sum of these two measures 
+is equal to the measure of the third angle, then 
+find the smallest angle. 
+एक त्रिभुज के दो कोणों की माप 3 : 7 के अनुपात में है। यटद 
+इन दोनों मापों का योग तीसरे कोण की माप के बराबर है, तो 
+सबसे छोिा कोण ज्ञात कीजजए।(CHSL MAINS 2023)   
+[a]27º 
+[b]3º 
+ 
+[c]9º  
+[d]36º 
+ 
+21. If the ratio of the angles of a triangle is 
+49:22:73 then type of triangle is  
+यदि दिसी दिभुज िे िोणों िा अनुपात 49:22:73 है तो दिभुज िा प्रिार है 
+a)acute.              B)right.         
+C)obtuse.            D)isosceles  
+22. If the ratio of the angles of a triangle is 
+18:31:43 then type of triangle is  
+यदि दिसी दिभुज िे िोणों िा अनुपात 18:31:43 है तो दिभुज िा 
+प्रिार है 
+a)acute.            B)right.        C)obtuse.            D)isosceles  
+23. In the figure, the measure of angle ∠BAC is: 
+त्रिि में कोण ∠BAC का माप है: 
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+ 
+a) 56° 
+ 
+b) 62° 
+   c) 58° d) 48° 
+24. The side QR of a triangle PQR is extended to a 
+point S. If  
+PRS = 104° and RQP = 
+𝟑
+𝟓 QPR, then the 
+value of QPR is: 
+f=Hkqt PQR dh Hkqtk QR dks fcUnq S rd c<+k;k tkrk gSA ;fn PRS 
+= 104° vkSj RQP = 
+𝟑
+𝟓 QPR gS] rks QPR dk eku Kkr djsaA 
+(a) 
+65° 
+(b) 
+55° 
+(c) 
+45° 
+(d) 
+58° 
+25. In the given figure, find 
+ ∠𝟏+ ∠𝟐+ ∠𝟑+ ∠𝟒+ 𝟓=? 
+टदए गए आकृनत  में, ∠1+∠2+∠3+∠4+5 ज्ञात करे? 
+ 
+A) 90° 
+B) 120° 
+C) 180° 
+D) 360° 
+26. In a quadrilateral PQRS, if the sum of 
+measures of angle ∠𝑸 𝒂𝒏𝒅 ∠𝑺 𝒊𝒔 𝟏𝟓𝟎° while the 
+measures of angles ∠𝑷 & ∠𝑹 in the ratio 4:3, 
+then the measure of ∠𝑹 will be? 
+एक चतुभुज PQRS में, यटद कोण ∠Q और ∠S के मापों का 
+योग 150° है जबकक कोणों ∠P और ∠R का माप 4:3 के 
+अनुपात में है, तो ∠R का माप क्या होगा? 
+(RRB ALP 2024) 
+A) 120° 
+B) 90° 
+C) 210° 
+D) 50° 
+27. When there are two parallel lines cut by a 
+transversal, which of the following is true? 
+A. Corresponding angles are equal 
+B. Alternate interior angles are supplementary 
+C. Consecutive angles on the same side of the 
+transversal are equal 
+D. Alternate interior angles are equal 
+जब दो समानाांतर रेिाएां एक नतयुक रेिा द्वारा कािी जाती 
+हैं, तो ननम्नललखित में से कौन सा सत्य है? 
+A) सांगत कोण बराबर होते हैं 
+B) वैकजपपक आांतररक कोण पूरक हैं 
+C) नतयुक रेिा के एक ही तरफ के क्रमागत कोण बराबर होते 
+हैं 
+D) वैकजपपक आांतररक कोण बराबर होते हैं 
+(RRB ALP 2024) 
+i) 
+Only A 
+ii) 
+B and C 
+iii) A and D 
+iv) Only B 
+28. If a transversal intersects two parallel lines, 
+and the difference between two interior angles 
+on the same side of the transversal is 40°, then 
+find the smallest angle among the interior 
+angles. 
+ 
+यटद एक नतयुक छेदी रेिा दो समानाांतर रेिाओां को 
+प्रनतच्छेटदत करती है, और नतयुक छेदी रेिा के एक ही तरफ 
+के दो आांतररक कोणों के बीच का अांतर 40° है, तो आांतररक 
+कोणों में सबसे छोिा कोण ज्ञात कीजजए।  
+ 
+ 
+ (CHSL MAINS 2023)   
+ 
+[a]70º 
+[b]50º 
+ 
+[c]40º 
+[d]60º 
+29. If the ratio of two interior angles lying on the 
+same side of a transversal intersecting two 
+parallel lines is 3 : 7, then find the positive 
+difference of the measures of these two interior 
+angles.  
+यदि िो सम ांतर रेख ओां को प्रदतच्छेदित करने व ली एक दतययक रेख  के एक ही ओर दथित िो 
+अांतः कोणों क  अनुप त 3 : 7 है, तो इन िोनों अांतः कोणों के म पों क  धन त्मक अांतर 
+ज्ञ त कीदिए। 
+[RRB Group D-2022] 
+[A] 
+64º       [B]54º 
+ 
+[C] 
+72º      [D]80º 
+ 
+30. In the given figure, l1||l2, and p is their 
+transversal line with angle  
+4 = 5x + 35 º and angle 7 = 45º. Find the  
+value of x.  
+िी गई आकृदत में, l1||l2, है ति  कोण 4 = 5x + 35 º और कोण 7 = 
+45º के स ि p उनकी दतययक छेिी रेख  है। x क  म न ज्ञ ांत करें। 
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+ 
+ 
+[RRB Group D-2022] 
+[A] 
+40º  [B]45º 
+ 
+[C] 
+20º [D]10º 
+31. In the given figure, if BP||CQ and AC = BC, 
+then find the measure of x.  
+दिए गए दित्र में यदि BP||CQ और AC = BC है, तो x क  x क  म प ज्ञ त 
+कीदिए। 
+ 
+ 
+ 
+[RRB Group D-2022] 
+[A] 
+20º    [B]25º 
+ 
+[C] 
+30º    [D]35º 
+32. In the figure given below, line l is parallel to m. 
+Find the value of 2x + y.  
+नीिे िी गई आकृदत में, रेख  l, m के सम न ांतर है। 2x + y क  म न ज्ञ त कीदिए। 
+ 
+[RRB Group D-2022] 
+[A] 
+270º        [B]150º 
+ 
+[C] 
+320º        [D]225º 
+33. In the following figure, AB||CD||EF. Find the 
+value of xº.  
+दनमन ांदकत दित्र में, AB||CD||EF है। Xº क  म न ज्ञ त कीदिए। 
+ 
+ 
+ 
+[RRB Group D-2022] 
+[A] 
+148º   [B]147º 
+ 
+[C] 
+115º   [D]126º 
+ 
+34. AB is parallel to CD. A transversal, line PQ, 
+intersects AB and CD at E and F respectively, 
+and PEB = 78º. G is a point between AB and 
+CD such that BEG = 18º and GFE = 30º. What 
+is the measure of EGF?  
+AB, CD के सम न ांतर है। एक दतययक, रेख  PQ, AB और CD को क्रमशः E 
+और F पर प्रदतच्छेदित करती है, और PEB = 78º है। AB और CD के बीि 
+G ऐस  दबांिु है दक BEG = 18º और GFE = 30º है। EGF क  
+म प दकतन  है? 
+[RRB Group D-2022] 
+[A] 
+68º  [B]66º 
+ 
+[C] 
+72º  [D]58º 
+ 
+ 
+ 
+35. Straight lines l and m are parallel to each other. 
+Points A and B lie on line l, points C and D lie 
+on line m, and E is a point which lies between 
+the straight lines l and m, all such that mEAB 
+= 50° and mECD = 70°. Find the measure of 
+AEC, if points A and C lie on the same side of 
+point E.  
+सीधी रेख एँ l और m एक-िूसरे के सम ांतर है। दबन्िु A और B रेख  l पर दथित हैं, दबन्िु 
+C और D रेख  m पर दथित है, ति  E एक ऐस  दबन्िु है, िो सीधी रेख ओां l और 
+m के बीि दथित है, ये सभी इस प्रक र हैं दक mEAB = 50° और mECD 
+= 70° है। AEC क  म प ज्ञ त कीदिए, यदि दबन्िु A और C, दबन्िु E के एक 
+ही ओर दथित है। [RRB Group D-2022] 
+[A] 
+70º   [B] 120º 
+ 
+[C] 
+60º    [D]100º 
+ 
+36. In the shown fig AB||DE find supplementary 
+angle of x. 
+टदए गए धचि में AB||DE ,x का सांपूरक कोण ज्ञात करे। 
+ 
+a)120 °        b)150 °       c)140 °         d)125 °  
+ 
+37. In the given fig below AB||CD , find x? 
+नीचे टदए गए धचि में AB||CD, x का मान ज्ञात करे। 
+ 
+a)45°        b)40°          c)35°            d)67.5° 
+ 
+ 
+ 
+ 
+P
+B
+C
+A
+Q
+20º
+y
+x
+70º
+y
+60º
+y
+105º
+A
+B
+C
+E
+D
+F
+33º
+65º
+xº
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38. In the given fig PQ||RS, then find ⎳QOS? 
+टदए गए धचि में PQ||RS, ⎳QOS का मान क्या होगा। 
+ 
+ 
+a)30°             b)15°             c)20°           d)10° 
+ 
+39. In the given figure PQ is parallel to RS, ∠AEF 
+= 95°, ∠BHS = 110°, and  
+∠ABC = x°. Then, what is the value of x? 
+दिए गए दित्र में PQ||RS, ∠AEF = 95°, ∠BHS = 110° 
+और ∠ABC = x° है। तो दिर x का मान क्या है? 
+ 
+(a) 15  
+(b) 25  
+ 
+(c) 30  
+(d) 35 
+ 
+40. In the given figure AB is parallel to CD and AC 
+is parallel to BD. If ∠EAC = 40°, ∠FDG = 55°, 
+∠HAB = x°, then what is the value of x? 
+दिए गए दित्र में AB, CD के समानाांतर है और AC,  
+BD के समानाांतर है। यदि ∠EAC = 40°, ∠FDG = 55°, 
+∠HAB = x° है, तो x का मान क्या है? 
+ 
+(a) 85  
+(b) 80  
+(c) 75  
+ (d) 65 
+ 
+41. In ∆PQR, X and Y are points on PQ and PR such 
+that XY||QR and YZ is angle bisect of ∠ XYR. 
+If YR is 2.7cm, then find ZR? 
+∆PQR में, X और Y, PQ और PR पर ऐसे द ांिु हैं दक 
+XY||QR और YZ कोण ∠ XYR के कोण समदिभादित हैं। 
+यदि YR 2.7cm है, तो ZR ज्ञात कीदिए? 
+A) 3 cm  
+ 
+ 
+ 
+C) 2.4 cm 
+B) 2.7cm  
+ 
+ 
+D) 5.4 cm 
+ 
+42. If AB||CD then find the value of α+β+γ? 
+यटद AB||CD तब α+β+γ का मान ननकाललये? 
+ 
+a)180°          b)270°  
+ 
+c)360°         d)240° 
+ 
+ 
+ 
+ 
+ 
+ 
+43. Find the value of x? 
+x का मान ज्ञात करें? 
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+ 
+A) 70° 
+B) 80° 
+C) 90° 
+D) 100° 
+44. What is the value of x in the fig given below? 
+नीचे टदए गए धचि में x का मान क्या होगा। 
+ 
+a)b-a-c               b)b-a+c   
+c)b+a-c              d)π-(a+b-c) 
+ 
+45. If 
+in 
+the 
+given 
+figure, 
+∠𝑨𝑪𝑩+ ∠𝑩𝑨𝑪=
+𝟖𝟎°; ∠𝑩𝑫𝑬= 𝟑𝟓°; ∠𝑩𝑪𝑬= 𝟒𝟓°, then the marked 
+angle ∠CED is:  
+यत्रि त्रिए 
+गए त्रिि 
+में 
+∠𝑨𝑪𝑩+ ∠𝑩𝑨𝑪= 𝟖𝟎°; ∠𝑩𝑫𝑬=
+𝟑𝟓°; ∠𝑩𝑪𝑬= 𝟒𝟓° है, तो धचट हनत कोण ∠CED का मान 
+_______ होगा।  
+ 
+(a) 150°  
+(b) 120°  
+ 
+(c) 160°  
+(d) 135° 
+ 
+46. Find the value of θ? 
+θ का मान ननकाललये। 
+ 
+a)60°       b)70 °         c)75 °              d)CND 
+ 
+ 
+47. find the value of a+b? 
+a+b का मान क्या होगा? 
+ 
+ 
+a)80°           b)180°         c)90°          d)120° 
+48. Angles are shown in the given figure. What is 
+value of  
+∠1 + ∠2 + ∠3 + ∠4 + ∠5 + ∠6 + ∠7 + ∠8? 
+दिए गए दित्र में कोण दिखाए गए हैं। ∠1 + ∠2 + ∠3 + ∠4 
++ ∠5 + ∠6 + ∠7 + ∠8 का मान क्या है? 
+ 
+(a) 240° 
+(b) 360° (c) 540° 
+(d) 720° 
+ 
+ 
+49. In the given fig , PR || UV and PQ || RS , 
+⎳RST=30° ,⎳STU=45° . Find the value of 
+⎳QPR+⎳TUV? 
+नीचे टदए गए धचि में, PR || UV और PQ || RS 
+,⎳RST=30°,⎳STU=45°तो ⎳QPR+⎳TUV का मान क्या 
+होगा। 
+ 
+ 
+                                                BY GAGAN PRATAP SIR 
+ 
+a)180°        b)195°          c)205°           d)165° 
+ 
+ 
+50. In the given fig AB||CD find the value of x? 
+टदए गए धचि में AB||CD , x का मान क्या होगा। 
+ 
+  a)5°          b)10°         c)20°            d)12° 
+51. Find the value of x, y if 𝒍||𝒎 &  
+𝒙−𝒚= 𝟐𝟎°? 
+x, y का मान ज्ञात कीजजए यटद l||m और  
+x-y=20°? 
+ 
+A) 80°, 𝟔𝟎° 
+B) 70°, 𝟓𝟎° 
+C) 50°, 𝟑𝟎° 
+D) 90°, 𝟕𝟎° 
+ 
+ 
+ 
+ 
+ 
+ 
+52. When two transversals intersect three parallel 
+lines, and the ratio of intercepts formed by first 
+transversal is 3 : 4, then find the ratio of 
+intercepts formed by second transversal.  
+जब िो नतयाि रेिाएँ, तीन समानांतर रेिाओं िो प्रनतच्छेदित 
+िरती हैं, और पहिी नतयाि रेिा द्िारा ननलमात अंतः िंडों िा 
+अनुपात 3 : 4 है, तो िूसरी नतयाि रेिा द्िारा ननलमात अंतः 
+िंडों िा अनुपात ज्ञात िीजजए। [RRB Group D-2022] 
+[A] 
+3 : 4      [B]1 : 1 
+ 
+[C] 
+2 : 4      [D] 4 : 3 
+ 
+53. , PR=20cm, RT=44cm, TV=32cm, QW=84cm 
+then find QS? 
+टदए गए धचि में, PQ||RS||TU||VW, भुजा PR=20cm,  भुजा 
+RT=44cm, भुजा TV=32cm, भुजा QW=84cm, भुजा QS का मान 
+ज्ञात करे। 
+ 
+a)15cm           b)17.5cm  
+c)22.5cm        d)12.5cm 
+ 
+ 
+ 
+54. In the given fig below AB||CD||EF, if 
+AB=29cm, EF=57cm, AC=
+𝟑
+𝟒CE and BD is  xcm 
+less than DF then find CD=? 
+नीचे टदए गए धचि में AB||CD||EF, यटद भुजा AB=29cm और 
+भुजा EF=57cm, AC=
+𝟑
+𝟒CE, भुजा BD, भुजा DF से x सेमी कम है।तब 
+भुजा CD का मान क्या होगा। 
+ 
+a)41cm        b)43cm  
+c)45cm        d)40.5cm 
+ 

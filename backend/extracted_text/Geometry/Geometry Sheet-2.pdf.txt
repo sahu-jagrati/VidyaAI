@@ -1,0 +1,640 @@
+ 
+ 
+Gagan Pratap Maths 
+1. The side BC of ∆ABC is produced to a point D. 
+If AC = BC and BAC = 70º, then find the value 
+of 2.5 ACD – 1.5 ABC. 
+ 
+∆ABC की भुजा BC को ब िंदु D तक  ढाया गया है। यदद AC 
+= BC और ∠BAC = 70° है, तो 2.5 ∠ACD − 1.5 ∠ABC का 
+मान ज्ञात कीजजए।     SSC CGL 2024 Pre 
+ 
+[A] 
+245º     [B]235º 
+ 
+[C] 
+225º     [D]230º 
+2. In the given figure, AD is bisector of angle 
+∠CAB and BD is bisector of angle ∠CBF. If the 
+angle at C is 34°, the angle ∠ADB is:  
+ददए गए चित्र में, AD कोण ∠CAB का द्विभाजक है और BD  
+कोण ∠CBF का द्विभाजक है। यदद C पर  जे कोण का माप 
+34° है, तो कोण ∠ADB का माप _____ होगा। 
+  
+(a) 34°  
+ 
+(b) 32°  
+ 
+ 
+(c) 17°  
+ 
+(d) 16° 
+3. PQR is a triangle. The bisectors of the internal 
+angle ∠Q and external angle ∠R intersect at S. 
+If ∠QSR = 40°, then ∠P is: 
+PQR एक त्रिभुज है. आंतरिक कोण ∠Q औि बाह्य कोण ∠R 
+के समत्रिभाजक S पि प्रत्रतच्छेद किते हैं। यत्रद ∠QSR = 40° 
+है, तो ∠P है:  (SSC CPO 2023) 
+(a) 80°  
+(b) 60°  
+(c) 40°  
+(d) 30° 
+4. The side BC of ABC is produced to D. The 
+bisectors of ABC and ACD meet at E. If AB = 
+AC and BEC = 35°, then the measure of ABC 
+will be: 
+ABC dh Hkqtk BC, dks D rd c<+k;k tkrk gSA ABC vkSj ACD 
+ds lef}Hkktd fcUnq E ij feyrs gSaA ;fn AB = AC gSa vkSj BEC = 
+35° gS] rks ABC dk eki Kkr djsaA 
+(a) 
+75° 
+(b) 
+55° 
+(c) 
+35° 
+(d) 
+45° 
+5. In the given figure AF is angle bisector of angle 
+BAC and CD is exterior bisector of angle BCA 
+then what will be value of θ? 
+ददए गए चित्र में , AF , BAC का आिंतररक कोण समद्विभाजक 
+है।ज कक भुजा CD , BCA का  ाह्य कोण समद्विभाजक है। θ का 
+मान ज्ञात करे। 
+ 
+a)40°       b)45°      c)48°       d)30° 
+6. In ABC, AD⊥BC at D and AE is the bisector of 
+A. If B = 62° and C = 36°, then what is the 
+measure of DAE? 
+ABC esa] D ij AD ⊥ BC gS vkSj AE, A dk lef}Hkktd gSA ;fn 
+B = 62° vkSj C= 36° gS] rks DAE dk eki Kkr djsaA 
+(a) 
+13° 
+(b) 
+54° 
+(c) 
+23° 
+(d) 
+27° 
+7. In ∆PQR, ∠Q=84°, ∠R=38°, PS ⊥ QR at S and the 
+bisector of ∠P meets QR at T. What is the 
+measure of ∠PTS?  
+∆PQR में, ∠Q = 84°, ∠R = 38°, S पर PS⊥QR है और ∠P का 
+द्िविभाजक T पर QR से ममलता है। ∠PTS का माप ज्ञात 
+कीजजए। 
+(a) 73°  
+ 
+(b) 69°  
+ 
+ 
+(c) 74°  
+ 
+(d) 67° 
+8. In ∆ABC, ∠B = 78°, AD is a bisector of ∠A 
+meeting BC at D, and AE⊥BC at E. If ∠DAE = 
+24°, then the measure of ∠ACB is: 
+∆ABC में, ∠B=78° है, ∠A का समद्विभाजक AD है जो BC से 
+ब िंदु D पर ममलता है और ब िंदु E पर AE⊥BC है। यदद ∠DAE = 
+24° है, तो ∠ACB की माप क्या है? 
+(a)38° 
+ 
+(b)30° 
+ 
+ 
+(c)320 
+ 
+(d) 42° 
+ 
+9. a+b+c+d = ? 
+ 
+a)260°       b)250°        c)290°      d)210° 
+10. In the given ∆ABC, AD=DE=EC=BC then find   
+∠A: ∠B? 
+ 
+ 
+Gagan Pratap Maths 
+ददए गये ∆ABC  में , AD=DE=EC=BC है त  ∠A: ∠B  का मान क्या 
+होगा ? 
+a) 1:3    b) 1:2   c) 2:5    d) Can’t be determined 
+ 
+ 
+11. a point on AC such that  
+AB = BD = DC. If BAD = 700, then the measure 
+of B is: 
+f=Hkqt ABC esa AC ij fcUnq D bl izdkj gS fd  
+AB = BD = DCA ;fn BAD = 700  gS rks B  dk eku gksxk 
+(a) 750  
+(b) 800  
+(c) 820  
+(d) 700 
+12. In ∆PQR, QT ⊥ PR and S is a point on QR such 
+that PSQ=p°, If TQR =46°, SPR=32°, then 
+the value of P is: 
+∆PQR esa] QT⊥PR gS vkSj S, QR ij ,d fcanq bl izdkj gS fd PSQ=P° 
+gSA ;fn TQR=46° vkSj SPR=32° gS] rks P dk eku gS: 
+(a) 760         (b) 780         (c) 820       (d) 720 
+13. In the given triangle, if AD=BD=AC then the 
+value of angle C will be? 
+ददए गए बत्रभुज में, यदद AD=BD=AC त  ∠C का मान ज्ञात करे।
+ 
+a)72°            b)90°        c)54°          d)64° 
+14. Side BC of a ABC is produced to D such that 
+CD = AC. Also, AD = BD and AB = AC. What is 
+the measure of ADB? 
+ABC dh Hkqtk BC dks D rd bl çdkj c<+k;k tkrk gS fd CD = 
+AC gSA lkFk gh] AD = BD vkSj AB = AC gSA ADB dk eki D;k 
+gS\ 
+(a) 
+36° 
+(b) 
+24° 
+(c) 
+30° 
+(d) 
+40° 
+15. In a triangle HJK, HJ = HK. G is a point on HJ 
+such that HG = GK = JK. What is the degree 
+measure of two-third of (∠HGK + ∠GKJ)? 
+एक त्रिभुज HJK में, HJ = HK है G, HJ पर एक त्र िंदु इस प्रकार है त्रक HG 
+= GK = JK है। (∠HGK + ∠GKJ) के दो-त्रिहाई की त्रिग्री माप क्या है? 
+(SSC CGL MAINS 2024) 
+A) 96° 
+B) 136° 
+C) 84° 
+D) 90° 
+ 
+16. In ∆PQR, S is a point on the side QR such that 
+∠QPS = 
+𝟏
+𝟐∠PSR, ∠QPR = 78° and ∠PRS = 44°. 
+What is the measure of  ∠PSQ? 
+∆PQR में, S एक ब िंदु है, जो भुजा QR पर इस प्रकार जथित है 
+कक ∠QPS = 
+𝟏
+𝟐∠PSR, ∠QPR = 78° और ∠PRS = 44° है। ∠PSQ 
+की माप क्या है? 
+(a) 68°  
+(b) 640  
+ 
+(c) 58°  
+(d) 56° 
+17. ABC is an isosceles triangle in which AB=BC, 
+AD is angle bisector of ∠BAC. Find the value of 
+β? 
+ABC एक समद्वि ाहु बत्रभुज है जहााँ AB=BC, AD कोण ∠BAC का 
+समद्विभाजक है। β का मान ज्ञात करे। 
+ 
+a)45°           b)30°         c)53°         d)36° 
+18. In the following figure, if AD=AE, CD is internal 
+angle bisector of ∠𝑨𝑪𝑩. Find θ? 
+चित्र में, यदद AD=AE , और भुजा CD, 𝑨𝑪𝑩 का आिंतररक कोण 
+समद्विभाजक है, θ का मान क्या होगा- 
+ 
+a)140°         b)120°          c)110°           d)130° 
+19. In a 𝜟𝑨𝑩𝑪, the bisectors of ∠B and ∠C meet at 
+point O within the triangle. If ∠BOC is given, 
+then which among the given options is true? 
+किसी 𝜟𝑨𝑩𝑪 में, ∠B  और ∠C िे समद्विभाजि, त्रिभुज िे अंदर 
+त्र ंदु O पर ममलते हैं| अगर ∠BOC ददया गया है, तो निम्िमलखित 
+वििल्पों में से िौि सा सही है? 
+(a) ∠A= 2(90°-(∠BOC)  
+ 
+(b) ∠A= 180°-(∠BOC) 
+ 
+ 
+Gagan Pratap Maths 
+(c) ∠A= 90°+(∠BOC) 
+(d) ∠A= 2(∠BOC - 90°) 
+20. If one of the angles of a triangle is 74°, then the 
+angle between the bisectors of the other two 
+interior angles is: 
+;fn fdlh f=Hkqt dk ,d dks.k 74° gS] rks vU; nks vkarfjd dks.kksa ds 
+lef}Hkktdksa ds chp dk dks.k Kkr djsaA (SSC CPO 2023) 
+(a) 
+127° 
+(b) 
+16° 
+(c) 
+53° 
+(d) 
+106° 
+21. In a ABC, the bisectors ofB and C meet at 
+point O, inside the triangle. If BOC = 1220, 
+then the measure of A is: 
+ABC  esa B and C ds len~foHkktd f=Hkqt ds vanj fcanq O ij feyrs 
+gSA ;fn gSBOC = 1220] rks A dh eki D;k gS\ 
+(a) 640  
+(b) 620  
+(c) 720  
+(d) 680 
+ 
+22. In ABC, A = 66°. AB and AC are produced to 
+points D and E, respectively. If the bisectors of 
+CBD and BCE  meet at point O, then BOC 
+is equal to: 
+ABC esa] A = 66°  gSA AB vkSj AC dks Øe'k% fcUnwvksa D vkSj E 
+rd c<+k;k tkrk gSA ;fn CBD vkSj BCE ds lef}Hkktd] fcUnw O 
+ij feyrs gSa] rks BOC dh eki fdruh gS\ 
+(a) 
+123° 
+(b) 
+24° 
+(c) 
+57° 
+(d) 
+66° 
+23. The sides PQ and PR of 𝜟𝑷𝑸𝑹 are produced to 
+point S and T, respectively. The bisectors of 
+∠SQR and ∠TRQ meet at U. If ∠QUR=79°, then 
+the measure of ∠P is: 
+𝜟PQR की भुजा PQ और QR को त्र िंदु S और T िक  ढ़ाया जािा है। ∠SQR 
+और ∠TRQ के त्रिभाजक U पर त्रमलिे हैं। यत्रद ∠QUR = 79 ° है, िो ∠P का 
+माप है: 
+(a) 49°  
+(b) 41°  
+(c) 23°  
+(d) 22°  
+24. If angle bisectors of all of a quadrilateral will 
+form another quadrilateral, find the type of 
+newly farmed quadrilateral? 
+यदद चतुभुज िे सभी िोण समद्विभाजि एि और चतुभुज 
+ िाते हैं, तो ििनिममुत चतुभुज िा प्रिार ज्ञात िीजजए? 
+A) Rhombus 
+B) Parallelogram 
+C) Rectangle 
+D) Cyclic quadrilateral 
+25. In quadrilateral ABCD, C = 72⁰ and D = 28⁰. 
+The bisectors of A and B meet at O. What is 
+the measure of AOB? 
+,d prqHkqZt ABCD esa] C = 72° vkSj D = 28° gSA A vkSj 
+B ds f}Hkktd O ij feyrs gSaA AOB dh eki D;k gksxh\ 
+(a) 36⁰ 
+(b) 48⁰ 
+(c) 50⁰ 
+(d) 54⁰ 
+26. In a quadrilateral ABCD, the bisectors of ∠𝑪 and 
+∠𝑫 meet at E. If ∠𝑪𝑬𝑫= 𝟓𝟔° and ∠𝑨= 𝟒𝟗°, then 
+the measure of ∠𝑩is: 
+एक चिुभुज ABCD में, कोण C और कोण D के त्रिभाजक E पर त्रमलिे हैं। यत्रद  
+∠CED = 56° और  ∠A = 49° है, िो कोण B का माप है: 
+(a) 63°         (b) 67     (c) 54°    (d) 71°  
+27. In a quadrilateral ABCD, the bisectors of ∠A and 
+∠B meet at O and ∠AOB = x°. If ∠C exceeds ∠D 
+by 20°, then ∠D is equal to (in degrees): 
+,d prqHkqZt ABCD esa] A vkSj B ds lef)Hkktd O ij feyrs gSa] 
+vkSj AOB = x0 gSA ;fn C] D ls 200 vf/kd gks] rks D fdruk gksxk 
+¼va'kksa esa½\ 
+1. x-10  
+2. x-20  
+ 
+3. x+10  
+4. x+20 
+ 
+( ICAR Technician 2023) 
+28. An equilateral triangle BPC is drawn inside a 
+square ABCD what is the value of ∠𝑨𝑷𝑫 in 
+degrees? 
+एक िगग ABCD के अिंदर  , एक सम ाहु बत्रभुज BPC  नाया गया 
+है, ∠𝑨𝑷𝑫 का मान क्या होगा ? 
+a)90°         b)120°       c)135°         d)150° 
+ 
+29. An equilateral triangle ABE is drawn on the side 
+AB of a square ABCD. Equilateral triangle is 
+outside the square.  Line DE and diagonal AC 
+intersects each other at point O. Find ∠𝑪𝑶𝑫? 
+एक सम ाहु बत्रभुज ABE , एक िगग ABCD की भुजा AB  पर िगग के 
+ ाहर  नाया गया है, रेखा DE और विकणग AC एक दूसरे को ब िंदु O 
+पर प्रततच्छेद करते है।त ∠𝑪𝑶𝑫 का मान ज्ञात करे। 
+a)45°       b)60°         c)75°         d)90° 
+30. In the triangle DEF shown below, points A, B 
+and C are taken on DE, DF and EF respectively 
+such 
+that 
+EC=AC 
+and 
+CF=BC. 
+If 
+angle 
+∠D=40° then what is ∠ACB in degrees? 
+नीिे ददए गए बत्रभुज में, ब िंदु A,B और C क्रमशः भुजा DE,DF और 
+EF पर इस प्रकार मलए गए है कक EC=AC और CF=BC यदद कोण ∠D= 
+40° त  ∠ACB का मान ज्ञात करे। 
+ 
+a)140°          b)70°       c)100°          d)80° 
+ 
+ 
+ 
+ 
+Gagan Pratap Maths 
+ 
+31. In a ABC, points P, Q and R are taken on AB, 
+BC and CA, respectively, such that BQ = PQ and 
+QC = QR. If 
+ ∠BAC = 75, what is the measure of ∠PQR (in 
+degrees)? 
+ABC esa] fcUnw P, Q vkSj R Øe'k% AB, BC vkSj CA ij bl çdkj 
+fy, x, gSa fd BQ = PQ vkSj QC = QR gSA ;fn BAC = 75° gS] 
+rks PQR dk eki ¼fMxzh esa½ D;k gS\ 
+(a) 
+40 
+(b) 
+30 
+(c) 
+50 
+(d) 
+75 
+32. In triangle ABC, ∠𝑪 is an obtuse angle. The 
+bisector of the exterior angles at A and B meet 
+BC and AC produced at D and E respectively. If 
+AB=AD=BE, then ∠𝑨𝑪𝑩=? 
+बत्रभुज ABC में, ∠𝑪 अचिक कोण है। ∠A और ∠B के  ाह्य कोण 
+समद्विभाजक भुजा BC और AC को  ढाने पर क्रमशः ब िंदु D और 
+ब िंदु E पर ममलते है । यदद AB=AD=BE त ∠𝑨𝑪𝑩=? 
+a)120°            b)108°         c)105°          d)116° 
+33. In PQR, P = 120⁰, PS⊥QR at S and PQ + QS = 
+SR, then the measure of Q is: 
+PQR में, P = 120⁰, PS⊥QR और PQ + QS = SR, तो Q 
+का मान है : 
+(a) 40⁰                       (b) 20⁰ 
+(c) 30⁰                       (d) 50⁰ 
+34. In ∆𝑨𝑩𝑪, ∠𝑨= 𝟒𝟔°, ∠𝑩= 𝟓𝟖°, 
+ ∠𝑪= 𝟕𝟔°, then which option is true? 
+∆ABC में,∠A=46°,∠B=58°,∠C=76°, तो कौन सा विकल्प 
+सत्य है? 
+A) AB>AC>BC 
+B) AC>BC>AB 
+C) BC>AC>AB 
+D) CND 
+ 
+ 
+ 
+ 
+35. In a ΔPQR, ∠P:∠Q:∠R=3∶ 4∶ 8. The shortest side 
+and 
+the 
+longest 
+side 
+of 
+the 
+triangle, 
+respectively, are: 
+ΔPQR में, ∠P:∠Q:∠R=3∶ 4∶ 8 है। त्रिभुज की सबसे छोटी भुजा 
+औि सबसे बडी भुजा क्रमशः _______ है।  
+(a) QR and PR  
+(b) PQ and PR  
+(c) PQ and QR    
+(d) QR and PQ 
+(SSC CPO 2023) 
+36. If ABC is a triangle in which ∠B>∠C then which 
+one of the following is true? 
+यदद ABC एक बत्रभुज है जजसमे∠B>∠C त  इनमे से कौन सा किन 
+सही है। 
+a) a>b>c  
+b) c>a>b 
+c) b>a>c  
+d) b>c>a 
+37. Select the correct statement about the 
+properties of a triangle? 
+बत्रभुज के गुणों के  ारे में सही किन का ियन करें 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) The sum of two sides may be equal to the 
+third side 
+B) The sum of two sides is always equal to the 
+third side 
+C) The sum of two sides is always greater than 
+the third side. 
+D) The sum of two sides is always less than the 
+third side. 
+ 
+38. If the lengths of two sides of an isosceles 
+triangle are 6 cm and 12 cm, then find the 
+length of the third side. 
+यदद एक समद्वि ाहु बत्रभुज की दो भुजाओिं की लिं ाई 6 cm 
+और 12 cm है, तो तीसरी भुजा की लिं ाई ज्ञात कीजजए।  
+ SSC CGL 2024 Pre 
+[A]8 cm       [B]6 cm 
+[C]12 cm     [D]14 cm 
+39. The lengths of the three sides of a triangle are 
+19 cm, 25 cm and y cm. which of the 
+following options gives the possible value of 
+‘y’ more accurately? 
+एक बत्रभुज की तीन भुजाओिं की लिं ाई 19 सेमी, 25 सेमी 
+और y सेमी है। तनम्नमलखखत में से कौन सा विकल्प 'y' का 
+सिंभावित मान अचिक सटीक रूप से  ताता है? 
+A) 6≤𝒚≤𝟒𝟒 
+B) 𝟔< 𝒚≤𝟒𝟒 
+C) 𝟔≤𝒚≤𝟒𝟒 
+D) 6<y<44 
+ 
+ 
+ 
+ 
+Gagan Pratap Maths 
+40. The lengths of the two sides of a triangle are 14 
+cm and 9 cm. Which of the options below can 
+be the length of the third side? 
+,d f=Hkqt dh nks Hkqtkvksa dh yackbZ 14 cm vkSj 9 cm gSA uhps fn, 
+x, fodYiksa esa ls dkSu&lh fodYi rhljh Hkqtk dh yackbZ gks ldrk gS\ 
+(a) 24 cm 
+(b) 5 cm 
+ 
+(c) 17 cm 
+(d) 23 cm 
+41. A scalene triangle ABC has two sides whose 
+measures are 3.8 cm and 6 cm, respectively. 
+Which of the following CANNOT be the 
+measure (in cm) of its third side? 
+एक विषमकोण बत्रभुज ABC की दो भुजाएाँ हैं जजनकी माप 
+क्रमशः 3.8 सेमी और 6 सेमी हैं। तनम्नमलखखत में से कौन 
+सा इसकी तीसरी भुजा का माप (सेमी में) नहीिं हो सकता है? 
+SSC CPO 2024 
+A) 3.0 
+B) 2.7 
+C) 2.4 
+D) 2.2 
+42. Which is not correct group of sides of a 
+triangle? 
+बत्रभुज की भुजाओिं का सही समूह कौन सा नहीिं है? 
+A) 3, 5, 7 
+B) 10, 15, 22 
+C) 7, 8, 16 
+D) 2, 11, 12 
+43. If the sides of a triangle are 7, 12 and x, and x 
+is an integer, then find the number of possible 
+values of x. 
+यदद ककसी बत्रभुज की भुजाएाँ 7, 12 और x हैं, और x एक 
+पूणाांक है, तो x के सिंभावित मानों की सिंख्या ज्ञात कीजजए। 
+SSC CPO 2024 
+A) 14 
+B) 13 
+C) 15 
+D) 12 
+44. If the two sides of a triangle are 876cm and 
+678cm and the 3rd side is an integer then find 
+the number of different triangles possible? 
+यदद ककसी बत्रभुज की दो भुजाये 876 सेमी तिा 678 सेमी की है और 
+तीसरी भुजा एक पूणग सिंख्या है तो विमभन्न बत्रभुजों की सिंभावित 
+सिंख्या ज्ञात करे। 
+a)1356      b)1355     c)1554      d)1752 
+45. In a quadrilateral ABCD, AB = 6 cm, BC = 18 
+cm, CD = 6 cm and DA = 10 cm. if the 
+diagonal BD = x, then which one of the 
+following is correct? 
+ितुभुगज ABCD में, AB = 6 सेमी, BC = 18 सेमी, CD = 6 
+सेमी और DA = 10 सेमी है। यदद विकणग BD = x है, तो 
+तनम्नमलखखत में से कौन सा सही है? (CDS-1 2024) 
+A) 8<x<12 
+B) 12<x<16 
+C) 16<x<18 
+D) 18<x<20 
+46. Taking any three of the line segments out of 
+segments of length 2 cm, 5 cm, 7 cm and 8 cm, 
+the number of triangles that can be formed is:  
+2 cm, 5 cm, 7 cm और 8 cm लिं ाई िाले रेखाखिंडों में से ककन्हीिं 
+तीन रेखाखिंडों को लेने पर,  नने िाले बत्रभुजों की सिंख्या 
+________ होगी।     SSC CPO Pre 2024  
+[A]2 
+[B]4 
+ 
+[C]1 
+[D]3 
+47. x, y and z are the sides of a triangle. If z is the 
+largest side and x2 + y2  >z2, then the triangle 
+is a:  
+x, y rFkk z ,d f=Hkqt dh Hkqtk,¡ gSaA ;fn z lcls yach Hkqtk rFkk x2 + y2  >z2 
+gks] rks f=Hkqt ,d ____ gsS |  
+(a) Right angled triangle  
+(b) Acute angled triangle  
+(c) Obtuse angled triangle  
+(d) Isosceles right angled trignale  
+48. The sides of a triangle are in the ratio 4:5:6. 
+The triangle is- 
+एक बत्रभुज की भुजाएाँ 4:5:6 के अनुपात में है तो बत्रभुज है 
+a) Acute angled  
+b) Right angled  
+c) Obtuse- angled  
+d) Either acute angled or right angled 
+ 
+49. A triangle with side lengths 13.3, 19and 24.7 
+must be? 
+एक बत्रभुज जजसकी भुजाओिं की लिं ाई 13.3, 19 और 24.7 
+है, बत्रभुज  क्या होना िादहए? 
+A) Acute-angled 
+B) Obtuse-angled 
+C) Right-angled 
+D) None 
+50. Which of the following sets of lengths (in cm) 
+will give three sides of an obtuse-angled 
+triangle? 
+लंबाई के त्रिम्नत्रलखित  में से कौि सा सेट में (सेमी में) एक 
+अत्रिक कोण वाले त्रिभुज की तीि भुजाएँ 
+देगा? 
+a) 15, 62, 64 
+ 
+b) 17, 64, 66 
+ 
+c) 16, 63, 65 
+ 
+d) 18, 65, 67 
+51. If three altitudes of a triangle is in the ratio 
+3:4:5, then triangle is? 
+यदि एक दिभुज के तीन शीर्षलंब 3:4:5 के अनुपात में हैं, तो दिभुज है? 
+a) Acute angled  
+b) Right angled  
+c) Obtuse- angled   
+d) Equilateral triangle 
+52. The sides of a scalene acute triangle are 14,22 
+and x. x is an integer and 22 is the largest side 
+of triangle, what will be the avg of minimum 
+and maximum value of x? 
+ 
+ 
+Gagan Pratap Maths 
+एक न्यून कोण विषम ाहु बत्रभुज की भुजाये 14, 22 और x है। x एक 
+पूणागक है ज कक बत्रभुज की स से  ड़ी भुजा 22 है। x के न्युनतम 
+और महत्तम मान का औसत क्या होगा। 
+a)18              b)19              c)21             d)20.5 
+ 
+53. In an obtuse angled triangle, the length of side 
+opposite to obtuse angle is K cm, (K ϵ N) and 
+length of remaining two sides is 12 cm and 17 
+cm. How many such triangles are possible? 
+एक अचिक कोण बत्रभुज में अचिक कोण के सामने की भुजा K सेमी 
+है जहााँ और अन्य दो भुजा 12 सेमी और 17 सेमी है। ककतने बत्रभुज 
+सिंभि है। 
+a)7                 b)8              c)9                   d)10 
+ 
+54. Consider an obtuse–angled triangle with sides 
+8cm ,15 cm and x cm. if x is an integer, then 
+how many such triangles exist? 
+एक अचिक कोण बत्रभुज की भुजाओिं की लिं ाई  8सेमी , 15 सेमी तिा 
+x सेमी है।यदद x एक पूणागक है तो ऐसे ककतने बत्रभुज सिंभि हो सकता 
+है। 
+a)10            b)5        c)14              d)15 
+55. If a and b are the lengths of two sides of a 
+triangle such that the product ab = 24, where a 
+and b are integers, the how many such 
+triangles are possible? 
+;fn fdlh f=Hkqt dh nks Hkqtkvksa dh yackbZ a vkSj b bl izdkj gS fd 
+xq.kuQy ab = 24 gS] tgka a vkSj b iw.kkZad gSa] rks ,sls laHkkfor f=Hkqtksa dh 
+la[;k Kkr djsaA 
+(a) 
+15 
+(b) 
+12 
+(c) 
+18 
+(d) 
+16 
+56. If x2-1, 2x and x2+1 are the three sides of a 
+right angled triangle, then which of the 
+following can be its hypotenuse? 
+यदद x2-1, 2x और x2+1 एक समकोण बत्रभुज की तीन 
+भुजाएाँ हैं, तो तनम्नमलखखत में से कौन सा इसका कणग हो 
+सकता है? 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) x2+1 
+B) 2x 
+C) x2-1 
+D) x2 
+ 
+ 
+ 
+ 
+ 
+ 
+57. A triangle is NOT said to be a right-angled 
+triangle, if its sides measure:  
+उस बत्रभुज को समकोण बत्रभुज कहीिं कहा जा सकता है, 
+जजसकी भुजाओिं की माप ______ हो? 
+(a) 5 cm, 12 cm and 13 cm 
+ 
+ 
+(b) 5 cm, 7 cm and 9 cm 
+(c) 6 cm, 8 cm and 10 cm  
+ 
+(d) 8 cm, 15 cm and 17 cm 
+ 
+58. In a ∆ABC, 2∠ABC = 9∠ACB and 2∠BAC = 
+7∠ACB. If AB = 7 cm, AC = 25 cm, then the 
+length of BC is: 
+एि ∆ABC में, 2∠ABC = 9∠ACB और 2∠BAC = 7∠ACB है। 
+यदद AB =  7सेमी, AC = 25 सेमी है, तो BC िी लं ाई है: 
+(a) 22cm 
+ 
+(b) 21 cm 
+ 
+ 
+(c) 24 cm 
+ 
+(d) 27 cm 
+ 
+59. If a triangle has a perimeter of 52 units, then 
+all its sides have length _______ units. 
+यदद ककसी बत्रभुज का पररमाप 52 इकाई है, तो उसकी सभी 
+भुजाओिं की लिं ाई ________ इकाई होगी।  
+SSC CGL 2024 Pre 
+[A]<26 
+    [B]<20 
+[C]<24  
+    [D]<18 
+ 

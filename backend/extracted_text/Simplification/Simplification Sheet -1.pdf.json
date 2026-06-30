@@ -1,0 +1,46 @@
+[
+  {
+    "number": 25,
+    "question_text": "Find the square of these numbers? इन संख्याओं का वगग ज्ञात कीभिये? a) 89 b) 114 c) 163 d) 197 e) 291 f) 374 g) 413 h) 837 i) 926 j) 1116",
+    "option_a": "89",
+    "option_b": "114",
+    "option_c": "163",
+    "option_d": "197 e) 291 f) 374 g) 413 h) 837 i) 926 j) 1116",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 51,
+    "question_text": "If  47.2506 = 4A + 7 𝐵 + 2C + 5 𝐷 + 6E then 5A + 3B + 6C + D + 3E = ?",
+    "option_a": "53.6003",
+    "option_b": "53.6012",
+    "option_c": "153.6003",
+    "option_d": "213.003",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 73,
+    "question_text": "𝑇ℎ𝑒 𝑣𝑎𝑙𝑢𝑒 𝑜𝑓 48.3×{4.952+4.95×13.25} [(12.55)2−(5.65)2]×19.8  𝑖𝑠: 48.3×{4.952+4.95×13.25} [(12.55)2−(5.65)2]×19.8  का मान क्या है? (a) 17.5 (b) 0.175 (c) 1.75 (d) 175",
+    "option_a": "17.5",
+    "option_b": "0.175",
+    "option_c": "1.75",
+    "option_d": "175",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 85,
+    "question_text": "If a = 0.4039 then √4𝑎2 −4𝑎+ 1 + 5a = ?",
+    "option_a": "2.2117",
+    "option_b": "2 = 4ab",
+    "option_c": "2.8078",
+    "option_d": "1.8273 (a +",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

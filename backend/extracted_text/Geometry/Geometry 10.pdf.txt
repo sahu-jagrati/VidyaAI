@@ -1,0 +1,471 @@
+ 
+ 
+                                      
+    BY Gagan Pratap 
+Equilateral Triangle 
+1. If the circum radius of an equilateral triangle is 
+18 cm, then the measure of its in-radius is: 
+,d leckgq f=Hkqt dh ifjf=T;k 18 lseh- gS] rks bldh var%f=T;k dh eki--
+--------------- gSA 
+(a) 
+9 cm 
+(b) 
+3 cm 
+(c) 
+10 cm 
+(d) 
+12 cm 
+2. Radius of incircle of an equilateral triangle is 
+𝟗√𝟑. What will be the perimeter of this 
+equilateral triangle? 
+,d leckgq f=Hkqt ds var%o`Ùk dh f=T;k 𝟗√𝟑 gSA bl leckgq f=Hkqt dk 
+ifjeki D;k gksxk\ 
+(a) 
+81 cm 
+(b) 
+162 cm 
+(c) 
+108 cm 
+(d) 
+54 cm 
+ 
+ 
+ 
+ 
+ SSC CHSL TIER – I 2022 
+3. From a circle of radius r units, the largest 
+equilateral triangle is cut out. What is the 
+length (in units) of the side of the triangle? 
+ 
+r इकाई त्रिज्या वाले एक वृत्त से, सबसे बडा समबाहु त्रिभुज काटा 
+जाता है। त्रिभुज की भुजा की लंबाई (इकाइयों में) क्या है?         
+SSC CHSL Pre 2024  
+ 
+[A]  
+√𝟐𝒓  
+[B]
+𝒓
+√𝟑 
+ 
+[C]  
+√𝟑𝒓   
+[D]  
+𝒓
+√𝟐 
+4. A triangle ABC is and AD ⊥ BC, where D lies on 
+BC. If AD = 16√3 cm, then what is the perimeter 
+of a triangle of ABC? 
+∆ ABC एक समबाहु त्रिभुज है और AD ⊥ BC है, जहां त्रबन् दु 
+D, BC पर स्थित है। यदद AD=16√𝟑 𝒄𝒎 है, तो ∆ABC का 
+पररमाप (cm में) क् या है?  
+a) 96                
+ 
+b) 64               
+ 
+ 
+c) 90                 
+ 
+d) 90 
+5. The height of an equilateral triangle is 18 cm. 
+Its area is  
+,d leckgq f=Hkqt dh Å¡pkbZ 18 lseh- gSA mldk {ks=Qy D;k gksxk\ 
+(a) 36 √𝟑 sq. m/36 √𝟑 oxZ lseh- 
+(b) 108 √𝟑 sq. m/108 √𝟑 oxZ lseh- 
+(c) 108 sq. m/108 oxZ lseh- 
+(d) 96 √𝟑 sq. m/96 √𝟑 oxZ lseh- 
+ 
+6. If the area of an equilateral triangle is 81√3 
+sq.cm, then the perimeter of the triangle is: 
+यदद एक समबाहु त्रिभुज का क्षेिफल 81√3 वर्ग सेमी है, तो 
+त्रिभुज की पररधि है: 
+a) 54cm  
+b) 36√3 cm 
+ 
+ 
+c) 54√3 cm 
+ 
+d) 36cm 
+ 
+7. If l is the length of the median of an equilateral 
+triangle, then what is its area? 
+;fn fdlh leckgq f=Hkqt dh ekfè;dk ¼ehfM;u½ dh yackbZ l gS] rks bldk 
+{ks=Qy D;k gS\ 
+(a) 
+√𝟑𝒍𝟐
+𝟑  
+ 
+(b) 
+√𝟑𝒍𝟐
+𝟐  
+ 
+(c) √𝟑l2 
+ 
+(d) 2l2 
+8. The difference between the area of the 
+circumscribed circle and the area of the 
+inscribed circle of an equilateral triangle is 
+2156sq cm. What is the area in sq. cm of the 
+equilateral triangle? 
+समबाहु त्रिभुज के पररवृत्त और अन्तःवृत के क्षेिफल का अंतर  
+2156sq cm. है।समबाहु त्रिभुज का क्षेिफल ज्ञात करे? 
+a)686√3       b)1000    c)961√3     d)650√3 
+9. The length of a side of an equilateral triangle is 
+18 cm. The area (in cm2) of the region lying 
+between the circumcircle and the incircle of 
+the triangle is [𝒖𝒔𝒆 𝝅=
+𝟐𝟐
+𝟕]   
+ 
+एक समबाहु त्रिभुज की एक भुजा की लंबाई 18 cm है। त्रिभुज 
+के पररवृत्त और अंतःवृत्त के बीच स्थित क्षेि का क्षेिफल (cm2 
+में ) ककतना है?  [𝝅=
+𝟐𝟐
+𝟕 का उपयोर् कीस्जए]   
+ 
+ 
+SSC CPO Pre 2024  
+ 
+[A]254
+𝟑
+𝟕 
+         [B]254
+𝟏
+𝟕 
+ 
+ 
+[C]254
+𝟐
+𝟕 
+        [D]254
+𝟒
+𝟕 
+ 
+10. Find the radius r? 
+त्रिज्या r ज्ञात कीजिए ? 
+ 
+A) 
+𝟏
+√𝟑  
+B) 
+√𝟑 
+𝟐 
+C) 1/3 
+D) 
+𝟐
+√𝟑  
+ 
+ 
+ 
+                                      
+    BY Gagan Pratap 
+11. ∆ABC is an equilateral triangle in which 
+BD:DC=3:5 then AD/AC=? 
+∆ABC एक समबाहु त्रिभुज है जहां BD:DC=3:5 तब AD/AC ज्ञात 
+करें? 
+ 
+a)7:8 
+ 
+b)3:4 
+      
+c)5:6 
+  
+ d)15:16 
+12. ∆ABC  is an equilateral triangle . D divides BC 
+in the ratio 2 : 3 .Then find the value of 
+25A𝑫𝟐. 
+ABC  एक समबाहु त्रिभुि है D  भुिा BC  को 2  : 3  में विभाजित 
+करता है।  तो   25A𝑫𝟐 का मान है ?  
+ (SSC CGL MAINS 2014) 
+A)31D𝑩𝟐                B) 35D𝑪𝟐             
+C) 19A𝑩𝟐             D) 21A𝑩𝟐 
+13. ABC is an equilateral triangle with side 18 cm. 
+D is a point on BC such that BD = 
+𝟏
+𝟑 BC. Then 
+length (in cm) of AD is: 
+ABC, leckgq f=Hkqt gS ftldh Hkqtk 18 cm gSA ;fn BC ij fcUnq D 
+bl çdkj gS fd BD = 
+𝟏
+𝟑 BC, rks AD dh yackbZ ¼lseh- esa½ Kkr djsa ?  
+(SSC CGL PRE 2022) 
+ 
+(a) 
+6√𝟑 
+(b) 
+6√𝟕 
+(c) 
+7√𝟔 
+(d) 
+8√𝟑 
+14. An equilateral triangle of area 300cm2 is cut 
+form its three vertices to form a regular 
+hexagon. Area of hexagon is what % of the area 
+of triangle? 
+एक समबाहु त्रिभुज स्जसका क्षेिफल 300cm2 है इसके तीनों शीर्षों 
+को काटकर एक सम र्षट्भुज बनाया बनाया जाता है। सम र्षट्भुज 
+का क्षेिफल त्रिभुज के क्षेिफल का ककतना % है ? 
+a)66.66%  
+ b)33.33%   
+c)83.33%    
+d)56.41% 
+ 
+ 
+ 
+ 
+15. In the fig. given below, ABC is an equilateral 
+triangle with each side of length 30cm. XY is 
+parallel to BC, XP || AC and YQ||AB. If 
+XY+XP+YQ = 40cm, then the value of PQ is 
+ददए र्ए धचि में, ABC एक समबाहु त्रिभुज है स्जसकी प्रत्येक भुजा 
+30cm है। XY BC के समानांतर है, XP||AC और YQ||AB है। यदद 
+XY + XP + YQ = 40cm है, तो PQ का मान होर्ा- 
+ 
+a)5cm 
+b)12cm      c)15cm 
+ d)10cm 
+16. In the given equilateral ∆ABC,  
+radius of each smaller circle is 5cm, find the 
+perimeter of ∆ABC? 
+ददए र्ए समबाहु त्रिभुज ABC में, प्रत्येक छोटे वृत्त का त्रिज्या 
+5 cm है ∆ABC का पररमाप ज्ञात करें? 
+ 
+(a) 30(3+√3) 
+  
+  (b) 30(2+√3)        
+(c) 15(5+2√3)    
+   (d) 20(4+3√3) 
+17. Two circles are placed in a equilateral triangle. 
+What is the ratio of the area of the smaller 
+circle to that of the equilateral triangle? 
+ददए र्ए धचि में, दो वृत्त एक समबाहु त्रिभुज में अंतहथपशी बनाये 
+र्ए है। छोटे वृत्त और समबाहु त्रिभुज के क्षेिफलों का अनुपात ज्ञात 
+करे। 
+ 
+ 
+a)π:36√3    b)π:18√3   c)π:27√3   d)π:42√3 
+ 
+ 
+                                      
+    BY Gagan Pratap 
+18. Given an equilateral triangle T1 with side 
+24cm, a second triangle T2 is formed by joining 
+the midpoints of the sides of T1.Then  a third 
+triangle T3 is formed by joining the midpoints 
+of the sides of T2. If this process of forming 
+triangles is continued, the sum of the areas, in 
+sq cm, of infinitely many such triangles T1, T2, 
+T3……..will be? 
+एक समबाहु त्रिभुज की भुजा 24  है।एक अन्य त्रिभुज T2 , T1 के 
+भुजाओ के मध्य त्रबन्दुओ को ममलाकर बनाया र्या है।तीसरा त्रिभुज 
+T3, T2 के भुजाओं के मध्य त्रबन्दुओ को ममलाकर बनाया र्या 
+है।यही 
+प्रकिया 
+अनंत 
+तक 
+दोहराई 
+जाती 
+है।स्जससे 
+T1,T2,T3,T4.......प्राप्त होते है।तब इन सभी त्रिभुजों के क्षेिफल का 
+योर्फल क्या होर्ा? 
+a)192√3                      b)216√3     
+c)168√3   
+    d)196√3  
+19. In the given figure, if the triangle is equilateral 
+with side length ‘a’ then find the area of the 
+shaded region? 
+दी र्ई आकृतत में, यदद त्रिभुज 'a' भुजा की लंबाई वाला 
+समबाहु है, तो छायांककत क्षेि का क्षेिफल ज्ञात कीस्जए? 
+ 
+A) 𝝅𝒂𝟐/16                          C) 𝝅𝒂𝟐/12 
+B) 𝝅𝒂𝟐/36                          D) 𝝅𝒂𝟐/24 
+20. An equilateral triangle ABC is inscribed in a 
+circle as shown in figure. A square of largest 
+possible area is made inside this triangle as 
+shown. Another circle made inscribing the 
+square. What is the ratio of area of  smaller 
+circle and the larger circle? 
+एक समबाहु त्रिभुज ABC को एक वृत्त में अंककत ककया 
+र्या है जैसा कक धचि में ददखाया र्या है। ददखाए र्ए 
+अनुसार इस त्रिभुज के अंदर सबसे बडा संभव क्षेि का एक 
+वर्ग बनाया र्या है। एक और अन्य वृत्त वर्ग के अंदर बनाया 
+र्या है । छोटे वृत्त और बडे वृत्त के क्षेिफलों का अनुपात 
+क्या है? 
+ 
+   a) (𝟏𝟓−𝟏𝟐√𝟑): 𝟏           𝒃)(𝟔𝟑−𝟑𝟔√𝟑): 𝟒 
+    c)(𝟕−𝟒√𝟑): 𝟐                  𝒅)(𝟒−𝟐√𝟑): 𝟑 
+Isosceles Triangle 
+21. The perimeter of an isosceles triangle is 125 
+cm. If the base is 33 cm, find the length of the 
+equal sides. 
+समद्वीबाहु त्रिभुज का परिमाप 125 cm है। यत्रि आधाि 33 cm 
+है तो समान भुजाओं की लंबाई ज्ञात किें।  
+(a) 32 cm                      (b) 46 cm 
+ 
+ 
+(c) 34 cm                      (d) 42 cm 
+22. ABC is an isosceles triangle such that AB = AC 
+and AD is the median to the base BC with ABC 
+= 35°. Then BAD is  
+ 
+ (MAINS 
+2014) 
+ABC ,d ,slk lef}Hkqt f=Hkqt gS fd AB = AC vkSj AD ABC 
+= 35° okys vkèkkj BC dh ekfè;dk gS rks BAD D;k gksxk\ 
+(a) 35°  
+(b) 55°  
+(c) 70°  
+(d) 110° 
+ 
+23. An isosceles 
+MNP is inscribed in a circle. If 
+MN = MP = 16√𝟓 cm, and NP = 32 cm, what is 
+the radius (in cm) of the circle? 
+,d lef}ckgq MNP ,d o`Ùk esa cuk gSA ;fn MN = MP = 16√𝟓𝒄𝒎  
+vkSj NP = 32 cm gS] rks o`Ùk dh f=T;k dh yackbZ ¼lseh- eas½ fdruh gS\ 
+(a)20 
+ (b)30 
+(c)40 
+ (d)25 
+ 
+ SSC CHSL TIER – I 2022 
+24. ∆ABC is an isosceles traingles with AB = AC = 
+13 cm, AD is the median on BC from A such 
+that AD = 12 cm. the length of BC is equal to: 
+∆ABC एक समद्ववबाहु त्रिभुज है स्जसमे AB = AC = 13 
+सेमी है। AD, A से BC पर इस प्रकार खींची र्ई मस्ध्यका 
+है कक AD =12 सेमी है। BC की लंबाई है? 
+(a) 5 cm  
+ 
+(b) 7.5 cm 
+ 
+ 
+(c) 10 cm 
+ 
+(d) 6 cm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                      
+    BY Gagan Pratap 
+25. The length of each of the two equal sides of an 
+isosceles triangle is 89 cm each and the length 
+of its base is 78 cm. The area (in cm2) of the 
+triangle is: 
+ 
+एक समद्ववबाहु त्रिभुज की दो समान भुजाओं में से प्रत्येक 
+की लंबाई 89 cm है और इसके आिार की लंबाई 78 cm है। 
+त्रिभुज का क्षेिफल (cm2 में) ज्ञात कीस्जए। 
+ 
+[RRB JE 2024] 
+ 
+A) 
+3120 
+ 
+B) 
+3134 
+ 
+C) 
+3102 
+ 
+D) 
+3139 
+26. In a triangle ABC, AB = AC and the perimeter of 
+ΔABC is 12(2+√𝟐)cm. If the length of BC is  √𝟐 
+times the length of AB, then find the area of 
+ΔABC.  
+त्रिभुज ABC में, AB = AC और ∆ABC का पररमाप 12(2+√𝟐) cm है। 
+यत्रि BC की लंबाई भुजा AB की लंबाई की √𝟐 गुनी है तो ∆ABC का क्षेिफल 
+ज्ञात कीत्रजए। 
+(a) 108 cm2 
+ 
+(b) 36 cm2 
+ 
+ 
+(c) 72 cm2 
+ 
+(d) 48 cm2 
+ 
+27. The area of an isosceles right-angled triangle is 
+125 𝒄𝒎𝟐. Find its hypotenuse. 
+एक समत्रद्वबाहु समकोण त्रिभुज का क्षेिफल 125 cm2 है। 
+इसके कणण की लंबाई ज्ञात किें।  
+(a) 5√𝟏𝟎 cm 
+ 
+(b) 10√𝟓 cm 
+ 
+ 
+(c) 15 cm  
+ 
+(d) 𝟐𝟎√𝟐 cm 
+ 
+28. If the perimeter of an isosceles right triangle is 
+𝟏𝟓(√𝟐+ 𝟏) cm, then the area of the triangle will 
+be: 
+;fn ,d len~fockgq ledks.k f=Hkqt dk ifjeki 𝟏𝟓(√𝟐+ 𝟏) cm gS] rks 
+f=Hkqt dk {ks=Qy gksxkA 
+(a) 
+46.5 cm2 
+(b) 
+45 cm2 
+(c) 
+56.25 cm2 
+(d) 
+55 cm2 
+29. The perimeter of an isosceles right-angled 
+triangle having an area of 200 cm2 is: 
+त्रकसी समत्रद्वबाहु समकोण त्रिभुज का परिमाप _______ होगा, 
+त्रजसका क्षेिफल 200 सेमी2 है: 
+1. 68.3 cm 
+2.78.2cm 
+3. 70.6 cm 
+4. 58.6 cm 
+ 
+(SSC SELECTION POST XI 2023). 
+ 
+ 
+ 
+  
+30. D and E are two points on the sides AC and BC 
+respectively of ΔABC such that DE=18cm, 
+CE=5cm and ∠DEC=90⁰. If tan∠ABC=3.6 then 
+AC:CD=? 
+ΔABC की भुजाओं AC तिा  BC पर दो त्रबंदु D तिा E इस प्रकार है 
+की DE=18cm, CE=5 तिा ∠DEC=90⁰ हो |यदद tan∠ABC=3.6 है 
+तब AC:CD=? 
+a)BC:2CE   
+    b) 2CE:BC     
+c) 2BC:CE                   d)CE:2BC 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

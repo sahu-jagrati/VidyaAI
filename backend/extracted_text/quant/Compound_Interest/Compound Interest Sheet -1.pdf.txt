@@ -1,0 +1,791 @@
+ 
+                                                 BY Gagan Pratap 
+ 
+1. If T denotes the sum of money, M denotes the 
+number of years, P denotes the rate of interest, 
+then the compound interest is given by: 
+यदि T धन की राशि को ििााता है, M वर्षों की संख्या को 
+ििााता है, P ब्याज की िर को ििााता है, तो चक्रवृद्धध ब्याज 
+इस प्रकार दिया जाता है:  
+(SSC GD 2021) 
+A) 𝑻(𝟏+
+𝑷
+𝟏𝟎𝟎)𝑴−𝑻 
+B) 𝑴(𝟏+
+𝑴
+𝟏𝟎𝟎)𝑷 
+C) 𝑻(𝟏+
+𝑷
+𝟏𝟎𝟎)
+𝑴
+ 
+D) 𝑴(𝟏+
+𝑻
+𝟏𝟎𝟎)𝑷−𝑻 
+2. A certain sum of money becomes 2.25 times of 
+itself in 2 years. Then find the rate of interest 
+if compounded annually. 
+एक ननश्चचत धनराशि 2 वर्षों में अपने का 2.25 गुना हो जाती 
+है| यदि चक्रवृद्धध ब्याज वार्र्षाक संयोश्जत हो, तो ब्याज िर 
+ज्ञात करें? 
+a) 25% 
+b) 50% 
+ 
+c) 15% 
+d) 75% 
+3. What is the rate of compound interest if a sum 
+becomes 1331/729 times of itself in 3 years? 
+यदि कोई राशि 3 वर्षों में स्वयं की 1331/729 गुना हो 
+जाती है तो चक्रवृद्धध ब्याज की िर क्या है? 
+(DP CONSTABLE 2023) 
+A) 22
+𝟐
+𝟗% 
+B) 33
+𝟏
+𝟗% 
+C) 21
+𝟕
+𝟗% 
+D) 11
+𝟕
+𝟗% 
+4. A certain sum of money becomes 625/256 
+times of itself in 1 years. Then find the rate of 
+interest per annum if interest is compounded 
+quarterly. 
+एक ननश्चचत धनराशि 1 वर्षा में अपने का 625/256 गुना हो 
+जाती है| यदि चक्रवृद्धध ब्याज नतमाही संयोश्जत हो, तो वार्र्षाक 
+ब्याज िर ज्ञात करें? 
+a) 25%   b) 66.66% 
+c) 80%    d) 100% 
+ 
+5. If the amount on a certain principal in 3 years 
+at 12 % rate of interest compounded annually 
+is Rs. 12,000, what will be the amount (in Rs.) 
+after the 4th year? 
+यदि ककसी मूलधन 3 वर्षो के शलए 12% की िर से बढ़कर 
+12,000 रुपये है, तो चौथे वर्षा के बाि राशि (रु में) क् या होगी? 
+(a) 13440 
+ 
+(b) 14440 
+ 
+(c) 15440  
+ 
+(d) 12440 
+6. If the amount received at the end of 2nd and 3rd 
+year at compound interest on a certain 
+Principal 
+is 
+Rs. 
+9,600 
+and 
+Rs. 
+10,272 
+respectively, what is the rate of interest (in %)? 
+ 
+यदि ककसी मूलधन पर िूसरे और तीसरे वर्षा में शमलने वाले 
+शमश्रधन, चक्रवृद्धध ब्याज की िर से क्रमिः 9,600 रूपये 
+और 10,272 रूपये है तो ब्याज की िर (% में) क्या होगी? 
+(a) 7 
+                              (b)8 
+ 
+                (c) 6 
+                              (d)5 
+7. When the interest is calculated on an annual 
+compounding basis, an amount becomes ₹ 
+7,562 in 4 years and ₹ 8,469.44 in 5 years at a 
+fixed annual interest rate. Find the rate of 
+interest. 
+जब ब्याज की गणना वार्षिक चक्रवृद्धि आधार पर होती है, तो 
+कोई रार्ि र्कसी र्नश्चत वार्षिक ब्याज दर पर 4 वषि में ₹ 7,562 
+और 5 वषि में ₹ 8,469.44 हो जाती है। ब्याज दर ज्ञात करें। 
+(a) 15% 
+ 
+(b) 12% 
+ 
+ 
+(c) 20% 
+ 
+(d) 8% 
+8. Rahul earns an interest of Rs 2996 for the third 
+year and Rs 1400 for the second year on the 
+same sum. Find the rate of interest per annum 
+if it is lent at compound interest (compounding 
+annually)? 
+राहुल को उसी राशि पर तीसरे वर्षा में 2996 रुपये और िूसरे 
+वर्षा में 1400 रुपये का ब्याज शमलता है। यदि चक्रवृद्धध 
+ब्याज (वार्र्षाक चक्रवृद्धध) पर उधार दिया गया है तो ब्याज 
+की वार्र्षाक िर ज्ञात करें? SSC GD 2024 
+A) 114% 
+B) 112% 
+C) 110% 
+D) 113% 
+9. At what rate% per annum will Rs.4704 
+amounts to Rs.5766 in two years compunded 
+annually. 
+4704 रू का धन 2 वर्षा में 5766 हो जाता है| चक्रवृद्धध ब्याज 
+की िर ज्ञात करें? 
+a) 8
+𝟒
+𝟕%  
+b) 11
+𝟑
+𝟕% 
+c) 12
+𝟏
+𝟕%  
+d) 10
+𝟓
+𝟕% 
+10. At what rate per cent per annum will a sum of 
+Rs 15,625 amount to Rs 21,952 in three years, 
+if the interest is compounded annually? 
+15,625 रुपये की धनराशि, वाशषिक रूप से चक्रवृद्धि शकये 
+जाने वाले शकतने प्रशतित ब्याज दर पर 3 वषों में 21,952 
+रुपये हो जाएगी? 
+(a) 12% 
+ 
+ (b) 8% 
+(c) 9%  
+ 
+(d) 10% 
+ 
+11. If a certain sum of money of Rs.345600 
+amounts to Rs.439400 in 3 years. Find the rate 
+of compound interest? 
+ 
+                                                 BY Gagan Pratap 
+345600 रू का धन 3 वर्षा में 439400 रू हो जाता है| चक्रवृद्धध 
+ब्याज की िर ज्ञात करें? 
+a) 6
+𝟐
+𝟑%   b) 8
+𝟏
+𝟑%     c) 12
+𝟏
+𝟐% 
+    d) 7
+𝟗
+𝟏𝟑% 
+12. A certain sum of money becomes Rs.54000 in 
+4 years and it becomes Rs.59582 in 7 years. 
+Find the rate of interest, if compounded 
+annually. 
+एक ननश्चचत धनराशि 4 वर्षों में 54000 हो जाती है और 7 
+वर्षों में 59582  रू हो जाती है| यदि चक्रवृद्धध ब्याज वार्र्षाक 
+संयोश्जत हो, तो ब्याज िर ज्ञात ककश्जए? 
+a) 5%  
+ 
+b) 3% 
+c) 3
+𝟏
+𝟑%  
+ 
+d) 6
+𝟐
+𝟑% 
+13. At 
+what 
+rate 
+of 
+interest 
+per 
+annum 
+compounded annually, will an amount of 
+₹8,000 yield a compound interest of ₹904.2 in 
+2 years? 
+okf"kZd :i ls la;ksftr fdl okf"kZd C;kt nj ij] #i;s 8]000 dh /kujkf'k 
+ij 2 o"kksZa esa #i;s 904-2 dk pØo`f) C;kt izkIr gksxk\ 
+ (SSC MTS 2023) 
+(a) 6% 
+(b) 8% 
+ 
+(c) 10% 
+(d) 5.5% 
+14. A sum of money lent on interest, compounded semi-
+annually amounts to `54,000 in one year and to `65,340 in 
+two years. What is the rate of interest per annum? 
+C;kt ij m/kkj nh xbZ ,d /kujkf'k] C;kt v)Z&okf"kZd :i ls la;ksftr gksrk 
+gS] ,d o"kZ esa `54,000 vkSj nks o"kksZa esa `65,340 gks tkrh gSA okf"kZd C;kt 
+nj Kkr djsaA 
+(a) 
+20% 
+(b) 
+10% 
+(c) 
+16% 
+(d) 
+12% 
+15. Find the rate percent per annum if Rs.2,000 
+amounts in Rs.2315.25 in one and half years 
+interest being compounded half-yearly. 
+वार्र्षाक ब्याज की िर ज्ञात करें यदि 2000 रू 1
+𝟏
+𝟐वर्षा में 
+2315.25 रू हो जाता है और ब्याज अधावार्र्षाक ब्याज के रूप 
+में संयोश्जत होता है| 
+a) 10%  
+b) 11.5% 
+c) 5% 
+     d) 20% 
+16. The compound interest (compounding half 
+yearly) received on Rs 10000 for 1.5 years is Rs 
+3676.31. what is the rate of interest per 
+annum? 
+1.5 वर्षा के शलए 10000 रुपये पर प्राप्त चक्रवृद्धध ब्याज 
+(अधावार्र्षाक चक्रवृद्धध) 3676.31 रुपये है। प्रनत वर्षा ब्याज 
+िर क्या है? SSC GD 2024 
+A) 28% 
+B) 22% 
+C) 25% 
+D) 14% 
+17. The compound interest (compounding half 
+yearly) received on Rs 24000 for 2 years is Rs 
+25766.4. What is the rate of interest per 
+annum? 
+24000 रुपये पर 2 साल के शलए प्राप्त चक्रवृद्धध ब्याज 
+(अधावार्र्षाक चक्रवृद्धध) 25766.4 रुपये है। प्रनत वर्षा ब्याज 
+िर क्या है? 
+A) 60% 
+B) 20% 
+C) 55% 
+D) 40% 
+18. At what rate per annum will Rs.48000 yield a 
+compound interest of Rs.7566 in 9 months, 
+compounded quarterely. 
+यदि ब्याज नतमाही संयोश्जत हो, तो 48000 रू की धनराशि 
+पर ककस ब्याज िर से, 9 माह में 7566 रू का चक्रवृद्धध ब्याज 
+प्राप्त होगा  
+a) 5%  
+b) 16%  
+ 
+c) 20%  
+d) 15% 
+19. The ratio of two amounts is 16:25. If they are 
+lent out at compound interest for 7 years and 
+5 year respectively, then the equal amount is 
+received. Find the rate of interest per annum. 
+िो धनराशियों का अनुपात 16:25 है। यदि वे चक्रवृद्धध ब्याज 
+की िर से क्रमि:7वर्षा और 5 वर्षा के शलये उधार दिए जाते है तो 
+बराबर धनराशि प्राप्त होती है  तो वार्र्षाक ब्याज की िर ज्ञात 
+करें?  
+(a) 15%             
+(b) 40%              
+ 
+(c) 25%               
+(d) 20%  
+20. If at compound interest a certain sum become 
+2 time of itself in 5 years, then in how many 
+years it will become 8 time of itself? 
+;fn pØo`f) C;kt ij ,d fuf”pr /kujkf”k 5 o’kksaZ esa Lo;a dh 2 xquh gks 
+tkrh gS] rks fdrus o’kksZa esa og Lo;a dh 8 xquh gks tk,xh\ 
+(a) 15o’kZ 
+  
+(b) 18o’kZ 
+ 
+ 
+(c) 12 o’kZ   
+(d) 20 o’kZ 
+21. The amount doubles itself under Compound 
+interest in 15 years. In how many years will it 
+become 512 times of it? 
+15 वर्षों में चक्रवृद्धध ब्याज के तहत राशि अपने आप की 
+िोगुनी हो जाती है । ककतने वर्षों में यह अपने आप की 512 
+गुनी हो जाएगी ?     (UP POLICE SI 2021) 
+(A) 145        (B) 135 
+(C) 125        (D) 155 
+22. If a sum on compound interest (compounded yearly) 
+becomes three times in 4 years, then with the same interest 
+rate, the sum will become 81 times in: 
+;fn dksbZ jkf'k pØo`f) C;kt ¼okf"kZd :i ls pØo`f) gksus okys½ ij 4 o"kksZa 
+eas rhu xquh gks tkrh gS] rks leku C;kt nj ij og jkf'k fdrus le; eas 81 
+xquk gks tk,xh\ 
+ 
+                                                 BY Gagan Pratap 
+(a) 
+12 years/o"kZ 
+(b) 
+18 years/o"kZ 
+(c) 
+15 years/o"kZ 
+(d) 
+16 years/o"kZ 
+23. A sum of money becomes 13.824 times of itself 
+in 30 years then in how many years it was 2.4 
+times of itself? 
+कोई धन 30 वर्षों में चक्रवृद्धध ब्याज की िर से अपने का 
+13.824  गुना हो जाता है| तो ककतने वर्षों में, यह धन अपने 
+का 2.4  गुना हो जाएगा? 
+(a) 15 years 
+ 
+(b) 10 years 
+ 
+(c) 20 years 
+ 
+(d) 5 years 
+24. If a certain sum of money becomes equal to 64 
+times of itself in 27 years. In how much time it 
+will become 512 times of itself? 
+अगर कोई धन 27 वर्षा में चक्रवृद्धध ब्याज की िर से अपने 
+का 64 गुना हो जाता है तो ककतने समय में वह 512 गुना 
+होगा? 
+a) 45 years 
+ 
+b) 42.5 years 
+c) 36years 
+ 
+d) 40.5 years 
+25. A certain amount invested at a certain rate, 
+compounded annually grows to an amount in 
+seven years, which is 1.3225 times to what it 
+would have grown in five years. What is rate 
+percentage? 
+एक ननश्चचत िर पर ननवेि की गई एक ननश्चचत राशि, 
+सालाना चक्रवृद्धध के साथ सात वर्षों में बढ़कर एक राशि हो 
+जाती है, जो पांच वर्षों में बढ़ी हुई राशि का 1.3225 गुना 
+है। िर प्रनतित क्या है? 
+A) 15% 
+B) 13% 
+C) 12% 
+D) 11% 
+26. A sum of Rs.12,000.00 deposited at compound 
+interest becomes double at the end of 5 years. At the 
+end of 15 years the sum will be :  
+चक्रवृद्धि ब्याज पर जमा की गई 12,000.00 रुपये की रार्ि 5 
+वषों के अंत में दोगुनी हो जाती है। 15 वषों के अंत में रार्ि 
+र्कतनी होगी ? 
+RRB NTPC 07/01/2021 (Morning) 
+(a) Rs. 1,08,000.00   
+(b) Rs. 1,20,000.00 
+(c) Rs. 84,000.00      
+(d) Rs. 96,000.00 
+27. On a certain rate of interest a sum of Rs.5000 
+becomes Rs. 16,200 in certain years at compound 
+interest. In half of the time given, this sum will 
+become?                                                                                ब्याज 
+की एक ननश्चचत िर पर 5000 रुपये की धनराशि कुछ वर्षो में 
+16200 रुपये हो  जाती है  दिए गए समय के आधे मे यह 
+धन हो जायेगा   ?                                 
+(A) Rs. 10800      (B) Rs. 5600          
+(C) Rs. 9000        (D) Cannot be determined 
+28. ₹60000 invested at a certain rate for a certain 
+even number of years, compounded annually 
+grows to ₹63,654. To how much amount would 
+it grow if it is invested at the same rate for half 
+the period? 
+एक निश्चित अवधि के लिए, ककसी निश्चित दर पर निवेश की गई 
+₹60000 की रालश, श्िसका ब्याि वार्षिक संयोश्ित होता है, बढ़कर 
+₹63,654 हो िाती है| यदद उसी दर पर, आिी अवधि के लिए उस 
+रालश को निवेश ककया िाता तो वह बढ़कर ककतिी हो िाती? 
+(a) ₹61800 
+ 
+(b) ₹61809 
+ 
+(c) ₹61675 
+ 
+(d) ₹61827 
+29. A sum amounts to rupees 18,600 after 3 years 
+and to rupees 27,900 after 6 years, at a certain 
+rate percent p.a., when the interest is 
+compounded annually. The sum is 
+एक निश्चित प्रनतशत वार्षिक दर पर, िब ब्याि वार्षिक रूप से 
+संयोश्ित होता है, एक ििरालश 3 वषि बाद 18,600 रुपये हो िाती है 
+और 6 वषि बाद 27,900 रुपये हो िाती है। ििरालश है  
+(a) 11,800 
+ 
+(b) 12,400 
+ 
+(c) 14,400 
+ 
+(d) 14,600 
+30. If a certain sum of money amounts to Rs.6400 
+in 7.5 years and Rs.8000 in 15 years at a 
+certain rate of interest compounded annually. 
+Find the principal. 
+यदि एक ननश्चचत चक्रवृद्धध ब्याज की िर से, एक ननश्चचत 
+धनराशि 7.5 वर्षा 6400 रू हो जाती है और 15 वर्षों में 8000 
+रू हो जाती है| तो मूलधन ज्ञात करें? 
+a) Rs.4320 
+ 
+b) Rs.4800 
+ 
+c) Rs.5120 
+ 
+d) Rs.4000 
+31. At a certain rate of interest compounded annually, a sum 
+amounts to `10,890 in 2 years and to `11,979 in 3 years. 
+The sum is: 
+okf"kZd :i ls pØo`f) C;kt dh ,d fuf'pr nj ij] ,d jkf'k 2 lky esa 
+`10,890 vkSj 3 lky esa `11,979  gks tkrh gSA jkf'k Kkr djsa % 
+(a) 
+`9,000 
+(b) 
+`8,000 
+(c) 
+`8,500 
+(d) 
+`9,500 
+32. A sum amounts to 6,120 in 2 years and 7,340 in 
+3 years at compound interest. The sum (in Rs) 
+is (rounded off to 2 decimal places): 
+pØo`f_ C;kt ij ,d /kujkf”k 2 o’kZ esa #6]120 vkSj 3 o’kZ esa #7]340 gks 
+tkrh gSA og /kujkf”k ¼# esa½ D;k gS ¼n”keyo ds nks LFkkuksa rd lf™kdfVr 
+djsa½\ 
+ 
+                                                 BY Gagan Pratap 
+(a) 4,560.23 
+(b) 4,850.32 
+ 
+(c) 4254.63 
+(d) 4,050.13 
+33. A sum of money becomes ₹11,880 after 4 years and 
+₹17,820 after 6 years on compound interest, the interest is 
+compounded annually. What is the half of the sum (in ₹)? 
+एक धनराशि वार्र्षाक रूप से चक्रवृद्धध होने वाले चक्रवृद्धध 
+ब्याज पर, 4 वर्षा के बाि ₹11,880 और 6 वर्षा के बाि ₹17,820 
+हो जाती है। उस धनराशि का आधा भाग (₹ में) ककतना होगा? 
+(a)2,750                (b)2,530 
+ 
+(c) 2,640 
+(d)2,410 
+34. If a certain sum of money becomes Rs.8000 in 
+2 years and Rs.27000 in 5 years. Find the 
+principal. 
+ककसी ननश्चचत चक्रवृद्धध ब्याज की िर से, एक ननश्चचत 
+धनराशि 2 वर्षों में  8000 रू हो जाती है और 5 वर्षों में 27000 
+रू हो जाती है| तो मूलधन ज्ञात कीश्जए? 
+a) 3555.55 
+ 
+b) 4666.66 
+ 
+c) 3333.33 
+ 
+d) 4444.44 
+35. if some amount becomes 6500 in 3 years and 6760 in 4 
+years at compound interest then find the amount after 2 
+years? 
+कोई धनराशि शनशित चक्रबृद्धि ब्याज की दर से 3  बषो में 
+बढ़कर रु 6500 तथा 4  बषो में बढ़कर रु 6760  हो जाती है तो 2  
+बषो के बाद वह धनराशि शकतनी हो जाएगी ? 
+A)Rs.6160             B)  Rs. 6340          
+C)   Rs, 6250         D) Rs 6430 
+36. A man invests ₹5,000 for 3 years at compound 
+interest. After one year, the money amounts 
+to ₹5,450. What will be the amount (to the 
+nearest rupee) due at the end of 3 years? 
+एक आिमी चक्रवृद्धध ब्याज पर 3 साल के शलए ₹5,000 
+का ननवेि करता है। एक वर्षा के बाि, धनराशि ₹5,450 हो 
+जाती है। 3 वर्षा के अंत में िेय राशि (ननकटतम रुपये में) 
+क्या होगी? 
+ 
+(DP CONSTABLE 2023) 
+A) Rs 6475 
+B) Rs 7405 
+C) Rs 5575 
+D) Rs 6970 
+37. A sum of Rs.5,000 amounts to Rs.7,200 in 8 
+years at a certain rate percent p.a., interest 
+compounded 
+yearly. 
+What 
+will 
+be 
+the 
+compound interest on a sum of Rs.6,550 in 4 
+years at the same rate of interest? 
+Rs.5,000 dh ,d धनराशि  ,d ननश्चचत okÆ’kd C;kt nj प्रनतित 
+ij 8 o’kZ esa Rs.7,200 gks tkrh gS] tcfd C;kt dks okÆ’kd vkèkkj ij 
+pØo`f) fd;k tkrk gSA blh C;kt nj ij 4 o’kksZa esa Rs.6,550 dh 
+धनराशि ij fdruk pØo`f) C;kt izkIr gksxk\ 
+(a)Rs.1,415 
+ 
+ (b) Rs.1,310 
+(c) Rs.1,290    
+(d) Rs.1,285 
+38. A sum of money becomes 35,680 after 3 years and 53,520 
+after 6 years at a certain rate percentage p.a., interest 
+compounded yearly. What is the compound interest on the 
+same sum in the first case? (approximately) 
+,d ननश्चचत धनराशि  okf’kZd :i ls pdzo`f) fd, tkus okys fufिpr 
+okf’kZd C;kt nj ij 3 o’kksZa ds ckn 35]680 vkSj 6 o’kksZa ds ckn 53]520 gks 
+tkrh gSA igys ekeys esa blh /kujkfि ij pdzo`f) C;kt Kkr dhft,A 
+(a) 11,893 
+ 
+ 
+(b) 10,842 
+ 
+(c) 11,983 
+ 
+ 
+(d) 11,938 
+39. Rs.4800 becomes 7500 at a certain rate of 
+interest compounded annually in 2 years 8 
+months. Then in how many years Rs.19200 will 
+amounts to 37500 at the same rate of interest 
+compounded annually? 
+4800 रुपये की धनराशि एक ननश्चचत चक्रवृद्धध ब्याज की 
+िर से 2 वर्षा 8 माह में 7500 रुपये हो जाती है। तो 19200 
+रु की धनराशि ककतने समय में बढ़कर 37500 रुपये हो 
+जाएगी यदि समान िर पर वार्र्षाक चक्रवृद्धध ब्याज संयोश्जत 
+हो? 
+a) 3 years 4 months 
+         b) 4 years   
+c) 5 years 4 months  
+         d) 4 years 4 months 
+40. The interest calculated at a certain rate on a 
+certain sum of money, x for 2nd year and 3rd 
+year is Rs 770 and Rs 847, respectively. Find 
+the sum money x (in Rs)? 
+एक ननश्चचत राशि पर एक ननश्चचत िर पर गणना की गई 
+ब्याज, x िूसरे वर्षा और तीसरे वर्षा के शलए क्रमिः 770 रुपये 
+और 847 रुपये है। राशि x (रुपये में) ज्ञात कीश्जये? 
+A) 6300 
+B) 7000 
+C) 4160 
+D) 6000 
+41. What will be the present value of 13,230 due two 
+years hence, when the interest is compounded 
+at the rate of 5% per annum?  
+;fn C;kt 5% okf’kZd nj ls l;ksaftr fd;k tkrk gS] rks nks o’kZ ckn ns; 
+₹13]230 dk orZeku ewY;   D;k gksxk\ 
+(a) 10,500 
+(b) 12,000 
+ 
+(c) 13,000 
+(d) 11,500 
+42. A certain sum amounts to ₹ 280900 in 2 years at 6% 
+per annum, interest compounded annually. The sum 
+is: 
+कोई एक धनरार्ि 6% वार्षिक चक्रवृद्धि ब् याज (वार्षिक रूप 
+से) की दर पर 2 वषों में ₹280900 हो जाती है। वह धनरार्ि 
+ज्ञात कीर्ज ए। 
+(A) ₹350000 
+(B) ₹250000 
+ 
+(C) ₹200000 
+(D) ₹550000 
+43. How much money (in Rs.) at compound interest will 
+amount to Rs. 5,000 in 3 years if the rate of interest 
+is 2% for the 1st year, 3% for the 2nd year and 4% 
+for the 3rd year? 
+अगर पहले साल के र्लए 2%, दूसरे साल के र्लए 3% और 
+तीसरे साल के र्लए 4% ब्याज दर है तो 3 साल में र्कतनी रार्ि 
+5,000 रुपये हो जायेगी? 
+ 
+                                                 BY Gagan Pratap 
+NTPC CBT - I  16/02/2021 (Morning) 
+(a) 
+𝟓𝟎𝟎𝟎
+𝟏.𝟐×𝟏.𝟑×𝟏.𝟒 
+(b) 5000 
+(c) 5000×1.09 
+(d) 
+𝟓𝟎𝟎𝟎
+𝟏.𝟐𝟒 
+44. Compound interest (compounding annually) on a sum for 
+2 years is Rs. 4180. If rate of interest is 20 percent per 
+annum, then what is the sum? 
+,d /kujkf'k ij 2 o"kksZa ds fy, pØo`f) C;kt ¼okf"kZd :i ls la;ksftr½ Rs. 
+4180 gSA ;fn okf"kZd C;kt nj 20 izfr'kr gS] rks /kujkf'k fdruh gS\ 
+(a) 
+Rs. 8800 
+(b) 
+Rs. 9800 
+(c) 
+Rs. 9500 
+(d) 
+Rs. 8500 
+45. The 
+compound 
+interest 
+on 
+a 
+certain 
+sum 
+at 
+16
+𝟐
+𝟑% 𝒑. 𝒂. 𝒇𝒐𝒓  3 years is 6350.what will be the simple 
+interest on the same sum at the same rate of 5
+𝟐
+𝟑 𝒚𝒆𝒂𝒓𝒔? 
+एक ननश्चचत राशि पर 16
+𝟐
+𝟑 % प्रनत वर्षा की िर से 3 वर्षा के 
+शलए चक्रवधी ब्याज 6350 है उस राशि का उसी िर से 5
+𝟐
+𝟑 वर्षा 
+के शलए साधारण ब्याज क्या होगा ? 
+a) 10,200 
+ 
+b) 7,620  
+ 
+c) 11,400 
+ 
+d) 9,600 
+46. A sum of ₹7,500 amounts to ₹8,748 after 2 
+years at a certain compound interest rate per 
+annum. What will be the simple interest on the 
+same sum for 𝟒
+𝟑
+𝟓Years at double the earlier 
+interest rate? 
+₹7,500की रालश एक निश्चित वार्षिक िक्रवृद्धि ब्याि दर पर 2 
+वषि के बाद बढ़कर ₹ 8,748 हो िाती है पहिे की ब्याि दर की 
+दोगुिी दर से 𝟒
+𝟑
+𝟓 वषि के लिए उसी रालश पर सािारण ब्याि क्या 
+होगा?  
+(a) ₹4,140 
+ 
+(b) ₹5,520 
+ 
+(c) ₹8,180 
+ 
+(d) ₹2,760 
+ 
+47. A sum amounts to Rs3872 in 2 years and to 
+Rs4259.20 in 3 years at a certain rate percent 
+p.a. If the interest is compounded annually, 
+what is the simple interest on the same sum 
+for 5
+𝟏
+𝟑 year at 6.75% p.a? 
+एक ननश्चचत िर 2 वर्षों में कोई धनराशि हो 3872 रुपये और 
+3 वर्षों में 4259.20 रुपये जाती है, यदि ब्याज सालाना चक्रवृद्धध 
+संयोश्जत  है, तो  5
+𝟏
+𝟑 वर्षा के शलए 6.75% p.a की िर पर साधारण 
+ब्याज समान राशि पर ककतना है  ? 
+(a) Rs 1152 
+ 
+(b) Rs 1240 
+(c) Rs 1224 
+ 
+(d) Rs 1125 
+ 
+ 
+ 
+ 
+48. A sum of `3125 amounts to `3515.20 in 3 years at x% p.a., 
+interest being compounded yearly. What will be the 
+simple interest (in `) on the same sum and for the same 
+time at (x+2)% p.a.? 
+C;kt okf"kZd :i esa la;ksftr gksus ij `3,125 dh jkf'k x% okf"kZd pØo`f) 
+C;kt nj ls 3 o"kZ eas `3,515.20 gks tkrh gSA mlh jkf'k ij mlh vof/k eas 
+(x+2)% okf"kZd nj ij lk/kkj.k C;kt ¼` eas½ Kkr djasA 
+(a) 
+554 
+(b) 
+562.50 
+(c) 
+565.50 
+(d) 
+550 
+49. A shopkeeper borrowed a sum of Rs 32000 from 
+a bank to renovate his house. The rate of 
+interest is 12.5% per annum, compounded 
+annually. At the end of two years, he cleared 
+his loan by paying Rs 20000 and his ring. The 
+price (in Rs) of the ring is? 
+एक िुकानिार ने अपने घर के नवीनीकरण के शलए बैंक से 
+32000 रुपये की राशि उधार ली। ब्याज िर 12.5% प्रनत 
+वर्षा है, जो वार्र्षाक रूप से संयोश्जत होती है। िो साल के अंत 
+में, उसने 20000 रुपये और अपनी अंगूठी का भुगतान करके 
+अपना ऋण चुका दिया। अंगूठी की कीमत (रुपये में) क्या है? 
+A) 18500    [DELHI POLICE CONSTABLE] 
+B) 19500 
+C) 20500 
+D) 21500  
+ 
+ 
+ 
+ 
+ 
+50. Jonathan had borrowed a sum of money 3 years 
+ago at 10% interest per annum compound 
+annually for a 5 year period, with the amount 
+to be paid at the end of the period being Rs 
+161051. However, there is no pre-payment 
+penalty and Jonathan has received some bonus 
+payment now, with which he has decided to 
+clear his debt. How much does Jonathan have 
+to pay now to clear his debt? 
+जोनाथन ने 3 साल पहले 5 साल की अवधध के शलए 10% 
+वार्र्षाक चक्रवृद्धध ब्याज पर एक धनराशि उधार ली थी, अवधध 
+के अंत में भुगतान की जाने वाली राशि 161051 रुपये थी। 
+हालांकक, पूवा-भुगतान पर कोई जुमााना नहीं है और जोनाथन 
+को अब कुछ बोनस भुगतान शमला है, श्जससे उसने अपना 
+कजा चुकाने का फैसला ककया है। जोनाथन को अपना कर्जा 
+चुकाने के शलए अब ककतना भुगतान करना होगा? 
+A) 132900 
+B) 133100 
+C) 133000 
+D) 133200 
+ 
+                                                 BY Gagan Pratap 
+51. A sum becomes Rs. 33800 in 2 years and Rs. 
+43,940 in 3 years, when lent in a scheme of 
+compound interest (compounding annually). If 
+double the sum is invested in the same scheme 
+for 2 years, then what will be the amount 
+obtained at end of 2 years? 
+एक रालश का (वार्षिक रूप से संयोश्ित) िक्रवृद्धि ब्याि की एक 
+योििा में निवेश करिे पर, वह 2 वषों में Rs.33800 और 3 
+वषों में Rs.43,940 हो िाती है। यदद उसी योििा में 2 वषों के 
+लिए दो गुिी रालश का निवेश ककया िाए, तो 2 वषि के अंत में प्राप्त 
+होिे वािी रालश ककतिी होगी? 
+(a) Rs. 67,600          (b) Rs. 71,240  
+ (c) Rs. 60,420 
+(d) Rs. 62,480 
+52. A bank offers following 4 schemes for 
+investment. If a customer wants to invest an 
+amount of Rs P, then which scheme is more 
+beneficial for a customer after a period of 1 
+year? 
+I) 
+Rate of interest 24% per annum compounded 
+quarterly 
+II) Rate of interest 24% per annum compounded 
+half-yearly 
+III) Rate of interest 24% per annum compounded 
+annually 
+IV) Rate of interest 24% per annum with simple 
+interest 
+एक बैंक निवेश के लिए निम्िलिखित 4 योििाएं प्रदाि करता 
+है। यदद कोई ग्राहक P रुपये की रालश का निवेश करिा िाहता 
+है, तो 1 वषि की अवधि के बाद ग्राहक के लिए कौि सी योििा 
+अधिक िाभदायक है? 
+I) 
+त्रैमालसक िक्रवृद्धि ब्याि दर 24% प्रनत वषि 
+II) 
+ब्याि दर 24% प्रनत वषि अिि-वार्षिक िक्रवृद्धि 
+III) 
+ब्याि की दर 24% प्रनत वषि वार्षिक रूप से संयोश्ित होती है 
+iv) सािारण ब्याि के साथ 24% वार्षिक ब्याि दर   (ICAR 
+Technician 2022) 
+A) IV 
+B) I 
+C) II 
+D) III 
+ 
+53. The 
+effective 
+annual 
+rate 
+of 
+interest 
+corresponding to a C.I. rate of 9% per annum 
+payable half yearly is: 
+चक्रवृद्धध ब्याज की 9% की वार्र्षाक िर पर प्रभावी ब्याज िर 
+ककतनी होगी यदि ब्याज अधावार्र्षाक संयोश्जत ककया जाता है 
+? 
+(a) 9%                           (b) 9.81% 
+(c) 9.2025% 
+                (d) 9.333% 
+ 
+ 
+ 
+ 
+ 

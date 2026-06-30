@@ -1,0 +1,34 @@
+[
+  {
+    "question_number": 30,
+    "question_en": "In a triangle PQR, PX, QY and RZ be altitudes intersecting at O. If PO=6cm, PX=8cm and QO=4cm, then what is the value (in cm) of QY? BY Gagan Pratap",
+    "question_hi": "त्रिभुि PQR में, िीनो शीषषलम्ब क्रमशः PX, QY और RZ एक दूसरे को त्रबंदु O पर काटिे है।यदद PO=6cm, PX=8cm और QO=4cm है िब QY का मान होगा-",
+    "option_a": "6.3",
+    "option_b": "5.8",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Geometry",
+    "source_pdf": "Geometry Sheet-8.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_c; missing option_d"
+  },
+  {
+    "question_number": 35,
+    "question_en": "In triangle ABC, AD is perpendicular to BC and BE is perpendicular to AC, AD and BE intersect at F (inside the triangle). If AB = 20 cm, CD = 4 cm and AD = 12 cm, then what is the length of BE?",
+    "question_hi": "त्रिभुि ABC में, AD, BC पर लंबिि है और BE, AC पर लंबिि है, AD और BE, F पर (त्रिभुि के अंदर) प्रतिच्छेद करिे हैं। यदद AB = 20 सेमी, CD = 4 सेमी और AD = 12 सेमी, िो BE की लंबाई क्या है?",
+    "option_a": "",
+    "option_b": "6√𝟏𝟎",
+    "option_c": "5√𝟏𝟎",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Geometry",
+    "source_pdf": "Geometry Sheet-8.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_d"
+  }
+]

@@ -1,17 +1,22 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Navbar from './Navbar';
 import Sidebar from './Sidebar';
 
 export default function Layout({ children }) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  return (
-    <div className="min-h-screen bg-[#0b0015]">
-      <Navbar onMenuToggle={() => setSidebarOpen(prev => !prev)} />
-      <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
+  useEffect(() => {
+    setSidebarOpen(window.innerWidth >= 1024);
+  }, []);
 
-      {/* Main content — offset for fixed navbar + sidebar */}
-      <main className="pt-16 lg:pl-60 min-h-screen">
+  return (
+    <div className="min-h-screen" style={{ backgroundColor: '#F5F7F8' }}>
+      <Navbar
+        onMenuToggle={() => setSidebarOpen(prev => !prev)}
+        sidebarOpen={sidebarOpen}
+      />
+      <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
+      <main className={`pt-16 min-h-screen transition-all duration-250 ease-in-out ${sidebarOpen ? 'lg:pl-60' : ''}`}>
         <div className="p-4 sm:p-6 lg:p-8 max-w-6xl mx-auto fade-in">
           {children}
         </div>

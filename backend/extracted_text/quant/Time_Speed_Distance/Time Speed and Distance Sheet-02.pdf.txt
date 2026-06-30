@@ -1,0 +1,1254 @@
+ 
+BY:-GAGAN PRATAP 
+1. A train without stopped travels with an average speed of 70km/h and with stopped, it travels with the average 
+speed of 56km/h. How many minutes, does the train stop on an average per hour? 
+,d jsyxkM+h fcuk :ds 70km/h dh vkSlr xfr ls vkSj :dus ds lkFk 56km/h  dh vkSlr xfr ls pyrh gSA jsyxkM+h] vkSlru izfr ?kaVk fdrus feuV :drh gS\ 
+(a) 14         (b) 12          (c) 15       (d) 16 
+2. Excluding stoppages, the speed of a bus is 78 kmph and including stoppages, it is 65 kmph. For how many 
+minutes does the bus stop per hour? 
+यदि विराम को निकाल दिया जाए तो बस की चाल 78 ककमी./घंटा है और यदि विराम को शाममल ककया जाए तो बस की चाल 65 कक.मी./घंटा 
+है| बस प्रनत घंटा ककतिे ममिट के मलए रूकती है? 
+a) 12   b) 9 
+      c) 10  
+     d) 15 
+3. The speed of the car increases by 2 km / h after every one hour. If the distance covered in the first hour was 35 
+km, then what was the total distance covered in 12 hours? 
+कार की गति प्रत्येक एक घंटे के बाद 2 km/h बढ़ जािी है| यदद पहले एक घंटे में िय की गई दूरी 35 km थी िो 12 घंटों में िय की गई कुल दूरी ककिनी थी? 
+(a) 650 km 
+ 
+(b) 552 km 
+(c) 560 km 
+ 
+(d) 558 km 
+4. A bus running with the initial speed of 21 km/hr and its speed increases every hour by 3 km/hr. How many 
+hours will it take to cover a distance of 252 km? 
+,d cl 21 fd-eh- izfr ?kaVk dh izkjafHkd xfr ls pyuk vkjaHk djrh gS rFkk mldh xfr esa izR;sd ?kaVs esa 3 fd-eh- izfr ?kaVk dh o`f) gksrh gSA 252 fd-eh- dh nwjh r; djus ds fy, 
+og fdrus ?kaVs dk le; ysxh\ 
+(a) 6 
+ 
+(b) 5 
+ 
+(c) 8 
+ 
+(d) 9 
+5. 
+A man walks at a speed of 42km/h. After every 13 kilometre, he takes a rest for 9 minutes. How much time will he take to cover a distance 
+of 91km? 
+एक व्यक्ति 42km/h की चाल से चलता है। बह प्रत्येक 13 क्तकलोमीटर के बाद 9 क्तमनट आराम करता है। उसे 91 km की दूरी तय करने में क्तकतना समय लगेगा? 
+(a) 185 minutes 
+ 
+(b) 184 minutes 
+(c) 182 minutes 
+ 
+(d) 193 minutes 
+6. 
+A train travels at a speed of 66 km/h and halts at five junctions for a certain time. It covers a distance of 1485 km in one day. For how long 
+(in minutes) does the train stop at each junction, if it halts for the same period of time at all the junctions? 
+,d Vªsu 66 km/h dh pky ls ;k=k djrh gS vkSj ,d fuf'pr le; ds fy, ikap taD'kuksa ij #drh gSA ;g ,d fnu eas 1485 km dh nwjh r; djrh gSA vxj Vªsu lHkh taD'kuksa 
+ij leku vof/k rd #drh gS rks ;g izR;sd taD'ku ij fdrus le; rd ¼feuVksa esa½ #drh gS\ 
+(a) 
+15 
+(b) 
+18 
+(c) 
+12 
+(d) 
+20 
+7. Anuj and Anup have to travel from a place A to a place B in their respective cars. Anuj is driving at 70 km/h, 
+and takes 3 halts of 10 minutes each, while Anup is driving at 80 km/h, and takes 4 halts of 15 minutes each. 
+The time taken by Anup to reach place B, if Anuj takes 8.5 hours, is? 
+अिुज और अिुप को अपिी-अपिी कारों में स्थाि A से स्थाि B तक यात्रा करिी है। अिुज 70 ककमी/घंटा की गनत से गाडी चला रहा है, और 
+प्रत्येक 10 ममिट के 3 पडाि लेता है, जबकक अिुप 80 ककमी/घंटा की गनत से गाडी चला रहा है, और प्रत्येक 15 ममिट के 4 पडाि लेता है। 
+यदि अिुज को स्थाि B तक पहुुँचिे में 8.5 घंटे लगते हैं, तो अिुप को स्थाि B तक पहुुँचिे में ककतिा समय लगेगा? (SSC CGL 2023) 
+A) 7 h 
+B) 6 h 
+C) 8 h 
+D) 4 h 
+8. 
+Rahul and Mithun each travel a distance of 30 km. the sum of their speeds is 70 km/h and the total time taken by both to travel the distance 
+is 2 hours 6 minutes. The difference their speeds is: 
+राहुल और मिथुन प्रत्येक 30 km की दूरी तय करते है। उनकी चाल ों का य ग 70 km/h है और इस दूरी क  तय करने िें द न ों के द्वारा मलया गया कुल 
+सिय 2 घोंटा 6 मिमनट है। उनकी चाल ों के बीच अोंतर है:  
+(a) 30 km/h. 
+ 
+(b) 25 km/h. 
+ 
+ 
+(c) 20 km/h. 
+ 
+(d) 35 km/h. 
+9. A car takes p minutes to travel a distance of 350 km with an average speed of u km/h. another car takes q 
+minutes to travel the same distance with an average speed of v km/h. if u-v = 5 and q-p = 140, the what is the 
+value of u? 
+एक कार u km/h की औसत चाल से 350 km की िूरी तय करिे में p ममिट लेती है। िूसरी कार v ककमी/घंटा की औसत गनत से समाि िूरी 
+तय करिे में q ममिट का समय लेती है। यदि u-v = 5 और q-p = 140, तो u का माि क्या है? 
+A) 35                                     C) 25 
+B) 30                                     D) 20 
+10. Akshat completes his journey in 20 hours. He covers half the distance at 57 km/h and the rest at 95 km/h. What is the length of the journey 
+(in Km)? 
+ 
+BY:-GAGAN PRATAP 
+अक्षत अपिी यात्रा 20 घंटे में पूरी करता है। िह आधी िूरी 57 km/h की चाल से और शेष िूरी 95 km/h की चाल से तय करता है। यात्रा की कुल 
+िूरी (km में) ज्ञात कीजजए। 
+[RRB JE 2024] 
+A) 
+1435 
+B) 
+1423 
+C) 
+1416 
+D) 
+1425 
+11. Mohan travels three equal distances at speed of 12 km/h, 18 km/h and 24 km/h. If he takes a total of 39 hours, then what is the total 
+distance covered? 
+मोहि 12 km/h, 18 km/h और 24 km/h की चाल से तीि समाि िूररयों को तय करता है। यदि उसें इसमें कुल 39 घंटे लगते है तो उसके द्िारा तय की 
+गई कुल िूरी ककतिी है?  
+(a) 432 km 
+ 
+(b) 648 km 
+ 
+ 
+(c) 864 km 
+ 
+(d) 654 km 
+12. Vipin travels one-third of the distance of a journey at a speed of 30 km/h and the remaining distance at a speed 
+of 40 km/h. If he took a total of 12 hours to complete the journey, what was the total distance (in km) of the 
+journey? 
+मिमिन मकसी यात्रा की एक मतहाई दूरी 30 km/h की चाल से और शेष दूरी 40 km/h की चाल से तय करता है। यमद उसे यात्रा िूरी करने िें कुल 
+12 घोंटे लगे, त  यात्रा की कुल दूरी (km िें) मकतनी थी? (SSC CGL MAINS  2023) 
+(a) 445 
+(b) 450 
+(c) 412 
+(d) 432 
+13. A person travelled 120 km by steamer, 450 km by train and 60 km by horse. It took him 13 hours 30 minutes. 
+If the speed of the train is 3 times that of the horse and 1.5 times that of the steamer, then what is the speed 
+(in km/h) of the steamer? 
+एक व्यजक्त िे स्टीमर से 120 ककमी, ट्रेि से 450 ककमी और घोडे द्िारा 60 ककमी की यात्रा की। इसमें उन्हें 13 घंटे 30 ममिट लगे. यदि ट्रेि 
+की गनत घोडे की गनत से 3 गुिा और स्टीमर की गनत से 1.5 गुिा है, तो स्टीमर की गनत (ककमी/घंटा में) क्या है? 
+A) 30 
+B) 60 
+C) 20 
+D) 40 
+ 
+ 
+ 
+ 
+ 
+[DELHI POLICE CONSTABLE 2020] 
+14. A train covers 360 km at a uniform speed if the speed had been 10 km/h more it would have taken 3 hours less 
+for a journey.  What is the speed of the train (in km/h)? 
+एक रेलगाडी एक समान गति से 360 ककमी की दूरी िय करिी है| यदद रेलगाडी की गति 10 ककमी/घंटा अधिक होिी, िो वह उस यात्रा को 3 घंटे कम समय में पूरा 
+कर लेिी| रेल गाडी की गति (ककमी/घंटा में) क्या है? 
+A) 40       B) 25     C) 30 
+ D) 50  
+15. A truck covers a distance of 480 km at a certain speed. If the speed is decreased by 8 km/h, it would taken 2 hours more to cover the same 
+distance. 50% of its original speed (in km/h) is: 
+dksbZ Vªd] fdlh fuf'pr pky ls 480 fdeh- dh nwjh r; djrk gSA ;fn pky esa 8 fdeh- çfr?k.Vk dh deh gksrh gS] rks Vªd ª dks mlh nwjh dks r; djus esa 2 ?kaVk vf/kd le; 
+yxrk gSA bldh ewy pky dk 50% (km/h ) esa Kkr djsaA 
+(a) 
+20 
+(b) 
+40 
+(c) 
+24 
+(d) 
+48 
+16. A truck covers a distance of 384 km at a certain speed. If the speed is decreased by 16 km/h, it will take 2 hours 
+more to cover the same distance. 75% of its original speed (in km/h) is:  
+एक ट्रक एक तनश्चिि गति से 384 ककमी की दूरी िय करिा है। यदद गति 16 ककमी/घंटा कम कर दी जाए, िो समान दूरी िय करने में उसे 2 घंटे अधिक लगेंगे। 
+इसकी मूल गति का 75% (ककमी/घंटा में) है:  
+(a) 45       (b) 54 
+     (c) 48 
+    (d) 42 
+17. A train is to cover 370 Km at a uniform speed. After running 100 km, the train could run at a speed 5 Km\h less than its normal speed due 
+to some technical fault. The train got delayed by 36 minutes. What is the normal speed of the train, in km\h? 
+,d leku pky ls pyrs gq,] fdlh jsyxkM+h dks 370 fdeh- dh nwjh r; djuh FkhA 100 fdeh- pyus ds ckn] dqN rduhdh [kjkch ds dkj.k jsyxkM+h viuh lkekU; pky ls 5 fdeh-
+@?kaVk dh de pky ls pyrh gSA jsyxkM+h 36 feuV nsjh ls igqaphA jsyxkM+h dh lkekU: pky ¼fdeh-@?kaVk½ fdruh Fkh\ 
+(a) 
+48 
+(b) 
+45 
+(c) 
+40 
+(d) 
+50 
+ 
+BY:-GAGAN PRATAP 
+18. Due to traffic, the speed of a car is reduced by 15 km/hr so it takes 1.5 hours more to cover a distance of 1260 
+km. Find the initial speed of the car? 
+ट्रैक़िक के कारण, कार की गनत 15 ककमी / घंटा कम हो जाती है, इसमलए 1260 ककमी की िूरी तय करिे में 1.5 घंटे अधधक लगते हैं। कार की 
+प्रारंमिक गनत ज्ञात कीजजये? 
+a) 100 km 
+ 
+b) 120km 
+ 
+c) 105 km 
+ 
+d) 135 km 
+19. An aeroplane has to cover 3360 km distance But due to bad weather, aeroplane starts flying 75 minutes late but 
+still reaches on time because the speed of aeroplane is 200 km/hr more than its actual speed. Then find the 
+actual speed of aeroplane?  
+एक हिाई जहाज को 3360 ककमी की िूरी तय करिी है लेककि खराब मौसम के कारण हिाई जहाज 75 ममिट िेरी से उडाि िरती है लेककि किर 
+िी समय पर पहुंच जाती है क्योंकक हिाई जहाज की गनत इसकी िास्तविक गनत से 200 ककमी/घंटा अधधक होती है। तो हिाई जहाज की िास्तविक 
+गनत ज्ञात कीजजये? 
+a) 640 km/hr 
+b) 720 km/hr 
+c) 630 km/hr 
+d) 840 km/hr 
+20. Due to inclement weather, an air plane reduced its speed by 150 km/hr, and reached the destination of 4500 
+km late by 1.5 hrs. Then the schedule duration of the flight was 
+ख़राब मौसम के कारण ककसी हिाई जहाज िे अपिी रफ़्तार 150 ककलोमीटर/घंटे कम कर िी और 4500 ककलोमीटर िूर अपिे गंतव्य पर 1.5 घंटे 
+िेरी से पहुंचा| बताइए उस उडाि के पहुुँचिे की निधााररत अिधध क्या थी? 
+(a) 4.5 hour 
+  
+(b) 7.5 hours 
+ 
+(c) 6 hours 
+  
+(d) 5 hours 
+21. A fast local of Mumbai takes 45 minutes less than a slow local for a journey of 150 km. If the speed of the fast local is 10 km/h more than 
+that of the slow local, find the speed (in km/h) of the slow local train. 
+िुोंबई की एक तेज़ ल कल 150 km की यात्रा के मलए एक धीिी ल कल की तुलना िें 45 मिनट कि सिय लेती है। यमद तेज ल कल की चाल, धीिी 
+ल कल की चाल से 10km/h अमधक है, त  धीिी ल कल टरेन की चाल (km/h िें) ज्ञात करें।  
+(a) 30  
+(b) 40  
+(c) 45  
+(d)  35 
+(SSC CPO 2023) 
+22. The speed of train A is 25 km/h more than the speed of the train B. A take 4 hours less time to travel a distance 
+of 300 km than what train B takes to travel 250. What is the speed of the A(in km/h) 
+Vsªu A dh xfr Vsªu B dh xfr ls 25 km/h vf/kd gSA Vsªu B nokjk 250 dh nwjh r; djus es fturk le; yxrk gS] A dks 300 km dh nwjh r; djesa es mlls 4 ?kaVs de 
+yxrk gS] rks A dh xfr D;k gS\ 
+(a) 65        (b) 50        (c) 60  
+   (d) 55 
+23. A car did a journey in t hours. Had the average speed been x kmph greater, the journey would have taken y hours less. How long was the 
+journey? 
+,d dkj us ,d ;k=k t ?kaVksa esa dhA ;fn bldh vkSlr pky x fdeh izfr?kaVk vf/kd gksrh] rks ;k=k y ?kaVs de es aiwjh gks tkrhA ;k=k fdruh yach Fkh\ 
+(A) x(t-y)ty 
+ 
+(B) x(t-y)ty-1 
+(C) x(t-y)ty-2 
+ 
+ 
+(D) x(t+y)ty 
+24. The distance between two railway stations is 1176 km. To cover this distance, an express train takes 5 hours less than a passenger train 
+while the average speed of the passenger train is 70 km/h less than that of the express train. The time taken by the passenger train to 
+complete the travel is: 
+िो रेलिे स्टेश्िों के बीच की िूरी 1176 km है। इस िूरी को तय करिे में एक एक्सप्रेस ट्रेि को पैसेंजर ट्रेि के मुकाबले 5 घंटे कम लिाते हैं, जबकक 
+पैसेंजर ट्रेि की औसत चाल एक्सप्रेस ट्रेि की तुलिा में 70 km/h कम है। इस यात्रा को पूरा करिे में पैसेंजर ट्रेि द्िारा मलए जाले िाले समय की 
+गणिा करें। 
+(a) 18 hours 
+ 
+(b) 17 hours 
+ 
+ 
+(c) 23 hours 
+ 
+(d) 12 hours 
+25. A train runs first 75 km at a certain uniform speed and next 90 km at an average speed of 10 km/h more than the normal speed. If it takes 
+3 hours to complete the journey, then how time will the train take to cover 300 km with normal speed? 
+,d jsyxkM+h] igys 75 km dh nwjh ,d fuf'pr ,dleku pky ls r; djrh gS vkSj vxys 90 km dh nwjh lkkekU; pky ls 10 km/h vf/kd dh vkSlr pky ls r; djrh gSA 
+;fn ;k=k dks iwjk djus esa 3 ?kaVs dk le; yxrk gS] rks lkekU; pky ls jsyxkM+h dks 300 km dh nwjh r; djus esa  fdruk le; yxsxk\  
+ (a) 
+5 hours 15 minutes 
+(b) 
+5 hours 
+(c) 
+6 hours  
+(d) 
+5 hours 25 minutes 
+26. A taxi goes from City A to City B at an average speed of 84 km/hr. In the return journey due to traffic the 
+average speed of the taxi falls by 24 km/hr. Find the average speed of the taxi (in km/hr) for the total journey. 
+एक टैक्सी 84 ककमी/घंटा की औसत गनत से शहर A से शहर B तक जाती है। यातायात के कारण िापसी यात्रा में टैक्सी की औसत गनत 24 
+ककमी/घंटा कम हो जाती है। कुल यात्रा के मलए टैक्सी की औसत गनत (ककमी / घंटा में) ज्ञात करें? 
+a) 72 
+ 
+b) 75         c) 70 
+          d) 68 
+ 
+ 
+BY:-GAGAN PRATAP 
+27. If the distance between A and B is 1089 Km. From A, Vishal goes to B with speed 104 km/h and return to A with the speed 125 km/h. Find 
+the average speed of Vishal.(rounded off to two decimal place) 
+ 
+A और B के बीच की िूरी 1089 Km है। विशाल, A से B तक 104 km/h की चाल से जाता है और किर 125 km/h की चाल से िापस A तक आता 
+है। विशाल की औसत चाल ज्ञात कीजजए। (िो िशमलि स्थाि तक पूणाांककत कीजजए) 
+ 
+[RRB JE 2024] 
+ 
+A) 
+111.79 km/h 
+ 
+B) 
+113.54 km/h 
+ 
+C) 
+117.44 km/h 
+ 
+D) 
+120.89 km/h 
+28. The speed of a car going from A to B is 110 km/h, while coming back, its speed is 76km/h. What is the average 
+speed during the entire journey?  
+A ls B dh vksj tkus okyh ,d dkj dh pky 110 km/h gS] tcfd okil vkrs le; bldh pky 76 km/h gSA iwjh ;k=k ds nkSjku dkj dh vkSlr pky D;k gS\ 
+ 
+(a) 
+83
+89
+km/h
+93
+ 
+(b) 
+91
+82
+km/h
+97
+ 
+(c) 
+81
+87
+km/h
+99
+ 
+(d) 
+89
+83
+km/h
+93
+ 
+29. If a man travels at 
+𝟏
+𝒙 km/h on a journey and returns at 
+𝟏
+𝒙² km/h, then his average speed for the journey is: 
+;fn ,d O;fDr ;k=k ij 
+𝟏
+𝒙 km/h dh pky ls pyrk gS vkSj 
+𝟏
+𝒙² km/h dh pky ls ykSVrk gS] rks ;k=k ds fy, mldh vkSlr pky D;k gS\ 
+(a) 
+𝒙+𝟏
+𝒙²  
+(b) 
+𝟐
+𝒙+𝒙² 
+(c) 
+𝟏
+𝒙 
+(d) 
+𝟐𝒙²
+𝒙 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+30. A person travels a distance of 300 km and then returns to the starting point. The time taken by him for the 
+outward journey is 5 hours more than the time taken for the return journey. If he returns at a speed of 10 km/h 
+more than the speed of going, what is the average speed (in km/h) for the entire journey? 
+एक व्यजक्त 300 km की िूरी तय करता है और किर आरंमिक बबंिु पर लौट आता है। जािे में उसके द्िारा मलया गया समय, िापस आिे में 
+मलए गए समय से 5 घंटे अधधक है। यदि िह जािे की चाल की तुलिा में 10 km/h अधधक चाल से लौटा हो, तो पूरी यात्रा के िौराि औसत 
+चाल (km/h में) ज्ञात करें।  
+(a) 20  
+ 
+(b) 15  
+ 
+(c) 24  
+ 
+(d) 30 
+31. Geetah’s office is 4
+𝟏
+𝟐 km away from her home. She takes 25 minutes to cycle to her office and 29 minutes to 
+cycle back. Find the average speed (in km/h)? 
+गीता का कायाालय उसके घर से 4.5 ककमी िूर है। िह साइककल से अपिे कायाालय जािे में 25 ममिट और िापस साइककल से जािे में 29 
+ममिट लेती हैं। औसत गनत ज्ञात कीजजये (ककमी/घंटा में)? 
+A) 15 
+B) 20 
+C) 12 
+D) 10 
+32. A vehicle moves at 65 km/h for 4 hours before slowing down to 52 km/h for the next 2.5 hours. Calculate the 
+average speed.  
+एक िाहि 4 घंटे तक 65 ककमी/घंटा की गनत से चलता है और अगले 2.5 घंटों के मलए 52 ककमी/घंटा तक धीमा हो जाता है। औसत गनत की 
+गणिा करें. 
+(SSC MTS 2024) 
+A) 61.25 km/h  
+B) 55 km/h  
+C) 60 km/h  
+D) 58.5 km/h 
+33. Radha walks to her office 5 km away from home. In the morning, she covers the distance in 1 hour whereas, 
+while returning home in the evening, she takes 15 more minutes to cover the same distance. Find her average 
+speed (in km/h) during the two-way journey. 
+राधा घर से 5 ककमी िूर अपिे कायाालय तक पैिल जाती है। सुबह िह यह िूरी 1 घंटे में तय करती है जबकक शाम को घर लौटते समय उसे 
+िही िूरी तय करिे में 15 ममिट अधधक लगते हैं। िो-तऱिा यात्रा के िौराि उसकी औसत गनत (ककमी/घंटा में) ज्ञात कीजजए। 
+(SSC MTS 2024) 
+A) 
+4
+𝟐
+𝟑 
+ 
+BY:-GAGAN PRATAP 
+B) 
+4
+𝟒
+𝟗 
+C) 
+3
+𝟏
+𝟖 
+D) 3
+𝟑
+𝟓 
+34. Rajneesh drove his car at a speed of 99 km/h for 2 hours and then he took a rest for one hour. Then, he 
+further drove for 3 hours at a speed of 60 km/h. What was Rajneesh’s average speed (in km/h) during his 
+entire journey? 
+रजिीश िे 2 घंटे तक 99 ककमी/घंटा की गनत से अपिी कार चलाई और किर एक घंटे के मलए आराम ककया। किर, उसिे 60 ककमी/घंटा की 
+गनत से 3 घंटे तक गाडी चलाई। अपिी पूरी यात्रा के िौराि रजिीश की औसत गनत (ककमी/घंटा में) क्या थी? 
+(SSC MTS 2024) 
+ A) 63 
+ B) 65  
+ C) 69  
+ D) 67 
+35. Mithila covers 50 km by bus in 90 minutes. After deboarding the bus, she takes rest for 15 minutes and covers 
+another 30 km by a taxi in 35 minutes. Find the average speed (in km/h) for the whole journey. 
+ 
+ममधथला बस से 50 km की िूरी 90 ममिट में तय करती है। बस से उतरिे के बाि, िह 15 ममिट आराम करती है और टैक्सी द्िारा 35 ममिट में 30 
+km की एक और िूरी तय करती है। पूरी यात्रा के मलए औसत चाल (km/h में) ज्ञात कीजजए। 
+SSC CHSL PRE 2024 
+ 
+[A] 
+31
+𝟐
+𝟕  
+[B] 32
+𝟐
+𝟕  
+  
+  
+ 
+[C] 
+34
+𝟐
+𝟕   
+[D]  33
+𝟐
+𝟕 
+ 
+36. A bus covers the first 50 km of its journey in 40 minutes and covers the remaining 75 km in 40 minutes. What 
+is the average speed (in km/h) of the bus? 
+एक बस अपिी यात्रा का पहला 50 ककमी 40 ममिट में तय करती है और शेष 75 ककमी 40 ममिट में तय करती है। बस की औसत गनत 
+(ककमी/घंटा में) क्या है? 
+ 
+ 
+SSC CPO 2024 
+A) 95
+𝟏
+𝟒 
+B) 93
+𝟑
+𝟒 
+C) 101
+𝟏
+𝟒 
+D) 105
+𝟑
+𝟒 
+37. Shatabdi Express train covers 700 km in 5 hours and another 1012 km in 11 hours. What is the average speed 
+of the train (in metres/second)? 
+“krkCnh ,Dlizsl Vªsu 5 ?kaVs esa 700 fdeh vkSj 11 ?kaVs esa vU; 1012 fdeh dh nwjh r; djrh gSA Vsªu dh vkSlr pky ¼eh@ls esa½ fdruh gS\ 
+(a) 107 
+(b) 𝟑𝟖𝟓
+𝟏
+𝟓 
+(c)  𝟐𝟗
+𝟏𝟑
+𝟏𝟖 
+(d)  27 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+38. A car covers the first 76 km. of its journey in 48 minutes and covers the remaining 45 km. in 40 minutes. What 
+is the average speed of the car? 
+एक कार अपिी यात्रा के पहले 76 ककमी की िुरी 48 ममिट में तथा शेष 45 कीमी की िुरी 40 ममिट में तय करती है| कार की औसत चाल ज्ञात 
+करें? 
+a) 82.5 km/hr 
+b) 77.5 km/hr 
+c) 60.5 km/hr 
+d) 85 km/hr  
+39. A train travelling from Mumbai to Goa covered the first 420 km at a speed of 60 km/h and then covered the 
+remaining 195 km at a speed of 65 km/h. Find its average speed in km/h. 
+eqacbZ ls xksok tk jgh ,d jsyxkMh us igys 420 km dh nwjh 60 km/h dh pky ls r; dh vkSj fQj 'ks"k 195 km dh nwjh 65 km/h dh pky ls r; dhA bldh vkSlr 
+pky km/h esa Kkr dhft,A  
+(a) 61.5  
+(b) 62 
+ 
+(c) 62.3 
+(d) 63.5 
+40. A car covers a distance of 48 km at a speed of 40 km/h and another 52 km with a speed of 65 km/h. What is the average speed of the car ( 
+in km/h) for the total distance covered? 
+dksbZ dkj 40 km/h dh pky ls 48 km dh nwjh vkSj 65 km/h dh pky ls 52 km dh nwjh r; djrh gSA dqy nwjh r; djus esa dkj dh vkSlr pky (km/h esa) Kkr djsaA 
+(a)52.5 
+ (b)50 
+ 
+(c)52 
+ 
+(d)53 
+ 
+ 
+BY:-GAGAN PRATAP 
+41. Sunila drove her car at an average speed of 45 km/h for the first 75 km of a trip, and then at an average speed of 70 km/h for the remaining 
+45 km of the trip. If she made no stops during the trip, what was Sunila's average speed (in km/h) for the entire trip? 
+lquhyk viuh ;k=k ds igys 75 km esa 45 km/h dh vkSlr pky ls dkj pykrh gS mlds ckn 'ks"k 45 km ;k=k esa og 70 km/h dh vkSlr pky ls dkj pykrh gSA ;fn 
+lquhyk ;k=k ds nkSjku dgha Hkh #dh ugha gS] rks iwjh ;k=k ds nkSjku mldh vkSlr pky (km/h esa) Kkr dhft,A 
+(a) 
+52 
+(b) 
+𝟓𝟏
+𝟑
+𝟕 
+(c) 
+51 
+(d) 
+𝟓𝟏
+𝟗𝟑
+𝟗𝟕 
+42. Suraj travels 124 km at a speed of 31 km/h by bus, 96 km at a speed of 16 km/h using a car, and another 105 km at 7 km/h by car. Find 
+his average speed for the entire distance travelled. 
+lwjt cl }kjk 31 km/h dh pky ls 124 km, dkj }kjk 16 km/h dh pky ls 96 km vkSj dkj }kjk gh 7 km/h dh pky ls vU; 105 km dh ;k=k djrk gSA r; dh 
+xbZ dqy nwjh ds fy, mldh vkSlr pky Kkr dhft,A 
+(a) 
+13 km/h 
+(b) 
+21 km/h 
+(c) 
+15 km/h 
+(d) 
+18 km/h 
+43. Shalini travels a distance of 138 km with speed of 46 km/h and 438 km with 73 km/h by her car. Find the average speed (in km/h) of 
+Shalini. 
+          शामलिी अपिी कार से 138 km की िूरी 46 km/h की चाल से और 438 km की िूरी 73 km/h की चाल से तय करती है। शामलिी की औसत चाल 
+(km/h में) ज्ञात कीजजये। 
+[RRB JE 2024] 
+A) 56 
+B) 68 
+C) 70 
+D) 64 
+44. Reshma covers a distance of 45 km by cycle at a speed of 15 km/h, a distance of 80 km by car at a speed of 40 
+km/h and the remaining 6 km by foot at a speed of 2 km/h. Find his average speed for the whole journey? 
+(rounded off to 2 decimal places) 
+रेशमा साइककल  से 45 km की िूरी 15 km/h की चाल से, कार से 80 km की िूरी 40 km/h की चाल से और पैिल चलकर बाकक 6 km 
+की िूरी 2 km/h की चाल से तय करती है।  पूरी यात्रा के मलए उसकी औसत चाल ज्ञात कीजजये? ( 2 िशमलि स्थाि तक पूणाांककत) 
+A) 15.25 km/h 
+B) 16.38 km/h 
+C) 18.36 km/h 
+D) 43.50 km/h 
+45. A man travels 171 km at 57 km/h. another distance of 84 km at 42 km/h and a third distance 160 km at 40 
+km/h. his average speed for the whole journey (in km/h)? 
+एक आिमी 57 ककमी/घं की गनत से 171 ककमी की यात्रा करता है। 84 ककमी की िूसरी िूरी 42 ककमी/घंटा और तीसरी िूरी 160 ककमी 40 
+ककमी/घंटा है। पूरी यात्रा के मलए उसकी औसत गनत (ककमी/घंटा में) क्या है ? 
+A) 46
+𝟓
+𝟗 
+B) 46
+𝟏
+𝟗 
+C) 46
+𝟕
+𝟗 
+D) 46
+𝟐
+𝟗 
+46. The total journey is of 800 km. A car travels the first 320 km of the journey at the speed of 64 km/hr. What 
+should be the speed of the next 480 km so that average speed will become 80 km/hr? 
+,d ;k=k dh dqy nwjh 800 km gSA ;fn ,d dkj ;k=k ds igys 320 km dh nwjh 64 km/hr dh pky ls r; djrh gS] rks vxys 480 km dh pky D;k gksuh pkfg, rkfd 
+vkSlr pky 80 km/hr gks tk,\ (SSC MTS 2023) 
+ 
+(a) 96 km/hr 
+(b) 69 km/hr 
+(c) 86 km/hr 
+(d) 89 km/hr 
+ 
+47. A car travels the first 240 km at the speed of 50 km/h. the next 296 km at 80 km/h and the next 90 km at the 
+speed of 60 km/h. What is the average speed (in km/h) of the car for the entire journey? 
+ 
+BY:-GAGAN PRATAP 
+,d dkj izFke 240 km dh nwjh 50 km/h dh pky ls] vxys 296 km dh nwjh 80 km/h dh pky ls vkSj vxys 90 km dh nwjh 60 km/h dh pky ls r; djrh gSA iwjh 
+;k=k esa dkj dh vkSlr pky ¼km/h esa½ fdruh gksxh\ 
+1. 61.5  
+2. 62.2  
+3. 61.8 
+4. 62.6 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+48. As part of his journey, a person travels 120 km at 80 km/h, the next 100 km at 40 km/h, and comes back to 
+the starting point at 75 km/h. The average speed of the person throughout the journey (approximately) is: 
+अिनी यात्रा के एक भाग के रूि िें, एक व्यक्ति 80 मकिी/घोंटा की चाल से 120 मकिी की यात्रा करता है, अगले 100 मकिी की यात्रा 40 मकिी/घोंटा 
+की चाल से करता है, और 75 मकिी/घोंटा की चाल से प्रारोंमभक मबोंदु िर िािस आता है। िूरी यात्रा के दौरान व्यक्ति की औसत चाल ) लगभग (है : 
+(a) 63.46 km/h 
+)b) 58.74 km/h 
+)c) 68.15 km/h 
+)d) 49.58 km/h 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+ 
+49. A person covers 11 km with a speed of 7 km/h, 25 km with a speed of 10 km/h and 30 km with a speed of 20 
+km/h. What is the average speed of the person? 
+एक व्यजक्त 7 ककमी/घंटा की गनत से 11 ककमी, 10 ककमी/घंटा की गनत से 25 ककमी और 20 ककमी/घंटा की गनत से 30 ककमी की िूरी तय 
+करता है। व्यजक्त की औसत गनत क्या है? 
+ 
+ 
+SSC CPO 2024 
+A) 𝟏𝟏
+𝟕
+𝟏𝟑 km/h 
+B) 𝟏𝟏
+𝟏𝟏
+𝟏𝟑𝒌𝒎/𝒉 
+C) 𝟏𝟏
+𝟏𝟎
+𝟏𝟑km/h 
+D) 𝟏𝟏
+𝟗
+𝟏𝟑 km/h 
+50. A man rides his bicycle for 10 kilometres at a speed of 12 kilometres per hour, then for another 12 kilometres at a speed of 10 kilometres 
+per hour. What is his average speed for the entire trip approximately? 
+,d vkneh viuh lkbfdy dks 12 fdyksehVj çfr ?kaVs dh pky ls 10 fdyksehVj pykrk gS] fQj vxys 12 fdyksehVj] 10 fdyksehVj çfr ?kaVs dh pky ls pykrk gSA iwjh ;k=k esa 
+mldh vkSlr pky yxHkx fdruh gS\ 
+(a) 
+10.8 km/h 
+(b) 
+11.8 km/h 
+(c) 
+11.4 km/h 
+(d) 
+10 km/h 
+51. A cyclist travels 15 km at a speed of 10 km/h and then travels another 15 km at a speed of 20 km/h. What is 
+the average speed of the cyclist for the entire journey? (round to two places of decimals) 
+,d lkbfdy lokj 10 km/h dh pky ls 15 km dh ;k=k djrk gS vkSj fQj 20 km/h dh pky ls 15 km dh ,d vkSj ;k=k djrk gSA iwjh ;k=k esa lkbfdy lokj dh vkSlr 
+pky D;k gS\ (n'keyo ds nks LFkkuksa rd lfUUkdfVr) (SSC MTS 2023) 
+ 
+(a) 12.32km/h 
+(b) 13.74 km/h 
+(c) 12.72 km/h 
+(d) 13.33 km/h 
+ 
+52. A man travels 1200 km by train at 80 km/h, 1600 km by ship at 40 km/h, 1000 km by plane at 400 km/h, 
+and 200 km by car at 50 km/h. What is the average speed for the entire distance? (rounded off to 2 decimal 
+places) 
+एक आिमी ट्रेि से 80 ककमी/घंटा की गनत से 1200 ककमी, जहाज से 40 ककमी/घंटा की गनत से 1600 ककमी, हिाई जहाज से 400 ककमी/घंटा 
+की गनत से 1000 ककमी और कार से 50 ककमी/घंटा की गनत से 200 ककमी की यात्रा करता है। पूरी िूरी के मलए औसत गनत क्या है? (िो 
+िशमलि स्थािों तक पूणाांककत) 
+ 
+SSC CPO 2024 
+A) 75.40 km/h 
+B) 68.14 km/h 
+C) 72.40 km/h 
+D) 65.04 km/h 
+53. A person covers 11 km with a speed of 7 km/h, 25 km with a speed of 10 km/h and 30 km with a speed of 20 
+km/h. What is the average speed of the person? 
+एक व्यजक्त 7 ककमी/घंटा की गनत से 11 ककमी, 10 ककमी/घंटा की गनत से 25 ककमी और 20 ककमी/घंटा की गनत से 30 ककमी की िूरी तय 
+करता है। व्यजक्त की औसत गनत क्या है? 
+SSC CPO 2024 
+A) 𝟏𝟏
+𝟕
+𝟏𝟑 km/h 
+B) 𝟏𝟏
+𝟏𝟏
+𝟏𝟑𝒌𝒎/𝒉 
+C) 𝟏𝟏
+𝟏𝟎
+𝟏𝟑km/h 
+D) 𝟏𝟏
+𝟗
+𝟏𝟑 km/h 
+ 
+BY:-GAGAN PRATAP 
+54. A man travels 1200 km by train at 80 km/h, 1600 km by ship at 40 km/h, 1000 km by plane at 400 km/h, 
+and 200 km by car at 50 km/h. What is the average speed for the entire distance? (rounded off to 2 decimal 
+places) 
+एक आिमी ट्रेि से 80 ककमी/घंटा की गनत से 1200 ककमी, जहाज से 40 ककमी/घंटा की गनत से 1600 ककमी, हिाई जहाज से 400 ककमी/घंटा 
+की गनत से 1000 ककमी और कार से 50 ककमी/घंटा की गनत से 200 ककमी की यात्रा करता है। पूरी िूरी के मलए औसत गनत क्या है? (िो 
+िशमलि स्थािों तक पूणाांककत) 
+ 
+SSC CPO 2024 
+A) 75.40 km/h 
+B) 68.14 km/h 
+C) 72.40 km/h 
+D) 65.04 km/h 
+55. Anita travelled a distance for 11 minutes at the speed of 35 km/h in an autorikshaw. She travelled for 11 
+minutes in a taxi at 55 km/h and finally she travelled for 11 minutes by bus at 42 km/h to reach home. Find 
+her average speed for the whole journey. 
+अिने घर िहुचने के मलए अनीता ने एक ऑट ररक्शा से 35 मकिी/घोंटा की चाल से 11 मिनट यात्रा की। उसने टैक्सी से 55 मकिी/घोंटा की चाल से 
+11 मिनट की यात्रा की और अोंत िें बस से उसने 42 मकिी/घोंटा की चाल से 11 मिनट की यात्रा की और घर िहुुँच गयी। िूरी यात्रा के मलए उसकी 
+औसत गमत ज्ञात कीमजए। 
+1. 34 km/h 
+2. 54 km/h 
+3. 44 km/h 
+4. 64 km/h 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+56. A man travels from A to B at a speed of 36 km/hr in 74 min and he travels a distance from B to C with a speed 
+of 45 km/hr in 111 min. Find the average speed of whole journey. 
+एक आिमी 74 ममिट में 36 ककमी / घंटा की गनत से A से B की यात्रा करता है और िह 111 ममिट में 45 ककमी/घंटा की गनत से B से C की 
+िूरी तय करता है। पूरी यात्रा की औसत गनत ज्ञात कीजजए। 
+a) 40.6 km/hr  
+b) 44.4 km/hr 
+c) 36.2 km/hr  
+d) 41.4 km/hr 
+ 
+57. A part of a journey is covered in 37.5 minutes at 90 km/h and the remaining part in 14 minutes at 80 km/h. 
+The total distance (in km) of the journey is : 
+मकसी यात्रा के एक भाग क  90 मकिी/घोंटा की चाल से 37.5 मिनट िें और शेष भाग क  80 मकिी/घोंटा की चाल से 14 मिनट िें तय मकया जाता 
+है। यात्रा की कुल दूरी (मकिी िें) ज्ञात कीमजए:  
+(a) 𝟕𝟔
+𝟓
+𝟏𝟐 
+(b)  𝟔𝟐
+𝟏𝟏
+𝟏𝟐 
+(c)  𝟕𝟖
+𝟓
+𝟏𝟐  
+(d) 𝟕𝟒
+𝟏𝟏
+𝟏𝟐  
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+58. A man’s average driving speed for 9 hours is 88 km/hr. During the first five hours of his journey, he drove at 
+74 km/hr, and last two hours he drove at 82 km/hr. What was his average speed (in km/hr) for the sixth and 
+the seventh hour?  
+एक आिमी की 9 घंटे की औसत ड्राइविंग गनत 88 ककमी/घंटा है। अपिी यात्रा के पहले पांच घंटों के िौराि, उन्होंिे 74 ककमी/घंटा की गनत से 
+गाडी चलाई, और अंनतम िो घंटों में उन्होंिे 82 ककमी/घंटा की गनत से गाडी चलाई। छठे और सातिें घंटे में उसकी औसत गनत (ककमी/घंटा में) 
+क्या थी?  
+ 
+(SSC MTS 2024) 
+A) 92  
+B) 120 
+C) 129 
+D) 101 
+59. A car travels at 45 km/h for 2
+𝟏
+𝟑 hours, at 40 km/h for next 3
+𝟏
+𝟐  hours and at 60 km/h for another 4
+𝟏
+𝟔 hours. 
+What is the average speed (in km/h) of the car for the entire journey? 
+एक कार 2
+𝟏
+𝟑 घंटे के ललए 45 ककमी/घंटा की गति से, अगले 3
+𝟏
+𝟐  घंटों के ललए 40 ककमी/घंटा की गति से और अन्य 4
+𝟏
+𝟔 घंटों के ललए 60 ककमी/घंटा की 
+गति से यात्रा करिी है। पूरी यात्रा में कार की औसि गति (ककमी/घंटा में) क्या है? 
+ (ICAR Assistant 2022) 
+A) 49.5 
+B) 47.4 
+C) 48.3 
+D) 47.2 
+60. P drives a car for 5 hours and after every hour he doubles the speed. In the fifth hour, his speed is 128 km/h. 
+What is his average speed of the journey in km/h? 
+ 
+P एक कार को 5 घंटे चलाता है और प्रत्येक घंटे के बाि िह कार की चाल को िोगुिा कर िेता है। पाुँचिें घंटे में उसकी चाल 128 km/h है। यात्र 
+की उसकी औसत चाल (km/h में) क्या है? 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A]55.6 
+ 
+[B] 
+49.6 
+ 
+ 
+[C]62.6 
+ 
+[D] 
+52.6 
+ 
+ 
+BY:-GAGAN PRATAP 
+61. Pawan travels from X to Y at the speed of 10 km/h, from Y to Z at 15 km km/h Z to W at 20 km/h. If XY = YZ = ZW (in km), then the 
+average speed of Pawan for the whole journey is: 
+iou X ls Y rd dh nwjh 10 km/h dh pky ls] Y ls Z rd dh nwjh 15 km/h dh pky ls vkSj Z ls W rd dh nwjh 20 km/h dh pky ls r; djrk gSA ;fn XY = 
+YZ = ZW ¼fdeh- esa½ gSa] rks iwjh ;k=k ds nkSjku iou dh vkSlr pky fdruh gS\ 
+(a) 
+1310
+13
+ km/h 
+(b) 
+1311
+13
+ km/h 
+(c) 
+13 8
+13
+ km/h 
+(d) 
+ 
+13 9
+13
+ km/h 
+62. The average speed of a train running at a speed of 30 km/h during the first 100 km, at the speed of 40 km/h during the second 100 km and 
+at the speed of 50 km/h during the last 100 km is nearly ________. 
+igys 100 fdeh ds nkSjku 30 fdeh@?ka- dh pky ls pyus okyh Vªsu] nwljs 100 fdeh- ds nkSjku 40 fdeh@?ka- dh pky ls pyus okyh Vªsu vkSj vafre 100 fdeh- ds nkSjku 50 
+fdeh@?ka- dh pky ls pyus okyh Vªsu dh vkSlr pky yxHkx ------------------- gSA 
+(a) 
+40.2 km/h 
+(b) 
+38.3 km/h 
+(c) 
+39.2 km/h 
+(d) 
+37.5 km/h 
+63. An aeroplane flies along the four sides of a square field at the speeds of 150 km/h, 300 km/h, 450 km/h and 600 km/h. Find the average 
+speed of the plane around the field. 
+,d foeku fdlh eSnku ds pkjksa vksj mldh pkj Hkqtkvksa ds layXu 150 km/h, 300 km/h, 450 km/h vkSj 600 km/h dh pky ls mM+rk gSA eSnku ds pkjksa vksj ?kwers gq, 
+foeku dh vkSlr pky Kkr dhft,A (SSC GD 2022) 
+(a) 
+350 km/h 
+(b) 
+288 km/h 
+(c) 
+228 km/h 
+(d) 
+225 km/h 
+64. A train moves at a constant speed of 160 km/h for 5 kilometer and at 64 kmph for the next 7 kilometers. What 
+is the average speed of the train? 
+एक ट्रेि 5 ककलोमीटर की िूरी 160 ककमी/घंटा की गनत से और अगले 7 ककलोमीटर की िुरी 64 ककमी/घंटे की गनत से चलती है। ट्रेि की औसत 
+गनत क्या है? 
+(a) 84.66 kmph  
+(b) 86.5 kmph 
+ 
+(c) 85.33 kmph 
+(d) 81.44 kmph 
+ 
+65. A man travels from A to B 51 km distance with a speed of 24 km/hr and he travel from B to C 68 km distance 
+with a speed of 30 km/hr. Find the average speed of whole journey? 
+एक आिमी 51 ककलोमीटर 24  ककमी / घंटा की गनत से A से B की यात्रा करता है और िह 68 ककलोमीटर 
+30 ककमी/घंटा की गनत से B से C की िूरी तय करता है। पूरी यात्रा की औसत गनत ज्ञात कीजजए। 
+a) 
+𝟖𝟒𝟎
+𝟑𝟏 km/hr  
+ 
+b) 
+𝟔𝟒𝟎
+𝟑𝟏 km/hr 
+c) 
+𝟕𝟐𝟎
+𝟑𝟏 km/hr 
+ 
+d) 
+𝟗𝟔𝟎
+𝟑𝟏 km/hr 
+66. A person covers 11 km at a speed of 3 km/h, 21 km at a speed of 5 km/h and 37 km at a speed of 10 km/h. 
+Find the average speed for the entire journey. 
+एक व्यक्ति 11 मकिी की दूरी 3 मकिी/घोंटा की चाल से, 21 मकिी की दूरी 5 मकिी/घोंटा की चाल से और 37 मकिी की दूरी 10 मकिी/घोंटा की 
+चाल से तय करता है। िूरी यात्रा की औसत चाल ज्ञात कीमजए। 
+1. 5
+𝟑𝟑𝟓
+𝟑𝟒𝟕 km/h 
+2. 5
+𝟑𝟑𝟓
+𝟐𝟒𝟕 km/h 
+3. 5
+𝟑𝟒𝟕
+𝟑𝟑𝟓 km/h 
+4. 5
+𝟏𝟑𝟓
+𝟑𝟒𝟕 km/h 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+ 
+ 
+BY:-GAGAN PRATAP 
+67. A person travels 900 km by train at 80km/hr, 1200 km by ship at 240 km/hr , 750 km by aeroplane at 400 
+km/hr and 150 km by car at 100km/hr. What is the average speed for the entire distance? 
+एक व्यजक्त ट्रेि से 900 ककमी की यात्रा 80 ककमी/घंटा, िौका से 1200 ककमी की यात्रा 240 ककमी/घंटा, हिाई जहाज से 750 ककमी की यात्रा 400 
+ककमी/घंटा और 150 ककमी की यात्रा कार द्िारा 100 ककमी / घंटा से तय करता है। संपूणा िूरी के मलए औसत गनत क्या है? 
+(a) 152.86 km/hr 
+     
+ (b) 141.45 km/hr 
+(c) 170.33 km/hr      
+ 
+ (d) 146.54 km/hr 
+68. While travelling from A to B, Raghav travels a quarter of the distance at 10 km/h, the next quarter of the 
+distance at 15 km/h, the third quarter of the distance at 20 km/h, and the final quarter of the distance at 30 
+km/h. While travelling on exactly the same route, Manish travels for a quarter of the total time taken for his 
+journey at 10 km/h, the next quarter of the total time taken for his journey at 15 km/h, the third quarter of 
+the total time taken for his journey at 20 km/h, and the final quarter of the total time taken for his journey at 
+30 km/h. If the overall average speed of Raghav during his journey is given as y km/h, and that of Manish is 
+given as z km/h, find the value of (z – y). 
+ 
+A से B तक की यात्रा करते समय राघि एक चौथाई िूरी 10 Km/h की चाल से तय करता है, अगली चौथाई िूरी 15 Km/h से, अगली चौथाई िूरी 
+20 Km/h से, और अंनतम चौथाई िूरी 30 Km/h की चाल से तय करता है। ठीक उसी मागा पर यात्रा करते समय मिीष अपिी यात्रा में लगिे िाले 
+कुल समय का एक चौथाई िाग 10 Km/h की चाल से यात्रा करता है, अगला चौथाई िाग 15 Km/h की चाल से, कुल समय का अगला चौथाई िाग 
+20 Km/h की चाल से और उसकी यात्रा हेतु मलये गए कुल समय का अंनतम चौथाई िाग 30 Km/h की चाल से पूरा करता है। यदि अपिी यात्रा 
+के िौराि राघि की कुल औसत चाल y Km/h और मिीष की z Km/h के रूप में िी गई है, तो (z - y) का माि ज्ञात की जजए। 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A]0 
+                             [B]1.5 
+[C]2.75 
+ 
+ 
+[D]2.5 
+69. Two-thirds of a certain distance was covered at the speed of 45 km/h, one-fourth at the speed of 60 km/h and the rest at the speed of 75 
+km/h. Find the average speed per hour for the whole journey. (correct to 2 decimal places) 
+fdlh fuf'pr nwjh dk nks&frgkbZ Hkkx 45 km/h dh pky ls] ,d&pkSFkkbZ Hkkx 60 km/h dh pky ls vkSj 'ks"k Hkkx 75 km/h dh pky ls r; fd;k x;kA iwjh ;k=k ds fy, 
+vkSlr pky çfr ?kaVk ¼nks n'keyo LFkku rd lgh½ Kkr dhft,A 
+(a) 
+51.25 km/h 
+(b) 
+45.75 km/h 
+(c) 
+58.25 km/h 
+(d) 
+49.77 km/h 
+70. A car travels one-fourth of the distance with a speed of 48 kmph, one-third of the distance with a speed of 54 
+kmph and rest of the distance with a speed of 60 kmph. The average speed (in kmph) of the car for the whole 
+journey is: (correct to two decimal places) 
+एक कार एक चौथाई दूरी 48 मकिी प्रमत घोंटे की चाल से, एक मतहाई दूरी 54 मकिी प्रमत घोंटे की चाल से और शेष दूरी 60 मकिी प्रमत घोंटे की चाल 
+से तय करती है। िूरी यात्रा के मलए कार की औसत चाल (मकिी प्रमत घोंटे िें) मकतनी है: (दशिलि के द  स्थान ों तक सही) 
+1. 55.63 
+2. 53.65 
+3. 52.23 
+4. 54.57 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+71. Ankit travelled the first half of the distance from her house to school at a speed of 36 km/h and for exactly 
+three-fifth of the remaining he travelled at 40 km/h and the rest of the journey at 48 km/h. Find his average 
+speed. 
+अंककत िे अपिे घर से स्कूल तक की आधी िुरी 36 ककमी / घंटा की गनत से यात्रा की और बाकी बचे 3/5 दहस्से के मलए उन्होंिे 40 ककमी / 
+घंटा की यात्रा की और बाकी की यात्रा 48 ककमी / घंटा की यात्रा की। उसकी औसत गनत ज्ञात कीजजए। 
+(a) 34.78 km/h 
+(b) 43.47 km/h 
+ 
+(c) 39.13 km/h 
+(d) 36.95 km/h 
+72. A train goes from P to Q with a speed u km/h, then Q to R(QR=2PQ) with a speed of 3u km/hr and then returns 
+R to P    with a speed 
+𝒖
+𝟐 km/h. What is the average speed (in km/h) of the train for the entire journey starting 
+from P and back to P? 
+एक ट्रेन u km/h की गति से, P से Q िक जािी है, किर 3u km/h की गति से, Q से R िक (QR=2PQ) जािी है और किर
+𝒖
+𝟐 km/h की गति से, R से P िक वापस 
+आिी है| P से यात्रा शुरू करके और P िक वापस आने के ललए ट्रेन की औसि गति (km में) क्या है? 
+A) 
+𝟏𝟖𝒖
+𝟐𝟑 
+ 
+B) 
+𝟒𝒖
+𝟑 
+ 
+C) 
+𝟏𝟔𝒖
+𝟐𝟑 
+ 
+D) 
+𝟑𝒖
+𝟐 
+73. Mohan complete a certain journey by car. If he covered 30% of the distance at 90 km/h, 45% of the distance 
+at 135 km/h and the remaining distance at 75 km/h. his average speed (in km/h). His average speed (in km/h) 
+for the entire journey is? 
+मोहि िे कार से एक निजश्चत यात्रा पूरी की। यदि उसिे 30% िूरी 90 ककमी/घंटा की गनत से, 45% िूरी 135 ककमी/घंटा की गनत से और शेष 
+िूरी 75 ककमी/घंटा की गनत से तय की। उसकी औसत गनत (ककमी/घंटा में) पूरी यात्रा के मलए उसकी औसत गनत (ककमी/घंटा में) क्या है? 
+ 
+ (CHSL PRE 2023) 
+ 
+BY:-GAGAN PRATAP 
+A) 100 
+B) 90 
+C) 95 
+D) 105 
+74. A man covers a certain distance at the speed of x km/h and returns to the starting point at 56 km/h. If his average speed for the whole 
+journey is 63 km/h, then what is the value of x? 
+,d O;fDr x km/h dh pky ls ,d fuf'pr nwjh r; djrk gS vkSj 56 km/h dh pky ls izkjafHkd fcUnw ij ykSVrk gSA ;fn iwjh ;k=k ds nkSjku mldh vkSlr pky 63 km/h 
+gS] rks x dk eku Kkr dhft,A 
+(a) 
+75 
+(b) 
+72 
+(c) 
+80 
+(d) 
+70 
+75. The ratio of the distance between two places A and B to the distance between places B and C is 3 :5. A man travels from A to B at a speed 
+of x km/h and from B to Cat a speed of 50 km/h. If his average speed for the entire journey is 40 km/h, then what is the value of (x - 10) : 
+(x + 1)? 
+स्थािों A और B के बीच की िूरी का, स्थािों B और C के बीच की िूरी से अिुपात 3 : 5 है। एक व्यजक्त A से B तक, x km/h की चाल से और B 
+से C तक, 50 km/h की चाल से यात्रा करता है। यदि पूरी यात्रा के मलए उसकी औसत चाल 40 km/h है, तो (x-10) : (x+1) का माि क्या होगा? 
+(a)20:31  
+(b) 31:20  
+(c) 11 : 10 
+(d) 10: 11 
+76. A person travelled a distance of 200 kilometre between two cities by a car. Covering the first quarter of the 
+journey at a constant speed of 40 km/h and the remaining three quarters at a constant speed of x km/h. If the 
+average speed of the person for the entire journey was 53.33 km/h what is value of x? 
+एक व्यजक्त िे एक कार द्िारा िो शहरों के बीच 200 ककलोमीटर की िूरी तय की। यात्रा की एक चौथाई 40 ककमी / घंटा की नियत गनत से और 
+शेष तीि-चौथाई x ककमी / घंटा की नियत गनत से तय ककया। यदि संपूणा यात्रा के मलए व्यजक्त की औसत गनत 53.33 ककमी / घंटा है तो x का 
+माि क्या है? 
+(a) 55km/h 
+(b) 60km/h 
+ 
+c)64km/hr                
+d)54km/hr 
+77. A man on a tour of 400 km, travels the first 120 km at 80 km/h and the next 150 km at 75 km/h. If he must 
+spend less than 5 hours in the tour, what is the minimum speed at which he has to travel for the remaining 
+distance? 
+एक आिमी 400 ककमी की यात्रा पर है, पहले 120 ककमी की यात्रा 80 ककमी/घंटा की गनत से और अगले 150 ककमी की यात्रा 75 ककमी/घंटा 
+की गनत से करता है। यदि उसे िौरे में 5 घंटे से कम समय बबतािा है, तो शेष िूरी के मलए उसे न्यूितम गनत क्या तय करिी होगी?
+ 
+(SSC MTS 2024) 
+ A) 90.21 km/h  
+ B) 84.72 km/h  
+ C) 86.66 km/h  
+ D) 88.56 km/h 
+78. The total distance in a journey is 750km. A bust travels the first 200 km at s speed of 40 kmph. Find the speed of 
+the bus (in kmph) for the next 550 km such that the average speed of the bus is 50 kmph 
+,d ;k=k dh dqy nwjh 750 km gSA ,d cl 'kq#vkrh 200 km dh nwjh 40 kmph dh pky ls r; djrh gSA vxys 550 km dh nwjh r; djus ds fy, cl dh pky 
+¼kmph esa½ bl çdkj Kkr dhft, fd cl dh vkSlr pky 50 kmph gks A 
+(a) 60 
+ 
+(b) 55  
+(c) 45 
+(d) 40 
+79. A man travel first 90 km at 45 km/h, next 210 km at 60 km/h and for 4
+𝟏
+𝟐 hours at x km/h. if this average 
+speed for the whole journey is 61.5 km/h, then what is the value of x? 
+एक आिमी पहले 90 ककमी की यात्रा 45 ककमी/घंटा की गनत से करता है, अगले 210 ककमी की गनत 60 ककमी/घंटा की गनत से और 4
+𝟏
+𝟐 घंटे 
+के मलए x ककमी/घंटा की गनत से यात्रा करता है। यदि पूरी यात्रा के मलए यह औसत गनत 61.5 ककमी/घंटा है, तो x का माि क्या है? 
+A) 65 
+B) 70 
+C) 75 
+D) 64 
+80. A man travels 180 km by car at 48 km/h, 1700 km by aeroplane at 680 km/h and 300 km by train at x km/h. 
+If the average speed for the entire travel is 218 km/h, then the value of x is: 
+एक आिमी कार से 180 ककमी की यात्रा 48 ककमी/घंटा, 1700 ककमी हिाई जहाज से 680 ककमी/घंटा और 300 ककमी ट्रेि से x ककमी/घंटा की 
+गनत से तय करता है। यदि पूरी यात्रा की औसत गनत 218 ककमी/घंटा है, तो x का माि है: 
+A. 80 
+ 
+B. 100  
+C. 85 
+ 
+D. 90 
+ 
+BY:-GAGAN PRATAP 
+ 
+81. In a 100-km journey, the average speed of S is 40 km/h. He covers the first 60 km in 40 minutes and the next 20 km in 50 minutes. 
+What is his speed in the last 20 km (in km/h)? 
+ 
+100 km की यात्र में, S की औसत चाल 40 km/h है। िह पहले 60 km को 40 ममिट में और अगले 20 km को 50 ममिट में तय करता है। 
+तो बताइए कक अंनतम 20 km में उसकी चाल (km/h में) क्या है? 
+ 
+ SSC CPO Pre 2024  
+ 
+[A]20 
+ 
+[B] 40 
+ 
+[C]25 
+ 
+[D] 30 
+82. A car, during its entire journey of 5 hours, travels the first 45 minutes at a certain speed, the next 75 minutes at a speed of 85 km/h, and 
+the last 3 hours at a speed of 70 km/h. During its entire journey, the average speed of the car is found to be 73 km/h. What is the speed 
+(in km/h) of the car during the first 45 minutes? 
+एक कार 5 घोंटे की अिनी िूरी यात्रा के दौरान, िहले 45 मिनट एक मनमित चाल से अगले 75 मिनट 85 km/h की चाल से, और अोंमति 3 घोंटे 70 
+km/h की चाल से तय करती है। अिनी िूरी यात्रा के दौरान, कार की औसत चाल 73 km/h िाई जाती है। िहले 45 मिनट के दौरान कार की चाल 
+(km/h िें) ज्ञात करें।  
+(a) 62  
+(b) 65  
+(c) 72  
+(d) 68 
+(SSC CPO 2023) 
+83. A man runs for 40 km. The time taken by him in the first 10 km is twice the time taken by him in the second 10 km. The time taken in the 
+third 10 km is half of the time taken in the fourth 10 km, and the time taken in the fourth 10 km is equal to the time taken in the first 10 
+km. If his speed in the first 10 km is 40 km/h, then what is the average speed for 40 km? 
+एक व्यक्ति 40 km दौड़ता है। िहले 10 km िें उसके द्वारा मलया गया सिय, दूसरे 10 km िें उसके द्वारा मलए गए सिय से द गुना है। तीसरे 10 km 
+िें मलया गया सिय, चौथे 10 km िें मलए गए सिय का आधा है, और चौथे 10 km िें मलया गया सिय, िहले 10 km िें मलए गए सिय के बराबर है। 
+यमद िहले 10 km िें उसकी चाल 40 km/h है, त  40km के मलए उसकी औसत चाल मकतनी ह गी?  
+(a) 
+𝟏𝟔𝟎
+𝟑 km/h 
+    (b) 
+𝟒𝟎
+𝟑 km/h 
+ 
+(c) 𝟓𝟎 km/h          
+   (d) 𝟒𝟎 km/h 
+ 
+(SSC CPO 2023) 
+84. R jogs at twice the speed of walking and runs at twice the speed of jogging. From his home to office, he covers half of the distance by 
+walking and the rest by jogging. From his office to home, he covers half the distance jogging and the rest by running. What is his average 
+speed (in km/h) in a complete round from his home to office and back home if the distance between his office and home is 10 km and he 
+walks at the speed of 5 km/h? 
+R pyus dh pky dh rqyuk eas nksxquh pky ls tkWfxax djrk gS vkSj tkWfxax dh rqyuk esa nksxquh pky ls nkSM+rk gSA vius ?kj ls vkWfQl rd og vk/kh nwjh pydj r; djrk gS 
+vkSj 'ks"k tkWfxax djdsA og vius vkWfQl ls ?kj vkrs le; vk/kh nwjh tkWfxax djds vkSj 'ks"k nwjh nkSM+dj r; djrk gSA ?kj ls vkWfQl rd vkSj vkWfQl ls okil ?kj vkus rd ds 
+iw.kZ pDdj esa mldh vkSlr (km/h esa) fdruh gS] vxj mlds dk;kZy; vkSj ?kj ds chp dh nwjh 10 km gS vkSj og 5 km/h dh pky ls pyrk gS\ 
+(a) 
+90/8 
+(b) 
+60/8 
+(c) 
+80/9 
+(d) 
+60/9 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+85. Two trains start at the same time from Bangalore and Chennai and proceed towards each other at the speeds of 80 km/h and 95 km/h. 
+When they meet, it is found that one train has travelled 180 km more than the other. The distance between Bangalore and Chennai is: 
+nks Vªsusa ,d gh le; esa cSaxyksj vkSj psUubZ ls pyuk 'kq: djrh gSa vkSj ,d&nwljs dh vksj 80 km/h vkSj 95 km/h dh pky ls vkxs c<+rh gSA tc os feyrh gSa] rks irk pyrk 
+gS fd ,d Vªsu us nwljh ls 180 km vf/kd ;k=k dh gSA cSaxyksj vkSj psUubZ ds chp dh nwjh -------------------- gSA 
+(a)345 km 
+(b)400 km  
+(c)1200 km 
+(d)2100 km 
+86. Two trains start at the same time from Vijayawada and Calcutta and proceed towards each other at the speed of 24 km/h and 42 km/h, 
+respectively. When they meet, it is found that one train has travelled 140 km more than the other. The distance between the two stations 
+is: (Consider up to two decimals) 
+nks Vªsusa ,d gh le; esa fot;okM+k vkSj dydÙkk ls çLFkku djrh gSa vkSj Øe'k% 24 km/h vkSj 42 km/h dh pky ls ,d&nwljs dh vksj c<+rh gSaA tc os feyrh gSa] rks irk 
+pyrk gS fd ,d Vªsu us nwljh ls 140 km vf/kd ;k=k dh gSA nks LVs'kuksa ds chp dh nwjh fdruh gS\ ¼nks n'keyo LFkku rd eku ysa½ 
+(a)413.33 km 
+  
+(b)540.33 km 
+ 
+(c)510.33 km 
+ 
+(d)513.33 km 
+87. Travelling at 60 km/h, a person reaches his destination in a certain time. He covers 60% of his journey in 
+𝟐
+𝟓th 
+of the time. At what speed (in km/h) should he travel to cover the remaining journey so that he reaches the 
+destination right on time? 
+60 किमी / घंटा िी यात्रा, एि व्यक्ति एि किकित समय में अपिे गंतव्य ति पहंचता है। वह अपिी यात्रा िा 60%, 
+𝟐
+𝟓th समय में पूरा िरता है। 
+उसे शेष यात्रा िो पूरा िरिे िे किए किस गकत (किमी / घंटा में) से यात्रा  िरिी चाकहए ताकि वह सही समय पर गंतव्य ति पहुँच सिे? 
+(a) 36     
+ 
+ 
+(b) 42  
+(c) 48  
+ 
+ 
+(d) 40 
+ 
+BY:-GAGAN PRATAP 
+88. Ram needs to reach the examination center in 6 hours, the journey itself is 250 km. If Ram has covered (3/5)th of the distance in 3.5 hours 
+then what is the speed required to reach the destination 30 minutes early than the required time? 
+jke dks ijh{kk dsUæ rd 6 ?kaVs esa igq¡puk gS] ijh{kk dsUæ 250 km dh nwjh ij gSA ;fn jke us bl nwjh dk (3/5) Hkkx 3.5 ?kaVs esa r; fd;k] rks fu;r le; ls 30 feuV igys 
+ijh{kk dsUæ igq¡pus ds fy, vko';d pky fdruh gksuh pkfg,\ 
+(a)50 km/h 
+(b)90 km/h  
+(c)40 km/h 
+(d)60 km/h 
+ 
+ 
+SSC CHSL TIER – I 2022 
+89. B starts 4.5 minutes after A from the same point, for a place at a distance of 3.5 miles from the starting point. 
+A on reaching the destination turns back and walk a mile he meets B. If A’s speed is a mile in 6 minutes then 
+B’s speed is a mile in ……. minutes? 
+प्रारंमिक बबंिु से 3.5 मील की िूरी पर जस्थत ककसी स्थाि के मलए B, A के चलिे के 4.5 ममिट बाि उसी बबंिु से चलिा प्रारंि करता है। गंतव्य 
+तक पहुंचिे के बाि A पीछे मुडता है और एक मील चलिे के बाि B से ममलता है। यदि 6 ममिट में 1 मील चलता है तो B की गनत ............ 
+ममिट में 1 मील होगी। 
+a) 8 
+ 
+b) 10 
+ 
+c) 12 
+ 
+d) 9 
+ 
+90. Distance between A & B is 660 km. From point A, two persons start their journey with speed 70 km/hr. and 98 
+km/hr. respectively at same time. When faster person reaches at point B then return and meet slower person at 
+C on the way. Find distance between BC. 
+A और B के बीच की िूरी 660 ककमी है| िो व्यजक्त अपिी यात्रा एक ही समय पर क्रमशः 70 ककमी/घंटे और 98 ककमी/घंटे की चाल से बबंिु A 
+से आरम्ि करते है| जब तेज चलिे िाला व्यजक्त बबंिु B पर पहुुँचता है किर लौटते समय रस्ते में बबंिु C पर धीरे चलिे िाले व्यजक्त से ममलता 
+है| तो BC के बीच की िुरी ज्ञात कीजजए? 
+a) 110 km 
+ 
+b) 165 km 
+ 
+c) 55 km 
+ 
+d) 220 km 
+91. Distance between two places A & B is 350 km. Two persons P and Q start their journey at point A at the same 
+time. Speed of P is 54 km/hr less than speed of Q. When Q reaches at point B, he returns immediately and meet 
+to P at point C on the way. If BC=75 km. Find the speed of P? 
+िो स्थाि A और B के बीच की िूरी 350 ककमी है। िो व्यजक्त P और Q एक ही समय पर बबंिु A से अपिी यात्रा शुरू करते हैं। P की गनत Q की 
+गनत से 54 ककमी/घंटा कम है। जब Q बबंिु B पर पहुुँचता है तो तुरंत िापस लौटकर P से रास्ते में बबंिु C पर ममलता है। यदि BC = 75 कक.मी. 
+है, P की गनत ज्ञात कीजजये? 
+a) 117 km/hr b) 99 km/hr 
+ 
+c) 110 km/hr d) 108 km/hr 
+92. A bus travels 2/5 of a total journey at its usual speed. The remaining distance was covered by bus at 6/7 of its 
+usual speed. Due to slow speed it reaches its destination 50 minutes late. If the total distance is 200 kms, then 
+what is the usual speed (in km/hr) of bus? 
+,d cl viuh ;k=k dk 2/5 va”k lkekU; xfr ls pyrh gSA cph gqbZ nwjh cl lkekU; ls 6/7 dh xfr ls r; djrh gSA èkheh xfr ds dkj.k og vius xarO; LFkku ij 50 feuV 
+dh nsjh ls igq¡prh gSA ;fn dqy nwjh 200 fd-eh- gS] rks cl dh lkekU; xfr ¼fd-eh-@?kaVk esa½ D;k gksxh\ 
+(a) 20.57 
+ 
+(b) 24  
+(c) 28          
+ 
+(d) 26.52 
+93. Ravi travels 600 km partly by car and partly by train . He takes 8 hours to reach. If he travels 120km. by train 
+and rest by car. He will take 20 minutes more if he were to travel 200 km by train and rest by car. The speed of 
+the train is: 
+रक्ति 600 ककमी. की िुरी को अंशतः कार द्िारा ,dqN nwjh dks jsyxkM+h ls r; djrk gS | यदि िह 120 ककमी. रेलगाडी से तथा शेष िुरी कार द्िारा तय 
+करें| िह पहुुँचिे में 8 घंटे का समय लेता है | यदि 200 ककमी. की िुरी रेलगाडी तथा शेष कार द्िारा तय करें| िह 20 ममिट अधधक लेता है| 
+बताये रेलगाडी की गनत ककतिी होगी? 
+a) 45 km/hr 
+ 
+b) 60 km/hr 
+ 
+c) 75 km/hr 
+ 
+d) 40 km/hr 
+ 
+ 
+94. A person travels a distance of 240 km, partly by train and the rest by bus. He takes 𝟑
+𝟏
+𝟐 hrs if he travels 150 km by train and the rest by bus. If 
+he travels 140 km by bus and the rest by train, he takes 𝟑
+𝟐
+𝟑 hrs. What is the speed of the train? 
+,d O;fDr 240 fdeh dh nwjh esa ls dqN nwjh dks jsyxkM+h ls r; djrk gS vkSj “ks’k nwjh dks cl }kjk r; djrk gSA ;fn og 150 fdeh dh nwjh jsyxkM+h ls vkSj “ks’k nwjh cl ls r; 
+djrk gS rks mls ;k=k esa 𝟑
+𝟏
+𝟐 ?kaVsa dk le; yxrk gSA ;fn og 140 fdeh dh nwjh cl ls vkSj “ks’k nwjh jsyxkM+h ls r; djrk gS rks mls 𝟑
+𝟐
+𝟑 ?kaVsa dk le; yxrk gSA jsyxkM+h dh 
+pky fdruh gS\ 
+ (a) 70 
+ 
+(b) 75 
+ 
+(c) 80 
+ 
+(d) 72 
+ 
+ 
+ 

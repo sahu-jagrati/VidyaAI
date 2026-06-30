@@ -1,0 +1,283 @@
+ 
+ 
+ 
+1. A prism and a pyramid have the same 
+base and the same height. Find the 
+ratio of the volume of the prism and 
+the pyramid? 
+एक प्रिज्म और एक प्रिराममड का आधार समान 
+और ऊंचाई समान है। प्रिज्म और प्रिराममड के 
+आयतन का अनुिात ज्ञात कीजिये? 
+A) 2:3 
+B) 3:1 
+C) 1:3 
+D) 3:2 
+2. The volume of a right pyramid is 45√𝟑 cm3 and 
+its base is an equilateral triangle with side 6 cm. 
+What is the height (in cm) of the pyramid? 
+एक  पिरापिड का आयतन 45√3 सेिी3 है और इसका 
+आधार एक सिबाहु पिभुज है, जिसकी भुिा 6 सेिी 
+है। पिरापिड की ऊंचाई (सेिी िें) क्या है? 
+(a) 20  
+ 
+ 
+(b) 15 
+(c) 12  
+ 
+ 
+(d) 18 
+3. The base of a right pyramid is an equilateral 
+triangle with side 8 cm, and its height is 30 √𝟑 
+cm. The volume (in cm3) of the pyramid is: 
+ककसी लंब प्रिराममड (right pyramid) का आधार 8 
+cm भुिा वाला समबाहु त्रिभुि है, और इसकी ऊंचाई 
+30 √𝟑 cm है। प्रिराममड का आयतन (cm3 में) ज्ञात 
+कीजिए। 
+(a) 480 
+ 
+(b) 360√𝟑 
+ 
+ 
+(c) 360  
+ 
+(d) 240√𝟑 
+4. Find the volume of a pyramid whose base is an 
+equilateral triangle of side 16√3 cm and its slant 
+height is 3 times of its height? 
+उस प्रिराममड का आयतन क्या होगा जिसका आधार एक 
+समबाहु  त्रिभुि है जिसकी भुिा 16√3 cm है , और इसकी 
+ततययक ऊंचाई इसके ऊंचाई का तीन गुना है ?  
+a) 128√6 cm2    
+b) 128√3   
+c) 256√3   
+ 
+d) 256√2 
+5. The base of a right pyramid is an equilateral 
+triangle of side 10√3cm. If the total surface area 
+of the pyramid is 270√3 sq.cm its height is  
+एक प्रिराममड का आधार एक समबाहु त्रिभुि है, जिसकी 
+ित्येक भुिा 10√3cm है, कुल िृष्ठ  का क्षेिफल 270√3 
+sq.cm  तब इसकी ऊंचाई ज्ञात करे। 
+a) 12√3cm      
+b) 10cm       
+c) 12cm      
+ 
+d) 10√3cm 
+6. The base of right pyramid is an equilateral 
+triangle, each side of which is 20 cm. Each slant 
+edge is 30 cm. The vertical height (in cm) of the 
+pyramid is: 
+एक लंब प्रिराममड का आधार एक ऐसा समबाहु 
+त्रिभुि है, जिसकी ित्येक भुिा की लंबाई 20 cm है। 
+ित्येक ततययक कोर 30 cm है। प्रिराममड की ऊर्धवायधर 
+ऊँचाई (cm में) ककतनी होगी? 
+(a)𝟓√𝟑 
+ 
+(b) 𝟏𝟎√𝟑 
+(c)5√𝟐𝟑
+𝟑 
+ 
+(d)10√𝟐𝟑
+𝟑 
+7. The base of a pyramid is an equilateral 
+triangle whose each side is 8 cm. Its 
+slant edge is 24 cm. What is the total 
+surface area of the pyramid? 
+एक प्रिराममड का आधार एक समबाहु त्रिभुि है, 
+जिसकी ित्येक भुिा की लम्बाई 8 cm है।  इसका 
+ततययक कोर 24 cm है।  प्रिराममड का सम्िूर्य 
+िृष्ठीय क्षेिफल ककतना है? 
+A) (𝟐𝟒√𝟑+ 𝟑𝟔√𝟑𝟓)𝒄𝒎𝟐 
+B) (𝟏𝟔√𝟑+ 𝟒𝟖√𝟑𝟓)𝒄𝒎𝟐 
+C) (𝟏𝟔√𝟑+ 𝟐𝟒√𝟑𝟓)𝒄𝒎𝟐 
+D) (𝟏𝟐√𝟑+ 𝟐𝟒√𝟑𝟓)𝒄𝒎𝟐 
+8. The base of a right pyramid is an equilateral 
+triangle with area 16√𝟑cm2. If the area of one of 
+its lateral faces is 30cm2, then its height (in cm) 
+is : 
+,d le&fijkfeM dk vkèkkj ,d leckgq f=Hkqt gS] ftldk 
+{ks=Qy 16 √𝟑 oxZ lseh gSA ;fn mlds fdlh ,d िार्शवय 
+Qyd dk {ks=Qy 30 oxZ lseh gS] rks mldh ÅapkbZ ¼lseh esa½ 
+D;k gS\ 
+(a) √𝟕𝟑𝟗
+𝟏𝟐 
+ 
+ 
+(b) √𝟔𝟏𝟏
+𝟏𝟐 
+(c) √𝟐𝟎𝟗
+𝟏𝟐 
+ 
+ 
+(d) √𝟔𝟒𝟑
+𝟏𝟐 
+ 
+ 
+ 
+9. The base of a right pyramid is an equilateral 
+triangle of side 4cm. The height of the pyramid is 
+half of its slant height. Find the length of a slant 
+edge and volume of the pyramid. 
+उस प्रिराममड का आयतन और ततययक भुिा  क्या होगी  
+जिसका आधार एक समबाहु  त्रिभुि है जिसकी भुिा 4 
+cm है , और इसकी ऊंचाई इसके  ततययक ऊंचाई का आधा  
+है? 
+a) 
+𝟐√𝟏𝟑
+𝟑
+𝒄m & 
+𝟖√𝟑
+𝟗cm3        b) 
+𝟒√𝟏𝟑𝒄
+𝟑
+m & 
+𝟏𝟐√𝟑
+𝟓
+𝒄m3    
+c)  
+𝟓√𝟏𝟑
+𝟑
+𝒄m & 
+𝟏𝟎√𝟑
+𝟗
+𝒄m3     d) None 
+10. Height of a pyramid is 6m, the base of pyramid is 
+a square whose diagonal is √1152m. Find the 
+volume of pyramid? 
+एक वगायकार  आधार वाले प्रिराममड की ऊंचाई 6मीटर है, 
+और आधार का प्रवकर्य √1152m है।तब प्रिराममड का 
+आयतन क्या होगा? 
+a) 144         b) 288          c) 576          d) 1152 
+11. 
+What is the total surface area of 
+a pyramid whose base is a square of 
+side 8 cm and the height of the 
+pyramid is 3 cm? 
+एक प्रिराममड का सम्िूर्य िृष्ठीय क्षेिफल क्या है 
+जिसका आधार 8 cm भुिा वाला एक वगय है और 
+प्रिराममड की ऊंचाई 3 cm है? 
+A) 121 𝒄𝒎𝟐 
+B) 144𝒄𝒎𝟐 
+C) 169𝒄𝒎𝟐 
+D) 184𝒄𝒎𝟐 
+12. 
+T
+he base of a right pyramid is a square, 
+whose diagonal is 20 cm. the height of 
+the pyramid is 20 cm. the lateral 
+surface area of the pyramid is? 
+एक समकोण पिराममड का आधार एक वर्ग है, जिसका 
+पवकणग 20 सेमी है। पिराममड की ऊंचाई 20 सेमी है। 
+पिराममड का िार्शवग िृष्ठीय क्षेत्रफल है ? 
+A) 450 𝒄𝒎𝟐 
+B) 500𝒄𝒎𝟐 
+C) 600 𝒄𝒎𝟐 
+D) 720 𝒄𝒎𝟐 
+13. The base of a pyramid is a square whose area is 
+324 sq.cm, if volume of pyramid is 1296 cm3. Then 
+find the area of lateral surface? 
+एक वगायकर आधार वाले प्रिराममड का आधार क्षेिफल 
+324 sq.cm है। इसका आयतन 1296 cm3 है, िार्शवय सतह 
+का क्षेिफल ज्ञात करे।  
+a) 432        b) 540        c) 1080          d) 360 
+14. The volume of a pyramid with a square base is 
+200 cm3. The height of the pyramid is 13cm. What 
+will be the length of the edges (i.e. the distance 
+the apex and any other vertex). Rounded to the 
+nearest integer? 
+एक वगायकर आधार वाले प्रिराममड का आयतन 200 cm3 
+है, इसकी ऊंचाई 13cm है, इसके ककनारो की लंबाई 
+तनकटतम क्या होगी? 
+a) 12 cm        b) 13cm        c) 14 cm          d) 15 cm 
+15. A right pyramid has a square base with side of 
+base 12 cm and the height of pyramid is 40 cm. 
+The pyramid is cut in four parts of equal heights 
+by three planes parallel to its base. What is the 
+ratio of the volume of the four parts? 
+एक वगायकर आधार वाले प्रिराममड जिसकी भुिा 12 cm 
+और प्रिराममड़ की ऊंचाई 40 cm है।प्रिराममड को इसके 
+आधार के समान्तर 4 बराबर ऊंचाई वाले भागो में काटा 
+गया है , तब इनके आयतनों का अनुिात क्या है? 
+a) 1:8:27:70       
+b) 1:7:19:47      
+c) 1:8:27:64      
+d) 1:7:19:37 
+16. A pyramid has square base. The side of square is 
+12cm and height of pyramid is 21cm. The pyramid 
+is cut into 3parts by 2 cuts parallel to its base. The 
+cuts are at height of 7cm and 14cm respectively 
+from the base. What is the difference (in cm3) in 
+the volume of top most and bottom most part?  
+वगायकार आधार वाले प्रिराममड की ित्येक भुिा 12cm 
+और ऊंचाई 21cm है। इस प्रिराममड को इसके आधार के 
+समान्तर दो कट द्वारा तीन भागों में बांटा गया है, 
+जिनकी आधार से ऊंचाई क्रमशः7cm और 14cm है। तब 
+सबसे ऊिर वाले भाग और सबसे नीचे वाले भाग के 
+आयतन का अंतर ज्ञात करे। 
+a) 672               b) 944              c) 427           d) 756 
+ 
+ 
+ 
+ 
+ 
+17. Find the TSA of pyramid whose base is hexagon 
+with side 8√3cm and height 16cm? 
+समषट्भुि आधार वाले प्रिराममड का TSA क्या होगा यदद 
+इसकी ित्येक भुिा 8√3cm और ऊंचाई 16cm है। 
+a) 762√3cm2       
+b) 720√3cm2  
+c) 768√3cm2         
+d) 794√3cm2  
+18. There is a pyramid on a base which is a regular 
+hexagon of side 2a. If every slant edge of this 
+pyramid is of length 
+𝟓𝒂
+𝟐 then the volume of this 
+pyramid must be: 
+एक प्रिराममड का आधार समषट्भुि है , जिसकी ित्येक 
+भुिा 2a है, यदद इस प्रिराममड की ततययक ऊंचाई 
+𝟓𝒂
+𝟐  है, 
+तब इस प्रिराममड का आयतन क्या होगा? 
+a) 3a3            b) 3a3√2            c) 3a3√3              d) 6a3  
+ 
+19. Find the TSA of a tetrahedron whose height is 
+4√2cm. 
+उस समचतुष्फलक का TSA ककतना होगा यदद इसकी 
+ऊंचाई 4√2cm है? 
+a) 42√3cm2  
+b) 48√3cm2  
+c) 32√3cm2  
+d) 36√3cm2  
+ 
+20. Find the volume of a tetrahedron with side 3√2 
+cm? 
+समचतुष्फलक का  आयतन ककतना होगा यदद इसकी 
+ित्येक भुिा 3√2 cm है? 
+a) 12cm3  
+b) 9cm3  
+c) 9√2 cm3  
+d) 6√2 cm3 
+ 
+21. The volume of a tetrahedron is 18√2 then find its 
+TSA. 
+यदद समचतुष्फलक का आयतन 18√2 है तब इसका TSA 
+ज्ञात करे| 
+a) 18√3    
+b) 27√3    
+c) 36√3    
+d) 45√3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

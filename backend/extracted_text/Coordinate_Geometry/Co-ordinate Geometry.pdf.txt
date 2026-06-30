@@ -1,0 +1,1083 @@
+ 
+ 
+ 
+1. If the ordinate of point (2k-3,5k+1) is twice of its abscissa, then find the coordinate of its abscissa? 
+यदि किसी नििेश ांि ब ांिु (2k-3,5k+1) ि  िोदि उसिे भुज ि  िोगुि  है । तो भुज ि  म ि ज्ञ त िरें ? 
+a)-34         b)-17          c)
+−𝟏𝟗
+𝟑           d)
+−𝟏𝟕
+𝟖 
+2. Which of the following points lies on the x - axis? 
+निम्ननिखित में से कौि सा न िंदु x-अक्ष पर खित है? 
+RRB NTPC 09/03/2021 (Morning) 
+(a) (2 , 3)    
+(b) (2 , 0)    
+(c) (1 , 2)    
+(d) (0 , 4) 
+3. The graph of the equation x = a (a ≠ 0) is a _____.  
+lehdj.k x =a (a ≠ 0) dk xzkQ]____ gSaA  
+(a) line parallel to x axis  
+(b) line parallel to y axis  
+(c) line at an angle of 45 degree to y axis  
+(d) line at an angle of 45 degree to x axis  
+4. Which of the following equations represent a line parallel to y - axis ? 
+निम्ननिखित में से कौि सा समीकरण y - अक्ष के समािंतर एक रेिा का प्रनतनिनित्व करता है ? 
+RRB NTPC 15/03/2021 (Evening) 
+(a) y = 3 
+(b) x + 3 = 4 - 2x 
+(c) 2x + y = 0 
+(d) y - 2 = 1 
+ 
+5. In the graph given below, what does the line AB represent? 
+िीचे दिए गए ग्र फ में रेख  AB क्य  िश ाती है? 
+ 
+A) y+2=0 
+B) y=2 
+C) x+3=0 
+D) x=3 
+6.  Give the coordinates of the middle point of the segment joining the points (– 4 , 7) and  (2 , 3). 
+न िंदुओिं (- 4 , 7) और (2 , 3) को नमिािे वािे वृत्तििंड के मध्य न िंदु के निदेशािंक ज्ञात कीनिए। 
+ALP Tier II   23/01/2019 (Morning) 
+(a) (1, –5)  
+(b) (– 1, 5)  
+(c) (2, 4)  
+(d) (– 2, 3) 
+7. Point P (8, 5) is the midpoint of segment AB. Co-ordinates of A are (5, y) and B are (x, –3). What is the 
+value of x? 
+fcanq P (8, 5) js[kk[kaM AB dk eè;fcanq gSA A ds funsZ”kkad (5, y) vkSj B ds (x, –3) gSaA x dk eku D;k gS\ 
+(a)–11 (b)11            (c)7 
+           (d)–7 
+ 
+ 
+8. Point P is the midpoint of segment AB. Co-ordinates of P are (1, 3) and A are (–3, 8). What are the co-
+ordinates of point B? 
+fcanq P js[kk[kaM AB dk eè; fcanq gSA P ds funsZ”kkad (1, 3) gSa vkSj A ds (–3, 8) gSaA fcanq B ds funsZ”kkad D;k gSa\ 
+(a) (–5, –2 ) 
+(b)(–5, 2) 
+ 
+(c)(5, 2) 
+      (d)(5, –2) 
+9. What is the distance between the points (3, 6) and (–2, –6)? 
+fcanq (3, 6) vkSj (–2, –6) ds chp dh nwjh fdruh gS\ 
+(a)15           (b)13   (c)11        (d)12 
+10.    The distance between two points (a cos𝜶, 0) and (0, a sin𝜶) is: 
+दो न िंदुओिं (a cos𝜶, 0) और (0, a sin𝜶) के  ीच की दूरी नकतिी है ? 
+RRB NTPC 11/02/2021 (Evening) 
+(a) a                                          (b) |a|        
+(c) |2a|      
+(d) 2a 
+11. If (2 , - 2) and (5 , 2) are two consecutive vertices of a square, then the length of each side of the square will be : 
+यनद (2 , - 2) और (5 , 2) एक वर्ग के िर्ातार दो शीर्ग हैं, तो वर्ग की प्रत्येक भुिा की ििं ाई होर्ी: 
+RRB NTPC 05/02/2021 (Evening) 
+(a) 5 units   
+(b) 5√2 units   
+(c) 
+𝟓𝟓
+√𝟐 units   
+(d) √5 units 
+12. If the distance between two points (4,8) and (k,-4) is 13 units then find value of k? 
+यदि िो ब ांिुओां ( 4,8)  और( k,-4)िे  ीच िी िूरी
+ 
+13
+ 
+इि ई है तो k ि  म ि ज्ञ त िीजजए? 
+a) -1       b) 9               c) a and b both      d)3 
+13. If the distance between two points (x , 7) and (1 , 15) is 10 units, then the possible values of x = ?  
+यनद दो न िंदुओिं (x , 7) और (1 , 15) के  ीच की दूरी 10 इकाई है , तो x का सिंभानवत माि = ?  
+RRB NTPC 08/03/2021 (Evening) 
+(a) 7 , - 5    
+(b) 4 , 5      
+(c) 5 , - 7     
+(d) 3 , 7 
+14. Which point on the X-axis is equidistant from (2, - 5) and (- 2, 9)? 
+X - अक्ष पर वह कौि सा न िंदु है , िो (2 , - 5) और (- 2 , 9) से समदूरि है ? 
+ALP Tier II   21/01/2019 (Afternoon) 
+(a)(- 7, 0)  
+(b) (- 14, 0)  
+(c) (14, 0)  
+(d) (7, 0) 
+15. The coordinates of the point that divides the line segment joining the points (- 5 , 5) and (7 , – 3) internally in the 
+ratio 3: 1 are given by: 
+न िंदुओिं (- 5 , 5) और (7 , - 3) वािे रेिा िण्ड को आिंतररक रूप से 3:1 के अिुपात में नवभानित करिे वािे न िंदु के निदेशािंक क्या हैं? 
+RRB ALP 29/08/2018 (Morning) 
+(a) (-2, 3)  
+(b) (5/2, 0)  
+(c) (1, 1)  
+(d) (4, -1) 
+16. Find the coordinates of the point which will divide the line joining the point (2,4) and (7,9) internally in the ratio 1:2 
+उस न िंदु के निदेशािंक ज्ञात कीनिए िो न िंदु (2 , 4) और (7 , 9) को नमिािे वािी रेिा को आिंतररक रूप से 1:2 के अिुपात में नवभानित 
+करेर्ा ? 
+RRB NTPC 05/01/2021 (Morning) 
+(a) (
+𝟓
+𝟑,
+𝟏
+𝟑)      
+(b) (
+𝟏𝟏
+𝟑,
+𝟏𝟕
+𝟑) 
+(c) (
+𝟑
+𝟖,
+𝟑
+𝟏𝟏)          
+(d) (
+𝟖
+𝟑𝟒,
+𝟏𝟏
+𝟑) 
+17. Point A divides segment BC in the ratio 5 : 1. The co-ordinates of B are (6, -4) and that C are (
+𝟗
+𝟓, 8). What are the co-
+ordinates of point A? 
+ब ांिु A रेख खांड BC िो 5:1 िे अिुप त में विभ जजत िरत  है। B िे नििेश ांि (6, -4) हैं और C िे (
+𝟗
+𝟓, 8) हैं। ब ांिु A िे नििेश ांि क्य  हैं? 
+(a) (-3, 6)                 (b) (2.5,-6)                     (c) (-2.5, -6)                (d) (2.5, 6)  
+18. The ratio in which point (4 , 5) divides the line joining two points (2 , 3) and (7 , 8) is : 
+वह अिुपात निसमें न िंदु (4 , 5) दो न िंदुओिं (2 , 3) और (7 , 8) को नमिािे वािी रेिा को नवभानित करता है, है: 
+RRB NTPC 13/03/2021 (Morning) 
+(a) 2 : 3         
+(b) 1 : 2       
+ 
+ 
+(c) 4 : 5       
+(d) 3 : 4 
+19. In what ratio X-axis will divide a line segment which is obtained by joining points (9,14) and (4 -6)? 
+X अक्ष उस रेख  िो किस अिुप त में विभ जजत िरेग  जो ब ांिु (9,14) और ब ांिु (4 -6) िो ममल िे से प्र प्त होती है। 
+a)9:4        b)7:3         c)2:7          d)3:2 
+20. Point A (4, 2) divides segment BC in the ratio 2:5. Co-ordinates of B are (2, 6) and C are (7, y). What is the 
+value of y? 
+fcanq A (4, 2) js[kk[kaM BC dks 2:5 ds vuqikr esa foHkkftr djrk gSA B ds funsZ”kkad (2, 6) vkSj C ds (7, y) gSaA y dk eku D;k gS\ 
+(a)8 
+       (b)–8 
+         (c)6       (d)–6 
+21. Z(4,-5) and X(7,-1) are two given points and the point Y divides the line segment ZX externally in the ratio 4:3 .find the coordinates of 
+Y? 
+िो ब ांिु Z(4,-5)  और X(7,-1) इस प्रि र है कि ब ांिु Y रेख खण्ड ZX िो 4:3 िे अिुप त में  बाह्य विभ जजत िरत  है त  Y िे नििेश ांि 
+क्य  है। 
+ (a) (16, 11)                 (b) (19,-16)                     (c) (-13, -16)                (d) (-16, 19) 
+22. At what point does the line 2x+5y= -6 cuts the X-axis? 
+रेख  2x+5y= -6, X अक्ष िो किस ब ांिु पर प्रनतच्छेि िरेगी। 
+a)(3,0)         b)(-3,0)           c)(0,3)               d)(0,-3) 
+23. Find the coordinates of the points where the graphs 57x – 19y = 399 cuts the coordinate axes? 
+उि ब ांिुओां िे नििेश ांि ज्ञ त िीजजए जह ां आलेख 57x – 19y = 399 नििेश ांि अक्षों िो ि ित  है? 
+a)x axis at (-7, 0) and y-axis at (0, -21) 
+b)x-axis at (-7, 0) and y-axis at (0, 21) 
+c)x-axis at (7, 0) and y-axis at (0, -21) 
+d)x-axis at (7, 0) and y-axis at (0, 2) 
+24. The straight line kx – 3y = 6 passes through the point (3,2). What is the value of k ? 
+एक सरि रेिा kx - 3y = 6, न िंदु (3, 2) से होकर र्ुिरती है। k का माि ज्ञात कीनिए । - 
+Level 2 (16/06/2022) Shift 3 
+(a) 3                (b) 4 
+ 
+(c) 6                 (d) 2 
+25. Find the slope of the line joining the points (3,− 4) and (5, 2). 
+न िंदुओिं (3,−4) और (5, 2) को नमिािे वािी रेिा का ढिाि (slope ) ज्ञात कीनिए। 
+ALP Tier II   21/01/2019 (Afternoon) 
+(a) 1/3  
+(b) 2   
+(c) 3   
+(d) 1/2 
+26. The slope of line AB is 
+𝟒
+𝟑. The coordinates of point A and B are (x,-5) and (2,-3) respectively .what is the value of x? 
+रेख  AB िी प्रिणत  
+𝟒
+𝟑  है । जह ाँ A (x,-5) और B(2,-3) है। त  x ि  म ि ज्ञ त िरे। 
+a)
+𝟏
+𝟐               b)-4                  c)
+−𝟏
+𝟒                  d)2 
+27. Find the slope of the line represented by the equation 4x + 6y = 9. 
+समीकरण 4x + 6y = 9 द्वारा प्रदनशगत रेिा का ढाि (स्लोप) ज्ञात कीनिए । 
+ALP Tier II   21/01/2019 (Afternoon) 
+(a) 3/2 
+(b) -2/3 
+(c) -3/2 
+(d) 2/3 
+ 
+28. What is the slope of line 2x-5y=12 ? 
+रेख  2x-5y=12 िी प्रिणत  ज्ञ त िरे? 
+a)
+𝟐
+𝟓                       b)
+𝟓
+𝟐                      c)
+−𝟓
+𝟐                    d)−
+𝟐
+𝟓 
+29.  ax+5y=8 has slope of 
+−𝟒
+𝟑. What is the value of a? 
+रेख  ax+5y=8 िी प्रिणत  
+−𝟒
+𝟑 है त  a ि  म ि क्य  है। 
+a)
+𝟐𝟎
+𝟑        b) 
+−𝟐𝟎
+𝟑        c) 
+𝟑
+𝟐𝟎        d)−
+𝟑
+𝟐𝟎       
+30. The measure of the angle between the graph of linear equation 35x - 35y + 15 = 0 and the x - axis is: 
+ रैखिक समीकरण 35x - 35y + 15 = 0 और x - अक्ष के ग्राफ के  ीच के कोण का माप है | 
+RRB NTPC 05/04/2021 (Evening) 
+ 
+ 
+(a) 55°      
+(b) 35°      
+(c) 50°       
+(d) 45° 
+31. What is the slope of the line parallel to the line passing through the points (3-4) and (-2, 5)? 
+ब ांिुओां (3, -4) और (-2, 5) से गुजरिे ि ली रेख  िे सम ि ांतर रेख  िी ढ ल क्य  है? 
+a) 9/5          b)-5/9                  c)-9/5         d)5/9  
+32. If 4x + 7y = 33 and 2kx + 21y = 67 are parallel lines then find k? 
+यदि रेख  4x + 7y = 33 और रेख  2kx + 21y = 67  आपस में सम ांतर है त  k ि  म ि ज्ञ त िरे? 
+a)8                b)6                 c)4            d)12 
+33. If two lines ax+by+c=0 and px+qy+r=0 are perpendicular to each other then: 
+   यदि िो रेख एाँ ax + by + c = 0 और px + qy + r = 0 एि िूसरे िे  लां ित हैं त  : 
+               a)  aq+bp=0             b)ap+bq=0                 c)ab+pq=0               d)aq=bp 
+34. If two lines 4x-6y=13 and ky+5x-7=0 are perpendicular to each other then find value of k? 
+यदि रेख  4x-6y=13   और रेख  ky+5x-7=0 परस्पर एि िूसरे िे लम् ित है त  k ि  म ि ज्ञ त िरे? 
+a)
+𝟏𝟎
+𝟑                             b)7.5                 c)−
+𝟖
+𝟑                          d)none 
+35. What is the slope of the line perpendicular to the line passing through the points (3, –2) and (4, 2)? 
+(3, –2) vkSj (4, 2) fcanqvks ds ekè;e ls xqtjus okyh js[kk ds vfHkyEc js[kk dh <yku D;k gS\ 
+(a)¼ 
+      (b)4 
+       (c)– 4    (d)–1/4 
+36. The equation of a straight line passing through (-2,5) and (1,3) is: 
+(- 2 , 5) और (1 , 3) से र्ुिरिे वािी एक सीिी रेिा का समीकरण है : 
+RRB NTPC 13/03/2021 (Evening) 
+(a) 3x- 2y - 11 = 0       
+(b) 2x - 3y - 19 = 0 
+(c) 3x + 2y + 19 = 0    
+(d) 2x + 3y - 11 = 0 
+37. Find the equation of a line having slope -6 and an intercept of 10 units on Y-axis? 
+उस रेख  ि  समीिरण ज्ञ त िरे जजसिी प्रिणत  -6 है और जो Y अक्ष पर 10 यूनिि ि  अांत: खण्ड ि िती है। 
+a)6x-y-10=0       b)6x+y-10=0       c)6x+y+10=0        d)6x-y+10=0 
+ 
+38. Find the equation of line makes an angle of 45° with positive X axis and passing through points (-8,3)? 
+उस रेख  ि  समीिरण ज्ञ त िरे जो धि त्मि X अक्ष से 45° ि  िोण  ि ती है और ब ांिु (-8,3)से गुजरती है। 
+a)x+y+11=0          b)x-y-11=0        c)x-y+11=0        d)x+y-11=0 
+39. The equation of a straight line on a point (3, -5) and slope 2 is: 
+न िंदु (3, –5) और प्रवणता 2 पर एक सरि रेिा का समीकरण ज्ञात कीनिए।  
+(a) 2x – y – 11 = 0 
+ 
+(b) 3x – 5y – 2 = 0 
+(c) 5x – 2y + 3 = 0 
+ 
+(d) 3x – 2y – 5 = 0 
+40. What is the equation of a line which has 3 as x-intercept and –5 as y-intercept? 
+,d js[kk ds lehdj.k dk irk yxk,a] ftldk x-çfrPNsn 3 vkSj y-çfrPNsn –5 gS\ 
+(a) 
+3x – 5y = 15  
+(b) 
+5x – 3y = 15  
+ 
+         (c) 
+5x + 3y = 15                (d) 
+3x + 5y = 15 
+41. In the following graph, line AB satisfy which of the following equations? 
+निम्िमलखखत ग्र फ में, रेख  AB निम्िमलखखत में से किस समीिरण िो सांतुष्ि िरती है? 
+ 
+ 
+ 
+A) x+4y=2 
+B) 3x-2y=6 
+C) 2x+3y=12 
+D) 4y-x=8 
+42. Find the equation of line which is parallel to line 5x+8y=73 and passes through point  (2,-3)? 
+उस रेख  ि  समीिरण ज्ञ त िरे जो रेख  5x+8y=73 िे सम ांतर है और ब ांिु (2,-3) से होिर गुजरती है। 
+a)5x+8y=13         b)8x-5y=31            c)5x+8y+14=0                 d)5x-8y-14=0 
+ 
+43. The equation of the line passing through (2 , 3) and perpendicular to the line joining (- 5, 6) and (- 6 , 5) is: 
+(2 , 3) से र्ुिरिे वािी रेिा का समीकरण और (- 5 , 6) और (- 6 , 5) को नमिािे वािी रेिा के ििं वत है I           NTPC CBT - I   
+08/02/2021 (Evening) 
+(a) x + y - 5 = 0 
+(b) x - y - 5 = 0 
+(c) x + y + 5 = 0 
+(d) x - y + 5 = 0 
+44. Find the equation of line which is perpendicular to line 17x+11y=189 and passes through points (3,4)? 
+उस रेख  ि  समीिरण ज्ञ त िरे जो रेख  17x+11y=189 िे लम् ित है और जो ब ांिु (3,4)से होिर गुजरती है। 
+a)11x+17y-101=0         b)11x-17y+35=0            c)17x-11y-95=0                  d)11x-17y=35 
+ 
+45. What is the equation of line whose slope is -1/2 and passes through the intersection of the lines x-y = -1 and 3x -2y = 0? 
+उस रेख  ि  समीिरण क्य  होग  जजसिी ढल ि -1/2 है और जो रेख  x - y = -1 और  
+3x-2y = 0 िे प्रनतच्छेिि ब ांिु से होिर गुजरती है। 
+a) x + 2y = 8 b) 3x + y = 7 
+            c) x + 2y = -8 
+        d) 3x + y = -7 
+46. What is the length of Y-intercept For linear equation 59x+14y-112=0 ? 
+रेख  59x+14y-112=0 द्ि र  Y अक्ष पर ि ि  गय  अन्त: खांड क्य  है। 
+a) 14                 b)8               c)28                  d)29 
+47. The slopes of two lines are 1 and √𝟑. What is the angle between these two lines? 
+िो रेख ओां ि  ढ ल 1 और √𝟑  हैं। इि िो रेख ओां िे  ीच ि  िोण क्य  है? 
+a) 15° 
+b) 30° 
+ 
+c) 45° 
+ 
+d) 60° 
+48. The points A(x,2), B(-2,1) and c(6,-3) are collinear. Find x? 
+ब ांिु A (x, 2), B (-2,1) और C (6, -3) सांरेख हैं। x ि  पत  लग एां? 
+ a) 4 
+ 
+b) -2 
+ 
+c) -4 
+ 
+d) 2 
+49. Find the relation between x and y such that the points (x , y) is equidistant from (6 , 2) and(4 , 6)  
+x और y के  ीच सिं िंि इस प्रकार ज्ञात कीनिए नक न िंदु (x , y) (6 , 2) और (4 , 6) से समाि दूरी पर हो I           NTPC CBT - I  
+31/01/2021 (Evening) 
+(a) x + 2y = 3 
+(b) 2x - y = 3 
+(c) 2x + y = - 3 
+ (d) x - 2y = - 3 
+50. If the equations 4x + (k − 2)y + 3 = 0 and (k − 2)x + 9y − 5 = 0 (k > 0) are parallel, then find the value of k2 
++ 6. 
+यदि समीकरण 4x + (k − 2)y + 3 = 0 और (k − 2)x + 9y − 5 = 0 (k > 0) सम ांतर हैं, तो k2 + 6 क  म न ज्ञ त कीदिए।  
+SSC CHSL PRE 2024 
+(a) 68  
+(b) 70 
+(c) 72 
+(d) 64  
+51. If two straight lines are coinciding with each other, then the number of points of intersection is/are: 
+यदि िो सीधी रेख एँ सांप ती हैं, तो प्रदतच्छेिन द ांिुओां की सांख्य  ________ होगी। 
+(a) infinitely many points of intersection/ अपररदमत रूप सेअनेक प्रदतच्छेिन द ांिु  
+(b) finite number of point of intersection/ प्रदतच्छेिन द ांिु की पररदमत सांख्य  
+(c) no points of intersection / कोई प्रदतच्छेिन द ांिु नहीं 
+(d) unique point of intersection/ अदितीय प्रदतच्छेिन द ांिु 
+52. The graphs of two linear equations, x + 2y = 15 and 4x + 8y = 13  
+will be? 
+िो रैखखि समीिरण x + 2y = 15 और 4x + 8y = 13 िे ग्र फ क्य  होंगे?  
+SSC CHSL PRE 2024 
+A) Parallel 
+B) Coincident 
+ 
+ 
+C) Intersecting at one point 
+D) Intersecting at two points 
+ 
+ 
+ 
+ 
+53. For which of the following values of m will the system of equations 𝟏𝟕𝒙+ 𝒎𝒚+ 𝟏𝟎𝟐= 𝟎 & 𝟐𝟑𝒙+ 𝟐𝟗𝟗𝒚+ 𝟏𝟑𝟖=
+𝟎 have infinite number of solutions? 
+निम्िमलखखत में से m िे किस म ि से समीिरण निि य  𝟏𝟕𝒙+ 𝒎𝒚+ 𝟏𝟎𝟐= 𝟎 & 𝟐𝟑𝒙+ 𝟐𝟗𝟗𝒚+ 𝟏𝟑𝟖= 𝟎 िे असांख्य हल प्र प्त 
+होंगे? 
+A) 220 
+B) 219 
+C) 221 
+D) 223 
+54. For what value of k, the system of equations 4x + 12y + 36 = 0 and 5x + ky + 45 = 0 has an infinite number ofsolutions? 
+k के दकस म न के दिए, समीकरण दनक य 4x + 12y + 36 = 0 और 5x + ky + 45 = 0 में अनांत सांख्य  में हि हैं?  
+(a) 20 
+(b) 25 
+(c) 22 
+(d) 15  
+55. The relation between K1 and K2 for which the system of linear equations K1x + 3y = 8 and 4x + K2y = 16 represents 
+coincident lines, is: 
+K1 और K2 के  ीच सां ांध दिसके दिए रैदखक समीकरणों K1x + 3y = 8 और 4x + K2y = 16 क  दनक य सांप ती रेख ओां को िर् ात  है, क् य  है?  
+(a) K2 = 3K1  
+(b) K2 + 3K1 = 0  
+(c) K2 = K1  
+(d) K1 + K2 = 0 
+56. Which of the following is the sum of the values of a and b if the equations  
+2x + y = a, 8x + by = 12 have infinite solutions? 
+यदि समीकरणों 2x + y = a, 8x + by = 12 के अनांत हि है, तो a और b के म न क  योग दनम्नदिदखत में से कौन-स  है?  
+(a) 16  
+(b) 9  
+(c) 7 
+(d) 18 
+57. For what positive values of k do the following pair of linear equations have infinitely many solutions? 
+kx + 3y – (k-3) = 0 
+12x + ky – k = 0 
+k िे किि धि त्मि म िों िे मलए निम्िमलखखत रैखखि समीिरण युग्म िे अपररममत रूप से अिेि हल हैं? 
+kx + 3y – (k-3) = 0 
+12x + ky – k = 0       SSC CHSL PRE 2024 
+A) 6 
+B) 2 
+C) 12 
+D) 4 
+58. Find the values of 'a' and 'b' for which the system of equations 3x+y=3 and (a-b)x+(a+b)y=3a+b-3 has infinite solutions. 
+'a' और 'b' के म न ज्ञ त कीदिए दिनके दिए समीकरणों के दनक य 3x+y=3 तथ  (a-b)x+(a+b)y=3a+b-3 के अनांत हि हैं  
+(a) 𝒂= 𝟑, 𝒃= −
+𝟐
+𝟑 
+(b) 𝒂= −
+𝟑
+𝟐, 𝒃= 𝟐 
+(c) 𝒂= 𝟑, 𝒃= −
+𝟑
+𝟐 
+(d) 𝒂= 𝟐, 𝒃= −
+𝟑
+𝟐 
+59. The system of equations : 2x + 3y = 7 and (a – b) x + (a + b) y = 3a + b – 2 have infinitely many solutions, If? 
+-------------- gksus ij] lehdj.kksa ds fudk;% 2x + 3y = 7 and (a – b) x + (a + b) y = 3a + b – 2ds vifjfer :i ls vusd gy gksrs gSaA 
+(a) a = 5, b = 3 
+(b) a = 2, b = 3 
+(c) a = 2 , b = 1 
+(d) a = 5, b = 1 
+60. For what value of p does the system of equations 18x + 36y + 45 = 0 and px - 54y + 67 = 0 have no 
+solution? 
+p के नकस माि के निए समीकरण 18x + 36y + 45 = 0 और px - 54y + 67 = 0 का कोई हि िहीिं होर्ा? 
+1. 54 
+2. −27 
+3. −36 
+4. 27 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+ 
+ 
+61. For which of the following values of m will the system of equations 18x - 72y + 13 = 0 and 7x-my-17=0 
+have no solution? 
+निम्िमलखखत में से m िे किस म ि िे समीिरण निि य 18x -72y + 13 = 0 और  
+7x-my-17=0 ि  िोई हल िहीां होग ? 
+A) 9 
+B) 12 
+C) 24 
+D) 28 
+62. If 0.4x + 0.16y = 1.7 and 0.3x + 0.12y = 3.4, then which of the following is correct? 
+यदि 0.4x + 0.16y = 1.7 और 0.3x + 0.12y = 3.4 है, तो दनम्नदिदखत में से कौन स  कथन सही है? 
+(a) The system has finitely many solutions but not unique. / दनक य में पररदमत रूप से अनेक हि हैं िेदकन अदितीय नहीं हैं। 
+(b) The system has infinitely many solutions./ दनक य के अपररदमत रूप सेअनेक हि हैं। 
+(c) The system has no solution. / दनक य क  कोई हि नहीं है। 
+(d) The system has unique solution./ दनक य क  अदितीय हि है। 
+63. Given a linear equation in two variables: 5x + 7y - 8 = 0, which of the following linear equations, along with the given 
+equation, forms a system of linear equations having no solution? 
+िो चरों मेंएक रैदखक समीकरण दिय  गय  है: 5x + 7y - 8 = 0, दनम्नदिदखत मेंसेकौन स  रैदखक समीकरण, दिए गए समीकरण के स थ, 
+रैदखक समीकरणों क  एक दनक य  न त  हैदिसक  कोई हि नहीं है?  
+(a) 5x + 7y - 16 = 0  
+(b) 7x + 5y - 8 = 0  
+(c) 5x - 7y - 8 = 0  
+(d) 10x + 14y - 16 = 0 
+64. For which of the following values of a and b do the given equations, have NO solution? 
+दनम्नदिदखत में से a और b के दकन म नों के दिए दिए गए समीकरणों क  कोई हि नहीं है?  
+x - ay = 2 - a 
+(1 - a)x + 6y = a + b 
+(a) a = -3,b ≠ 1  
+(b) a = 3,b ≠-1  
+(c) a = -3,b ≠ -1  
+(d) a = 3,b ≠ 1 
+65. Find the value of 'k' for which the system of equations 4x+6y=7 and  
+6x+(k+4)y-21=0 has a unique solution. 
+'k' क  वह म न ज्ञ त कीदिए दिसके दिए समीकरणों के दनक य 4x+6y=7 तथ  6x+(k+4)y-21=0 क  एक अदितीय हि है।  
+(a) k = 5  
+(b) k ≠ 5  
+(c) k = 7  
+(d) k ≠ 7 
+66. Let k be a constant. The equation kx + y = 3 and 4x + ky = 4 have a unique solution if and only if  
+मान लीजिए k एक ननयताांक है। समीकरण kx + y = 3 और 4x + ky = 4 का एक अनूठा हल है यदि और केवल यदि 
+             (A) k ≠ 2 (B) IkI = 2 
+(C) IkI ≠2 
+(D) k = 2 
+67. What conclusion can be drawn about the solution of the following system of linear equations in two variables: 
+िो चरों में रैदखक समीकरणों के दनम्नदिदखत दनक य के हि के   रे में क्य  दनष्कर्ा दनक ि  ि  सकत  है?  
+3x + 2y = 7 
+2x + 3y = 7 
+(a) No solution / कोई हि नहीं 
+(b) Unique solution/ अदितीय हि 
+(c) Infinite solutions/ अनांत हि 
+(d) More than two solution/ िो सेअदधक हि 
+68. Select the option that is true regarding the following labeled Assertion (A) and Reason (R). 
+उस वििल्प ि  चयि िरें जो निम्िमलखखत ले ल ि ले ि िे (A) और ि रण (R) िे सां ांध में सत्य है।( IB ACIO 2023) 
+ 
+Assertion (A) 
+Reason (R) 
+The system of equation: 
+9x+6y=11 and 7x+ky=9 has no solution, if k =
+14/3. 
+System of equations 
+Ax+by = c& dx+ey =f has no solution, if 
+𝒂
+𝒅=
+𝒃
+𝒆≠
+A) A is true and R is false 
+B) A is false and R is true 
+C) Both A and R are true but R is not a correct explanation of A. 
+D) Both A and R are true and R is a correct explanation of A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+69. What is the perpendicular distance between the two parallel lines 3x + 4y + 3= 0 and 3x + 4y + 12 = 0? 
+दो समानाांतर रेखाओां 3x + 4y + 3 = 0 और 3x + 4y + 12 = 0 के बीच की लांबवत दूरी क्या है? 
+A) 11/5 unit                                  C) 2 unit 
+B) 3 unit                                        D) 9/5 unit 
+70. The graph of the equation x – 7y = –42, intersects the y-axis at P(, ) and the graph of 6x + y – 15 = 0, intersects the x-axis at 
+Q(𝜸, 𝜹). What is the value of  +  + 𝜸 + 𝜹? 
+समीकरण x - 7y = –42 का ग्राफ, y- अक्ष को P(, )  पर काटता है और 6x + y - 15 = 0 का ग्राफ, x- अक्ष को Q (γ, δ) पर प्रततच्छेद करता 
+है।  +  + 𝜸 + 𝜹  का मूल्य क्या है? 
+(a)5 
+ 
+ 
+(b) 
+𝟏𝟕
+𝟐 
+ 
+ 
+(c) 6 
+ 
+ 
+(d) 
+𝟗
+𝟐 
+71. The point of intersection of the graphs of the equations 3x-5y=19 and 3y-7x+1=0 is 𝑷(𝜶, 𝜷). what is the value of (𝟑𝜶−𝜷)? 
+समीकरणों 3x-5y = 19 और 3y-7x + 1 = 0 के रेख ांकन के ब ांदु 𝑷(𝜶, 𝜷) है। (𝟑𝜶−𝜷) क  म न क्य  है? 
+(a) 1 
+ 
+ 
+(b) -2 
+ 
+ 
+(c) -1 
+ 
+ 
+(d) 0 
+72. The graphs of the equations 3x-20y-2=0 and 11x-5y+61=0 intersect at P(a, b). What is the value of (𝒂𝟐+ 𝒃𝟐−𝒂𝒃)/(𝒂𝟐−𝒃𝟐+
+𝒂𝒃)?  
+समीिरण 3x – 20y – 2 = 0 और 11x – 5y + 61 = 0 ि  ग्र फ, P(a, b) पर प्रनतच्धेदित िरत  है। (𝒂𝟐+ 𝒃𝟐−𝒂𝒃)/(𝒂𝟐−𝒃𝟐+ 𝒂𝒃) ि  म ि 
+ज्ञ त िीजजए।  
+(a) 
+𝟑𝟕
+𝟑𝟓 
+ 
+ 
+(b) 
+𝟑𝟏
+𝟒𝟏 
+ 
+ 
+(c) 
+𝟓
+𝟕 
+ 
+ 
+(d) 
+𝟒𝟏
+𝟑𝟏 
+73. If the point of intersection of line x+y =2 and 2x-y = 1 lies on y=Kx+5, what is the value of K? 
+यदि रेख  x+y =2 और 2x-y = 1 ि  प्रनतच्छेिि ब ांिु y=Kx+5 पर जस्ित है, तो K ि  म ि क्य  है? SSC CHSL PRE 2024 
+A) 3 
+B) -4 
+C) 4 
+D) -3 
+74. Find the distance between the point (-3,4) and the intersection of 3x -2y =31 and  
+7x + 5y +5=0 
+ब ांिु (-3,4) और रेख ओां 3x -2y =31 और 7x + 5y +5=0 िे प्रनतच्छेि ब ांिु िे  ीच िी िूरी ज्ञ त िरे 
+a)16 
+ 
+b)5√𝟏𝟏 c) 𝟒√𝟏𝟑 d) 14 
+75. The lines x+y = 10 and -3x+y = 2 have a unique solution. What is the distance (in units) between the 
+unique solution and the point of intersection of the line x+y = 10 and the x-axis? 
+रेख ओां x+y = 10 और -3x+y = 2 ि  एि अद्वितीय हल 
+ है। अद्वितीय हल और रेख  x+y = 10,  x-अक्ष िे प्रनतच्छेिि ब ांिु िे  ीच िी िूरी (इि इयों में) क्य  है? SSC CHSL PRE 2024 
+A) 8√𝟐 
+B) 8 
+C) 10 
+D) 10√𝟐 
+76. If the intersection point of the equations 3p − 2q + 23 = 0  
+and −2p + q − 13 = 0 on the graph is (p, q), then the value of (3p + q) is equal to: 
+यदि ग्र फ़ पर समीिरण 3p − 2q + 23 = 0 और -2p + q − 13 = 0 ि  प्रनतच्छेिि ब ांिु (p, q) है, तो (3p + q) ि  म ि  र  र है 
+? SSC CHSL PRE 2024 
+A) 2 
+B) 1 
+C) -2 
+D) -1 
+77. If the solution of the pair of equations: 5x – 6y = 57 and 7x – 4y = 49 is also a solution of the equation 4x + my = 19, then what is 
+the value of m? 
+;fn lehdj.kksa ds ;qXe 5x – 6y = 57 vkSj 7x – 4y = 49  dk gy lehdj.k 4x + my = 19 dk Hkh gy gS] rks m dk eku D;k gS\ 
+ 
+ 
+(a) –2 
+(b) 1 
+(c) –1 
+(d) 3 
+78. The point of intersection of the graphs of the equations 147x – 231y = 525 and  
+77x – 49y = 203, lies on the graph on the equation: 
+lehdj.k 147x – 231y = 525 vkSj 77x – 49y = 203ds xzkQ dk çfrPNsnu fcUnq] fuEu esa ls fdl lehdj.k ds xzkQ ij fLFkr gS\ 
+(a) 9x – 5y = 23 
+(b)4x + 5y = 13 
+(c) 5x – 4y = 6 
+(d) 5x – 9y = 17 
+79. The graphs of the equations 4x +
+𝟏
+𝟑 y =
+𝟖
+𝟑  and 
+𝟏
+𝟐 x + 
+𝟑
+𝟒 y +
+𝟓
+𝟐  = 0 and intersect at a point P. The point P also lies on the graph of the 
+equation: 
+समीिरणों 4x +
+𝟏
+𝟑 y =
+𝟖
+𝟑   और 
+𝟏
+𝟐 x + 
+𝟑
+𝟒 y +
+𝟓
+𝟐  = 0 िे ब ांिुरेख (graph) एि ब ांिु P पर प्रनतच्छेदित िरते हैं। ब ांिु P समीिरण िे ब ांिुरेख 
+(graph) पर भी जस्ित है। 
+a) 𝒙−𝟑𝒚−𝟏𝟐= 𝟎 
+b) 𝟒𝒙−𝒚+ 𝟕= 𝟎 
+ 
+c) 𝟑𝒙−𝒚−𝟕= 𝟎 
+           d) 𝒙+ 𝟐𝒚−𝟓= 𝟎 
+80. If 8x + 3y = k, 5x -2y = 6 and 2x + 3y = 29 are concurrent lines then find value of k? 
+यदि रेख एां 8x + 3y = k  , 5x -2y = 6 और 2x + 3y = 29 सांग मी है। त  k म ि क्य  होग ? 
+a)68                 b)53                  c)48                    d)83 
+81. The graphs of the linear equations 4x – 2y = 10 and 4x + ky = 2 intersect at a point  
+(a, 4). The value of k is equal to: 
+रेखीय समीकरणों 4x – 2y = 10 और 4x + ky = 2 के ग्र फ ब ांदु (a, 4) पर प्रबिच्छेबदि करिे हैं। k क  म न ज्ञ ि कीबिए। 
+(a) 3 
+ 
+ 
+(b) – 3  
+ 
+(c) – 4  
+ 
+(d) 4 
+82. If a,b and c are in AP then the straight line ax+by+c=0 will pass through a fixed point whose coordinates are? 
+यदि a, b और c सम ांतर श्रेणी में है त  रेख  ax+by+c=0 एि निजचचत ब ांिु से गुजरेगी जजसिे नििेश ांि होंगे? 
+a)(1,-2)              b)(2,-1)              c)(0,0)           d)(2,-3) 
+83. Find the length of intercept between both axis by line 12x-5y-60=0 ? 
+रेख  12x-5y-60=0 द्ि र  िोिों अक्ष पर ि िे गए अन्तःखांडो िे ब च िी लम्  ई ज्ञ त िरे? 
+a)12                   b)5                    c)13                    d)60 
+84. If the graph of the equation 20x + 21y = 420 cuts the coordinate axes at P and Q, then what is the 
+measure of the length (in units) of PQ? 
+ 
+यदि समीिरण 20x + 21y = 420 ि  ग्र फ नििेश ांि अक्षों िो P और Q पर ि ित  है, तो PQ िी लां  ई िी म प (इि इयों में) क्य  है?          
+SSC CHSL Pre 2024 
+ 
+[A]25                    [B]29 
+ 
+[C] 40 
+            [D]35 
+85. Find the area of the triangle whose coordinates are  
+A(2, 4), B(3, -1) and C(-3, 3)? 
+तिभुज का क्षेिफल ज्ञात कीतजए तजसके तनदेशाांक A(2, 4), B(3, -1) और C(-3, 3) हैं? 
+A) 13 square units                   B) 12 square units 
+C )10 square units                   D) 14 square units 
+ 
+86. The area of the triangle formed by joining the points (2019, 2019), (2029, 2029) and (2039, 2019) is  
+एि बिभुज िे शीर्ा िे  नििेश ांि  (2019, 2019), (2029, 2029) और (2039, 2019) है, त  बिभुज ि  क्षेिफल ज्ञ त िरे ?  
+ 
+a)2019 
+b)100 
+ 
+c)50 
+ 
+d)1000  
+87. Find the area of the triangle with vertices at (a, b+c), (b, c+a) &  
+(c, a+b)? 
+(a, b+c), (b, c+a) & (c, a+b) पर शीर्ा िे स ि बिभुज ि  क्षेिफल ज्ञ त िीजजये? 
+ 
+ 
+A) ab+bc+ca 
+B) 0 
+C) a-b-c 
+D) a+b+c 
+88. If (2 , 7), (5 , 1) , (x , 3) are the vertices of a triangle whose area is 18  
+(sq units) then find the Possible  values of x ? 
+यनद (2 , 7) , (5 , 1) , (x , 3) एक निभुि के शीर्ग हैं निसका क्षेिफि 18 (वर्ग इकाई) है , तो  
+x के सिंभानवत माि ज्ञात कीनिए ? 
+RRB NTPC 12/01/2021 (Morning) 
+(a) - 10 or - 2 
+(b) 10 or - 2 
+(c) 10 or 2 
+(d) - 10 or 2 
+89. The area, in square units, of a triangle formed by the coordinate axis and the straight line 5x + 7y = 35 is : 
+ निदेशािंक अक्ष और सीिी रेिा द्वारा र्नित निभुि का वर्ग इकाइयोिं में क्षेिफि 5x + 7y = 35 है ? 
+RRB NTPC 05/01/2021 (Morning) 
+(a) 2/35         
+(b) 35/2     
+(c) 25/2    
+(d) 35 
+90. The area of the triangle formed by the line 2x - 4y - 7 = 0 with the coordinate axis is: 
+निदेशािंक अक्ष के साथ रेिा 2x - 4y - 7 = 0 से  िे निभुि का क्षेिफि है: 
+RRB NTPC 11/02/2021 (Evening) 
+(a) 
+𝟒𝟗
+𝟖 unit2            
+(b) 
+𝟒𝟗
+𝟒 unit2                  
+(c) 
+𝟒𝟗
+𝟐 unit2            
+(d) 
+𝟒𝟗
+𝟏𝟔 unit2            
+91. Find the area of triangle formed by three lines x=y ,2x+3y=6 and X-axis ? 
+तीि रेख ओां x=y  ,2x+3y=6 और X अक्ष द्ि र   िे बिभुज ि  क्षेिफल ज्ञ त िरे? 
+a)1.2                 b)1.6                  c)1.8                     d)2.4 
+92. Find the area of triangle formed by three lines 2y=3x,9x+7y=91 and Y axis ? 
+तीि रेख ओ 2y=3x, 9x+7y=91 और Y अक्ष द्ि र   िे बिभुज ि  क्षेिफल ज्ञ त िरे? 
+a)25                b)30.33                 c)45.5                     d)32 
+93. The area (in sq. units) of the triangle formed by the graphs of 8x + 3y = 24, 2x + 8 = y and the x-axis is:  
+8x + 3y = 24, 2x + 8 = y और x-अक्ष िे ग्र फ द्ि र  निममात बिभुज ि  क्षेिफल (िगा इि ई में) ज्ञ त िीजजए। 
+(a) 28 
+ 
+ 
+(b) 14 
+ 
+ 
+(c) 15 
+ 
+ 
+(d) 24 
+94. What is the area (in unit squares) of the region enclosed by the graphs of the equations 2x - 3y + 6 = 0, 4x + y = 16 and y = 0 ? 
+समीिरणों 2x - 3y + 6 = 0, 4x + y = 16 और y = 0 िे ब ांिुरेख (graph) से परर द्ध क्षेि ि  क्षेिफल (िगा इि ई में) किति  होग ? 
+(a)11.5  
+(b) 10.5  
+(c) 14 
+ 
+(d) 12 
+ 
+95. Find the area of triangle which is formed by lines 5x+7y=35, 4x+3y=12 and X-axis. 
+रेख ओ 5x+7y=35, 4x+3y=12 और X अक्ष द्ि र   िे बिभुज ि  क्षेिफल ज्ञ त िरे? 
+a)
+𝟏𝟓𝟎
+𝟏𝟑               b)
+𝟏𝟔𝟎
+𝟏𝟑                     c)
+𝟏𝟒𝟎
+𝟏𝟑                    d)10 
+ 
+96. Find the area of quadrilateral which is formed by lines 7x+8y=56,16x+15y=360, X axis and Y -axis? 
+रेख ओ 7x+8y=56,16x+15y=360, X अक्ष और Y अक्ष द्ि र   िे चतुभुाज ि  क्षेिफल ज्ञ त िरे? 
+a)242                   b)228                    c)224                   d)240 
+97. Find the area of quadrilateral formed by |x|+|y|=5? 
+रेख  |x|+|y|=5 द्ि र  चतुभुाज ि  क्षेि फल ज्ञ त िरे?  
+a)25                b)50                 c)75                   d)100 
+98. Calculate the area of the quadrilateral formed with the vertices  
+(-3, 2), (5, 4), (7, -6) and (-5, -4)? 
+शीर्षों (-3, 2), (5, 4), (7, -6) और (-5, -4) से बने चतुर्ुि का क्षेत्रफल ज्ञात कीजिए? 
+A) 80 square units 
+B) 160 square units  
+C) 0 square units 
+D) 150 square units 
+SSC CHSL Tier- I (2021) (08/6/2022) All shift 
+ 
+ 
+ 
+99. Which of the following lines- x + 2y + 9 = 0, 5x - 4 =0, 2y - 13 = 0, 2x-3y = 0 passes through origin? 
+समीिरण x + 2y + 9 = 0, 5x - 4 =0, 2y - 13 = 0, 2x-3y = 0, में से मूल ब ांिु से गुजरिे ि ली सरल रेख  ि  समीिरण है- 
+(a) 2x-3y= 0            
+(b) x + 2y+9=0 
+(c) 5x-4 = 0                            (d) 2y - 13 = 0 
+100. ax+by+c=0 is a line where a≠0, b≠0, c=0 represents a linear  
+line which passes through ? 
+ax+ by + c= 0 प्रि र ि  एि समीिरण, जह ाँ a≠0, b≠0, c=0 एि ऋजु रेख  िो निरूवपत िरत  है जो गुज़रती है- 
+(a) (0, 0) से       b) (3, 2) से          (c) (2, 4) से             (d) इिमें से िोई िहीां 
+ 
+101. What is the distance of the line 7x- 24y + 151 = 0 from the point (3, -2)? 
+समीिरण 7x- 24y +151 = 0 िी िूरी, ब ांिु (3, -2) से कितिी होगी? 
+a)7.8             b)8.8            c)9.2               d)8.6 
+102. 
+The centre of a circle is (2,3) and it touches the straight line 4x + 3y – 7 = 0. Then find the radius 
+of the circle ? 
+एक वृत्त का केंद्र (2,3) है और यह सीधी रेखा 4x + 3y – 7 = 0 को स्पर्श करता है। तो वृत्त की त्रिज्या ज्ञात कीत्रिए?  
+ (SSC CHSL 2024) 
+a)2           b)3         c)1             d)4 
+103. 
+The perpendicular length from the origin to the line 6x + 8y - 48 = 0 is:  
+ 
+मूल ब ांिु से रेख  6x + 8y – 48 = 0 ति िी लां ित लां  ई ज्ञ त िीजजए।                      SSC CHSL Pre 2024 
+ 
+[A] 2.6 unit 
+[B] 4.8 unit  
+ 
+[C] 8.3 unit 
+[D] 5.2 unit  
+104. What is the distance between two parallel lines 15x + 8y- 39 = 0 and  
+15x + 8y + 46 = 0? 
+िो सम ांतर रेख ओां 15x + 8y- 39 = 0 ति  15x+ 8y+46=0 िे  ीच िी िूरी कितिी होगी? 
+(a) 4 इि ई                        (b) 5 इि ई 
+(c) 6 इि ई                        (d) 
+𝟔𝟓
+𝟏𝟕 इि ई 
+105. Find the centroid of the triangle ABC with coordinates A (5 , -3), B(4 ,6) and C(8 , 2). 
+f=Hkqt ABC ds fcanqvksa A (5 , -3), B(4 ,6) vkSj C(8 , 2). dk dsanzd Kkr djsA 
+ (A) 17/3 , 11/3 (B) 11/3 , 17/3  (C) 17/3 , 5/3      (D) 17/3 , -8/3 
+106. 
+If the centroid of a triangle is (5, 4) and two of its vertices are  
+(4, 3) and (5, 4) find the third vertex? 
+यदि एि बिभुज ि  िेन्रि (5, 4) है और इसिे िो शीर्ा (4, 3) और (5, 4) हैं, तो तीसर  शीर्ा ज्ञ त िरें? 
+A) (-6, -2) 
+B) (6, 5) 
+C) (-3, -5) 
+D) (3, 2) 
+ 
+107. 
+Triangle ABC with points A(10 ,7), B(9 ,5) , C(5 ,6) has centroid G. Find AG. 
+A(10 ,7), B(9 ,5) , C(5 ,6) ds lkFk f=Hkqt ABC esa G ,d dsnzd gSA AG dk eku crkb;sA 
+(a) 5 
+ 
+ 
+(b) √𝟓                
+(c) 2√𝟓  
+ 
+(d) 5√𝟓 
+ 
+108. 
+If the centroid and two vertices of the triangle are (1, 13/3), (4, 5) and (1, -1) respectively, then 
+the area (in square units) of the triangle is? 
+यदि बिभुज ि  िेन्रि और िो शीर्ा क्रमशः (1, 13/3), (4, 5) और (1, -1) हैं, तो बिभुज ि  क्षेिफल (िगा इि इयों में) है? 
+A) 13 
+B) 14 
+C) 15 
+D) 18 
+109. 
+The orthocenter of a triangle formed by the lines x= 0, y=0 and x+y=9 is? 
+रेख ओां x = 0, y = 0 और x + y = 9 द्ि र  गदित बिभुज ि  ऑिोसेंिर है? 
+A) (3, 3) 
+ 
+ 
+B) (0, 0) 
+C) (3, 0) 
+D) (0, 3) 
+110. 
+Find the in-center of the triangle whose vertices are (2, 3), (-2, -5), (-4, 6)? 
+उस त्रत्रर्ुि का अांतःकेंद्र ज्ञात कीजिए जिसके शीर्षु (2, 3), (-2, -5), (-4, 6) हैं? 
+A) (1, 2) 
+B) (-1, 2) 
+C) (2, 3) 
+D) None 
+111. 
+If coordinates of orthocenter and centroid of a triangle are (6, -1) and (4, 1) then coordinates of a 
+point which is equidistance from vertices of the triangle is? 
+यदि एि बिभुज िे लां िेन्र और िेन्रि िे नििेश ांि (6, -1) और (4, 1) हैं, तो उस ब ांिु िे नििेश ांि हैं जो बिभुज िे शीर्ों से सम ि 
+िूरी पर है? 
+A) (3, 2) 
+B) (2, -3) 
+C) (2, 3) 
+D) (-3, 2) 
+112. What is the equation of a circle with centre of origin and radius is 6 cm? 
+उत्पवि िेंर (centre of origin) और 6 cm बिज्य  ि ले िृि ि  समीिरण क्य  है?  
+(a) x2+y2-x-y=36  
+(b) x2+y2-x=36 
+(c) x2+y2-y=36 
+           (d) x2+y2-36=0 
+ 
+113. The equation of circle with centre (1, -2) and radius 4 cm is:  
+(1, -2) िेंर और 4 cm बिज्य  ि ले िृि ि  समीिरण क्य  होग ?  
+(a) x2+y2+2 x-4 y=16 
+ 
+(b) x2+y2-2 x+4 y=16 
+(c) X2+y2+2 x-4 y=11 
+ 
+(d) X2+y2-2 x+4 y=11 
+ 
+ 
+114. Find the equation of a circle whose diameter has end points (4,3) and (-2,1). 
+एक वृत्त के समीकरण का पता लगाएां जिसके व्यास के अांत त्रबांिु (4, 3) और (-2, 1) हैं। 
+(a) X2+y2-2 x-4 y=3 
+ 
+ 
+(b) x2+y2-2 x-4 y=5 
+(c) x2+y2-6 x+2 y=3 
+ 
+ 
+(d) x2+y2-2 x+4 y=5 
+ 
+115. 
+Find the radius of the circle 𝒙𝟐+ 𝒚𝟐−𝟒𝒙+ 𝟔𝒚= 𝟏𝟐? 
+वृत्त 𝒙𝟐+ 𝒚𝟐−𝟒𝒙+ 𝟔𝒚= 𝟏𝟐 की त्रत्रज्या ज्ञात कीजिए 
+A) 4 
+B) 3 
+C) 5 
+D) 2 
+116. 
+If the radius of the circle x2+ y2 - 6x + 8y + c = 0 is 6, then the value of c is: 
+यनद वृत x2 + y2 - 6x + 8y + c = 0 की निज्या 6 है तो c का माि ज्ञात कीनिये ? 
+RRB NTPC 11/02/2021 (Evening) 
+(a) - 10        
+(b) - 11        
+(c) 11        
+(d) 25 
+117. 
+Find the length of the tangent from the point (2, 3) to the circle x2 + y2 = 4. 
+न िंदु (2, 3) से वृत्त x2 + y2 = 4 तक स्पशग रेिा की ििं ाई ज्ञात कीनिए। 
+RRB NTPC 23/07/2021 (Evening) 
+(a) 3           
+(b) 4          
+(c) 1          
+(d) 2 
+118. 
+If the length of the tangent from (2, 5) to x² + y² - 5x 4y+k=0 is √𝟑𝟕 units, Then the value of k is: 
+यनद (2, 5) से x² + y² - 5x + 4y + k = 0 तक स्पशगरिा की ििं ाई √𝟑𝟕 इकाई है, तो k का माि क्या होर्ा ?           RRB NTPC 
+08/02/2021 (Evening) 
+(a) 2            
+(b) 1          
+ 
+ 
+(c) - 2         
+(d) - 1 
+119. 
+Find the equation of the tangents to the circle x² + y² = 9 at x=2.  
+वृत्त x² + y² = 9 के न िंदु x=2 पर िीिंची र्ई स्पशग रिाओ के समीकरण ज्ञात कीनिये ? 
+RRB NTPC 19/01/2021 (Morning) 
+(a) −𝟐𝒙+ √𝟓𝒚= 𝟗   
+(b) 𝟐𝒙+ √𝟓𝒚= 𝟗 
+(c) −𝟐𝒙−√𝟓𝒚= 𝟗 
+(d) 𝟐𝒙−√𝟓𝒚= 𝟗 
+120. What is the total number of common tangents of the circle 
+X2 + y2 – 2x – 2y – 23 = 0 and x2 +y2 – 12x – 26y + 141 = 0 ?  
+o`r X2 + y2 – 2x – 2y – 23 = 0 rFkk x2 +y2 – 12x – 26y + 141 = 0 ds lkekU; Li”kZjs[kkvksa dh la[;k D;k gS \ 
+a)2                b)1               c)3               d)4 
+ 
+121. 
+Find the points of intersection of the line 4x - 3y = 10 and the circle        x2 + y2 - 2x + 4y - 20 = 0 
+रेिा 4x - 3y = 10 और वृत्त x2 + y2 - 2x + 4y - 20 = 0 के प्रनतच्छेदि न िंदु ज्ञात कीनिए। 
+NTPC CBT - I  26/07/2021 (Morning) 
+(a) (4, 2) and (- 2, - 6)   
+(b) (-2, 3) and (4, 2) 
+(c) (- 2, 3) and (4, 3)     
+(d) (2, -3) and (4, 2) 
+122. 
+The position of the point (1, 2) with respect to the circle. 
+वृत्त के सन्दभग में न िंदु (1 , 2) की खिनत क्या है। 
+X² + y² - 3x - 4y + 1 = 0                                   RRB NTPC 22/02/2021 (Morning) 
+(a) Lies on the circle / वृत पर खित है 
+(b) Lies outside the circle / वृत के  ाहर खित है  
+(c) Lies inside the circle / वृत के भीतर है  
+(d) Cannot be decided / ज्ञात िही नकया िा सकता है  
+123. 
+The position of the point (1, -2) with respect to the circle. 
+वृत्त के सन्दभग में न िंदु (1 , -2) की खिनत क्या है। 
+X² + y² + 4x - 2y - 1 = 0                           RRB NTPC 22/02/2021 (Morning) 
+(a) Lies on the circle / वृत पर खित है 
+(b) Lies outside the circle / वृत के  ाहर खित है  
+(c) Lies inside the circle / वृत के भीतर है  
+(d) Cannot be decided / ज्ञात िही नकया िा सकता है  
+124. 
+Find the equation of the sphere having centre (-1,2,-3) and the radius of 3 units? 
+िेंर (-1,2,-3) और 3 इकाई िी बिज्य  ि ले गोले ि  समीिरण ज्ञ त िीजजए?  
+SSC CHSL PRE 2024 
+A) 𝒙𝟐+ 𝒚𝟐+ 𝒛𝟐−𝟐𝒙+ 𝟒𝒚−𝟔𝒛+ 𝟓= 𝟎 
+B) 𝒙𝟐+ 𝒚𝟐+ 𝒛𝟐+ 𝒙−𝟐𝒚+ 𝟑𝒛+ 𝟓= 𝟎 
+C) 𝒙𝟐+ 𝒚𝟐+ 𝒛𝟐+ 𝟐𝒙−𝟒𝒚+ 𝟔𝒛+ 𝟓= 𝟎 
+D) 𝒙𝟐+ 𝒚𝟐+ 𝒛𝟐−𝒙+ 𝟐𝒚−𝟑𝒛+ 𝟓= 𝟎 
+125. 
+Let ABCD be parallelogram such that the coordinates of its three vertices A, B, C are (1, 1), (3, 4) 
+and (-2, 8), respectively. Then, the coordinates of the vertex D are? 
+म ि   ABCD एि सम ांतर चतुभुाज है जजसिे तीि शीर्ों A, B, C िे नििेश ांि क्रमशः (1, 1), (3, 4) और (-2, 8) हैं। तो शीर्ा D िे 
+नििेश ांि हैं? 
+A) (-4, 5) 
+B) (4, 5) 
+C) (-3, 4) 
+D) (0, 11) 
+126. The points (2,1) and (-3 , -4) are opposite vertices of a parallelogram. If the other two vertices lie on the line x + 9y + c = 0, then c is  
+त्रबांिु (2,1) और (-3, -4) समाांतर चतुर्ुि के ववपरीत शीर्षु हैं। यदि अन्य िो शीर्षु रेखा x + 9y + c = 0 पर जथित हैं, तो c है 
+ 
+(A) 12 
+ 
+(B) 13 
+ 
+(C) 14 
+ 
+(D) 15 
+127. If A (12, 21), B (3, p) and C (9, 0) are the vertices of a right-angled triangle with AC hypotenuse, then p = _________. 
+;fn A (12, 21), B (3, p) vkSj C(9, 0), AC d.kZ okys ledks.k f=Hkqt ds 'kh"kZ gSa] rks p = ______ 
+ 
+ 
+(a) 4           (b)5             (c) 6             (d) 3 
+128. 
+The points (14, 19), (-4, 11), (-12, -7) and (6, 1) taken in that order are the vertices of a___________. 
+(14, 19), (-4, 11), (-12, -7) और (6, 1) के क्रम में निए र्ए न िंदु एक___________ के शीर्ग हैं। 
+1. rectangle/आयत 
+2. Trapezium/समिम्ब 
+3. Square/वर्ग 
+4. Rhombus/समचतुभुगि 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+129. 
+The points A (7, 3), B (6, 1), C (8, 2) और D (9, 4) taken in that order are the vertices of a_________. 
+न िंदु A (7, 3), B (6, 1), C (8, 2) और D (9, 4) उस क्रम में निए र्ए हैं, िैसे नक वे एक _________ के शीर्ग हैं।( ICAR Technician 
+2023) 
+1. parallelogram/ समान्तर चतुर्ुशि 
+2. Rectangle/ आयत 
+3. rhombus/ समचतुभुगि  
+4. Square/ वर्ग 
+130. 
+The vertices of a triangle are (0,0) , (4 ,0) and (3 ,9) . The area of the circle passing through these 
+three points is  
+एि बिभुज िे तीिो शीर्ा  (0,0), (4, 0) और (3, 9) हैं। इि तीि ब ांिुओां से गुजरिे ि ले िृि ि  क्षेिफल है 
+ (A) 
+𝟏𝟒𝝅
+𝟑           (B) 
+𝟏𝟐𝟑𝝅
+𝟕            (C) 
+𝟏𝟐𝝅
+𝟓             (D) 
+𝟐𝟎𝟓𝝅
+𝟗 
+131. What is the reflection of the point (3, -2) in the origin? 
+मूल ब ांिु  पर  ब ांिु (3, -2) ि  प्रनतब ां  क्य  है? 
+(a) (3,-2)                (b) (-2, -3)                     (c) (-3, 2)                      (d) (3, 2) 
+ 
+132. What is the reflection of the point (7, 4) in the point (1,3)? 
+ब ांिु (1,3)  पर  ब ांिु (7, 4) ि  प्रनतब ां  क्य  है? 
+(a) (-6,-1)                (b) (-5, -2)                     (c) (6, -2)                      (d) (8, 7) 
+ 
+133. What is the reflection of the point (-0.5, 6) in the line X-axis 
+X  अक्ष पर  ब ांिु (-0.5, 6) ि  प्रनतब ां  क्य  है? 
+(a) (0.5,-6)                (b) (-6, -0.5)                  (c) (6, -0.5)                  (d) (-0.5, -6) 
+ 
+134. What is the reflection of the point (2, -3.5) in the line Y-axis 
+Y  अक्ष पर  ब ांिु (2, -3.5) ि  प्रनतब ां  क्य  है? 
+(a) (-2.3.5)                (b) (-2, -3.5)                     (c) (-3.5, -2)                 (d) (3.5, -2) 
+ 
+135. What is the reflection of the point (6, -5) in the line x= 1 
+रेख  x= 1 में ब ांिु (6, -5) ि  प्रनतब ां  क्य  है? 
+(a) (5.-7)                (b) (6, 7)                     (c) (-4, -5)                      (d) (4, -5) 
+ 
+136. What is the reflection of the point (7, -4) in the line y= 3 
+रेख  y= 3 में ब ांिु (7, -4) ि  प्रनतब ां  क्य  है? 
+ (a) (-7.,4)                (b) (13, -4)                     (c) (7, 10)                      (d) (7, 11) 
+ 
+137. What is the reflection of the point (5, 3) in the line y=  - 4 
+रेख  y= -4 में ब ांिु (5, 3) ि  प्रनतब ां  क्य  है? 
+ (a) (9,3)                (b) (9, -11)                     (c) (5, -11)                      (d) (-5, -11) 
+ 
+138. What is the reflection of the point (8, 6) in the line y=  x 
+रेख  y= x में ब ांिु (8, 6) ि  प्रनतब ां  क्य  है? 
+ (a) (8,6)                (b) (6, 8)                     (c) (-8, -6)                      (d) (-6, -8) 
+ 
+139. What is the reflection of the point (8, 6) in the line y= -x 
+रेख  y= -x में ब ांिु (8, 6) ि  प्रनतब ां  क्य  है? 
+ (a) (8,6)                (b) (6, 8)                     (c) (-8, -6)                      (d) (-6, -8) 
+ 
+140. What is the reflection of the point (2, 5) in the line x+y-17=0 
+रेख  x+y-17=0 में ब ांिु (2, 5) ि  प्रनतब ां  क्य  है? 
+ (a) (9,16)                (b) (12, 15)                     (c) (10, 13)                      (d) (12, 17) 

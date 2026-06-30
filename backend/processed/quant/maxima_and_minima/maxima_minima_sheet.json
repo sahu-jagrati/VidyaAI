@@ -1,0 +1,32 @@
+[
+  {
+    "question_number": 4,
+    "question_en": "Find maximum/minimum value of",
+    "question_hi": null,
+    "option_a": "2sin2θ + 3cos2θ",
+    "option_b": "(9+7cos2θ-4cos2θ)",
+    "option_c": "8-√3sin2θ-√2cos2θ",
+    "option_d": "13cos23θ-17sin23θ",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Maxima & Minima",
+    "source_pdf": "Maxima & Minima Sheet.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 15,
+    "question_en": "Find the maximum/minimum value of",
+    "question_hi": null,
+    "option_a": "sin4θ+cos4θ",
+    "option_b": "sin6θ+cos6θ",
+    "option_c": "cos2θ+sin4θ",
+    "option_d": "sin2θ+cosθ",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Maxima & Minima",
+    "source_pdf": "Maxima & Minima Sheet.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

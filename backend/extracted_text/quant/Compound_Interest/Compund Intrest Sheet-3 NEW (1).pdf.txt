@@ -1,0 +1,837 @@
+ 
+                                               BY Gagan Pratap 
+ 
+1. On a certain sum the compound interest 
+(compounding annually) for fourth year is Rs. 
+15000 
+and 
+the 
+compound 
+interest 
+(compounding annually) for sixth year is Rs. 
+25350. What is the rate of interest per annum? 
+,d fuf'pr jkf'k ij pkSFks o"kZ d fy, pØo`f) C;kt ¼okf"kZd :Ik ls la;ksftr½ 
+15000 gS vkSj NBs o"kZ ds fy, pØo`f) C;kt ¼okf"kZd :Ik ls la;ksftr½  
+25350 gSA of"kZd C;kt nj D;k gS\  
+(a) 25 izfr'kr  
+ 
+(b) 35 izfr'kr  
+(c) 40 izfr'kr              (d) 30 izfr'kr  
+2. If the rate of interest is 20% per annum 
+compounded yearly and the interest on a 
+certain sum is the second year is Rs 250, then 
+what will be the interest on the same sum in 
+the 5th  year? 
+यदि ब्याज की िर 20% प्रति वर्ष वार्र्षक रूप से संयोजजि है 
+और एक तिजचिि राशि पर ब्याज िूसरे वर्ष 250 रुपये है, िो 
+उसी राशि पर 5th वर्ष में ब्याज क्या होगा? 
+A) Rs 518                           c) Rs 400 
+B) Rs 360                           D) Rs 432 
+3. 13th year compound interest 1024. Find the c.i. of 10th year 
+if rate of interest is 𝟏𝟒
+𝟐
+𝟕%. 
+13वें वर्ष का चक्रवृद्धि ब्याज 1024 हो, तो 10वें वर्ष का 
+चक्रवृद्धि ब्याज ज्ञात करें। यदि ब्याज की िर 𝟏𝟒
+𝟐
+𝟕% हो . 
+(a)443        (b)512 
+ 
+               (c)343              (d)686 
+4. The compound interest on a certain sum in the 2nd year is 
+Rs. 320 and in the fourth year is Rs.2000. Find the C.I. in 
+third year. 
+ककसी निश्चचत ििराशि पर िुसरे वर्ष तथा चौथे वर्ष का 
+चक्रवृद्धि ब्याज क्रमिः 320 तथा 2000 रू है | तीसरे वर्ष 
+का चक्रवृद्धि ब्याज ककतिा होगा?  
+a)Rs;1200 
+b)Rs.800 
+ 
+c)Rs.1600 
+d)Rs.1560 
+5. The compound interest and simple interest on 
+a certain sum for 2 years are Rs 50.50 and Rs 
+50, respectively. What is the rate of interest 
+per annum? 
+एक निश्चचत राशि पर 2 वर्ष का चक्रवृद्धि ब्याज और 
+सािारण ब्याज क्रमिः 50.50 रुपये और 50 रुपये है। प्रनत 
+वर्ष ब्याज िर क्या है? 
+A) 3.5% 
+B) 2.5% 
+C) 2.0% 
+D) 1.5% 
+6. On a certain sum, simple interest for 2 years is `9,600 
+whereas the compound interest compounded annually is 
+`10,176. What is the rate of interest per annum? 
+fdlh jkf'k ij] 2 o"kZ dk lk/kkj.k C;kt `9,600 gksrk gS] tcfd okf"kZd rkSj 
+ij la;ksftr gksus okyk pØo`f) C;kt `10,176 gksrk gSA okf"kZd C;kt nj 
+D;k gksxh\ 
+(a) 
+9% 
+(b) 
+12% 
+(c) 
+10% 
+(d) 
+          15% 
+7. What is the rate of interest (in%) if simple 
+interest earned on a certain sum for the 5 years 
+is Rs 45,000 and compound interest earned for 
+2 years is Rs 18,630? 
+ब्याज िर (%में) क्या है, यदि एक निश्चचत राशि पर 5 साल 
+के शलए अश्जषत सािारण ब्याज, 45,000रू और 2 साल के शलए 
+अश्जषत चक्रवृद्धि ब् याज 18,630 रू है? 
+(a) 5  
+ 
+(b) 7  
+ 
+(c) 8 
+  
+ 
+(d) 6 
+8. If the compound interest on a principal for one year is `350 
+and the compound interest for the second year is `420, find 
+the rate of interest. 
+;fn ,d ewy/ku ij ,d o"kZ dk pØo`f) C;kt `350 gS vkSj nwljs o"kZ dk 
+pØo`f) C;kt `420 gS] rks C;kt dh nj Kkr dhft,A 
+(a) 
+30% 
+(b) 
+20% 
+(c) 
+25% 
+(d) 
+15% 
+9. The simple interest on a certain sum of `P at a rate of r% 
+per annum for 3 years is `11,250 and the compound 
+interest on the same sum for 2 years at the same rate 
+percent p.a. is `7,650. What is the value of P and r, 
+respectively? 
+,d fuf'pr /kujkf'k `P ij r% çfr o"kZ dh nj ls 3 o"kksZa ds fy, lk/kkj.k 
+C;kt `11,250 gS vkSj mlh /kujkf'k ij 2 o"kksZa ds fy, leku okf"kZd nj 
+ij pØo`f) C;kt `7,650 gSA Øe'k% P vkSj r dk eku D;k gS\ 
+(a) 
+`93750 and 4% 
+(b) 
+`93750 and 5% 
+(c) 
+`92500 and 6% 
+(d) 
+`92500 and 7% 
+10. 
+The compound interest and the simple 
+interest for two years on a certain sum of 
+money at a certain rate of interest are 
+Rs.2257.5, Rs.2100 respectively. Find the 
+principal and rate percent. 
+ 
+                                               BY Gagan Pratap 
+ 
+,d fuf”pr jkf”k ij ,d fuf”pr jkf”k ij nks lky ds fy, pØo`f) C;kt 
+vkSj lkèkkj.k C;kt :-2257-5 ,oa 2100 : Øe”k% gSA P vkSj nj izfr”kr 
+Kkr djsa% 
+(a) 6000, 7%            (b)7500,8% 
+ 
+(c)14000, 10% 
+ (d) 7000, 15% 
+11. 
+Mukesh 
+invested 
+Rs. 
+100000 
+in 
+a 
+company. He would be paid interest at 7% per 
+annum 
+compounded 
+annually. 
+Find 
+the 
+interest for the 3rd year. 
+eqds'k us 100000 #i;s dk fuos'k fd;k] ,d daiuh esa mUgsa 7% izfr o"kZ dh 
+nj ls okf"kZd pØo`f) C;kt fn;k tk,xkA rks rhljs o"kZ ds fy, C;kt Kkr 
+dhft;sA  
+(a) Rs. 8200.33 
+(b) Rs 7550.53 
+(c) Rs. 8333.33 
+(d) Rs. 8014.3 
+12. 
+A sum of Rs 20000 is invested for three 
+years at compound interest. The rate of 
+interest for first year is 20 percent per annum, 
+for second year it is 15 percent per annum and 
+for third year it is 10 percent per annum. Find 
+the interest for the third year. 
+pdzo`f) C;kt ij rhu वर्ो ds fy, 20000 : dk निवेि fd;k tkrk gSA 
+igys वर्ष ds fy, C;kt dh nj 20 प्रनतित izfr वर्ष gS ] nwljs वर्ष ds 
+fy, ;g 15 प्रनतित izfr वर्ष gS vkSj rhljs वर्ष ds fy, ;g 10 प्रनतित 
+izfr वर्ष gSA rhljs वर्ष dk C;kt Kkr dhft,A 
+(A) Rs 2190 
+ 
+(B) Rs 2620 
+ 
+(C) Rs 2760 
+ 
+(D) Rs 2340 
+13. 
+The compound interest on a certain 
+principal at the rate of 12.5% per annum 
+compounded annually is Rs.1215 in third year. 
+Then find the principal. 
+एक निश्चचत मूलिि पर, चक्रवृधि ब्याज की 12.5% वार्र्षक 
+िर पर, तीसरे वर्ष में चक्रवृद्धि ब्याज 1215 रू है| तो मूलिि 
+ज्ञात कीश्जए? 
+a) Rs.7680  
+b) Rs.8640 
+ 
+c) Rs.6912  
+d) Rs.9216 
+14. 
+Compound interest on a certain sum of 
+money is Rs.12960 in third year, if rate of 
+interest in three years is 12.5%, 6
+𝟐
+𝟑% and 7
+𝟏
+𝟕% 
+respectively. Find the principal. 
+एक निश्चचत ििराशि पर तीसरे वर्ष का चक्रवृधि ब्याज 12960 
+रू प्राप्त होता है| यदि इि तीिो बर्ों में ब्याज िर क्रमिः 
+12.5%, 6
+𝟐
+𝟑% और 7
+𝟏
+𝟕% वार्र्षक है, तो मूलिि ज्ञात कीश्जए? 
+a) Rs.201600 
+b) Rs.176400 
+ 
+c) Rs142800. 
+d) Rs.151200 
+15. 
+The compound interest on a certain sum 
+of money for one year 146 days at 14.28% per 
+annum is Rs.408. Then find the principal?एक 
+निश्चचत ििराशि पर 14.28% वार्र्षक चक्रवृद्धि ब्याज की 
+िर से 1 साल, 146 दिि में प्राप्त ब्याज 408 रुपये है। तो 
+मूलिि ज्ञात करे? 
+a) Rs.1920 
+ 
+b) Rs.2040 
+ 
+ 
+c) Rs.1960 
+ 
+d) Rs.1880 
+16. 
+The difference between C.I. and S.I. on 
+a certain sum of money at 15% per annum for 
+2 years 219 days is Rs.2061. then find the 
+principal. 
+एक निश्चचत ििराशि पर 2 वर्ष 219 दिि में 15% की वार्र्षक 
+चक्रवृधि ब्याज िर पर, चक्रवृधि ब्याज और सािारण ब्याज 
+के बीच का अंतर 2061रू है, तो मूलिि ज्ञात कीश्जए? 
+a) Rs.40000 
+ 
+b) Rs.48000 
+ 
+c) Rs.36000 
+ 
+d) Rs.32000 
+17. 
+The simple interest on a certain sum at the end of 
+three years at 5% p.a. is 1200 rupees. The compound 
+interest on the same sum for the same period at the same 
+rate is (interest compound yearly) 
+तीि साल के अंत में एक निश्चचत राशि पर सािारण ब्याज 
+5% p.a. की िर से 1200 रुपये है। समाि िर पर समाि 
+अवधि के शलए समाि राशि पर चक्रवृद्धि ब्याज (वार्र्षक 
+चक्रवृद्धि ब्याज)क्या होगा? 
+a) 1273               b) 1261                    
+ 
+c) 1272                     d) 1260 
+18. 
+The compound interest on a certain 
+sum of money at 8% per annum for 3 years is 
+₹4,058. Find the simple interest on the same 
+sum for 4 years at 10% p.a. 
+एक निश्चचत ििराशि पर 3 वर्ों के शलए 8% प्रनत वर्ष की 
+िर से चक्रवृद्धि ब्याज ₹4,058 है। उसी राशि पर 4 वर्ष के 
+शलए 10% प्रनत वर्ष की िर से सािारण ब्याज ज्ञात कीश्जए।        
+(DP CONSTABLE 2023) 
+A) Rs 6520 
+B) Rs 6025 
+C) Rs 6250 
+D) Rs 6052 
+19. 
+The difference between the CI and 
+SI on a certain sum of money for 3 years at 
+4% percent per annum is ₹152. Find the sum 
+invested. 
+एक निश्चचत ििराशि पर 3 वर्ों के शलए 4% प्रनत वर्ष की 
+िर से CI और SI के बीच का अंतर ₹152 है। निवेि की 
+गई राशि ज्ञात कीश्जए। 
+(DP CONSTABLE 2023) 
+A) Rs 31250 
+B) Rs 31200 
+C) Rs 31225 
+D) Rs 31275 
+20. 
+If the difference between CI and SI on a 
+certain sum for three years is Rs.8.181 at 3% 
+per annum. Then find the principal. 
+ 
+                                               BY Gagan Pratap 
+ 
+ककसी निश्चचत ििराशि का 3 वर्ों में चक्रवृद्धि ब्याज और 
+सािारण ब्याज 3% वार्र्षक ब्याज की िर पर अंतर 8.181 रू 
+है| तो मूलिि ज्ञात करें? 
+a) Rs.3000 
+ 
+b) Rs.3600 
+ 
+c) Rs.2400 
+ 
+d) Rs.2700 
+21. 
+The difference between C.I. and S.I. on 
+a certain sum of money at 16% per annum 
+compounded annually in 3 years is Rs. 3792. 
+Then find the principal. 
+एक निश्चचत ििराशि पर 3 वर्ों में 16% की वार्र्षक चक्रवृधि 
+ब्याज िर पर, चक्रवृधि ब्याज और सािारण ब्याज के बीच 
+का अंतर 3792 रू है, तो मूलिि ज्ञात कीश्जए?  
+a) Rs.31250 
+ 
+b) Rs.62500 
+ 
+c) Rs.39062.50  
+d) Rs.46875 
+22. 
+If the differnce between C.I and S.I for 
+three years is Rs.840. If rate of interest is 11
+𝟏
+𝟗% 
+then find principal? 
+3 वर्ों में चक्रवृद्धि ब्याज और सािारण ब्याज का अंतर 840 
+रू है| यदि ब्याज की िर 11
+𝟏
+𝟗%  हो तो मूलिि ज्ञात करें? 
+a) Rs.21870 
+ 
+b) Rs.20780 
+ 
+c) Rs.18225 
+ 
+d) Rs.24300 
+23. 
+If the difference between C.I and S.I for 
+one and half year is Rs.1500. If rate of interest 
+is 25%. Interest is compounded half yearly, 
+then find principal? 
+1 वर्ष 6 माह में चक्रवृद्धि ब्याज और सािारण ब्याज का 
+अंतर 1500 रू है| यदि ब्याज की िर 25% हो एवं यह छमाही 
+संयोश्जत ककया जाता है तो मूलिि ज्ञात करें? 
+a) Rs.30720 
+ 
+b) Rs.20480 
+ 
+c) Rs.28800 
+ 
+d) Rs.36000 
+24. 
+If the difference between the compound interest, 
+compounding annually and the simple interest on a 
+certain sum of money at 5% per annum for 3 years is 
+Rs.183, then what is the sum of money invested? 
+;fn ,d fu'fpr /kujkf'k ij 5% okf"kZd dh nj ls 3 o"kksZa ds fy, okf"kZd 
+:i ls pØo`f) gq, pØo`f) C;kt vkSj lk/kkj.k C;kt ds chp dk varj Rs. 
+183 gS] rks fuos'k dh xbZ /kujkf'k D;k gksxh\      (SSC GD 2022) 
+(a) 
+Rs. 20,000 
+(b) 
+Rs. 28,000 
+(c) 
+Rs. 24,000 
+(d) 
+Rs. 16,000 
+25. 
+The difference between C.I. of three 
+years and S.I. for two years on a certain sum is 
+Rs.139. The rate of interest is 22.22% then 
+find principal. 
+3 वर्ों का चक्रवृद्धि और 2 वर्ष का सािारण ब्याज में अंतर 
+139 रू है| चक्रवृद्धि ब्याज की वार्र्षक िर 22.22% हो तो 
+मूलिि ज्ञात करें ? 
+a) Rs.364.5 
+ 
+b) Rs.243 
+ 
+c) Rs.291.60 
+ 
+d) Rs.414.2 
+26. 
+The ratio of difference between C.I. and 
+S.I. in 2 years and 3 years is 9:29. Find the rate 
+of interest compounded annually. 
+चक्रवृद्धि ब्याज और सािारण ब्याज के बीच 2 वर्ों और 3 
+वर्ों के अंतर का अिुपात 9:29 है| तो चक्रवृद्धि ब्याज की 
+वार्र्षक िर ज्ञात कीश्जये? 
+a) 22.22% 
+ 
+b) 18.18% 
+ 
+c) 27.27% 
+ 
+d) 11.11% 
+27. 
+A person lent out a certain sum on 
+simple 
+interest 
+and 
+the 
+same 
+sum 
+on 
+compound interest at a certain rate of interest 
+per annum. If the ratio between the difference 
+of compound interest and simple interest of 2 
+years and that of 3 years is 20 : 63, then what 
+is the rate of interest per annum? 
+एक व्यश्क्त िे एक निश्चचत राशि सािारण ब्याज पर और 
+उतिी ही राशि चक्रवृद्धि ब्याज पर एक निश्चचत वार्र्षक 
+ब्याज िर पर उिार िी। यदि 2 वर्ष के चक्रवृद्धि ब्याज और 
+सािारण ब्याज और 3 वर्ष के चक्रवृद्धि ब्याज के अंतर के 
+बीच का अिुपात 20:63 है, तो प्रनत वर्ष ब्याज की िर क्या 
+है? 
+DSSSB HEAD CLERK 2022 
+A) 9% 
+B) 15% 
+C) 10% 
+D) 12% 
+28. 
+The difference between  C.I. and S.I. in 
+2 years and 3 years are Rs. 132 and Rs.407 
+respectively. On a certain rate of interest 
+compounded annually. Find the simple interest 
+in 5 years on the same principal and same rate 
+of interest annually. 
+ककसी निश्चचत चक्रवृद्धि ब्याज की िर पर, चक्रवृद्धि ब्याज 
+और सािारण ब्याज के बीच 2 वर्ष और 3 वर्ों में अंतर 
+क्रमिः 132 रू और 407 रू है| तो समाि मूलिि और समाि 
+वार्र्षक ब्याज िर पर 5 वर्ों का सािारण ब्याज ज्ञात कीश्जए? 
+a) Rs.7920  
+b) Rs.6600 
+ 
+c) Rs.8712  
+d) Rs.7260 
+29. 
+A sum of money is accumulating at 
+compound interest at a certain rate of interest. 
+If simple interest instead of compound were 
+reckoned, the interest for the first two years 
+would be diminished by Rs70 and that for the 
+first three years by Rs.213.5. Find the sum. 
+ 
+                                               BY Gagan Pratap 
+ 
+एक निश्चचत ििराशि ककसी निश्चचत िर पर चक्रवृद्धि ब्याज 
+की िर पर िि जमा ककया गया है। यदि चक्रवृद्धि के बजाय 
+सािारण ब्याज की प्रनतपूनतष की जाती है, तो पहले िो वर्ों के 
+शलए ब्याज 70 रु  और पहले तीि वर्ों के शलए ब्याज 213.5 
+रु से कम हो जाएगा। तो ििराशि ज्ञात करें? 
+(a) 21000Rs.              (b) 28000 Rs. 
+(c) 24500 Rs.            (d) 35000 Rs. 
+30. 
+The compound interest on a sum of 
+money for 2 years is Rs.832 and the simple 
+interest on the same sum for the same period 
+is 
+Rs.800. 
+The 
+difference 
+between 
+the 
+compound interest and the simple interest for 
+3 years at the same rate will be: 
+2 साल के शलए ककसी राशि पर चक्रवृद्धि ब्याज 832 रू है 
+और उसी अवधि के शलए समाि राशि पर सािारण ब्याज 800 
+रु है। चक्रवृद्धि ब्याज और सािारण ब्याज के बीच 3 साल 
+के शलए समाि िर पर अंतर होगा: 
+a) Rs.92.36 
+ 
+b) Rs.75.64 
+ 
+c) Rs.98.56 
+ 
+d) Rs.106.56 
+31. 
+The ratio of the compound interest 
+earned over 2 years when compounding a 
+principal annually to the simple interest 
+earned for the same principal at the same rate 
+for the same duration is 25:24. Find the ratio 
+of the compound interest earned over 3 years 
+when 
+compounding 
+the 
+same 
+principle 
+annually to the simple interest earned for the 
+same principal at the same rate for 3 years? 
+2 वर्ष की  अवधि में ,अश्जषत  चक्रवृद्धि ब्याज जो वार्र्षक 
+सयोंश्जत है  और समाि िर पर समाि अवधि में अश्जषत 
+सािारण ब्याज का अिुपात 25:24 है । उसी मूलिि पर समाि 
+िर से  3 वर्ष में अश्जषत चक्रवृद्धि ब्याज(वार्र्षक सयोंश्जत) 
+और साधारण ब्याज का अिुपात ज्ञात कीश्जये? 
+a)625:576 
+b) 79:72  
+c)301:288 
+d) 469:432 
+32. 
+Ratio of compound interest and simple 
+interest at the end of 4 years for same principal 
+and at rate 33.33% p.a. is _____ 
+çfr o’kZ 33.33% dh nj ls leku ewyèku ds fy, 4 o’kZ ds var esa 
+pØo`f) C;kt vkSj lkèkkj.k C;kt dk vuqikr gS _____ 
+       (a)175:148 
+        (b)165:108 
+ 
+        (c)175:108 
+        (d)165:148 
+33. 
+The 
+difference 
+between 
+the 
+compound interest and the simple interest 
+on ₹80,000 at the same rate of interest per 
+annum for 2 years is ₹98. What is the rate of 
+interest per annum? 
+2 वर्ों के शलए प्रनत वर्ष समाि ब्याज िर पर ₹80,000 पर 
+चक्रवृद्धि ब्याज और सािारण ब्याज के बीच का अंतर ₹98 
+है। प्रनत वर्ष ब्याज िर क्या है? 
+(DP 
+CONSTABLE 
+2023) 
+A) 3
+𝟏
+𝟐% 
+B) 5
+𝟏
+𝟐% 
+C) 2
+𝟏
+𝟐% 
+D) 7
+𝟏
+𝟐% 
+34. 
+If the difference between CI and SI on a 
+certain sum of money of Rs.25200 for 2 years 
+is Rs.700. Find rate of interest? 
+25200रू के िि का 2 वर्ष का सािारण ब्याज और चक्रवृद्धि 
+ब्याज का अंतर 700रू है तो िर ज्ञात करें? 
+a) 14
+𝟏
+𝟕%       b) 16
+𝟐
+𝟑%         
+c) 15%       d) 13% 
+35. 
+Amit borrowed a sum of 25000 rupees on simple 
+interest. Bhola borrowed the same amount on compound 
+interest (compounded yearly). At the end of 2 years, Bhola 
+had to pay 160 rupees more interest than Amit. The rate 
+of interest charged per annum is: 
+अशमत िे सािारण ब्याज पर 25000 रुपये उिार शलए। भोला 
+िे चक्रवृद्धि ब्याज पर समाि राशि उिार ली। 2 साल के अंत 
+में, भोला को अशमत की तुलिा में 160 रुपये अधिक ब्याज 
+िेिा पडा। प्रनत वर्ष ब्याज की िर है: 
+a) 6.4%  
+b) 8% 
+ 
+ 
+ 
+c) 4% 
+ 
+d) 4.8% 
+36. 
+The 
+difference 
+between 
+compound 
+interest (compounding annually) and simple 
+interest on a sum of Rs 1000000 for 2 years is 
+Rs 2401. Find the rate of interest per annum? 
+2 वर्ों के शलए 1000000 रुपये की राशि पर चक्रवृद्धि 
+ब्याज (वार्र्षक चक्रवृद्धि) और सािारण ब्याज के बीच का 
+अंतर 2401 रुपये है। प्रनत वर्ष ब्याज की िर ज्ञात करें? 
+A) 5.2% 
+B) 6.1% 
+C) 4.9% 
+D) 5.0% 
+37. 
+A borrowed `58,000 from B at 8% per annum 
+simple interest for 2 years. He lent the same sum to C at 
+10% per annum compound interest, compounded 
+annually for 2 years. How much did he (in `) in the 
+transaction at the end of 2 years? 
+A us B ls `58,000 dh jkf'k 8% dh okf"kZd lk/kkj.k C;kt nj ij 2 o"kZ 
+ds fy, m/kkj yhA mlus C dks leku jkf'k 10% dh okf"kZd pØo`f) C;kt 
+nj ij] ftl ij C;kt okf"kZd :i ls pØo`f) gksrk gS] 2 o"kZ ds fy, m/kkj 
+ns nhA 2 o"kZ ds ckn mls bl ysu&nsu esa fdruh jkf'k (` esa) ykHk ds :i 
+esa çkIr gksxh\ 
+(a) 
+3,000 
+ 
+                                               BY Gagan Pratap 
+ 
+(b) 
+2,800 
+(c) 
+2,900 
+(d) 
+2,750 
+38. 
+A money-lender borrows money at 6% per 
+annum and pays the interest at the end of the year. He 
+lends it at 8% per annum compound interest compounded 
+half-yearly and receives the interest at the end of the year. 
+In this way, he gains Rs.1512 a year. The amount of money 
+he borrows, is: 
+,d lkgwdkj 6% okf"kZd nj ls /ku m/kkj ysrk gS vkSj o"kZ ds var esa C;kt 
+dk Hkqxrku djrk gSA og bls 8% okf"kZd pØo`f) C;kt ij m/kkj nsrk gS 
+tgk¡ C;kt Nekgh :i ls pØo`f) fd;k tkrk gS vkSj og o"kZ ds var esa C;kt 
+ysrk gSA bl rjg mls okf"kZd :i ls #- 1512 dk ykHk gksrk gSA mlds }kjk 
+m/kkj yh xbZ jkf'k Kkr djsaA 
+(a) Rs. 60,000 
+(b) Rs. 5,0000 
+(c) Rs. 5,5000 
+(d) Rs. 70000 
+39. 
+Akhilesh borrowed `50,000 at a certain rate on 
+simple interest and lent the same sum to Rakesh on 
+compound interest, compounded annually at the same 
+rate of interest. At the end of 2 years, Rakesh cleared his 
+loan and then Akhilesh also cleared his loan. In the 
+process, Akhilesh earned `180. What was the rate of 
+interest charged per annum? 
+vf[kys'k us lk/kkj.k C;kt dh ,d fuf'pr nj ij `50,000 dh /kujkf'k 
+m/kkj yh] vkSj ml jkf'k dks leku] fdUrq okf"kZd pØo`f) vk/kkj ij x.kuh;] 
+C;kt nj ij jkds'k dks m/kkj ns nhA 2 o"kZ dh lekfIr ij] jkds'k us viuk 
+m/kkj pqdk;k vkSj fQj vf[kys'k us viuk m/kkj pqdk fn;kA bl çfØ;k esa] 
+vf[kys'k dks `180 dk ykHk gqvkA çHkkfjr okf"kZd C;kt dh nj fdruh Fkh\ 
+(a) 
+8% 
+(b) 
+6% 
+(c) 
+7.5% 
+(d) 
+5% 
+40. Peter invested a certain sum of money in a scheme 
+paying 10% simple interest per annum, while Rachel 
+invested half of the sum that Peter invested in a scheme 
+paying 10% interest per annum compounded annually. 
+Also, while Peter invested for 2 years, Rachel invested for 
+3 years. If the difference in the interest earned by Peter 
+and Rachel was ₹897,what was the sum that Rachel had 
+invested? 
+पीटर ने 10% वार्षिक साधारण ब्याज देने वाली एक योजना में एक 
+र्नर्ित रार्ि का र्नवेि र्कया, जबर्क रेचल ने वार्षिक चक्रवृद्धि 
+आधार पर गणनीय 10% वार्षिक ब्याज दर वाली एक योजना में 
+पीटर से आधी रार्ि का र्नवेि र्कया। पीटर ने 2 वषि के र्लए र्नवेि 
+र्कया, तथा रेचल ने 3 वषि के र्लए र्नवेि र्कया। यर्द उनके द्वारा 
+अर्जित ब्याजोों में ₹897 का अोंतर था, तो रेचल ने र्कतनी रार्ि का 
+र्नवेि र्कया था?  
+(a) ₹12,900                         (b) ₹13,000 
+(c) ₹13,100                        (d) ₹12,960 
+41. 
+Sudha invested her saving in schemes A 
+and B in the ratio 3:5, each for 1
+𝟏
+𝟐 years. 
+Scheme A offers intrest at a rate of 20% per 
+annum compounded 6 – monthly, where as 
+scheme B offers interest at a rate of 10% per 
+annum compounded annually. If the difference 
+between the interests received from A and B is 
+Rs 152.60, then the money invested in scheme 
+B is? 
+सुधा ने अपनी बचत योजनाओं A और B में 3:5 के अनुपात में 
+1
+𝟏
+𝟐 वर्षों के लिए ननवेश की। योजना A 20% प्रनत वर्षष की दर से 
+6 - मालसक चक्रवृद्धध ब्याज की पेशकश करती है, जबकक योजना 
+बी 10% प्रनत वर्षष की दर से वार्र्षषक चक्रवृद्धध ब्याज प्रदान करती 
+है। यदद A और B से प्राप्त ब्याज के बीच का अंतर 152.60 
+रुपये है, तो योजना B में ननवेश की गई रालश है? (ICAR 
+Assistant 2022) 
+A) Rs 4000 
+B) Rs 4500 
+C) Rs 3000 
+D) Rs 3500 
+42. 
+A man invested a total of `12,050 in two parts, one 
+at 10% p.a. simple interest for 2 years and the other at the 
+same rate at compound interest, interest being 
+compounded annually, for the same time. The amounts he 
+received from both the parts are equal. The sum (in `) 
+invested at the compound interest is: 
+dksbZ vkneh] dqy `12,050 dh jkf'k dks nks Hkkxksa esa fuosf'kr djrk gS] igys 
+Hkkx dks lk/kkj.k C;kt ij çfr o"kZ 10% dh nj ls 2 o"kZ ds fy, vkSj 
+nwljs Hkkx dks okf"kZd :i ls pØo`f) gksus okys C;kt dh leku nj ls leku 
+le; ds fy, fuosf'kr djrk gSA mls nksuksa Hkkxkas ls feyus okyh /ku jkf'k;ka 
+cjkcj gSaA pØo`f) C;kt ij fuosf'kr jkf'k ¼` esa½ Kkr djsaA 
+ 
+(a) 
+5,780 
+ 
+(b) 
+5,850 
+ 
+(c) 
+6,000 
+ 
+(d) 
+5,800 
+ 
+ 
+ 
+ 
+                                               BY Gagan Pratap 
+ 
+43. 
+Rs.8454 is invested in two parts at the rate of 12% 
+per annum compounded annually for 13 years and 15 
+years respectively. If amount received on both investment 
+is equal. Then find the difference between both 
+investment. 
+8454 रू की ििराशि िो भागों में क्रमिः 13 वर्ष और 15 वर्ष 
+के शलए 12% चक्रवृधि ब्याज की वार्र्षक िर पर निवेशित 
+करता है| यदि इि िोिों निवेिों से सामाि शमश्रिि प्राप्त 
+होता है, तो िोंिो निवेिों के बीच अंतर ज्ञात कीश्जए? 
+a)Rs.954 
+b)Rs. 894 
+ 
+c)Rs.1014 
+d)Rs. 1272 
+44. 
+A man wants to invest Rs.1,34,470 in bank 
+account of his two sons whose ages are 12 years and 16 
+years in such a way so that they will get equal amount at 
+an age of 21 years at the rate of 20% per annum 
+compounded annually. Find the share of younger brother. 
+एक ब्यश्क्त अपिे िो पुत्रों श्जिकी आयु 12 वर्ष और 16 वर्ष 
+है, के बैंक खातों में 1,34,470  रू की ििराशि इस प्रकार 
+निवेशित करिा चाहता है कक  20% चक्रवृधि ब्याज की 
+वार्र्षक िर पर, पुत्रों की 21 वर्ष की आयु होिे पर उन्हें समाि 
+शमश्रिि प्राप्त हो| छोटे बेटे का भाग ज्ञात कीश्जए? 
+a)Rs.43750 b)Rs.90720 
+ 
+c)Rs.97200 d)Rs.42250 
+45. 
+A person deposit a certain money at 
+starting of each year. If rate of interest is 
+12.5% per annum compounded annually. If 
+compound interest of third year is Rs.13020. 
+find what money deposit each year?                                                   
+एक व्यश्क्त प्रत्येक वर्ष की िुरुआत में एक निश्चचत पैसा जमा 
+करता है।  चक्रविधि ब्याज की िर सालािा 12.5% है, यदि तीसरे 
+वर्ष का चक्रविधि ब्याज 13020 रु है। तो ककतिा िि प्रनत वर्ष 
+जमा कराया गया है?           
+a) 40960Rs.    b) 25600Rs.       
+c)38400Rs.     d)30720Rs. 
+46. 
+Difference between simple interest and 
+compound interest for second  year is Rs. 12. 
+and simple interest for first year is Rs. 80. find 
+the compound interest of third year. If rate of 
+interest 
+ratio 
+for 
+three 
+years 
+is 
+2:3:4 
+respectively.                                                                                                
+िुसरे साल के शलए सािारण ब्याज और चक्रविधि ब्याज के बीच 
+अंतर 12 रुपये है और पहले वर्ष के शलए सािारण ब्याज 80 रुपये 
+है। तीसरे वर्ष के चक्रवृद्धि ब्याज का पता लगाएं। यदि तीि वर्ो  
+के शलए ब्याज िर क्रमिः 2: 3:4है। 
+a) 202.40             b) 205.40  
+c) 201.20              d) 203.80 
+47. 
+A man borrowed a sum of money and 
+agreed to pay off by paying Rs 4200 at the end 
+of the first year and Rs 4410 at the end of the 
+second year. If the rate of compound interest 
+was 5% per annum, find the sum borrowed? 
+एक आिमी िे कुछ ििराशि उिार ली और पहले वर्ष के अंत 
+में 4200 रुपये और िूसरे वर्ष के अंत में 4410 रुपये का 
+भुगताि करके भुगताि करिे पर सहमत हुआ। यदि चक्रवृद्धि 
+ब्याज की िर 5% प्रनत वर्ष थी, तो उिार ली गई राशि ज्ञात 
+कीश्जए? (DP CONSTABLE 2023) 
+A) Rs 7500 
+B) Rs 8000 
+C) Rs 8500 
+D) Rs 7000 
+48. 
+A person borrows some money at 10% 
+per annum compound interest for three years. 
+At the end second year he deposits Rs. 8470 
+and at the end of third year he clears all his 
+debt by paying Rs.13310 What was the money 
+he borrowed? 
+एक व्यद्धि 3 साल के र्लए 10% प्रर्तवषि  चक्रवृद्धि पर कुछ पैसा 
+उधार लता है। दूसरे वषि के अोंत मे उसने 8470 रुपये  जमा र्कये 
+और तीसरे वषि के अोंत मे उसने 13310 रुपये  जमा र्कये और ऋण 
+मुि हो गया तो उसने र्कतना पैसा उधार र्लया था।  
+(a) Rs. 16000         
+ 
+(b) Rs. 17000  
+(c) Rs. 18000         
+ 
+(d) Rs. 16997.7  
+ 
+49. 
+A person borrowed a sum of `30800 at 10% p.a. 
+for 3 years, interest compounded annually. At the end of 
+two years, he paid a sum of `13268. At the end of 3rd year, 
+he paid `x to clear of the debt. What is the value of x? 
+,d O;fDr us 10% okf"kZd pØo`f) C;kt nsj ij `30,800 dh jkf'k 3 o"kZ 
+ds fy, m/kkj yh] ftleas C;kt okf"kZd :i ls pØo`f) gksrk gSA nwljs o"kZ ds 
+var esa] mlus `13,268 dh jkf'k dk Hkqxrku fd;kA rhljs o"kZ ds var esa] 
+mlus _.k pqdkus ds fy, `x dk Hkqxrku fd;kA x dk eku Kkr djsaA 
+(a) 
+26200 
+(b) 
+26620 
+(c) 
+26400 
+(d) 
+26510 
+50. 
+A's amount is 
+𝟒𝟏
+𝟒𝟎𝟎 times more than B's 
+amount. B spends his amount at 9% per annum 
+for two years. At what rate should A spend his 
+amount so that after two years their amounts 
+may become equal? 
+A की धनरार्ि B की धनरार्ि से 
+𝟒𝟏 
+𝟒𝟎𝟎  गुना अर्धक है। B अपनी 
+रार्ि को 9% वार्षिक दर से 2 वषो तक खचाि करता है। तो बताइये 
+A अपनी धनरार्ि र्कस दर से खचि करें र्क 2 वषि बाद उसकी 
+धनरार्ि बराबर हो जाये? 
+(a) 13
+𝟏
+𝟑% 
+           (b)10% 
+              
+(c)11
+𝟏
+𝟗 %             (d) 9
+𝟏
+𝟏𝟏% 

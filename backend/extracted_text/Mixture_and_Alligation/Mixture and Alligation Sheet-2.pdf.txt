@@ -1,0 +1,881 @@
+ 
+ 
+                                                          BY Gagan Pratap 
+1. The ratio of boys and girls in class A is 2:5. 
+Ratio of boys to girls in class B is 7:4. Which 
+of the following can not be the ratio of girls to 
+boys in class A and B together? 
+कक्षा A में लड़के और लड़ककयों का अनुपात 2:5 है। कक्षा B में 
+लड़कों से लड़ककयों का अनुपात 7:4 है। ननम्नललखित में से कौन 
+कक्षा A और B में लमलाकर लड़ककयों से लड़कों का अनुपात नह ीं 
+हो सकता है? 
+A) 5:8 
+ 
+ 
+ 
+ 
+C) 1:1 
+B) 7:15 
+ 
+ 
+ 
+ 
+D) 4:5 
+2. In what ratio should coffee powder costing 
+Rs.2500 per kg be mixed with coffee powder 
+costing Rs.1500 per kg so that the cost of the 
+mixture is Rs.2250 per kg? 
+dkWQh ikmMj ftldh dher 2500 :@fd-xzk- gS dks fdl vuqikr esa 1500 
+:@fd-xzk- dher okyh dkWQh ikmMj ds lkFk feyk;k tk, dh feJ.k dh 
+dher 2250 :-@fd-xzk- gks tk,\ 
+(a) 1 : 4 
+ 
+(b) 4 : 1 
+ 
+(c) 3 : 1 
+ 
+(d) 1 : 3 
+3. In what ratio must a grocer mix two varieties 
+of 
+rice 
+costing 
+₹128 
+and 
+₹143 
+per 
+kg, 
+respectively, to get a mixture of rice worth 
+₹137.75 per kg? 
+,d ialkjh dks Øe'k% #i;s 128 vkSj #i;s 143 izfr fdyksxzke ewY; ds pkoy 
+dh nks fdLeksa dks fdl vuqikr esa feykuk pkfg, rkfd #i;s 137-75 izfr 
+fdyksxzke ewY; okyk pkoy dk feJ.k izkIr gks\(SSC MTS 2023) 
+(a) 12:5 
+(b) 7:13 
+ 
+(c) 5:4 
+(d) 6:7 
+4. In what ratio must a grocer mix tea at 
+Rs.72/kg, and Rs.90/kg, so that by selling the 
+mixture at Rs.99.6/kg, he may gain 20%? 
+72 :i;s@fdxzk- vkSj 90 :I;s@fdxzk- okyh pk; dks fdl vuqikr esa feyk;k 
+tk;s fd feJ.k dks 99-6 :I;s@fdxzk- cspus ij 20% dk ykHk izkIr gksA 
+(a) 2:3  
+(b) 7 : 11 
+ 
+(c) 3 : 7 
+ 
+(d) 13 : 19 
+5. In what ratio should sugar costing ₹83 per kg 
+be mixed with sugar costing ₹46 per kg so that 
+by selling the mixture at ₹80.3 per kg, there is 
+a profit of 46%? 
+₹83 प्रनत kg वाल  चीनी को ₹46 प्रनत kg वाल  चीनी के 
+साथ ककस अनुपात में लमलाया जाना चाहहए ताकक लमश्रण 
+को ₹80.3 प्रनत kg पर बेचने पर 46% का लाभ हो? 
+A. 10 : 27 
+B. 8 : 30 
+C. 7 : 30 
+D. 9 : 28 
+6. A 25% gain is made by selling the mixture of 
+two types of sugar at Rs.450 per kg. If one type 
+of sugar costing Rs.560 per kg was mixed with 
+185 kg of other type of sugar which cost is 
+Rs.280 per kg, how many kilograms of the 
+former was mixed? 
+nks çdkj ds phuh dks 450 :- çfr fdyks cspus ij 25% dk ykHk gksrk gSA 
+;fn igys izdkj dh 560 :- çfr fdyks phuh dks nwljs çdkj dh 280 :- 
+çfr fdyks phuh ds 185 fdyks dh ek=k ds lkFk feyk;k tkrk gS rks Kkr 
+dft;s igys izdkj dh phuh dh fdruh ek=k feyk;h x;hA 
+(a) 76 kg  
+ 
+(b) 75 kg 
+ 
+(c) 74 kg 
+ 
+(d) 70 kg 
+7. How many kg of rice costing ₹ 42 per kg should 
+be mixed with 7
+𝟏
+𝟐 kg rice costing ₹ 50 per kg so 
+that by selling the mixture at ₹ 53.10 per kg, 
+there is a gain of 18%? 
+₹ 42 प्रनत kg कीमत वाले ककतने kg चावल को ₹ 50 प्रनत kg 
+कीमत वाले 7
+𝟏
+𝟐 kg चाबल के साथ लमलाना चाहहए, ताकक 
+पररणामी लमश्रण को ₹53.10 प्रनत kg की दर से बेचकर 18 % 
+का लाभ अर्जित ककया जा सके? 
+(a) 𝟏𝟐
+𝟏
+𝟐  
+ 
+(b) 𝟏𝟎
+𝟏
+𝟐  
+ 
+(c) 𝟖 
+ 
+ 
+(d) 9 
+8. Raj prepares a 60 gm mixture by combining 
+two ingredients X and Y. The cost of 
+ingredient X is ₹80 per 5 gm, and the cost of 
+ingredient Y is ₹80 per 10 gm. Ingredients X 
+and Y are mixed in a manner that the cost of 
+the resulting mixture is ₹14 per gm. What is 
+the quantity of ingredient X (in gm) in the 
+mixture?  
+राज दो सामग्रियों X और Y को ग्रमलाकर 60 िाम ग्रमश्रण तैयार करता है. घटक 
+X की कीमत ₹80 प्रग्रत 5 िाम है, और घटक Y की कीमत ₹80 प्रग्रत 10 िाम है ,सामिी X 
+और Y को इस प्रकार ग्रमलाया जाता है ग्रक पररणामी ग्रमश्रण की लागत ₹14 प्रग्रत िाम हो। 
+ग्रमश्रण में घटक X की मात्रा (िाम में) क्या है? 
+(SSC MTS 2024) 
+ A) 30 
+ B) 45  
+ C) 15  
+ D) 60 
+9. A trader bought 640 kg of rice. He sold a part 
+of rice at 20% profit and the rest at 5% less. He 
+earned profit of 15% in the entire transacting. 
+What is the quantity (in kg) of rice that he sold 
+at 5% loss? 
+,d foØsrk us 640 kg pkoy [kjhnsA mlus pkoy dk ,d Hkkx 20% ykHk 
+ij cspk vkSj 'ks"k Hkkx 5% gkfu ij cspkA iwjs ysunsu esa mls 15% ykHk 
+gqvkA mlds }kjk 5% dh gkfu ij csps x, pkoy dh ek=k ¼fdxzk esa½ Kkr 
+djsaA 
+(a) 
+128 
+(b) 
+132 
+(c) 
+154 
+(d) 
+256 
+10. A shopkeeper has 100 kg of rice. He sells 25 kg 
+at some profit and sell remaining part at 8% 
+profit. If he earns 10% profit on whole 
+transaction than find at what % profit he sells 
+25 kg rice. 
+ 
+ 
+                                                          BY Gagan Pratap 
+,d nqdkunkj ds ikl 100 fdxzk pkoy gSA og 25 kg dks dqN ykHk ij 
+rFkk “ks’k dks 8% ds ykHk ij csprk g SA ;fn mls dqy 10% dk ykHk 
+izkIr gqvk gks rks crkb;s mlus 25 kg pkoy dks fdrus % ykHk ij cspk 
+FkkA 
+(a) 15% 
+ 
+(b) 16% 
+ 
+(c) 20% 
+ 
+(d) 18% 
+11. The average cost of some pen tab is Rs. 2,500 
+while the average cost of some white boards is 
+Rs. 1,200. If the average cost of both the 
+items (pen tab and white board) is Rs. 2,000, 
+then find the percentage of number of white 
+boards out of the total items. (Correct to two 
+decimal places)? 
+कुछ पेन टैब की औसत लागत रु. 2,500 जबकक कुछ 
+व्हाइट बोर्ि की औसत लागत रु. 1,200. यहद दोनों वस्तुओीं 
+(पेन टैब और व्हाइट बोर्ि) की औसत लागत रु. 2,000 है, 
+तो कुल वस्तुओीं में से सफेद बोर्ों की सींख्या का प्रनतशत 
+ज्ञात कीर्जए। (दो दशमलव स्थानों तक सह )? 
+DSSSB HEAD CLERK 2022 
+A) 40.46% 
+B) 39.46% 
+C) 38.46% 
+D) 35.46% 
+12. A person spent Rs 50000 to purchase a desktop 
+computer and a laptop computer. He sold the 
+desktop at 20% profit and the laptop at 10% 
+loss. If overall he made a 2% profit then the 
+purchase price, in rupees, of the desktop is 
+एक व्यर्तत ने एक र्ेस्कटॉप कींप्यूटर और एक लैपटॉप 
+कींप्यूटर िर दने के ललए 50000 रुपये िचि ककए। उसने 
+र्ेस्कटॉप को 20% लाभ पर और लैपटॉप को 10% हानन पर 
+बेचा। अगर कुल लमलाकर उसने 2% का लाभ कमाया है, तो 
+र्ेस्कटॉप का िर द मूल्य,( रुपए में), है 
+a)20000                 b)25000                 
+c)18000                  d)24000 
+13. Ramesh purchases a table and a chair for 
+Rs.3,900. He sells the table at a profit of 8% 
+and the chair at a profit of 16%. He earns a 
+profit of Rs.540. What is the difference 
+between the original price of the table and the 
+chair? 
+jes'k Rs 3,900 esa ,d est vkSj ,d dqlhZ [kjhnrk gSA og est dks 8% 
+ds ykHk ij vkSj dqlhZ dks 16% ds ykHk ij csprk gSA mls Rs 540 dk 
+ykHk gksrk gSA est vkSj dqlhZ ds ewy ewY; esa fdruk varj gS\ 
+(a) 
+Rs. 2,000 
+(b) 
+Rs. 1,800 
+(c) 
+Rs.1,900 
+(d) 
+Rs. 1,700  
+ 
+ 
+ 
+ (SSC CGL 2022) 
+14. Kewal bought 5 tables and 13 chairs for a 
+total of Rs 14220. He sold the tables at a 
+profit of 15% and the chairs at a loss of 10%. 
+If his profit in the entire transaction is Rs 
+378, then what is the difference (in Rs) 
+between the cost price of 2 tables and the 
+cost price of 3 chairs? 
+केवल ने कुल 14220 रुपये में 5 मेज और 13 कुर्सिय ाँ खरीदीीं। 
+उसने मेजों को 15% के ल भ पर और कुर्सियों को 10% की ह नन 
+पर बेच । यदद पूरे लेन-देन में उसक  ल भ 378 रुपये है, तो 2 
+मेजों के क्रय मूल्य और 3 कुर्सियों के क्रय मूल्य के बीच क  अींतर 
+(रु में) ककतन  है? 
+A) 1260                             C) 1250 
+B) 1280                             D) 1620 
+15. If two varieties of a grain worth Rs 202 per kg 
+and Rs 250 per kg, respectively, are mixed in 
+the ratio of 7:5, then what is the cost (in Rs) 
+of the resulting mixture per kg? 
+यहद दो प्रकार के अनाज र्जनकी कीमत क्रमशः 202 रुपये 
+प्रनत ककलोग्राम और 250 रुपये प्रनत ककलोग्राम है, को 7:5 
+के अनुपात में लमलाया जाता है, तो प्रनत ककलोग्राम पररणामी 
+लमश्रण की लागत (रुपये में) तया है? (MTS 2023) 
+A) 225 
+B) 218 
+C) 222 
+D) 220 
+16. Sri Ganesh bought 40 kg of wheat at Rs.12.50 
+per kg and 25 kg at Rs.15.10 per kg. He mixed 
+them together. At what rate should he sell the 
+mixture to earn 10% profit? 
+श्री गणेश ने 40 ककलोग्राम गेहूूँ 12.50 रुपये प्रनत ककलो और 
+25 ककलोग्राम गेहूीं 15.10 रुपये प्रनत ककलो के हहसाब से 
+िर दा। उसने उन्हें एक साथ लमला हदया। 10% लाभ अर्जित 
+करने के ललए उसे ककस दर पर लमश्रण बेचना चाहहए? 
+(a) Rs.13.50     
+(b) Rs.13.25 
+(c) Rs.14.75    
+(d) Rs.14.85 
+17. Tea leaves worth Rs 108 per kg and Rs 120 
+per kg are mixed with a third variety in the 
+ratio 2:3:5. If the mixture is worth Rs 125 per 
+kg, the price (in Rs ,rounded off to nearest 
+integer ) of the third variety of tea leaves per 
+kg will be? 
+108 रुपये प्रनत ककलोग्राम और 120 रुपये प्रनत ककलोग्राम 
+की चाय की पत्तियों को 2:3:5 के अनुपात में तीसर  ककस्म 
+के साथ लमलाया जाता है। यहद लमश्रण का मूल्य 125 रुपये 
+प्रनत ककलोग्राम है, तो तीसर  ककस्म की चाय की पत्तियों की 
+ 
+ 
+                                                          BY Gagan Pratap 
+प्रनत ककलोग्राम कीमत (रुपये में ग्रिकटतम पूणाांक तक पूणाांग्रकत ग्रकया 
+गया) तया होगी? ? (MTS 2023) 
+A) 130 
+B) 128 
+C) 135 
+D) 133 
+18. If a beer of 750ml bottle has 9% Alcohol and a 
+wine bottle of 500 ml has 14% alcohol in it. If 
+2 bottles of beer and 3 bottles of wine are mixed 
+together, then find the percentage of alcohol in 
+the solution? 
+यदि 750 दिली की बीयर की बोतल िें 9% अल्कोहल है और 500 
+दिली की वाइन की बोतल िें 14% अल्कोहल है। यदि बीयर की 2 
+बोतलें और वाइन की 3 बोतलें एकसाथ दिलाई जाती हैं, तो घोल िें 
+अल्कोहल का प्रदतशत ज्ञात कीदजये।  
+(a) 12.5%             
+ 
+ 
+(b) 12%               
+(c) 11.5%             
+ 
+ 
+(d) 10.5% 
+19. In 80 ml of a syrup, chloroquine and hydroxyl 
+chloroquine are in ratio of 2 : 3. This syrup is 
+mixed with 120 ml of another syrup of 
+chloroquine and hydroxyl chloroquine. In the 
+resultant syrup, chloroquine is 38.5% then 
+find the ratio of chloroquine and hydroxyl 
+chloroquine in 120 ml syrup.  
+एक 80 लमल ल टर लसरप में, तलोरोतवीन और हाइड्रॉर्तसल 
+तलोरोतवीन 2:3 के अनुपात में हैं। इस लसरप को, 
+तलोरोर्तवन और हाइड्रॉर्तसल तलोरोर्तवन के एक अन्य 
+लसरप के 120 लमल ल टर के साथ लमलाया जाता है। 
+पररणामी लसरप में, तलोरोतवीन 38.5% है, तो 120 
+लमल ल टर लसरप में तलोरोतवीन और हाइड्रॉर्तसल 
+तलोरोतवीन का अनुपात ज्ञात कीर्जये।  
+a) 4:7        b) 2:3     c) 3:5          d)5:9 
+20. A gold smith has two qualities of  
+gold, one of 13 carats and another of 19 
+carats purity. In what proportion should he 
+mix both to make an ornament of 15 carats 
+purity? 
+एक सुन र के प स दो तरह के सुधत  व ले सोने है। एक 13 कैरेट 
+क  और दूसर  19 कैरेट शुद्धत  व ल  है। 15 कैरेट शुद्धत  क  
+आभूषण बन ने के र्लए उसे दोनों को ककस अनुप त में र्मल न  
+च दहए? 
+A) 1:3 
+B) 2:1 
+C) 3:2 
+D) 3:1 
+21. If a dairy mixes cow’s milk which contains 10% 
+fat with buffalo’s milk which contains 20% fat, 
+then the resulting mixture has fat (120/7)% of 
+fat. What ratio was the cow’s milk mixed with 
+buffalo’s milk? 
+dksbZ Ms;jh xk; dk nwèk ftlesa olk ¼QSV½ dk izfrशr 10% gS] dks HkSal ds 
+nwèk ds lkFk feykrh gSa ftlesa 20% olk gS rks ifj.kkeh feJ.k esa olk] olk 
+dk (120/7)% gksrk gSA xk; dk nwèk fdl vuqikr esa HkSal ds nwèk ds lkFk 
+feyk;k x;k\ 
+(a) 2 : 5 
+ 
+(b) 1 : 5 
+ 
+ 
+(c) 2 : 3 
+ 
+(d) 2 : 1 
+22. A chemist mixes two liquids 1 and 2. One litre 
+of liquid 1 weighs 1 kg and one litre of liquid 2 
+weights 800 gm. If half litre of the mixture 
+weights 480 gm, then the percentage of liquid 
+1 in the mixture, in terms of volume, is  
+,d dsfeLV nks rjy inkFkZ 1 vkSj 2 dks feykrk gSA ,d yhVj rjy 1 dk 
+otu 1 fdyks gksrk gS vkSj ,d yhVj rjy 2 dk otu 800 xzke gksrk 
+gSA ;fn feJ.k ds vkèks yhVj dk otu 480 xzke gS] rks ek=k ds lanHkZ esa 
+feJ.k esa rjy 1 dk çfrशr gS  
+              
+(a) 70     
+(b) 85            
+(c) 75     
+(d) 80 
+23. In an experiment, it was observed that metal A 
+is 19 times heavier than water and metal B is 
+9 times heavier than water. In what ratio metal 
+A and B mixed so that the mixture thus 
+obtained be 15 times heavier than water? 
+,d ç;ksx esa] ;g ns[kk x;k fd /kkrq A] ikuh ls 19 xquk Hkkjh gS vkSj /kkrq 
+B] ikuh ls 9 xquk Hkkjh gSA /kkrq A vkSj B dks fdl vuqikr esa feyk;k 
+tk, rkfd bl çdkj çkIr feJ.k ikuh ls 15 xquk Hkkjh gks   
+(SSC CHSL PRE 2023) 
+(a) 3 : 1 
+ (b) 1 : 3 
+    
+(c) 3 : 2 
+ (d) 2 : 3 
+24. Solution A contains 10% acid and sol B 
+contains 30% acid. In what ratio should sol A 
+be mixed with sol B to obtain a mixture with 
+25% acid? 
+feJ.k A esa 10% ,flM gS rFkk feJ.k B esa 30% ,flM gSA feJ.k A 
+dks B ds LkkFk fdl vuqikr esa feyk;k tk, dh feJ.k esa 25% ,flM 
+izkIr gks tk,\ 
+(a) 1 : 2 
+ 
+(b) 2 : 1 
+ 
+(c) 1 : 3 
+ 
+(d) 2 : 1 
+25. A 
+100 
+ml 
+solution 
+of 
+H2SO4 
+having 
+concentration of 20% is mixed with a 50% 
+concentrated x ml mixture such that the net 
+mixture is 30% concentrated. Determine x. 
+20% dh lkaærk okys H2SO4  ds 100 ml ?kksy dks 50% lkaæ x ml 
+feJ.k ds lkFk bl rjg feyk;k tkrk gS fd 'kq) feJ.k 30% lkaæ gksA x 
+dk eku Kkr dhft,A 
+(a) 
+70 ml 
+(b) 
+80 ml 
+(c) 
+60 ml 
+(d) 
+50 ml 
+ 
+ 
+ 
+ 
+  
+(SSC CGL 2022) 
+ 
+ 
+ 
+ 
+                                                          BY Gagan Pratap 
+26. A chemistry laboratory requests for a 25% 
+solution of ferrous sulphate. A supplier has 40 
+mililitre of 20% solution. How many mililitre of 
+40% solution should be added to make it a 25% 
+solution (correct to two decimal places)? 
+एक रसायन प्रयोगशाला फेरस सल्फेट के 25% विलयन के 
+ललए अनुरोध करती है। एक आपूर्तिकताि के पास 20% विलयन 
+का 40 लिलीलीटर है। इसे 25% विलयन बनाने के ललए 40% 
+विलयन के ककतने लिलीलीटर (दो दशिलि स्थानों तक सही) 
+लिलाए जाने चाहहए?  [SSC Selection Post (Phase-XII)] 
+[A]13.33 
+      [B]14.30 
+[C]15.20 
+      [D]16.40 
+27. A and B contain mixtures of milk and water in 
+the ratios 4 : 3 and 7 : 4 respectively. In what 
+ratio should quantities of mixture be taken 
+from A and B to form a mixture in which water 
+and milk is in the ratio 19: 31? 
+nks crZu A vkSj B esa nwèk vkSj ikuh dk feJ.k Øe”k% 4 % 3 vkSj 7 % 4 ds 
+vuqikr esa gSA fdl vuqikr eas nksuks feJ.k ds æO;eku dks fudkyk tk, 
+rkfd mUgsa vkil esa feykus ij ,d ,slk feJ.k rS;kj gks tk;s ftles ikuh 
+vkSj nwèk dk vuqikr 19:31 gks\ 
+(a) 62 : 185 
+ 
+(b) 101 : 177 
+(c) 63 : 187 
+ 
+(d) 23 : 50 
+28. A and B are solutions of acid and water. The 
+ratios of water and acid in A and B are 4:5 and 
+1:2, respectively. If x litres of A is mixed with 
+y litres of B, then the ratio of water and acid in 
+the mixture becomes 8: 13. What is x:y? 
+A और B, एलसर् और पानी के त्तवलयन हैं। A और B में पानी 
+और एलसर् का अनुपात क्रमशः 4:5 और 1:2 है। यहद A के x 
+ल टर को B के y ल टर के साथ लमलाया जाता है, तो लमश्रण 
+में पानी और एलसर् का अनुपात 8:13 हो जाता है। x:y जात 
+कीर्जए। 
+(a) 5:6  
+ 
+(b) 2:5  
+ 
+ 
+(c) 3:4  
+ 
+(d) 2:3 
+29. Two vessels A and B contain milk and In two 
+types of stainless steel, the ratio between 
+chromium 
+and 
+stee 
+are 
+2:11 
+and 
+5:21 
+respectively. If these two types of stainless 
+steel are mixed together to form a new 
+stainless steel in which the ratio of chromium 
+to steel is 7:32, then find the ratio in which 
+these two types of stainless steel are to be 
+mixed together. 
+nks izdkj ds LVsuysl LVhy esa Øksfe;e vkSj LVhy ds chp dk vuqikr Øe'k% 
+2%11 vkSj 5%21 gSA ;fn bu nks izdkj ds LVsuysl LVhy dks ,d lkFk feykdj 
+,d u;k LVsuysl LVhy cuk;k tkrk gS ftlesa Øksfe;e vkSj LVhy dk 
+vuqikr 7%32 gS] rks og vuqikr Kkr dhft, ftlesa bu nksuksa izdkj ds 
+LVsuysl dks ,d lkFk feyk;k tkuk gS\  
+ 
+(CISF HCM 2023) 
+(a) 3:4 
+(b) 1:2 
+(c) 2:3 
+(d) 2:1 
+ 
+30. A person 2 different kinds of alcohol. In the Ist 
+mixture the ratio of alcohol to water is 3:4 and 
+in the 2nd mixture is 5:6. If he mixes the two 
+given mixtures and makes a third mixture of 
+54L in which the ratio of alcohol to water is 4:5 
+the quantity of 1st mixture (whose ratio is 3:4) 
+is required to make the 54L of the 3rd kind of 
+mixture is  ? 
+,d O;fDr us nks çdkj ds vYdksgy [kjhnkA igys çdkj ds feJ.k esa 
+vYdksgy vkSj ikuh dk vuqikr 3%4 gSA vkSj nwljs feJ.k esa ;g vuqikr 5%6 
+gSA ;fn og nksuks feJ.kksa dks feykdj ,d 54 yh dk rhljk feJ.k cukrk 
+gS ftlesa vYdksgy vkSj ikuh dk feJ.k 4%5 gSA Kkr dhft;s u, feJ.k dks 
+cukus esa igys çdkj ds feJ.k dh fdruh ek=k feyk;h tkuh pkfg,\ 
+(a) 16  
+(b) 21  
+(c) 18  
+(d) 24 
+(SSC CPO 2023) 
+31. A mixture of milk and water measures 60 
+litres. It contains 10% water. How much water 
+should be added to it, so that the water may 
+be 25%?  
+nw/k vkSj ikuh ds feJ.k dk ifjek.k 60 yhVj gSA bleas 10% ikuh gSA 
+blesa vkSj fdruk ikuh feyk;k tkuk pkfg, rkfd ikuh 25% gks tk,A 
+(a) 
+18 litres 
+(b) 
+14 litres 
+(c) 
+16 litres 
+(d) 
+12 litres 
+ 
+ 
+ 
+ 
+  
+(SSC CGL 2022) 
+32. 700 grams of cane sugar solution has 60% of 
+sugar in it. How much sugar should be added to 
+make it 75% in the solution? 
+phuh ds 700 xzke foy;u esa phuh dh ek=k 60% gSA foy;u esa phuh dh 
+ek=k dks 75% djus ds fy, bleas fdruh vkSj phuh feykuh gksxh\ 
+(a) 
+320 gm 
+(b) 
+480 gm 
+(c) 
+380 gm 
+(d) 
+420 gm 
+33. A mixture of 750 kg of alloy of copper and tin 
+contains 25% tin. How much tin must be 
+added so that it becomes 70% of the mixture? 
+ताींबे और हटन के 750 ककलोग्राम लमश्रधातु के लमश्रण में 
+25% हटन है। ककतना हटन लमलाया जाना चाहहए ताकक यह 
+लमश्रण का 70% हो जाए? 
+SSC CPO 2024 
+ 
+A) 895 kg 
+B) 1125 kg 
+C) 956 kg 
+D) 1097 kg 
+ 
+ 
+ 
+                                                          BY Gagan Pratap 
+34. An alloy contains 40% of silver, 30% of copper 
+and 30% of nickel. How much silver (in kg) 
+should be added to 25 kg of the alloy so that 
+the new alloy contains 50% of silver? 
+,d feJ /kkrq esa 40% pkanh] 30% rkack vkSj 30% fufdy gSA 25 kg 
+feJ /kkrq esa fdruh pkanh ¼fdxzk- esa½ fefJr dh tkuh pkfg, rkfd u, feJ 
+/kkrq esa 50% pkanh gks tk,\ 
+(a) 
+5 
+(b) 
+10 
+(c) 
+12 
+(d) 
+20 
+35. The rice sold by a grocer contained 20% of low-
+quality rice. What quantity of good-quality rice 
+should be added to 175 kg of mixed rice so that 
+percentage of low-quality rice remains 10%? 
+ 
+एक पींसार  द्वारा बेचे जाने वाले चावल में 20% ननम्न-गुणविा 
+वाले चावल हैं। 175 kg लमश्रश्रत चावल में ककतनी मात्रा में 
+अच्छी गुणविा वाले चावल लमलाए जाने चाहहए ताकक ननम्न 
+गुणविा वाले चावल का प्रनतशत 10% बना रहे? 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A] 
+100 kg 
+ 
+ 
+[B] 
+150 kg 
+ 
+ 
+[C] 
+125 kg 
+ 
+ 
+[D] 
+175 kg 
+ 
+36. A bottle full of whisky contains 50% alcohol. A 
+part of this whisky is replaced by another 
+containing 18% alcohol and the percentage of 
+alcohol was found to be 26%. The quantity of 
+whisky replaced is: 
+शराब से भर  बोतल में 50% अल्कोहल  है। इस शराब का 
+एक भाग 18% अल्कोहल युतत दूसर  शराब से बदला गया  
+और अल्कोहल का प्रनतशत 26% पाया गया। शराब का ककतना 
+हहस्सा प्रनतस्थात्तपत ककया गया 
+(a) 
+𝟑
+𝟒 
+ 
+ 
+ 
+ 
+(b) 
+𝟏
+𝟑 
+(c) 
+𝟓
+𝟖 
+ 
+ 
+ 
+ 
+(d) 
+𝟏
+𝟐 
+37. In a zoo, there are rabbits and pigeons. If head 
+are counted, there are 340 heads and if legs are 
+counted there are 1060 legs. How many 
+pigeons are there? 
+एक श्रचडड़याघर में कुछ िरगोश तथा कबूतर है। उनके लसरो 
+को श्रगनने पर लसरो की कुल सींख्या 340 है तथा पैरो को श्रगनने 
+पर पैरो की सींख्या 1060 है। कबूतरों की सींख्या ज्ञात कीर्जये? 
+a) 120       b) 150       c) 180       d) 170 
+38. In a MCD parking there are some two wheelers 
+and rest are 4 wheelers. If wheels are counted, 
+there are total 520 wheels but the in-charge of 
+the parking told me that there are only 175 
+vehicles. If no vehicle has a stepney, then the 
+number of two wheelers is? 
+एमसीर्ी पाककिंग में कुछ दोपहहया वाहन हैं और बाकी 4 
+पहहया वाहन हैं। यहद पहहयों की श्रगनती की जाए तो कुल 
+520 पहहये हैं लेककन पाककिंग प्रभार  ने मुझे बताया कक 
+केवल 175 वाहन हैं। यहद ककसी वाहन में स्टेपनी नह ीं है 
+तो दुपहहया वाहनों की सींख्या ककतनी है? 
+A) 75 
+B) 100 
+C) 90 
+D) 85 
+39. There are total 120 students in three sections 
+A, B and C of Class 10. The average marks of 
+the three sections is 85. The average marks of 
+section B and C is 88 and the average marks of 
+section A is 78. Find the number of students in 
+section A. 
+ 
+कक्षा 10 के तीन अनुभागों A, B और C में कुल 120 त्तवद्याथी 
+हैं। तीनों अनुभागों के औसत अींक 85 हैं। अनुभाग B और C 
+के औसत अींक 88 हैं और अनुभाग A के औसत अींक 78 हैं। 
+अनुभाग A में त्तवद्याश्रथियों की सींख्या ज्ञात करें। 
+ 
+[RRB JE 2024] 
+ 
+A) 
+36 
+ 
+B) 
+28 
+ 
+C) 
+33 
+ 
+D) 
+24 
+40. Average marks of all 272 students in a class is 
+56.7 . If the average marks  of fail candidates 
+is 52.8 and the average of pass candidates is 63 
+, then find the number of pass candidate in the 
+class?  
+एक कक्षा में सभी 272 छात्रों का औसत अंक 56.7 है। यदि फेल 
+अभ्यदथिय ं का औसत अंक 52.8 और पास अभ्यदथिय ं का 
+औसत अंक 63 है, त  कक्षा में उत्तीर्ि अभ्यथी की संख्या ज्ञात 
+करें ? 
+a)105              b)104             c)108          c)130 
+41. The average weight of the boys in a class is 69.3 
+kg and that of the girls in the same class is 
+59.4. If the average weight of all the boys and 
+girls in the class is 63.8 kg, then the 
+percentage of the number of boys in the class 
+is: 
+,d d{kk esa yM+dksa dk vkSlr otu 69-3 fdxzk gS vkSj mlh d{kk esa yM+fd;ksa 
+dk vkSlr otu 59-4 fdxzk gSA ;fn d{kk esa lHkh yM+dksa vkSj yM+fd;ksa dk 
+vkSlr out 63-8 fdxzk gS] rks d{kk esa yM+dksa dh la[;k dk izfrशr fdruk 
+gS\ 
+(a) 𝟒𝟒
+𝟒
+𝟗               
+(b) 𝟓𝟓
+𝟓
+𝟗             
+ 
+(c) 45  
+ 
+(d) 40 
+ 
+42. The average pass percentage of girls in class X 
+examination in a school is 85% and that of boys 
+is 83%. The average pass percentage of all and 
+ 
+ 
+                                                          BY Gagan Pratap 
+girls in class X of that school is 83.7%. Find the 
+percentage of the number of girls in class X of 
+that school. 
+,d Ldwy esa nloha d{kk dh ijh{kk esa yM+fd;k¡ dj vkSlr mRrh.kZ 
+izfr'kr 85 % vkSj yM+dksa dk 83%  gSA ml Ldwy ds nloha d{kk 
+ds lHkh yM+dksa vkSj yM+fd;ksa dk vkSlr mRrh.kZ izfr'kr 83-7%  gSA 
+ml Ldwy dh nloha d{kk esa yM+fd;ksa dh la[;k dk izfr'kr Kkr 
+fdft,A 
+(a)35%      (b)30%   (c)45%   (d)40% 
+ 
+43. A class consists of 20 boys and 30 girls. In the 
+mid-semester examination, the average score 
+of the girls was 5 higher than that of the boys. 
+In the final exam, however, the average score 
+of the girls dropped by 3 while the average 
+score of the entire class increased by 2. The 
+increase in the average score of the boys is  
+एक तलास में 20 लड़के और 30 लड़ककयाीं  हैं। मध्य सेमेस्टर 
+की पर क्षा में लड़ककयों का औसत स्कोर लड़कों की तुलना में 
+5 अश्रधक था। हालाींकक, अींनतम पर क्षा में लड़ककयों के औसत 
+अींक में 3 की श्रगरावट आई, जबकक पूर  कक्षा के औसत अींक 
+में 2 की वृद्श्रध हुई। लड़कों के औसत अींक में वृद्श्रध हुई है  
+(a) 9.5 (b) 10  
+ 
+(c) 7.5 (d) 8 
+44. Several students have taken an exam. There 
+was an error in the answer key which affected 
+the marks of 48 students, and their average 
+marks reduced from 78 to 66. The average of 
+remaining students increased by 3.5 marks. 
+This resulted the reduction of the average of all 
+students by 4.5 marks. The number of students 
+that attended the exam is: 
+कई छात्ोों ने एक परीक्षा िी। उत् तर पदत्का िें एक त्ुदि थी, दजसने 
+48 छात्ोों के अोंकोों को प्रभादवत दकया और उनके औसत अोंक 78 
+से घिकर 66 हो गए। शेष छात्ोों के औसत िें 3.5 अोंक की वृद्धि 
+हुई। इससे सभी छात्ोों के औसत िें 4.5 अोंक की किी हुई। परीक्षा 
+िें शादिल होने वाले छात्ोों की सोंख् या क् या है?  
+(a) 96 
+ 
+ 
+(b) 84 
+ 
+ 
+ 
+(c) 93 
+ 
+ 
+(d) 100 
+ 
+45. A family of seven minors and some adults has 
+an average wheat consumption of 11.10 kg. 
+The average consumption for minors is 5.5 kg 
+per person, and for adults, it is 16 kg per 
+person. Find the number of adults in the 
+family.  
+सात नाबाललगों और कुछ वयस्कों के एक पररवार में गेहूीं की 
+औसत िपत 11.10 ककलोग्राम है। नाबाललगों के ललए औसत 
+िपत 5.5 ककलोग्राम प्रनत व्यर्तत है, और वयस्कों के ललए, 
+यह 16 ककलोग्राम प्रनत व्यर्तत है। पररवार में वयस्कों की 
+सींख्या ज्ञात कीर्जए। 
+(SSC MTS 2024) 
+ 
+A) 5  
+B) 6  
+C) 10  
+D) 8 
+46. A rabbit on a controlled diet is fed daily 
+300gms of a mixture of two foods, food X and 
+food Y. Food X contains 10% protein and food 
+Y contains 15% protein. If the rabbit’s diet 
+provides exactly 38gm of protein daily, how 
+many grams of food X are in the mixture. 
+एक खरगोश जो कक सन्तुर्लत आह र लेत  है प्रनतददन दो 
+ख द्य पद र्ि X और Y के 300 ग्र म र्मश्रण क  सेवन करत  
+है। पद र्ि X में 10% प्रोटीन और पद र्ि Y में 15% प्रोटीन 
+है।यदद ख़रगोश प्रनत ददन 38 ग्र म प्रोटीन ग्रहण करत  है तो 
+ज्ञ त कीजजए कक र्मश्रण में पद र्ि X की ककतनी।म त्र  है। 
+a)100   
+b)140  
+c)150   
+d)160 
+47. There are 180 multiple choice questions in a test. 
+A candidate gets 4 marks for every correct answer, 
+and for every un-attempted or wrongly answered 
+questions one mark is deducted from the total 
+score 
+of 
+correct 
+answers. 
+If 
+a 
+candidate 
+scored 450 marks in the test how many questions 
+did he answer correctly? 
+एक परीक्षा में 180 बहुग्रिकल्पीय प्रश्न होते हैं। एक उम्मीदिार को 
+प्रत्येक सही उत्तर के ग्रलए 4 अंक ग्रमलते हैं, और प्रत्येक प्रयास ि 
+ग्रकए गए या गलत उत्तर िाले प्रश्नों के ग्रलए सही उत्तरों के कुल अंकों 
+में से एक अंक काटा जाता है। यग्रद एक उम्मीदिार िे परीक्षा में 450 
+अंक प्राप्त ग्रकए हैं तो उसिे ग्रकतिे प्रश्नों के सही उत्तर ग्रदए? 
+A)120       b)124          c)126         d)132 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          BY Gagan Pratap 
+ 
+48. A labourer was appointed by a contractor on 
+the condition he would be paid Rs.75 for each 
+day of his work but would be fined at the rate 
+of Rs. 15 per day for his absent. After 20 days 
+the contractor paid the laborer Rs.1140. the 
+number of days the laborer absented from work 
+was.  
+एक िजदूर को इस शति पर एक ठेकेदार द्िारा र्नयुक्त 
+ककया गया था कक उसे उसके काि के प्रत्येक हदन के ललए 
+75 रुपये का भुगतान ककया जाएगा, लेककन उसके 
+अनुपस्स्थत रहने पर प्रर्त हदन 15 रुपये की दर से जुिािना 
+लगाया जाएगा | 20 हदनों के बाद ठेकेदार ने िजदूर को 
+1140 रुपये का भुगतान ककया | ककतने हदनों िे िजदूर 
+काि से अनुपस्स्थत था ? 
+a) 3 days 
+b) 5 days 
+c) 4 days 
+d) 2 days 
+49. Suhani pays tax at the rate of 30% on her 
+entire income of Rs 90000 and Ritika pays tax 
+at the rate of 40% on her entire income of Rs 
+y. if the overall tax rate on their combined 
+income comes to 37%, then what is the value 
+of y? 
+सुहानी अपनी 90000 रुपये की पूर  आय पर 30% की दर 
+से कर का भुगतान करती है और ररनतका अपनी y रुपये की 
+पूर  आय पर 40% की दर से कर का भुगतान करती है। यहद 
+उनकी सींयुतत आय पर कुल कर की दर 37% आती है, तो 
+y का मूल्य तया है? (SSC CGL 2023) 
+A) Rs 204000 
+B) Rs 216000 
+C) Rs 213000 
+D) Rs 210000 
+50. Anurag and Amardeep have, between them 
+72000Rs. Anurag spends 16% of his money 
+while Amardeep spends 28% of his money. 
+They are left with a sum that constitutes 79% 
+of the whole sum, find what amount is left with 
+Anurag now? 
+अनुराग और अमरद प के बीच, 72000Rs. है। अनुराग अपनी 
+धनरालश का 16% िचि करता है, जबकक अमरद प अपनी 
+धनरालश का 28% िचि करता है। अब उनके पास कुल धनरालश 
+का 79% हहस्सा बचा  ,  अनुराग के पास कुल ककतनी रालश 
+बची है? 
+a)35280 Rs.             b)33600 Rs.               
+ c)25200Rs.              d)40320Rs. 
+ 
+ 
+ 
+ 
+ 
+ 

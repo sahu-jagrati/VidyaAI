@@ -1,0 +1,133 @@
+2026-06-29 14:34:37,048  INFO      Found 176 JSON file(s) in C:\Users\BIT\Desktop\vidyaAi\backend\processed
+2026-06-29 14:34:37,049  INFO      Loading existing question fingerprints from DB...
+2026-06-29 14:34:41,044  INFO        1454 questions already in DB
+2026-06-29 14:34:46,316  INFO        quant\algebra\algebra_sheet_1.json                      | inserted=51    skipped=0     invalid=0     (5.27s)
+2026-06-29 14:34:47,325  INFO        quant\algebra\algebra_sheet_2.json                      | inserted=4     skipped=0     invalid=0     (1.01s)
+2026-06-29 14:34:51,150  INFO        quant\algebra\algebra_sheet_3.json                      | inserted=31    skipped=0     invalid=0     (3.82s)
+2026-06-29 14:34:52,550  INFO        quant\algebra\algebra_sheet_4.json                      | inserted=12    skipped=0     invalid=0     (1.38s)
+2026-06-29 14:34:53,994  INFO        quant\algebra\algebra_sheet_5.json                      | inserted=8     skipped=0     invalid=0     (1.44s)
+2026-06-29 14:34:56,825  INFO        quant\algebra\algebra_sheet_6.json                      | inserted=29    skipped=0     invalid=0     (2.83s)
+2026-06-29 14:34:56,826  INFO        quant\ap_gp_hp\ap_gp_hp.json                            | inserted=0     skipped=0     invalid=0     (0.00s)
+2026-06-29 14:34:58,735  INFO        quant\average\average_sheet_1.json                      | inserted=19    skipped=4     invalid=0     (1.91s)
+2026-06-29 14:35:00,304  INFO        quant\average\average_sheet_2.json                      | inserted=21    skipped=1     invalid=0     (1.57s)
+2026-06-29 14:35:03,836  INFO        quant\boat_and_stream\boat_and_stream_sheet_1.json      | inserted=29    skipped=2     invalid=0     (3.53s)
+2026-06-29 14:35:06,778  INFO        quant\compound_interest\compound_interest_sheet_1.json  | inserted=39    skipped=2     invalid=0     (2.94s)
+2026-06-29 14:35:17,537  INFO        quant\compound_interest\compound_interest_sheet_2.json  | inserted=112   skipped=1     invalid=0     (10.76s)
+2026-06-29 14:35:19,270  INFO        quant\compound_interest\compound_interest_sheet_3.json  | inserted=24    skipped=2     invalid=0     (1.73s)
+2026-06-29 14:35:20,684  INFO        quant\compound_interest\compund_intrest_sheet_3_new_1.j | inserted=17    skipped=2     invalid=0     (1.41s)
+2026-06-29 14:35:23,527  INFO        quant\coordinate_geometry\co_ordinate_geometry.json     | inserted=63    skipped=0     invalid=0     (2.84s)
+2026-06-29 14:35:24,894  INFO        quant\data_interpretation\di_sheet_1_pie_and_bar_chart. | inserted=22    skipped=0     invalid=0     (1.37s)
+2026-06-29 14:35:26,373  INFO        quant\data_interpretation\di_sheet_2_tabular_di_line_gr | inserted=20    skipped=0     invalid=0     (1.48s)
+2026-06-29 14:35:29,340  ERROR     Fatal error: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(300)
+
+[SQL: INSERT INTO questions (exam, subject, topic, question_number, question_en, question_hi, option_a, option_b, option_c, option_d, source_pdf, created_at) VALUES (%(exam)s, %(subject)s, %(topic)s, %(question_number)s, %(question_en)s, %(question_hi)s, %(option_a)s, %(option_b)s, %(option_c)s, %(option_d)s, %(source_pdf)s, %(created_at)s) RETURNING questions.id]
+[parameters: {'exam': 'SSC CGL', 'subject': 'Quant', 'topic': 'Discount', 'question_number': 40, 'question_en': 'A shopkeeper sold an item for Rs1510 after giving discount of 24 𝟐% and there by incurred a loss of 10%. Had he sold the item without discount, his n ... (191 characters truncated) ... econd and 12% on the third. If the price paid by the Ram for three fans is ₹6,800, then what will be the marked price of each fan? (SSC CGL 2024 Pre)', 'question_hi': 'एि दुिािदार 24 𝟐% िी छूट िे बाद एि िस्तु 1510 रु में बेिता है श्जसिी िजह से उसे 10% िी हाति होती है।यदद िह िस्तु िो बबिा किसी छूट िे बेिे तो उसे किति ... (122 characters truncated) ... दूसरे पर 10% और तीसरे पर 12% िी छूट ममलती है। यदद राम द्िारा तीि पंखों िे मलए भुगताि िी गई िीमत ₹6,800 है, तो प्रत्येि पंखे िा अंकित मूल्य क्या होगा?', 'option_a': '₹2,400', 'option_b': '₹2,500', 'option_c': '₹2,450', 'option_d': 'The benefit of the scheme may be split on the amount of payment, however only on discount shall be given on one item. There is no discount on any oth ... (143 characters truncated) ... e purchase of a coat marked at Rs. 7,500. What was the total amount (in Rs.) billed? [SSC Selection Post (Phase-XII)] [A]8778 [B]8668 [C]8814 [D]8568', 'source_pdf': 'Discount Sheet-1.pdf', 'created_at': datetime.datetime(2026, 6, 29, 9, 5, 29, 3503, tzinfo=datetime.timezone.utc)}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+Traceback (most recent call last):
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.StringDataRightTruncation: value too long for type character varying(300)
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\scripts\seed_from_json.py", line 163, in run
+    ins, skp, inv = seed_file(jf, existing, db, log)
+                    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\scripts\seed_from_json.py", line 125, in seed_file
+    db.bulk_save_objects(objs)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4564, in bulk_save_objects
+    self._bulk_save_mappings(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<5 lines>...
+        render_nulls=False,
+        ^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4741, in _bulk_save_mappings
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 121, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4730, in _bulk_save_mappings
+    bulk_persistence._bulk_insert(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<4 lines>...
+        render_nulls=render_nulls,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\bulk_persistence.py", line 222, in _bulk_insert
+    result = persistence._emit_insert_statements(
+        base_mapper,
+    ...<6 lines>...
+        execution_options=execution_options,
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+        statement, multiparams, execution_options=execution_options
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2363, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.DataError: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(300)
+
+[SQL: INSERT INTO questions (exam, subject, topic, question_number, question_en, question_hi, option_a, option_b, option_c, option_d, source_pdf, created_at) VALUES (%(exam)s, %(subject)s, %(topic)s, %(question_number)s, %(question_en)s, %(question_hi)s, %(option_a)s, %(option_b)s, %(option_c)s, %(option_d)s, %(source_pdf)s, %(created_at)s) RETURNING questions.id]
+[parameters: {'exam': 'SSC CGL', 'subject': 'Quant', 'topic': 'Discount', 'question_number': 40, 'question_en': 'A shopkeeper sold an item for Rs1510 after giving discount of 24 𝟐% and there by incurred a loss of 10%. Had he sold the item without discount, his n ... (191 characters truncated) ... econd and 12% on the third. If the price paid by the Ram for three fans is ₹6,800, then what will be the marked price of each fan? (SSC CGL 2024 Pre)', 'question_hi': 'एि दुिािदार 24 𝟐% िी छूट िे बाद एि िस्तु 1510 रु में बेिता है श्जसिी िजह से उसे 10% िी हाति होती है।यदद िह िस्तु िो बबिा किसी छूट िे बेिे तो उसे किति ... (122 characters truncated) ... दूसरे पर 10% और तीसरे पर 12% िी छूट ममलती है। यदद राम द्िारा तीि पंखों िे मलए भुगताि िी गई िीमत ₹6,800 है, तो प्रत्येि पंखे िा अंकित मूल्य क्या होगा?', 'option_a': '₹2,400', 'option_b': '₹2,500', 'option_c': '₹2,450', 'option_d': 'The benefit of the scheme may be split on the amount of payment, however only on discount shall be given on one item. There is no discount on any oth ... (143 characters truncated) ... e purchase of a coat marked at Rs. 7,500. What was the total amount (in Rs.) billed? [SSC Selection Post (Phase-XII)] [A]8778 [B]8668 [C]8814 [D]8568', 'source_pdf': 'Discount Sheet-1.pdf', 'created_at': datetime.datetime(2026, 6, 29, 9, 5, 29, 3503, tzinfo=datetime.timezone.utc)}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)

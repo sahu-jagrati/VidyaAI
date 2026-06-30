@@ -1,0 +1,671 @@
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+1. A trader sells 30 kg of sugar at Rs. 1000. A customer asks 24% discount and tarder agreed to it but 
+instead of 1 kg he gives 5% less sugar. What is the effective discount that the customer gets?  
+एक व्यापारी 30 ककग्रा चीनी 1000 रु. में बेचता है। एक ग्राहक 24% का बट्टा चाहता है और व्यापारी सहमत हो जाता है लेककन 1 ककग्रा की 
+जगह  वह 5% कम चीनी देता है ग्राहक को प्रभावी बट्टा क्या ममलता है ? 
+a)25%                      b)20%                      
+c)15%                      d)16.67% 
+2. A shopkeeper sells a notebook that has a marked price of ₹80 at a discount of 8% and gives a pen 
+costing ₹8.60 free with each notebook. Even then he makes a profit of 17%. Find the cost price of 
+each note book correct to two places of decimals.  
+एक दुकानदार एक नोटबुक जजसका अंककत मूल्य ₹80 है, 8% की छूट पर बेचता है और प्रत्येक नोटबुक के साथ ₹8.60 मूल्य 
+का एक पेन मुफ़्त देता है। किर भी उसे 17% का लाभ होता है। प्रत्येक नोट बुक का लागत मूल्य दशमलव के दो स्थानों तक 
+सही ज्ञात कीजजए। 
+(SSC MTS 2024) 
+A) ₹49.75  
+B) ₹45.35 
+C) ₹55.56  
+D) ₹51.32 
+3. A store is running a 'Buy 5 Get 2 Free' promotion scheme. What is the net discount percentage?          
+,d LVksj '5 [kjhnsa 2 eq¶r ik,¡' çeks'ku Ldhe pyk jgk gSA 'kq) NwV izfr'kr D;k gS\          (SSC GD 2023) 
+(a) 
+28.56% 
+(b) 
+22.5% 
+(c) 
+40% 
+(d) 
+33.33% 
+4. Murlidhar, the owner of a grocery store, offers a discount scheme 'buy 5 water bottles get 1 for free' 
+to his customers. What is the effective percentage discount offered by Murlidhar? (correct up to 
+two decimal places) 
+एक ककराने की दुकान का माकिक, मुरिीधर अपने ग्राहकों को एक छूट स्कीम '5 पानी की बोतिें खरीदें और 1 बोति मुफ्त पाएँ' प्रदान करता है। मुरिीधर द्वारा दी गई प्रभावी प्रकतशत 
+छूट ककतनी है? (दो दशमिव स्थानों तक मान दीकिए) (SSC CGL MAINS 2024) 
+A) 13.67% 
+B) 20.00% 
+C) 13.33% 
+D) 16.67% 
+5. During festivals, a banner on a shop displays, 'Pay for 8 and get 11'. The discount percentage 
+offered is: 
+R;ksgkj ds nkSjku] fdlh nqdku ij yxs cSuj ij fy[kk Fkk] ^8 ds fy, Hkqxrku djsa vkSj 11 ik,aA* NwV çfr'kr Kkr djsaA 
+(a) 𝟑𝟑% 
+(b) 37.5% 
+(c) 27.27% 
+(d) 𝟑𝟕. 𝟓% 
+ 
+ 
+ 
+ 
+MTS 2020 
+6. How many articles should be given free on 5 articles to provide 37.5% discount to customers 
+? 
+ग्राहकों को 37.5% छूट प्रदान करने के लिए 5 वस्तुओं पर लकतनी वस्तुएँ लनिःशुल्क दी जानी चालहए? 
+a)2        b)3         c)4          d)1 
+7. Successive discounts of 18% and 22% are equal to a single discount of ______.  
+18% vkSj 22% dh Øfed NwV ------------- dh ,dy NwV ds cjkcj gSA 
+(a) 
+36.04% 
+(b) 
+35.04% 
+(c) 
+37.04% 
+(d) 
+34.04% 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+8. A man gets a discount 35% and then 12% on his food bill. How much equivalent single discount does 
+he get? 
+एक व्यक्ति अपने भोजन के बिल पर 35% और फिर 12% की छूट प्राप्ि करिा है| उसे फकिने के समिुल्य एकल छूट प्राप्ि हुई? 
+(a) 42.8% 
+ 
+(b) 42.6% 
+ 
+ 
+(c) 41.9% 
+ 
+(d) 44.7% 
+9. Three successive discounts of 25% each on the marked price of an item are together equivalent to a 
+single discount (correct up to 2 decimal places) of : 
+किसी वस्तु िे अंकित मूल्य पर 25% प्रत्येि िी तीन क्रकमि छूटें, किस एिल छूट (2 दशमलव स्थान ं ति सही) िे बराबर ह ंगी? 
+(a) 62.35% 
+(b) 60.25% 
+(c) 56.45% 
+(d) 57.81% 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+10. The marked price of every item being sold by a wholesaler was `300. The wholesaler was offering a 
+stock-clearance sale under which, for every three items paid for, one item was being given free. In 
+addition to this, a further 10% discount on the amount payable on the 'Buy 3, Get 1 free' scheme 
+price was being offered to anyone making purchases worth more than `10,000. Ramesh made 
+purchases for which this amount payable was `18,000. What was the effective percentage discount 
+that was offered to Ramesh during this transaction? 
+,d Fkksd O;kikjh }kjk csph tk jgh çR;sd oLrq dk vafdr ewY; `300 FkkA Fkksd O;kikjh ,d LVkWd&Dyh;jsal lsy dh is'kd'k dj jgk Fkk] ftleas çR;sd rhu 
+oLrq,¡ [kjhnus ij] ,d oLrq eq¶r nh tk jgh FkhA blds vykok] `10,000 #i;s ls vf/kd dh [kjhnnkjh djus okys fdlh Hkh O;fDr dks ^3 [kjhns] 1 eq¶r ik,a* 
+;kstuk dh ns; jkf'k ij 10% dh NwV nh tk jgh FkhA jes'k us [kjhnnkjh dh ftlds fy, ;g ns; jkf'k `18,000 FkhA bl ysu&nsu ds nkSjku jes'k dks fdruh 
+çHkkoh NwV nh xbZ\ 
+(a) 
+32% 
+(b) 
+31.5% 
+(c) 
+32.5% 
+(d) 
+32.75% 
+11. 
+What will be the equivalent single discount for successive discounts of 15%, 20% 
+and 24%? 
+15%, 20% vkSj 24% dh Øfed NwVksa ds fy, lerqY; ,dy NwV fdruh gksxh\ 
+15%, 20% और 24% की तीन क्रममक छूटें k% की एकल छूट के बराबर हैं। K का मान ज्ञात कीजजए। 
+(DP CONSTABLE 2023) 
+(a) 
+46.56% 
+(b) 
+48.32% 
+(c) 
+46.52% 
+(d) 
+44.25% 
+12. Three successive discounts of 4%, 5% and 14% are equal to a single discount of _____ (round off to 
+two decimal places). 
+4%, 5% और 14% िी तीन क्रकमि छूट  _____ िी एिल छूट िे बराबर (दशमलव िे द   स्थान ं ति सही) हैं।   
+Group D  29/08/2022 (Afternoon) 
+(a) 22.57% 
+(b) 20.57% 
+(c) 21.57%  
+(d) 23.57 
+ 
+13. Find a single discount equivalent to the successive discount of 12%, 20%, 24% and 32%. (Correct to 
+two places of decimals? 
+ 
+12%, 20%, 24% और 32% की क्रममक छूटों के बराबर एक एकल छूट ज्ञात कीजजए। (दशमलव के दो स्थानों तक शुद्ध) 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A]73.71%  
+[B] 43.41% 
+ 
+[C]53.51%  
+[D] 63.62% 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ 
+ 
+14. A single discount equivalent to three successive discounts of 22
+𝟐
+𝟗%, 14
+𝟐
+𝟕% and 6.25% is ? 
+22
+𝟐
+𝟗%, और 14
+𝟐
+𝟕% और 6.25% की तीन क्रमागत छूट    ककस एकल छूट के बराबर होंगे?: 
+a)35%    b)33.33%    c)31.25%    d)37.5% 
+ 
+15. If successive discount of 5%, 10% and p% are equivalent to a single discount of 31.6%, then the 
+value of p is? 
+यदद 5%, 10% और p% की क्रममक छूट 31.6% की एकल छूट के बराबर है, तो p का मान क्या है? 
+ (SSC CGL 2023) 
+A) 15 
+B) 25 
+C) 20 
+D) 30 
+16. Three equal successive discounts % allows on an article affect as single discount of 78.4%. Find 
+each equal discount %? 
+तीन समान क्रमागत छूट एकल छूट 78.4% के बराबर है।प्रत्येक छूट क्या होगी? 
+a)38.33%   
+ b)37.5%   
+ c)40%    
+ d)44.44% 
+17. A shopkeeper keeps the marked price of his goods 50% more than the cost price. If he gives 
+successive discounts of 5%, 10% and 20% on marked price, then what is his profit percentage? 
+एि दुिानदार अपने सामान िा अंकित मूल्य क्रय मूल्य से 50% अकिि रखता है। यकद वह अंकित मूल्य पर 5%, 10% और 20% 
+िी क्रकमि छूट देता है, त  उसिा लाभ प्रकतशत क्या है?  
+1. 2
+𝟑
+𝟓% 
+2. 1
+𝟑
+𝟓% 
+3. 1
+𝟐
+𝟓% 
+4. 2
+𝟏
+𝟓% 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+18. An article costs Rs 4000 to a shopkeeper, who marks its price at Rs 8400. The shopkeeper sells it 
+to a customer at a discount of 25%. The customer gets a further discount of 15% on the discounted 
+price if the customer redeems a coupon issued by the store previously. What is the profit 
+percentage (to the nearest integer) earned by the shopkeeper in this transaction? 
+एक दुकानदार को एक वस्तु की कीमत 4000 रुपये है, जो इसकी कीमत 8400 रुपये अंककत करता है। दुकानदार इसे एक ग्राहक 
+को 25% की छूट पर बेचता है। यदद ग्राहक स्टोर द्वारा पहले जारी ककए गए कूपन को भुनाता है तो ग्राहक को ररयायती मूल्य 
+पर 15% की और छूट ममलती है। इस लेन-देन में दुकानदार द्वारा अजजित लाभ प्रततशत (तनकटतम पूर्ाांक तक) क्या है? 
+A) 34% 
+B) 31% 
+C) 42% 
+D) 36% 
+19. A dealer marks an article 60% above its cost price and sells it by offering two successive discounts 
+of 20% and 15% on its marked price. If he gains Rs. 264 by selling the article, then the cost price 
+of the article is: 
+एक डीलर एक वस्तु को उसके क्रय मूल्य से 60% अधधक अंककत करता है और उसके अंककत मूल्य पर 20% और 15% की दो 
+क्रमागत छूट देकर उसे बेचता है। यदद उसे वस्तु को बेचकर 264 रु. का लाभ होता है, तो वस्तु का लागत मूल्य है: (ICAR 
+Assistant 2022) 
+A) Rs. 3,000 
+ 
+B)  Rs. 2,800 
+ 
+C)  Rs. 3,200 
+ 
+D)  Rs. 2,500 
+(SSC CPO 2023) 
+20. A company offers four types of successive discounts: Which offer is best for the customer? 
+एक कंपनी चार प्रकार के छूट देती है ज्ञात करे कौन सा आिर ग्राहक के मलए अच्छा रहेगा। 
+1.40% and 10% 
+2.45% and 5% 
+3.30% and 20% 
+4.35% and 15% 
+a)1        
+  b)3         
+ c)2        
+   d)4 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+21. A shopkeeper offers 3 schemes of discounts to his customer. Which of the following scheme will 
+fetch the minimum discount percentage? 
+I. 
+Two successive discounts of 24% and 27%.  
+II. 
+Buy 5 get three free 
+III. 
+Buy 6 and get 10. 
+एक दुकानदार अपने ग्राहक को छूट की 3 योजनाएँ प्रदान करता है। तनम्नमलखित में से कौन सी योजना न्यूनतम छूट प्रततशत 
+प्राप्त करेगी? 
+I. 24% और 27% की दो क्रममक छूटें। 
+II. 
+5 िरीदें 3 मुफ्त पाएं 
+III. 6 िरीदें और 10 पाएं।      (SSC CPO 2024) 
+A) I 
+B) III 
+C) Both I and II 
+D) II 
+ 
+22. The marked price of a fancy toy is ₹30,000. It is to be sold allowing two successive discounts of 
+20% and 24%, respectively. On cash payment, an additional 10% discount on the net price is 
+also given. The selling price (in ₹) of the toy is: 
+एक िैंसी खिलौने का अंककत मूल्य ₹30,000 है। इसे क्रमशः 20% और 24% की दो क्रममक छूट देते हुए बेचा जाना है। नकद 
+भुगतान पर शुद्ध मूल्य पर 10% की अततररक्त छूट भी दी जाती है। खिलौने का ववक्रय मूल्य (₹ में) है: 
+(SSC SELECTION POST XII MATRICULATION LEVEL) 
+A) 16416 
+B) 16520 
+C) 18350 
+D) 17280 
+23. The marked price of a platinum ring is ₹52,300 and it is available for sale at two successive discounts 
+of 20% and 4%. What is the selling price (in ₹) of the platinum ring? (Round off to the nearest rupee.) 
+एक प्लैदटनम अंगूठी का अंककत मूल्य ₹52,300 है और यह 20% और 4% की दो क्रममक छूट पर बबक्री के मलए उपलब्ध है। 
+प्लैदटनम अंगूठी का ववक्रय मूल्य (₹ में) ककतना है? (तनकटतम रुपये तक पूर्ाांककत।)  
+(SSC GD 2025) 
+1. 40,200 
+2. 40,033 
+3. 40,166 
+4. 40,233 
+24. The marked price of an article is Rs 2800.  It is sold at three successive discounts of 15%, 8% and 
+5%.  Find the selling price of the item (in Rs)? 
+एक वस्तु का अंककत मूल्य रु 2800 है।  इसे 15%, 8% और 5% की तीन क्रममक छूटो पर बेचा जाता है।  वस्तु का ववक्रयमूल्य 
+(रु) में ज्ञात कीजजये? 
+(SSC CHSL MAINS 2024) 
+A) 1997.26 
+B) 2080.12 
+C) 1890.20 
+D) 1923.56 
+25. A television is marked at ₹50,000. The store offers a 25% discount and an additional 10% discount 
+on the discounted price. After these discounts, the buyer has to pay 5% GST on the final price. What 
+is the final amount paid by the buyer? 
+एक टेलीववज़न का अंककत मूल्य ₹50,000 है। स्टोर 25% की छूट और उस ररयायती मूल्य (discounted price) पर 10% की 
+अततररक्त छूट देता है। इन छूटों के बाद, िरीदार को अंततम मूल्य पर 5% GST देना पड़ता है। िरीदार द्वारा भुगतान की गई 
+अंततम रामश ककतनी है? 
+A.₹36,400 
+B. ₹35,437.50 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+C. ₹35,000 
+D. ₹37,600.50 
+26. A grocery shop is offering 10% discounts on the purchase of Rs 500 and above. A 5% discount is 
+given on the purchase of value above Rs 250 but below Rs 500. A discount of additional 1% is given 
+if payment is made instantly in cash. How much would a customer have to pay by cash if he buys 
+25 packets of biscuits and one packet is priced at Rs 30? 
+एक ककराने की दुकान 500 रुपये और उससे अधधक की िरीद पर 10% की छूट दे रही है। 250 रुपये से अधधक लेककन 500 
+रुपये से कम मूल्य की िरीद पर 5% की छूट दी जाती है। यदद भुगतान तुरंत नकद ककया जाता है तो अततररक्त 1% की छूट 
+दी जाती है। एक ग्राहक को ककतना नकद भुगतान करना होगा यदद वह बबस्कुट के 25 पैकेट िरीदता है और एक पैकेट की कीमत 
+30 रुपये है? 
+A) Rs 670.25 
+B) Rs 668.25 
+C) Rs 675 
+D) Rs 667.05 
+27. An electronic store owner allows two successive discounts of 20% and 25% on each item. The store 
+has a reward points scheme which enables a customer to get free shopping worth Rs 0.10 on every 
+1 reward point credited to the customer’s account on previous purchases from the store. A 
+customer decides to buy a laptop that is marked at Rs 72000. What will be its net selling price if he 
+has 2850 reward points to his credit? 
+एक इलेक्रॉतनक स्टोर का मामलक प्रत्येक वस्तु पर 20% और 25% की दो क्रममक छूट देता है। स्टोर में एक ररवॉडि पॉइंट योजना 
+है जो ग्राहक को स्टोर से वपछली िरीदारी पर ग्राहक के िाते में जमा ककए गए प्रत्येक 1 ररवॉडि पॉइंट पर 0.10 रुपये की मुफ्त 
+िरीदारी करने में सक्षम बनाती है। एक ग्राहक एक लैपटॉप िरीदने का िैसला करता है जजसकी कीमत 72000 रुपये अंककत है। 
+यदद उसके िाते में 2850 ररवॉडि पॉइंट हैं तो इसका शुद्ध ववक्रय मूल्य क्या होगा? (SSC CGL 2023) 
+A) Rs 43200 
+B) Rs 42915 
+C) Rs 42215 
+D) Rs 42942 
+28. The list price of a washing machine is ₹41000. It is sold to a retailer after two successive discounts 
+of 12% and 30%. The retailer wants to earn a profit of 25% on it's cost price after allowing a 50% 
+discount (on its new list price) to the customer. At what price should he list the washing machine? 
+एक वॉमशंग मशीन की सूची कीमत ₹41000 है। इसे 12% और 30% की दो क्रममक छूट के बाद एक िुदरा ववक्रेता को बेचा 
+जाता है। िुदरा ववक्रेता ग्राहक को 50% छूट (नए सूची मूल्य पर) देने के बाद लागत मूल्य पर 25% का लाभ कमाना चाहता है। 
+उसे वॉमशंग मशीन को ककस कीमत पर सूचीबद्ध करना चादहए? 
+(RRB RPF SI 2024) 
+ A) ₹63140  
+B) ₹63076  
+C) ₹62956  
+D) ₹62967 
+29. Marked price of a car is Rs 600000. Rahul buys that car at two successive discounts of 30% and 
+20%. If after using the car, he sells the car for Rs 478000, then what is the profit percentage? 
+एक कार का अंककत मूल्य 600000 रुपये है। राहुल उस कार को 30% और 20% की दो क्रममक छूट पर िरीदता है। यदद कार 
+का उपयोग करने के बाद वह कार को 478000 रुपये में बेचता है, तो लाभ प्रततशत क्या है? 
+A) 39.87% 
+B) 36.85% 
+C) 33.33% 
+D) 42.26% 
+30. The marked price of a headphone is Rs. 800. A shopkeeper purchased it on two successive discounts 
+of 20% and 10%. He spent Rs. 124 on transportation. After that he sold this item on marked price. 
+Find out his gain or loss percentage? 
+,d gsMQksu dka vafdr ewY; 800 #i;s gS] ,d nqdkunkj us bls 20% vkSj 10% dh nks Øfed NwV ij [kjhnkA mlus ifjogu ij 124 #i;s [kpZ fd;s] blds 
+ckn mlus bl oLrq dks vafdr ewY; ij csp fn;kA mldk ykHk ;k gkfu izfr'kr Kkr dhft;s\  
+ 
+ 
+ 
+(CISF HCM 2023) 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+(a) 14
+𝟏
+𝟐% 
+(b) 14
+𝟐
+𝟕% 
+(c) 16
+𝟐
+𝟑% 
+(d) 12
+𝟏
+𝟐% 
+31. A shopkeeper purchased a chair marked at ₹8,500 at two successive discounts of 10% and 8%, 
+respectively. He spent ₹362 on transportation and sold the chair for ₹7,800. His gain percent was: 
+(correct to two decimal places) 
+एि दुिानदार ने ₹8,500 अंकित मूल्य वाली एि िुसी क्रमशः 10% और 8% िी द  क्रकमि छूट पर खरीदी। उसने पररवहन पर 
+₹362 खर्च किए और िुसी ि  ₹7,800 में बेर्ा। उसिा लाभ प्रकतशत कितना ह गा? (द  दशमलव स्थान ं ति सही) 
+1. 6.25% 
+2. 4.82% 
+3. 4.25%  
+4. 5.40% 
+ 
+ 
+( ICAR Technician 2023) 
+ 
+32. Riya could not decide between discount of 30% or two successive discounts of 25% and 5%, both 
+given on shopping of Rs 3,840. What is the difference between both the discounts? 
+fj;k 30% dh NwV ;k 25% vkSj 5% dh nks Øfed NwVksa ds chp fu.kZ; ugha ys ik jgh Fkh] nksuksa dks Rs 3,840 dh [kjhnkjh ij fn;k tk jgk FkkA nksuksa NwVksa 
+esa D;k varj gS\ 
+(a) 
+Rs 44 
+(b) 
+Rs 48 
+(c) 
+Rs 42 
+(d) 
+Rs 46 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+33. The difference (in Rs.) between a discount of 37% on Rs. 2,635 and two successive discounts of 23% 
+and 7% on the same amount is (rounded off to 2 decimal places): 
+Rs. 2,635 की धनरामश पर 37% की छूट और समान धनरामश पर 23% और 7% की दो क्रमागत छूटों के बीच का अंतर (Rs. 
+में) ककतना है? (दशमलव के 2 स्थानों तक सजन्नकदटत) SSC CHSL PRE 2024 
+[A] 
+248.36 
+[B] 226.87 
+ 
+  
+  
+[C] 
+235.65  
+[D]  242.25  
+34. If, on a marked price, the difference between selling prices with a discount of 65% and with two 
+successive discounts of 30% and 40% is ₹105, then the marked price (in ₹) is: 
+यदद, अंककत मूल्य पर, 65% की छूट के साथ और 30% और 40% की दो क्रममक छूट के साथ बबक्री मूल्य के बीच का अंतर 
+₹105 है, तो अंककत मूल्य (₹ में) है:      SSC CGL PRE 2024 
+ A) 1,650 
+ B) 1,050 
+ C) 1,500 
+ D) 1,320 
+(SSC CPO 2023) 
+35. A banner at a garment shop advertises 'Buy 2 and get 5'. The shopkeeper has marked all the shirts 
+at the same amount. Gaurav was his relative and the shopkeeper gave him an additional discount of 
+2% on the total bill. Gaurav purchased 5 shirts and paid ₹1,274. What is the marked price of each 
+shirt? 
+एक कपड़े की दुकान पर लगे बैनर पर ववज्ञापन है '2 िरीदें और 5 पाएं'। दुकानदार ने सभी शटों पर एक ही रामश अंककत की है। 
+गौरव उसका ररश्तेदार था और दुकानदार ने उसे कुल बबल पर 2% की अततररक्त छूट दी। गौरव ने 5 शटि िरीदी और ₹1,274 
+का भुगतान ककया। प्रत्येक शटि का अंककत मूल्य क्या है? 
+(SSC MTS 2024) 
+ A) ₹520  
+ B) ₹260  
+ C) ₹630  
+ D) ₹650 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ 
+36. An article sold for ₹688.16 after two successive discounts of 12% and 8% respectively. What is its 
+marked price? 
+12% और 8%  की दो क्रममक छूट के िाद फकसी वस्िु को ₹688.16 में िेचा जािा है। इसका अंफकि मूल्य तया है? 
+(a) ₹800  
+  (b) ₹900   
+ (c) ₹820 
+     (d) ₹850 
+37. Ali ordered an LED screen from an online portal. The online portal allows two successive discounts 
+of 12.5% and 25% on the marked price. If payment is made by credit card, there is another discount 
+of 10% on the bill. If Ali made a payment of ₹59,062.50 by credit card, then the marked price of the 
+LED screen is: 
+अली ने एक ऑनलाइन पोटिल से एक एलईडी स्क्रीन मंगवाई। ऑनलाइन पोटिल अंककत मूल्य पर 12.5% और 25% की दो क्रमागत 
+छूटें देता है। यदद भुगतान क्रेडडट काडि से ककया जाता है, तो बबल पर 10% की अततररक्त छूट भी ममलती है। अली ने यदद क्रेडडट 
+काडि से ₹59,062.50 का भुगतान ककया, तो एलईडी स्क्रीन का अंककत मूल्य ककतना था? 
+A.₹1,02,500 
+B.₹90,650 
+C.₹1,00,000 
+D. ₹1,20,075 
+38. The marked price of an article is Rs x. A shopkeeper sells it by giving two successive discounts of 
+15% and 10%. If payment is made by a credit card, a further 5% discount is also allowed. A 
+customer buys it using credit card for Rs 697.68. what is the value of x? 
+एक वस्िु का अंफकि मूल्य x रुपये है। एक दुकानदार इसे 15% और 10% की दो क्रमागि छूट देकर िेचिा है। यदद भुगिान क्रेडिट कािड 
+द्वारा फकया जािा है, िो अतिररति 5% छूट की भी अनुमति है। एक ग्राहक इसे क्रेडिट कािड से 697.68 रुपये में खरीदिा है। x का मूल्य 
+तया है? (ICAR Assistant 2022) 
+A) 960 
+B) 980 
+C) 920 
+D) 950 
+39. A discount of 20% is given for the purchase of two books by a bookseller and a discount of 25% is 
+offered if a customer buys more than two books. A 10% discount is being offered to all the 
+customers on purchase of one book. An additional 5% discount will be given to students. Sohan, a 
+student of M.Com in college, bought a book for Rs 513. What was the marked price of the book? 
+एक पुस्तक ववक्रेता द्वारा दो पुस्तकों की िरीद पर 20% की छूट दी जाती है और यदद ग्राहक दो से अधधक पुस्तकें िरीदता है 
+तो 25% की छूट दी जाती है। सभी ग्राहकों को एक पुस्तक की िरीद पर 10 प्रततशत की छूट दी जा रही है। छात्रों को अततररक्त 
+5% की छूट दी जाएगी। कॉलेज में एमकॉम के छात्र सोहन ने 513 रुपये में एक ककताब िरीदी। ककताब का अंककत मूल्य क्या 
+था? 
+A) Rs 650 
+B) Rs 540 
+C) Rs 600 
+D) Rs 605 
+40. After successive discounts of 26% and 22.5%, an item was sold at a profit of 24%. If the cost price 
+of the item was ₹925, what was the marked price (in ₹) of the item?  
+26% और 22.5% की क्रममक छूट के बाद, एक वस्तु 24% के लाभ पर बेची गई। यदद वस्तु का क्रय मूल्य ₹925 था, तो वस्तु 
+का अंककत मूल्य (₹ में) क्या था? 
+(SSC MTS 2024) 
+ A) 2,000 
+ B) 1,975  
+ C) 2,200 
+ D) 2,250 
+41. An article is sold for Rs 642.60 after giving two successive discounts of 20% and 16% on its marked 
+price. If no discount is given, then there will be a profit of 25%. What is the cost price (in Rs) of the 
+article? 
+एक वस्तु को उसके अंककत मूल्य पर 20% और 16% की दो क्रममक छूट देने के बाद 642.60 रुपये में बेचा जाता है। यदद कोई 
+छूट नहीं दी गई तो 25% का लाभ होगा। वस्तु का लागत मूल्य (रुपये में) क्या है? (SSC GD 2022) 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+A) 760 
+B) 765 
+C) 775 
+D) 750 
+42. A shopkeeper sells an item for ₹583.2 after giving two successive discounts of 25% and 40% on its 
+marked price. Had he not given any discount, he would have earned a profit of 62%. What is the 
+cost price (in ₹) of the item? 
+एक दुकानदार एक वस्तु को उसके अंककत मूल्य पर 25% और 40% की दो क्रममक छूट देने के बाद ₹583.2 में बेचता है। यदद 
+उसने कोई छूट नहीं दी होती तो उसे 62% का लाभ होता। वस्तु का लागत मूल्य (₹ में) क्या है? 
+(RRB RPF SI 2024) 
+ A) 838  
+ B) 831  
+ C) 800  
+ D) 824 
+43. Two successive discounts of 24% and 34%, respectively, on the marked price of an article are equal 
+to single discount of Rs 1246. The marked price (in Rs) of the article is? 
+एक वस्तु के अंककत मूल्य पर क्रमशः 24% और 34% की दो क्रममक छूटें 1246 रुपये की एकल छूट के बराबर हैं। वस्तु का 
+अंककत मूल्य (रुपये में) है?  DSSSB ASSISTANT GRADE-III 2024 
+A) Rs 2500 
+B) Rs 2800 
+C) Rs 1800  
+D) Rs 150 
+44. Three successive discounts of 40%, 25% and 20%, respectively, on the marked price of a chair, are 
+equal to a single discount of `960. The marked price (in `) of the chair is: 
+,d dqlhZ ds vafdr ewY; ij Øe'k% 40%, 25% vkSj 20% dh rhu Øfed NwV] `960 dh ,dy NwV ds cjkcj gSA dqlhZ dk vafdr ewY; (` esa) fdruk gS\ 
+(a) 
+1,600 
+(b) 
+1,800 
+(c) 
+1,500 
+(d) 
+2,400 
+45. A shopkeeper earns a profit of 26% on the cost price of an article after giving two successive discounts 
+of 20% and 30% on the marked price to a customer. What would have been the profit percentage, 
+had the shopkeeper given 26% discount only? 
+,d nqdkunkj dks fdlh oLrq dks mlds vafdr ewY; ij 20% vkSj 30% dh nks Øfed NwVsa nsdj xzkgd dks cspus ij oLrq ds Ø; ewY; ij 26% dk ykHk 
+çkIr gksrk gSA ;fn nqdkunkj us 26% dh ,dy NwV nh gksrh] rks çfr'kr ykHk fdruk gksrk\ 
+(a) 
+50.5% 
+(b) 
+56% 
+(c) 
+44% 
+(d) 
+66.5% 
+46. An item is sold at two successive discount of 20% and 20 20%. The selling price of article after 
+second discount us Rs 3616. If it sold only at one discount of 20%, then what will be the selling 
+price of the article? 
+एक वस्तु 20% और  20% की दो क्रममक छूट पर बेची जाती है। दूसरी छूट के बाद वस्तु का ववक्रय मूल्य रु 3616 है। यदद यह 
+केवल 20% की एक छूट पर बेचा जाता है, तो वस्तु का ववक्रय मूल्य क्या होगा? 
+A) Rs 3960 
+B) Rs 4520 
+C) Rs 4080 
+D) Rs 5200 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+47. A shopkeeper makes a profit of 40% on the cost price of an article after giving three successive 
+discounts of 5%, 10% and 15% to a customer. What would have been the profit percentage if the 
+shopkeeper had given only 5% and 10% discounts? 
+एक दुकानदार एक ग्राहक को 5%, 10% और 15% की लगािार िीन छूट देने के िाद एक वस्िु के लागि मूल्य पर 40% का लाभ 
+कमािा है। यदद दुकानदार ने केवल 5% और 10% की छूट दी होिी िो लाभ प्रतिशि तया होिा? 
+A) 74.71% 
+B) 66.71% 
+C) 59.71% 
+D) 64.71% 
+48. A shopkeeper marked his article 60% above its cost price and sold it after two successive discounts 
+of 25% and 37.5%. if he would have given a discount of 32.5% in place of 37.5%, then he would have 
+gained Rs 495 more. Find the cost price of the article? 
+एक दुकानदार ने अपनी वस्तु को उसके क्रय मूल्य से 60% अधधक अंककत ककया और उसे 25% और 37.5% की क्रममक छूट के 
+बाद बेच ददया। यदद वह 37.5% के स्थान पर 32.5% की छूट देता, तो उसे 495 रुपये अधधक का लाभ होता। वस्तु का क्रय 
+मूल्य ज्ञात कीजजये? 
+A) 8250 
+B) 4500 
+C) 6250 
+D) 9600 
+49. After allowing two successive discounts of 10% and x% a loss of 13.6% is obtained what is the value 
+of x if the article was marked 20% above the cost price? 
+x% और 10% क्रममक छूट के िाद फकसी वस्िु को िेचने पर 13.6% की हातन हुई।यदद वस्िु को मूल्य 20% िढ़ा कर अंफकि फकया गया था िो x का 
+मान ज्ञाि करे। 
+a)25 b)18 c)15 d)20 
+ 
+ 
+50. The MP of watch is Rs1840. The shopkeeper gives successive discount of 15% and x% to the 
+customer. If the customer pays Rs1173 for the watch. Find the value of x? 
+एक घड़ी का अंककत मूल्य 1840 रु है।दुकानदार ग्राहक को 15% और x% की दो क्रममक छुट देता है यदद ग्राहक घड़ी के मलए 
+1173 रु का भुगतान करता है तो x का मान ज्ञात करे 
+a)15     b)20     c)25     d)30 
+ 
+51. The MRP of a watch was Rs820. A man bought the same for Rs.570.72 after getting two successive 
+discounts of which the 1st was 20%. The rate of second discount was? 
+एक घड़ी का सूची मूल्य 820 रु है।एक व्यजक्त दो क्रममक छूट के बाद इसे 570.72 रु में िरीदता है।यदद एक छूट 20% है तो 
+दूसरी छूट क्या थी? 
+a)12%    b)13%    c)15%    d)18% 
+52. On an item there is 8% discount on the marked price of ₹32,000. After giving an additional 
+season’s discount, the item is sold for ₹25,000. How much is the season’s discount (in %)? (Correct 
+to two places of decimal) 
+एक वस्तु पर ₹32,000 के अंककत मूल्य पर 8% की छूट है। अततररक्त सीज़न की छूट देने के बाद, आइटम को ₹25,000 में 
+बेचा जाता है। सीज़न की छूट (% में) ककतनी है ? (दशमलव के दो स्थानों तक शुद्ध) 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 14.08% 
+B) 15.08% 
+C) 12.08% 
+D) 13.08% 
+53. The marked price of a water bottle is Rs.950. A man bought the same for Rs.740, after getting two 
+successive discounts. If the first discount is 12%, then what is the second discount? 
+,d ikuh dh cksry dk vafdr ewY; #- 950 gSA ,d O;fDr us nks Øekxr NwV çkIr djus ds ckn mls #- 740 esa [kjhnkA ;fn igyh NwV 12% gS] rks nwljh NwV 
+D;k gS\ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+(a) 12.48% 
+(b) 11.48% 
+(c) 13.45% 
+(d) 14.56% 
+54. The marked price of an article is Rs 800. It is sold for Rs 538.56, after offering three successive 
+discounts of 10%, x% and 12%. If a single discount of 2x% is given on the marked price, then the 
+selling price (in Rs) of the article will be? 
+एक वस्िु का अंफकि मूल्य 800 रुपये है। 10%, x% और 12% की लगािार िीन छूट देने के िाद इसे 538.56 रुपये में िेचा जािा 
+है। यदद अंफकि मूल्य पर 2x% की एकल छूट दी जािी है, िो वस्िु का ववक्रय मूल्य (रु में) होगा? (ICAR Assistant 2022) 
+A) 576 
+B) 544 
+C) 512 
+D) 560 
+55. The marked price of a washing machine is Rs.7,200. If it is sold for Rs.4324.50, after two 
+successive discounts of x% each. The value of x is: 
+,d okWfशax eशhu dk vafdr ewY; Rs.7,200 gSA bls x% çR;sd dh nks Øfed NwVksa ds ckn Rs4324.50 esa cspk tkrk gSA x dk eku Kkr dhft,A 
+(a) 24  
+ 
+       (b) 22.5  
+(c)22.22  
+ 
+       (d) 27.5 
+56. After giving two successive discounts, each of x%, on the marked price of an article, total discount 
+is Rs 453.60. If the marked price of the article is Rs 1260, then the value of x is: 
+fdlh oLrq ds vafdr ewY; ij dzfed nks NwV] izR;sd x%, nsus ds ckn dqy NwV 453-60 #i;s gSA ;fn oLrq dk vafdr ewY; 1260 #i;s gSA rks x dk eku gksxk\ 
+(a) 18 
+  (b) 24        (c) 20 
+(d) 25 
+57. The marked price of an article is Rs 1500. If two successive discounts, each of x%, on the marked 
+price is equal to a single discount of Rs 587.40, then what will be the selling price of the article if a 
+single discount of x% is given on the marked price? 
+,d oLrq dk vafdr ewY; :-1500 gS vkSj x% dh nks Øfed NwV] vafdr ewY; :-587-40 dh vdsyh NwV ds cjkcj gSA ;fn vafdr ewY; ij flQZ x% dh ,d 
+NwV nh xbZ gksrh rks ml oLrq dk ववक्रय ewY; D;k gksrk\ 
+(a) Rs 1170                           (b) Rs 1025    
+(c) Rs 1155                           (d) Rs 1200 
+ 
+58. The marked price of an article is ₹750. It is sold for ₹634.80, after giving two successive discounts 
+each of x% on the marked price. The cost price of the article is 20% less than its marked price. If the 
+article is sold after giving a single discount of 2x% on the same marked price, then what is the gain 
+percentage? 
+,d oLrq dk vafdr ewY; #i;s 750 gSA vafdr ewY; ij izR;sd x% okyh nks Øfed NwVsa nsus ds ckn] bls #i;s 634-80 esa cspk tkrk gSA oLrq dk Ø; ewY;] mlds 
+vafdr ewY; ls 20% de gSA ;fn mlh vafdr ewY; ij 2x% dh ,dy NwV nsus ds ckn oLrq dks cspk tk,] tks ykHk dk izfr'kr fdruk gksxk\ 
+1. 6%  
+2.8%  
+3.5%  
+4. 10% 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+59. A retailer allows a cash discount of 8% on the already discounted price after a trade discount of 
+25% on his goods, and still makes a net profit equal to 17.3% of the cost price. By what percent 
+was the marked price of goods kept above its cost price? 
+एक खुदरा ववक्रेिा अपने माल पर 25% की व्यापार छूट के िाद पहले से छूट वाली कीमि पर 8% की नकद छूट देिा है, और फिर भी 
+लागि मूल्य के 17.3% के िरािर शुद्ध लाभ कमािा है। वस्िु के अंफकि मूल्य को उसके क्रय मूल्य से फकिने प्रतिशि अधधक रखा गया? 
+A) 60% 
+B) 70% 
+C) 50% 
+D) 75% 
+60. A shopkeeper allows a discount of 4% and also gives 1 article free with every 15 articles and still gets 
+a profit of 35%.then find mark up %? 
+एक दुकानदार 4% की छूट के साथ साथ प्रत्येक 15 वस्िुओ की खरीद पर 1 वस्िु मुफ्ि देिा है।यदद उसका लाभ 35% िो है।िो 
+ििाये उसने अंफकि मूल्य को क्रय मूल्य से फकिना अधधक अंफकि फकया था। 
+a)40%              b)50%       c)60%     d)55.55% 

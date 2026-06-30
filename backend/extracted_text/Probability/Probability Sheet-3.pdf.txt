@@ -1,0 +1,621 @@
+ 
+PROBABILITY BASED ON CARDS:- 
+About cards (कार्ड के बारे में):- 
+i) 
+A pack of cards has 52 cards. 
+ताश के पत्तों के एक पैकेट में 52 पत्ते होते हैं। 
+ii) 
+It has 13 card of each suit as SPADES, CLUBS, HEARTS and DIOMONDS. 
+इसमें हुकुम, क्लब, दिल और हीरे के रूप में प्रत्येक सूट के 13 कार्ड हैं। 
+iii) 
+Cards of spades clubs are BLACK cards. 
+स्पेड्स क्लब के कार्ड ब्लैक कार्ड होते हैं। 
+iv) 
+Cards of hearts and diamonds are RED cards. 
+दिल और हीरे के कार्ड लाल कार्ड हैं। 
+v) 
+There are four honours of each suit, these are ACES, KINGS, QUEENS and JACKS, these are 
+called face cards. 
+प्रत्येक सूट के चार सम्मान होते हैं, ये इक्के, राजा, रानी और जैक हैं, इन्हें फेस कार्ड कहा जाता है। 
+ 
+ 
+i) 
+Face Cards J, Q, K (𝟑× 𝟒= 𝟏𝟐). 
+ii) 
+Honour Card A, J, Q, K (𝟒× 𝟒= 𝟏𝟔) 
+𝑷(𝑬) = 𝒏(𝑬)
+𝒏(𝑺) , 𝒏(𝑺) = 𝟓𝟐 
+ 
+A) 𝑷(𝑹𝒆𝒅 𝒄𝒂𝒓𝒅) =
+𝟐𝟔
+𝟓𝟐 
+B) 𝑷(𝑩𝒍𝒂𝒄𝒌 𝒄𝒂𝒓𝒅) =
+𝟐𝟔
+𝟓𝟐 
+ 
+C) 𝑷(𝑲𝒊𝒏𝒈) = 
+𝟒
+𝟓𝟐 
+D) 𝑷(𝑪𝒍𝒖𝒃) =
+𝟏𝟑
+𝟓𝟐 
+E) 𝑷(𝑸 𝒐𝒇 𝒉𝒆𝒂𝒓𝒕) =
+𝟏
+𝟓𝟐 
+F) 𝑷(𝟐) =
+𝟒
+𝟓𝟐 
+G) 𝑷(𝑹𝒆𝒅 𝑲𝒊𝒏𝒈) =
+𝟐
+𝟓𝟐 
+H) 𝑷(𝑯𝒐𝒏𝒐𝒖𝒓 𝑪𝒂𝒓𝒅) =
+𝟏𝟔
+𝟓𝟐 
+I) 
+𝑷(𝒇𝒂𝒄𝒆 𝒄𝒂𝒓𝒅) =
+𝟏𝟐
+𝟓𝟐 
+• 
+There are four honours of each suit, these are ACES, KINGS, QUEENS and JACKS, these are 
+called face cards. 
+• 
+प्रत्येक सूट के चार सम्मान होते हैं, ये इक्के, राजा, रानी और जैक हैं, इन्हें फेस कार्ड कहा जाता है। 
+One card is taken out from a pack of cards. What is the probability of the being- 
+ताश की गड्र्ी से एक पत्ता ननकाला जाता है। ननम्न होने की प्रानयकता क्या है 
+A) Red card- 
+a) ½ 
+b) ¼ 
+c) 2/5 
+d) 1/5 
+B) King 
+a) ½ 
+b) 1/13 
+c) 2/13 
+d) 4/15 
+C) Spade- 
+a) 1/6 
+b) ¼ 
+c) ½ 
+d) 2/5 
+D) Black coloured- 
+a) ½  
+b) 1/3  
+c) 2/7 
+d) 1/13 
+1. One card is drawn at random from a pack of 52 cards. What is the probability that the card 
+drawn is face card? 
+52 ताश के पत्तों के एक पैकेट में से एक पत्ता यादृच्छया ननकाला जाता है। इसकी क्या प्रानयकता है कक ननकाला गया कार्ड फेस कार्ड 
+है? 
+A) 1/12 
+B) 4/13 
+C) 2/4 
+D) 7/5 
+2. What is probability of drawing two clubs from a well shuffled pack of 52 cards? 
+52 ताश के पत्तों के एक अच्छी तरह से फेंटे हुए पैक में से िो क्लब ननकालने की प्रानयकता क्या है? 
+A) 13/51 
+B) 1/17 
+C) 1/26 
+D) 13/17 
+ 
+ 
+3. From a pack of 52 cards, two cards are drawn together at random. What is the probability of 
+both the cards being kings? 
+52 ताश के पत्तों के एक पैकेट में से यादृच्छिक रूप से एक साथ दो पत्ते ननकाले जाते हैं। दोनों पत्तों के राजा होने की प्रानयकता क्या 
+है? 
+A) 1/15 
+B) 25/57 
+C) 35/256 
+D) 1/221 
+4. Two cards are drawn from a pack of 52 cards. The probability that one is spade and one is a 
+heart is? 
+52 ताश के पत्तों के एक पैकेट से िो पत्ते ननकाले जाते हैं। एक के SPADE और एक के HEART होने की प्रानयकता है? 
+A) 3/20 
+B) 29/34 
+C) 47/100 
+D) 13/102 
+5. A card is drawn at random from a pack of 52 cards. What is the probability of drawing ace or a 
+king? 
+52 पत्तों की एक गड्र्ी में से यादृच्छिक रूप से एक पत्ता ननकाला जाता है। इक्का या बादशाह ननकलने की प्रानयकता क्या 
+है? 
+A) 1/52 
+B) 4/52 
+C) 8/52 
+D) None 
+6. A card a drawn at random from a pack of 52 cards, the probability of getting a queen of club or 
+a king of heart is? 
+52 ताश के पत्तों के एक पैकेट में से यादृच्छिक रूप से ननकाला गया एक पत्ता, क्लब की रानी या ददल का राजा ममलने की 
+प्रानयकता क्या है? 
+A) 1/13 
+B) 2/13 
+C) 1/26 
+D) 1/52 
+7. The probability that a card drawn from a pack of 52 cards will be diamond or a king is? 
+प्रानयकता क्या है कक 52 ताश के पत्तों के पैक से ननकाला गया पत्ता हीरा होगा या राजा होगा? 
+A) 2/13 
+B) 4/13 
+C) 1/13 
+D) 1/52 
+8. From a pack of 52 cards one card is drawn at random, the probability that it is either a king or 
+a queen? 
+52 पत्तों की एक गड्र्ी में से एक पत्ता यादृच्छिक रूप से ननकाला जाता है, संभावना है कक वह या तो राजा होगा या रानी? 
+A) 1/13 
+B) 2/13 
+C) 3/13 
+D) 4/13 
+9. From a pack of 52 cards, one card is drawn at random. What is the probability that the card 
+drawn is a ten or a spade? 
+52 ताश के पत्तों के एक पैकेट में से एक पत्ता यादृछिया ननकाला जाता है। इसकी क्या प्रानयकता है कक ननकाला गया पत्ता दस या 
+एक स्पेर् है? 
+A) 4/13 
+ 
+B) ¼ 
+C) 1/13 
+D) 1/26 
+10. Two cards are drawn together from a pack of 52 cards. The probability that either both are red 
+or both are king is? 
+52 ताश के पत्तों के एक पैकेट में से दो पत्ते एक साथ ननकाले जाते हैं। या तो दोनों के लाल होने या दोनों के राजा होने की प्रानयकता 
+है? 
+A) 7/13 
+B) 3/26 
+C) 63/221 
+D) 55/221 
+11. One card is drawn from each of two ordinary packs of 52 cards. The probability that at least 
+one of them is an ace of heart, is? 
+52 पत्तों की दो साधारण गड्डर्यों में से प्रत्येक से एक पत्ता ननकाला जाता है। संभावना है कक उनमें से कम से कम एक 
+ददल का इक्का  है? 
+A) 103/2704 
+B) 1/2704 
+C) 2/52 
+D) 2601/2704 
+12. A card is drawn at random from a pack of cards. What is the probability that the drawn card is 
+neither a heart nor a king? 
+ताश की गड्र्ी से यादृच्छिक रूप से एक कार्ड ननकाला जाता है। इसकी क्या प्रानयकता है कक ननकाला गया कार्ड न तो ददल 
+है और न ही राजा है? 
+A) 4/13 
+B) 9/13 
+C) ¼ 
+D) 13/26 
+ 
+1. QUESTION BASED ON BALLS:- 
+2. Based on combination:- संयोजन के आधार पर:- 
+i) 
+Where number of ways cannot be taken out directly- 
+ii) 
+Ways to select r from n- 𝒏𝑪𝒓=
+𝒏!
+𝒓!(𝒏−𝒓)! 
+Example:- 5 white, 4 Red, 2 green balls in a bag:- 
+A) 𝟏𝑹=
+𝟒
+𝟏𝟏 
+B) 𝟐𝑹=
+𝟒𝑪𝟐
+𝟏𝟏𝑪𝟐 
+C) 𝟑𝑾=
+𝟓𝑪𝟑
+𝟏𝟏𝑪𝟑 
+D) 𝟐𝑾 & 𝟐𝑹=
+𝟓𝑪𝟐×𝟒𝑪𝟐
+𝟏𝟏𝑪𝟒 
+E) 𝟑𝑾& 𝟐𝑹& 𝟐𝑮=
+𝟓𝑪𝟑×𝟒𝑪𝟐×𝟐𝑪𝟐
+𝟏𝟏𝑪𝟕
+ 
+ 
+1. A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability 
+that the ball drawn is white? 
+एक थैले में 6 काली और 8 सफेद गेंदें हैं। एक गेंद यादृछिया ननकाली जाती है। खींची गई गेंद के सफेद होने की प्रानयकता क्या है? 
+A) ¾ 
+B) 4/7 
+C) 1/8 
+ 
+D) 3/7 
+2. Out of 5 girls and 3 boys, 4 children are to be randomly selected for a quiz contest. What is the 
+probability that all are girls? 
+5 लड़ककयों और 3 लड़कों में से, 4 बछचों को एक प्रश्नोत्तरी प्रनतयोगगता के मलए यादृच्छिक रूप से चुना जाना है। इसकी 
+क्या प्रानयकता है कक सभी लड़ककयााँ हैं? 
+A) 1/14 
+B) 2/14 
+C) 2/7 
+D) None 
+3. An box contains 10 black and 4 white balls, two balls are drawn from the urn one after the 
+other without replacement. What is the probability that both drawn balls are black? 
+एक कलश में 10 काली और 4 सफेद गेंदें हैं, कलश से दो गेंदें एक के बाद एक बबना प्रनतस्थापन के ननकाली जाती हैं। 
+क्या प्रानयकता है कक ननकाली गई दोनों गेंदें काली हैं? 
+A) 2/7 
+B) 3/7 
+C) 4/7 
+D) 5/7 
+4. A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. 
+The probability that all of them are red, is? 
+एक थैले में 4 सफेद, 5 लाल और 6 नीली गेंदें हैं। बैग से यादृच्छिक रूप से तीन गेंदें ननकाली जाती हैं। उन सभी के लाल होने की 
+प्रानयकता है? 
+A) 1/22 
+B) 3/22 
+C) 2/91 
+D) 2/77 
+5. A bag contains 6 red balls and 4 yellow balls and 2 green balls. Four balls are picked at random, 
+what is the probability two are red? 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें और 2 हरी गेंदें हैं। चार गेंदें यादृच्छिक रूप से ननकाली जाती हैं, दो के लाल होने 
+की क्या प्रानयकता है? 
+A) 1/11 
+B) 2/11 
+C) 5/11 
+D) None 
+6. A bag contains 4 red balls, 6 green balls and 5 blue balls. If three balls are picked at random, 
+what is the probability that two of them are green and one of them is blue in colour? 
+एक बैग में 4 लाल गेंदें, 6 हरी गेंदें और 5 नीली गेंदें हैं। यदद तीन गेंदें यादृच्छिक रूप से ननकाली जाती हैं, तो क्या 
+संभावना है कक उनमें से दो हरी और एक नीली रंग की है? 
+A) 20/91 
+B) 10/91 
+C) 15/91 
+D) 5/91 
+E) 25/91 
+7. A bag contains 3 red balls and 6 blue balls and 2 green balls and 4 yellow balls. If three balls are 
+picked at random, what is the probability that two are blue and one is yellow? 
+एक बैग में 3 लाल गेंदें और 6 नीली गेंदें और 2 हरी गेंदें और 4 पीली गेंदें हैं। यदद तीन गेंदें यादृच्छिक रूप से ननकाली 
+जाती हैं, तो क्या संभावना है कक दो नीली और एक पीली है? 
+A) 12/91 
+B) 11/91 
+ 
+C) 10/91 
+D) None 
+8. A bag contains 7 white and 9 black balls. Two balls are drawn at random one after the other. 
+Find the probability that one of them is white and the other is black? 
+एक थैले में 7 सफ़ेि और 9 काली गेंिे है। िो गेंिे यदृच्छया एक के बाि एक करके ननकली जाती है।  उनमे से एक सफ़ेि और िूसरी 
+काली होने की प्रानयकता ज्ञात कीजजये? 
+A) 21/40 
+B) 19/40 
+C) 22/39 
+D) None of these 
+9. In a class, there are 15 boys and 10 girls. Three students are selected at random. The 
+probability that 1 girl and 2 boys are selected is? 
+एक कक्षा में 15 लड़के और 10 लड़ककयां हैं। यादृच्छिक रूप से तीन िात्रों का चयन ककया जाता है। 1 लड़की और 2 लड़कों के चुने 
+जाने की प्रानयकता है? 
+A) 21/46 
+B) 25/117 
+C) 1/50 
+D) 3/25 
+10. A bag contains 6 red balls and 4 yellow balls and 2 green balls. Four balls are picked at random, 
+what is the probability that two are red, one is yellow and one is green? 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें और 2 हरी गेंदें हैं। चार गेंदें यादृच्छिक रूप से चुनी जाती हैं, इसकी क्या 
+प्रानयकता है कक दो लाल, एक पीली और एक हरी है? 
+A) 1/33 
+B) 8/33 
+C) 1/34 
+D) None 
+11. There are 8 brown balls, 4 orange balls and 5 black balls in a bag. Five balls are chosen at 
+random. What is the probability of their being 2 brown balls, 1 orange ball and 2 black balls? 
+एक बैग में 8 भूरे रंग की गेंदें, 4 नारंगी गेंदें और 5 काली गेंदें हैं। पााँच गेंदें यादृच्छिक रूप से चुनी जाती हैं। उनके 2 भूरे 
+रंग की गेंद, 1 नारंगी गेंद और 2 काली गेंद होने की प्रानयकता क्या है? 
+A) 40/220 
+B) 40/221 
+C) 30/221 
+D) None 
+12. Four persons are chosen at random from a group of 3 men, 2 women and 4 children. The 
+chance that exactly 2 of them are children is? 
+3 पुरुषों, 2 मदहलाओं और 4 बछचों के समूह में से चार व्यच्क्तयों को यादृच्छिक रूप से चुना जाता है। संभावना है कक उनमें से 
+ठीक 2 बछचे हैं? 
+A) 1/9 
+B) 1/5 
+C) 1/12 
+D) 10/21 
+13. A bag contains 6 red balls and 4 yellow balls. Three balls are picked at random what is the 
+probability that none is red? 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें हैं। तीन गेंदें यादृच्छिक रूप से ननकाली जाती हैं, इसकी क्या प्रानयकता है कक 
+कोई भी गेंद लाल नहीं है? 
+A) 1/30 
+ 
+B) 1/20 
+C) 1/10 
+D) None 
+14. A bag contains 6 red balls and 4 yellow balls and 2 green balls. Five balls are picked at random, 
+what is the probability none is yellow?  
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें और 2 हरी गेंदें हैं। पााँच गेंदें यादृच्छिक रूप से ननकाली जाती हैं, क्या प्रानयकता 
+है कक कोई भी गेंद पीली नहीं है? 
+A) 7/99 
+B) 1/99 
+C) 5/99 
+D) None 
+15. In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the 
+probability that it is neither red or nor green? 
+एक बॉक्स में 8 लाल, 7 नीली और 6 हरी गेंदें हैं। एक गेंद को यादृछिया उठाया जाता है। इसकी क्या प्रानयकता है कक यह न तो 
+लाल है और न ही हरा है? 
+A) 1/3 
+B) ¾ 
+C) 7/19 
+D) 5/21 
+ 
+16. A bag contains 6 red balls and 4 yellow balls. Four balls are picked at random what is the 
+probability at least one is red? 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें हैं। चार गेंदें यादृच्छिक रूप से ननकाली जाती हैं, कम से कम एक के लाल होने 
+की क्या प्रानयकता है? 
+A) 209/210 
+B) 109/210 
+C) 9/210 
+D) None 
+17. A basket contains 6 blue, 2 red, 4 green and 3 yellow balls. If 5 balls are picked up at 
+random, what is the probability that at least one is blue?  
+एक टोकरी में 6 नीली, 2 लाल, 4 हरी और 3 पीली गेंिें हैं। यदि 5 गेंिें यादृजच्छक रूप से उठाई जाती हैं, तो क्या संभावना है कक कम से 
+कम एक नीली है? 
+a)18/455 
+b)137/143 
+c)9/91 
+d)2/5 
+18. A box contains 4 red balls, 5 green balls and 6 white balls. A ball is drawn at random from the 
+box. What is the probability that the ball drawn is either red or green? 
+एक डर्ब्बे में 4 लाल गेंदें, 5 हरी गेंदें और 6 सफेद गेंदें हैं। बॉक्स से यादृच्छिक रूप से एक गेंद ननकाली जाती है। क्या प्रानयकता है 
+कक ननकाली गई गेंद या तो लाल या हरी हो? 
+A) 2/5 
+B) 3/5 
+C) 1/5 
+D) 7/15 
+ 
+19. A glass vessel contains 6 white, 8 black, 4 red and 3 blue marbles. If one glass is selected at 
+random from the vessel, what is the probability that it is black or blue? 
+एक कांच के पात्र में 6 सफ़ेद, 8 काले, 4 लाल और 3 नीली कंचे है। यदद पात्र में से एक कांचा यादृच्छिक रूप से चुना जाता 
+है, तो इसके काले या नीले रंग के होने की प्रानयकता है? (MAINS 2022) 
+A) 5/21 
+B) 1/7 
+C) 8/21 
+D) 11/21 
+20. A bag contains 3 red balls and 6 blue balls and 2 green balls and 4 yellow balls. If two balls are 
+picked at random, what is the probability that either both are red or both are green? 
+एक बैग में 3 लाल गेंदें और 6 नीली गेंदें और 2 हरी गेंदें और 4 पीली गेंदें हैं। यदद दो गेंदें यादृच्छिक रूप से ननकाली 
+जाती हैं, तो इसकी क्या प्रानयकता है कक या तो दोनों लाल हैं या दोनों हरी हैं? 
+A) 1/105 
+B) 2/105 
+C) 2/105 
+D) 4/105 
+21. A bag contains 6 red balls and 4 yellow balls. Four balls are picked at random what is the 
+probability that 3 are red and 1 is yellow or 2 are red and two is yellow? 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें हैं। चार गेंदों को यादृच्छिक रूप से चुना जाता है, इसकी क्या प्रानयकता है कक 3 
+लाल हैं और 1 पीली है या 2 लाल हैं और दो पीली हैं? 
+A) 1/21 
+B) 17/21 
+C) 1/20 
+D) None 
+22. A bag contains 6 red balls and 4 yellow balls and 2 green balls. Two balls are picked at random 
+what is the probability- 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें और 2 हरी गेंदें हैं। दो गेंदें यादृच्छिक रूप से ननकाली जाती हैं, इसकी प्रानयकता 
+क्या है? 
+23. Either both are red or both are green? 
+या तो दोनों लाल हैं या दोनों हरे हैं? 
+ 
+i) 
+1/33 
+ii) 
+9/33 
+iii) 
+8/33 
+iv) 
+None 
+ 
+24. Neither red nor green? 
+न तो लाल और न ही हरा? 
+i) 
+1/11 
+ii) 
+1/12 
+iii) 
+1/13 
+iv) 
+1/9 
+25. There are 4 black, 3 red and 5 green balls in a box. Two balls are randomly picked out. Find the 
+probability of them being of same colour? 
+एक डर्ब्बे में 4 काली, 3 लाल और 5 हरी गेंदें हैं। दो गेंदें यादृच्छिक रूप से ननकाली जाती हैं। उनके एक ही रंग के होने की 
+प्रानयकता ज्ञात कीच्जए? 
+A) 47/66 
+B) 1/6 
+ 
+C) 19 
+D) 19/66 
+E) 2/11 
+26. A box contains 6 white balls and 7 black balls. Two balls are drawn at random. What is the 
+probability the both of them are of different colors? 
+एक डर्ब्बे में 6 सफेद गेंदें और 7 काली गेंदें हैं। दो गेंदों को यादृच्छिक रूप से ननकाला जाता है। दोनों के अलग-अलग रंग 
+के होने की क्या प्रानयकता है? 
+A) 4/3 
+B) 2/13 
+C) 6/13 
+D) 7/13 
+27. A box contains 5 green, 4 yellow and 3 white marbles. Three marbles are drawn at random. 
+What is the probability that they are not of the same color? 
+एक बॉक्स में 5 हरे, 4 पीले और 3 सफेद कंचे हैं। तीन कंचे यादृछिया ननकाले जाते हैं। क्या संभावना है कक वे एक ही रंग के नहीं 
+हैं? 
+A) 3/44 
+B) 3/55 
+C) 52/55 
+D) 41/44 
+28. A bag contains 3 red, 5 yellow and 4 green balls. 3 balls are drawn at random. Find the 
+probability of the following events. 
+एक थैले में 3 लाल, 5 पीली और 4 हरे रंग की गेंिे है।  3 गेंिे यदृच्छया ननकली जाती है।  ननम्नललखित घटनाओं की प्रानयकता 
+ज्ञात कीजजये।  
+i) 
+The ball should be of different colours. 
+गेंि लभन्न रंगो के हो।  
+A) 3/44 
+B) 41/44 
+C) ¾ 
+D) None 
+ii) 
+Exactly two balls are of green colour. 
+ठीक िो गेंिे हरे रंग के हो।  
+A) 12/50 
+B) 12/55 
+C) 1/50 
+D) None of these 
+29. There are 5 white balls, 7 red and 8 black balls in a bag, 4 balls are to be taken out of the bag 
+one by one and every ball has to be put back in the bag, then what is the probability that all 
+four balls will be white? 
+एक थैले में 5 सफेि गेंिें, 7 लाल और 8 काली गेंिें हैं, थैले में से 4 गेंिें एक-एक करके ननकाली जानी हैं और प्रत्येक गेंि को थैले 
+में वापस र्ालना है, तो इसकी क्या प्रानयकता है कक सभी चार गेंिें सफेि होंगी? 
+A) 1/256 
+B) 1/16 
+C) 4/20 
+D) 4/8 
+30. A bag contains 6 red balls and 4 yellow balls and 2 green balls. Three balls are picked at random 
+what is the probability that at most two are yellow? 
+एक बैग में 6 लाल गेंदें और 4 पीली गेंदें और 2 हरी गेंदें हैं। तीन गेंदें यादृच्छिक रूप से ननकाली जाती हैं, इसकी क्या 
+प्रानयकता है कक अगधकतम दो गेंदें पीली हों? 
+ 
+A) 54/55 
+B) 51/55 
+C) 52/55 
+D) None 
+31. Bag I contains 3 red and 4 black balls while bag II contains 5 red and 6 black balls. One ball is 
+drawn at random from one of the bags and it is found to be red. Find the probability that it was 
+drawn from bag II? 
+बैग I में 3 लाल और 4 काली गेंदें हैं जबकक बैग II में 5 लाल और 6 काली गेंदें हैं। एक बैग से यादृच्छिक रूप से एक गेंद 
+ननकाली जाती है और वह लाल पाई जाती है। इसकी प्रानयकता ज्ञात कीच्जए कक इसे बैग II से ननकाला गया था? 
+A) 34/68 
+B) 35/68 
+C) 33/68 
+D) 37/68 
+32. In a factory which manufactures bolts, machines A, B and C manufactures respectively 25%, 
+35% and 40% of the bolts. Of their outputs, 5, 4 and 2 percent are respective defective bolts. A 
+bolt is drawn at random from the product and is found to be defective. What is the probability 
+that is manufactured by the machine B? 
+बोल्ट बनाने वाली एक फैक्री में मशीनें A, B और C क्रमशः 25%, 35% और 40% बोल्ट बनाती हैं। उनके आउटपुट में 
+से 5, 4 और 2 प्रनतशत संबंगधत दोषपूणड बोल्ट हैं। उत्पाद से यादृच्छिक रूप से एक बोल्ट ननकाला जाता है और वह 
+दोषपूणड पाया जाता है। मशीन B द्वारा ननममडत होने की प्रानयकता क्या है? 
+A) 28/69 
+B) 29/69 
+C) 23/69 
+D) 25/69 
+ 
+MISCELLANEOUS:- 
+33. A bag contains tickets numbered from 1 to 20. Two tickets are drawn. The probability that both 
+numbers are prime, is? 
+एक बैग में 1 से 20 तक क्रमांककत दटकट हैं। दो दटकट ननकाले गए हैं। दोनों संख्याओं के अभाज्य होने की प्रानयकता है? 
+A) 14/9 
+B) 7/95 
+C) 1/95 
+D) None 
+34. There are 27 cards having numbers from 1 to 27. Two cards are picked at random one by one 
+without replacement. What is the probability that sum of numbers on these two cards is odd? 
+27 कार्ड हैं च्जनमें 1 से 27 तक संख्याएाँ हैं। दो कार्ड बबना प्रनतस्थापन के एक-एक करके यादृच्छिक रूप से चुने जाते हैं। 
+इसकी क्या प्रानयकता है कक इन दोनों कार्ों पर संख्याओं का योग ववषम है? 
+A) 13/27 
+B) 8/13 
+C) 182/729 
+D) 14/27 
+E) 15/32 
+35. The probability of Ram winning the prize in a contest is 1/5, while the probability of Mohan 
+winning the prize is ¾, then find the probability that the both will win the prize? 
+एक प्रनतयोगगता में राम के पुरस्कार जीतने की प्रानयकता 1/5 है, जबकक मोहन के पुरस्कार जीतने की प्रानयकता 3/4  है, तो 
+िोनों के पुरस्कार जीतने की प्रानयकता ज्ञात कीजजए? 
+A) 4/20 
+B) 3/20 
+C) 5/20 
+ 
+D) 11/20 
+36. A man and his wife appear in an interview for two vacancies in the same post. The probability 
+of husband’s selection is 1/7 and the probability of wife’s selection is 1/5. What is the 
+probability that only one of them is selected? 
+एक आदमी और उसकी पत्नी एक ही पद पर दो ररच्क्तयों के मलए साक्षात्कार में उपच्स्थत होते हैं। पनत के चयन की 
+संभावना 1/7 है और पत्नी के चयन की संभावना 1/5 है। इसकी क्या प्रानयकता है कक उनमें से केवल एक का चयन 
+ककया जाए? 
+A) 4/5 
+B) 2/7 
+C) 4/7 
+D) 8/15 
+37. A speaks truth in 60% cases and B speaks truth in 70% cases. Find the probability that they 
+will say the same thing while describing a single event? 
+A 60% मामलों में सच बोलता है और B 70% मामलों में सच बोलता है। प्रानयकता ज्ञात कीजजए कक वे एक ही घटना का वर्डन 
+करते हुए एक ही बात कहेंगे? 
+A) 27/50 
+B) 28/50 
+C) ½ 
+D) None of these 
+38. A speaks the truth 5 times out of 7 and B speaks 8 times out of 9. What is the probability that 
+they will contradict each other in stating the same fact? 
+A, 7 में से 5 बार सच बोलता है और B 9 में से 8 बार सच बोलता है।  इसकी क्या प्रानयकता होगी की वे एक ही तथ्य को 
+कहने में एक दूसरे का खंर्न करेंगे? (MAINS 2022) 
+A) ¼ 
+B) 1/9 
+C) 1/3 
+D) 1/7 
+39. The probability of solving a problem by three students A, B and C are 
+𝟑
+𝟕,
+𝟓
+𝟗&
+𝟏
+𝟓 respectively. What 
+is the probability that the problem is solved? 
+तीन क्षात्रो  A, B और C द्वारा एक समस्या को हल करने की प्रानयकता क्रमशः 
+𝟑
+𝟕,
+𝟓
+𝟗&
+𝟏
+𝟓 है।  समस्या के हल होने की 
+प्रानयकता क्या होगी? (MAINS 2022) 
+ 
+A) 
+𝟔𝟒
+𝟑𝟏𝟓 
+B) 
+𝟑𝟐
+𝟑𝟏𝟓 
+C) 
+𝟐𝟓𝟏
+𝟑𝟏𝟓 
+D) 
+𝟏𝟓𝟓
+𝟑𝟏𝟓 
+40. The probability of India not participating in the one-day cricket tournament is 25% while the 
+probability of Australia not participating is 30%. What are the probability of neither of them 
+taking part? 
+भारत के एक दिवसीय किकेट टूनाडमेंट में भाग नहीं लेने की संभावना 25% है जबकक ऑस्रेललया के भाग नहीं लेने की संभावना 
+30% है। उनमें से ककसी के भी भाग लेने की प्रानयकता क्या है? 
+A) 21/40 
+B) 10/40 
+C) 21/31 
+D) 2/40 
+ 
+41. A box contains 20 electric bulbs, out of which 4 are defective. Two bulbs are chosen at random 
+from this box. The probability that at least one of these is defective is? 
+एक बॉक्स में 20 बबजली के बल्ब हैं, च्जनमें से 4 खराब हैं। इस बॉक्स में से दो बल्ब यादृछिया चुने जाते हैं। इनमें से कम से कम 
+एक के खराब होने की प्रानयकता है? 
+A) 4/19 
+B) 7/19 
+C) 12/19 
+D) 21/95 
+42. The probability of winning the race by two athletes A and B are 1/5 and ¼. The probability of 
+winning by neither of them, is? 
+दो एथलीटों A और B द्वारा दौड़ जीतने की संभावना 1/5 और ¼ है। उनमें से ककसी के भी जीतने की संभावना क्या है? 
+A) 3/5 
+B) ¾ 
+C) 2/5 
+D) 4/5 
+43. In a race, the probabilities of A and B winning are 1/3 and 1/6 respectively. What is the 
+probability that neither of them wins? 
+एक दौड़ में, A और B के जीतने की प्रायिकता क्रमशः 1/3 और 1/6 है। क्िा संभावना है यक उनमें से कोई भी जीत नहीं पाएगा? 
+a)5/9 
+b)17/18 
+c)4/9 
+d)1/2 
+44. A person can hit a target 5times out of 8 shots. If he fires 10 shots, what is the probability that 
+he will hit the target twice? 
+एक व्यच्क्त 8 में से 5 बार ननशाने पर लगा सकता है। यदद वह 10 शॉट फायर करता है, तो इसकी क्या प्रानयकता है कक 
+वह लक्ष्य को दो बार मारेगा? (MAINS 2022) 
+ 
+A) 
+𝟏𝟏𝟑𝟓×𝟑𝟖
+𝟖𝟏𝟎
+ 
+B) 
+𝟏𝟏𝟔𝟓×𝟑𝟖
+𝟖𝟏𝟎
+ 
+C) 
+𝟏𝟏𝟕𝟓×𝟑𝟖
+𝟖𝟏𝟎
+ 
+D) 
+𝟏𝟏𝟐𝟓×𝟑𝟖
+𝟖𝟏𝟎
+ 
+ 

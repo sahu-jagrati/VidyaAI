@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 3,
+    "question_en": "Find the minimum value of 𝒔𝒊𝒏𝟐𝑨+𝟓𝒔𝒊𝒏 𝑨+𝟏 𝒔𝒊𝒏 𝑨 for 𝟎< 𝑨< 𝝅 𝟐? 0≤A≤ 𝝅 𝒔𝒊𝒏𝟐𝑨+𝟓𝒔𝒊𝒏 𝑨+𝟏 𝒔𝒊𝒏 𝑨",
+    "question_hi": "𝟐 के लिए का न्यूनतम मान ज्ञात कीजिए? (CDS-1 2024)",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Maxima & Minima",
+    "source_pdf": "Maxima & Minima Sheet.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 5,
+    "question_en": "What is the difference between the greatest value and the least value of 𝒄𝒐𝒔𝟐𝜽+ 𝟑𝒔𝒊𝒏𝟐𝜽+ 𝟐?",
+    "question_hi": "𝒄𝒐𝒔𝟐𝜽+ 𝟑𝒔𝒊𝒏𝟐𝜽+ 𝟐 के अधिकतम मान और न्यूनतम मान के बीच क्या अंतर है? (CDS-1 2024)",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Maxima & Minima",
+    "source_pdf": "Maxima & Minima Sheet.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 9,
+    "question_en": "Find the least value of 16cosec2θ + 25sin2θ.",
+    "question_hi": "16cosec2θ + 25sin2θ का न्यूनतम मान ज्ञात कीजिए ।",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "(SSC CPO 2023)",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Maxima & Minima",
+    "source_pdf": "Maxima & Minima Sheet.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c"
+  }
+]

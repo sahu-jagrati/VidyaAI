@@ -1,0 +1,678 @@
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ 
+1. A man makes 500 articles at Rs.5 per article. 
+He fixes the selling price such that if only 400 
+articles are sold, he would have made a profit 
+of 20% on the outlay. However, 80 articles get 
+spoilt and he was able to sell 420 articles at 
+this price. find his actual profit %? 
+एक व्यक्ति 5 रु प्रति वस्िु के हिसाब से 500 वस्िुये बनािा 
+िै।वि वस्िु का ववक्रयमूल्य इस िरि अंककि करिा िै कक 
+यहि केवल 400 वस्िुएं बेची जाए िो उसे 20% का लाभ िो 
+जबकक 80 वस्िुएं खराब िो जािी िै और वि इस मूल्य पर 
+केवल 420 वस्िुएं िी बेच पािा िै। उसका कुल लाभ % ज्ञाि 
+करे। 
+a)25%      b)26%       c)24%       d)33.33% 
+2. Twelve percent of bananas bought by a fruit 
+vendor got lost during transportation. On 
+selling the remaining bananas, the vendor’s 
+overall profit turned out to be 4%. If the vendor 
+had not lost any bananas and had sold them at 
+the price of the remaining bananas, what would 
+have been his profit percentage? 
+एक फल विक्रेता द्िारा खरीदे गए बारह प्रततशत केले पररिहन 
+के दौरान खो गए। शेष केलों को बेचने पर विक्रेता का कुल 
+लाभ 4% हो गया। यदद विक्रेता ने कोई केला नहीीं खोया होता 
+और उन्हें शेष केलों के मूल्य पर बेच ददया होता, तो उसका 
+लाभ प्रततशत क्या होता? 
+A) 17
+𝟒
+𝟏𝟏% 
+B) 19
+𝟏
+𝟏𝟏% 
+C) 18
+𝟐
+𝟏𝟏% 
+D) 22
+𝟐
+𝟗% 
+3. Sukhen purchased some perishable items for 
+sale but 15% of those items could not be sold 
+and went bad. However, Sukhen managed to 
+sell the rest of the items at a price that helped 
+him earn an overall profit of 19%. At what 
+percentage above the cost price of each item 
+did Sukhen sell each of the items that did not 
+go bad? 
+सुखेन ने बबक्री के ललए कुछ खराब होने िाली िस्तुएँ खरीदीीं 
+लेककन उनमें से 15% िस्तुएँ बेची नहीीं जा सकीीं और खराब 
+हो गईं। हालाँकक, सुखेन बाकी िस्तुओीं को उस कीमत पर 
+बेचने में कामयाब रहे जजससे उन्हें 19% का कुल लाभ कमाने 
+में मदद लमली। सुखेन ने प्रत्येक िस्तु के लागत मूल्य से 
+ककतने प्रततशत अधिक पर प्रत्येक िस्तु बेची जो खराब नहीीं 
+हुई? (CHSL 2023 PRE) 
+A) 40% 
+B) 42% 
+C) 34% 
+D) 36% 
+ 
+ 
+4. By selling 96 articles for Rs144 there is loss of 
+35%. How many articles should sell for Rs108 
+to 
+get 
+a 
+profit 
+of 
+17%? 
+96 िस्तुओीं को 144 रु में बेचने पर एक व्यजक्त को 35%की 
+हातन होती है। 17% का लाभ कमाने हेतु 108 रु में ककतनी 
+िस्तुएीं 
+बेचनी 
+पडेगी? 
+a)45        b)40       c)35       d)50  
+5. A man sells 10 pens for Rs.18 gaining 24%. 
+How many pens should he sell for Rs 1,530 to 
+earn a profit of 55%? 
+,d O;fDr 10 dyesa 18 #- esa csprk gS vkSj 24% dk ykHk vftZr djrk 
+gSA 55% dk ykHk vftZr djus ds fy, mls 1]530 #- esa fdruh dyesa 
+cspuh gksxh\ (DELHI HEAD CONSTABLE 2022) 
+(a) 540     (b) 620 
+(c) 680     (d) 760 
+6. Being selling 18 oranges for Rs 151.20, a man 
+loses 20%. How many oranges should he sell for 
+Rs 819 to earn a profit of 30%? 
+151.20 रुपये में 18 सींतरे बेचने पर एक आदमी को 20% 
+का नुकसान होता है। 30% का लाभ कमाने के ललए उसे 
+819 रुपये में ककतने सींतरे बेचने चादहए? (SSC GD 2021) 
+A) 50 
+B) 60 
+C) 45 
+D) 65 
+7. A dealer sold 6 sewing machines for 63000 with 
+a profit of 5%. For how much should he sell 8 
+machines, if he intends to earn 15% profit? 
+एक विक्रेता ने रू. 63,000 में 6 विलाई मशीनें बेची और उिे 5 प्रवतवशत का लाभ 
+हुआ। यवि िह 15 प्रवतशत लाभ अवजित करना चाहता है, तो उिे 8 मशीनें वकतने में 
+बेचनी चावहए? 
+a) 88200             b) 69300                   
+ 
+c) 92000              d) 92400 
+8. Gopi purchased an article at 7/8 of its selling 
+price. Had he sold it at 20% more than the 
+selling price, then what would his profit 
+percentage be? 
+गोपी ने एक िस्तु उसके विक्रय मूल्य के 7/8 पर खरीदी। 
+यदद उसने इसे विक्रय मूल्य से 20% अधिक पर बेचा होता, 
+तो उसका लाभ प्रततशत क्या होता? (DP CONSTABLE 
+2023) 
+A) 37
+𝟏
+𝟕% 
+B) 37% 
+C) 35% 
+D) 35
+𝟏
+𝟕% 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+9. Ravi bought a camera and paid 18% less than 
+its original price. He sold it at 30% profit on 
+the price he had paid. How much was the profit 
+percentage earned by Ravi on the original 
+price? 
+रवि ने एक कैमरा खरीदा और इसकी मूल कीमत से 18% 
+कम भुगतान ककया। उसने इसे भुगतान की गई कीमत से 
+30% लाभ पर बेचा। रवि को मूल कीमत पर ककतना प्रततशत 
+लाभ प्राप्त हुआ? 
+ (RPF CONSTABLE 2025) 
+A.6.2% 
+B.5.9% 
+C.5.7% 
+D. 6.6% 
+10. Ramesh buys an article for 15% less than its 
+original value, and sells it for 10% more than 
+its original value. Find the percentage of gain 
+(approximately). 
+रमेश एक वस्तु को उसके वास्तववक मूल्य से 15% कम पर 
+खरीदता है, और उसे उसके वास्तववक मूल्य से 10% अविक 
+पर बेचता है। लाभ का प्रवतशत (लगभग) ज्ञात कीविए। 
+RRB NTPC 13/01/2021 (Evening) 
+(a) 25.62% 
+(b) 41.52% 
+(c) 31.25% 
+(d) 29.41% 
+11. A sold a tape-recorder to B for Rs4,860 at a loss 
+of 19%. Again B sold it to C at price that would 
+give A a profit of 17%. The gain % of B is? 
+A ने B को 4860 रु में 19% हातन पर एक टेपररकॉर्डर बेची। 
+B ने C को टेपररकॉर्डर उस कीमत पर बेची जजससे A को 17% 
+लाभ हुआ हो तो B का प्रततशत लाभ ज्ञात करे। 
+a)22
+𝟐
+𝟗%    b)33
+𝟏
+𝟑%      c)44
+𝟒
+𝟗%      d)66
+𝟐
+𝟑% 
+12. Bina incurs 19% loss when she sells a product 
+at Rs 4860 to Shyam, who in turn sells this 
+product to Hari. If Bina would have sold this 
+product to Shyam at the purchase price of Hari, 
+she would have obtained 17% profit. Then, the 
+profit, in rupees, made by Shyam is? 
+बीना को 19% हातन होती है जब िह श्याम को 4860 रुपये 
+में एक उत्पाद बेचती है, जो बाद में इस उत्पाद को हरर को 
+बेचता है। यदद बीना ने यह उत्पाद श्याम को हरर के क्रय 
+मूल्य पर बेचा होता, तो उसे 17% लाभ प्राप्त होता। तो, 
+श्याम द्िारा ककया गया लाभ, रुपये में ककतना है? 
+A) 2160 
+B) 2000 
+C) 1800 
+D) 2400 
+13. An item with cost price of ₹120 is sold by P to 
+R at a 12% profit. R earns a profit of ₹45.6 on 
+the item and sells it to Q. The profit of P would 
+have been ____% if the item is sold by P to Q 
+directly at the same selling price. 
+₹120 क्रय मूल्य िाली एक िस्तु को P द्िारा R को 12% के 
+लाभ पर बेचा जाता है। R इस िस्तु पर ₹45.6 के लाभ के 
+साथ Q को बेचता है। यदद P द्िारा उसी िस्तु को सीिे Q 
+को उसी विक्रय मूल्य पर बेचा जाता, तो P का लाभ % ज्ञात 
+कीजजए। 
+A.30 
+B.50 
+C.40                                                                        D. 60 
+14.    A bought an article for rupees 54,00 and sold 
+it at a loss of 30%. With this amount another 
+article and sold it at a gain of 60%. What was 
+his overall gain or percentage loss? 
+A us 5400 esa ,d oLrq [kjhnh vkSj bls 30% dh gkfu ij cspkA bl izkIr 
+jkf'k ls mlus ,d vksj oLrq [kjhnh vkSj mls 60% ds ykHk ij cspkA bl 
+izdkj mldk dqy ykHk izfr'kr D;k gS\ 
+(a) Loss 1.2%  
+ 
+(b) Gain 12%  
+ 
+ 
+(c) Loss 12%  
+ 
+(d) Gain 1.2% 
+15. Sonam purchased a mobile phone for ₹27,000 
+and sold it at a loss of 19%. With that money 
+she purchased a Tablet and sold it at a gain of 
+20%. What is her overall gain or loss? 
+सोनम ने ₹27,000 में एक मोबाइल फोन खरीदा और उसे 
+19% हावन पर बेच वदया। उस पैसे से उसने एक टैबलेट खरीदा 
+और उसे 20% के लाभ पर बेच वदया। उसका कुल लाभ या 
+हावन क्या है? 
+1. gain of ₹870 
+2. loss of ₹756 
+3. loss of ₹856 
+4. gain of ₹756 
+(SSC SELECTION POST XI 2023) 
+16. A merchant fixes the sale price of his goods at 
+33% above the cost price. He sells his goods at 
+23% less than the fixed price. His profit 
+percentage is: 
+,d O;kikjh vius eky dk foØ; ewY;] mlds Ø; ewY; ls 33% vf/kd 
+fu/kkZfjr djrk gSA og vius eky dks fu/kkZfjr ewY; ls 23% de ewY; ij 
+csprk gSA mldk çfr'kr ykHk Kkr dhft,A 
+(a) 
+2.14% 
+(b) 
+4.12% 
+(c) 
+1.24% 
+(d) 
+2.41% 
+17. A sold an article to B at 25% profit and B 
+further sold it to C by earning a certain profit. 
+If the cost price of C is 30% more than the cost 
+price of A, then find the profit percentage 
+earned by B. 
+A ने एक वस्तु B को 25% लाभ पर बेची और B ने एक वनवित 
+लाभ अविित करते हुए इसे C को बेच वदया। यवद C का क्रय 
+मूल्य A के क्रय मूल्य से 30% अविक है, तो B द्वारा अविित लाभ 
+प्रवतशत ज्ञात कीविए। 
+(a) 𝟓
+𝟏
+𝟐% 
+  (b) 𝟒% 
+ 
+(c) 𝟓% 
+(d) 𝟒
+𝟏
+𝟐% 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+18. The price of some wooden furniture increases 
+by 65% when it passes through three hands. If 
+the first and second sellers made a profit of 
+20% and 25%, respectively, then find the profit 
+percentage of the third seller.  
+dqN ydM+h ds QuhZpj dh dher rhu gkFkksa ls xqtjus ij 65% c<+ tkrh 
+gSA ;fn igys vkSj nwljs foØsrk us Øe'k% 20% vkSj 25% dk ykHk dek;k] 
+rks rhljs foØsrk dk ykHk çfr'kr Kkr dhft,A 
+(a) 
+10% 
+(b) 
+12.5% 
+(c) 
+16% 
+(d) 
+8% 
+ 
+ 
+ 
+ 
+  
+(SSC CGL 2022) 
+19. An iron costing Rs. 758 was sold by Ramesh at 
+a gain of 15% and it was again sold by Reena, 
+who bought it from Ramesh, at a loss of 8%. 
+Find the selling price of the iron for Reena 
+(correct to two places of decimals). 
+एक इस् री की कीमत ₹758 थी जजसे रमेश ने 15% के लाभ 
+पर बेचा और इसे रीना ने 8% की हातन पर पुन: बेच ददया, 
+जजसने इसे रमेश से खरीदा था। रीना के ललए इस् री का विक्रय 
+मूल्य (दशमलि के दो स्थान तक सही) ज्ञात करें। 
+[SSC Selection Post (Phase-XII)] 
+[A]Rs. 808.69     [B]Rs. 801.96 
+ 
+[C]Rs. 810.96    [D] Rs. 820.69 
+20. The manufacturer of a table sells it to a 
+wholesale dealer at a profit of 10%. The 
+wholesale dealer sells the table to a retailer at 
+a profit of 30%. Finally, the retailer sells it to 
+a customer at a profit of 50%. If the customer 
+pays 
+Rs.12870 
+for 
+the 
+table, 
+then 
+its 
+manufacturing cost (in Rs.) is    
+ 
+      
+(CAT 2017) 
+एक ताललका का तनमाडता इसे थोक व्यापारी को 10% के लाभ 
+पर बेचता है। थोक व्यापारी एक ररटेलर को 30% के लाभ 
+पर ताललका बेचता है। अींत में, ररटेलर इसे 50% के लाभ पर 
+ग्राहक को बेचता है। यदद ग्राहक ताललका के ललए रु। 12870 
+का भुगतान करता है, तो इसकी वितनमाडण लागत (रु में) है 
+(a) 4500 
+(b) 6000 
+ 
+(c) 7500 
+(d) 9000 
+21. Swati sold a bag to Ankita at a gain of 15%. 
+Aashi bought this bag from Ankita for 
+Rs.24,840. Ankita earned a profit of 20%. At 
+what price would Swati have bought the bag? 
+Lokfr us vafdr dks ,d cSx 15% ds ykHk ij cspkA vk'kh us ;g cSx 
+vafdrk ls #- 24]840 esa [kjhnk FkkA vafdrk us 20% dk ykHk vftZr fd;kA 
+Lokfr us cSx fdl dher ij [kjhnk gksxk\ 
+(a) Rs. 18,500 
+(b) Rs. 18,000 
+(c) Rs. 16,000 
+(d) Rs. 20,000 
+22. Swastik sells an article to Vijay at a 10% profit. 
+Vijay sells the same to Arvind for Rs.5197.50 
+there by making a profit of 5%. How much did 
+Swastik buy it for? 
+LokfLrd us fot; dks 10% ykHk ij ,d oLrq csphA fot; us mls 5% 
+dk ykHk dekdj 5197-50 #i;s esa vjfoUn dks csp fn;kA LokfLrd us bls 
+fdrus esa [kjhnk\  
+ 
+(CISF HCM 2023) 
+(a) Rs 4275.50 
+(b) Rs.4525.50 
+(c) Rs.4375 
+(d) Rs.4500 
+23. Ketan bought a shirt and sold it to Mahesh at a 
+profit of 5%. Mahesh sold it to David at a loss 
+of 24%. If David paid ₹3990, then the cost price 
+(in ₹) of the shirt Ketan bought is 
+केतन ने एक शटड खरीदी और उसे महेश को 5% लाभ पर 
+बेचा। महेश ने उसे र्ेविर् को 24% हातन पर बेचा। यदद र्ेविर् 
+ने ₹3990 का भुगतान ककया, तो केतन द्िारा खरीदी गई शटड 
+का क्रय मूल्य (₹ में) ज्ञात कीजजए।(SSC GD 2025) 
+1. 5150 
+2. 4800 
+3. 5000 
+4. 4750 
+24. X sells an article to Y at 12% loss. Y sells it to 
+Z at 9% profit. If Z pay `21,582 for it, then at 
+what price (in`) was the article purchased by X? 
+X, Y dks ,d oLrq 12% gkfu ij csprk gSA Y bls Z dks 9% ykHk ij 
+csprk gSA ;fn Z blds fy, `21]582 dk Hkqxrku djrk gS] rks X us fdl 
+dher ij ¼`esa½ oLrq [kjhnh Fkh\ 
+(a) 
+19,800 
+(b) 
+23,275 
+(c) 
+22,500 
+d) 
+21600 
+25. A sells a cycle to B at a profit of 33% and B sells 
+it to C at a loss of 25%. If C bought the cycle 
+for Rs 3059, then the cost price of it for A was? 
+A, B को 33% लाभ पर एक साइककल बेचता है और B इसे 
+25% हातन पर C को बेचता है। यदद C ने साइककल 3059 
+रुपये में खरीदी, तो A के ललए इसका लागत मूल्य क्या था?  
+(CHSL PRE 2023) 
+A) Rs 3066
+𝟐
+𝟑 
+B) Rs 4054
+𝟏
+𝟑 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+C) Rs 2044
+𝟏
+𝟑 
+D) Rs 5014
+𝟐
+𝟑 
+26. A manufacturer makes an 18% profit on an 
+item sold to a wholesaler. The wholesaler 
+makes a 20% profit on the sale to the retailer. 
+The 
+shop then sells it to a customer 
+forRs.15,045, making a 25% profit. The 
+manufacturer's cost price is: 
+,d fuekZrk ,d Fkksd O;kikjh dks csph xbZ oLrq ij 18% dk ykHk dekrk 
+gSA Fkksd O;kikjh] [kqnjk foØsrk dks bls cspdj 20% dk ykHk dekrk gSA 
+fQj [kqnjk foØsrk bls xzkgd dks 25% dk ykHk dekrs gq, #- 15]045 esa 
+csprk gSA fuekZrk dk ykxr ewY; fdruk gS\ 
+(a) Rs. 8,900      (b)Rs. 9,412 
+(c) Rs. 8,500      (d) Rs. 9,820 
+27. A manufacturer sells an item to a wholesale 
+dealer at a profit of 11%. The wholesaler sells 
+the same to a retailer at a profit of 15%. The 
+retailer in turn sells it to a customer for 
+`17,045, thereby earning a profit of 19%. The 
+cost price of the manufacturer is (consider 
+integral part only): 
+dksbZ fuekZrk ,d oLrq dks 11% ds ykHk ij Fkksd O;kikjh dks csprk gSA 
+Fkksd O;kikjh ml oLrq dks 15% ds ykHk ij [kqnjk foØsrk dks csprk gSA 
+[kqnjk foØsrk ml ij 19% dk ykHk vftZr djrs gq, xzkgd dks `17,045 
+esa csprk gSA fuekZrk ds fy, ml oLrq dk ykxr ewY;-----------------gSA ¼fudVre 
+iw.kkZad esa½. (CHSL 2021) 
+(a)`13,520        (b)`15,020  
+(c)`10,200       (d)`11,220 
+28. A bought an article and spent Rs.550 on its 
+repairs. He then sold it to B at a profit of 10%. 
+B sold it to C at a loss of 20%. C finally sold it 
+for Rs.6864 at a profit of 30%. How much did 
+A pay for the article? (In Rs.) 
+A ने एक िस्तु खरीदी और इसकी मरम्मत पर Rs.550 खचड 
+ककए। कफर उसने इसे 10% लाभ पर B को बेच ददया। B ने 
+इसे 20% हातन पर C को बेच ददया। अींततः C ने इसे 30% 
+लाभ पर Rs.6864 में बेच ददया। A ने िस्तु के ललए ककतना 
+भुगतान ककया? (Rs. में).  
+(UP SI POLICE 2021) 
+(A) 5750        (B) 5550 
+(C) 5650        (D) 5450 
+ 
+ 
+29. A bought a cycle and sold it to B at a profit of 
+`1,000. B sold it to C at 5% loss. C sold it to D 
+for `10,450 at 10% profit. If D had bought the 
+cycle directly from where A had bought, then 
+how much amount (in `) would he have saved? 
+A us ,d lkbfdy [kjhnh vkSj mls B dks `1,000 ds ykHk ij csp fn;kA 
+B us bls C dks 5% gkfu ij cspkA C us bls D dks 10% ykHk ij 
+`10,450 esa cspkA ;fn D us lh/ks ogk¡ ls lkbfdy [kjhnh gksrh] tgk¡ ls 
+A us [kjhnh Fkh] rks mls fdruh jkf'k (` esa) dh cpr gksrh\ 
+(a)450         (b)1,280          (c)1,450      (d)1,500 
+30. A sells an article to B at 20% profit. B sells it 
+to C at 15% loss. C sells it to D at 25% profit. 
+If the difference between the profit of A and C 
+is `132 and B bought the article for `x, then 
+what is the value of x? 
+A ,d oLrq] B dks 20% ykHk ij csprk gSA B bls 15% gkfu ij C 
+dks csprk gSA C bls 25% ykHk ij D dks csprk gSA ;fn A vkSj C ds 
+ykHk ds chp dk varj `132 gS vkSj B us `x esa oLrq [kjhnh] rks x dk eku 
+D;k gS\ 
+(a)2,820         (b)3,060  
+(c)2,940         (d)2,880 
+31. An article worth Rs 15000 was sold by A to B 
+at 5% profit. B sold it back to A at 2% loss. In 
+the entire transaction, what is the gain/loss 
+percentage of A? 
+15000 रुपये मूल्य की एक िस्तु A द्िारा B को 5% लाभ 
+पर बेची गई। B ने इसे 2% हातन पर A को िापस बेच ददया। 
+पूरे लेन-देन में, A का लाभ/हातन प्रततशत क्या है? 
+A) Gain 2.8% 
+B) Loss 3% 
+C) Loss 3.1% 
+D) Gain 2.9% 
+32. Aarav owns a watch worth Rs.10,000. He sells 
+it to Bhavin at a profit of 15%. After some days, 
+Bhavin sells it back to Aarav at 15% loss. Find 
+the percentage profit or loss faced by Aarav. 
+ 
+आरि के पास रु- 10,000 की कीमत की एक घडी है। िह 
+इसे 15% के लाभ पर भाविन को बेचता है। कुछ ददनों के 
+बाद, भाविन इसे 15% हातन पर आरि को िापस बेच देता 
+है। आरि को होने िाला प्रततशत लाभ या हातन ज्ञात करें। 
+ 
+SSC CPO Pre 2024 
+ 
+[A]17.25% loss 
+ 
+ 
+[B]17.25% profit 
+ 
+ 
+[C]18.25% profit 
+ 
+ 
+[D]18.75% loss 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+33. A flat worth ₹9,50,000 is sold by Lakshman to 
+Bharath at 8% profit. If Bharath sells it back to 
+Lakshman at 3% loss, then find the gain/loss 
+(in ₹) of Lakshman in the entire transaction?  
+₹9,50,000 मूल्य का एक फ्लैट लक्ष्मण द्िारा भरत को 
+8% लाभ पर बेचा जाता है। यदद भरत इसे 3% हातन पर 
+लक्ष्मण को िापस बेचता है, तो पूरे लेनदेन में लक्ष्मण का 
+लाभ/हातन (₹ में) ज्ञात करें? (SSC MTS 2024) 
+A) Lakshman gains ₹30,780  
+B) Lakshman gains ₹50,200  
+C) Lakshman gains ₹45,220  
+D) Laksman loses ₹45,220 
+ 
+34. A watch is sold at a profit of 25%. If both the 
+cost price and the selling price of the watch are 
+decreased by `75, then the profit would be 30%. 
+The original selling (in `) of the watch is: 
+,d ?kM+h dks 25% ykHk ij cspk x;kA ;fn ?kM+h ds Ø; ewY; vkSj foØ; 
+ewY;] nksuksa eas `75 dh deh dh tkrh gS] rks ykHk 30% çkIr gksrk gSA ?kM+h 
+dk ewy foØ; ewY; (` esa) Kkr dhft,A 
+(a)552. 60          (b)525.60 
+(c)526.50           (d)562.50 
+35. An article is sold at 5% loss. If its cost price is 
+decreased by Rs 20 and selling price is 
+increased by Rs 13, then profit of 10% is 
+earned on it. What is the original selling price 
+of the article? 
+एक िस्तु 5% हातन पर बेची जाती है। यदद इसका लागत 
+मूल्य 20 रुपये कम कर ददया जाए और विक्रय मूल्य 13 
+रुपये बढा ददया जाए, तो इस पर 10% का लाभ अजजडत होता 
+है। िस्तु का मूल विक्रय मूल्य क्या है? 
+A) Rs 266.66 
+B) Rs 221.66 
+C) Rs 283.33 
+D) Rs 250 
+36. The cost of 2.5 kg rice is Rs.125. The cost of 9 
+kg rice is equal to that of 4 kg pulses. The cost 
+of 14 kg pulses is equal to that of 1.5 kg tea. 
+The cost of 2 kg tea is equal to that of 5 kg 
+nuts. What is the cost of 11 kg nuts?    
+ (CDS 2016) 
+ढाई ककलो चािल की कीमत 125 रुपये है। 9 ककलो चािल 
+की कीमत 4 ककलो दाल के बराबर है। 14 ककलो दालों की 
+कीमत 1.5 ककलो चाय के बराबर है। 2 ककलो चाय की कीमत 
+5 ककलो नट के बराबर होती है। 11 ककलो नट की लागत 
+क्या है? 
+(a) Rs.2310 
+(b) Rs.3190 
+(c) Rs.4070 
+(d) Rs.4620 
+ 
+ 
+37. A dairy owner sells the paneer and claims to 
+gain 12% and he also mixes 15% impurities in 
+the paneer. Find the actual profit percentage 
+earned by the owner. 
+एक र्ेयरी माललक पनीर बेचता है और 12% ykHk हालसल 
+करने का दािा करता है और िह पनीर में 15% अशुद्धियों 
+को भी लमलाता है। उसके द्िारा अजजडत िास्तविक लाभ 
+प्रततशत का पता लगाएीं। 
+(a) 27% 
+ 
+(b) 22.5% 
+ 
+ 
+(c) 28.8% 
+ 
+(d) 32.8% 
+ 
+38. A milk vendor mixes water with milk and by 
+selling the mixture at the cost price he gains 
+16
+𝟏
+𝟒%. Find the ratio of milk to water in the 
+mixture? 
+एक दूि विक्रेता दूि में पानी लमलाता है और लमश्रण को 
+लागत मूल्य पर बेचकर उसे 16
+𝟏
+𝟒% का लाभ होता है। लमश्रण 
+में दूि और पानी का अनुपात ज्ञात कीजजये? ? (MTS 2023) 
+ 
+A) 7:40 
+B) 80:13 
+C) 13:80 
+D) 40:7 
+39. A milkman professes to sell his milk at cost 
+price but he mixes it with water and thereby 
+gains 40%. Find the percentage of water in the 
+mixture (rounded to one decimal place). 
+एक दूििाला दूि को लागत मूल्य पर बेचने का दािा करता 
+है ककींतु िह उसमें जल लमधश्रत करता है और इस प्रकार 40% 
+का लाभ प्राप्त करता है। लमश्रण में जल का प्रततशत ज्ञात 
+कीजजए (एक दशमलि स्थान तक पूणाांककत)। 
+(RPF CONSTABLE 2025) 
+A.28.6% 
+B.27% 
+C.27.5% 
+D. 28% 
+40. A milkman sells the milk at the cost price but 
+he mixes the water (freely available) in it and 
+thus he gains 7.69%. The quantity of water in 
+the mixture of 1L is? 
+एक िूधिया िूि में पानी ममलािा िै और ममश्रण को क्रय 
+मूल्य पर बेचकर 7.69% का लाभ कमािा िै 1ली ममश्रण में 
+पानी की मात्रा तया िोगी? 
+a)83.33ml         b)90.90ml         c)71.42ml          d)69.33ml 
+41. A milk vendor bought 28 L of milk at the rate 
+of Rs.8.50/L. After adding some water he sold 
+the mixture at the same price. If his gain is 
+12.5%, how much water did he add?     (CDS 
+2018) 
+एक दूि विक्रेता ने Rs 8.50/L की दर से 28 L दूि खरीदा। 
+कुछ पानी लमलाने के बाद उन्होंने लमश्रण को उसी कीमत पर 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+बेच ददया। यदद उसका लाभ 12.5% है, तो उसने ककतना 
+पानी र्ाला? 
+(a) 4.5 L 
+(b) 4 L 
+ 
+(c) 3.5 L 
+(d) 3 L 
+42. A milkman after mixing water to milk sells the 
+mixture at the CP of milk, if he gains a profit 
+of 27.5% then find the amount of water 
+received by a customer if he buys 102L of milk 
+(mixture)? 
+एक िूधिया िूि में पानी ममलािा िै और ममश्रण को क्रय 
+मूल्य पर बेचकर 27.5% का लाभ कमािा िै यहि कोई ग्रािक 
+102 ली िूि(ममधश्रि) खरीििा िै िो ज्ञाि कीक्जये उसे ककिना 
+पानी ममला? 
+a)22L   
+b)11L   
+c)28.5L   
+d)34L 
+43. A milkman mixed water into milk and marked 
+the adulterated milk 25% above of pure milk. 
+If he gains a profit of 37.5% then find the 
+amount of water in 17.6L of the mixture? 
+एक िूिवाले ने िूि में पानी ममलाकर उसका मूल्य शुद्ि दूि 
+के क्रय मूल्य से 25% बढ़ाकर अंककि ककया।यहि उसे 37.5% 
+का लाभ िुआ िो िो ज्ञाि कीक्जये िो ज्ञाि कीक्जये 17.6 ली 
+ममश्रण में ककिना पानी िोगा? 
+a)1.6L                    b)1.76L                
+c)2.2L                   d)1.1L 
+44. A dairy man pays Rs 6.4 per liter of milk. He 
+then adds water in the milk and sells the 
+mixture at Rs 8 per liter, thereby making a 
+37.5% profit. What is the proportion of water 
+to milk, in milk received by the customers? 
+एक र्ेयरी िाला प्रतत लीटर दूि के ललए 6.4 रुपये का भुगतान 
+करता है। कफर िह दूि में पानी लमलाता है और लमश्रण को 
+8 रुपये प्रतत लीटर की दर से बेचता है, जजससे 37.5% का 
+लाभ होता है। ग्राहकों को लमलने िाले दूि में , पानी और का 
+दूि अनुपात ककतना होता है?  
+(UP CONSTABLE RE -EXAM 2024) 
+A) 1:21 
+B) 1:10 
+C) 1:20 
+D) 1:15 
+45. A milkman pays Rs.48/L of milk. He adds water 
+and sells the mixer at Rs.66/L, thereby making 
+60% profit. The proportion of water to milk 
+received by the customer is? 
+एक दूधवाला दूध के ललए Rs.48/L का भुगतान करता है। वह 
+दूध में पानी लमलाता है और लमक्सर को Rs.66/L पर बेचता है, 
+लिससे वह 60% लाभ कमा रहा है। ग्राहक को लमलने वाले 
+पानी में दूध का अनुपात लकतना है? 
+(a) 13 : 66 
+ 
+(b) 11 : 45 
+(c) 7: 44 
+          (d) 9 : 55 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 

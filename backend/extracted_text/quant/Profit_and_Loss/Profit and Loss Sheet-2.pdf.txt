@@ -1,0 +1,604 @@
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+1. A vendor buys 20 laptop bags for Rs. 13,000 and sells 
+them at 15 for Rs. 10,125. How many laptop bags 
+should be bought and sold to earn a profit of Rs. 
+3,225? 
+एक विक्रेता ने Rs. 13,000 में 20 लैपटॉप बैग खरीदे और Rs. 10,125 
+में 15 लैपटॉप बैग बेचे। Rs. 3,225 का लाभ अर्जित करने के ललए 
+ककतने लैपटॉप बैग खरीदे और बेचे जाने चाहिए? 
+[SSC Selection Post (Phase-XII)] 
+[A]120 
+[B]129 
+ 
+[C]123 
+[D]127 
+2. Manjeet bought a second-hand motorbike for 
+`22,000 and spent `3,000 on its overhauling and 
+maintenance. He then sold it with 12% profit. It he 
+had sold it for `500 less, then what would have been 
+his profit percentage? 
+eathr us ,d lsdaM gSaM eksVjlkbfdy `22,000 esa [kjhnh vkSj bldh ejEer vkSj 
+vuqj{k.k ij `3,000 [kpZ fd,A fQj mlus bls 12% ykHk ij csp fn;kA ;fn og 
+bls `500 de esa csprk] rks mldk çfr'kr ykHk D;k gksrk\ 
+(a)10.5%    (b)10%        (c)5%       (d)8% 
+3. Ayush buys an old digital camera for ₹9,200 and 
+spends ₹1,200 on its repair. If Ayush sells the 
+digital camera for ₹12,000, what is his profit 
+percentage (correct up to two decimal places)? 
+आयुष ने ₹9,200 में एक पुराना डिर्जटल कैमरा खरीदा और उसकी 
+मरम्मत पर ₹1,200 खचि ककए। यहद आयुष डिर्जटल कैमरा 
+₹12,000 में बेचता िै, तो उसका लाभ प्रततशत क्या िै (दशमलि 
+के दो स्थानों तक सिी)?(DP CONSTABLE 2023) 
+ 
+A) 17.39% 
+B) 13.58% 
+C) 15.38% 
+D) 19.73% 
+4. A retailer buys 12 pairs of shoes for ₹22,400. His 
+overhead expenses are ₹1,600. If he earns ₹28,500 
+from the sale of these 12 pair of shoes, determine 
+his profit percentage. 
+एक खुदरा विक्रेता ₹22,400 में 12 जोड़ी जूते खरीदता िै। उसका 
+उपरर खचि ₹1,600 िै। यहद िि इन 12 जोड़ी जूतों की बबक्री से 
+₹28,500 अर्जित करता िै, तो उसका लाभ प्रततशत ज्ञात 
+कीर्जए।(SSC GD 2025) 
+1. 20% 
+2. 17.5% 
+3. 19.25% 
+4. 18.75% 
+5. 
+Arun buys an old car for ₹4,75,000 and spends ₹80,000 on its 
+repairs. If he sells the car for ₹5,85,000, find his gain percentage. 
+(Rounded up to two decimal places) 
+अरुण एक पुराऩी कार ₹4,75,000 में खरीदता िै और उसकी मरम्मत 
+पर ₹80,000 व्यय करता िै। यहद िि कार को ₹5,85,000 में बेचता 
+िै, तो उसका लाभ प्रततशत ज्ञात कीर्जए। (दशमलि के दो स्थानों 
+तक) 
+A.5.41% 
+B.30.25% 
+C.5.13% 
+D. 6.32% 
+6. A shopkeeper purchased an article for ₹7,200 and 
+spent 9% of its cost on repairs. He sold it to Rajan 
+for ₹8,100. What was the profit percentage on 
+selling the article? (Rounded off to 2 decimal 
+places) 
+एक दुकानदार ने ₹7,200 में एक िस्तु खरीदी और उसकी लागत 
+का 9% मरम्मत पर खचि ककया। उसने इसे राजन को ₹8,100 में 
+बेच हदया। िस्तु बेचने पर लाभ प्रततशत क्या था? (दो दशमलि 
+स्थानों तक पूणाांककत) 
+(SSC SELECTION POST XII MATRICULATION LEVEL) 
+A) 3.21% 
+B) 3.12% 
+C) 12.5% 
+D) 2.91% 
+7. Rajni purchased an LED TV set for `22,500 and spent 
+`800 
+on 
+its 
+transportation 
+and 
+`1,000 
+on 
+installation. At what price should she sell it so as to 
+earn an overall profit of 20%? 
+jtuh us `22,500 eas ,d LED Vhoh lsV [kjhnk] mlus blds ifjogu ij `800 
+vkSj bldks yxokus ij `1,000 O;; fd,A 20% dk lexz ykHk vftZr djus ds 
+fy, mls bldks fdl dher ij cspuk gksxk\ 
+ 
+(a) 
+`29,170 
+ 
+(b) 
+`29,160 
+ 
+(c) 
+`29,150 
+ 
+(d) 
+`29,180 
+8. A car dealer purchased a car for ₹ 1,08,500 and spent 
+some amount on its maintenance. He sold it for ₹ 
+1,56,250, thereby earning a profit of 25%. How 
+much money did he spend on the maintenance of 
+the car?  
+एक कार ि़ीलर ने ₹1,08,500 में एक पुराऩी कार खरीदी और उसकी 
+मरम् मत पर कुछ रालश खचि की। उसने इसे ₹1,56,250 में बेच दिया, 
+दिससे उसे 25% का लाभ हुआ। कार की मरम् मत पर उसने दकतना 
+धन खर्च दकया? 
+(A) ₹16,500 
+(B) ₹47,750 
+ 
+(C) ₹20,625 
+(D) ₹8,687.5 
+ 
+9. Sudha sold an article to Renu for 576 rupees at a 
+loss of 20%. Renu spent a sum of 224 rupees on its 
+transportation and sold it to Raghu at a price which 
+would have given Sudha a profit of 24%. The 
+percentage of gain for Renu is:- 
+सुधा ने रेनू को  एक िस्तु 20 % िातन पर 576 रूपये में बेच़ीीं।  रेनू 
+ने उसके पररििन पर 224 की रालश खचि की और इसे रघु को ऐस़ी 
+कीमत पर बेचा र्जससे सुधा को 24 % का लाभ प्राप्त िुआ िोता । 
+रेनू के ललए लाभ का प्रततशत ज्ञात कीर्जये? 
+a) 13.2%  
+b) 11.6%  
+ 
+c) 10.5%  
+d) 12.9% 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+10. A grocer mixes two varities of wheat and sells the 
+mixture at Rs 28 per kg to earn a profit of 25%. If 
+the cost price of the first variety is twice that of the 
+second, and he ahs mixed them in the ratio 2 : 3 , 
+then find the price per kg of the cheaper variety. 
+dksbZ fdjkuk cspusokyk nqdkunkj xsagw dh nks fdLeksa dks feykrk gS vkSj 25 प्रततशत 
+dk ykHk vftZr djus ds fy, feJ.k dks 28 : izfr fdxzk dh nj ls csap nsrk gSA 
+;fn xsagw dh igyh fdLe dk dz; ewY; ] nwljh fdLe ls nksxquk gS vkSj mlus bUgsa 2 
+% 3 ds vuqikr esa feyk;k gS rks lLrs fdLe ds xsagw dk izfr fdxzk ewY; Kkr djsaA 
+(A) 16       (B) 18           (C) 14      (D) 20 
+11. A shopkeeper sold two articles for 9639 each. On 
+one, he gained 19% and on the other, he lost 19%. 
+What is the overall percentage gain or loss? 
+एक दुकानदार ने  ने दो िस्तुओ में से प्रत्येक को  9639 रुपये में 
+बेचा | एक पर, उसने   19% लाभ  प्राप्त ककया और दूसरे पर, उसको 
+19%िातन िुई । कुल प्रततशत लाभ या िातन क्या िै? 
+(a) 3.81% loss 
+ 
+(b)3.61% gain 
+(c) 3.81% gain 
+ 
+(d) 3.61% loss 
+12. Two articles were sold for Rs.1200 each. First was 
+sold at 8.5% loss and second at 8.5% profit. Find 
+overall profit or loss %? 
+दो वस्तु में से प्रत्येक को 1200 रु में बेचा जाता है। पहके को 
+8.5% हानि तथा दूसरे को 8.5% लाभ पर बेचा जाता है। लाभ/हानि 
+% ज्ञात करे? 
+a) 0.7225%  
+ 
+b) 0.8125%  
+c) 0.6325%  
+ 
+d) 0.9025% 
+13. A house and a shop were sold for Rs.2 lacs each, in 
+this transaction, the house sale resulted into 10% 
+loss whereas the shop sale into 10% profit. The 
+entire transaction resulted in? 
+एक घर तथा एक दुकाि ,प्रत्येक को 2 लाख में बेचा गया । मकाि 
+पर 10% की हानि हुई तथा दुकाि पर 10% का लाभ हुआ, तो पूरे 
+सौदे का पररणाम क्या रहा? 
+a) No loss no gain  b) Loss of 5/66 lacs 
+c) Loss of 4/99 lacs  d) Loss of 5/88 lacs 
+14. Last year Mr. A bought two paintings. This year he 
+sold them for Rs.20,000 each. On one, he made a 
+25% profit and on the other he had a 25%loss, then 
+his net profit/loss %? 
+श्रीमाि A िे पपछले वर्ष दो पेंट िंग खरीदी । इस वर्ष उन्होंिे प्रत्येक 
+को 20000रु में बेच टदया एक पेंट िंग पर उन्हें 25% का लाभ तथा 
+दूसरे पेंट िंग पर उन्हें 25% की हानि हुई। तो कुल लाभ/हानि क्या 
+होगा? 
+a) He lost more than Rs.2700 
+b) He lost less than Rs.2700  
+c) He earned more than Rs.2900  
+d) He earned more than Rs.2500  
+15. A man sells two articles at ₹9,975 each. He gains 5% 
+on one article and loses 5% on the other. Find his 
+overall gain or loss.  
+एक व्यर्क्त ₹9,975 प्रतत िस्तु के मूल्य पर दो िस्तुएँ बेचता िै। 
+उसे एक िस्तु पर 5% का लाभ िोता िै और दूसरी पर 5% की िातन 
+िोत़ी िै। उसे िोने िाले कुल लाभ या िातन की गणना कीर्जए। 
+(a) Profit ₹ 60 
+ 
+(b) Loss ₹ 50 
+ 
+ 
+(c) Loss ₹ 60 
+ 
+(d) Profit ₹ 50 
+16. A man sells two cows for Rs.15,640 each, gaining 
+15% on one and losing 15% on the other. Find his 
+total gain or loss. 
+,d vkneh nks xk;ksa dks 15]640 #- izR;sd esa csprk gS] ,d ij 15% dk ykHk vkSj 
+nwljh ij 15% dh gkfu gksrh gSA mldk dqy ykHk ;k gkfu Kkr dhft,A 
+(a) 
+Rs.720 loss/gkfu 
+(b) 
+Rs. 360 loss/gkfu 
+(c) 
+Rs.720 gain/ykHk 
+(d) 
+Rs. 360 gain/ykHk 
+ 
+ 
+ 
+ (SSC CGL 2022) 
+17. Komal sold two devices, each for ₹4,982. If she 
+made 6% profit on the first and 6% loss on the 
+second, what is the total cost of both the devices? 
+कोमल ने दो डििाइस बेचे, प्रत्येक को ₹4,982 में बेचा। यहद उसे 
+पिले पर 6% लाभ और दूसरे पर 6% की िातन िुई, तो दोनों 
+उपकरणों की कुल लागत क्या िै? 
+ 
+(DP CONSTABLE 2023) 
+A) Rs 10000 
+B) Rs 11000 
+C) Rs 8000 
+D) Rs 9000 
+18. A person sold two items selling each for Rs 42600. 
+On the first item, e made a loss of 25%, while on the 
+second, he gained 20%. Find his overall percentage 
+gain or loss? ( correct to one decimal places) 
+एक व्यर्क्त ने दो िस्तुएीं बेच़ीीं, र्जनमें से प्रत्येक को 42600 रुपये 
+में बेचा गया। पिली िस्तु पर, उसे 25% की िातन िुई, जबकक दूसरी 
+पर, उसे 20% का लाभ िुआ। उसका कुल प्रततशत लाभ या िातन 
+ज्ञात कीर्जये? (दशमलि के एक अींक तक सिी) 
+ (CHSL 2023 PRE) 
+A) 7.7% gain 
+B) 7.7% loss 
+C) 8.3% loss 
+D) 8.2% loss 
+19. Two articles are sold for rupees 10,005 each. On one, 
+the seller gains 15% and on the other, he loses 13%. 
+What is his overall gain or loss percent, correct to 
+two decimal places? 
+nks oLrqvksa esa ls izR;sd dks 10]005 ds ewY; ij cspk tkrk gSA muesa ls ,d oLrq ij 
+fodzsrk dks 15a%  ykHk gksrk gS vkSj nwljh oLrq ij 13% dh gkfu gksrh gSA fodzsrk dks 
+dqy feykdj fdrus izfr’kr ykHk vFkok gkfu gqbZ\ 
+(a) 1.42% gain 
+ 
+(b) 1.42% loss 
+(c) 0.94% loss 
+ 
+(d) 0.94% gain 
+20. A shopkeeper sold two articles for `10591 each. On 
+one he gained 19% and on the other he lost 11%. 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+What was his overall gain or loss percent (correct to 
+one decimal place)? 
+,d nqdkunkj us nks oLrqvksa eas ls çR;sd dks `10591 eas cspkA mls ,d oLrq ij 
+19% ykHk vkSj nwljh oLrq ij 11% gkfu gqbZA mldk lEiw.kZ çfr'kr ykHk ;k 
+çfr'kr gkfu ¼,d n'keyo LFkku rd½ Kkr djsaA 
+(a)Loss/gkfu 2.7%      (b)Loss/gkfu 10% 
+(c)Profit/ykHk 5%      (d)Profit/ykHk 1.8% 
+21. Two articles are sold for rupees 10,384 each, the 
+seller gains 18% on one and on the other, he loss 
+12%. What is his overall gain or loss? 
+nks oLrqvks esa ls izR;sd dks 10]384  
+dh dher ij cspk tkrk gSA muesa ls ,d oLrq ij fodzsrk dks 18% ykHk gksrk gS 
+vkSj nwljh oLrq ij 12% dh gkfu gksrh gSA fodszrk dks dqy feykdj fdrus #i;s 
+dk ykHk vFkok gkfu gqbZ\ 
+(a) Rs 178 loss 
+ 
+             (b) Rs 178 gain 
+(c) Rs 168 gain  
+                           (d) Rs 168 loss 
+ 
+22. The first shirt is sold at twice the selling price of the 
+second shirt. The first shirt is sold at 8% profit and 
+the second shirt is sold at a 3% loss. What is the 
+overall percentage profit on the shirts (Rounded off 
+to two decimal place)? 
+           पहली कमी को िूसरी कमीि के दिक्रय मूल्य के िोगुने पर बेर्ा िाता 
+है। पहली कमीि को 8% लाभ पर, और िूसरी कमीि को 3% हादन 
+पर बेर्ा िाता है। कमीिोों पर कुल प्रदतशत लाभ दकतना है (िो 
+िशमलि स्थान तक पूर्ाांदकत) ? SSC CPO  2023  
+(a) 4.60% 
+(b) 4.07%  
+(c) 3.86%    
+ (d) 4.86% 
+23. A shopkeeper sold 3 wristwatches for Rs. 2,800 
+each. If he has sold the watches with 40%, 25% and 
+12% profit, respectively, then find his overall profit 
+percentage (correct to 2 decimal places).  
+ 
+एक दुकानदार ने Rs. 2,800 प्रत्येक घड़ी के हिसाब से 3 कलाई घडडयाँ 
+बेच़ी। यहद उसने ये घडडयाँ क्रमशः 40%, 25% और 12% लाभ पर 
+बेच़ी िैं] तो उसका कुल लाभ प्रततशत ज्ञात करें (दशमलि के बाद दो 
+स्थानों तक गणना करें)।       SSC CPO  2024  
+ 
+[A]0.2419 [B]   0.2463 
+ 
+ 
+[C]0.2455 [D] 0.2475 
+24. X sold two cars at the same price, one of them at 
+10% profit. X incurred a total loss of 12% in the 
+overall transaction. What was the approximate% of 
+profit/loss incurred on the other car? 
+X िे दो कारें समाि कीमत पर बेचीिं, उिमें से एक 10% लाभ पर। X 
+को कुल लेिदेि में कुल 12% की हानि हुई। दूसरी कार पर हुए 
+लाभ/हानि का लगभग% ककतिा था? 
+A) 25% loss 
+B) 26.66 % loss 
+C) 23.33% loss 
+D) 24.16% loss 
+25. Shashi sells two articles for ₹ 5,000 each with no loss 
+and no profit in the overall transaction. If one article 
+is sold at 16
+𝟐
+𝟑% loss, then the other is sold at a profit 
+of: 
+शलश, ₹5,000 की दर से दो िस्तुएँ बेचता िै, पूरे लेन-देन में ना तो 
+िातन िोत़ी िै और ना िी लाभ िोता िै। यहद एक िस्तु 16
+𝟐
+𝟑% की 
+िातन पर बेच़ी गई, तो दूसरी िस्तु ककतने लाभ पर बेच़ी गई? 
+(a) 24%  
+(b) 25%  
+(c) 16
+𝟐
+𝟑%         (d) 18
+𝟏
+𝟑 
+26. A man sells three articles X, Y and Z for Rs.2520 
+each. He sells article X at 30% loss, article Y at 
+36.36% profit if there is no profit nor loss in whole 
+transaction. Find the CP of article Z? 
+एक व्यर्क्त त़ीन िस्तुओ X,Y और Z को 2520 रु में बेचता 
+िै।िि िस्तु X को 30% िातन और िस्तु Y को 36.36% लाभपर 
+बेचता िै यहद पूरे लेनदेन में सेना तो लाभ और न िी िातन िो तो 
+िस्तु Z का क्रय मूल्य ज्ञात करे। 
+a) Rs.2288 
+    b) Rs.1408  
+c) Rs.2232                d) Rs.2112 
+27. Samreen sells a keyboard for ₹1,260 at a profit of 
+25%, and another keyboard for ₹1,440 at a loss of 
+10%. What is her total gain or loss percentage? 
+समरीन एक कीबोिि को 25% के लाभ पर ₹1,260 में और दूसरे 
+कीबोिि को 10% के नुकसान पर ₹1,440 में बेचत़ी िै। उसका कुल 
+लाभ या िातन प्रततशत क्या िै? 
+(SSC CGL 2024 Pre) 
+A) 
+3
+𝟖𝟔
+𝟏𝟑𝟑% 𝑳𝒐𝒔𝒔 
+B) 
+3
+𝟏𝟏
+𝟐𝟕% 𝑮𝒂𝒊𝒏 
+C) 
+3
+𝟏𝟏
+𝟐𝟕% 𝒍𝒐𝒔𝒔 
+D) 3
+𝟖𝟔
+𝟏𝟔𝟑% 𝒈𝒂𝒊𝒏 
+28. Seema bought a mobile and loptop at a certain price, She sold 
+Seema bought a mobile and laptop at a certain price. She sold the 
+mobile at 10% gain and laptop at 25% gain. 
+सीमा ने एक ननश्चित मूल्य पर एक मोबाइल और लैपटॉप खरीदा। 
+उसने मोबाइल को 10% के लाभ पर और लैपटॉप को 25% के लाभ 
+पर बेिा। उसने पाया कक मोबाइल का क्रय मूल्य, लैपटॉप के विक्रय 
+मूल्य के बराबर है। उसका लाभ प्रनतशत ज्ञात कीश्िए। 
+a. 
+ 
+b. 
+ 
+c. 
+ 
+d. 
+ 
+ 
+29. A shopkeeper buys oranges at the rate of 10 oranges 
+for ₹50 and sells them at the rate of 12 oranges for 
+₹74. Find his gain or loss percentage. 
+एक दुकानदार ₹50 में 10 सींतरे की दर से खरीदता िै और उन्िें 
+₹74 में 12 सींतरे की दर से बेचता िै। उसका लाभ या िातन प्रततशत 
+ज्ञात कीर्जये। 
+SSC CPO 2024 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+A) 23
+𝟏
+𝟑% gain 
+B) 25% gain 
+C) 30% loss 
+D) 25
+𝟏
+𝟑% loss 
+30. If Naman had purchased 25 articles for Rs 22 and 
+sold all the articles at the rate of 22 for Rs 25, then 
+find his approximate profit percentage. 
+यहद नमन ने 22 रुपये में 25 िस्तुएँ की दर से खरीदीीं और सभ़ी 
+िस्तुएँ 25 रुपये में 22 की दर से बेच दीीं, तो उसका अनुमातनत 
+लाभ प्रततशत ज्ञात कीर्जए। 
+( IB ACIO GRADE-2 2023) 
+A) 21.5% 
+B) 20.5% 
+C) 29.1% 
+D) 30.2% 
+31. An egg seller buys eggs at 9 for Rs 20, and sells them 
+at 11 for Rs 28. Find his profit or loss percentage? 
+एक अींिा विक्रेता 20 रुपये में 9 अींिे खरीदता िै और उन्िें 28 रुपये 
+में 11 में बेचता िै। उसका लाभ या िातन प्रततशत ज्ञात करें? 
+A) 13.15% 
+B) 12.24% 
+C) 15.08% 
+D) 14.55% 
+32. A merchant buys ‘a’ number of goods for Rs.b and 
+sells ‘b’ number of goods for Rs.a. If b<a, then in the 
+whole outlay, he makes: 
+,d O;kikjh #-b esa 'a' la[;k esa eky [kjhnrk gS vkSj #-a esa 'b' la[;k esa eky 
+csprk gSA ;fn b<a gS] rks iwjs ifjO;; esa] mls ---------------------A 
+(a) 100 
+(𝒂𝟐−𝒃²)
+𝒃²
+% gain/ykHk 
+(b)100 
+(𝒂𝟐−𝒃²)
+𝒃²
+%loss/gkfu 
+(c) 100 
+(𝒃𝟐−𝒂²)
+𝒃²
+%loss/gkfu 
+(d) 100 
+(𝒃𝟐−𝒂²)
+𝒃²
+%gain/ykHk 
+33. A vendor buys 20 pens for Rs. 15 and sells them at 
+15 for Rs. 20. How many pens should be bought and 
+sold to earn a profit of Rs. 245? 
+ 
+एक विक्रेता Rs. 15 में 20 पेन खरीदता िै और उन्िें Rs. 20 में 15 के 
+हिसाब से बेचता िै। Rs. 245 का लाभ कमाने के ललए ककतने पेन 
+खरीदे और बेचे जाने चाहिए? 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A]320 
+[B]280           [C]420      [D]540 
+34. Some fruits are bought at a rate of 11 for 100 rupees 
+and an equal number at a rate of 9 for 100 rupees. If 
+all the fruits are sold at a rate of 10 for 100 rupees, 
+then what is the gain or loss percent in the entire 
+transaction? 
+dqN Qyksa dks 100 #i;s esa 11 dh nj ls vkSj mrus gh Qy 100 #i;sa esa 9 
+dh nj ls [kjhns tkrs gSA ;fn lHkh Qyksa dks 100 #i;s esa 10 dh nj ls 
+cspk tkrk gS] rks iqjs ysunsu esa ykHk ;k gkfu izfr’kr D;k gS\ 
+(a) Gain, 5% 
+ 
+(b) Loss, 5% 
+ 
+(c) Gain, 1% 
+ 
+(d) Loss, 1% 
+35. Some fruits are bought at 15 for `140 and an equal 
+number of fruits at 10 for `120. If all the fruits are 
+sold at `132 per dozen, then what is the profit 
+percent in the entire transaction? 
+`140 esa 15 dh nj ls dqN Qy [kjhns x, vkSj mrus gh Qy `120 esa 10 dh nj 
+ls [kjhns x,A ;fn lHkh Qyksa dks `132 çfr ntZu dh nj ls cspk tk,a] rks iwj 
+ysunsu esa ykHk dk izfr'kr Kkr djsaA 
+(a) 
+3
+𝟏
+𝟖 
+(b) 
+4
+𝟏
+𝟐 
+(c) 
+3 
+(d) 
+2
+𝟏
+𝟒 
+36. The costs of two watches were in the ratio 16:23. 
+The cost of first watch increases by 10% and that of 
+second by Rs.477. Now the costs of two watches are 
+in the ratio of 11: 20. The price of the second watch 
+in the beginning was? 
+nks ?kfM+;ksa ds Ø; ewY; dk vuqikr 16:23 gSA igys ?kM+h ds Ø; ewY; dks 10% 
+vkSj nwljs ?kM+h dks 477 :- ls c<+k;k x;kA vc nksuksa ?kfM+;ksa ds ewY; dk vuqikr 
+11:20 gSA izkjEHk esa nwljh ?kM+h dk D;k ewY; Fkk\ 
+(a)Rs.932                (b) Rs.1219 
+ 
+(c) Rs.1696 
+ 
+(d) Rs.848  
+37. A person buys 15 tables and 26 chairs for 25,700. He 
+sells the tables at 12% profit and chairs at 19% 
+profit. If his total profit on selling all the tables and 
+chairs is 4358 rupees. What is the cost price of 5 
+chairs and 4 tables? 
+एक व् यर्क्त 15 मेज और 26 कुलसियॉ रू. 25,700 में खरीदता िै। 
+िि 12 प्रततशत लाभ पर मेजों को बेचता िै और 19 प्रततशत लाभ 
+पर कुलसियों को बेचता िै। यहद सभ़ी मेजों और कुलसियों को बेचने पर 
+उसका कुल लाभ रू. 4358 िोता िै, तो 5 कुलसियों और 4 मेजों का 
+क्रय-मूल् य क् या िै?  
+(a) 5700            (b) 5000          
+(c) 4800            (d) 5500 
+38. A shopkeeper sells a product at some loss. If he 
+reduces the selling price of the product by 5 percent, 
+his loss increases by 4 percent. At what loss percent 
+he sells his product? 
+,d nqdkunkj dqN uqdlku ij ,d mRikn csprk gSA ;fn og mRikn ds fodz; ewY; 
+esa 5 प्रततशत dh deh djrk gS rks mldk uqdlku 4 प्रततशत c< tkrk gSA fdl 
+uqdlku ij og viuk mRikn csprk gS \ 
+(A) 40%       
+   
+(B) 35 
+ 
+ 
+(C) 55.55% 
+          (D) 63.63% 
+ 
+39. If the selling price is tripled, the profit goes up to 5 
+times. Find the profit. 
+यदि दबक्री मूल्य तीन गुना दकया िाये, तो लाभ 5 गुना हो िाता है। 
+लाभ ज्ञात करें।  
+UP Constable 27/01/2019  (1st Shift) 
+(a) 80%   
+(b) 100%   
+(c) 125%   
+(d) 150% 
+ 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+40. If SP becomes 5 times, the profit increases by 700%. 
+Find the initial profit %. 
+vxj foØ; ewY; dh dher ikap xquk gks tkrh gS] ykHk 700% c<+ tkrk gS rks 
+izkjafHkd ykHk % Kkr djsA 
+(a)125% 
+ 
+(b) 133.33% 
+(c)75%  
+ 
+(d) 150% 
+ 
+41. If SP becomes half, the loss becomes 3 times, the 
+find the loss %. 
+vxj foØ; ewY; vkèkk gks tkrk gS] gkfu rhu xquk gks tkrh gS rks izkjfEHkd gkfu % 
+Kkr djsA 
+(a) 
+20% 
+ (b)12.5%  (c) 15%  (d) 25% 
+ 
+42. SP of a pen is Rs171. If profit % made on article is 
+same as CP of article then find CP? 
+एक कलम का विक्रय मूल्य 171 रु िै। यहद उसका क्रय मूल्य तथा 
+% लाभ का सींख्यात्मक मान समान िो तो क्रय मूल्य क्या िै?  
+a) 75      b) 95      c) 90      d) 70 
+43. A wrist watch is sold for Rs.1,200 at a profit per cent 
+equal to its cost price. Find the cost price of the 
+wrist watch. 
+,d dykbZ ?kM+h dks mlds Ø; ewY; ds cjkcj ykHk çfr'kr ij #- 1]200 esa cspk 
+tkrk gSA dykbZ ?kM+h dk Ø; ewY; Kkr djsaA 
+(a) Rs. 400     (b)Rs. 250  
+(c) Rs. 350     (d) Rs. 300 
+44. By selling an article for `131.25, a trader gains as 
+much percent as the number representing the cost 
+price of the article. In order to earn 40% profit, at 
+what price (in `) should he sell the article? 
+fdlh oLrq dks `131.25 eas cspdj] ,d O;kikjh dks oLrq ds Ø; ewY; ds vadksa ds 
+cjkcj çfr'kr eas ykHk gksrk gSA 40% ykHk çkIr djus ds fy,] mls oLrq dks fdl 
+ewY; ij ¼` eas½ cspuk pkfg,\ 
+(a) 
+100 
+(b) 
+140 
+(c) 
+105 
+(d) 
+75 
+ 
+45. SP of a pen is Rs24. If value of its CP and loss% is equal 
+then 
+find 
+its 
+CP? 
+एक कलम का विक्रय मूल्य 24 रु िै। यहद उसका क्रय मूल्य तथा % 
+लाभ का सींख्यात्मक मान समान िो तो क्रय मूल्य क्या िै?  
+a) Rs30 or 70          b) Rs80 or 20  
+c) Rs60 or 40          d) Rs90 or 10 
+ 

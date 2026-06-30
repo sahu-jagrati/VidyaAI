@@ -1,0 +1,383 @@
+ 
+ 
+BY:-GAGAN PRATAP 
+ 
+1. Geeta runs 5/2 times as fast as Babita. In a race, if Geeta gives a lead of 40 m 
+to Babita, find the distance from the starting point where both of them will 
+meet (correct up to two decimal places). 
+गीता, बबीता से 5/2 गुना तेज दौड़ती है। एक दौड़ में, यदद गीता बबीता को 40 मीटर की बढ़त देती 
+है, तो शुरुआती दबिंदु से वह दूरी ज्ञात कीदजए जहािं दोनोिं दमलेंगे (दो दशमलव स्थानोिं तक सही)। SSC 
+CHSL 2022 PRE 
+ 
+A) 66.67 m 
+B) 65 m 
+C) 65.33 m 
+D) 66 m 
+2.  Ashok runs 𝟐
+𝟐
+𝟑 times as fast as Bharat. If Ashok gives Bharat a head start of 
+160m, then how far must the winning post be so that Ashok and Bharat can 
+reach it at the same time? 
+अशोक, भरत से 2
+𝟐
+𝟑 गुना तेज दौड़ता है। यदद अशोक, भरत को 160m की प्रारंदभक बढ़त देता है, तो 
+लक्ष्य स्तंभ दकतना दूर होना चादहए, तादक अशोक और भरत एक ही समय में उस तक पहंच सकें? 
+(a) 225 m    
+(b) 256m 
+(c) 240m 
+(d) 200m 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+3. A runs 40% faster than B and is able to allow B a lead of 48 meters to end a race 
+in dead heat. What is the length of the race? 
+A, B से 40% तेज दौड़ता है और एक ही समय पर दौड़ समाप्त करने के लिए B को 48 मीटर की बढ़त देने में सक्षम है। दौड़ की िंबाई 
+लकतनी है? (SSC GD 2022) 
+a)168m        b)204m          c)210m             d)147m 
+4. A’s speed is 30% more than that of B. If A and B run a race on a 117 m length race, what part of 
+the length of the race should A give B as a head start, so that the race ends in a dead heat? 
+A dh pky B dh pky ls 30% vf/kd gSA ;fn A vkSj B, 17 m yach nkSM+ esa nkSM+ yxkrs gSa] rks A dks nkSM+ dh yackbZ dk 
+fdruk Hkkx B dks 'kq#vkrh c<+r ds :i esa nsuk pkfg,] rkfd nkSM+ cjkcjh ij lekIr gks lds\ 
+(a) 
+90 m 
+(b) 
+26 m 
+(c) 
+27 m 
+(d) 
+36 m 
+5. A takes 3 minutes 40 second while B takes 4 minutes to complete a race. A 
+beats B by 60 metres in the race if both start simultaneously from the starting 
+point. Find the length of the course. 
+एक रेस को पूरा करने में B को 4 ममनट लगते हैं जबकक A को 3 ममनट 40 सेकंड लगते हैं।A ,B 
+को दौड़ में 60 मीटर की दूरी  से हराता  है यदद दोनों प्रारंमिक बबंदु से एक साथ शुरू होते हैं। दौड़ 
+की लंबाई ज्ञात कीजजए। 
+(a) 600 metres                      
+(b) 660 metres 
+(c) 720 metres  
+(d) 900 metres 
+ 
+ 
+BY:-GAGAN PRATAP 
+6. In a 1170 m race, Raman reaches the final point in 65 seconds and Mohan 
+reaches the final point in 90 seconds. By how much distance does Raman beat 
+Mohan? 
+1170 eh dh nkSM+ esa] jeu 65 lsdaM ls vafre fcanq ij igqaprk gS vkSj eksgu 90 lsdaM esa vafre fcanq ij igqaprk gSA jeu] eksgu 
+dks fdruh nwjh ls gjkrk gS\ 
+(a) 325 m        (b) 300 m               (c) 375 m            (d) 350 m  
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+ 
+7. In a 1200 m race, the ratio of the speeds of two contestants Meenal and Nitu is 5 : 7. If Meenal 
+has a start of 500 m, then Meenal wins by: 
+1200 m nkSM+ esa] nks çfr;ksfx;ksa ehuy vkSj uhrw dh pkyksa dk vuqikr 5 : 7 gSA ;fn ehuy 500 m vkxs ls nkSM+uk 'kq: 
+djrh gS] rks ehuy fdrus m ls thrsxh\   
+SSC CHSL 2022 PRE 
+(a)220 m            (b)240 m 
+(c)250 m             (d)225 m 
+8. In a 120 m race, P beats S by 6 meters. If S starts with a head start of 7.5 
+meters and it is a 100 meter race, then who wins the race and how many 
+meters? 
+120 मीटर की दौड़ में, P, S को 6 मीटर से हरा देता है। यदद S 7.5 मीटर की बढ़त के साथ शुरू करता 
+है और यह 100 मीटर की दौड़ है, तो दौड़ कौन जीतता है और ककतने मीटर से दौड़ जीतता है?  
+(CHSL 2023 PRE) 
+A) S, 2.63 
+B) P, 3.63 
+C) S, 3.63 
+D) P, .63 
+ 
+ 
+9. In a linear race of 500 m, A can beat B by 50 m and in a race of 600 m, B can 
+beat C by 60 m. by how many meters will A beat C in a race of 400 m? 
+500 मीटर की रैखिक दौड़ में A, B को 50 मीटर से हरा सकता है और 600 मीटर की दौड़ में B, 
+C को 60 मीटर से हरा सकता है। 400 मीटर की दौड़ में A, C को ककतने मीटर से हराएगा? 
+ SSC CGL 2023 PRE 
+A) 70 
+B) 68 
+C) 76 
+D) 72 
+10. 
+In a 1500 m race, Anil beats Bakul by 150 m and in the same race Bakul 
+beats Charles by 75 m. by what distance does Anil beat Charles? 
+1500 मीटर की दौड़ में अननल ने बकुल को 150 मीटर से हराया और उसी दौड़ में बकुल ने चार्लसस 
+को 75 मीटर से हराया। अननल ने चार्लसस को ककतनी दूरी से हराया? SSC CGL 2021 PRE 
+A) 217.50 m 
+B) 200.15 m 
+C) 293.50 m 
+D) 313.75 m 
+ 
+ 
+BY:-GAGAN PRATAP 
+11. In a linear race of 1000 m, Prakash beats Ved by 280 m, while Ved beats Rahul 
+by 100 m. By how many metres does Prakash beat Rahul, in the same race? 
+1000 m dh ,d jSf[kd nkSM+ esa] izdk”k us osn dks 280 m ls gjk;k] tcfd osn us jkgqy dks 100 m ls 
+gjk;kA blh nkSM+ esa izdk”k us jkgqy dks fdrus ehVj ls gjk;k\ 
+SELECTION POST 2022 
+(a) 346 
+(b) 350 
+(c) 352 
+(d) 348 
+ 
+12. 
+In a 1500 m race, X bets Y by 100 m and X beat Z by 240 m. By what 
+distance does Y beat Z in the same race? 
+1500 eh dh jsl esa] X, Y dks 100 eh ls vkSj Z dks 240 ehVj ls gjkrk gSA mlh jsl esa Y, Z dks fdruh nwjh ls gjk;sxk\ 
+SSC CGL 2023 PRE 
+(a) 160 m         (b) 140 m 
+(c)  150 m 
+(d)  200 m 
+ 
+ 
+13. In 1000m race , Anushka gives a start of 100m to kareena and beat her by 200m. In same race 
+Anushka gives a start of 100m to deepika and beats her by 300m. By how many metres would 
+kareena beat deepika in a 50m race? 
+1000 मीटर की दौड़ में, अनुष्का ने करीना को 100 मीटर की शुरुआत दी और उन्हें 200 मीटर से हराया। 
+उसी दौड़ में अनुष्का दीपपका को 100 मीटर की शुरुआत देती हैं और उन्हें 300 मीटर तक हरा देती हैं। 
+50 मीटर की दौड़ में करीना ने दीपपका  को ककतने मीटर से हराएगी?   (IBPS CLERK 2021) 
+a) 6.66M 
+b) 8M 
+c) 7.14M 
+d) NONE 
+14. In a race of 500 meters, Q can give a head start of 50 meters to P and R can give a head start of 
+100 meters to Q to complete the race at the same time. Find the head start that R can give to P 
+to complete this race at the same time. 
+500 ehVj dh ,d nkSM+ esa] nkSM+ dks leku le; esa iwjk djus ds fy,] Q, P dks 50 ehVj dh çkjafHkd 
+'kq#vkr ¼gSM LVkVZ½ nsrk gS vkSj R, Q dks 100 ehVj dh izkjafHkd 'kq#vkr nsrk gSA mlh nkSM+ dks ,d gh 
+le; ij iwjk djus ds fy, R, P dks tks izkjafHkd 'kq#vkr ns ldrk gS] og --------------- gSA(SSC GD 
+2022) 
+ 
+(a) 
+260 metres 
+(b) 
+160 metres 
+(c) 
+140 metres 
+(d) 
+240 metres 
+15. Three runners Aman, Ramesh and Naresh run a race, with Aman finishing 48 metres ahead of 
+Ramesh and 68 metres ahead of Naresh. In another race of same length, Ramesh finishes 25 
+metres ahead of Naresh. Each runner travels the entire distance at a constant speed. Find the 
+length of the race.  
+ 
+ 
+BY:-GAGAN PRATAP 
+rhu /kkod veu] jes'k vkSj ujs'k ,d nkSM+ yxkrs gSa] ftlesa veu jes'k ls 48 ehVj vkxs jgdj vkSj ujs'k 
+ls 68 ehVj vkxs jgdj nkSM+ iwjh djrk gSA blh yackbZ dh ,d vU; nkSM+ esa] jes'k] ujs'k ls 25 ehVj vkxs 
+jgdj nkSM+ iwjh djrk gSA çR;sd /kkod iwjh nwjh dks fLFkj pky ls r; djrk gSA nkSM+ dh yackbZ Kkr djsaA   
+(SSC GD 2022) 
+ 
+(a) 
+240 metres 
+(b) 
+242 metres 
+(c) 
+244 metres 
+(d) 
+248 metres 
+16. 
+In a car race, car A beats car B by 45 km, car B beats car C by 50 km and 
+car A beats car C by 90 km. The distance over which the race has been conduct 
+is? 
+एककाररेसमेंकारA कारB को45 ककमीसेहरातीहै, कारBकार C को50  ककमीसेहरातीहैऔरकारAकारC 
+को90 ककमीसेहरातीहै।जजसदूरीपरदौड़आयोजजतकीगईहैवहदूरीहै 
+ 
+(A) 475 
+ 
+(B) 500 
+ 
+(C) 450               D)480 
+17. In a race of 1000 m, John beats Khan by 120 m. If the speed of John is 40 km/h, then the speed 
+of Khan is:    
+1000 m dh nkSM+ esa] tkWu us [kku dks 120 m ls gjk;kA ;fn tkWu dh pky 40 km/h gS] rks [kku dh pky D;k gksxh\. 
+SSC CHSL 2023 PRE 
+(a) 
+28.5 km/h 
+(b) 
+38.7 km/h 
+ 
+(c) 
+27 km/h 
+(d) 
+35.2 km/h 
+18. 
+In a 5 km race, S gave a 500 m head start to T. If they finished the race 
+at the same time and the speed of T is 13.5 km/, the speed of S is? 
+5 ककमी की दौड़ में, S ने T को 500 मीटर की बढ़त दी। यदद उन्होंने एक ही समय में दौड़ पूरी की 
+और T की गनत 13.5 ककमी/है, तो S की गनत क्या है? (CHSL 2023 PRE) 
+A) 15 km/h 
+B) 20 km/h 
+C) 17.5 km/h 
+D) 16.5 km/h 
+19. 
+A and B take part in 100 m race. A runs at 5 km/h. a gives B a start of 8 
+m and still beats him by 8 seconds. The speed of B is? 
+A और B 100 मीटर दौड़ में िाग लेते हैं। A 5 ककमी/घंटा की गनत से दौड़ता है। A, B को 8 मीटर की 
+शुरुआत देता है और किर िी उसे 8 सेकंड से हरा देता है। B की गनत है? SSC CGL 2022 PRE 
+A) 5.15 km/h 
+B) 4.14 km/h 
+C) 4.25 km/h 
+D) 4.4 km/h 
+ 
+ 
+BY:-GAGAN PRATAP 
+20. 
+In a 400 m race, A runs at a speed of 16 m/sec. if A gives B a start of 15 
+meters and still beats him by 10 sec, then what is the speed of B? 
+400 मीटर की दौड़ में, A 16 मीटर/सेकंड की गनत से दौड़ता है। यदद A, B को 15 मीटर की शुरुआत 
+देता है और किर िी उसे 10 सेकंड से हरा देता है, तो B की गनत क्या है? SSC CHSL 2022 PRE 
+A) 11 m/s 
+B) 10 m/s 
+C) 13 m/s 
+D) 9 m/s 
+21. 
+In a linear race of 1000 m, A beats B by 50 m or 5 seconds. What is the 
+difference between the speeds (in m/sec) of A and B? 
+1000 मीटर की सीधी रेस में A, B को 50 मीटर या 5 सेकंड से हरा देता है। A और B की गनत 
+(मीटर/सेकंड में) के बीच ककतना अंतर है?  SSC CGL 2022 PRE 
+A) 1
+𝟏𝟎
+𝟏𝟗 
+B) 10/19 
+C) 9/10 
+D) 9/19 
+22. 
+In a 1200 m race, bike A beats bike B by 100 m. bike B beats bike C by 
+100 m in a 600 m race. If bike A beats bike C by 30 sec in a 720 m race, then 
+what is the speed of bike C? 
+1200 मीटर की दौड़ में, बाइक A बाइक B को 100 मीटर से हरा देती है। बाइक B ने 600 मीटर की 
+दौड़ में बाइक C को 100 मीटर से हरा ददया। यदद बाइक A, बाइक C को 720 मीटर की दौड़ में 30 
+सेकंड से हरा देती है, तो बाइक C की गनत क्या है? SSC CGL 2022 PRE 
+A) 
+𝟏𝟕
+𝟑 m/sec 
+B) 
+𝟐𝟔
+𝟗𝒎/𝒔𝒆𝒄 
+C) 
+𝟏𝟕
+𝟗 m/sec 
+D) 
+𝟐𝟔
+𝟑 m/sec 
+23. 
+In 1 km linear race, P beats Q by 120 metres or 30 sec. What is the time 
+taken by P to cover the race? 
+1 दकमी की सीधी दौड़ में, P, Q को 120 मीटर या 30 सेकंड से हरा देता है। P को दौड़ पूरी करने में 
+दकतना समय दलया जाता है? 
+1. 220 sec 
+2. 250 sec 
+3. 235 sec 
+4. 240 sec 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+24. 
+A gives B a head start of 10 seconds in a 1500 m race and both finish the 
+race at the same time. What is the time taken by A ( in minutes) to finish the 
+race if speed of B is 6 m/s? 
+A, B को 1500 मीटर की दौड़ में 10 सेकिंड की शुरुआत देता है और दोनोिं एक ही समय में दौड़ पूरी 
+करते हैं। यदद B की गदत 6 मीटर/सेकेंड है, तो A द्वारा दौड़ पूरी करने में दकतना समय (दमनटोिं में) दलया 
+गया है? 
+A) 3 
+B) 4 
+ 
+ 
+BY:-GAGAN PRATAP 
+C) 5 
+D) 8 
+25. 
+In a 1 km race A beats B by 30 seconds and B beats C by 15 seconds. If A 
+beats C by 180 m, find the time taken by A to run 1 km? 
+1 लकमी की दौड़ में A, B को 30 सेकंड से और B, C को 15 सेकंड से हरा देता है। यलद A, C को 180 मीटर से हरा देता है, 
+तो A को 1 लकमी चिने में लकतना समय िगेगा? 
+A) 200 s 
+B) 195 s 
+C) 205 s 
+D) 210 s 
+26. 
+In a 200-m linear race, if A gives B a start of 25 m, then A wins the race by 
+10 seconds. Alternatively, if A gives B a start of 45 m, the race ends in a dead 
+heat. How long does A take to run 200m? 
+200m की रैखिक दौड़ में, यदद A, B को 25m का स्टाटट (शुरुआती लाभ) देता है, तो A दौड़ को 10 
+सेकंड से जीत जाता है। वैकखिक रूप से, यदद A, B को 45 m का स्टाटट (शुरुआती लाभ) देता है, तो 
+दौड़ डेड हीट (बराबरी) में समाप्त हो जाती है। A को 200 m दौड़ने में दकतना समय लगता है? 
+(a) 78 seconds  (b) 77 seconds 
+  (c)  78.5 seconds (d) 77.5 seconds 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+27. 
+In a 1500 m race, if vehicle P gives vehicle Q a start of 200 m, then 
+vehicle P wins the race by 8 second. Alternatively, if vehicle P gives vehicle Q 
+start of 400 m, the race ends in a dead heat. How long does vehicle P take to 
+run 1500 m? 
+1500 मीटर की दौड़ में, यदद वाहन P, वाहन Q को 200 मीटर की शुरुआत देता है, तो वाहन P 8 
+सेकंड से दौड़ जीत जाता है। वैकजर्लपक रूप से, यदद वाहन P, वाहन Q को 400 मीटर की शुरुआत देता 
+है, तो दौड़ बराबर में समाप्त होती है। वाहन P को 1500 मीटर चलने में ककतना समय लगता है? 
+A) 44 sec 
+B) 45 sec 
+C) 40 sec 
+D) 60sec 
+ 
+28. 
+In a 1000 m race, Ravi given Vinod a start of 40 m and beats him by 19 
+seconds. If Ravi gives a start of 30 seconds, Vinod beats Ravi by 40 m. what is 
+the ratio of speed of Ravi to that of Vinod? 
+एक 1000 मीटर दौड़ में, रदव ने दवनोद को 40 मीटर की शुरुआत दी और उसे 19 सेकिंड से हरा ददया। 
+यदद रदव 30 सेकिंड की शुरुआत देता है, तो दवनोद रदव को 40 मीटर से हरा देता है। रदव की गदत का 
+दवनोद की गदत से अनुपात दकतना है? 
+A) 5:4                                    C) 6:5 
+B) 4:3                                    D) 5:4 
+29. 
+Savitha and Pramika decided to run a 2250 m long race on a track as long 
+as the length of the race. But Savitha gave Pramika a 396 m head start and also 
+allowed her to start 9 seconds before Savitha started running. Pramika ran at 6 
+m per seconds and Savitha caught up with Parmika 250 seconds after Savitha 
+started running. What was Savitha’s speed (in m) during the race? 
+ 
+ 
+BY:-GAGAN PRATAP 
+सपवता और प्रममका ने दौड़ की लंबाई जजतनी लंबी ट्रैक पर 2250 मीटर लंबी दौड़ दौड़ने का िैसला 
+ककया। लेककन सपवता ने प्रममका को 396 मीटर की बढ़त दी और सपवता के दौड़ने से 9 सेकंड पहले उसे 
+शुरुआत करने की अनुमनत िी दी। प्रममका 6 मीटर प्रनत सेकंड की गनत से दौड़ी और सपवता ने दौड़ना 
+शुरू करने के 250 सेकंड बाद परममका को पकड़ मलया। दौड़ के दौरान सपवता की गनत (मीटर में) क्या 
+थी? (CHSL PRE 2023) 
+ 
+A) 7.2 
+B) 7.8 
+C) 8 
+D) 7.5 
+ 
+Miscellaneous  
+ 
+30. 
+Ramesh walks a certain distance and rides 
+back in 5 hours 45 minutes. If he could ride both ways in 3 hours 30 minutes, find 
+the time required by Ramesh to walk both ways . 
+रमेश एक ननजचचत दूरी चलकर तय करता हैऔर वापसी मेंवाहन चलाकर लौटता है, जजसमेंउसे कुल 5 
+घंटे 45 ममनट का समय लगता है। यदद वह दोनों तरि की यात्रा वाहन चलाकर 3 घंटे 30 ममनट 
+मेंतयकर सकता है, तो रमेश द्वारा दोनों तरि की यात्रा चलकर तय करने मेंलगने वाला समय ज्ञात 
+कीजजए। 
+a. 5 hours 
+b. 7 hours 
+c. 6 hours 
+d. 8 hours 
+31. 
+Salman reaches school everyday at 4pm to pickup children, on Saturday 
+school over 3pm and children start walking home. Salman met them on their 
+way& return home 20min early how much time did children walk? 
+सलमान प्रनतददन हर बजे शाम को बच्चों को लेने स्कूल जाता है | शननवार के ददन स्कूल 3 बजे 
+छुट्टी हो जाती है और बच्चे घर की तरि चलना शुरू कर देते है सलमान उनको रास्ते मे ममलता है 
+और 20 ममनट जर्लदी घर वापस आ जाता है तो ककतने समय बच्चे चले ? 
+ 
+32. A monkey climbing up greased pole ascends 10 m in a minute and slip down 2m in alternate minute. 
+If pole is 63 m high. How logn will it take to reach top of pole? 
+ 
+,d cnaj xzhl yxs gq, ,d [kEHks ij p<rk gS og 1 feuV esa 10 ehVj p<rk gS rFkk vxys gh feuV 
+2 ehVj fQly tkrk gS ;fn [kEHks dh mapkbZ 63 ehVj gS rks mls [kEHks ij p<us esa fdruk le; yxsxk \ 
+ 

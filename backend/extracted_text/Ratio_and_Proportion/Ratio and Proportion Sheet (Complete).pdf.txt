@@ -1,0 +1,2533 @@
+ 
+ 
+1. 
+What is the compounded ratio of (2:5), (5:11) and (33:8)? 
+(2:5), (5:11) ऒय (33:8) का मभमित अनुऩात क्या वै?  
+(SSC CGL PRE 2023) 
+[A] 3:4 
+[B] 2:11 
+[C] 33:5 
+[D] 2:5 
+2. 
+The compound ratio of 3:4 and 6:7 is 36:x. find x? 
+3:4 ऒय 6:7 का मभमित अनुऩात 36:x वै। x ज्ञात कये? 
+(SSC CGL PRE 2024) 
+ 
+[A] 64 
+[B] 75 
+[C] 56 
+[D] 48 
+3. 
+The compound ratio of inverse ratios of the ratios  x : yz, y : zx , z : xy is  
+x : yz, y : zx , z : xy अनुऩातों के व्युत्क्रभी अनुऩातों का मभि अनुऩात फताइए? 
+[A] 1 : xyz 
+[B] xyz : 1  
+[C] 1 : 1 
+[D] x : yz 
+4. 
+If x : y = 5 : 7, then (6x – y) : (5x + 3y) is equal to : 
+मदद x : y = 5 : 7 वै, तॉ (6x – y) : (5x + 3y) का भान ज्ञात कयें। 
+(SSC CGL PRE 2025)  
+[A] 1 : 4 
+[B] 11 : 2 
+ 
+ 
+[C] 4 : 1 
+[D] 1 : 2 
+5. 
+If 𝒂: 𝒃= 𝟑: √𝟓, then the value of (𝟐𝒂+ 𝒃): (𝟑𝒂−𝟐𝒃) is:  
+मदद 𝒂: 𝒃= 𝟑: √𝟓 वै, तॉ (𝟐𝒂+ 𝒃): (𝟑𝒂−𝟐𝒃) का भान क्या वॉगा?  
+[A] 
+𝟏
+𝟔𝟒(𝟔𝟒+ 𝟐𝟏√𝟓) 
+[B] 
+𝟏
+𝟔𝟐(𝟔𝟒+ 𝟐𝟏√𝟓) 
+[C] 
+𝟏
+𝟔𝟑(𝟔𝟒+ 𝟐𝟏√𝟓) 
+[D] 
+𝟏
+𝟔𝟏(𝟔𝟒+ 𝟐𝟏√𝟓) 
+6. 
+If a:b = 5:3, then (𝒂𝟑−𝒃𝟑): (𝒂𝟑+ 𝒃𝟑)? 
+मदद a:b = 5:3, तॉ (𝒂𝟑−𝒃𝟑): (𝒂𝟑+ 𝒃𝟑)?   
+ 
+(DP CONSTABLE 2023) 
+[A] 25:76 
+[B] 49:16 
+[C] 11:25 
+[D] 49:76 
+7. 
+If 𝟏. 𝟓𝒙= 𝟎. 𝟎𝟒𝒚, then find 
+𝒚𝟐−𝒙𝟐
+𝒚𝟐+𝟐𝒙𝒚+𝒙𝟐? 
+मदद 𝟏. 𝟓𝒙= 𝟎. 𝟎𝟒𝒚 वै, तॉ 
+𝒚𝟐−𝒙𝟐
+𝒚𝟐+𝟐𝒙𝒚+𝒙𝟐 ज्ञात कीमिमे?  
+(SSC CGL PRE 2025)  
+[A] 73/77 
+[B] 77/73 
+[C] 11/12 
+[D] 2 
+8. 
+If A:B:C = 3:4:5, then √𝑨𝟐+ 𝑩𝟐: √𝑪𝟐−𝑩𝟐 is: 
+मदद A:B:C = 3:4:5] तॉ √𝑨𝟐+ 𝑩𝟐: √𝑪𝟐−𝑩𝟐 ________ वै। 
+(SSC MTS 2023) 
+[A] 3:2 
+[B] 4:5 
+ 
+ 
+ 
+[C] 5:3 
+[D] 3:5 
+9. 
+If 𝒂: 𝒃: 𝒄: 𝒅= √𝟒: √𝟑: √𝟐: √𝟏, then what is the value of 
+(−𝒂𝟐+𝒃𝟐+𝒄𝟐+𝒅𝟐)
+(𝒂𝟐−𝒃𝟐+𝒄𝟐−𝒅𝟐) ? 
+मदद a:b:c:d=√𝟒: √𝟑: √𝟐: √𝟏 तॉ 
+(−𝒂𝟐+𝒃𝟐+𝒄𝟐+𝒅𝟐)
+(𝒂𝟐−𝒃𝟐+𝒄𝟐−𝒅𝟐)  का भान क्या वै ?  
+(CDS-1 2024) 
+[A] 1 
+[B] 2 
+[C] 3 
+[D] 6 
+10. 
+If m:n = 1:2 and p:q = 3:4, then what is (𝟐𝒎+ 𝟒𝒑): (𝒏+ 𝟑𝒒) equal to? 
+मदद m:n = 1:2 ऒय p:q = 3:4, तॉ (2m+4p):(n+3q) ककऴके फयाफय वै? 
+(CDS-1 2024) 
+ 
+[A] 1:1 
+[B] 1:3 
+[C] 2:1 
+[D] 2:3 
+11. 
+If (𝟏𝟎𝒂𝟑+ 𝟒𝒃𝟑): (𝟏𝟏𝒂𝟑−𝟏𝟓𝒃𝟑) = 𝟕: 𝟓, then (𝟑𝒂+ 𝟓𝒃): (𝟗𝒂−𝟐𝒃) =?  
+मदद (𝟏𝟎𝒂𝟑+ 𝟒𝒃𝟑): (𝟏𝟏𝒂𝟑−𝟏𝟓𝒃𝟑) = 𝟕: 𝟓 है, तो (𝟑𝒂+ 𝟓𝒃): (𝟗𝒂−𝟐𝒃) =?  
+[A] 10:13 
+[B] 5:4 
+ 
+ 
+ 
+[C] 3:2 
+ 
+[D] 8:7 
+12. 
+x and y are two numbers having opposite signs such that, x² : y² = 49 : 64. What is 
+the value of (5x – 6y) : (6x – 7y)? 
+x ऒय y कऱऩयीत चिह्नों ऱारी दॉ ऴंख्याएं इऴ प्रकाय वैं कक x2: y2= 49:64, तॉ (5x – 6y): (6x – 7y) 
+का भान क्या वॉगा? 
+MTS 2020 
+[A] 44 : 65 
+[B] 13 : 14 
+[C] 94 : 117 
+[D] 83 : 98 
+13. 
+If a ∶ b = 9 ∶ 14 and b ∶ c = 16 ∶ 7,then what is a ∶ b ∶ c ? 
+मदद a ∶ b = 9 ∶ 14 ऒय b ∶ c = 16 ∶ 7, तॉ a ∶ b ∶ c क्या वै? 
+(SSC CGL 2025 PRE) 
+[A] 9:112:7 
+[B] 72:102:49 
+[C] 9:112:49 
+[D] 72:112:49 
+14. 
+If α : β = 15 : 22 and β : γ = 12 : 13, then what is the value of α : β : γ?  
+मदद α : β = 15 : 22 तथा β : γ = 12 : 13 वै, तॉ α : β : γ का भान क्या वॉगा? 
+ (RRB NTPC 12TH LEVEL CBT-2 2025) 
+[A] 90 : 66 : 143 
+[B] 45 : 66 : 143 
+[C] 90 : 132 : 143 
+[D] 90 : 143 : 132 
+15. 
+If P : Q = 3 : 2 and Q : R = 4 : 7, then find the value of (P + Q) : (Q + R) : (R + P). 
+मदद P : Q = 3 : 2 ऒय Q : R = 4 : 7 वैं, तॉ )P + Q) : (Q + R) : (R + P) का भान ज्ञात कीमिए। 
+(3202S  2023 SSC CGS)  
+[A] 10 : 13 : 11 
+[B] 11 : 4 : 17  
+[C] 3 : 4 : 7 
+[D] 10 : 11 : 13 
+ 
+ 
+16. 
+A, B and C have a few coins with them. 7 times the number of coins that A has is 
+equal to 5 times the number of coins B has while 6 times the number of coins B 
+has is equal to 11 times the number of coins C has. What is the minimum number 
+of coins with A, B and C put together? 
+A, B ऒय C के ऩाऴ कुछ मऴक्के वैं। A के ऩाऴ भॊिूद मऴक्कों की ऴंख्या का 7 गुना, B के ऩाऴ भॊिूद 
+मऴक्कों की ऴंख्या के 5 गुना के फयाफय वै, िफकक B के ऩाऴ भॊिूद मऴक्कों की ऴंख्या का 6 गुना, C के 
+ऩाऴ भॊिूद मऴक्कों की ऴंख्या के 11 गुना के फयाफय वै। A, B ऒय C के ऩाऴ भॊिूद मऴक्कों की न्यूनतभ 
+ऴंख्या ककतनी वै ?   
+(SSC CGL PRE 2025) 
+[A] 110 
+[B] 174 
+[C] 154 
+[D] 165 
+17. 
+If A : B = 8 : 13, B : C = 5 : 8 and C : D = 4 : 5, then A : B : C : D is equal to: 
+मदद A : B = 8 : 13, B : C = 5 : 8 ऒय C : D = 4 : 5, तॉ A : B : C : D फयाफय वै: 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+ 
+[A] 40:65:104:130 
+[B] 38:65:111:120 
+[C] 38:65:111:120 
+[D] 40:60:103:112 
+18. 
+If A:B = 
+𝟏
+𝟑:
+𝟏
+𝟓, 𝑩: 𝑪=
+𝟏
+𝟕:
+𝟏
+𝟖, 𝑪: 𝑫=
+𝟏
+𝟏𝟎:
+𝟏
+𝟐𝟏, then A : B : C : D is? 
+मदद A:B = 
+𝟏
+𝟑:
+𝟏
+𝟓, 𝑩: 𝑪=
+𝟏
+𝟕:
+𝟏
+𝟖, 𝑪: 𝑫=
+𝟏
+𝟏𝟎:
+𝟏
+𝟐𝟏, तॉ A : B : C : D वै? 
+(SSC CHSL PRE 2025) 
+ 
+[A] 40 : 24 : 21 : 10 
+[B] 48 : 23 : 25 : 8 
+[C] 8 : 3 : 7 : 5 
+[D] 14 : 24 : 28 : 10 
+19. 
+If a : b = 2 : 3, b : c = 5 : 7, then find the ratio c : a. 
+मदद a : b = 2 : 3, b : c = 5 : 7 वै, तॉ c : a का अनुऩात ज्ञात कीमिए। 
+(SSC CGS 3202S 2024) 
+ 
+[A] 15 : 21 
+[B] 20 : 21 
+[C] 21 : 10 
+[D] 10 : 21 
+20. If a : b = 3 : 5, b : c = 7 : 8 and c : d = 2 : 3, then 2a : 3d is equal to: 
+मदद a :b=3:5,b:c=7:8 ऒय c: d=2:3 वॉ, तॉ 2a : 3d का भान ज्ञात कयें। 
+(SSC CHSL PRE 2025) 
+[A] 1 : 2 
+[B] 7 : 30 
+[C] 7 : 15 
+[D] 7 : 20 
+21. 
+If a = 3b, 4b = 5c, 6c = 7d, then what is the value of 
+𝒅+𝒂
+𝒅−𝒂? 
+मदद a = 3b, 4b = 5c, 6c = 7d, तॉ 
+𝒅+𝒂
+𝒅−𝒂 का भान क्या वै?  
+(SSC CGL PRE 2025)  
+[A] 27/43 
+[B] 43/27 
+[C] –27/43 
+[D] –43/27 
+22. If 3A = 4B = 5C, then A : B : C is equal to: 
+ 
+ 
+मदद 3A = 4B = 5C, तॉ A : B : C का भान क्या वॉगा?  
+(SSC CHSL PRE 2025)  
+[A] 10 : 7 : 6 
+[B] 10 : 5 : 4 
+[C] 20 : 15 : 12 
+[D] 20 : 15 : 16 
+23. If 15x = 24y = 32z, then x : y : z is equal to? 
+मदद 15x = 24y = 32z, तॉ x : y : z ककऴके फयाफय वै? 
+(MTS 2023) 
+[A] 32:15:20 
+[B] 15:24:32 
+[C] 32:20:15 
+[D] 24:15:4 
+24. If 40% of A = 60% of B = 1/6 of C, then find A:B:C? 
+मदद A का 40% = B का 60% = C का 1/6, तॉ A:B:C ज्ञात कयें? 
+SSC CPO 2024 
+ 
+[A] 15:10:18 
+[B] 36:10:15 
+[C] 15:10:36 
+[D] 10:15:36 
+25. If 
+𝟑
+𝟓𝑷=
+𝟕
+𝟗𝑸=
+𝟒
+𝟓𝑹 , then what is the ratio of P, Q and R respectively? 
+मदद  
+𝟑
+𝟓𝑷=
+𝟕
+𝟗𝑸=
+𝟒
+𝟓𝑹 तॉ क्रभलः P, Q तथा R का अनुऩात क्या वै? 
+[A] 35:36:15 
+[B] 140:108:105                
+[C] 135:140:105 
+[D] 70:45:63 
+26. If 
+𝟐𝒂
+𝟑=
+𝟒𝒃
+𝟓=
+𝟑𝒄
+𝟒, then what is the value of 
+𝟏𝟖
+𝒂√𝒂𝟐+ 𝒄𝟐−𝒃𝟐? 
+मदद 
+𝟐𝒂
+𝟑=
+𝟒𝒃
+𝟓=
+𝟑𝒄
+𝟒, तॉ 
+𝟏𝟖
+𝒂√𝒂𝟐+ 𝒄𝟐−𝒃𝟐 का भान क्या वै? 
+(CDS 2023) 
+ 
+[A] 3√𝟓 
+[B] √𝟑𝟓𝟓 
+ 
+ 
+[C] √𝟑𝟕𝟓 
+[D] 3√𝟏𝟓 
+27. If 
+𝟏
+𝒂:
+𝟏
+𝒃:
+𝟏
+𝒄= 𝟐∶𝟑∶𝟓, then a : b : c is equal to? 
+मदद 
+𝟏
+𝒂:
+𝟏
+𝒃:
+𝟏
+𝒄= 𝟐∶𝟑∶𝟓, तॉ a : b : c ककऴके फयाफय वै? 
+ 
+(DP CONSTABLE 2023) 
+[A] 15:10:12 
+[B] 15:10:6 
+[C] 2:4:5 
+[D] 6:10:15 
+28. If A : B : C = 2 : 3 : 5, then the ratio 
+𝑨
+𝑩:
+𝑩
+𝑪:
+𝑪
+𝑨 is equal to? 
+मदद A : B : C = 2 : 3 : 5 वै, तॉ अनुऩात 
+𝑨
+𝑩:
+𝑩
+𝑪:
+𝑪
+𝑨 ककऴके फयाफय वै? 
+(DP CONSTABLE 2023) 
+[A] 20 : 25 : 39 
+[B] 20 : 18 : 75 
+[C] 18 : 20 : 79 
+[D] 75 : 20 : 29 
+29. If (a + b)/ c = 23/12 and (b + c ) / a = 17/8, then what is the value of (a + c )/b? 
+मदद (a + b)/c = 23/12 तथा (b+c)/a = 17/8 वै, तॉ (a+c)/b का भान क्या वै? 
+[A] 9/5 
+[B] 116/59 
+ 
+ 
+[C] 107/68 
+[D] 16/11 
+30. If 𝒍+ 𝒎+ 𝒏= 𝟐𝟕𝟕𝟐, 𝒍: (𝒎+ 𝒏) = 𝟓: 𝟏𝟑 & 𝒏: (𝒍+ 𝒎) = 𝟒: 𝟕, then what is the value of m? 
+मदद 𝒍+ 𝒎+ 𝒏= 𝟐𝟕𝟕𝟐, 𝒍: (𝒎+ 𝒏) = 𝟓: 𝟏𝟑 & 𝒏: (𝒍+ 𝒎) = 𝟒: 𝟕, तॉ m का भान क्या वै? 
+(ICAR Technician 2023) 
+[A] 991 
+[B] 990 
+[C] 995 
+[D] 994 
+31. 
+If (a + b) : (b + c) : (c + a) = 7 : 6 : 5 and a + b + c = 27, then what will be the value of 
+𝟏
+𝒂:
+𝟏
+𝒃:
+𝟏
+𝒄? 
+मदद (a + b): (b + c): (c + a) = 7: 6: 5 ऒय a + b + c = 27, तॉ 
+𝟏
+𝒂:
+𝟏
+𝒃:
+𝟏
+𝒄 का भान क्या वॉगा ? 
+[A] 4 : 3 : 6 
+[B] 3 : 4 : 2 
+[C] 3 : 2 : 4 
+[D] 3 : 6 : 4 
+32. If (a + b) : (b + c) : (c + a) = 15 : 14 : 11, and a + b + c = 180, then what is the value of  
+(3a + b – 4c)? 
+मदद (a+ b) : (b+c) : (c+a)= 15: 14: 11, ऒय a + b+c=180 वै, तॉ (3a + b – 4c) का भान ज्ञात कयें। 
+MTS 2020 
+[A] 98 
+[B] 77 
+ 
+[C] 45 
+[D] 63 
+33. If a, b and c are positive numbers such that (a2 + b2): (b2 + c2): (c2 + a2) = 34 : 61 : 
+45,then 𝒃−𝒂: 𝒄−𝒃: 𝒄−𝒂= _____ .  
+मदद a, b ऒय c तीन ऐऴी धनात्मक ऴंख्याएं वैं कक (a2 + b2): (b2 + c2): (c2 + a2) = 34 : 61 : 45 वै तॉ 
+𝒃−𝒂: 𝒄−𝒃: 𝒄−𝒂= _____ ।  
+[A] 1:2:3 
+[B] 2:1:3 
+ 
+[C] 3:1:2 
+[D] 3:2:1 
+34. If (𝒂+ 𝒃−𝒄): (𝒃+ 𝒄−𝒂): (𝒂+ 𝒄−𝒃) = 𝟒: 𝟓: 𝟗, then find (a-b):(c-b):(c-a)? 
+मदद a+b-c):(b+c-a):(a+c-b)=4:5:9, तॉ (a-b):(c-b):(c-a) ज्ञात कीमिए 
+(SSC GD 2021) 
+ 
+[A] 4:1:5 
+[B] 1:4:5 
+[C] 4:5:1 
+[D] 5:1:4 
+35. If 
+𝒂
+𝒃 =
+𝟏
+𝟑, 
+𝒃
+𝒄 =2, 
+𝒄
+𝒅 =
+𝟏
+𝟐, 
+𝒅
+𝒆 =3 and 
+𝒆
+𝒇 =
+𝟏
+𝟒 then what is value of 
+𝒂𝒃𝒄
+𝒅𝒆𝒇 =? 
+मदद 
+𝒂
+𝒃 =
+𝟏
+𝟑, 
+𝒃
+𝒄 =2, 
+𝒄
+𝒅 =
+𝟏
+𝟐, 
+𝒅
+𝒆 =3ऒय  
+𝒆
+𝒇 =
+𝟏
+𝟒 वै, तॉ 
+𝒂𝒃𝒄
+𝒅𝒆𝒇 का भान क्या वै?  
+[A] 
+𝟑
+𝟖  
+[B] 
+𝟐𝟕
+𝟖  
+[C] 
+𝟑
+𝟒 
+[D] 
+𝟐𝟕
+𝟒 
+36. If a ∶ b = c ∶ d = e ∶ f = 5 ∶ 7, then what is the ratio (3a + 5c + 11e) ∶ (3b + 5d + 11f)?  
+मदद a ∶ b = c ∶ d = e ∶ f = 5 ∶ 7, तॉ अनुऩात (3a + 5c + 11e) ∶ (3b + 5d + 11f) क्या वै? 
+(SSC CGL 2024 Pre) 
+ 
+[A] 7 : 11  
+[B] 3 : 7  
+[C] 5 : 7  
+[D] 11 : 7 
+ 
+ 
+37. If 
+𝒑
+𝒒= 
+𝒓
+𝒔 = 
+𝒕
+𝒖 = 
+𝟓
+𝟐 then find the value of (ap3 -br3 + ct3)/(aq3-bs3 + cu3) = ? 
+मदद 
+𝒑
+𝒒= 
+𝒓
+𝒔 = 
+𝒕
+𝒖 = 
+𝟓
+𝟐 वै, तॉ (ap3 -br3 + ct3)/(aq3-bs3 + cu3) का भान ज्ञात कीमिए।  
+[A] 25 
+[B] 
+𝟓
+𝟐   
+[C] 
+𝟐𝟓
+𝟒 
+[D] 15.625 
+38. If 
+𝒙
+𝒚=
+𝒑
+𝒒=
+𝒓
+𝒔=
+𝟐𝟏𝟔
+𝟏𝟐𝟓 then find 
+√𝒙
+𝟑
+−𝟐√𝒑
+𝟑
++𝟓√𝒓
+𝟑
+√𝒚
+𝟑
+−𝟐√𝒒
+𝟑
++𝟓√𝒔
+𝟑
+=? 
+मदद 
+𝒙
+𝒚=
+𝒑
+𝒒=
+𝒓
+𝒔=
+𝟐𝟏𝟔
+𝟏𝟐𝟓 वै, तॉ 
+√𝒙
+𝟑
+−𝟐√𝒑
+𝟑
++𝟓√𝒓
+𝟑
+√𝒚
+𝟑
+−𝟐√𝒒
+𝟑
++𝟓√𝒔
+𝟑
+=? ज्ञात कीमिए।  
+[A] 
+𝟑𝟔
+𝟐𝟓 
+[B] 
+𝟑𝟔
+𝟏𝟐𝟓                     
+[C] 1.2 
+[D] 1.3 
+39. If 
+𝒂𝟏
+𝒃𝟏=
+𝒂𝟐
+𝒃𝟐=
+𝒂𝟑
+𝒃𝟑 𝒂𝒏𝒅 
+𝟓𝒂𝟏𝟐+𝟔𝒂𝟐𝟐+𝟕𝒂𝟑𝟐
+𝟓𝒃𝟏
+𝟐+𝟔𝒃𝟐𝟐+𝟕𝒃𝟑
+𝟐= 𝟗, then find 
+𝒂𝟏
+𝒃𝟏+
+𝒂𝟏𝒂𝟐
+𝒃𝟏𝒃𝟐+
+𝒂𝟏𝒂𝟐𝒂𝟑
+𝒃𝟏𝒃𝟐𝒃𝟑 ? 
+मदद 
+𝒂𝟏
+𝒃𝟏=
+𝒂𝟐
+𝒃𝟐=
+𝒂𝟑
+𝒃𝟑 ऒय 
+𝟓𝒂𝟏𝟐+𝟔𝒂𝟐𝟐+𝟕𝒂𝟑𝟐
+𝟓𝒃𝟏
+𝟐+𝟔𝒃𝟐𝟐+𝟕𝒃𝟑
+𝟐= 𝟗 वै, तॉ 
+𝒂𝟏
+𝒃𝟏+
+𝒂𝟏𝒂𝟐
+𝒃𝟏𝒃𝟐+
+𝒂𝟏𝒂𝟐𝒂𝟑
+𝒃𝟏𝒃𝟐𝒃𝟑 ज्ञात कीमिए ? 
+[A] 40 
+[B] 39 
+[C] 30 
+[D] 36 
+40. If a:b = c:d, then which of the following ratio is equal to a:c? 
+मदद a:b = c:d, तॉ मनम्नमरखित भें ऴे कॊन ऴा अनुऩात a:c के फयाफय वै? 
+[A] a:d 
+[B] b:c 
+[C] a+d:b+c 
+[D] a+b:c+d 
+41. 
+If 
+𝒑
+𝒒=
+𝒓
+𝒔, then find (
+𝒑+𝒒
+𝒓+𝒔)𝟐? 
+मदद 
+𝒑
+𝒒=
+𝒓
+𝒔, तॉ (
+𝒑+𝒒
+𝒓+𝒔)𝟐 ज्ञात कीमिए? 
+[A] 
+𝒑𝒒
+𝒓𝒔 
+[B] 
+𝒑𝒓
+𝒒𝒔 
+[C] (
+𝒑−𝒓
+𝒒−𝒔)𝟐 
+[D] 𝟏 
+42. If 
+𝒛
+𝒙−𝟐𝒚 = 
+𝟐𝒛+𝒙
+𝟐𝒚 = 
+𝟐𝒙
+𝒛 , then find the value of 
+𝒙+𝒚+𝒛
+𝒛
+ =? 
+मदद  
+𝒛
+𝒙−𝟐𝒚 = 
+𝟐𝒛+𝒙
+𝟐𝒚 = 
+𝟐𝒙
+𝒛 , तॉ 
+𝒙+𝒚+𝒛
+𝒛
+  का भान क्या वॉगा? 
+[A] 
+𝟑𝟓
+𝟏𝟔 
+[B] 
+𝟑𝟕
+𝟏𝟐            
+[C] 
+𝟒𝟒
+𝟏𝟖 
+[D] 
+𝟒𝟏
+𝟏𝟐 
+43. Find a, if (x+y+z)≠𝟎 & 
+𝒙
+𝟑𝒙+𝒚+𝒛=
+𝒚
+𝒙+𝟑𝒚+𝒛=
+𝒛
+𝒙+𝒚+𝟑𝒛= 𝟐𝒂? 
+a ज्ञात कीमिमे, मदद (x+y+z)≠𝟎 & 
+𝒙
+𝟑𝒙+𝒚+𝒛=
+𝒚
+𝒙+𝟑𝒚+𝒛=
+𝒛
+𝒙+𝒚+𝟑𝒛= 𝟐𝒂 वै? 
+[A] 1/15 
+[B] 1/10 
+[C] 1/5 
+[D] 
+𝟏
+𝟐 
+44. If 
+𝒙
+𝒙𝒂+𝒚𝒃+𝒛𝒄=
+𝒚
+𝒚𝒂+𝒛𝒃+𝒙𝒄=
+𝒛
+𝒛𝒂+𝒙𝒃+𝒚𝒄& 𝑥= 𝑦= 𝑧≠0, then each ratio equals to? 
+[A] 
+𝟏
+𝒂−𝒃−𝒄  
+[B] 
+𝟏
+𝒂−𝒃+𝒄 
+ 
+[C] 
+𝟏
+𝒂+𝒃−𝒄 
+[D] 
+𝟏
+𝒂+𝒃+𝒄 
+45. If 
+𝒂
+𝒃+𝒄 = 
+𝒃
+𝒄+𝒂 = 
+𝒄
+𝒂+𝒃, then which one of the following statements is correct? 
+ 
+ 
+मदद 
+𝒂
+𝒃+𝒄 = 
+𝒃
+𝒄+𝒂 = 
+𝒄
+𝒂+𝒃 वै, तॉ मनम्नमरखित भें ऴे कॊन-ऴा कथन ऴवी वैं?  
+(CDS 2019) 
+[A] Each fraction is equal to 1 or –1प्रत्येक मबन्न 1 मा -1 के फयाफय वै। 
+[B] Each fraction is equal to 
+𝟏
+𝟐 or 1./ प्रत्येक मबन्न 
+𝟏
+𝟐 मा 1 के फयाफय वै। 
+[C] Each fraction is equal to 
+𝟏
+𝟐 or –1./ प्रत्येक मबन्न 
+𝟏
+𝟐 मा -1 के फयाफय वै। 
+[D] Each fraction is equal to 
+𝟏
+𝟐 only./प्रत्येक मबन्न केऱर 
+𝟏
+𝟐 के फयाफय वै। 
+46. If 𝒙−𝒚: 𝒚−𝒛: 𝒛−𝒌= 𝟐: 𝟑: 𝟓, then find z:(x + k)? 
+मदद 𝒙−𝒚: 𝒚−𝒛: 𝒛−𝒌= 𝟐: 𝟑: 𝟓 वै, तॉ z:(x + k) ज्ञात कीमिमे? 
+[A] 1:2 
+[B] 1:3 
+[C] 2:1 
+[D] 1:4 
+ 
+ 
+ 
+ 
+47. If (m + n) : (m - n) = 7 : 3 , then (m³ + n³) : (m³ - n³) = ? 
+मदद (m + n) : (m - n) = 7 : 3 तॉ (m³  +  n³) : (m³  -  n³) = ? 
+RRB NTPC 16/02/2021 (Evening) 
+[A] 117 : 133 
+[B] 133 : 117 
+[C] 17 : 133 
+[D] 117 : 13 
+48. If (x³+y³) : (x²–xy+y²) = 3 : 1 and (x²– y²)  : (x+y) = 5 : 6, then what is 2x : 3y? 
+मदद (x³+y³) : (x²–xy+y²) = 3 : 1 ऒय (x²– y²)  : (x+y) = 5 : 6 वै, तॉ 2x : 3y का भान क्या वै? 
+[A] 36 : 43 
+[B] 38 : 47 
+[C] 45 : 32 
+[D] 46 : 39 
+49. If 𝒙(
+𝟏
+𝒂+
+𝟏
+𝒃) = 𝟏𝟐, then find (𝒙+ 𝟔𝒂)(𝒙−𝟔𝒂)−𝟏+ (𝒙+ 𝟔𝒃)(𝒙−𝟔𝒃)−𝟏? 
+मदद 𝒙(
+𝟏
+𝒂+
+𝟏
+𝒃) = 𝟏𝟐 वै, तॉ (𝒙+ 𝟔𝒂)(𝒙−𝟔𝒂)−𝟏+ (𝒙+ 𝟔𝒃)(𝒙−𝟔𝒃)−𝟏ज्ञात कीमिए? 
+[A] 1 
+[B] 5 
+[C] 2 
+[D] 4 
+50. If x = 
+√𝟔
+√𝟑+√𝟐, then 
+𝒙+√𝟑
+𝒙−√𝟑  
+𝒙+√𝟐
+𝒙−√𝟐 =? 
+मदद x = 
+√𝟔
+√𝟑+√𝟐, तॉ 
+𝒙+√𝟑
+𝒙−√𝟑  
+𝒙+√𝟐
+𝒙−√𝟐 =?  
+MTS 2020 
+[A] 2 
+[B] √𝟐
+𝟑    
+ 
+[C] √𝟑
+𝟐      
+[D] 
+𝟏
+√𝟔 
+51. 
+If 
+𝒂+𝒃
+𝒃+𝒄=
+𝒄+𝒅
+𝒅+𝒂 where 𝒂≠𝒄, then which of the following is correct? 
+अगय 
+𝒂+𝒃
+𝒃+𝒄=
+𝒄+𝒅
+𝒅+𝒂 िवां a≠c वै, तॉ मनम्नमरखित भें ऴे कॊन ऴा ऴवी वै? 
+[A] a+b=c+d 
+[B] a+c=b+d 
+[C] a-b-c+d=0 
+[D] a+b+c+d=0 
+52. Find the value of x in the given equation/ ददए गए ऴभीकयण भें 𝒙 का भान ज्ञात कीमिए: 
+√𝟕+𝒙 + √𝟕−𝒙
+√𝟕+𝒙 – √𝟕−𝒙= 𝟒  
+ 
+ 
+(SSC CGL PRE 2025)  
+[A] 
+𝟓𝟔
+𝟏𝟕 
+[B] 
+𝟒𝟔
+𝟐𝟕
+ 
+[C] 
+𝟒𝟔
+𝟏𝟕 
+[D] 
+𝟓𝟔
+𝟐𝟕 
+53. What is the value of x , if  
+𝒃+√𝒃𝟐−𝟐𝒃𝒙
+𝒃−√𝒃𝟐−𝟐𝒃𝒙= 𝒂 ? 
+मदद 
+𝒃+√𝒃𝟐−𝟐𝒃𝒙
+𝒃−√𝒃𝟐−𝟐𝒃𝒙= 𝒂 वै तॉ x का भान ज्ञात कये। 
+[A] 
+𝒂𝒃
+𝒂+𝒃 
+[B] 
+𝟐𝒂𝒃
+𝒂+𝟏                
+[C]  
+𝟐𝒂𝒃
+(𝒂+𝟏)𝟐 
+[D] 
+𝒂𝒃
+(𝒂+𝒃)𝟐 
+54. 
+𝟏−𝒑𝒙
+𝟏+𝒑𝒙√
+𝟏+𝒒𝒙
+𝟏−𝒒𝒙= 𝟏, then x=?  
+[A] ±p√
+𝟐𝒑−𝒒
+𝒒 
+[B] ±q√
+𝟐𝒒−𝒑
+𝒑 
+ 
+ 
+[C] ±
+𝟏
+𝒒√
+𝟐𝒑−𝒒
+𝒒 
+[D] ±
+𝟏
+𝒑√
+𝟐𝒑−𝒒
+𝒒 
+55. If (4a + 7b) (4c – 7d) = (4a – 7b) (4c + 7d), then which one of the following is correct?  
+मदद (4a + 7b) (4c – 7d) = (4a – 7b) (4c + 7d) वै, तॉ मनम्नमरखित भें ऴे कॊन-ऴा एक ऴवी वै? 
+(CDS 2019) 
+[A] 
+𝒂
+𝒃=
+𝒄
+𝒅 
+[B] 
+𝒂
+𝒅=
+𝒄
+𝒃 
+ 
+ 
+[C] 
+𝒂
+𝒃=
+𝒅
+𝒄 
+[D] 
+𝟒𝒂
+𝟕𝒃=
+𝒄
+𝒅 
+56. If (𝟑𝒂+ 𝟔𝒃+ 𝒄+ 𝟐𝒅) × (𝟑𝒂−𝟔𝒃−𝒄+ 𝟐𝒅) = (𝟑𝒂−𝟔𝒃+ 𝒄−𝟐𝒅) × (𝟑𝒂+ 𝟔𝒃−𝒄−𝟐𝒅),  
+then which one of the following is correct? 
+मदद (3a+6b+c+2d)×(3a-6b-c+2d)=(3a-6b+c-2d)×(3a+6b-c-2d) तॉ मनम्नमरखित भें ऴे 
+कॊन ऴा ऴवी वै? 
+(CDS 2023) 
+ 
+[A] ab=cd 
+[B] ad =bc 
+[C] ac=bd 
+[D] ad+bc=0 
+57. If the ratio of sum of two numbers, difference of two numbers and product of two 
+numbers are 13 : 3 : 160, then find the sum of Squares of two numbers. 
+मदद दॉ ऴंख्याऑं के मॉग, अंतय ऒय गुणनपर  का अनुऩात 13 : 3 : 160 वै, तॉ उन दॉ ऴंख्याऑं के ऱगग 
+का मॉग ज्ञात कीमिए? 
+[A] 1921 
+[B] 1424              
+ 
+[C] 2000 
+[D] 1536 
+58. Which of the following ratios is the greatest? 
+मनम्नमरखित भें ऴे कॊन-ऴा अनुऩात ऴफऴे फडा वै?  
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1)   
+[A] 33 : 51 
+[B] 37 : 64 
+[C] 32 : 86 
+[D] 26 : 59 
+ 
+ 
+59. Prithvi has pears and peaches in the ratio of 10:13. Celine has pears and peaches 
+in the ratio of 7:9. Vikram has pears and peaches in the ratio of 5:7. Who has a 
+greater ratio of pears to peaches? 
+ऩृथ्वी के ऩाऴ नालऩाती ऒय आडू का अनुऩात 10:13 वै। ऴेरीन के ऩाऴ नालऩाती ऒय आडू का अनुऩात 
+7:9 वै। कऱक्रभ के ऩाऴ नालऩाती ऒय आडू का अनुऩात 5:7 वै। नालऩाती ऒय आडू का अनुऩात ककऴके 
+ऩाऴ अचधक वै? 
+SSC GD 2024 
+ 
+[A] Vikram 
+[B] Prithwi 
+[C] All are equal 
+[D] celine 
+60. If 36 : 81 :: X : 63, what is the value of X?  
+मदद 36: 81 :: X : 63 वै, तॉ X का भान क्या वै? 
+(SSC CGL 2022) 
+[A] 30 
+[B] 31 
+[C] 28 
+[D] 29 
+ 
+61. 
+If 7.5 : 19.5 :: 16 : x, find the value of x.  
+मदद 7.5 : 19.5 :: 16 : x, तॉ x का भान ज्ञात कीमिए 
+(RRB NTPC GRADUATE LEVEL 2025) 
+[A] 39.4 
+[B] 41.1 
+[C] 41.6 
+[D] 45.1 
+ 
+62. If 28.9 : x :: x : 36.1, and x > 0, then find the value of x.  
+मदद 28.9 : x :: x : 36.1, ऒय x > 0, तॉ x का भान ज्ञात कीमिमे। 
+(SSC CGL 2024 Pre) 
+[A] 38.3 
+[B] 32.3 
+[C] 30.4 
+[D] 35 
+63. If √𝟓: √𝟒𝟐∷√𝟕: 𝒙, then what is the value of x? 
+मदद √𝟓: √𝟒𝟐∷√𝟕: 𝒙, तॉ x का भान क्या वै? 
+(SSC MTS 2024) 
+ 
+[A] 
+𝟕
+𝟓√𝟒𝟐 
+[B] 
+𝟔
+𝟓√𝟒𝟐 
+ 
+ 
+[C] 
+𝟕
+𝟓√𝟑𝟎 
+[D] 
+𝟕
+𝟓√𝟑𝟎 
+64. If 23 : 85.06 :: 8–4.06 : X, find the value of X. 
+मदद 23 : 85.06 :: 8–4.06 : X, तॉ X का भान ज्ञात कीमिए। 
+SSC CHSL PRE 2024 
+[A] 
+𝟏
+𝟐𝟑 
+[B] 1  
+  
+  
+[C] 𝟐𝟑  
+[D]  0 
+65. 6 : 42 :: 7.6 : x and 3 : 6 :: 6 : y. What is the ratio of x to y? 
+मदद 6 : 42 :: 7.6 : x ऒय 3 : 6 :: 6 : y वै, तॉ x ऒय y का अनुऩात ज्ञात कीमिए। 
+(RRB 2TPC GR2DU2TE SEVES 2025) 
+ 
+ 
+[A] 133 : 30 
+[B] 135 : 32  
+  
+  
+[C] 134 : 28 
+[D]  137 : 40 
+66. If a : b : : b : c, and b = 96, then which of the following can be a possible pair of 
+values of a and c? 
+मदद a : b : : b : c ऒय b = 96 वै, तॉ मनम्नमरखित भें ऴे कॊन
+-
+ऴा, a ऒय c के भानों का एक ऴंबाकऱत 
+मुग्म वॉ ऴकता वै? 
+SSC CGL 2023 PRE 
+[A] a = 24; c = 374 
+[B] a = 32; c = 288   
+[C] a = 48; c = 168 
+[D] a = 16; c = 586 
+67. If four distinct positive numbers, a, b, c and d, in the order given are in proportion, 
+then which of the following options is NOT correct?  
+मदद िाय अरग-अरग धनात्मक ऴंख्याएँ a, b, c ऒय d ददए गए क्रभ भें ऴभानुऩात भें वैं, तॉ 
+मनम्नमरखित भें ऴे कॊन-ऴा कऱकल्प ऴवी नवीं वै? 
+SSC CPO Pre 2024 
+[A] b, a, d and c, in the order given are in proportion./b, a, d ऒय c ददए गए क्रभ भें 
+ऴभानुऩात भें वैं। 
+[B] c, d, b and a, in the order given are in proportion./c, d, b ऒय a ददए गए क्रभ भें 
+ऴभानुऩात भें वैं। 
+ 
+[C] d, c, b and a, in the order given are in proportion./d, c, b ऒय a ददए गए क्रभ भें 
+ऴभानुऩात भें वैं। 
+[D] a, c, b and d, in the order given are in the proportion./a, c, b ऒय d ददए गए क्रभ भें 
+ऴभानुऩात भें वैं। 
+68. Four distinct positive numbers, ‘a’, ‘b’, ‘c’ and ‘d’, in the order given, are in 
+proportion. ‘b’ is 35 more than ‘a’ and ‘d’ is 60 more than ‘c’. The product of ‘a’ and 
+‘c’ is 5376. What is the sum of ‘a’, ‘b’, ‘c’ and ‘d’? 
+िाय अरग
+-
+अरग धनात्मक ऴंख्याएँ, 'a', 'b', 'c' ऒय 'd' ददए गए क्रभ भें ऴभानुऩात भें वैं। ‘b’, ‘a’ ऴे 
+35 अचधक वै ऒय 'd', ‘c’ ऴे 60 अचधक वै। ‘a’ ऒय ‘c’ का गुणनपर 5376 वै। ‘a’, ‘b’, ‘c’ ऒय 'd' का 
+मॉग ज्ञात कयें। 
+(SSC SELECTION POST 2024) 
+[A] 397 
+[B] 399 
+ 
+[C] 398 
+[D] 400 
+69. If 4 , 31 , 92 , and y are in proportion, then the value of y is: 
+मदद 4, 31, 92, ऒय y ऴभानुऩात भें वैं, तॉ y का भान ज्ञात कीमिए। 
+(RPF CONSTABLE 2025) 
+[A] 713 
+[B] 715 
+[C] 722 
+[D] 718 
+70. In a proportion, the 1st, 2nd and 4th terms are 51, 68 and 108, respectively. What is 
+the 3rd term? 
+ 
+ 
+एक ऴभानुऩात भें, ऩवरा, दूऴया ऒय िॊथा ऩद क्रभलः 51, 68 ऒय 108 वैं। तीऴया ऩद क्या वै? 
+(SSC CGL 2022) 
+[A] 84 
+[B] 83 
+[C] 82 
+[D] 81 
+ 
+71. 
+In a proportion, the product of the first and fourth terms is 70 and that of the 
+second and third terms is 3.5y. The value of y is: 
+ककऴी अनुऩात (proportion) भें, ऩवरे ऒय िॊथे ऩद का गुणनपर 70 वै तथा दूऴये ऒय तीऴये ऩद 
+का गुणनपर वै। 3.5y वै। y के भान की गणना कयें। 
+[A] 17 
+[B] 20 
+[C] 15 
+[D] 22 
+72. If the third proportional of 9 and 51 be x, then what is the value of x? 
+मदद 9 ऒय 51 का तृतीमानुऩाती x वॉ, तॉ x का भान ज्ञात कीमिए। 
+(SEVES 2025 thRRB 2TPC 12) 
+[A] 288 
+[B] 287 
+[C] 289 
+[D] 291 
+73. The third proportional to 7
+𝟏
+𝟓 and 11 is: 
+7
+𝟏
+𝟓ऒय 11 का तीऴया ऴभानुऩाती वै:  
+(selection post 10) 
+[A] 16
+𝟐𝟗
+𝟑𝟔 
+[B] 15
+𝟐𝟗
+𝟑𝟔 
+[C] 16
+𝟑𝟏
+𝟑𝟔 
+[D] 16
+𝟏𝟗
+𝟑𝟔 
+74. What is the third proportional of 2√𝟑 and 6√𝟓?  
+𝟐√𝟑 ऒय 𝟔√𝟓 का तृतीम ऴभानुऩाती क्या वै। 
+SSC CHSL 2023 PRE
+ 
+[A] 𝟓𝟎√𝟔 
+[B] 𝟒𝟎√𝟑 
+ 
+ 
+[C] 𝟐𝟎√𝟔 
+[D] 𝟑𝟎√𝟑 
+ 
+75. The third proportional of a and 
+𝒃𝟒
+𝟒𝒂 is: 
+a ऒय 
+𝒃𝟒
+𝟒𝒂 का तृतीमा ऴभानुऩाती क्या वै?  
+[A] 
+𝒃𝟖
+𝟏𝟔𝒂² 
+[B] 
+𝒃𝟖
+𝟖𝒂² 
+ 
+[C] 
+𝒃𝟖
+𝟖𝒂³ 
+[D] 
+𝒃𝟖
+𝟏𝟔𝒂³ 
+76. Find the third proportinal of (3 + √𝟐) and 2√𝟕. 
+(3 + √𝟐) ऒय 2√𝟕  का तृतीमानुऩाती ज्ञात कीमिए। 
+[A] 2(3 + √𝟐) 
+[B] (12 - √𝟖) 
+[C] 4(3 - √𝟐)  
+[D] (12 - √𝟖) 
+77. 
+If the third proportional of 3x2 and 4xy is 48, then find the positive value of y. 
+मदद 3x2 ऒय 4xy का तृतीमानुऩाती 48 वै, तॉ y का धनात्मक भान ज्ञात कीमिए। 
+SSC CGL 2023 PRE 
+ 
+ 
+[A] 3 
+[B] 5  
+[C] 2 
+[D] 4 
+78. If the third proportion to 9 and 42 is 𝟑𝜶+ 𝟕, then find the value of 𝜶? 
+मदद 9 ऒय 42 का तीऴया अनुऩात 3α+7 वै, तॉ α का भान ज्ञात कीमिए? 
+[A] 63 
+[B] 196 
+[C] 189 
+[D] 65 
+79. What is the mean proportional of 8.41 and 16.81? 
+8.41 ऒय 16.81 का भाध्य आनुऩाचतक क्या वै? 
+(CHSL 2023 PRE) 
+[A] 13.69 
+[B] 9.88 
+[C] 11.89 
+[D] 12.79 
+80. Find the mean proportion of 5.76 and 0.88. (rounded off to two decimal places) 
+5.76 ऒय 0.88 का भाध्य आनुऩाचतक ऩता कयें। (दॉ डेमऴभर प्लेऴ तक याउंड ऑप कयें) 
+(SSC GD 2025) 
+[A] 2.25 
+[B] 2.85 
+[C] 2.54 
+[D] 2.34 
+81. 
+Find the mean proportional of (x + y)4 and (x – y)4. 
+(x + y)4 ऒय (x – y)4 का भध्यानुऩाती ज्ञात कीमिए। 
+[A] (x²–y²)³ 
+[B] (x²–y²) 
+[C]  (x²–y²)² 
+[D] (x²–y²)4 
+82. What is the mean proportional of 45x4 and 5y2? 
+45x4 ऒय 5y2 का भाध्य आनुऩाचतक क्या वै? 
+(SSC SELECTION POST XII HIGHER SECONDARY LEVEL) 
+ 
+[A] 5𝒙𝟐𝒚 
+[B] 15𝒙𝟐𝒚 
+[C] 25𝒙𝟒𝒚 
+[D] 45𝒙𝟐𝒚𝟐  
+83. Find the mean proportion between 
+𝒑−𝒒
+𝒑+𝒒 & 
+(𝒑𝒒)𝟐
+𝒑𝟐−𝒒𝟐? 
+𝒑−𝒒
+𝒑+𝒒 & 
+(𝒑𝒒)𝟐
+𝒑𝟐−𝒒𝟐 के फीि भाध्यानुऩात  ज्ञात कीमिए? 
+[A] 
+𝒑𝒒
+𝒑−𝒒 
+[B] 
+𝒑−𝒒
+𝒑𝒒 
+ 
+[C] 
+𝒑+𝒒
+𝒑𝒒 
+[D] 
+𝒑𝒒
+𝒑+𝒒 
+84. What is the mean proportion of (𝟏𝟓+ √𝟐𝟎𝟎)&(𝟐𝟕−√𝟔𝟒𝟖)? 
+(𝟏𝟓+ √𝟐𝟎𝟎)&(𝟐𝟕−√𝟔𝟒𝟖) के फीि भध्यानुऩाती क्या वै? 
+[A] 3√𝟓                    
+[B] √𝟏𝟓                                 
+[C] 4√𝟓                    
+[D] 5√𝟑    
+85. The mean proportional between (18+8√𝟐) and (15 – 2√𝟐) is: 
+(18+8√𝟐) ऒय (15 – 2√𝟐) के फीि भाध्यानुऩाती ज्ञात कीमिए।  
+(RRB NTPC GRADUATE LEVEL CBT-I 2025) 
+ 
+ 
+[A] √𝟐𝟑𝟖+ 𝟖𝟒√𝟐 
+[B] √𝟐𝟑𝟖+ 𝟑𝟔√𝟐 
+[C] √𝟐𝟑𝟖+ 𝟏𝟏𝟎√𝟐 
+[D] √𝟐𝟑𝟖+ 𝟏𝟐𝟎√𝟐 
+86. Find the mean proportional of 50625 and (𝟏𝟔+ √𝟐𝟓𝟐)? 
+50625 ऒय (𝟏𝟔+ √𝟐𝟓𝟐) का भाध्य अनुऩाचतक ज्ञात कीमिए? 
+[A] 675 + 225√𝟕             
+[B] 525 + 105√𝟑 
+[C] 625 + 75√𝟕               
+[D] 875 + 250√𝟑 
+87. If 276 is the mean proportion between x and 368, what is the value of x? 
+मदद x ऒय 368 के फीि भाध् मानुऩात 276 वै, तॉ x का भान ककतना वॉगा वै? 
+[A] 207 
+[B] 205 
+[C] 209 
+[D] 208 
+88. If 2x+1, x+2, 2 and 5 are in proportion, then what is the mean proportional between 
+3.5(1-x) and 8(1+x)? 
+मदद  2x + 1, x + 2, 2 ऒय 5 ऴभानुऩात भें वै, तॉ 3.5 (1 - x) ऒय 8 (1 +x) का भध् मानुऩाती ‍ मा वै? 
+[A] 5.5 
+[B] 4.25            
+ 
+ 
+[C] 5.25 
+[D] 4.5 
+ 
+ 
+ 
+ 
+ 
+ 
+89. What is the fourth proportional to 189, 273 and 153? 
+189, 273 ऒय 153 का िॊथा अनुऩाचतक क्या वै? 
+[A] 117 
+[B] 299 
+[C] 221 
+[D] 187 
+90. Find the fourth proportional to 0.48, 0.84 and 32. 
+0.48, 0.84 ऒय 32 का ितुथागनुऩाती )fourth proportional) ज्ञात कयें।  
+[A] 34 
+[B] 65  
+ 
+[C] 43  
+[D] 56 
+91. 
+What is the fourth proportional of 
+𝟏
+𝟕𝟐,
+𝟏
+𝟏𝟔𝟖,
+𝟏
+𝟏𝟓𝟎? 
+𝟏
+𝟕𝟐,
+𝟏
+𝟏𝟔𝟖,
+𝟏
+𝟏𝟓𝟎 का िॊथा ऴभानुऩाती क्या वै? 
+[A] 1/375 
+[B] 1/275 
+[C] 1/350 
+[D] 1/250 
+92. Find the fourth proportional of 𝟏𝟐𝟑𝟓, 𝟑𝟏𝟐 & 𝟒𝟏𝟐? 
+𝟏𝟐𝟑𝟓, 𝟑𝟏𝟐 & 𝟒𝟏𝟐 का िॊथा आनुऩाचतक ज्ञात कीमिए? 
+(MTS 2023) 
+ 
+[A] 𝟏𝟐−𝟐𝟑 
+[B] 𝟑𝟐𝟒 
+ 
+[C] 𝟏𝟐−𝟏𝟏 
+[D] 𝟒𝟐𝟒 
+93. What is the fourth proportional of 𝟑√𝟓, 𝟓√𝟖 & 𝟑√𝟏𝟎? 
+𝟑√𝟓, 𝟓√𝟖 और 𝟑√𝟏𝟎 का िॊथा अनुऩात क्या वै? 
+(CHSL PRE 2023) 
+ 
+[A] 10√𝟓 
+[B] 40√𝟐 
+[C] 30 
+[D] 20 
+ 
+ 
+94. Find the fourth proportional of 3 hours 20 minutes, 1 hour 50 minutes, and 6 hours 
+20 minutes. 
+3 घंटा 20 मभनट, 1 घंटा 50 मभनट ऒय 6 घंटा 20 मभनट का ितुथागनुऩाती ज्ञात कयें। 
+[A] 3 hours 19 minutes 
+[B] 4 hours 29 minutes 
+[C] 4 hours 19 minutes 
+[D] 3 hours 29 minutes 
+95. The fourth proportional to 4,a and 16a is 81. What is the value of a? 
+4,a ऒय 16a का िॊथा अनुऩात 81 वै। a का भान क्या वै? 
+SSC CPO 2024 
+ 
+[A] 13/2 
+[B] 9/2 
+[C] 11/2 
+[D] 5/2 
+96. Find the fourth proportional of (𝒙𝟒−𝒚𝟒), (𝒙+ 𝒚)& (𝒙+ 𝒚), provided 𝒙≠𝒚? 
+(𝒙𝟒−𝒚𝟒), (𝒙+ 𝒚)& (𝒙+ 𝒚) का िॊथा आनुऩाचतक ज्ञात कीमिए, मदद  x≠y? 
+[A] (𝒙𝟐−𝒚𝟐)−𝟏 
+[B] (𝒙𝟐−𝒚𝟐)−𝟐 
+ 
+[C] (𝒙𝟐+ 𝒚𝟐)−𝟏 
+[D] (𝒙𝟐+ 𝒚𝟐)−𝟐 
+97. Find the fourth proportional to: (𝒂+ 𝒃)𝟐× (𝒂𝟑−𝒃𝟑), ( 𝒂𝟑+ 𝒃𝟑), ( 𝒂𝟐−𝒃𝟐)? 
+िॊथा आनुऩाचतक ज्ञात कये: (𝒂+ 𝒃)𝟐× (𝒂𝟑−𝒃𝟑), ( 𝒂𝟑+ 𝒃𝟑), ( 𝒂𝟐−𝒃𝟐) ? 
+(MTS 2023) 
+ 
+[A] 
+𝒂𝟐−𝒂𝒃+𝒃𝟐
+𝒂+𝒃
+ 
+[B] 
+𝒂𝟐+𝒂𝒃+𝒃𝟐
+𝒂−𝒃
+  
+ 
+[C] 
+𝒂𝟐−𝒂𝒃+𝒃𝟐
+𝒂𝟐+𝒂𝒃+𝒃𝟐 
+[D] 
+𝒂𝟐+𝒂𝒃+𝒃𝟐
+𝒂𝟐−𝒃𝟐 
+98. If a is the tertiary ratio of 0.4 and 0.8, and b is the mean of  13.5 &0.24. Then find the 
+value of a+b? 
+मदद a, 0.4 ऒय 0.8 का तृतीमानुऩाती वै , ऒय b, 13.5 ऒय 0.24 का भध्यानुऩाती वै, तॉ a+b का भान 
+ज्ञात कीमिमे?  
+(ICAR Technician 2022) 
+[A] 3.8 
+[B] 2.9 
+[C] 3.6 
+[D] 3.4 
+99. What is the ratio of the fourth proportional to 2, 5, 4 and the mean proportional 
+between 2.5 and 0.016? 
+2, 5, 4 के िॊथे ऴभानुऩाती ऒय 2.5 ऒय 0.016 के भध्य ऴभानुऩाती भाध्य का अनुऩात क्या वै?  
+(ICAR Assistant 2022) 
+[A] 5;1 
+[B] 10:1 
+[C] 50:1 
+[D] 25:1 
+100. Fourth proportion to 12, 18 and 6 is same as the third proportion to k and 6. What is 
+the value of k? 
+12, 18 ऒय 6 का ितुथागनुऩात k ऒय 6 के तृतीमानुऩात के फयाफय वै। k का भान ज्ञात कयें। 
+[A] 𝟑√𝟔 
+[B] 13.5 
+[C] 4 
+[D] 3 
+ 
+ 
+101. Find the third proportion of P and 12, when 8, P, 16 and 18 are in proportion? 
+P ऒय 12 का तृतीम ऴभानुऩात ज्ञात कीमिए, िफ 8,P, 16 ऒय 18 ऴभानुऩात भें वैं। 
+ 
+SSC CHSL 2023 PRE
+ 
+ 
+ 
+[A] 12 
+[B] 8 
+ 
+[C] 18 
+[D] 16 
+102. The third proportional to x and x + 100 is 405, find the value of x (where x > 100). 
+x तथा x + 100 का तृतीमानुऩाती 405 वै, x का भान ज्ञात कीमिए ) िवाँ x > 100) वै। 
+(SSC GD 2025) 
+[A] 225 
+[B] 125 
+[C] 115 
+[D] 180 
+103. If the third proportion to 8 and 18 is same as the fourth proportion to 2, 81 and x2 + 2x + 2, 
+then find the value of x. 
+मदद 8 ऒय 18 का तीऴया ऴभानुऩात 2, 81 ऒय x2 + 2x + 2 के िॊथे ऴभानुऩात के ऴभान वै, तॉ x का 
+भान ज्ञात कयें। 
+[A] –1 
+[B] 1 
+[C] 2 
+[D] –2 
+104. The ratio of third proportional to X and Y and fourth proportional to X, Y and Z is 7 : 
+22, then the ratio Z : Y is: 
+X ऒय Y के तीऴेय ऴभानुऩाती तथा X, Y ऒय Z के िॊथे ऴभानुऩाती का अनुऩात 7 : 22 वै, तॉ Z : Y का 
+अनुऩात ……………. वै। 
+[A] 22 : 7 
+[B] 1 : 5 
+[C] 49 : 484 
+[D] 7 : 22 
+105. Find two numbers such that their mean proportional is 18 and the third 
+proportional to them is 144. 
+दॉ ऐऴी ऴंख्याऑं कॉ ज्ञात कयें मिनका ऒऴत आनुऩाचतक 18 ऒय तीऴया आनुऩाचतक 144 वैं। 
+[A] 6 and 42 
+[B] 9 and 36 
+ 
+[C] 3 and 18 
+[D] 6 and 12 
+106. What number should be added to each of the number 103, 135, 110 and 144 so that 
+the resulting numbers are in proportion? 
+103, 135, 110 ऒय 144 भें प्रत्येक ऴंख्या भें कॊन ऴी ऴंख्या िॉडी िानी िाहवए कक मिऴके 
+ऩहयणाभस्वरूऩ प्राप्त ऴंख्याएं ऴभानुऩात भें वॉ? 
+[A] 12 
+[B] 15 
+ 
+[C] 9 
+[D] 6 
+107. If x is substracted from each of the numbers 20, 37, 54 and 105, then the numbers 
+so obtained in this order are in proportion. What is the mean proportional 
+between (7x- 5) and (x + 1)? 
+मदद ऴंख्याऑं 20, 37, 54 ऒय 105 भें ऴे प्रत्येक ऴे x घटामा िाता वै तॉ इऴ तयव प्राप्त ऴंख्याएं अनुऩात 
+भें वॉती वै। (7x – 5) ऒय (x + 1) का भध्यानुऩात ज्ञात कीमिए। 
+ 
+ 
+[A] 8 
+[B] 9  
+ 
+ 
+[C] 6 
+[D] 12 
+108. If x is subtracted from each of 23, 39, 32 and 56, the numbers so obtained, in this order, 
+are in proportion. What is the mean proportional between (x+4) and (3x+1)? 
+मदद x कॉ 23, 39, 32 ऒय 56 भें ऴे प्रत्येक ऴे घटामा िाता वै, तॉ इऴ क्रभ भें, प्राप्त ऴंख्याएँ, ऴभानुऩात  
+भें वैं। (x + 4) ऒय (3x + 1) के फीि का भध्य आनुऩाचतक क्या वै? 
+[A] 15 
+[B] 10 
+[C] 12 
+[D] 14 
+109. When x is subtracted from each of the numbers 54, 49, 22 and 21, the numbers so 
+obtained are in proportion. The ratio of (8x – 25) to (7x – 26) is: 
+ऴंख्याऑं 54, 49, 22 ऒय 21 भें ऴे प्रत्येक ऴे X कॉ घटाने ऩय प्राप्त ऴंख्याएं ऴभानुऩात भें वैं। (8x-25) 
+ऒय (7x-26) का अनुऩात ज्ञात कयें। 
+[A] 29 : 24 
+[B] 15 : 13 
+[C] 27 : 26 
+[D] 5 : 4 
+110. When x is subtracted from each of the numbers 58, 75, 79 and 103, then the 
+resulting numbers, in the given order are in proportion. What is the mean 
+proportional between (x+2) and (3x-5)? 
+िफ प्रत्येक ऴंख्या 58, 75, 79 ऒय 103 भें ऴे x घटामा िाता वै, तॉ ददए गए क्रभ भें ऩहयणाभी ऴंख्याएँ 
+ऴभानुऩात भें वॉती वैं। (x+2) ऒय (3x-5) के फीि भाध्य आनुऩाचतक क्या वै? 
+[A] 12 
+[B] 15 
+[C] 18 
+[D] 10 
+111. If x is subtracted from each of 19 , 27 , 38 and 57 the number so obtained are in per 
+portion. Find the value of (11x + 2) 
+मदद x कॉ 19, 27, 38 ऑय 57 भें ऴे घटामा िाता वै तॉ प्राप्त ऴंख्या ऴभानुऩात भें वॉती वै (11x + 2) का 
+भान ज्ञात कीमिए। 
+[A] 54 
+[B] 61 
+ 
+ 
+[C] 59 
+[D] 60 
+112. When x is added to each of 22, 26, 19 and 21, then the numbers so obtained, in this 
+order, are in proportion. Then, if 2x : y :: y : (4x-8), and y > 0, what is the value of y? 
+िफ 22, 26, 19 ऒय 21 भें ऴे प्रत्येक भें x िॉडा िाता वै, तॉ इऴ क्रभ भें प्राप्त ऴंख्याएँ ऴभानुऩात भें वॉती 
+वैं। तॉ, मदद 2x : y :: y : (4x-8) वै, ऒय y > 0 वै, तॉ y का भान ककतना वॉगा? 
+RRB NTPC GRADUATE LEVEL 2025 CBT-1 
+ 
+[A] 48 
+[B] 37 
+[C] 46 
+[D] 54 
+113. When P is subtracted from each of the numbers 8, 6, 2 and 9, the numbers so 
+obtained in this order are in proportion. What is the mean proportional between 
+(3P–6) and (9P–4)? 
+ 
+ 
+ 
+िफ P कॉ प्रत्येक ऴंख्या 8, 6, 2 ऒय 9 भें ऴे घटामा िाता वै, तॉ इऴ क्रभ भें इऴ प्राकय प्राप्त ऴंख्याएँ 
+ऴभानुऩात भें वॉती वैं। (3P-6) ऒय (9P-4) के फीि का भाध्य ऴभानुऩाचतक वै? 
+ 
+[A] 29 
+[B] 28 
+ 
+ 
+[C] 24 
+[D] 26 
+114. The number ‘a’ is inversely proportional to ‘e’, when a = 50, e = 22. Find the 
+equation relating ‘a’ and ‘e’. 
+ऴंख्या 'a' ऴंख्या 'e' के व्युत्क्रभानुऩाती वै, ऒय a = 50 वॉने ऩय e = 22 वै। 'a' ऒय 'e' ऴे ऴंफंचधत 
+ऴभीकयण ज्ञात कीमिए। 
+[A] e = 11a 
+[B] a = 
+𝟏𝟏𝟎𝟎
+𝒆 
+[C] a = 13e 
+[D] a = 12e  
+115. If a ∝ b, b ∝ 
+𝟏
+𝒄 and c ∝ d, then the relation between a and d is:  
+मदद a ∝ b, b ∝ 
+𝟏
+𝒄 ऒय c ∝ d वै, तॉ a ऒय d के फीि क्या ऴंफंध वै?  
+(SSC CPO 2023) 
+[A] 𝐚∝√𝐝 
+[B] 𝐚∝𝐝 
+ 
+[C]  𝐚∝
+𝟏
+𝐝 
+[D] 𝐚∝𝐝𝟐 
+116. If A varies directly as B, and A = 210 when B = 51, then find A when B = 136. 
+मदद A, B के अनुक्रभानुऩाती वै, तॉ B = 51 वॉने ऩय A = 210 वॉता वै। मदद B = 136 वै, तॉ A का भान 
+ककतना वॉगा?  
+(SSC SELECTION POST XI 2023) 
+[A] 563 
+[B] 560 
+[C] 558 
+[D] 559 
+ 
+117. X varies directly as √𝒀. When Y = 20.25, X = 18. When X = 7.2, then Y=? 
+X ऴीधे √Y के रूऩ भें फदरता वै। िफ Y = 20.25, X = 18. िफ X = 7.2, तफ Y=?  
+ 
+[A] 56 
+[B] 24 
+ 
+[C] 96 
+[D] 84 
+118. x varies directly as (3y - 2), when y = 3 and x = 14. If x = 20, find the value of 'y'.  
+x ऴीधे (3y - 2) के रूऩ भें फदरता वै, िफ y = 3 ऒय x = 14. मदद x = 20 वै, तॉ 'y' का भान ज्ञात कयें। 
+UP POLICE ASSISTANT OPERATOR 2024 
+ 
+[A] 4 
+[B] 5  
+[C] 2 
+[D] 6 
+119. If x is inversely proportional to y, and y = 6 when x = 7, find the value of x, when y = 64. 
+मदद x, y के व्युत्क्रभानुऩाती वै, तथा x = 7 वॉने ऩय y = 6 वै, तॉ y = 64 वॉने ऩय x का भान ज्ञात 
+कीमिए। 
+[RRB JE 2024] 
+[A] 
+𝟐𝟏
+𝟑𝟐 
+[B] 
+𝟐𝟑
+𝟑𝟓 
+ 
+[C] 
+𝟐𝟐
+𝟑𝟑 
+[D] 
+𝟐𝟏
+𝟑𝟑 
+120. If x varies inversely as y3 - 1 and x is equal to 6 when y = 3, find x when y = 8. 
+ 
+ 
+मदद x, y3 – 1 के ब्युत्क्रभानऩाती वै ऒय y = 3 वॉने ऩय x = 6 के फयाफय वै, तॉ y = 8 वॉने ऩय x ज्ञात कयें। 
+(RRB RPF SI 2024) 
+[A] 156/512 
+[B] 157/512 
+[C] 156/511 
+[D] 158/511 
+121. X is directly proportional to A2 and A is inversely proportional to Y. If X is 39 when 
+Y is 20, find X when Y is 8. 
+X, A2 के अनुक्रभानुऩाती वै ऒय A, Y के व्युत्क्रभानुऩाती वै। मदद Y के 20 वॉने ऩय X 39 वै, तॉ Y के 8 
+वॉने ऩय X ज्ञात कीमिए। 
+(RRB NTPC GRADUATE LEVEL 2025 CBT - I) 
+[A] 243.125 
+[B] 243.75 
+[C] 208 
+[D] 250.5 
+122. A varies directly as the positive square root of B, and inversely as the cube of C, If 
+A = 15, when B = 27 and C = 2, then find B when A = 9 and C = 2? 
+A ऴीधे B के धनात्मक ऱगगभूर के रूऩ भें फदरता वै, ऒय C के घन के व्युत्क्रभानुऩाती वॉता वै, मदद A = 
+15, िफ B = 27 ऒय C = 2 वै, तॉ B ज्ञात कीमिए िफ A = 9 ऒय C = 2 वै? 
+[A] 281/42 
+[B] 243/25 
+[C] 264/37 
+[D] 275/51 
+123. R varies directly as S and inversely as T. When 𝑹=
+𝟐
+𝟑, 𝑻=
+𝟓
+𝟕& 𝑆=
+𝟒
+𝟐𝟏. Find S when 
+𝑹=
+𝟑
+𝟒& 𝑇=
+𝟏
+𝟗?  
+R ऴीधे S के रूऩ भें फदरता वै ऒय T के कऱऩयीत वॉता वै। िफ 𝑹=
+𝟐
+𝟑, 𝑻=
+𝟓
+𝟕 ऒय 𝑆=
+𝟒
+𝟐𝟏 वै । S का ऩता 
+रगाएं िफ 𝑹=
+𝟑
+𝟒& 𝑇=
+𝟏
+𝟗? 
+(ICAR TECHNICIAN) 
+ 
+[A] 
+𝟏
+𝟏𝟓 
+[B] 
+𝟏
+𝟑𝟎 
+ 
+[C] 
+𝟕
+𝟏𝟎 
+[D] 
+𝟑
+𝟓 
+124. If 𝒂𝟑+ 𝒃𝟑 is proportional to (𝒂𝟐−𝒃𝟐), then (𝒂𝟐−𝒂𝒃+ 𝒃𝟐) is proportional to? 
+मदद 𝒂𝟑+ 𝒃𝟑, (𝒂𝟐−𝒃𝟐) के ऴभानुऩाती वै, तॉ (𝒂𝟐−𝒂𝒃+ 𝒃𝟐) ककऴके ऴभानुऩाती वै? 
+[A] a – b 
+[B] a + b 
+[C] (a + ab + b) 
+[D] 𝒂𝟑−𝒃𝟑 
+125. y varies directly as x+3 and y=8, when x =1. x varies inversely as z and x = 2 when 
+z=6. Find the relation between y and z? 
+y, x+3 के अनुक्रभानुऩाती  वै ऒय y=8 वै, िफ x =1 वॉता वै। x, z के ब्युत्क्रभानऩाती वै ऒय x = 2  वै िफ 
+z=6 वॉता वै। y ऒय z के फीि ऴंफंध ज्ञात कये ? 
+(SSC MTS 2023) 
+[A] 
+𝒚−𝟔
+𝒛= 𝟐𝟒  
+[B] 
+𝒚−𝟔
+𝒛= 𝟏𝟐 
+[C] 𝒛(𝒚−𝟔) = 𝟏𝟐 
+[D] z(y-6)=24 
+126. If p varies directly as q and inversely as square of r, what is the percentage 
+increase in p due to an increase in q by 20% and decrease in r by 20%? 
+ 
+ 
+मदद p ऴीधे q के ऴभानुऩाती के रूऩ भें फदरता वै ऒय r के ऱगग ब्युत्क्रभानऩचत वै, तॉ q भें 20% की 
+ऱृद्धि ऒय r भें 20% की कभी के कायण p भें प्रचतलत ऱृद्धि क्या वै? 
+[A] 87.5% 
+[B] 85% 
+[C] 82.5% 
+[D] 80% 
+127. In an ideal gas undergoing an adiabatic process P𝑽𝟒/𝟑 is constant, where P is the 
+pressure exterted by the enclosed in volume V. If the volume increases 700%, find 
+the percentage decrease in the pressure? 
+रुिॉष्म प्रकक्रमा ऴे गुियने ऱारी एक आदलग गैऴ भें P𝑽𝟒/𝟑 स्थिय वै, िवाँ P ,आमतन V भें ऴंरग्न दाफ 
+वै। मदद आमतन 700% फढ़ िाता वै, तॉ दफाऱ भें प्रचतलत कभी ज्ञात कीमिए? 
+[A] 6.25% 
+[B] 93.75% 
+[C] 12.5% 
+[D] 87.5% 
+128. The number of schools in a city is directly proportional to the population of the 
+city. In 2020, there were 125 schools and the population of the city was 1,80,000. In 
+2023, the number of schools in the city is 180. What is the percentage increase in 
+the population of the city from 2020 to 2023? 
+ककऴी लवय भें स्कूरों की ऴंख्या ऴीधे तॊय ऩय लवय की िनऴंख्या के ऴीधे आनुऩाचतक वै। 2020 भें मवां 
+125 स्कूर थे ऒय लवय की आफादी 1,80,000 थी. 2023 भें, लवय भें स्कूरों की ऴंख्या 180 वै। 2020 ऴे 
+2023 तक लवय की िनऴंख्या भें ककतने प्रचतलत ऱृद्धि रृई वै? 
+(SSC MTS 2024) 
+ 
+[A] 44% 
+[B] 42%  
+[C] 45% 
+[D] 46% 
+129. The force acting on an object is directly proportional to its mass. If a force of 10 N 
+is required to move an object of mass 2 kg, what force (in newtons) is needed to 
+move an object of mass 5 kg?  
+ककऴी ऱस्तु ऩय रगने ऱारा फर उऴके द्रव्यभान के अनुक्रभानुऩाती वॉता वै। मदद 2 kg द्रव्यभान ऱारी 
+ऱस्तु कॉ गचतभान कयने के मरए 10 N फर की आऱश्यकता वॉती वै, तॉ 5 kg द्रव्यभान ऱारी ऱस्तु कॉ 
+गचतभान कयने के मरए आऱश्यक फर 
+)
+न्यूटन भें
+ (
+ककतना वॉगा
+? 
+ (SSC GD 2025) 
+[A] 25 
+[B] 30 
+[C] 20 
+[D] 15 
+130. The falling height of an object is proportional to the cube of time. One object falls 
+192 cm in 4 sec, then in 7 sec from how much height (in cm) will the object fall? 
+ककऴी ऱस्तु की गगयती ऊंिाई ऴभम के घन के ऴभानुऩाती वॉती वै। एक ऱस्तु 4 ऴेकण्ड भें 192 ऴेभी 
+गगयती वै, तॉ 7 ऴेकण्ड भें ऱस्तु ककतनी ऊँिाई (ऴेभी भें) ऴे गगयेगी?  
+(SSC MTS 2023) 
+[A] 1059 
+[B] 1079 
+[C] 1029 
+[D] 1009 
+ 
+ 
+131. The power consumption of an electrical device varies directly with the square of 
+the voltage applied. If a device consumes 150 watts when the voltage is 120 volts, 
+how much power (in watts) will it consume at 240 volts?  
+ककऴी कऱद्युत उऩकयण की कफिरी िऩत, अनुप्रमुक्त ऱॉल्टता के ऱगग के अनुक्रभानुऩाती वै। मदद 
+उऩकयण 120 ऱॉल्ट ऱॉल्टता वॉने ऩय 150 ऱाट की िऩत कयता वै, तॉ 240 ऱॉल्ट ऩय मव ककतनी 
+कफिरी 
+)
+ऱाट भें
+ (
+िऩत कयेगा
+? 
+(SSC GD 2025) 
+[A] 550 
+[B] 650 
+[C] 500 
+[D] 600 
+132. A length of a violin string varies inversely with respect to the frequency of its 
+vibrations. The frequency of a 14-inch-long violin string is 450 cycles per second. 
+Find the frequency of a 12-inch violin string. 
+ऱाममरन ताय की रंफाई उऴके कंऩन की आऱृगि के ऴंफंध भें व्युत्क्रभानुऩाती रूऩ ऴे फदरती वै। 14 इंि 
+रंफे ऱाममरन ताय की आऱृगि 450 िक्र प्रचत ऴेकंड वै। 12 इंि के ऱाममरन ताय की आऱृगि ज्ञात 
+कीमिए। 
+(SSC MTS 2024) 
+ 
+[A] 515 cycles per second 
+[B] 525 cycles per second 
+[C] 520 cycles per second 
+[D] 510 cycles per second 
+133. The weight of a sphere is jointly proportional to the cube of its radius and the 
+density of the material of which it is made. The radii of two spheres are 17 : 8 and 
+the densities of materials 3 : 4. If the weight of the second sphere be 40 kg, then 
+the approximate weight of the first sphere is:  
+ककऴी गॉरे का ऱिन उऴकी चिज्या के घन ऒय मिऴ ऴाभग्री ऴे ऱव फना वै उऴके घनत्व के 
+ऴभानुऩाती वॉता वै। दॉ गॉरे की चिज्याएँ 17: 8 ऒय ऴाभगग्रमों का घनत्व 3: 4 वै। मदद दूऴये गॉरे का 
+ऱिन 40 ककरॉग्राभ वै, तॉ ऩवरे गॉरे का अनुभामनत ऱिन वै: 
+(SSC MTS 2024) 
+ 
+[A] 96 kg  
+[B] 287.87 kg  
+[C] 123.26 kg 
+[D] 230 kg 
+134. The resistance of a wire is directly proportional to its length and inversely 
+proportional to the square of its radius. Two wires of the same material have the 
+same resistance and their radii are in the ratio of 7 : 8. The corresponding lengths 
+of the wires are 147 cm and L cm, respectively. Find the value of L. 
+ककऴी ताय का प्रचतयॉध उऴकी रंफाई के अनुक्रभानुऩाती तथा उऴकी चिज्या के ऱगग के व्युत्क्रभानुऩाती 
+वॉता वै। एक वी ऴाभग्री के दॉ तायों का प्रचतयॉध ऴभान वै ऒय उनकी चिज्याएँ 7:8 के अनुऩात भें वैं। तायों 
+की ऴंगत रंफाई क्रभलः 147 ऴेभी ऒय S ऴेभी वै। L का भान ज्ञात कीमिए। 
+(SSC MTS 2024) 
+[A] 168 
+[B] 192  
+[C] 128 
+[D] 158 
+ 
+ 
+135. The age of a tree depends on the number of rings in the trunk. The value of a such 
+tree is proportional to its age. If a tree with 40 rings and 50 years of age has a 
+value of Rs. 50,000, then a tree with 30 rings is ____ years of age and its value of 
+Rs.______. 
+एक ऱृक्ष की आमु उऴके तने भें भॊिूद छल्लों की ऴंख्या ऩय मनबगय कयती वै। ऐऴे ऱृक्ष का भूल्य उऴकी 
+आमु के ऴभानुऩाती वॉता वै। मदद 40 छल्लों ऒय 50 ऱळग की आमु ऱारे ऱृक्ष का भूल्य Rs. 50,000 वै, 
+तॉ 30 छल्लों ऱारे ऱृक्ष की आमु _____ ऱळग ऒय इऴका भूल्य Rs. ______ वै। 
+SSC CHSL PRE 2024 
+[A] 37.5, 57500 
+[B] 37.5, 37500 
+ 
+  
+  
+[C] 57.5, 57500  
+[D]  57.5, 37500 
+136. A gold broke into three parts, the ratio of weight of three part is 3:4:5. The price of 
+gold is directly proportional to its square weight. If there is loss of Rs23500 after 
+breaking gold then what was the starting price of gold? . 
+एक ऴॉना तीन हवस्से भें टूट गमा। इन तीनॉ हवस्से के ऱिन का अनुऩात 3:4:5 वै। ऴॉने की कीभत 
+इऴके ऱिन के ऱगग के अनुक्रभानुऩाती वै।मदद मे ऴॉना टूटने ऩय ₹23500 का नुकऴान रृआ। ऴॉने की 
+भूर कीभत क्या थी? 
+SSC CHSL PRE 2024 
+[A] 30,000 
+[B] 36,000   
+  
+[C] 40,000  
+[D]  46,000 
+137. 80 liter diesel is required to travel 800Km using 800 cc engine. If the volume of 
+diesel required to cover a distance varies directly as the capacity of the engine 
+then how many liter of diesel is required to travel 1000Km using 1200cc engine? 
+800cc की छभता की इंिन द्वाया 80 री भें 800 KM िामा िा ऴकता वै।अगय कॉई दूयी तम कयने के 
+मरए आऱश्यक डीिर की भािा, इंिन की छभता के अनुऩाचतक वॉ तॉ 1200 cc के इंिन की भदद ऴे 
+1000 KM की दूयी तम कयने भें ककतना डीिर रगेगा? 
+[A] 140 liter 
+[B] 150 liter  
+[C] 160 liter 
+[D] 120 liter 
+138. The weight of a cube varies directly as the product of its volume and its density. 
+The ratio of densities of the materials of the first cube and second cube is 27:16. If 
+the weight of the first cube is 4 times the weight of the second cube, then what is 
+the ratio of the edges of the first cube and second cube? 
+एक घन का ऱिन उऴके आमतन ऒय उऴके घनत्व के गुणनपर के अनुऴाय फदरता वै । ऩवरे घन 
+ऒय दूऴये घन के ऩदाथों के घनत्व का अनुऩात 27:16 वै। मदद ऩवरे घन का ऱिन दूऴये घन के ऱिन 
+का 4 गुना वै, तॉ ऩवरे घन ऒय दूऴये घन के ककनायों का अनुऩात क्या वै? 
+(MTS 2023) 
+ 
+[A] 2 : 3 
+[B] 3 : 2 
+[C] 3 : 4 
+[D] 4 : 3 
+ 
+ 
+139. If 𝑷𝟐 varies as R and 𝑸𝟐 varies as R, (P≠𝑸). Then which of the following are 
+correct? 
+मदद 𝑷𝟐, R के रूऩ भें फदरता वै ऒय 𝑸𝟐,R के रूऩ भें फदरता वै, (P≠Q). तॉ मनम्नमरखित भें ऴे कॊन ऴा 
+ऴवी वै? 
+A. 
+𝑷𝟐+ 𝑸𝟐 varies as R./𝑷𝟐+ 𝑸𝟐, R के रूऩ भें फदरता वै। 
+ 
+B. 
+𝑷𝑸 𝒗𝒂𝒓𝒊𝒆𝒔 as R./PQ, R के रूऩ भें फदरता वै। 
+C. 
+𝑷𝟐−𝑸𝟐 varies as R./𝑷𝟐−𝑸𝟐, R के रूऩ भें फदरता वै। 
+ 
+D. 
+Select the correct answer using the code given below. 
+ 
+नीिे ददए गए कॉड का उऩमॉग कयके ऴवी उिय िुनें। 
+(CDS-1 2024) 
+[A] I and II only 
+[B] II and III only 
+[C] I and III 
+[D] I, II and III 
+140. The force (in pound-force) needed to keep a car from skidding on a curve varies 
+directly with the weight of the car (in pounds) and the square of its speed (in 
+miles per hour) and inversely with the radius (in feet) of the curve. Suppose 6125 
+pound-force is required to keep a 2750 pound car, travelling at a speed of 35 
+mph, from skidding on a curve of radius 550 feet. How much pound-force is then 
+required to keep a 3600 pound car, travelling at a speed of 50 mph, from skidding 
+on a curve of radius 750 feet? 
+एक काय कॉ ककऴी भॉड ऩय कपऴरने ऴे फिाने के मरए आऱश्यक फर (ऩाउंड-फर भें)  काय के ऱिन 
+(ऩाउंड भें) के अनुक्रभांऩाती ऒय उऴकी गचत के ऱगग (भीर प्रचत घंटे भें) ऒय चिज्या के ब्युत्क्रभानऩती   
+वॉता वै ( ऩैयों भें) ऱक्र का। भान रीमिए कक 35 भीर प्रचत घंटे की गचत ऴे मािा कय यवी 2750 ऩाउंड की 
+काय कॉ 550 पीट चिज्या के भॉड ऩय कपऴरने ऴे फिाने के मरए 6125 ऩाउंड-फर की आऱश्यकता 
+वॉती वै। 50 भीर प्रचत घंटे की गचत ऴे मािा कय यवी 3600 ऩाउंड की काय कॉ 750 पीट चिज्या के भॉड 
+ऩय कपऴरने ऴे फिाने के मरए ककतने ऩाउंड-फर की आऱश्यकता वॉगी? 
+(SSC CGL 2023) 
+[A] 11960 
+[B] 12150 
+[C] 12240 
+[D] 12000 
+141. The ratio to Suhana's height to her father's height is 6:11. Suhana is 1.02 m tall. How 
+tall is her father? 
+ऴुवाना की रम्बाई ऒय उऴके कऩता की रम्बाई का अनुऩात 6:11 वै। ऴुवाना 1.02 भीटय रंफी वैं। उऴके 
+कऩता ककतने रम्बे वैं? 
+(CISF HCM  2022) 
+[A] 0.8 m 
+[B] 0.56 m  
+[C] 1.57 m 
+[D] 1.87 m 
+142. There are 4182 students in a school and the ratio of boys to girls in the school is 23 
+: 28, then find the number of boys in school. 
+ 
+ 
+एक कऱद्यारम भें 4182 कऱद्याथी वैं तथा कऱद्यारम भें रडकों ऒय रडककमों का अनुऩात 23 : 28 वै, तॉ 
+कऱद्यारम भें रडकों की ऴंख्या ज्ञात कीमिए। 
+(RPF CONSTABLE 2025) 
+[A] 1867 
+[B] 1886 
+ 
+ 
+[C] 1890 
+[D] 1903 
+143. A pole is 9030 cm long. It is colored saffron, white and green in the ratio of 6:7:8. 
+Find the length of the green part of the pole. 
+एक िंबा 9030 cm रंफा वै। मव 6:7:8 के अनुऩात भें केऴहयमा, ऴपेद ऒय वये यंग ऴे यंगा गमा वै। 
+िम्भे के वये बाग की रम्बाई ज्ञात कयें। 
+SSC CGL 2023 PRE 
+[A] 3440 cm 
+[B] 3010 cm 
+ 
+[C] 3480 cm 
+[D] 2580 cm 
+144. The price of a bat and a ball are in the ratio 9 : 5. The price of the bat is Rs.380 
+more than the price of the ball. Find the price of the ball.  
+एक फल्ले ऒय एक गेंद की कीभत 9: 5 के अनुऩात भें वै। फल्ले की कीभत गेंद की कीभत ऴे Rs.380 
+अचधक वै। गेंद की कीभत ज्ञात कयें। 
+[A] Rs. 470 
+[B] Rs. 485 
+[C] Rs. 475 
+[D] Rs. 480 
+145. Three positive numbers are in the ratio of 4 : 5 : 7, and the sum of their squares is 
+15,210. Find the sum of the three numbers. 
+तीन धनात्मक ऴंख्याएँ 4 : 5 : 7 के अनुऩात भें वै ऒय उनके ऱगों का मॉग 15,210 वै। तीनों ऴंख्याऑं 
+का मॉग ज्ञात कीमिए। 
+[A] 148 
+[B] 156 
+[C] 126 
+[D] 208 
+146. Two numbers are in the ratio 29 : 20. On diminishing each of them by 420, the 
+ratio becomes 17 : 11. The difference between the numbers is: 
+दॉ ऴंख्याएँ 29: 20 के अनुऩात भें वैं। उनभें ऴे प्रत्येक कॉ 420 ऴे कभ कयने ऩय, अनुऩात 17: 11 वॉ िाता 
+वै। ऴंख्याऑं के फीि का अंतय वै? 
+[A] 1000 
+[B] 1080 
+[C] 960 
+[D] 1440 
+147. The entry ticket at a fun park was increased in the ratio 7 : 9, due to which 
+footfalls fell in the ratio 13 : 11. What is the new daily collection (in Rs.), if the daily 
+collection before the price hike was Rs.2,27,500? 
+एक ऩाकग भें प्रऱेल हटकट 7: 9 के अनुऩात भें फढ़ामा गमा, मिऴके कायण पुटपॉर 13: 11 के अनुऩात भें 
+गगय गमा। नमा दैमनक ऴंग्रव (रु भें) क्या वै, मदद  ऱृद्धि ऴे ऩवरे दैमनक ऴंग्रव रु 2,27,500 था? 
+[A] 237500 
+[B] 247500 
+[C] 232500 
+[D] 242500 
+ 
+ 
+148. The railway fares of air conditioned sleeper and ordinary sleeper class are in the 
+ratio 4 : 1. The number of passengers travelled by air conditioned sleeper and 
+ordinary sleeper classes were in the ratio 3 : 25. If the total collection was 
+Rs.74,000, how much did air conditioner sleeper passengers pay? 
+ऱातानुकूमरत स्लीऩय ऒय ऴाधायण लमनमान िेणी के येरऱे ककयाए 4: 1 भें वैं। ऱातानुकूमरत 
+लमनमान ऒय ऴाधायण लमनमान िेणी के माचिमों की ऴंख्या 3: 25 के अनुऩात भें वैं। मदद कुर 
+ऴंग्रव 74,000 रुऩमे था, तॉ ककतना ककयामा  एमय कंडीलनय स्लीऩय के माचिमों ने बुगतान ककमा? 
+[A] Rs.30,000 
+[B] Rs.20,000 
+[C] Rs.24,000 
+[D] Rs.32,000 
+149. A and B together have Rs 1455. If 4/15 of A’s amount is equal to 2/5 of B’s amount, 
+how much amounts does B have? 
+A ऒय B के ऩाऴ कुर मभराकय 1455 रुऩमे वैं। मदद A की यामल का 4/15, B की यामल के 2/5 के फयाफय 
+वै, तॉ B के ऩाऴ ककतनी यामल वै? 
+DSSSB ASSISTANT GRADE-III 2024 
+[A] Rs. 488 
+[B] Rs. 582 
+[C] Rs. 600 
+[D] Rs. 450 
+150. A sum of Rs. 8,200 is to be divided among A, B, and C in the ratio 7:8:9. What is C's share? 
+8,200 रुऩमे की यामल कॉ A, B ऒय C भें 7:8:9 के अनुऩात भें कऱबामित ककमा िाना वै। C का हवस्सा क्या वै? 
+(DELHI POLICE HEAD CONSTABLE 2025) 
+[A] Rs. 3075 
+[B] Rs. 4025 
+[C] Rs. 6055 
+[D] Rs. 5095 
+151. A sum of Rs.4800 is divided among A, B, and C in the ratio 3 : 4 : 5. The share of B is 
+how much more than that of A? 
+4800 रुऩमे की यामल कॉ A, B ऒय C भें 3:4:5 के अनुऩात भें कऱबामित ककमा गमा वै। B का हवस्सा A 
+के हवस्से ऴे ककतना ज़्यादा वै? 
+(SSC CGL MAINS 2025) 
+[A] Rs.200 
+[B] Rs.300  
+ 
+[C] Rs.400 
+[D] Rs.500 
+152. A sum of Rs. 8772 is divided among Anuj, Chandan and Bikram in such a way that 
+the shares of Anuj and Chandan are in the ratio 2:3 and those of Chandan and 
+Bikram are in the ratio 5:6. Find Chandan's share 
+8772 रुऩमे की यामल कॉ अनुि, िंदन ऒय कऱक्रम के फीि इऴ प्रकाय कऱबामित ककमा गमा वै कक अनुि 
+ऒय िंदन के लेमय 2:3 के अनुऩात भें वै ऒय िंदन ऒय कऱक्रभ के लेमय 5:6 के अनुऩात भें वै। िंदन का 
+हवस्सा ज्ञात कीमिए। 
+[A] Rs. 4312 
+[B] Rs. 2341 
+ 
+[C] Rs. 2041 
+[D]  Rs. 3060 
+153. A sum of money was divided between Cyrus, Rohan and Mishti. The ratio of the 
+sums received by Cyrus and Rohan was 3 : 2, while the ratio of the sums received 
+ 
+ 
+by Rohan and Mishti was 7 : 12. If the sum received by Cyrus was ₹1,800 less than 
+the sum received by Mishti, how many rupees did Rohan receive as his share? 
+ऴाइयऴ, यॉवन ऒय मभष्टी के फीि एक धनयामल फांटी गई। ऴाइयऴ ऒय यॉवन द्वाया प्राप्त यामल का 
+अनुऩात 3: 2 था, िफकक यॉवन ऒय मभष्टी द्वाया प्राप्त यामल का अनुऩात 7: 12 था। मदद ऴाइयऴ द्वाया 
+प्राप्त यामल मभष्टी द्वाया प्राप्त यामल ऴे ₹1,800 कभ थी, तॉ ककतने यॉवन कॉ उऴके हवस्से के रूऩ भें 
+ककतने रुऩमे प्राप्त रृए? 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+[A] Rs. 7560 
+[B] Rs. 9240 
+[C] Rs. 6300 
+[D] Rs. 8400 
+154. A man divided his property so that his son’s share to his wife’s and wife’s share to 
+his daughter’s are both as in the ratio 5 : 2. If the daughter gets Rs.29,400 less 
+than son, the value (in rupees) of the whole property is : 
+एक आदभी ने अऩनी ऴंऩगि का फंटऱाया ककमा ताकक उऴके फेटे के   हवस्से , उऴकी  ऩत्नी के   हवस्से   
+ऒय ऩत्नी के   हवस्से  , उऴकी  फेटी के   हवस्से  , दॉनों अनुऩात 5:2 भें वैं। अगय फेटी कॉ फेटे ऴे 29400 
+रुऩमे कभ मभरते वैं, तॉ ऩूयी ऴंऩगि का भूल्य (रुऩमे भें) वै : 
+[A] Rs.54600 
+[B] Rs.56,000 
+[C] Rs.52650 
+[D] Rs.58500 
+155. A sum of Rs.12,000 is divided between A, B, C and D such that the ratio of shares of 
+A and B is 8 : 9, that of B and C is 2 : 3 and that of C and D is 9 : 13. What is the 
+difference between the shares of B and D? 
+Rs.12,000 की एक धनयामल A, B, C ऒय D के फीि इऴ तयव कऱबामित की िाती वै, कक A ऒय B के 
+हवस्सों का अनुऩात 8 : 9 वै, B ऒय C का अनुऩात 2 : 3 वै तथा C ऒय D का अनुऩात 9: 13 वै। B ऒय D 
+कॉ प्राप्त वॉने ऱारे हवस्से भें अंतय ज्ञात कीमिए। 
+[A] Rs.1,320 
+[B] Rs.2,400 
+ 
+ 
+[C] Rs.2,520 
+[D] Rs.2,760 
+156. Three numbers are in the ratio 
+𝟑
+𝟒:
+𝟓
+𝟖:
+𝟕
+𝟏𝟐. If the between the greatest and the 
+smallest number is 48, the value of the greatest number will be: 
+तीन ऴंख्याऑं का अनुऩात 
+𝟑
+𝟒:
+𝟓
+𝟖:
+𝟕
+𝟏𝟐 वै। मदद ऴफऴे फडी ऴंख्या ऒय ऴफऴे छॉटी ऴंख्या के फीि अंतय 48 
+वै, तॉ ऴफऴे फडी ऴंख्या का भान ज्ञात कयें। 
+[A] 126 
+[B] 226 
+[C] 216 
+[D] 180 
+157. If 9685 is divided into three parts in such a way that one-fourth of the first part, 
+one-third of the second part and one-sixth of the third part are equal, then what 
+is the first part? 
+मदद 9685 कॉ तीन बागों भें इऴ प्रकाय कऱबामित ककमा िाता वै कक ऩवरे बाग का 
+𝟏
+𝟒, दूऴये बाग का 
+𝟏
+𝟑 
+ऒय तीऴये बाग का 
+𝟏
+𝟔 फयाफय वै, तॉ ऩवरा बाग ज्ञात कयें। 
+[A] 4470 
+[B] 2253 
+ 
+ 
+[C] 2980 
+[D] 2235 
+158. A rich person distributed 725 gifts among 4 children. The first child received gifts 
+twice the share of the second child, three times the share of the third child and 
+four times the share of the fourth child. calculate  the number of total gifts 
+received by the first and the second child. 
+एक अभीय व्यगक्त ने 4 फच्चों भें 725 उऩवाय फांटे।  ऩवरे फच्चे के हवस्से भें आमे गगफ्ट, दूऴये फच्चे के 
+हवस्से भें आमे गगफ्ट का दॉगुना, तीऴये फच्चे के हवस्से भें आमे गगफ्ट का तीन गुना ऒय िॊथे फच्चे के 
+हवस्से भें आमे गगफ्ट का िाय गुना वै। ऩवरे ऒय दूऴये फच्चे द्वाया प्राप्त कुर उऩवायों की ऴंख्या की 
+गणना कयें। 
+RPF S.I. 06/01/2019 (Afternoon) 
+[A] 518 
+[B] 516   
+ 
+[C] 522 
+[D] 520   
+159. The expenditure of a company on five heads A, B, C, D and E is in proportion to 
+3:5:7:11:? Respectively. The expenditure on E is equal to the arithmetic mean of the 
+expenditures on A and D. If the expenditure on C exceeds that on B by Rs.18,000, 
+find the total expenditure (Rs.) of the company. 
+एक कंऩनी का ऩाँि भदों A, B, C, D ऒय E ऩय व्यम क्रभल: 3:5:7:11 :? के अनुऩात भें वै। E ऩय व्यम A 
+ऒय D ऩय व्यम के अंकगद्धणतीम भाध्य के फयाफय वै। मदद c ऩय व्यम B ऩय  व्यम ऴे 18,000 रुऩमे 
+अचधक वै, तॉ कंऩनी का कुर व्यम (यऩमे भें) ज्ञात कीमिए। 
+(SSC CGL MAINS 2025) 
+[a] Rs.1,80,000 
+[b] Rs.2,40,000 
+ 
+ 
+[c] Rs.2,97,000 
+[d] Rs.2,52,000 
+160. A sum is distributed between A, B and C in the ratio 9 : 6 : 11. If A gives 500 from his 
+share to C, the ratio of shares of A, B and C becomes 4 : 3 : 6. What is the sum of 
+shares of B and C, in the beginning? 
+ 
+एक धनयामल A ,B ऒय C के फीि 9: 6 : 11 के अनुऩात भें फांटी िाती वै। मदद A अऩने हवस्से ऴे 500 C 
+कॉ दे देता वै तॉ A,B ऒय C के हवस्सों का अनुऩात 4:3:6 वॉ िाता वै। B ऒय C के आंयमबक हवस्सों का 
+मॉग क्या वै? 
+ 
+[A] 7,800 
+[B] 9,100 
+ 
+ 
+ 
+[C] 7,500 
+[D] 8,500 
+161. A stall sells popcorn and chips in packets of three sizes: large, super and jumbo. 
+The numbers of large, super and jumbo packets in its stocks are in the ratio 
+7:17:16 for popcorn and 6:15:14 for chips. If the total number of popcorn packets in 
+its stock is the same as that of chips packets, then the number of jumbo popcorn 
+and jumbo chips packets are in the ratio? 
+एक स्टॉर ऩॉऩकॉनग ऒय चिप्स कॉ तीन आकायों के ऩैकेटों भें फेिता वै: फडे, ऴुऩय ऒय िंफॉ। इऴके 
+लेमयों भें फडे, ऴुऩय ऒय िंफॉ ऩैकेटों की ऴंख्या ऩॉऩकॉनग के मरए 7:17:16 ऒय चिप्स के मरए 6:15:14 के 
+ 
+ 
+अनुऩात भें वै। मदद इऴके स्टॉक भें ऩॉऩकॉनग ऩैकेटों की कुर ऴंख्या चिप्स ऩैकेटों के ऴभान वै, तॉ िंफॉ 
+ऩॉऩकॉनग ऒय िंफॉ चिप्स ऩैकेटों की ऴंख्या ककऴ अनुऩात भें वै? 
+[A] 1:1 
+[B] 8:7     
+[C] 4:3 
+[D] 6:5 
+162. Divide Rs. 14136 among A, B and C such that 2 time A’s share, 3 times B’s share 
+and 5 times C’s share are all equal. What is the share of C? 
+Rs. 14136 की यामल कॉ A, B ऒय C के फीि इऴ प्रकाय फाँहटए कक A के हवस्से का 2 गुना, B के हवस्से 
+का 3 गुना ऒय C के हवस्से का 5 गुना ऴबी फयाफय वों। 
+[A] Rs.456 
+[B] Rs.1413  
+[C] Rs.2736 
+[D] Rs. 3680 
+163. Rs. 43,120 is divided among P, Q and R such that P's share is 4/7 of total share of Q 
+and R together and Q's share is 2/5 of total share of P and R together. What is the 
+share of R? 
+Rs. 43,120 कॉ P, Q ऒय R भें इऴ प्रकाय फांटा िाता वै कक P का हवस्सा Q ऒय R के कुर हवस्से का 4/7 
+वै ऒय Q का हवस्सा P ऒय R के कुर हवस्से का 2/5 वै। R का हवस्सा ककतना वै? 
+[A] Rs. 15120 
+[B] Rs. 14220 
+[C] Rs. 16400 
+[D] Rs. 18050 
+164. A sum of Rs. 4080 is divided among A, B, C & D such that the combined share of A 
+& C to the combined ratio of B & D is 5:7 and the ratio of the share of A & D is 7:17. If 
+C receives Rs 1105, then what is the difference between A and B? 
+4080 रुऩमे की यामल कॉ A, B, C ऒय D के फीि इऴ तयव कऱबामित ककमा िाता वै कक A ऒय C का 
+ऴंमुक्त हवस्सा B ऒय D के ऴंमुक्त अनुऩात ऴे 5:7 वै ऒय A ऒय D के हवस्से का अनुऩात 7:17 वै।. मदद C 
+कॉ 1105 रुऩमे मभरते वैं, तॉ A ऒय B के फीि का अंतय क्या वै? 
+[A] 320 
+[B] 340 
+[C] 360 
+[D] 425 
+165. Some amount of money has to be distributed among A, B and C in the ratio 9:8:6 
+but by mistake it is distributed in the ratio 
+𝟏
+𝟗:
+𝟏
+𝟖:
+𝟏
+𝟔, Due to this B losses Rs. 1000. Then 
+find the total money which has to be distributed? 
+कुछ यामल कॉ A, B ऒय C के फीि 9: 8: 6 के अनुऩात भें कऱतहयत ककमा िाना वै, रेककन गरती ऴे इऴे 
+𝟏
+𝟗:
+𝟏
+𝟖:
+𝟏
+𝟔 के अनुऩात भें कऱतहयत ककमा िाता वै, इऴ के कायण B कॉ 1000 रु का नुकऴान रृआ । कपय कुर 
+धन का ऩता रगाएं मिऴका कऱतयण ककमा िाना वै?  
+(CGL MAINS 2019) 
+[A] 27840 
+[B] 21924        
+[C] 33350 
+[D] 26680  
+166. A sum of Rs 15525 is divided among Sunil, Anil and Jameel such that if Rs 22, Rs 35 
+and Rs 48 be diminished from their shares respectively, their remaining sums 
+ 
+ 
+shall be in the ratio 7 : 10 : 13. What would have been the ratio of their sums if Rs 16, 
+Rs77 and Rs37 respectively were added to their original shares. 
+15525 रुऩमे की यामल कॉ ऴुनीर, अमनर ऒय िभीर के फीि फांटा गमा वै | अगय 22 रुऩमे, 35 रुऩमे 
+ऒय 48 रुऩमे क्रभलः उनके लेमयों ऴे कभ वॉ िाते वैं, तॉ उनकी लेळ यकभ 7 : 10 : 13 के अनुऩात भें 
+वॉगी । मदद उनके भूर लेमयों भें क्रभल: 16रु, 77रु ऒय 37रु  िॉड ददए िामे तॉ उनकॉ प्राप्त यामल का 
+अनुऩात क्या वॉगा । 
+[A] 9:13:17 
+[B] 18:26:35  
+[C] 36:52:67 
+[D] 32:53:71 
+167. The ratio of the monthly incomes of X and Y is 5 : 4 and that of their monthly 
+expenditures is 9 : 7. If the income of Y is equal to the expenditure of X, then what 
+is the ratio of the savings of X and Y? 
+X ऒय Y की भामऴक आम का अनुऩात 5: 4 वै ऒय उनके भामऴक व्यम का अनुऩात 9 : 7 वै। मदद Y की 
+आम X के व्यम के फयाफय वै, तॉ X ऒय Y की फित का अनुऩात ज्ञात कीमिए? 
+[A] 6:7 
+[B] 8:9 
+ 
+ 
+ 
+[C] 7:6 
+[D] 9:8 
+168. The income of A is 40% more than the income of B, and the expenditure of B is 
+66
+𝟐
+𝟑% that of A. If the expenditure of A is equal to 1.25 times the income of B, then 
+what is the ratio of saving of A and B? 
+A की आम B की आम ऴे 40% अचधक वै, ऒय B का व्यम A के 66
+𝟐
+𝟑% वै। मदद A का व्यम B की आम के 
+1.25 गुना के फयाफय वै, तॉ A ऒय B के फित का अनुऩात क्या वै?  
+(ICAR Assistant 2022) 
+[A] 7:6 
+[B] 5:4 
+[A] 8:5 
+[D] 9:10 
+169. The income of A is 80% of B's income and the expenditure of A is 60% of B's 
+expenditure. If the income of A is equal to 90% of B's expenditure, then by what 
+percentage are the savings of A more than B's savings? 
+A की आम, B की आम की 80% वै ऒय A का व्यम, B के व्यम का 60% वै। मदद A की आम, B के व्यम के 
+90% के फयाफय वै, तॉ A की फित, B की फित ऴे ककतने प्रचतलत अचधक वै? 
+[A] 100% 
+[B] 140% 
+ 
+[C] 125% 
+[D] 150% 
+170. The ratio of the salaries of S to F is 2 : 3 and the ratio of their saving is 3 : 4. What is 
+the ratio of their expenditures if their total saving are equal to the salary of S? 
+S ऒय F के ऱेतन का अनुऩात 2 : 3 वै ऒय उनकी फित का अनुऩात 3 : 4 वै। मदद उनकी कुर फित S के 
+ऱेतन के फयाफय वै, तॉ उनके व्यम का अनुऩात क्या वै? 
+[SSC Selection Post (Phase-XII)] 
+[A] 8 : 13 
+[B] 7 : 15 
+ 
+[C] 7 : 12 
+[D] 8 : 15 
+ 
+ 
+171. The total income and the total expenditure of two persons A and B are in the ratio 
+22:17. The incomes of A and B are in the ratio 5:6 and their expenses are in the 
+ratio 7:10. What is the ratio of the savings of A and B? 
+दॉ व्यगक्तमों A ऒय B की कुर आम ऒय कुर व्यम का अनुऩात 22:17 वै। A ऒय B की आम का अनुऩात 
+5:6 वै ऒय उनके व्यम का अनुऩात 7:10 वै। A ऒय B की फित का अनुऩात क्या वै? 
+[A] 3:2 
+[B] 2:3 
+[C] 7:12 
+[D] 10:9 
+172. A and B spend 60% and 75% of their income, respectively. If the saving of A is 20% 
+more than that of B, then by what percentage is the income of A less than the 
+income of B? 
+A ऒय B क्रभलः अऩनी आम का 60% ऒय 75% ििग कयते वैं। मदद A की फित B की तुरना भें 20% 
+अचधक वै, तॉ A की आम B की आम ऴे कभ ककतने प्रचतलत वै? 
+[A] 15 
+[B] 20 
+ 
+ 
+ 
+[C] 10 
+[D] 25 
+173. A, B and C spend 80%, 85% and 75% of their incomes respectively. If their savings 
+are in the ratio 8:9:20 and the difference between the incomes of A and C is Rs 
+18000, then the income of B is: 
+A, B ऒय C अऩनी आम का क्रभलः 80%, 85% ऒय 75% ििग कयते वैं। मदद उनकी फित का अनुऩात 
+8: 9 : 20 वॉ तथा A ऒय C की आम भें रू.18,000 का अंतय वॉ, तॉ B की आम क्या वॉगी? 
+[A] Rs. 24000 
+[B] Rs. 30000 
+[C] Rs. 27000 
+[D] Rs. 36000 
+174. Total monthly income of A, B and C is Rs. 102720. A, B and C save 20%, 10% and 25%, 
+respectively of their incomes. If the ratio of their monthly expenditures is 3:4:5, 
+then what is the sum (in Rs) of monthly incomes of A and C? 
+A, B ऒय C की कुर भामऴक आम 102720 रुऩमे वै। A, B ऒय C अऩनी आम का क्रभलः 20%, 10% 
+ऒय 25% फिाते वैं। मदद उनके भामऴक व्यम का अनुऩात 3:4:5 वै, तॉ A ऒय C की भामऴक आम का 
+मॉग (रुऩमे भें) क्या वै? 
+(IB ACIO 2023) 
+[A] 56250 
+[B] 60000 
+[C] 61875 
+[D] 72000 
+175. The ratio of income of A, B, C is 7:9:12 and their expenditure ratio is 8:9:15. If the 
+saving of A is 1/4 of its income, then what will be the ratio of savings of, A, B, C? 
+A, B, C की आम का अनुऩात 7: 9: 12 वै ऒय उनका व्यम अनुऩात 8: 9: 15 वै। मदद A की फित इऴकी 
+आम का 1/4 वै तॉ A, B, C की फित का अनुऩात क्या वॉगा? 
+[A] 56:99:69 
+[B] 99:56:69  
+[C] 69:56:99 
+[D] 99:69:56 
+ 
+ 
+176. The incomes of P, Q and R are in the ratio 10 : 12 : 9 and their expenditures are in 
+the ratio 12 : 15 : 8. If Q saves 25% of his income, then what is the ratio of the 
+savings of P, Q and R?  
+P, Q ऒय R की आम 10:12:9 के अनुऩात भें वै ऒय उनके व्यम का अनुऩात 12:15:8 वै। मदद Q अऩनी 
+आम का 25% फिाता वै, तॉ फित का अनुऩात क्या वै? 
+(SSC CGL 2024 Pre) 
+[A] 15 : 14 : 21 
+[B] 14 : 15 : 21 
+[C] 21 : 15 : 14 
+[D] 21 : 14 : 15 
+177. In the income statement of Mukund and Vinod, the ratio of their income in the 
+year 2020 was 7:5. The ratio of Mukund’s income in the year 2021 to that in 2020 is 
+4:7 and the ratio of Vinod’s income in the year 2021 to that in 2020 is 5:2. If Rs 19404 
+is the sum of the income of Mukund and Vinod in the year 2021, then find the 
+income of Vinod in the year 2020? 
+भुकुंद ऒय कऱनॉद के आम कऱऱयण भें ऱळग 2020 भें उनकी आम का अनुऩात 7:5 था। ऱळग 2021 भें भुकुंद 
+की आम का अनुऩात 2020 भें 4:7 वै ऒय कऱनॉद की ऱळग 2021 भें आम का अनुऩात 2020 भें 5:2 वै। मदद 
+ऱळग 2021 भें भुकुंद ऒय कऱनॉद की आम का मॉग 19404 रुऩमे वै, तॉ ऱळग 2020 भें कऱनॉद की आम ज्ञात 
+कीमिमे? 
+(DDS ASO 2023) 
+[A] Rs 5950 
+[B] Rs 6580 
+[C] Rs 5880 
+[D] Rs 6890 
+178. The ratio of income of A to that of B is 4 : 3. The expenditure of A is 
+𝟓
+𝟏𝟐 of his income 
+and the expenditure of B is 
+𝟕
+𝟏𝟓 of his income. The difference between their 
+expenditures is ₹4,500  Find the income of B. 
+A ऒय B की आम का अनुऩात 4 : 3 वै। A का व्यम उऴकी आम का 
+𝟓
+𝟏𝟐 वै ऒय B का व्यम उऴकी आम का 
+7
+15 वै। उनके व्यम का अंतय ₹4,500 वै। B की आम ज्ञात कीमिए। 
+[A] Rs. 49,625 
+[B] Rs. 48,625 
+[C] Rs. 51,625 
+[D] Rs. 50,625 
+179. The ratio of the incomes of A and B last year was 4:3, respectively. The ratios of 
+their individual incomes of the last year and the present year are 3:4 and 5:6, 
+respectively. If their total income for the present year is ₹8.04 lakh, then the 
+income of B last year was: 
+कऩछरे ऱळग A ऒय B की आम का अनुऩात क्रभलः 4: 3 था। कऩछरे ऱळग ऒय ऱतगभान ऱळग के उनके 
+व्यगक्तगत आम के अनुऩात क्रभलः 3: 4 ऒय 5: 6 वैं। मदद ऱतगभान ऱळग के मरए उनकी कुर आम ₹8.04 
+राि वै, तॉ कऩछरे ऱळग B की आम थी: 
+[A] ₹3.6 lakh 
+[B] ₹2.4 lakh 
+ 
+ 
+[C] ₹2.7 lakh 
+[D] ₹2.8 lakh 
+ 
+ 
+180. On the whole surface of earth the ratio of land and water is 3:5. The land and 
+water in northern hemisphere is 7:9. Then what is the ratio of land and water in 
+southern hemisphere? 
+ऩृथ्वी की ऩूयी ऴतव ऩय बूमभ ऒय िर का अनुऩात 3: 5 वै। उियी गॉराधग भें बूमभ ऒय ऩानी 7: 9 वै। 
+कपय दमक्षणी गॉराधग भें बूमभ ऒय ऩानी का अनुऩात क्या वै? 
+[A] 6:7 
+[B] 5:11     
+[C] 9:2 
+[D] 3:2 
+181. In a colored picture of Red and green color, Red and green color is used in the 
+ratio 2:3 respectively. If in the upper half, Green: Red is 5 : 4, then in the lower half 
+Red:Green ratio is: 
+रार ऒय वये यंग की एक यंगीन तस्वीय भें, रार ऒय वये यंग का उऩमॉग क्रभलः 2 : 3 के अनुऩात भें 
+ककमा िाता वै। मदद ऊऩयी आधे भें, वया: रार 5 : 4 वै, तॉ मनिरे आधे भें रार: वया अनुऩात वै: 
+[A] 22:23       
+[B] 11:34      
+[C] 10:7 
+[D] 16:29 
+182. Ranita's 40% income is equal to 56% of Bhaskar's income. If Ranita's income was 
+₹800 more than what it is and Bhaskar's income was ₹2,000 more than what it is, 
+then the ratio of the incomes of Ranita and Bhaskar would have been 4 : 3. What 
+is the actual combined income of Ranita and Bhaskar? 
+यमनता की आम का 40%, बास्कय की आम के 56% के फयाफय वै। मदद यमनता की आम, उऴकी ऱतगभान 
+आम ऴे ₹800 अचधक वॉती ऒय बास्कय की आम उऴकी ऱतगभान आम ऴे ₹2,000 अचधक वॉती, तॉ 
+यमनता ऒय बास्कय की आम का अनुऩात 4: 3 वॉता। यमनता ऒय बास्कय की ऱास्तकऱक ऴंमुक्त आम 
+क्या वै? 
+[A] ₹67,200 
+[B] ₹68,200 
+[A] ₹66,800 
+[B] ₹67,800 
+183. The ratio of the incomes of two persons A and B is 
+11
+ :
+9
+, and the ratio of their 
+expenditures is 
+9
+  :
+7
+ .
+If each of them manages to save ₹20400 per month, then the 
+income of A (in ₹) is: 
+दॉ व्यगक्तमों A ऒय B की आम का अनुऩात 11:9 वै, ऒय उनके व्यम का अनुऩात 9:7 वै। मदद उनभें ऴे 
+प्रत्येक प्रचत भाव ₹ 2,400 फिाने भें ऴपर वॉता वै, तॉ A की आम
+ 
+ ₹) भें (ककतनी वै: 
+(ICAR Technician 2023) 
+[
+2
+]
+ 120000
+ 
+ 
+[
+B
+]
+ 140400  
+[
+C
+]
+ 130200 
+[
+D
+]
+ 100800 
+184. The monthly incomes of two friends Amit and Gopal, are in the ratio 5 : 7 
+respectively and each of them saves ₹72000 every month. If the ratio of their 
+monthly expenditure is 2 : 3, find the monthly income of Amit(in ₹). 
+दॉ मभिों अमभत ऒय गॉऩार की भामऴक आम का अनुऩात क्रभलः 5:7 वै ऒय ऱे दॉनों वय भवीने 
+₹72000 फिाते वैं। मदद उनके भामऴक व्यम का अनुऩात 2:3 वै, तॉ अमभत की भामऴक आम (₹ भें) ज्ञात 
+कीमिए। 
+ 
+ 
+(RPF CONSTABLE 2025) 
+[A] 360000 
+[B] 359000 
+[C] 504000 
+[D] 361000 
+185. Sohit and Rohit have a certain sum of money in the ratio of 17 : 14 and they spend 
+their money on purchasing books in the ratio of 12 : 8. After purchasing books 
+each of them has ₹3,392. Find the amount of money that Sohit initially had. 
+ऴॉहवत ऒय यॉहवत के ऩाऴ 17 : 14 के अनुऩात भें एक मनमित धनयामल वै ऒय ऱे अऩनी धनयामल 12 : 8 
+के अनुऩात भें ऩुस्तकें ियीदने ऩय ििग कयते वैं। ऩुस्तकें ियीदने के फाद उनभें ऴे प्रत्येक के ऩाऴ 
+₹3,392 फिते वैं। ऴॉहवत के ऩाऴ आयंब भें ककतनी धनयामल थी? 
+[A] ₹7,274 
+[B] ₹7,208 
+[C] ₹7,256 
+[D] ₹7,218 
+186. The ratio of the income of A to that of B is 5 : 7. A and B save Rs.4,000 and Rs.5,000 
+respectively. If the expenditure of A is equal to 66
+𝟐
+𝟑% of the expenditure of B, then 
+the total income of A and B is : 
+A ऒय B की आम का अनुऩात 5: 7 वै। A ऒय B क्रभलः रु 4000 ऒय Rs.5,000 फिाते वैं। मदद A का 
+व्यम B के व्यम के 66
+𝟐
+𝟑% के फयाफय वै, तॉ A ऒय B की कुर आम वै: 
+ 
+[A] Rs.28,800 
+[B] Rs.26,400 
+ 
+[C] Rs.25,200 
+[D] Rs.24,000 
+187. X and Y have their monthly incomes in the ratio 9 : 7 while their monthly 
+expenditures are in the ratio 5 : 3. If they have saved Rs.16,000 and Rs.14,000 
+monthly, respectively, then the difference in their monthly incomes is: 
+X ऒय Y की भामऴक आम 9: 7 के अनुऩात भें वै िफकक उनके भामऴक ििग 5 : 3 के अनुऩात भें वैं। मदद 
+उन्होंने क्रभलः रु. 16,000 ऒय रु. 14,000 भामऴक की फित की वै, तॉ उनकी भामऴक आम भें अंतय 
+ककतना वै? 
+[A] Rs. 5,500 
+[B] Rs. 7,500 
+[C] Rs.8,000 
+[D] Rs. 6,000 
+188. The ratio of the incomes of A and B is 3 : 5, whereas the ratio of their expenditure 
+is 4 : 7 respectivley . If A and B save Rs. 16,000 and 26,000 respectivley then what is 
+the difference between their expenditures? 
+A ऒय B की आम का अनुऩात 3 : 5 वै, िफकक उनके व्यम का अनुऩात कभलः 4 : 7 वै। मदद A ऒय B 
+कभलः 16000 ऒय 26000 की फित कयते वै तॉ उनके व्यम के फीि का अंतय ज्ञात कीमिए। 
+[A] 6800 
+[B] 5400 
+ 
+ 
+[C] 5000 
+[D] 6000 
+189. The ratio of incomes of Seema and Darshan is 2 : 3. They save ₹15,000 and ₹9,000, 
+respectively. If the ratio of their expenditures is 12 : 19, then what is the total 
+expenditure (in ₹) of Seema and Darshan? 
+ 
+ 
+ऴीभा ऒय दलगन की आम का अनुऩात 2 : 3 वै। ऱे क्रभलः ₹15,000 ऒय ₹9,000 की फित कयते वैं। मदद 
+उनके व्यम का अनुऩात 12 : 19 वै, तॉ ऴीभा ऒय दलगन का कुर व्यम  ( ₹ भें) ज्ञात कीमिए। 
+(1-RRB 2TPC GR2DU2TE SEVES 2025 CBT) 
+[A] 4,21,000 
+[B] 4,18,500 
+[C] 4,18,000 
+[D] 4,22,000 
+190. The ratio of the incomes of Ajay and Bina is 5:4 and the ratio of their expenditure is 6 : 5. If 
+the ratio of the savings is 7 : 5, what percentage of his income does Ajay save? 
+अिम ऒय फीना की आम का अनुऩात 5: 4 वै ऒय उनके ििग का अनुऩात 6: 5 वै। मदद फित का 
+अनुऩात 7: 5 वै, तॉ अिम अऩनी आम का ककतना प्रचतलत फिाता वै? 
+SSC CHSL PRE 2024 
+[A] 28% 
+[B] 25%      
+[C] 30% 
+[D] 32% 
+191. The ratio of two numbers is 3 : 5. If 39 is added to the first, and 14 is added to the 
+second, then the ratio becomes 6 : 7. What will be the ratio become if 11 is added 
+to first number and 6 is added to second number? 
+दॉ ऴंख्याऑं का अनुऩात 3 : 5 वै। मदद ऩवरी ऴंख्या भें 39 ऒय दूऴयी भें 14 िॉडा िाता वै तॉ अनुऩात 6 : 7 वॉ 
+िाता वै। मदद 11 कॉ ऩवरे नंफय ऩय ऒय 6 कॉ दूऴये नंफय भें िॉडा िाता वै तॉ अनुऩात क्या वॉगा? 
+[A] 7 : 9 
+[B] 5 : 9 
+ 
+ 
+[C] 5 : 7 
+[D] 2: 3 
+192. Two numbers are in the ratio 5 : 8. If the first number is increased by 13 and the 
+second number is decreased by 6, then the ratio becomes 4 : 6. What is the sum 
+of the original two numbers? 
+दॉ ऴंख्याएँ 5 : 8 के अनुऩात भें वैं। मदद ऩवरी ऴंख्या भें 13 की ऱृद्धि की िाए तथा दूऴयी ऴंख्या भें 6 की 
+कभी की िाए, तॉ अनुऩात 4 : 6 वॉ िाता वै। दॉनों भूर ऴंख्याऑं का मॉगपर ज्ञात कीमिए। 
+ 
+[RRB JE 2024] 
+[A] 650 
+[B] 681 
+[C] 665 
+[D] 663 
+193. The ratio of boys to girls initial in a college is 5 : 6. If 40 boys leave the college and 
+50 girls join the college, the ratio will become 8 : 11. Find the number of girls 
+(initial) in the college.  
+एक कॉरेि भें प्रायंमबक रूऩ ऴे रडकों ऒय रडककमों का अनुऩात 5 : 6 वै। मदद 40 रडके कॉरेि छॉड 
+देते वैं ऒय 50 रडककमां कॉरेि भें लामभर वॉ िाती वैं, तॉ अनुऩात 8 : 11 वॉ िाएगा। कॉरेि भें 
+रडककमों (प्रायंमबक) की ऴंख्या ज्ञात कीमिए। 
+(SSC CGL 2024 PRE) 
+[A] 740 
+[B] 860  
+[C] 720  
+[D] 640 
+ 
+ 
+194. Before a battle the ratio of tanks to planes in an army was 5 : 3. During the war 
+1000 tanks were destroyed and 800 planes were destroyed. The ratio of tanks to 
+planes became 2 : 1. What is the number of tanks after the war? 
+एक मुि ऴे ऩवरे एक ऴेना भें टैंकॉ का कऱभानों ऴे अनुऩात 5: 3 था। मुि के दॊयान 1000 टैंक नष्ट वॉ 
+गए थे ऒय 800 कऱभान नष्ट वॉ गए थे। अफ टैंकॉ की ऴंख्या का  कऱभानों की  ऴंख्या ऴे  अनुऩात 2:1 वॉ 
+गमा। मुि के फाद टैंकों की ऴंख्या ककतनी वै? 
+[A] 2000 
+[B] 1000 
+[C] 3000 
+[D] 4000 
+195. The students in the three sections A, B and C of Class X are in the ratio 5 : 4 : 7. If 15, 
+16 and 9 new students are admitted to sections A, B and C, respectively, the ratio 
+changes to 10 : 9 : 11. What is the total number of students in Class X after the new 
+admissions?  
+कक्षा X के तीन ऴेक्शन A, B ऒय C भें कऱद्यागथिमों का अनुऩात 5 : 4 : 7 वै। मदद ऴेक्शन A, B ऒय C भें 
+क्रभलः 15, 16 ऒय 9 नए कऱद्यागथिमों कॉ प्रऱेल ददमा िाता वै, तॉ अनुऩात फदरकय 10 : 9 : 11 वॉ िाता वै। 
+नए प्रऱेल के फाद कक्षा X भें कऱद्यागथिमों की कुर ऴंख्या ककतनी वै? 
+(SSC GD 2025) 
+[A] 210 
+[B] 120 
+[C] 150 
+[D] 90 
+196. In a village, the ratio of number of males to females is 5:4. The ratio of number of 
+literate males to literate females is 2:3. The ratio o the number of illiterate males 
+to illiterate females is 4:3. If 3600 males in the village are literate, then the total 
+number of females in the village is? 
+एक गाँऱ भें, ऩुरुळों की ऴंख्या का भहवराऑं ऴे अनुऩात 5:4 वै। ऴाक्षय ऩुरुळों का ऴाक्षय भहवराऑं ऴे 
+अनुऩात 2:3 वै। मनयक्षय ऩुरुळों का मनयक्षय भहवराऑं ऴे अनुऩात 4:3 वै। मदद गाँऱ भें 3600 ऩुरुळ 
+ऴाक्षय वैं, तॉ गाँऱ भें भहवराऑं की कुर ऴंख्या ककतनी वै? 
+[A] 43200 
+[B] 38400 
+[C] 40000 
+[D] 48000 
+197. In an examination, the number of students who passed and the number of 
+students who failed were in the ratio 25 : 4. If one more student had appeared 
+and the number of failed students was 3 less than earlier, the ratio of passed 
+students to failed students would have become 22 : 3. What is the difference 
+between the number of students who, initially, passed the examination and the 
+number of students who failed the examination? 
+एक ऩयीक्षा भें, उिीणग ऒय अनुिीणग कऱद्यागथिमों की ऴंख्याऑं का अनुऩात 25 : 4 था। मदद एक ऒय 
+कऱद्याथी ऩयीक्षा भें बाग रेता, ऴाथ वी अनुिीणग कऱद्यागथिमों की ऴंख्या कऩछरी ऴंख्या ऴे 3 कभ वॉती, तॉ 
+उिीणग कऱद्यागथिमों की ऴंख्या का, अनुिीणग कऱद्यागथिमों की ऴंख्या ऴे अनुऩात 22 : 3 वॉता। आयंब भें, 
+ऩयीक्षा भें उिीणग रृए कऱद्यागथिमों की ऴंख्या ऒय ऩयीक्षा रृए कऱद्यागथिमों की ऴंख्या का अंतय ककतना वै? 
+[A] 132 
+[B] 126 
+ 
+ 
+ 
+ 
+[C] 174 
+[D] 150 
+198. The ratio of the number of students in the morning shift and the afternoon shift 
+of a school was 13:9. After ‘n’ students moved from the morning shift to the 
+afternoon shift, the said ratio became 19:14. Now 153 new students sought 
+admission in the school, and these students joined the morning and the 
+afternoon shifts in the ratio 6:11 respectively. If the ratio of the number of 
+students in the morning shift and the afternoon shift of the school after the new 
+admissions became 24:19, find the value of ‘n’? 
+एक स्कूर की ऴुफव की ऩारी ऒय दॉऩवय की ऩारी भें छािों की ऴंख्या का अनुऩात 13:9 था। 'n' छािों 
+के ऴुफव की ऩारी ऴे दॉऩवय की ऩारी भें िानांतहयत वॉने के फाद, उक्त अनुऩात 19:14 वॉ गमा। अफ 
+153 नए छािों ने स्कूर भें प्रऱेल भांगा, ऒय मे छाि क्रभलः 6:11 के अनुऩात भें ऴुफव ऒय दॉऩवय की 
+ऩारी भें लामभर रृए। मदद नए प्रऱेल के फाद स्कूर की ऴुफव की ऩारी ऒय दॉऩवय की ऩारी भें छािों 
+की ऴंख्या का अनुऩात 24:19 वॉ गमा, तॉ 'n' का भान ज्ञात कीमिए? 
+(IB ACIO grade-2 2023) 
+[A] 24 
+[B] 30 
+[C] 36 
+[D] 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

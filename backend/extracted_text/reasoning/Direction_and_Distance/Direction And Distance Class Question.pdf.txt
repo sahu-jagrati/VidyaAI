@@ -1,0 +1,580 @@
+1. A person is going towards North. After walking 100 m,
+he turns to his right and walks 50 m. Again, he turns to his
+right & walks 100 m. Finally, he turns to his left & walks
+20 m. Now in which direction is he moving or facing?
+(a) West/
+(b) East/
+(c) North/
+(d) South/
+2. A person is going towards South. After walking 200 m,
+he turns to his right and walks 80m. Again, he turns to
+his right and walks 100m. After it he turns to his left and
+walks 50m. Finally, he turns to his left and walks 30m.
+Now, in which direction is he moving?
+(a) South/
+(b) North/
+(c) East/
+(d) West/
+3. A person is going towards North-East. After walking 80
+m, he turns to his right and walks 50m. After it, he turns
+to his left and walks 70m. Then he turns to his right and
+walks 40m. Again, he turns to his left and walks 20m.
+Finally, he turns to his left and walks 20m. Now, in which
+direction is he moving?
+(a) North/
+(b) North-West/
+(c) South-West/
+(d) South-East/
+4. A person is going towards North-West. After walking
+80 m, he turns to his right and walks 40m. Then he turns
+to his left and walks 30m. Again, he turns to his left and
+walks 30m. After it, he turns  to his right and walks 50
+m. Finally, he turns to his right and walks 40m. Now
+which direction is he facing?
+(a) South-East / 
+(b) South-West / 
+(c) North-West / 
+(d) North-East / 
+5. A person is going towards North. After walking 150 m,
+he turns to his right and walks 80 m. Again, he turns to
+his right and walks 90 m. After it, he again turns to his
+right and walks 60m. Finally, he turns to his left and
+walks 40m. Now which direction is he  facing?
+(a) North/
+(b) South/
+(c) East/
+(d) West/
+6. A person is moving towards North-East. After walking
+70 m, he turns to his left and walks 30m. After it, he
+again turns to his left and walks 50 m. Then, he turns to
+his right and walks 50m. Finally, he turns to his left and
+walks 30 m. Now which direction is he facing?
+(a) North-West/
+(b) North-East/
+(c) South-West/
+(d) West/
+7. A person turns to his right, after walking 100m towards
+East and walks 70m. Again, he turns to his right and
+walks 70m. After it, he again turns to his right and walks
+30m. Finally, he turns to his right and walks 50m. Now,
+in which direction is he moving?
+(a) South/
+(b) East/
+(c) North/
+(d) West/
+8. A person is going towards North-East. After walking 100
+m he turns to his left and walks 70 m. Again, he turns to
+his left and walks 70m. After it, he turns to his left and
+walks 50m. Finally, he again turns to his left and walks
+60m. Now  which direction is he facing?
+(a) North-West/
+(b) North-East/
+(c) South-West/
+(d) South-East/
+9. A person turns to his right, after walking 80 m towards
+North and walks 50 m. Again he turns to his right and
+walks 30 m. After it, he turns to his right and walks 40
+m. Now, again he turns to his right and walks 40 m.
+Finally he turns to his left and walks 30m. Now which
+direction is he facing?
+(a) North/
+(b) South/
+(c) East/
+(d) West/
+10. A person is going towards North. After walking 150 m
+he takes 300 times right turns and each time he walks 50
+m. After it he takes 200 times left turns and each time he
+walks 40 m. Now which direction is he facing?
+(a) North/
+(b) East/
+(c) South/
+(d) West/
+11. One person A is going towards North-East. After walking
+120 m he takes 200 times left turns and each time he
+walks 40 m. After  it, he takes 225 times right turn and
+each time he walks 40 m. Now, in which direction is he
+moving?
+A 
+(a) North-East/
+(b) North-West/
+(c) South-West/
+(d) South-East/
+12. If a person turns to his right after walking 100 m  straight
+and walks 50 m. Again he turns to his right and walks
+100 m. Finally he turns to his left and walks 20 m. Now
+if he is moving towards North then in which direction
+did he start to walk?
+(a) North/
+(b) West/
+(c) South/
+(d) East/
+13. A person starts walking in some direction. After walking
+120 m he turns to his right and walks 60 m. After it he
+turns to his left and walks 50 m. Then he turns to his
+right and walks 60 m. After it, he turns to his left and
+walks 70 m. Finally he again turns to his left and walks
+60 m. Now, if he is moving towards North-East then in
+which direction did he start to walk?
+(a) North-East/
+(b) North-West/
+(c) South-East/
+(d) South-West/
+14. A person turns to his right after walking 80 m straight
+and walks 20 m. After it, he turns to his left and walks
+40 m. Again, he turns to his left and walks 50m. Finally
+he turns to his left and walks 40 m. If the person is moving
+towards South-West then in which direction did he start
+to walk?
+(a) North-East /
+(b) North-West /
+(c) South-West /
+(d) South-East /
+15. A person started walking in some direction. After walking
+200 m straight, he turns to his left and walks 80 m. After
+it he takes consecutive four right turns and each time he
+walks 50 m. If the person is moving towards North then
+in which direction did he start to walk ?
+(a) East/
+(b) West/
+(c) North/
+(d) South/
+16. A person is facing North. First, he turns 45° in clockwise
+direction, then he turns 90° in Anti-clockwise direction
+and finally he turns 135° clockwise. Now which direction
+is he facing?
+45°
+90°
+135°
+(a) North-East/
+(b) North-West/
+(c) East/
+(d) South/
+17. A person is facing North-East. First, he turns 45° in
+clockwise. After it, he takes 3 turns 45° in clockwise.
+Then he turns 90° in anticlockwise and finally he again
+turns 90° in anticlockwise. Now which direction is he
+facing?
+45°
+45° 
+90°
+90°
+(a) North-West/
+(b) North-East/
+(c) South-West/
+(d) South-East/
+18. A person is facing North-West. First, he turns 135° in
+clockwise. After it, he again turns 135° in clockwise.
+Then he turns 45° in anti-clockwise. Finally, he again
+turns 45° in anti-clockwise. Now which direction is he
+facing?
+135° 
+135° 
+45°
+45°
+(a) North-East /
+(b) North-West /
+(c) South-West /
+(d) South-East /
+19. One person B is facing some direction. First, he turns
+45° in clockwise. After it, he turns 90° in clockwise. Now,
+he turns 45° in anti-clockwise. Then he turns 90° in anti-
+clockwise. Finally he turns 45° in clockwise. Now, if he
+is facing North-East, then in which direction did he start
+to walk?
+B
+45° 
+90°
+45°
+90°
+45°
+(a) East/
+(b) West/
+(c) North/
+(d) South-West/
+20. A man is going towards East. After walking 100m, he
+turns to his left and walks 25m. Again he turns to his left
+and walks 45m and Finally, he turns to his left and walks
+25m.
+(i) Now in which direction is he moving?
+(a) North/
+(b) East/
+(c) South/
+(d) West/
+(ii) Now in which direction is the person from the staring point?
+(a) East/
+(b) North/
+(c) West/
+(d) South/
+(iii)How far is he from the starting point?
+(a) 45 m
+(b) 25 m
+(c) 55 m
+(d) 195 m
+(iv)Now how far and in which direction is he from the star-
+ting point?
+(a) 45 m, West/
+(b) 45 m, East/
+(c) 55 m, West/
+(d) 55 m, East/
+21. A person walks 1km towards East. Then he turns to South
+and walks 5km. Again, he turns towards East and walks
+2km and finally, he turns to North and walks 9km. Now,
+how far and in which direction is the person from the
+starting point?
+(a) 4 km, North-East / 
+(b) 3 km, North-West / 
+(c) 5 km, North-West / 
+(d) 5 km, North-East / 
+22. A is 6 km East of B. C is 4 km North of B. D is 12 km
+South of C. Now how far and in which direction is D
+from A?
+A, B
+C, B
+D,
+C
+D, A
+(a) 10 km, North-East/
+(b) 10 km, South-West/
+(c) 14 km, South-West/
+(d) 14 km, North-East/
+23. A person walks 5 km. towards East. Then he turns to
+South and walks the same distance and finally he turns
+to his left and walks 7 km. How far and in which direction
+is he from the starting point?
+(a) 12 km., South-West/
+(b) 13 km, South-West/
+(c) 13 km., South-East/
+(d) 12 km., South-East/
+24. A person walks 1 km. towards North then he turns to his
+right at 45° and walks 2 km. and finally he turns to his
+right and walks 2 km. Now how far and in which
+direction is he from the starting point?
+45°
+(a) 3 km., North-East/
+(b) 5 km., North-East/
+(c) 3 km., South-East/
+(d) 5 km., South-East/
+25. A person walks 5 km. towards East. Then he turns to his
+right at 135° and walks 5
+2 km. Finally he turns to North
+and walks 2km., How far and in which direction is he
+from the starting point?
+135°
+5 2
+(a) 3 km., West/
+(b) 3 km., South/
+(c) 4 km., West/
+(d) 4 km., South/
+26. Abhishek started from point P and moves 15m. in South
+direction and reaches point Q. Then he turns left and
+moves 7m. and reaches point R. Again he turns left and
+moves 10m. and reaches point S. From point S he turns
+180° in anti-clockwise direction and then turns 270° in
+clockwise direction. After it, he moves 5m. straight and
+reaches point T. He turns 90° left and moves 5m. to reach
+point U and stops.
+P
+Q
+R
+S
+S
+180°
+270°
+T
+T
+90°
+U
+(i) What is the shortest distance between point P and U?
+P
+U
+(a) 10m.
+(b) 12m.
+(c) 15m.
+(d) 7m.
+(ii) In which direction is S from P?
+ S, P
+(a) North-West/
+(b) North-East/
+(c) South-West/
+(d) South-East/
+27. Amit started from point P. He moves 10m. in East
+direction and reaches point Q. Then he turns to his right
+and moves 7m. and reaches point R. Now, he turns to
+his left and moves 15m. and reaches point S. From point
+S he turns South-West and moves straight 17m. and
+reaches point T. From point T he turns towards. West
+and moves 10m. straight and reaches point U and stops.
+P
+Q
+R
+R
+S
+S
+T
+T
+U
+(i) What is the shortest distance between point Q and T?
+Q
+T
+(a) 10m.
+(b) 12m.
+(c) 15m.
+(d) 17m.
+(ii) In which direction is point P with respect to point U?
+U
+P
+(a) North-East/
+(b) North-West/
+(c) North/
+(d) South/
+28. Avni starts walking from point S to South direction. After
+walking 12km she reached to point W, then she turns to
+her right and walks 6 km. and reaches point X. Now, she
+again turns to her left and walks 12 km. and reaches
+point F where she meets Akanksha, who is coming from
+East direction. Now Akanksha is in which direction from
+point W?
+S
+W
+X
+F
+W
+(a) North-West/
+(b) North-East/
+(c) South-West/
+(d) South-East/
+29. Mohan started from point P. He moves 15m. in East
+direction and reaches point Q. Then he turns to his left
+and moves 7m. and reaches point R. Now, he turns to
+his right and moves 12m. and reaches point S. From point
+S he moves towards North-West and moves 13m. straight
+and reaches point T. Now, he moves towards West and
+walks 5m. and reaches point U. Then he turns 90° left
+and moves 8m. and stops at point V.
+P
+Q
+R
+S
+S
+T
+T
+U
+90° 
+V
+(i) What is the shortest distance between point T and Q?
+T
+Q
+(a) 5m.
+(b) 10m.
+(c) 12m.
+(d) 13m.
+(ii) In which direction is point P with respect to point R?
+R
+P
+(a) North-West/
+(b) South-West/
+(c) South/
+(d) North/
+30. If North-East becomes West ; South-East becomes North;
+North becomes South-West and so on, then what will
+West become?
+(a) South/
+(b) South-East/
+(c) East/
+(d) North-East/
+31. If North becomes North-East; West becomes North-West;
+South-East becomes south and so on, then what will
+South become?
+(a) West/
+(b) North/
+(c) North-East/
+(d) South-West/
+32. If South-East becomes South-West; South-West becomes
+North-West and so on then what will South become?
+(a) West/
+(b) East/
+(c) South-West/
+(d) South-East/
+33. If South-West becomes North-East; North-West becomes
+South-East and so on, then what will west become?
+(a) South/
+(b) North-East/
+(c) East/
+(d) South-East/
+34. It is 3'0 clock and if at this time, the minute hand points
+towards North-East, then in which direction will the hour
+hand be?
+(a) South-West/
+(b) South/
+(c) South-East/
+(d) North-East/
+35. It is 9'0 clock. If at this time, the minute hand points
+towards North-West, then in which direction will the hour
+hand be?
+(a) South/
+(b) West/
+(c) North-West/
+(d) South-West/
+36. It is 4:30. At this time, the hour hand points towards
+South-West, then in which direction will the minute hand
+be?
+(a) South-West/
+(b) South-East/
+(c) West/
+(d) East/
+37. It is 10:30. If at this time, the hour hand is pointing
+towards North, then in which direction will the hour hand
+be at 1:30?
+(a) North-West/
+(b) South/
+(c) East/
+(d) West/
+38. In morning, a person was performing yoga with his head
+down and legs up. If at this time his face is towards west,
+then in which direction will his left hand be?
+(a) South/
+(b) North/
+(c) North-East/
+(d) South-East/
+39. In morning, a person was performing yoga with his head
+down and legs up. If at this time his face is towards South,
+then in which direction will his right hand be?
+(a) East/
+(b) West/
+(c) North-West/
+(d) South-West/
+40. In morning, a person was performing yoga with his head
+down and legs up. If at this time his face is towards South-
+East, then in which direction will his left hand be?
+(a) North-West/
+(b) South-West/
+(c) North/
+(d) South/
+41. In morning, a person was performing yoga with his head
+down and legs up. If at this time his face is towards South-
+West, then in which direction will his right hand be?
+(a) North-East/
+(b) South/
+(c) North-West/
+(d) South-East/
+42. In morning, two friends Kavita and Reeta were talking
+to each other face to face. If at this time, the shadow of
+Kavita fell exactly to the left of Reeta, then which
+direction Kavita was facing?
+(a) South/
+(b) North/
+(c) East/
+(d) West/
+43. In morning, two friends Sumit and Mohit were talking
+to each other face to face. If at this time, the shadow of
+Sumit fell exactly to the right of Mohit, then which
+direction was Sumit facing?
+(a) South/
+(b) North/
+(c) West/
+(d) East/
+44. In morning, two friends Amit and Jaya were talking to
+each other face to face. If at this time, the shadow of
+Amit fell exactly to his right, then which direction was
+Amit facing?
+(a) South/
+(b) North/
+(c) West/
+(d) East/
+45. In evening, two friends Deepak and Rohan were talking
+to each other face to face. If at this time, the shadow of
+Deepak fell exactly to the right of Rohan, then which
+direction was Rohan facing?
+(a) North/
+(b) West/
+(c) East/
+(d) South/
+46. One evening, Gopal was standing facing a pole. At this
+time the shadow of pole fell exactly to his right, then
+which direction was Gopal facing?
+(a) South/
+(b) East/
+(c) North/
+(d) West/
+47. One morning two friends Sumit and Mohit were talking
+to each other face to face. If at this time the shadow of
+Sumit fell exactly to his backside, then which direction
+was Sumit facing?
+(a) North/
+(b) East/
+(c) South/
+(d) West/
+48. One evening, two friends Deepak and Rohan were talking
+to each other face to face. If at this time the shadow of
+Deepak is just ahead of him, then which direction was
+Deepak facing?
+(a) North/
+(b) East/
+(c) West/
+(d) South/
+49. A train is running from South to North and the air flow
+is from West to East. Find the direction of smoke
+exhausted from the train?
+(a) North-East/
+(b) South-East/
+(c) South/
+(d) South-West/
+50. A train is running from South to North. Then find the
+direction of smoke exhausted from the train?
+(a) North/
+(b) East/
+(c) South/
+(d) West/
+51. A train is running towards North and the air flow is
+towards South. Find the direction of smoke exhausted
+from the train?
+(a) North/
+(b) South/
+(c) West/
+(d) East/
+52. A train is stopped with its front face in the North. The
+air flow is from West to East. Find the direction of the
+smoke coming out from the train?
+(a) East/
+(b) West/
+(c) North/
+(d) South/
+53. Given/
+P @ Q = P is in 6km. East of Q;
+P  @Q = P, Q 
+P # Q = Q is in 4 km. North of P;
+P # Q = Q, P 
+P % Q = Q is in 12 km. South of P;
+P % Q = Q, P 
+If A @ B, B # C, C % D
+ A @ B, B # C, C % D
+Then, how far and in which direction is D from A?
+D, A
+(a) 18 km., North-East/
+(b) 10 km., South-West/
+(c) 10 km., South-East/
+(d) 18 km., South/
+54. Given/
+P # Q = Q is in 12km. South of P;
+P # Q = Q, P 
+P @ Q = P is in 6 km. West of Q;
+P @ Q = P, Q 
+P % Q = P is in 8 km. North of Q;
+P % Q = P, Q 
+If R # S, T @ S, U % T
+ R # S, T @ S, U % T
+Then what is the direction of S with respect to U?
+U
+S
+(a) North-East/
+(b) North-West/
+(c) South-East/
+(d) South-West/
+55. Ravi is standing at the river bank having his back towards
+the river. A leaf is floating in the river from his left to
+right. If the river flows from the North to South, then
+which direction is Ravi facing?
+(a) West/
+(b) East/
+(c) North/
+(d) South/

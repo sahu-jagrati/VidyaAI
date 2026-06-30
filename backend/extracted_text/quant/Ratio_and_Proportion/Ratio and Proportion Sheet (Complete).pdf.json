@@ -1,0 +1,35 @@
+[
+  {
+    "number": 31,
+    "question_text": "If (a + b) : (b + c) : (c + a) = 7 : 6 : 5 and a + b + c = 27, then what will be the value of 𝟏 𝒂: 𝟏 𝒃: 𝟏 𝒄? मदद (a + b): (b + c): (c + a) = 7: 6: 5 ऒय a + b + c = 27, तॉ 𝟏 𝒂: 𝟏 𝒃: 𝟏 𝒄 का भान क्या वॉगा ? [A] 4 : 3 : 6 [B] 3 : 4 : 2 [C] 3 : 2 : 4 [D] 3 : 6 : 4",
+    "option_a": "= 7: 6: 5 ऒय a + b + c = 27, तॉ 𝟏 𝒂: 𝟏 𝒃: 𝟏 𝒄 का भान क्या वॉगा ? [A] 4 : 3 : 6 [B] 3 : 4 : 2 [C] 3 : 2 : 4 [D] 3 : 6 : 4",
+    "option_b": ": (b +",
+    "option_c": ": (c +",
+    "option_d": "",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 32,
+    "question_text": "If (a + b) : (b + c) : (c + a) = 15 : 14 : 11, and a + b + c = 180, then what is the value of (3a + b – 4c)? मदद (a+ b) : (b+c) : (c+a)= 15: 14: 11, ऒय a + b+c=180 वै, तॉ (3a + b – 4c) का भान ज्ञात कयें। MTS 2020 [A] 98 [B] 77 [C] 45 [D] 63",
+    "option_a": "= 15 : 14 : 11, and a + b + c = 180, then what is the value of (3a + b – 4",
+    "option_b": ": (b+",
+    "option_c": ": (c +",
+    "option_d": "",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 139,
+    "question_text": "If 𝑷𝟐 varies as R and 𝑸𝟐 varies as R, (P≠𝑸). Then which of the following are correct? मदद 𝑷𝟐, R के रूऩ भें फदरता वै ऒय 𝑸𝟐,R के रूऩ भें फदरता वै, (P≠Q). तॉ मनम्नमरखित भें ऴे कॊन ऴा ऴवी वै? A. 𝑷𝟐+ 𝑸𝟐 varies as R./𝑷𝟐+ 𝑸𝟐, R के रूऩ भें फदरता वै। B. 𝑷𝑸 𝒗𝒂𝒓𝒊𝒆𝒔 as R./PQ, R के रूऩ भें फदरता वै। C. 𝑷𝟐−𝑸𝟐 varies as R./𝑷𝟐−𝑸𝟐, R के रूऩ भें फदरता वै। D. Select the correct answer using the code given below. नीिे ददए गए कॉड का उऩमॉग कयके ऴवी उिय िुनें। (CDS-1 2024) [A] I and II only [B] II and III only [C] I and III [D] I, II and III",
+    "option_a": "𝑷𝟐+ 𝑸𝟐 varies as R./𝑷𝟐+ 𝑸𝟐, R के रूऩ भें फदरता वै।",
+    "option_b": "𝑷𝑸 𝒗𝒂𝒓𝒊𝒆𝒔 as R./PQ, R के रूऩ भें फदरता वै।",
+    "option_c": "𝑷𝟐−𝑸𝟐 varies as R./𝑷𝟐−𝑸𝟐, R के रूऩ भें फदरता वै।",
+    "option_d": "Select the correct answer using the code given below. नीिे ददए गए कॉड का उऩमॉग कयके ऴवी उिय िुनें। (CDS-1 2024) [A] I and II only [B] II and III only [C] I and III [D] I, II and III",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

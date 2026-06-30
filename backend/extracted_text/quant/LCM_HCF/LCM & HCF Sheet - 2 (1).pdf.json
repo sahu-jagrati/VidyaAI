@@ -1,0 +1,13 @@
+[
+  {
+    "number": 84,
+    "question_text": "13, a, b, c are four distinct numbers and the HCF of each pair of numbers (13, a); (13, c) is 13, where a, b, c are each less than 60 and a < b < c. What is the value of 𝒂+𝒄 𝒃 ? a, b, c चार अिग-अिग संख्याएँ। हैं और संख्याओं के प्रत्येक जोडे (13, a); (13, b); (13, c) का म.स. 13 है, जहाँ a, b,c प्रत्येक 60 से कम है और a<b<c है 𝒂+𝒄 𝒃 का माि क्या है? [A] 3.5 [B] 2 [C] 5 [D] 4.5",
+    "option_a": "; (13,",
+    "option_b": "; (13,",
+    "option_c": "का म.स. 13 है, जहाँ a, b,c प्रत्येक 60 से कम है और a<b<c है 𝒂+𝒄 𝒃 का माि क्या है? [A] 3.5 [B] 2 [C] 5 [D] 4.5",
+    "option_d": "",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

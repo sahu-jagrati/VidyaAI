@@ -1,0 +1,883 @@
+ 
+ 
+                                        
+       BY Gagan Pratap 
+1. 
+The present age of two persons are 36 and 50 years respectively. If after n years 
+the ratio of their age will be 3 : 4, then the value of n is : 
+दो व्यक्तियों की वर्तमान आयु क्रमशः 36 और 50 वर्त है। यदद n वर्ों के बाद उनकी आयु का अनुपार् 
+3 : 4 होगा, र्ो n का मान है : 
+[a] 4 
+[b] 7  
+[c] 6 
+[d] 3 
+2. 
+The average age of a man and his son is 55 years. The ratio of their ages is 7 : 4, 
+respectively. What will be the ratio of their ages after 6 years? 
+एक व्यक्ति और उसके पुत्र की औसर् आयु 55 वर्त है। उनकी आयु का अनुपार् क्रमशः 7:4 है। 6 वर्त 
+बाद उनकी आयु का अनुपार् क्या होगा? 
+[a] 1 : 2 
+[b] 12 : 7 
+[c] 25 : 17 
+[d] 38 : 23 
+3. 
+The ratio of the age of a father to that of his son is 7 : 4. If the product of their ages 
+(in years) is 1008, then what is the ratio of the age of the father to that of the son 
+after 10 years? 
+एक पपर्ा की आयु का उसके पुत्र की आयु से अनुपार् 7: 4 है। यदद उनकी आयु का गुणनफल (वर्ों 
+में) 1008 है, र्ो 10 वर्त बाद पपर्ा की आयु का पुत्र की आयु से अनुपार् क्या है?  
+(DP CONSTABLE 2023) 
+[a] 17:13 
+[b] 26:17 
+[c] 11:13 
+[d] 23:21 
+4. 
+The sum of the reciprocals of the ages of two colleagues is nine times the 
+difference of the reciprocals of their ages. If the ratio of the products of their 
+ages to the sum of their ages is 100 : 9. Find their ages? 
+दो सहकर्मियों की आयु के व्युत्क्रमों का योग उनकी आयु के व्युत्क्रमों के अंर्र का नौ गुना है। यदद उनकी आयु 
+के गुणनफल का उनकी आयु के योग से अनुपार् 100 : 9 है। र्ो उनकी आयु ज्ञार् कीर्िए ? 
+NTPC CBT - I  30/01/2021 (Evening) 
+[a] 20 years, 25 years  
+[b] 15 years, 10 years 
+[c] 24 years, 45 years 
+[d] 25 years, 4 years 
+5. 
+Nalini's younger brother is 12 years old. If the ratio of the age of Nalini to that of 
+her brother is 7 : 6, then what will be ratio in their ages 6 years hence? 
+नर्लनी का छोटा भाई 12 वर्त का है।अगर नर्लनी और उसके भाई की आयु का अनुपार् 7: 6 है, र्ो अब 
+से 6 वर्त पश्चार् उनकी आयु का अनुपार् पकर्ना होगा? 
+[a] 10 : 9 
+[b] 13 : 12 
+[c] 17 : 15 
+[d] 10 : 6 
+6. 
+In the year 2000, Monu was 3 times his sister’s age. In 2010, he was 24 years older 
+than her. Find Monu’s age in 2010. 
+वर्त 2000 में, मोनू की आयु उसकी बहन की आयु की 3 गुनी थी। 2010 में, उसकी आयु उसकी बहन 
+की आयु से 24 वर्त अधिक थी। 2010 में मोनू की आयु ज्ञार् कीर्िए। 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+Group D  23/08/2022 (Morning) 
+[a] 38 years 
+[b] 46 years   
+[c] 52 years 
+[d] 62 years  
+7. 
+Harsh was four times as old as Dev six years ago. How old is Dev today if Harsh 
+will be 40 years old 10 years later? 
+छह वर्त पहले हर्त की उम्र देव से चार गुना थी। यदद 10 वर्त बाद हर्त 40 वर्त का हो िाएगा र्ो आि देव 
+की आयु पकर्नी है? 
+(IB ACIO 2023) 
+[a] 11 years 
+[b] 14 years 
+[c] 12 years 
+[d] 13 years 
+8. 
+Daya is 5 times as old as his son. Six years hence the sum of their ages will be 72 
+years. What is the present age of Daya’s son? 
+दया की उम्र उसके बेटे से 5 गुना है। छह वर्त बाद उनकी आयु का योग 72 वर्त होगा। दया के पुत्र की 
+वर्तमान आयु क्या है? 
+[a] 8 years 
+[b] 10 years 
+[c] 5 years 
+[d] 13 years 
+9. 
+Meenu is 38 years old. Her daughter is 8 years old. In how many years will Meenu 
+be double her daughter’s age? 
+मीनू की आयु 38 वशत है। उसकी पुत्री की आयु 8 वशत है। पकर्ने वशों में मीनू अपनी पुत्री की आयु की 
+दोगुनी हो िाएगी? 
+[a] 22 
+[b] 25  
+[c] 20 
+[d] 24 
+10. Pinaki is 9 years younger than Bhaswati. Thirteen years hence Bhaswati will be 
+1.2 times as old as Pinaki. Find Pinaki's present age. 
+पपनाकी, भासवर्ी से 9 वर्त छोटी है । र्ेरह वर्ों के बाद भासवर्ी की आयु  पपनाकी की आयु  की 1.2 
+गुना होगी। पपनाकी की वर्तमान आयु पर्ा करें ?  
+RRB ALP  31/08/2018  (Morning)  
+[a] 30 years 
+[b] 33 years 
+[c] 28 years 
+[d] 32 years 
+11. 
+Rakhi is 20 years older than her daughter Shikha. In 6 years, Rakhi will be twice 
+as old as Shikha. Therefore, Rakhi’s present age is ____ years. 
+राखी अपनी बेटी र्शखा से 20 वर्त बडी हैं। 6 वर्त बाद राखी की आयु र्शखा की आयु से से दोगुनी हो 
+िाएगी। इसर्लए, राखी की वर्तमान आयु ____ वर्त है। 
+(SSC SELECTION POST XI 2023) 
+[a] 42 
+[b] 37  
+[d] 34 
+[d] 36 
+12. 
+Ages of P, Q and R are in the ratio 4 : 7 : 9. 8 years ago, the age of R was Q's 
+present age. What is the sum of their ages at present? 
+P, Q और R की आयु 4 : 7 : 9 के अनुपार् में हैं। 8 वर्त पहले, R की आयु, Q की वर्तमान आयु के बराबर 
+थी। वर्तमान में उनकी आयु का योग पकर्ना है? 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+[a] 60 
+[b] 100     
+[c] 50 
+[d]  80 
+13. 
+Priya's father was 38 years of age when she was born. Her mother was 36 when 
+her brother 4 years younger to her was born. How many years is her mother 
+younger than her father?  
+पिया के िन्म के समय उसके पपर्ा की आयु 38 वर्त थी। उनकी मां 36 साल की थीं िब उनके 4 साल 
+छोटे भाई का िन्म हुआ। उसकी मााँ उसके पपर्ा से पकर्ने वर्त छोटी है? 
+UP POLICE ASSISTANT OPERATOR 2024 
+[a] 6 
+[b] 4 
+[c] 8 
+[d] 5 
+14. My mother was 23 years old when I was born. 6 years later my sister was born 
+when my father's age was 34 years. What is the difference in the ages of my 
+parents? 
+िब मेरा िन्म हुआ र्ब मेरी मााँ 23 वर्त की थीं। 6 साल बाद मेरी बहन का िन्म हुआ िब मेरे पपर्ा की 
+उम्र 34 साल थी. मेरे मार्ा-पपर्ा की उम्र में क्या अंर्र है? 
+[a] 7 years 
+[b] 5 years  
+[c] 8 years 
+[d] 6 years 
+15. The sum of the present ages of Rajini and Veena is 65 years. At present, 
+Samantha is 5 years younger than Rajini. The respective ratio of the present 
+ages of Samantha and Veena is 7: 8. What would Samantha's age be after 5 
+years? 
+रिनी और वीना की वर्तमान आयु का योग 65 वर्त है। वर्तमान में, समांथा रिनी से 5 साल छोटी हैं। 
+सामंथा और वीना की वर्तमान आयु का अनुपार् क्रमश: 7: 8 है। 5 वर्त बाद सामंथा की आयु पकर्नी 
+होगी?   
+(SSC SELECTION POST 2022) 
+[a] 33 years 
+[b] 38 years 
+[c] 28 years 
+[d] 42 years 
+16. The sum of present ages of Ria and Abby is 48 years. Today Abby is 4 years older 
+than Shweta. The respective ratio of the present ages of Ria and Shweta is 4 : 7. 
+What was Abby’s age two years ago? 
+ररया और एबी की वर्तमान आयु का योग 48 वर्त है। आि एबी श्वेर्ा से 4 साल बडा है। ररया और श्वेर्ा 
+की वर्तमान आयु का अनुपार् 4 : 7 है। दो साल पहले एबी की उम्र क्या थी? 
+[a] 32 years 
+[b] 30 years 
+[c] 28 yeas 
+[d] 34 years 
+17. 
+The sum of the ages of a son and father is 52 years; after four years the age of 
+the father will be four times that of the son. What is the present age ( in years) of 
+the son? 
+एक पुत्र और पपर्ा की आयु का योग 52 वर्त है; चार वर्त बाद पपर्ा की आयु पुत्र की आयु की चार गुना 
+हो िायेगी। पुत्र की वर्तमान आयु (वर्ों में) क्या है? 
+[a] 10 year 
+[b] 9 year 
+ 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+[c] 8 year 
+[d] 12 year 
+18. The sum of the present ages of a father and his son is 94 years. 8 years ago their 
+respective ages were in the ratio of 2 : 1. After 10 years what will be the ratio of 
+ages of father and son? 
+एक पपर्ा और उसके पुत्र की वर्तमान आयु का योग 94 वर्त है। 8 वर्त पहले उनकी क्रमशः 
+आयु का अनुपार् 2: 1 था। 10 वर्त बाद पपर्ा और पुत्र की आयु का अनुपार् क्या होगा? 
+SSC CHSL TIER – I 2022 
+[a] 35 : 22 
+[b] 14 : 13 
+[c] 25 : 18 
+[d] 16 : 15 
+ 
+19. 
+The difference in the age of two people is 24 years. If 6 years ago, the older of the 
+two was four times as old as the younger one, then find their present ages. 
+दो व्यक्तियों की आयु में 24 वर्त का अंर्र है। यदद 6 वर्त पहले, दोनों में से बडे की आयु, छोटे की आयु 
+की चार गुना थी, र्ो उनकी वर्तमान आयु ज्ञार् कीर्िए। 
+ 
+[RRB JE 2024] 
+[a] 15 and 39 years 
+[b] 12 and 36 years 
+[c] 14 and 38 years 
+[d] 16 and 40 years 
+20. The current ages of Sudhir and Ashish are in the ratio 5 : 7. Twelve years ago, the 
+ratio of their ages was 1 : 2. What will be the age of Sudhir after five years from 
+now? 
+सुिीर और आशीर् की वर्तमान आयु का अनुपार् 5:7 है। बारह वर्त पहले, उनकी आयु का अनुपार् 1:2 
+था। अब से पांच वर्त बाद सुिीर की आयु क्या होगी?  
+SSC CGL 2023 PRE 
+[a] 20 years 
+[b] 25 years  
+[c] 33 years 
+[d] 28 years  
+21. 
+The ages of A and B are in the ratio 4 : 7, respectively. After 8 years, the ratio of 
+their ages will be 2 : 3. What is the sum of the ages of A and B (in years)? 
+A और B की आयु का अनुपार् क्रमशः 4 : 7 है। 8 वर्त बाद, उनकी आयु का अनुपार् 2:3 होगा। A और 
+B की आयु का योग (वर्ों में) क्या है? 
+(SSC SELECTION POST XII HIGHER SECONDARY LEVEL) 
+[a] 38 
+[b] 36 
+[c] 42 
+[d] 44  
+22. The ratio of the ages of two friends is 4 : 3 which will become 6 : 5 after 4 years. 
+What will be the sum of their ages (in years) after 22 years from now? 
+दो र्मत्रों की आयु का अनुपार् 4 : 3 है िो 4 वर्त बाद 6 : 5 हो िायेगा। अब से 22 वर्त बाद उनकी आयु 
+का योग (वर्त में) पकर्ना होगा? 
+(SSC CGL MAINS 2024) 
+[a] 56 
+[b] 58 
+[c] 52 
+[d] 50 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+23. 16 years ago, the age of the father was 4 times the age of his son. Now the father 
+is twice as old as his son. What is the difference between the present ages of the 
+father and his son? 
+16 वर्त पूवत, पपर्ा की आयु उसके पुत्र की आयु की 4 गुनी थी। अब पपर्ा की आयु अपने पुत्र की आयु की 
+दुगुनी है। पपर्ा और उसके पुत्र की वर्तमान आयु के बीच पकर्ना अंर्र है? 
+[a] 12 years 
+[b] 16 years 
+[c] 28 years 
+[d] 24 years 
+24. Four years ago, the ratio of the age of Ram to that of Shyam was 13 : 9. Eight 
+years from now, their ages will be in the ratio 4 : 3. The difference (in years) 
+between their present ages is : 
+चार वर्त पहले, राम की आयु का श्याम की आयु से अनुपार् 13 : 9 था। अब से आठ वर्त बाद उनकी आयु 
+का अनुपार् 4 : 3 होगा। उनकी वर्तमान आयु के बीच का अंर्र (वर्ों में) है :  
+RRB NTPC 08/04/2021 (Evening) 
+[a] 17 
+[b] 16  
+[c] 19 
+[d] 18 
+25. Twelve years ago, the age of Reena's mother was three times the age of Reena. 
+Two years hence, the mother's age will be 2 times the age of Reena. Find the ratio 
+of the present ages of Reena and her mother. 
+बारह वर्त पहले, रीना की मााँ की आयु रीना की आयु से र्ीन गुना थी। दो वर्त बाद, मााँ की आयु रीना 
+की आयु से 2 गुना हो िाएगी। रीना और उसकी मााँ की वर्तमान आयु का अनुपार् ज्ञार् कीर्िए। 
+ 
+[RRB JE 2024] 
+[a] 5 : 9 
+[b] 27 : 13 
+[c] 13 : 27 
+[d] 9 : 11 
+26. if the present ages of X and Y is 4 : 7, respectively. After 5 years, the ratio will 
+change to 5 : 8. The present age of Y (in years) is: 
+X और Y की वर्तमान आयु का अनुपार् क्रमशः 4: 7 है। 5 वर्ों के बाद, अनुपार् 5:8 हो िाएगा। Y की 
+वर्तमान आयु (वर्ों में) ज्ञार् करें। 
+[a] 24 
+[b] 35 
+[c] 20 
+[d] 30 
+27. Five years ago X was three times as old as Y and ten years hence, X will be twice 
+as old as Y. What is the present age of X? 
+पांच वर्त पहले X की आयु Y की आयु से र्ीन गुनी थी और दस वर्त बाद, X की आयु Y की आयु से दो 
+गुनी हो िाएगी। X की वर्तमान आयु क्या है? 
+ALP Tier II   21/01/2019 (Afternoon) 
+[a] 50 
+[b] 60  
+[c] 30 
+[d] 40  
+28. Mother told her daughter, “Seven years ago, I was seven times as old as you 
+were then, Also, three years from now, I shall be three times as old as you will 
+be”. Find the present ages of the mother and the daughter, respectively. 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+मााँ ने अपनी पुत्री से कहा, “सार् साल पहले, मेरी आयु र्ुम्हारी र्ब की आयु की सार् गुना थी और अब 
+से र्ीन वर्त बाद मेरी आयु र्ुम्हारी र्ब की आयु की र्ीन गुनी हो िाएगी। मााँ और पुत्री की क्रमशः 
+वर्तमान आयु ज्ञार् कीर्िए। 
+SSC CGL 2023 PRE 
+[a] 45;15 
+[b] 40;10    
+ 
+[c] 42;12              
+[d] 50;20 
+29. 5 years ago, Rohan's father's age was 8 times Rohan's age. After 5 years the 
+ratio of Rohan's father's age to Rohan's age will be 10 : 3. What is the present age 
+of Rohan? 
+5 वर्त पहले, रोहन के पपर्ा की आयु , रोहन की आयु की 8 गुनी थी। 5 वर्त बाद रोहन के पपर्ा की आयु 
+और रोहन की आयु का अनुपार् 10 : 3 होगा। रोहन की वर्तमान आयु क्या है?   
+ALP Tier II   21/01/2019 (Afternoon) 
+[a] 10 years 
+[b] 8 years 
+[c] 15 years 
+[d] 12 years 
+30. The ratio of the ages of A and B is 3 : 4. Four years ago, the ratio of their ages was 
+5 : 7. What will be the ratio of the ages of A and B four years from now? 
+A और B की आयु का अनुपार् 3 : 4 हैं चार वर्त पूवत, उनकी आयु का अनुपार् 5:7 था। आि से चार वर्त 
+बाद A और B की आयु का अनुपार् क्या होगा? 
+[a] 5 : 6 
+[b] 4 : 5 
+[c] 7 : 9 
+[d] 6 : 7 
+31. 
+The difference between Peter and Preeti's ages is 5 years. When they married 
+each other 35 years ago, 4 times Peter's age was the same as 5 times the age of 
+Preeti. What is the current sum of their ages? 
+पीटर और िीर्ी के उम्रों में 5 वर्त का अंर्र है। 35 वर्त पहले िब दोनों का पववाह हुआ था उस समय 
+पीटर के उम्र का चार गुना, िीर्ी के उम्र के 5 गुने के बराबर था। वर्तमान में दोनों के उम्रों का योग क्या 
+है ? 
+RRB ALP  13/08/2018  (Morning) 
+[a]  105 years 
+[b] 112 years 
+[c]  115 years 
+[d] 110 years 
+32. Eight years ago, the ratio of ages of A and B was 5: 4. The ratio of their present 
+ages is 6: 5. What will be the sum (in years) of the ages of A and B after 7 years 
+from now? 
+आठ वर्त पहले, A और B की आयु का अनुपार् 5 : 4 था। उनकी वर्तमान आयु का अनुपार् 6 : 5 है। अब 
+से 7 वर्त बाद, A और B की आयु का योग (वर्ों में) पकर्ना होगा? 
+SSC CGL MAINS 2020 
+[a] 80 
+[b] 112  
+ 
+[c] 90 
+[d] 102 
+33. Eight years ago, the ratio of ages of A and B was 5: 4. The ratio of their present 
+ages is 6: 5. What will be the sum (in years) of the ages of A and B after 7 years 
+from now? 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+आठ वर्त पहले, A और B की आयु का अनुपार् 5 : 4 था। उनकी वर्तमान आयु का अनुपार् 6 : 5 है। अब 
+से 7 वर्त बाद, A और B की आयु का योग (वर्ों में) पकर्ना होगा? 
+[a] 80 
+[b] 112  
+ 
+[c] 90 
+[d] 102 
+34. The ratio of the ages of A and B, four years ago, was 4 : 5. Eight years hence, the 
+ratio of the ages of A and B will be 11 : 13. What is the ratio of their present ages? 
+चार वर्त पहले, A और B की आयु का अनुपार् 4 : 5 था। आठ वर्त के बाद, A और B की आयु का 
+अनुपार् 11 : 13 होगा। उनकी वर्तमान आयु का अनुपार् ज्ञार् करें। 
+[a] 9 : 11 
+[b] 11 : 9 
+[c] 8 : 7 
+[d] 7 : 8 
+35. Four years ago, the ratio of the ages of A and B was 3 : 5. Six years hence, the 
+ratio of the ages of A and B will be 2 : 3. What is the sum (in years) of the present 
+ages of A and B? 
+चार वर्त पूवत, A और B की आयु का अनुपार् 3: 5 था। छः वर्त बाद, A और B की आयु का अनुपार् 2: 3 
+होगा। A और B की वर्तमान आयु का योग (वर्त में) क्या होगा? 
+चार वर्त पूवत, A और B की आयु का अनुपार् 3: 5 था। छः वर्त बाद, A और B की आयु का अनुपार् 2:3 
+होगा। A और B की वर्तमान आयु का योग (वर्त में) क्या होगा? 
+[a] 65 
+[b] 95 
+[c] 90 
+[d] 88 
+36. Seven years ago, the ratio of the ages of A and B was 2 : 7. The ratio of their 
+present ages is 3 : 8. What will be the ratio of the ages of A and B, four years from 
+now? 
+सार् वर्त पहले, A और B की आयु का अनुपार् 2: 7 था। उनकी वर्तमान आयु का अनुपार् 3:8 है। अब 
+से चार वर्त बाद A और B की आयु का अनुपार् क्या होगा? 
+[a] 2 : 5 
+[b] 1 : 3 
+[c] 4 : 11 
+[d] 5 : 12 
+37. Seven years ago, the ages (in years) of A and B were in the ratio 4 : 5 and 7 years 
+hence, their ages will be in the ratio 5 : 6. What will be        the ratio of their ages 5 
+years from now? 
+सार् वर्त पहले, A और B की आयु ( वर्ो में) का अनुपार् 4 : 5 था और आि से 7 वर्त बाद उनकी आयु 
+का अनुपार् 5 : 6 हो िायेगा। अब से 5 वर्त बाद उनकी आयु का अनुपार् क्या होगा? 
+[a] 34 : 41 
+[b] 33 : 40 
+ 
+ 
+[c] 31 : 33 
+[d] 33 : 34 
+38. Meena married 10 years ago. Today her age is 7/5 times her age at the time of 
+her marriage. Her daughter age is 1/5 of her age. What is the ratio of Meena’s 
+age to her daughter age after 5 years? 
+मीना ने 10 साल पहले शादी की थी। आि उसकी उम्र उसकी शादी के समय उसकी उम्र से 7/5 गुना है। 
+उसकी बेटी की उम्र उसकी उम्र की 1/5 है। 5 वर्त के बाद मीना की आयु का उसकी पुत्री की आयु से 
+अनुपार् क्या है? 
+[a] 10 : 3 
+[b] 10 : 13 
+ 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+[c] 8 : 11 
+[d] 5 : 9 
+39. The ratio of the ages of A and B, 8 years ago, was 5 : 7. The ratio of their ages, 8 
+years from now, will be 9 : 11. If the present age of C is 13 years less than that of B, 
+and the present age of D is 8 years less than that of the age of A, then the sum of 
+the present ages of C and D, in years, is: 
+8 वर्त पूवत A और B की आयु का अनुपार् 5:7 था। अब से 8 वर्त बाद उनकी आयु का अनुपार् 9:11 होगा। 
+यदद C की वर्तमान आयु B की आयु से 13 वर्त कम है, और D की वर्तमान आयु A की आयु से 8 वर्त 
+कम है, र्ो C और D की वर्तमान आयु का योग, वर्ों में है- 
+[a] 55 
+[b] 47 
+[c] 53 
+[d] 43 
+40. The ratio of present ages of A and B is 7 : 8. After 6 years from now, the ratio of 
+their ages will be 8 : 9. If C's present age is 10 years more than the present age of 
+A, then the present age (in years) of C is: 
+A और B की वर्तमान आयु का अनुपार् 7 : 8 है। अब से छह वर्त बाद, उनकी आयु का अनुपार् 8 :9 
+होगा। यदद C की वर्तमान आयु, A की वर्तमान आयु से 10 वर्त अधिक है, र्ो C की वर्तमान आयु (वर्त 
+में) ज्ञार् करें। 
+[a] 56 
+[b] 52 
+[c] 59 
+[b] 45 
+41. The ratio of the ages of A and B, 3 years ago, was 5 : 7. The ratio of their ages, 13 
+years from now, will be 9 : 11. If the present age of C is 11 years less than that of B, 
+then the present age of C, in years, is: 
+3 वर्त पहले A और B की आयु का अनुपार् 5:7 था। अब से 13 वर्त बाद उनकी आयु का अनुपार् 9:11 
+होगा। यदद C की वर्तमान आयु उससे 11 वर्त कम है B की, र्ो C की वर्तमान आयु, वर्ों में, है: 
+(SSC CGL 2024 Pre) 
+[a] 23  
+[b] 36 
+[c] 31 
+[d] 20  
+42. The age of a father will be double the age of his son ten years later. 10 years ago, 
+the father ’s age was six times the age of the son. How many years from now, the 
+ratio of their ages will be 3 : 2? 
+दस साल बाद एक पपर्ा की उम्र उसके बेटे की उम्र से दोगुनी हो िाएगी। 10 साल पहले, पपर्ा की उम्र 
+बेटे की उम्र से छः गुना थी। अब से पकर्ने वर्त बाद उनकी आयुका अनुपार् 3 : 2 होगा? 
+[a] 35 
+[b] 30  
+  
+  
+[c] 20  
+[d]  25 
+43. Ram is 20 years older than Rahul. 'n' years ago Ram was thrice as old as Rahul. 
+'2n' years from now the ratio of the ages of Ram and Rahul will be 15: 11. What is 
+the value of 'n'? 
+राम, राहुल से 20  वर्त बडा है। 'n' वर्त पहले राम की आयु, राहुल की आयु से र्ीन गुना थी। अब से '2n' 
+वर्त बाद राम और राहुल की आयु का अनुपार् 15: 11  होगा ।  ‘n' का मान ज्ञार् करें।  
+ 
+SSC CHSL PRE 2024 
+[A] 15 
+[B] 10 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+[C] 30 
+[D] 20 
+44. The ratio of the age of a man and his wife is 4 : 3. After 4 years, this ratio will be 9 : 
+7. If at the time of the marriage the ratio was 5 : 3, then how many years ago did 
+they marry?  
+एक पुरुर् और उसकी पत्नी की आयु का अनुपार् 4:3 है। 4 वर्त बाद यह अनुपार् 9:7 हो िाएगा। यदद 
+पववाह के समय यह अनुपार् 5:3 था, र्ो पकर्ने वर्त पहले पववाह हुआ था? 
+UP POLICE ASSISTANT OPERATOR 2024 
+[a] 8 years 
+[b] 12 years 
+[c] 4 years 
+[d] 6 years 
+45. Amit’s father is aged five times more than Amit. After 6 years, he would be three 
+and a half times of Amit’s age. After further 9 years, how many times of Amit’s 
+age would he be?  
+अर्मर् के पपर्ा की आयु अर्मर् से पााँच गुना अधिक है। 6 साल बाद, वह अर्मर् की उम्र का साढे र्ीन 
+गुना होगा। अगले 9 वर्ों के बाद, उसकी आयु अर्मर् की आयु की पकर्नी गुनी होगी? 
+[a] 2
+𝟑
+𝟒𝒕𝒊𝒎𝒆𝒔 
+[b] 2
+𝟏
+𝟒𝒕𝒊𝒎𝒆𝒔 
+[c] 3
+𝟐
+𝟕𝒕𝒊𝒎𝒆𝒔 
+[d] 2
+𝟑
+𝟕𝒕𝒊𝒎𝒆𝒔 
+46. P got married 15 years ago. Today her age is 𝟏
+𝟑
+𝟓 times her age at the time of her 
+marriage. At present her son's age is 
+𝟏
+𝟓 of her age. What was her son's age 4 
+years ago as a fraction of P's age at that time? 
+P की शादी  15 साल पहले हुई थी। आि उसकी उम्र उसकी शादी के समय की उम्र से 𝟏
+𝟑
+𝟓 गुना है। 
+वर्तमान में उसके बेटे की उम्र उसकी उम्र के बराबर 
+𝟏
+𝟓 है। 4 साल पहले उसके बेटे की उम्र P की उस 
+समय की उम्र के अंश के रूप में क्या थी? 
+SSC CHSL PRE 2024 
+[a] 
+𝟏
+𝟗 
+[b] 
+𝟏
+𝟖 
+ 
+[c] 
+𝟓
+𝟗 
+[d] 
+𝟏
+𝟏𝟎  
+47. When Rajesh’age was same as the present age of Garima, the ratio of their ages 
+was 3:2. When Garima’s age becomes the same as the present age of Rajesh, 
+the ratio of the ages of Rajesh and Garima will become? 
+िब रािेश की उम्र, गररमा की वर्तमान उम्र के समान थी, र्ो उनकी उम्र का अनुपार् 3:2 था। िब 
+गररमा की उम्र, रािेश की वर्तमान उम्र के बराबर हो िार्ी है, र्ो रािेश और गररमा की उम्र का 
+अनुपार् क्या होगा? 
+[a] 5:4 
+[b] 4:3 
+[c] 2:1 
+[d] 3:2 
+48. If 10 : 13 is the ratio of present age of A and B respectively and 8:15 is the ratio 
+between A’s age 10 years ago and B’s age 10 years hence. Then what will be the 
+ratio of A’s age 10 years hence and B’s age 10 years ago? 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+यदद 10 : 13 क्रमशः A और B की वर्तमान आयु का अनुपार् है। 10 साल पहले A की उम्र और 10 साल 
+बाद B की उम्र का अनुपार् 8 : 15 का है। पफर A की आयु के 10 वर्त और B की आयु के 10 वर्त पहले का 
+अनुपार् क्या होगा? 
+[a] 12 : 11 
+[b] 12 : 15 
+ 
+ 
+[c] 8 : 11 
+[d]  6 : 8   
+49. The ratio between the present ages of P and Q is 7 : 5, respectively. The ratio 
+between P's age 5 years ago and Q's age 5 years hence is 1 : 1. What is the ratio 
+between P's age 5 years hence and Q's age 5 years ago? 
+P और Q की वर्तमान आयु के बीच क्रमशः 7 : 5 का अनुपार् है। 5 वर्त पहले P की उम्र और 5 वर्त बाद 
+Q की उम्र के बीच का अनुपार् 1:1 है। 5 वर्त  बाद P की उम्र और 5 वर्त  पहले Q की उम्र के बीच का 
+अनुपार् क्या है? 
+Group D  26/08/2022 (Morning) 
+[a] 1 : 2 
+[b] 2 : 1 
+ 
+[c] 3 : 2 
+[d] 2 : 3 
+50. The ratio of present ages of A to that of B is 7:3. 4 years ago, the ratio of A’s age to 
+that of B’s after 4 years is 2:1. Find the difference between the age of A after 4 
+years and age of B 4 years ago? 
+A की वर्तमान आयु का B की वर्तमान आयु से अनुपार् 7:3 है। 4 वर्त पहले, A की आयु का B की आयु 
+से 4 वर्त बाद का अनुपार् 2:1 है। 4 वर्त बाद A की आयु और 4 वर्त पहले B की आयु के मध्य का अंर्र 
+ज्ञार् कीर्िये? 
+[a] 36 years 
+[b] 88 years 
+[c] 46 years 
+[d] 56 years 
+51. 
+The ratio of a man's age to his father's age is 4 : 5 and the ratio of his age to his son's age 
+is 6: 1. Four years ago these ratios were 11: 14 and 11 : 1 , respectively. The ratio of the age 
+of the grandfather to that of the grandson 12 years from now will be: 
+एक व्यक्ति और उसके पपर्ा की आयु का अनुपार् 4: 5 है और उस व्यक्ति और उसके पुत्र की आयु का 
+अनुपार् 6: 1 है। चार वर्त पहले ये अनुपार् क्रमश. 11: 14 और 11: 1 थे। र्ो अब से 12 वर्त बाद दादा और 
+पोर्ा की आयु का अनुपार् क्या होगा? 
+[a] 12: 5 
+[b] 14: 3 
+ 
+ 
+[c] 18: 5 
+[d] 18: 7 
+52. The ratio of ages of father and mother was 11:10 when their son was born. The 
+ratio of ages of father and mother will 19:18 when the son will be twice his present 
+age, what is the ratio of present ages of father and mother ? 
+पपर्ा और मााँ की उम्र का अनुपार् 11:10 था | िब उनके बेटे का िन्म हुआ था | पपर्ा और मााँ की उम्र 
+का अनुपार् 19:18 होगा | िब पुत्र की आयु अपने वर्तमान आयु से दोगुनी हो िाएगी | पपर्ा और मााँ के 
+वर्तमान आयु का क्या अनुपार् है| 
+[a] 15:14 
+[b] 14:13        
+[c] 16:15 
+[d] 17:16 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+53. In a family, the father's age is 5 times the age of one of his sons. Mother's age is 4 
+times the age of their other son. Difference in the parents' ages is half the sum of 
+the sons' ages. Then: 
+एक पररवार में, पपर्ा की आयु उसके एक बेटे की आयु का 5 गुना है। मााँ की आयु उसके दूसरे बेटे की 
+आयु का 4 गुनी है। मार्ा-पपर्ा की आयु का अंर्र, बेटों की आयु के योग के आिा है। र्ो : 
+RRB JE 02/06/2019 (Evening) 
+[a] They are twins / वे िुडवां हैं। 
+[b] The difference in their ages is 5 / उनकी उम्र का अंर्र 5 है। 
+[c] One son is twice as old as the other / एक बेटे की आयु दूसरे की र्ुलना में दोगुनी है। 
+[d] The sum of t-``heir ages is a multiple of 5 / उनकी आयु का योग 5 से अधिक है। 
+54. One year ago, a man was 7 times as old as his daughter. Now his age is equal to 
+the square of his daughter's age. If the daughter has already celebrated her first 
+year birthday, then their present ages are: 
+एक वर्त पहले, एक आदमी की आयु उसकी पुत्री की आयु की 7 गुनी थी। अब उसकी आयु, उसकी पुत्री 
+की आयु के वगत के बराबर है। यदद पुत्री की आयु एक वर्त से अधिक हो चुकी है, र्ो उनकी वर्तमान आयु 
+ज्ञार् कीर्िए । 
+Group D  08/09/2022 ( Evening ) 
+[a] 7 and 49 
+[b] 4 and 28 
+[c] 6 and 36 
+[d] 5 and 25 
+55. Krish is 5 years younger than Parthiv. Eight years ago three times the age of 
+Krish was 10 more than twice the age of Parthiv. Find Krish's present age. 
+पक्रश, पाक्तथिव से 5 वर्त छोटा है। 8 वर्त पहले पक्रश के उम्र का र्ीन गुना पाक्तथिव के उम्र के दोगुने से 10 
+वर्त ज्यादा था। पक्रश की वर्तमान उम्र क्या है? 
+RRB ALP  10/08/2018  (Morning) 
+[a] 32 years 
+[b] 33 years 
+[c] 30 years 
+[d] 28 years 
+56. Three years from now Dharitri's age will be eight years less than twice Eunice's 
+age. The sum of their present ages is 61 years. What is Dharitri's present age? 
+अब से र्ीन वर्त बाद, िररत्री की आयु, युनीस की आयु के दोगुना से आठ वर्त कम होगी । इन दोनों की 
+वर्तमान आयु का योग 61 वर्त है। िररत्री की वर्तमान आयु पकर्नी है? 
+RRB ALP  09/08/2018  (Morning) 
+[a] 43 years 
+[b] 36 years 
+[c] 41 years 
+[d] 39 years 
+57. If 5 times a son's age is added to his father's age, the sum is 42 years. If 2.8 times 
+the father's age is added to the son's age, the sum is 76 years. What is the 
+father's age (in years)? 
+यदद एक पपर्ा की आयु में उसके पुत्र की आयु का 5 गुना िोडा िाए, र्ो योग 42 वर्त होर्ा है। यदद पपर्ा 
+की आयु का 2.8 गुना, उसके पुत्र की आयु में िोडा िाए, र्ो योग 76 वर्त होर्ा है। पपर्ा की आयु (वर्त 
+में) ज्ञार् कीर्िए।                       
+(RRB NTPC 12th LEVEL 2025)  
+ 
+ 
+                                        
+       BY Gagan Pratap 
+[a] 31 
+[b] 30 
+[c] 21 
+[d] 26 
+58. If twice the son's age (in years) is added to the age of his father, the sum is 91. If 
+twice the age (in years) of father is added to the age of the son, the sum is 119. 
+What is the difference (in years) between the ages of father and son? 
+यदद पुत्र की आयु का दोगुना (वर्ों में) उसके पपर्ा की आयु में िोडा िार्ा है, र्ो योगफल 91 होर्ा है। 
+यदद पपर्ा की आयु का दोगुना (वर्ों में) पुत्र की आयु में िोडा िार्ा है, र्ो योगफल 119 है। पपर्ा और 
+पुत्र की आयु के बीच अंर्र (वर्ों में) पकर्ना है? 
+(DELHI HEAD CONSTABLE 2022) 
+[a] 30 
+[b] 27 
+[c] 28 
+[d] 29 
+59. Suman’s age, one year hereafter, will be 3 years less than twice the present age 
+of Sangeeta. After 6 years from now, Sangeeta’s age will be equal to 2/3rd of 
+Suman’s age at that time. What is the sum of present age (in years) of Suman 
+and Sangeeta? 
+सुमन की आयु, एक वर्त बाद, संगीर्ा की वर्तमान आयु के दोगुने से 3 वर्त कम होगी। अब से 6 वर्त 
+बाद, संगीर्ा की आयु उस समय सुमन की आयु के 2/3 के बराबर होगी। सुमन और संगीर्ा की 
+वर्तमान आयु (वर्ों में) का योग क्या है?  
+[a] 38 
+[b] 40 
+[c] 32 
+[d] 34 
+60. The sum of two times the present age of A and three times the present age of B is 
+106 years. Four times the present age of B exceeds three times the present age of 
+A by 11 years. What will be the sum of the ages (in years) of A and B, 4 years from 
+now? 
+A की वर्तमान आयु के दो गुने, और B की वर्तमान आयु के र्ीन गुने का योग 106 वर्त है। B की 
+वर्तमान आयु का चार गुना, A की वर्तमान आयु के र्ीन गुने से 11 वर्त अधिक है। अब से 4 वर्त बाद, A 
+और B की आयु का योग (वर्त में) पकर्ना होगा? 
+Group D  01/09/2022 (Evening) 
+[a] 49 
+[b] 47  
+[c] 43 
+[d] 51 
+61. The sum of 6 times the present age of A and 4 times the present age of B is 156 
+years. 2 times the present age of B exceeds 9 times the present age of A by 30 
+years. What will be the sum of the ages (in years) of A and B, 9 years from now? 
+A की वर्तमान आयु के 6 गुने और B की वर्तमान आयु के 4 गुने का योग 156 वर्त है। B की वर्तमान 
+आयु का 2 गुना, A की वर्तमान आयु के 9 गुने से 30 वर्त अधिक है। अब से 9 वर्त बाद, A और B की 
+आयु का योग (वर्त में) पकर्ना होगा? 
+[a] 50 
+[b] 51 
+[c] 46 
+[d] 55 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+62. Four times P’s present age exceeds Q’s present age by 41 years. After 10 years, 
+three times Q’s age will be 33 years less than seven times P’s age at that time. 
+What is Q’s present age? 
+P की वर्तमान आयु का चार गुना, Q की वर्तमान आयु से 41 वर्त अधिक है। 10 वर्त बाद, Q की आयु का 
+र्ीन गुना, उस समय P की आयु के सार् गुना से 33 वर्त कम होगा। Q की वर्तमान आयु (वर्ों में) ज्ञार् 
+कीर्िए।         
+(RRB NTPC 12th LEVEL 2025)                                          
+[a] 63 
+[b] 67 
+[c] 62 
+[d] 71 
+63. Two times the present age (in years) of Rahul is equal to the age bof Savitri (in 
+years) after 9 years from now. After 19 years from now, 3/7 of Savitri’s age (in 
+years) will be equal to Rani’s present age (in years). What will be Rani’s age (in 
+years) after 9 years from now? 
+राहुल की वर्तमान आयु (वर्ों में) का दोगुना, अब से 9 वर्त बाद सापवत्री की आयु (वर्ों में) के बराबर 
+है। अब से 19 वर्त बाद, सापवत्री की आयु का 3/7 (वर्ों में) रानी की वर्तमान आयु (वर्ों में) के बराबर 
+होगी। अब से 9 वर्त बाद रानी की आयु (वर्ों में) क्या होगी? 
+[a] 33 
+[b] 36 
+[c] 39 
+[d] 34 
+64. The sum of the present ages of a father and his son is 19 years more than 2 times 
+the present age of the son. After 15 years, 12 times the father's age will be 17 years 
+less than 13 times the son's age. The difference (in years) between the present 
+ages of the father and the son is: 
+एक पपर्ा और उसके पुत्र की वर्तमान आयु का योग, पुत्र की वर्तमान आयु के 2 गुने से 19 वर्त अधिक 
+है। 15 वर्त बाद, पपर्ा की आयु का 12 गुना पुत्र की आयु के 13 गुने से 17 वर्त कम होगा। पपर्ा और पुत्र 
+की वर्तमान आयु के बीच अंर्र (वर्त में) पकर्ना है? 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+[a] 14 
+[b] 24 
+[c] 19 
+[d] 21 
+65. If 2 times Mary's present age is 27 years more than 5 times Dia's present age, 
+and 7 times Dia's present age is 9 years less than Mary's present age, then what 
+is the difference (in years) between the ages of Mary and Dia? 
+यदद मैरी की वर्तमान आयु का 2 गुना, दीया की वर्तमान आयु के 5 गुने से 27 वर्त अधिक है, और दीया 
+की वर्तमान आयु का 7 गुना, मैरी की वर्तमान आयु से 9 वर्त कम है, र्ो मैरी और दीया की आयु के 
+बीच का अंर्र (वर्ों में) पकर्ना है?                     
+(RRB NTPC 12th LEVEL 2025)                                                                                                               
+[a] 17 
+[b] 13 
+[c] 11 
+[d] 15 
+66. 6 years ago, the age of a father was 34 years more than twice his son's age. After 
+how many years, from now, will he be twice his son's age? 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+6 वर्त पहले, एक पपर्ा की आयु उसके पुत्र की आयु के दोगुने से 34 वर्त अधिक थी। अब से पकर्ने वर्ों 
+बाद, उसकी आयु उसके पुत्र की आयु की दोगुनी हो िाएगी?                                                             
+(RRB NTPC 12th LEVEL 2025)  
+[a] 23 
+[b] 28 
+[c] 26 
+[d] 24 
+67. Three times the present age of Sujata is 5 years more than two times the present 
+age of Vanita. After 3 years, three times the age of Vanita will be 4 years less 
+than four times the age of Sujatha. The age of Vanita is k years more than that of 
+Sujatha. What is the value of k? 
+सुिार्ा की वर्तमान आयु का र्ीन गुना, वर्नर्ा की वर्तमान आयु के दो गुने से 5 वर्त अधिक है। 3 वर्त 
+बाद, वर्नर्ा की आयु का र्ीन गुना, सुिार्ा की आयु के चार गुने से 4 वर्त कम होगा। वर्नर्ा की 
+आयु, सुिार्ा से k वर्त की आयु अधिक है। K का मान ज्ञार् कीर्िए । 
+RRB NTPC 25/01/2021 (Morning) 
+[a] 7 
+[b] 4  
+[c] 9 
+[d] 3 
+68. If 3 times the mother's present age is 36 years more than 5 times her daughter's 
+age, and 3 times the daughter's age is 4 years less than the mother's age, then 
+what is the difference (in years) between the present ages of the mother and the 
+daughter? 
+यदद मार्ा की वर्तमान आयु का 3 गुना उसकी पुत्री की आयु के 5 गुने से 36 वर्त अधिक है, और पुत्री 
+की आयु का 3 गुना मार्ा की आयु से 4 वर्त कम है, र्ो मार्ा और पुत्री की वर्तमान आयु के बीच अंर्र 
+(वर्त में) पकर्ना है? 
+[a] 13 
+[b] 20 
+[c] 16 
+[d] 18 
+69. 7 times the present age of X is 6 years less than 2 times the present age of Y. At 
+present, P is 7 times as old as X, and Y is 6 years younger than Q. If P is 70 years 
+older than Q, then the present age (in years) of Y is: 
+X की वर्तमान आयु का 7 गुना, Y की वर्तमान आयु के 2 गुने से 6 वर्त कम है। वर्तमान में, P की आयु 
+X की आयु की 7 गुनी है, और Y, Q से 6 वर्त छोटा है। यदद P, Q से 70 वर्त बडा है, र्ो Y की वर्तमान आयु 
+(वर्त में) ज्ञार् कीर्िए। 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+[a] 73 
+[b] 75 
+[c] 82 
+[d] 78 
+70. The sum of two times Manavi's present age and Tanvi's present age is 35 years. 
+Tanvi's father is presently three times as old as Tanvi. Manavi's brother's 
+present age is 6 years more than Manavi's present age. The sum of the present 
+ages of Tanvi's father and Manavi's brother is 56 years. What is the sum of the 
+present ages (in years) of Manavi and Tanvi? 
+मानवी की वर्तमान आयु के दो गुने और र्न्वी की वर्तमान आयु का योग 35 वर्त है। र्न्वी के पपर्ा की 
+आयु, वर्तमान में र्न्वी की आयु की र्ीन गुनी है। मानवी के भाई की वर्तमान आयु, मानवी की 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+वर्तमान आयु से 6 वर्त अधिक है। र्न्वी के पपर्ा और मानवी के भाई की वर्तमान आयु का योग 56 वर्त 
+है। मानवी और र्न्वी की वर्तमान आयु का योग (वर्त में) ज्ञार् कीर्िए। 
+Group D  09/09/2022 (Evening) 
+[a] 24 
+[b] 27  
+[c] 23 
+[d] 31 
+71. 
+The ages of two friends, Ram and Ravi, differ by 7 years. Ram’s mother Mayadevi 
+is three times as old as Ram, and Ravi is four times as old as his brother Soham. 
+The ages of Mayadevi and Soham differ by 65 years. Find the age of Mayadevi 
+(in years).  
+दो दोस्तों, राम और रपव की उम्र में 7 साल का अंर्र है। राम की मााँ मायादेवी की उम्र राम से र्ीन गुना 
+है, और रपव की उम्र उसके भाई सोहम से चार गुना है। मायादेवी और सोहम की उम्र में 65 वर्त का अंर्र 
+है। मायादेवी की आयु (वर्ों में) ज्ञार् कीर्िए। 
+(SSC CGL 2024 Pre) 
+[a] 69 
+[b] 36  
+[c] 85  
+[d] 45  
+ 
+ 
+72. The age of Vanraj is thrice the age of his son. The age of his daughter is 3 years 
+less than the age of his son. If 3 years ago the sum of the ages of these three was 
+63 years, then find the present age (in years) of Vanraj. 
+वनराि  की आयु उसके पुत्र की आयु की र्ीन गुनी है। उसकी पुत्री की आयु उसके पुत्र की आयु से 3 
+वर्त कम है। यदद 3 वर्त पूवत इन र्ीनों की आयु का योग 63 वर्त था, र्ो वनराि की वर्तमान आयु (वर्त 
+में) ज्ञार् कीर्िए। 
+Group D  22/09/2022 (Afternoon) 
+[a] 36 
+[b] 30  
+[c] 45 
+[d] 42 
+73. In a family, the combined age husband, wife and a son is 90 years. The husband 
+is the oldest. The difference in the ages of the husband and wife is 1/3rd the age of 
+their son. After 10 years, the age of the son would be half the age of his father. 
+What is the present age of his mother (in years)? 
+एक पररवार में पधर्, पत्नी और एक बेटे की संयुि आयु 90 वर्त है। पधर् सबसे बडा है. पधर् और पत्नी 
+की उम्र में अंर्र उनके बेटे की उम्र का 1/3 है। 10 वर्त बाद पुत्र की आयु उसके पपर्ा की आयु की आिी 
+होगी। उसकी मााँ की वर्तमान आयु (वर्ों में) क्या है? 
+(SSC CGL 2024 Pre) 
+[a] 40 
+[b] 45 
+[c] 35 
+[d] 30 
+74. A father said to his son, "I was as old as you are at the time of your birth. If the 
+present age of the father is 40 years, then what was the age of the son 5 years 
+ago?" , 
+एक पपर्ा ने अपने बेटे से कहा, "मैं र्ुम्हारे िन्म के समय इस समय की र्ुम्हारी उम्र के बराबर था। 
+यदद पपर्ा की वर्तमान आयु 40 वर्त है, र्ो 5 वर्त पहले पुत्र की आयु क्या थी?" 
+[a] 14 years 
+[b] 16 years 
+ 
+ 
+                                        
+       BY Gagan Pratap 
+[c] 18 years 
+[d] 15 years 
+75. A says, “If you reverse my own age, the figures represent my Brother’s age. He 
+is, of course, senior to me and the difference between our ages is one-eleventh 
+of their sum.” Then A’s brother’s age is? 
+A कहर्ा है, "यदद आप मेरी स्वयं की आयु को उलट देर्े हैं, र्ो आंकडे मेरे भाई की आयु का िधर्र्नधित्व 
+करर्े हैं। वह र्नर्श्चर् रूप से मुझसे वररष्ठ है और हमारी उम्र के बीच का अंर्र हमारी उम्रों के योग का 
+एक-ग्यारहवााँ है। "र्ो A के भाई की आयु क्या है? 
+[a] 45 
+[b] 54  
+ 
+[c] 25 
+[d] 52 
+76. A father said to his son, “n years back I was as old as you are now. My present 
+age is four times your age n years back.” If the sum of present ages of the father 
+and the son is 130 years, what is the difference of their ages? 
+एक पपर्ा ने अपने बेटे से कहा, “n वर्ों पहले मैं उर्ना ही उम्र का था र्िर्ना अब र्ुम हो। मेरी वर्तमान 
+आयु n वर्त पहले की आपकी आयु से चार गुना है।” यदद पपर्ा और पुत्र की वर्तमान आयु का योग 130 
+वर्त है, र्ो उनकी आयु का अंर्र क्या है? 
+(UPSC CSAT 2024) 
+[a] 30 years 
+[b] 32 years 
+[c] 34 years 
+[d] 36 years 
+ 

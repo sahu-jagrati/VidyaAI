@@ -1,0 +1,320 @@
+Piyush Varshney Sir (Reasoning Expert)
+1.
+_ a a _ b a _ b b _ a b _ a a b
+(a) b a b a b
+(b) a a a b b
+(c) b b a a b
+(d) b b b a a
+2.
+_ s t t _ t t _ t t s _
+(a) t s s t
+(b) s s t t
+(c) t t s t
+(d) t s t s
+3.
+q s t _ q s _ r q _ t r _ s t r
+(a) s q t r
+(b) r t s q
+(c) t r q s
+(d) t s r q
+4.
+a _ a _ b b a a _ b b b a _ a
+(a) a a b b
+(b) a b a a
+(c) a b a b
+(d) a a a b
+5.
+l _ b _ u b _ u b t _ b l u _ t u b
+(a) u b t l u
+(b) u t l u b
+(c) t u l b u
+(d) b u t l u
+6.
+_ b c a b _ c a b c _ a b c a _ b
+(a) a a b c
+(b) b b c a
+(c) a b a c
+(d) a b c a
+7.
+_ b a _ b a b _ b a b b _ b
+(a) b a a a
+(b) a b b b
+(c) b a b b
+(d) a b a b
+Practice Sheet
+Geometry
+8.
+m n o n o p q o p q r s _ _ _ _ _ _
+(a) m n o p q r
+(b) o p q r s t
+(c) p q r s t u
+(d) o q r s t u
+9.
+b _ c c a c c a _ b a _ b b c _ b c _ a
+(a) b a a b c
+(b) a b a a a
+(c) a c b c a
+(d) b a c a b
+10.
+_ o p _ m o _ n _ _ p n m o p _
+(a) m n p m o n
+(b) m p n m o p
+(c) m n o m p n
+(d) m n p o m n
+11.
+_ t u _ r t _ s _ _ u s r t u _
+(a) r t u s r u
+(b) r s u r t r
+(c) r s u t r r
+(d) r s u r t s
+12.
+m _ o m m n _ m _ n o m m n _ m
+(a) o n m o
+(b) n o m o
+(c) m o n m
+(d) n n m o
+13.
+_ s r _ t r _ s r s _ r _ s r s t _
+(a) t t s s r r
+(b) t s r t s r
+(c) s t r t r s
+(d) t s t t t r
+14.
+g f e _ i g _ e i i _ f e i _ g f _ i i
+(a) i f g i e
+(b) i g i f e
+(c) f g i i e
+(d) e g f i i e
+Mathematics
+LETTER SERIES
+(CLASS QUESTIONS)
+Piyush Varshney Sir (Reasoning Expert)
+15.
+a _ c a _ c _ d c _ d _ a d _
+(a) d d c c a a
+(b) d d a a c c
+(c) c c a d a d
+(d) a d c a d c
+16.
+p _ r s _ q r _ p q _ s p q _ s
+(a) p q s r r
+(b) q r r s p
+(c) q p s r r
+(d) p r r s q
+17.
+b a b _ a b a _ _ a _ _ b a a
+(a) a b a b a
+(b) b a a b a
+(c) b a b a b
+(d) a a a b b
+18.
+b _ c d _ d _ b c c _ c d b _
+(a) c b d d b
+(b) b d d c b
+(c) b d d b c
+(d) c d d b b
+19.
+_ d b e _ d _ e a _ b e a d _ e _ d b _
+(a) a, a, b, d, b, a, e (b) b, b, d, e, a, a, d
+(c) e, e, b, b, a, d, e (d) a, e, a, d, d, b, e
+20.
+a b _ d d a _ c c d _ b b _ d _
+(a) c b a c a
+(b) c b b e d
+(c) e b e b a
+(d) e e a a e
+21.
+m c _ m _ a _ c a _ c a _ c _ m c
+(a) a c m m m a
+(b) c a m c a m
+(c) a a a c m m
+(d) a c m m m c
+22.
+a _ b a a _ b a a _ b a
+(a) b a b
+(b) b b b
+(c) b b a
+(d) a a b
+23.
+_ b a c _ a c _ a c b _ _ b a
+(a) c b b a c
+(b) a b b a c
+(c) c a b b c
+(d) a c c b b
+24.
+b _ a a c b a _ b c a _ c b _ a _ c a a
+(a) c a b a b
+(b) b a b c b
+(c) c a a a b
+(d) c a b a c
+25.
+b a _ a b a b _ b _ b a _ a b a
+(a) a b a b
+(b) a a b b
+(c) b a a b
+(d) b b a a
+26.
+a _ b _ e _ a _ b e _ b _ e b
+(a) e e b e e a
+(b) e e a e e b
+(c) c a e a b e
+(d) a e b e a b
+27.
+_ a b _ b _ b c _ c a _
+(a) a c c b b
+(b) a b c c a
+(c) c a c a b
+(d) a b a c b
+28.
+b _ a b _ b _ a a b _ b
+(a) a b b a
+(b) b a a a
+(c) a a b b
+(d) a b b b
+29.
+a c _ c _ c b _ a c b c a c b c a _ b c
+(a) a b b b
+(b) b a c c
+(c) b a b c
+(d) b b c c
+30.
+_ b c a b _ c a b c _ a b c a _ b
+(a) a a b c
+(b) b b c a
+(c) a b a c
+(d) a b c a
+Piyush Varshney Sir (Reasoning Expert)
+31.
+i p i _ u p o g _ p i g _ p o g i _ _ g
+(a) u p g i i
+(b) p u i g p
+(c) g i u p i
+(d) i u p g g
+32.
+i _ _ _ i j _ l _ _ _ l
+(a) j k l i k j j
+(b) k l i j i k k l
+(c) j k l i j k l
+(d) j k l k i j k
+33.
+l _ b _ u b _ u b t _ b l u _ t u b
+(a) u b t l u
+(b) u t l u b
+(c) t u l b u
+(d) b u t l u
+34.
+a _ e d _ e _ a _ d a _ d _ b _
+(a) b c d b a b e
+(b) b b e d a b e
+(c) b b d e b a e
+(d) b a e b b a b
+35.
+l _ p t t _ _ p g p _ l p _ _ g.
+(a) g l g t t l
+(b) g l t g l t
+(c) g t l p g t
+(d) g p l g t l
+36.
+m _ m n _ m n _ _ m n _ _ _
+(a) n o o p o p q
+(b) m n o p q r s
+(c) m m m n n n p
+(d) None of these
+37.
+a b b c _ _ d d _ _ e _ _ e _
+(a) c c d d e e e
+(b) b b c c d d e
+(c) c c d d e e f
+(d) a a b b c c d
+38.
+a a _ _ d a _ b _ d a _ c c d a b c _ _
+(a) b c b c b d d
+(b) b c b c b c d
+(c) a b c d e
+(d) b c a b b c a
+39.
+a _ b c _ b b _ a b c _ a _ b c
+(a) a a c c a
+(b) a a c c b
+(c) a c c a a
+(d) a b c a b
+40.
+k _ _ n _ m n k _ n k _ n _ l m
+(a) l m l m l k
+(b) k l m k l m
+(c) i j k i j k
+(d) n o p l m l
+41.
+q w _ r t q _ f r _ q w _ _ t _ _ h r t
+CGL Mains 2022
+(2nd March-2023)
+(a) e w t h s q w
+(b) f w t g r q x
+(c) e w t g r q w
+(d) e x t g r q x
+42.
+_ v j r w B _ _ r w b v l _ _ b v _ _ w
+CGL Mains 2022
+(3rd March-2023)
+(a) b w k r w m r
+(b) a w k r x n r
+(c) b v k r w m r
+(d) a v k r w m r
+43.
+f i r _ d f _ _ e d f _ t _ d f i _ e _
+CGL Mains 2022
+(6th March-2023)
+(a) e i s i e u e
+(b) e g s j e u e
+(c) e i s i e u d
+(d) e h s i e u d
+44. s c r _ w s _ r _ w _ c _ g w s _ r h _
+CGL Mains 2022
+(7th March-2023)
+(a) e c f s r c w
+(b) e c f r s c w
+(c) c e r f w e g
+(d) e r f s t e w
+Piyush Varshney Sir (Reasoning Expert)
+45.
+P R_Y _ _ R A _ Z P _ A _ Z
+SSC CGL MAINS-2023
+(a) AZPYRY
+(b) APYZRY
+(c) APYZZY
+(d) AZYZRY
+46.
+A _ DF GI _ L MOP _ _ UVX YA _ D
+SSC CGL MAINS-2023
+(a) BJQRB
+(b) BJRSB
+(c) CJRSB
+(d) CJQRB
+47.
+PRKY _ LDP _ _ YOLD _ RKYO _ DPRK _ _ LD
+SSC CGL-2023
+(a) ORKPLYO
+(b) ORKLPOD
+(c) ORPLKYO
+(d) ORPKYLP
+48.
+_ B _ T F H B N _ F I _ N T F _ B N T F
+SSC CGL-2023
+(a) G T N J B
+(b) G B J N T
+(c) G N T B J
+(d) G J NT B
+49.
+BRU _ TLP _ RUI _ LPBR _ ITLPB _ UIT _ _
+SSC CGL-2023
+(a) IBTUPLR
+(b) IBTRUPL
+(c) IBTURLP
+(d) IBRUTLP
+50.
+DY _ GMI _ _ YTG _ ILDYT _ MILD _ TGM _ L
+SSC CGL-2023
+(a) TDLGMYI
+(b) TLDGMIY
+(c) TLDMGYI
+(d) TLDYMIG

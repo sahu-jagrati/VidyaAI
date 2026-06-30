@@ -1,0 +1,34 @@
+[
+  {
+    "question_number": 25,
+    "question_en": "There are 4 black, 3 red and 5 green balls in a box. Two balls are randomly picked out. Find the probability of them being of same colour?",
+    "question_hi": "एक डर्ब्बे में 4 काली, 3 लाल और 5 हरी गेंदें हैं। दो गेंदें यादृच्छिक रूप से ननकाली जाती हैं। उनके एक ही रंग के होने की प्रानयकता ज्ञात कीच्जए?",
+    "option_a": "47/66",
+    "option_b": "1/6",
+    "option_c": "",
+    "option_d": "19/66 E) 2/11",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Probability",
+    "source_pdf": "Probability Sheet-3.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_c"
+  },
+  {
+    "question_number": 39,
+    "question_en": "The probability of solving a problem by three students A, B and C are 𝟕, 𝟗& 𝟓 respectively. What is the probability that the problem is solved? 𝟕, 𝟗&",
+    "question_hi": "तीन क्षात्रो  A, B और C द्वारा एक समस्या को हल करने की प्रानयकता क्रमशः 𝟓 है।  समस्या के हल होने की प्रानयकता क्या होगी? (MAINS 2022)",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Probability",
+    "source_pdf": "Probability Sheet-3.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  }
+]

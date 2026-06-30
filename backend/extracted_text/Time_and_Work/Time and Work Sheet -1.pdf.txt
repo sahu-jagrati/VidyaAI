@@ -1,0 +1,1079 @@
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+1. A can repair 11 benches in an hour and B can repair 5 benches in an hour. Determine how much time 
+they will require to repair 64 benches when they work together? 
+A ,d ?kaVs esa 11 csap dh ejEer dj ldrk gS vkSj B ,d ?kaVs eas 5 csap dh ejEer dj ldrk gSA tc os feydj ,d lkFk dke djrs gSa rks fu/kkZfjr djsa fd 64 
+csapk dh ejEer esa mUgsa fdruk le; yxsxk\ 
+(a)3 hours 
+  
+  
+(b)4 hours 
+(c)5 hours 
+  
+ 
+(d)6 hours 
+2. Manoj and his wife Swathi fill a tank with water fetched from a well. Manoj fetches 5 litres of water 
+in 4 minutes whereas Swathi fetches 4 litres of water in 5 minutes. Find the time taken by them 
+together to fetch 205 litres of water. 
+eukst vkSj mldh iRuh Lokfr ,d dq,¡ ls ikuh fudky dj ,d Vadh Hkjrs gSaA eukst 4 min esa 5L ikuh fudkyrk gS tcfd Lokfr 5 min esa 4L ikuh fudkyrh 
+gSA ,d lkFk feydj 205 L ikuh fudkyus esa muds }kjk fy;k x;k le; Kkr dhft,A 
+(a) 
+2 hours 
+(b) 
+80 minutes 
+(c) 
+100 minutes 
+(d) 
+1 hours 30 minutes 
+3. Working together Kamal and Sharth have to type a book containing 300 pages. Kamal takes 12 
+hrs to type 96 pages and Sharth takes 15 hrs to type 60 pages. Kamal typed first 120 pages 
+alone and the last 180 pages were typed by Kamal and Sharth together. How much time will be 
+taken to type the complete book? 
+कमल और शार्थ को एक सार् काम करते हुए 300 पन्नों की एक ककताब टाइप करनी है। कमल को 96 पेज टाइप करने में 12 
+घंटे लगते हैं और शार्थ को 60 पेज टाइप करने में 15 घंटे लगते हैं। कमल ने पहले 120 पेज अकेले टाइप ककए और आखिरी 
+180 पेज कमल और शार्थ ने ममलकर टाइप ककए। पूरी ककताब टाइप करने में ककतना समय लगेगा?  
+(ICAR TECHNICIAN 2023) 
+A) 30 hours 
+B) 35 hours 
+C) 25 hours 
+D) 20 hours 
+4. Neha is manufacturing plastic lunch boxes for a job. She got a project to manufacture some boxes, 
+out of which she completed 7/16 of the project in 35 days. In how many days did she complete the 
+entire project for the company? 
+नेहा नौकरी के मलए प्लास्टटक लंच बॉक्स बना रही हैं। उसे कुछ बॉक्स बनाने का प्रोजेक्ट ममला, स्जसमें से उसने 35 दिनों में 
+प्रोजेक्ट का 7/16 दहटसा पूरा ककया। उसने कंपनी के मलए पूरा प्रोजेक्ट ककतने दिनों में पूरा ककया?  
+a. 80 
+b. 48 
+c. 
+56 
+d. 70 
+5. Suraj completes 1/12 of a work in nine days. At this rate, how many more days will he take to 
+complete the work?  
+सूरज एक कायथ का 1/12 भाग नौ दिनों में पूरा करता है। इस िर से, उसे कायथ पूरा करने में ककतने दिन और लगेंगे?  
+(SSC GD 2025) 
+1. 90 
+ 
+ 
+ 
+ 
+2. 108 
+3. 81 
+ 
+ 
+ 
+ 
+4. 99 
+6. P can do (
+𝟏
+𝟒) th of work in 10 days, Q can do 40% of work in 15 days and R can do (
+𝟏
+𝟑)rd of work in 13 
+days and S can do 37.5% of work in 17 days. Who is less efficient? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+P 10 दिनों में काम का ¼ भाग कर सकता है, Q 15 दिनों में काम का 40% कर सकता है और R 13 दिनों में काम का 1/3 भाग कर 
+सकता है और S ,17 दिनों में काम का 37.5% भाग कर सकता है ज्ञात करे कौन सबसे कम कुशल है? 
+a) P 
+ 
+ 
+b) Q  
+c) R 
+ 
+                        d) S 
+7. A work was finished by Amit, Sumit and Vinit together. Amit and Sumit together 70% part of the 
+work and Sumit and Vinit together finished 50% part of the work. Who among the three is most 
+efficient? 
+एक कायथ अममत, सुममत और विनीत ने ममलकरपूरा ककया। अममत और सुममत ने ममलकर काम का 70% दहटसा पूरा ककया और 
+सुममत और विनीत ने ममलकर काम का 50% दहटसा पूरा ककया। तीनों में से कौन सिाथधिक कुशल है? RRB JE 26/05/2019 
+(Evening) 
+A) All are equal 
+B) Vinit 
+C) Amit 
+D) Sumit  
+8. Ruchira was supposed to complete a task in 22 days. However during the first 10 days she did only 
+1/30 of the work on each day. What share of the work will Ruchirs have to do daily from the 11th 
+day so that the work is completed on time? 
+रुचिरा को एक कार्य को 22 दिनों में पूरा करना था। हालााँकक पहले 10 दिनों के िौरान उसने प्रत्र्ेक दिन का केवल 1/30 कार्य ही ककर्ा। 
+रुचिरों को 11वें दिन से प्रतिदिन ककिने भाग कार्य करने होंगे िाकक कार्य समर् पर पूरा हो जाए? 
+A) 2/39 
+B) 2/44 
+C) 1/18 
+D) 1/19 
+9. A can finish a work in 24 days and B in 30 days, individually. They work together for 11 days. The 
+percentage of the work still to be finished will be: 
+A fdlh dke dks vdsys 24 fnuksa esa vkSj B mlh dke dks vdsys 30 fnuksa esa iwjk dj ldrk gSA os lkFk feydj 11 fnuksa rd dke djrs gSaA dke dk fdruk 
+çfr'kr 'ks"k gS \ 
+(a) 12.5% 
+   (b) 16% 
+       (c) 17.5% 
+   (d) 18% 
+10. A can do a work in 36 days and B in 32 days. If they work on it together for 12 days, then what 
+fraction of work is left? 
+A fdlh dke dks 36 fnu esa dj ldrk gSA rFkk B, 32 fnu esa dj ldrk gSA ;fn os nksuksa lkFk esa 12 fnu rd dke djrs gSaA rks dke dk fdruk भाग cpk 
+jgsxk \ 
+(a) 7/24  
+(b) 9/32 
+ 
+(c) 11/36 
+(d) 14/72 
+11. A can do a certain work in 15 days, while B can do the same work in 21 days. If they work together, 
+then in how many days will the same work be completed? 
+A fdlh dke dks 15 fnuksa esa dj ldrk gS] tcfd B mlh dke dks 21 fnuksa esa dj ldrk gSA ;fn os ,d lkFk feydj dke djrs gSa] rks og dke 
+fdrus fnuksa esa iwjk gksxk\ 
+(a) 
+𝟕
+𝟑
+𝟒 
+(b) 
+𝟗
+𝟑
+𝟒 
+(c) 
+𝟔
+𝟑
+𝟒 
+(d) 
+𝟖
+𝟑
+𝟒 
+12. An AC can cool a hall in 10 min ,while an AC of another brand can cool the same hall in 15 min . If 
+both ACs are switched on at the same time,then in how much time will they cool the hall ? 
+कोई एयर कंडीशनर एक हॉल को 10 मिनट िें ठंडा कर सकता है, जबमक दूसरे ब्ांड का एक एयर कंडीशनर उसी हॉल को 15 मिनट 
+िें ठंडा कर सकता है। यमद दोनों एयर कंडीशनर को एक ही सिय िें चालू कर मदया जाए, तो वे हॉल को मकतने सिय िें ठंडा कर 
+देंगे? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+GD Constable 14/12/2021 (Evening) 
+(a) 3 min  
+(b) 18 min  
+(c) 6 min  
+(d) 12 min 
+13. 10 women can do a wok in 6 days and 6 men can do the same work in 5 days. If all these men and 
+women work together, Then how many days will they take to finish this work? 
+10 िमहलाएं मकसी कायय को 6 मदन िें पूरा कर सकती हैं और 6 पुरुष उसी कायय को 5 मदन िें पूरा कर सकते हैं। यमद सभी पुरुष और 
+िमहलाएं एक साथ मिलकर कायय करें, तो उन्हें इस कायय को पूरा करने िें मकतने मदन लगेंगे? 
+(a)  𝟐
+𝟖
+𝟏𝟏    
+(b)  𝟒
+𝟔
+𝟏𝟏 
+ 
+(c)  𝟏
+𝟐
+𝟏𝟏 
+(d)  𝟑
+𝟒
+𝟏𝟏 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+14. Person A can complete a job in 90 min while B can complete the same job in 54 min. How long will 
+they take to complete the job together ? 
+व्यक्ति A 90 मिनट िें मकसी कायय को पूरा कर सकता है जबमक व्यक्ति B को वही काि पूरा करने िें 54 मिनट लगते हैं। दोनों एक 
+साथ मिलकर काि को पूरा करने िें मकतना सिय लगाएंगे ? 
+UP Constable 18/06/2018  (2nd Shift) 
+(a) 34 min 40 s 
+(b) 34 min 30 s 
+(c) 33 min 45 s 
+(d) 32 min 55 s 
+15. If machine A and B can produce 800 units in 3 hours and 8 hours, respectively, in how many hours 
+can machine A and B working together at these constant rates produce800 units? 
+यदि मशीन A और B क्रमश: 3 घंटे और 8 घंटे में 800 यूननट उत्पन्न कर सकती हैं, तो मशीन A और B इन ननयत िरों पर एक 
+सार् काम करते हुए ककतने घंटे में 800 यूननट उत्पन्न कर सकती हैं? 
+(a) 26/11 
+(b) 25/11 
+(c) 24/11 
+(d) 27/11 
+16. A can do 1/4 part of a work in 9 days. B can do 2/3 part of the same work in 28 days. Working 
+together, in how many days can A and B complete the whole work?  
+,d dk;Z ds Hkkx 1/4 dks 9 fnu esa dj ldrk gSA B mlh dk;Z ds 2/3 Hkkx dks 28 fnu esa dj ldrk gSa lkFk esa feydj dk;Z djrs gq, A rFkk B 
+iwjs dk;Z dks fdrus fnuksa esa iwjk dj ldrs gS\  
+(a) 261/15days            (b) 198/17 days  
+(c)262/11days             (d) 252/13 days  
+17. A can do a piece of work alone is 96 days and B can do it alone in 104 days. In how many days can 
+the duo, working together, complete the work? 
+A, ,d dk;Z dks vdsys 96 fnuksa esa dj ldrk gS vkSj B mlh dk;Z dks vdsys 104 fnuksa esa dj ldrk gSaA nksuksa ,d lkFk dk;Z djrs gq,] dk;Z dks 
+fdrus fnuksa esa iwjk dj ldrs gSa\ 
+(a) 
+49.94 
+(b) 
+49.92 
+(c) 
+49.96 
+(d) 
+49.88 
+18. Jason can do apiece of work alone in 23.4 days, while Rafique can do the same piece of work alone 
+in 39 days. In how many days can the duo complete the same work if they work together? 
+tSlu vdsys fdlh dk;Z dks 23-4 fnuksa esa dj ldrk gS] tcfd jQhd vdsys mlh dk;Z dks 39 fnuksa esa dj ldrk gSA ;fn os lkFk feydj dk;Z 
+djsa rks nksuksa mlh dk;Z dks fdrus fnuksa esa iwjk dj ldrs gSa\ 
+(a) 14.625 
+(b) 14.375 
+ 
+(c) 14.875 
+(d) 17.750 
+19. P and Q together complete a job in 4
+𝟐
+𝟓 days. R and S complete the same job in 4
+𝟖
+𝟗 days. If Q, R and S 
+work together, how many days do they need to complete the same job? 
+P और Q मिलकर मकसी कायय को 4
+𝟐
+𝟓 मदन िें पूरा करते हैं। R और S उसी कायय को 4
+𝟖
+𝟗 मदन िें पूरा करते हैं। यमद P, Q, R और S एक 
+साथ कायय करते हैं, तो उसी कायय को पूरा करने के मलए उन्हें मकतने मदनों की आवश्यकता होगी? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+1. 2
+𝟕
+𝟏𝟖 
+2. 1
+𝟕
+𝟏𝟖 
+3. 1
+𝟔
+𝟏𝟗 
+4. 2
+𝟔
+𝟏𝟗 
+SSC CGL 2023 PRE 
+20. A tyre has 3 punctures. The first puncture alone would have made the tyre flat in 14 minutes, the 
+second alone would have done it in 28 minutes, the third alone would have done it in 56 minutyes. 
+If air leaks out at a constant rate, how long (in minutes) does it take for all the punctures together 
+to make the tyre flat? 
+,d Vk;j esa 3 iaDpj gSaA igyk iaDpj] vdsys gh] Vk;j dks 14 feuV esa ¶ySV dj ldrk gS] nwljk iaDpj] vdsys gh] bls 28 feuV esa ¶ySV dj 
+ldrk gS] vkSj rhljk iaDpj] vdsys gh] bls 56 feuV esa ¶ySV dj ldrk gSa ;fn gok fu;r nj ls fudy jgh gks rks lHkh iaDpjksa dks ,d lkFk 
+feydj Vk;j ¶ySV djus eas fdruk le; ¼feuV esa½ yxsxk\ 
+(a)7 
+(b)6 
+(c)5 
+(d)8 
+21. A, B and C can complete a piece of work in 729, 486 and 1458 days respectively Working together, 
+they will complete the same work in how many days? 
+A, B और C क्रमशः 729, 486 और 1458 दिनों में एक कायथ पूरा कर सकते हैं। एक सार् कायथ करते हुए, िे उसी कायथ को 
+ककतने दिनों में पूरा करेंगे? 
+ 
+ (UP POLICE SI 2021) 
+(A) 241 
+B) 245 
+(C) 247 
+(D) 243 
+22. X can finish a work in 153 days, Y can finish a work in 255 and Z can finish the same piece of work 
+340 days. How many days will they require to complete the work, if X, Y and Z are working together? 
+X, ककसी कायथ को 153 दिनों में कर सकता है, Y उसे 255 दिनों में कर सकता है और Z उस कायथ को 340 दिनों में कर सकता 
+है। यदि X, Y और Z एक सार् कायथ करते हैं, तो कायथ पूरा करने में उन्हें ककतने दिनों की आिश्यकता होगी? 
+(UP POLICE SI 2021) 
+(A) 70
+𝟐𝟔
+𝟒𝟏 
+ 
+ 
+(B) 74
+𝟐𝟔
+𝟒𝟏 
+(C) 76
+𝟐𝟔
+𝟒𝟏 
+ 
+ 
+(D) 72
+𝟐𝟔
+𝟒𝟏 
+23. Ravi can complete one-fourth of the total work in 15 days, Chavi can complete one-third of the total 
+work in 18 days, Dhani can complete half of the total work in 24 days. In how much time can Ravi, 
+Chavi and Dhani complete three-fourth of the work together?  
+रवि कुल कायथ का एक-चौर्ाई कायथ 15 दिनों में पूरा कर सकता है, छवि कुल कायथ का एक-नतहाई कायथ 18 दिनों में पूरा कर सकती 
+है, िनी कुल कायथ का आिा कायथ 24 दिनों में पूरा कर सकती है। रवि, छवि और िनी सार् ममलकर कायथ का तीन-चौर्ाई कायथ 
+ककतने समय में पूरा कर सकते हैं?  
+(SSC GD 2025) 
+1. 
+  
+2. 
+ 
+3. 
+ 
+ 
+4. 
+ 
+24. Sarthak can fill a sandpit with sand in 14 days while Vivan takes 35 days to fill it. Ali can empty all 
+of the sand from a filled sandpit in 12 days. If all three start working when the pit is empty, in how 
+many days will the sandpit be full again ? 
+साथयक 14 मदनों िें रेत के एक गड्ढे को भर सकता है जबमक मववान को इसे भरने के मलए 35 मदन लगते हैं। अली 12 मदनों िें एक भरे 
+हुए रेत के गड्ढे की पूरा खाली कर सकता है। यमद खाली गड्ढे िें तीनों एक साथ कायय शुरू करते हैं, तो रेत का गड्ढा मिर से मकतने मदनों 
+िें भर जाएगा? 
+UP Constable 26/10/2018  (1st Shift) 
+(a) 60  
+(b) 61 
+ 
+(c) 62 
+(d) 56 
+25. If A alone can do a job in 72 days then, in how many days can B alone do the job if together they can 
+do the job in 40 days ? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+;fn A vdsys fdlh dke dks 72 fnu esa dj ldrk gS rks B vdsys ml dke dks fdrus fnu esa dj ik;sxk ;fn os nksuksa feydj ml dke dks 40 fnu esa dj ysrs 
+gSa\ 
+(a) 90 
+ 
+ 
+(b) 108 
+(c) 80 
+ 
+ 
+(d) 120 
+ 
+26. Jeevan can do a piece of work alone in 42 days, while Rishi and Jeevan together can do the same 
+piece of work in 27 days. How many days will Rishi take to complete the same piece of work alone? 
+जीवन अकेले मकसी कायय को 42 मदनों िें कर सकता है, जबमक ऋमष और जीवन मिलकर उसी कायय को 27 मदनों िें कर सकते हैं। 
+ऋमष अकेले उसी कायय को मकतने मदनों िें पूरा करेगा?  
+(a) 𝟕𝟓
+𝟒
+𝟓 
+   (b) 𝟕𝟓
+𝟏
+𝟓 
+(c)  𝟕𝟓
+𝟑
+𝟓          
+      (d) 𝟕𝟓
+𝟑
+𝟓  
+(SSC CPO 2023) 
+27. A and B can complete a work in 80 days and 96 days, respectively. The completed the work in 32 
+days with the help of C. How many days will C take to complete the entire work alone? 
+A vkSj B Øe'k% 80 fnuksa vkSj 96 fnuksa esa ,d dk;Z dks iwjk dj ldrs gSaAmUgksaus C dh enn ls 32 fnuksa esa bl dk;Z dks iwjk dj fy;k C vdsys bl dk;Z dks 
+iwjk dus esa fdruk fnu ysxk\ 
+(a)108 
+ (b)92 
+(c)120 
+ (d)84 
+28. B & C can complete a task in 40 days while A, B & C can complete the task in 25 days. In how many 
+days can A complete the task alone ? 
+B और C एक काि 40 मदनों िें पूरा कर सकते हैं, जबमक A, B और C वह काि 25 मदनों िें पूरा कर सकते हैं। A अकेले वह काि 
+मकतने मदनों िें पूरा कर सकता है ?   
+UP Constable 28/01/2019  (1st Shift) 
+(a) 66.66 
+(b) 50.33  
+(c) 75 
+(d) 60 
+29. Anjani can do a certain piece of work in 18 days. Anjani and Khushbu can together do the same work 
+in 14 days, and Anjani, Khushbu and Sushmita can do the same work together in 9 days. In how 
+many days can Anjani and Sushmita do the same work? 
+अंजनी ककसी कायथ को 18 दिनों में कर सकती है। अंजनी और िुशबू एक सार् ममलकर उसी कायथ को 14 दिनों में कर सकती हैं, 
+तर्ा अंजनी, िुशबू और सुस्ममता एक सार् ममलकर उसी कायथ को 9 दिनों में कर सकती हैं। उसी कायथ को अंजनी और सुस्ममता 
+ककतने दिनों में कर सकती हैं? 
+A. 
+ 
+B. 
+ 
+C. 
+ 
+D. 
+ 
+30. Working together A and B can do a job in 40 days, B and C in 36 days and all three together in 24 
+days. In how many days can B alone do the job? 
+A rFkk B ,d lkFk fdlh dke dks 40 fnuksa es dj ysrs gSa] B  rFkk C 36 fnuksa esa dj ysrs gSa rFkk  rhuksa feydj fdlh dke dks 24 fnuksa esa dj ysrs gSaA B vdsyk 
+bl dke dks fdrus fnuksa esa dj ysxk \ 
+(a) 60 
+ 
+ 
+(b) 90  
+(c) 72 
+ 
+ 
+(d) 100 
+31. A can complete some work in 35 days and B can complete the same work in 15 days. They worked 
+together for 8 days, then B left the work. In how many days will A alone complete 60% of the 
+remaining work? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+A, ककसी कायथ को 35 दिन में कर सकता है और B उसी कायथ को 15 दिन में पूरा कर सकता है। उन्होंने एक सार् 8 दिन तक 
+कायथ ककया, उसके बाि B ने कायथ छोड़ दिया। अकेले A शेष कायथ के 60% भाग को ककतने दिन में पूरा करेगा? 
+(a) 15  
+ 
+(b) 10  
+ 
+ 
+(c) 5 
+ 
+ 
+(d) 8 
+32. P & Q can complete a work in 14 days and 21 days, respectively. They started doing the work but 
+after 4 days P had to leave and Q alone complete the remaining work. The whole work was 
+completed in how many days? 
+P और Q एक कायथ को क्रमश: 14 दिन और 21 दिन में पूरा कर सकते हैं। उन्होंने काम करना शुरू कर दिया लेककन 4 दिनों के 
+बाि P को छोड़ना पड़ा और Q अकेले शेष काम को पूरा करता है। पूरा काम ककतने दिनों में पूरा हुआ? 
+A) 15 
+B) 12 
+C) 14 
+D) 11 
+33. Prakash and Vinesh can complete a certain piece of work in 17 and 15 days, respectively, They 
+started to work together, and after 4 days, Vinesh left. In how many days will Prakash complete the 
+remaining work? 
+प्रकाश और विनेश ककसी ननस्श्चत कायथ को क्रमशः 17 और 15 दिनों में पूरा कर सकते हैं। उन्होंने एक सार् ममलकर कायथ करना 
+शुरू ककया और 4 दिनों के बाि, विनेश ने कायथ छोड़ दिया। प्रकाश शेष कायथ को ककतने दिनों में पूरा करेगा?  
+( RPF CONSTABLE 2025) 
+ 
+A. 
+ 
+B. 
+ 
+C. 
+ 
+D. 
+ 
+34. P and Q can complete a work in 20 days and 30 days, respectively. P started the work and Q joined 
+him after 5 days. In how many days will the entire work be completed? 
+P vkSj Q ,d dk;Z dks Øe'k% 20 fnu vkSj 30 fnu esa iwjk dj ldrs gSaA P us dk;Z 'kq: fd;k vkSj Q, 5 fnuksa ds ckn mlds lkFk dk;Z esa 'kkfey gks x;kA iwjk 
+dk;Z fdrus fnuksa eas lekIr gksxk\ 
+(a) 13 
+(b) 11 
+(c) 14 
+(d) 9 
+ 
+35. P can complete five-eighths of a work in 15 days and Q can complete three-fourths of the same work 
+in 30 days. They worked together for 8 days and then P left. How much time will Q working alone, 
+take to complete the remaining work? 
+P ,d dk;Z dks 
+𝟓
+𝟖 osa fgLls dks 15 fnuksa eas vkSj Q mlh dk;Z ds 
+𝟑
+𝟒 osa fgLls dks 30 fnuksa eas iwjk dj ldrk gSA mUgksaus 8 fnuksa rd ,d lkFk feydj dk;Z fd;k 
+vkSj fQj P us dk;Z NksM+ fn;kA Q vdsys 'ks"k dk;Z dks iwjk djus esa fdruk le; ysxk\ 
+(a) 
+15 days 16 hours 
+(b) 
+18 days 16 hours 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+(c) 
+20 days 14 hours 
+(d) 
+15 days 8 hours 
+36. A, B, and C can individually complete a task in 24 days, 20 days and 18 days, respectively: B and C 
+start the task, and they work for 6 days and leave. The number of days required by A alone to finish 
+the remaining task, is: 
+A, B, और C व्यस्क्तगत रूप से 24 दिनों, 20 दिनों और 18 दिनों में क्रमशः एक कायथ पूरा कर सकते हैं: B और C कायथ शुरू करते 
+हैं, और िे 6 दिनों के मलए काम करते हैं और छोड़ िेते हैं। शेष कायथ को पूरा करने के मलए A द्िारा अकेले आिश्यक दिनों की 
+संख्या है: 
+a) 10 days 
+ 
+b) 12
+𝟏
+𝟐 days 
+ 
+ 
+c) 8
+𝟒
+𝟓  days 
+ 
+d) 15
+𝟐
+𝟑 days 
+37. A can do a work in 16 days, B can do it in 36 days and C can do it in 48 days. A, B and C start working 
+together, after working 4 days A left. Then, after 5 days B also left. In how many days C will complete 
+the remaining work? 
+ A एक कायथ को 16 दिनों में कर सकता है, B इसे 36 दिनों में कर सकता है और C इसे 48 दिनों में कर सकता है। A, B और C एक 
+सार् काम करना शुरू करते हैं, 4 दिन काम करने के बाि A ने और इसके बाि 5 दिनों के बाि B ने काम छोड़ दिया,C  शेष कायथ 
+को ककतने दिनों में पूरा करेगा । 
+a) 15 
+ 
+ 
+b) 14  
+ 
+c) 16 
+ 
+ 
+d) 17 
+38. A can complete a work in 32 days. B can do in 36 days and C in 46 days. All of them start the work 
+together. A leave after 8 days, B leaves after one more day. in how many days C will complete the 
+remaining work? 
+ A 32 दिनों में एक काम पूरा कर सकता है। B 36 दिनों में और C 46 दिनों में पूरा कर सकता हैं। ये सभी ममलकर काम शुरू करते 
+हैं। 8 दिनों के बाि A काम छोड़ िेता है और B इसके एक दिन बाि छोड़ िेता है। शेष कायथ को C ककतने दिनों में पूरा करेगा? 
+a) 13               b) 14               c) 12              d) 15 
+39. A, B and C together can complete a work in x, 30 and 45 days, respectively. B and C worked together 
+for 6 days. The remaining work was completed by A alone in 12 days. The value of x is: 
+A, B vkSj C ,d lkFk] feydj fdlh dk;Z dks Øe'k% x, 30 vkSj 45 fnu eas iwjk dj ldrs gSaA B vkSj C ,d lkFk feydj 6 fnu rd dk;Z djrs gSaA 'ks"k dk;Z 
+vdsys A }kjk 12 fnuksa eas iwjk fd;k tkrk gSA x dk eku Kkr djsaA 
+(a)18 
+ (b)20 
+(c)24 
+ (d)15 
+40. In a computer game, a builder can build a wall in 20 hours while a destroyer can demolish such a wall 
+completely in 50 hours. Both the builder and the destroyer were initially set to work together on 
+level ground. But after 30 hours the destroyer was taken out. What was the total time taken to build 
+the wall? 
+कंप्यूटर गेि िें एक मनिायता 20 घंटे िें एक दीवार बना सकता है जबमक एक मवध्वंसक(नष्ट करने वाला) ऐसी दीवार को 50 घंटे िें पूरी 
+तरह से ध्वस्त कर सकता है। मनिायता और मवध्वंसक दोनों को शुरू िें सितल जिीन पर एक साथ काि करने के मलए लगाया गया 
+था। लेमकन 30 घंटे के बाद मवध्वंसक को हटा मदया गया। दीवार बनाने िें कुल मकतना सिय लगा ? 
+NTPC CBT - I  31/01/2021 (Morning) 
+(a) 32 hours / घंटे 
+(b) 32 hours / घंटे 40 mins / मिनट 
+(c) 33 hours / घंटे 20 mins / मिनट 
+(d) 32 hours / घंटे 20 mins / मिनट  
+ 
+41. In a press there are three types of printing machines A, B and C. Machine A can print ten thousand 
+pages in 8 hours, machine B can do the same task in 10 hours, and machine C can do the same 
+task in 12 hours. All three machines start the task at 9:00 AM. Machine A breaks down at 11:00 
+AM, and machine B and C continue working. At 12:00 noon machine B also breaks down and 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+machine C alone has to complete the remaining task. What is the approximate time of completion 
+of the task? 
+एक प्रेस में तीन प्रकार की वप्रंदटंग मशीनें A, B और C होती हैं। मशीन A 8 घंटे में िस हजार पेज वप्रंट कर सकती है, मशीन B 
+उसी कायथ को 10 घंटे में कर सकती है, और मशीन C उसी कायथ को 12 घंटे में कर सकती है। तीनों मशीनें सुबह 9 बजे काम 
+शुरू कर िेती हैं। मशीन A सुबह 11:00 बजे िराब हो जाती है, और मशीन B और C काम करना जारी रिते हैं। िोपहर 12:00 
+बजे मशीन B भी िराब हो जाती है और मशीन C को अकेले ही शेष कायथ पूरा करना पड़ता है। कायथ पूरा होने का अनुमाननत 
+समय क्या है? 
+A) 2:24 PM 
+B) 2:40 PM 
+C) 12:45 PM 
+D) 1:54 PM 
+ 
+ 
+ 
+ 
+[DELHI POLICE CONSTABLE 
+42. X can complete one-third of a certain work in 6 days, Y can complete one-third of the same work in 
+8 days and Z can complete three-fourth of the same work in 12 days. All of them work together for n 
+days and then X and Z quit and Y alone finishes the remaining work in 
+2
+8 3
+ days. What is n equal to? 
+X ककसी काम का एक-नतहाई भाग 6 दिनों में पूरा कर सकता है, Y उसी काम का एक-नतहाई भाग 8 दिनों में, और Z उसी काम 
+का तीन-चौर्ाई भाग 12 दिनों में पूरा कर सकता है । िे सभी एक सार् ममल कर n दिनों तक काम करते हैं, तब X और Z काम 
+छोड़ िेते हैं, और अकेला Y शेष काम को 
+2
+8 3
+ दिनों में पूरा कर लेता है । तो n ककसके बराबर है ? (UPSC CSAT 2025) 
+(a) 
+3 
+ 
+(b) 
+4 
+(c) 
+5 
+ 
+(d) 
+6 
+43. A, B and C do a piece of work in 40, 60 and 80 days A, B and C work for 10 days and A leaves the 
+work B and C do it for 4 days then B leaves the work and A comes back then A and C have worked 
+for 8 days, then what part of that work is left? 
+A, B और C एक काम को 40, 60 और 80 दिनों में करते हैं A, B और C 10 दिनों तक काम करते हैं और A उस काम को 
+छोड़ िेता है, B और C 4 दिन करते है किर B काम छोड़ िेता है और A िापस आ जाता है किर A और C ने 8 दिनों तक काम 
+ककया है, तो उस काम का ककतना भाग शेष बचा है? 
+[A] 
+𝟏
+𝟐𝟒 
+ 
+[B] 
+𝟏
+𝟏𝟖 
+[C] 
+𝟏
+𝟐𝟎 
+ 
+[D] 
+𝟏
+𝟑𝟔 
+44. A can do 20% of a work in 4 days, B can do 33
+𝟏
+𝟑% of the same work in 10 days. They worked together 
+for 9 days. C completed the remaining work in 6 days. B and C together will complete 75% of the 
+same work in: 
+A ककसी कायथ का 20%, 4 दिन में पूरा कर सकता है, B उसी कायथ का 33
+𝟏
+𝟑%, 10 दिन में पूरा कर सकता है। िे 9 दिन के मलए एक 
+सार् कायथ करते हैं। C शेष कायथ को 6 दिन में पूरा करता है। B और C एक सार् उसी कायथ का 75% ककतने दिन में पूरा करेंगे? ? 
+(SSC CGL 2023) 
+(a) 12 days 
+ 
+(b) 15 days 
+ 
+(c) 10 days 
+ 
+(d) 9 days 
+ 
+45. A can complete a work in 60 days. B is 25% more efficient than A. They work together for 15 days. 
+C alone completes the remaining work in 14 days. B and C together will complete 
+𝟓
+𝟖th part of the 
+original work in: 
+A, fdlh dk;Z dks 60 fnu eas iwjk dj ldrk gSA B, A ls 25% vf/kd dq'ky gSA os ,d lkFk 15 fnu rd dk;Z djrs gSaA vdsys C, 'ks"k dk;Z dks 14 fnu eas 
+iwjk djrk gSA ,d lkFk B vkSj C ewy dk;Z ds 
+𝟓
+𝟖 Hkkx dks fdrus fnu esa iwjk djsaxs\ 
+(a) 
+18 days 
+(b) 
+16 days 
+(c) 
+12 days 
+(d) 
+15 days 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+46. A can do a piece of work in 120 days and B can do it in 150 days. They work together for 20 days. 
+Then, B leaves and A alone continues the work. 12 days after that C joinsA and the work is completed 
+in 48 days more. In how many days can C do it, if heworks alone? 
+A ,d dk;Z dks 120 fnuksa esa dj ldrk gS vkSj B mls 150 fnuksa esa dj ldrk gSA os 20 fnuksa rd ,d lkFk dk;Z djrs gSaA fQj B pyk tkrk gS vkSj A vdsyk 
+dk;Z tkjh j[krk gSA mlds 12 fnu ckn C, A ls tqM+ tkrk gS vkSj dk;Z 48 vkSj fnuksa esa iwjk gks tkrk gSA C fdrus fnuksa esa dk;Z dj ldrk gS] ;fn og vdsys 
+dk;Z djrk gS\ 
+(a) 280 days/fnu  
+ 
+(b)320 daysfnu 
+(c) 240 daysfnu  
+ 
+(d) 270 daysfnu 
+47. Kishore can complete a piece of work in 15 days, Naresh in 20 days and Suresh in 30 days. Kishore 
+and Suresh worked together for 2 days and then Kishore was replaced by Naresh. In how many 
+days, altogether, was the work completed? 
+ककशोर एक कायथ को 15 दिनों में, नरेश को 20 दिनों में और सुरेश को 30 दिनों में पूरा कर सकता है। ककशोर और सुरेश ने 2 
+दिनों के मलए एक सार् काम ककया और किर ककशोर की जगह नरेश ने ले ली। कायथ को कुल ममलाकर ककतने दिनों में पूरा ककया 
+गया? 
+A) 12.5 
+B) 10 
+C) 12 
+D) 11.6 
+48. A and B can do a piece of work in 45 and 40 days resepctively. They began the work together but A 
+left after some days and B finishsed the remaining work in 23 days. A left after? 
+A और B क्रमशः 45 और 40 दिनों में काम पूरा  कर सकते हैं। उन्होंने एक सार् काम शुरू ककया लेककन कुछ दिनों के बाि A ने 
+काम छोड़ दिया और B ने 23 दिनों में शेष काम पूरा कर मलया। A ने ककतने दिनों के बाि छोड़ दिया? 
+(a) 6 days 
+ 
+(b) 9 days 
+(c) 12 days 
+ 
+(d) 5 days 
+49. Two worker A and B can complete a work in 35 days and 45 days, respectively. Initially, both A and 
+B started working together. However, A left after some days and B alone completed the remaining 
+work in 29 days. Find the number of days that A and B worked together. 
+A vkSj B ] nks etnwj fdlh dk;Z dks dze”k% 35 fnu vkSj 45 fnu esa iwjk dj ldrs gSA “kq: esa ] A vkSj B  nksuksa ,d lkFk dk;Z “kq: djrs gSA gkykafd A dqN 
+fnu ds ckn dk;Z NksM nsrk gS vkSj B vdsys “ks’k dk;Z dks 29 fnu esa iwjk djrk gSA A vkSj B ,d lkFk  fdrus fnu rd dk;Z djrs gS \ 
+ 
+(A) 9 days 
+(B) 7 days 
+(C) 5 days 
+(D) 6 days 
+50. A and B can complete a task in 12 days. However, A had to leave a few days before the task was 
+completed and hence it took 16 days in all to complete the task. If A alone could complete the work 
+in 21 days, how many days before the work getting over did A leave? 
+A और B मकसी काि को 12 मदन िें पूरा कर सकते हैं। A को कायय पूरा होने के कुछ मदन पहले कायय छोड़ना पड़ा और इसी कारण से 
+कायय को पूरा करने िें 16 मदन लग गए। यमद अकेला A इस काि को 21 मदन िें पूरा कर सकता है तो काि के खत्म होने से मकतने 
+मदन पहले A छुट्टी पर चला गया था? 
+RRB ALP  10/08/2018  (Afternoon) 
+(a)  7 
+(b)  9 
+ 
+(c)  5 
+(d)  3 
+51. A can do a piece of work in 18 days. B can do this work in 24 days. A started the work alone. After 
+how many days should B join him, so that the work is finished in 15 days?  
+A ,d dk;Z dks 18 fnuksa esa dj ldrk gSA B bl dk;Z dks 24 fnuksa esa dj ldrk gSA A vdsys dke 'kq: djrk gSA fdrus fnuksa ds ckn B dks mlds lkFk tqM+uk 
+pkfg,] rkfd dk;Z 15 fnuksa esa lekIr gks tk,\ (SSC GD 2022) 
+(a) 
+11 days 
+(b) 
+19 days 
+(c) 
+13 days 
+(d) 
+14 days 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+52. A and B together can finish a certain work in 45 days. They worked on it for 35 days and then A left 
+the work. The remaining work was done by B alone in 24 days more. In how many days can B alone 
+finish the entire work? 
+A vkSj B feydj ,d fuf'pr dk;Z dks 45 fnuksa esa iwjk dj ldrs gSaA mUgksusa 35 fnuksa rd dk;Z fd;k vkSj fQj A us dk;Z NksM+ fn;kA 'ks"k dk;Z B }kjk vdsys 
+24 fnuksa esa iwjk fd;kA B vdsys iwjs dk;Z dks fdrus fnuksa esa iwjk dj ldrk gS\ 
+1. 96  
+2. 108  
+3. 102  
+4. 90 
+ 
+ 
+( ICAR Technician 2023) 
+53. Ram can complete a piece of work in 60 days. He works for 10 days and then, Raj alone finishes the 
+remaining work in 35 days. In how much time will Ram and Raj finish the work if they work 
+together? 
+राम एक कायथ को 60 दिनों में पूरा कर सकता है। िह 10 दिनों तक काम करता है और किर, राज अकेले शेष काम को 35 दिनों 
+में पूरा करता है। यदि राम और राज एक सार् काम करते हैं तो ककतने समय में काम पूरा करेंगे? (SSC GD 2021) 
+A) 21
+𝟏
+𝟐𝒅𝒂𝒚𝒔 
+B) 20
+𝟑
+𝟏𝟕𝒅𝒂𝒚𝒔 
+C) 24
+𝟏𝟐
+𝟏𝟕𝒅𝒂𝒚𝒔 
+D) 25
+𝟐
+𝟓𝒅𝒂𝒚𝒔 
+54. A can do a piece of work in 72 days. He works at it for 9 days and then B alone finishes the 
+remaining work in 42 days. In how many days will A and B working together, finish the same work? 
+A ककसी काम को 72 दिनों में कर सकता है। िह इस पर 9 दिनों तक कायथ करता है और किर B अकेला शेष कायथ को 42 दिनों 
+में पूरा करता है। A और B एक सार् कायथ करते हुए समान कायथ को ककतने दिनों में पूरा करेंगे? 
+A) 26
+𝟐
+𝟓 
+B) 28
+𝟒
+𝟓 
+C) 25
+𝟏
+𝟓 
+D) 27
+𝟑
+𝟓 
+55. P can do one-fourth piece of some work in 18 days. She completed 37.5% of that work and left it. Q 
+completed the remaining work in 40 days. Working together they will complete (
+𝟏𝟕
+𝟒𝟖) part of the same 
+work in: 
+P fdlh dk;Z dk ,d pkSFkkbZ Hkkx 18 fnuksa esa dj ldrh gSA mlus ml dke dk 37.5% iwjk fd;k vkSj mls NksM+ fn;kA Q us 'ks"k dk;Z dks 40 
+fnuksa esa iwjk fd;kA ,d lkFk dke djrs gq, os mlh dk;Z dk (
+𝟏𝟕
+𝟒𝟖) fgLlk fdrus fnuksa esa iwjk djsaxh@xs\ 
+(a)6 days 
+  
+(b)10 days 
+(c)12 days 
+  
+(d)8 days 
+56. After working alone for 12 days. Reena finds that only 10% of the work is completed. She employs 
+Priya who is 40% more efficient than Reena. How many more days will they together take to 
+complete the remaining work? 
+12 दिनों तक अकेले काम करने के बाि. रीना को पता चला कक केिल 10% काम पूरा हुआ है। िह वप्रया को काम पर रिती है 
+जो रीना से 40% अधिक कुशल है। शेष कायथ को पूरा करने में उन्हें और ककतने दिन लगेंगे? 
+A) 30 days 
+B) 45 days 
+C) 45 days 
+D) 50 days 
+57. A and B together can complete a work in 40 days. They start work together and after 31 days B left 
+the work and whole work complete in 46 days. Find the time in which A alone can complete 50% of 
+work? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ A और B ममलकर 40 दिनों में एक काम पूरा कर सकते हैं। िे एक सार् काम शुरू करते हैं और 31 दिनों के बाि B ने काम छोड़ 
+दिया और पूरा काम 46 दिनों में पूरा हो गया। िह समय ज्ञात कीस्जए स्जसमें A अकेले 50% काम पूरा कर सकता है? 
+a) 66
+𝟐
+𝟑                                 b) 43
+𝟏
+𝟑 
+ 
+ 
+c) 33
+𝟏
+𝟑 
+                               d) 37.5 
+58. A and B can together complete a task in 18 hours. After 6 hours A leaves, B takes 36 hours to finish 
+rest of the task. How many hours would A have taken to do the task if he worked alone? 
+A rFkk B fdlh dkes 18 ?kaVksa esa iwjk dj ysrs gSaA 6 ?kaVs ckn A dke NksM+ nsrk gSA cps gq, dke dks iwjk djus ds fy, B 36 ?kaVs ysrk gSA ;fn A 
+vdsys dke djrk gS rks mls bl dke dks djus esa fdrus ?kaVs yxsaxs \ 
+(a) 54 
+ 
+ 
+(b) 45 
+(c) 21 
+ 
+ 
+(d) 27 
+59. Shivam can do a piece of work in 6 days and Vivek in 24 days. They started work together but Shivam 
+left the work 3 days before its completion. In how  many days was the work completed? 
+मशवि एक काि को 6 मदनों िें और मववेक 24 मदनों िें कर सकता है। उन्होंने एक साथ काि शुरू मकया लेमकन मशवि ने काि पूरा 
+होने से 3 मदन पहले काि छोड़ मदया। कायय मकतने मदनों िें पूरा हुआ? 
+1. 7
+𝟒
+𝟓 days 
+2. 7
+𝟐
+𝟓 days 
+3. 7
+𝟑
+𝟓 days 
+4. 7
+𝟏
+𝟓 days 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+60. Nirbhay can complete a piece of work alone in 19 days and Vismay can complete the same piece of 
+work alone in 6 days. They started the work together, but Nirbhay had to leave 4 days before the 
+completion of the work. In how many days will the work get completed? 
+ननभथय अकेले ककसी कायथ को 19 दिनों में पूरा कर सकता है और विटमय अकेले उसी कायथ को 6 दिनों में पूरा कर सकता है। उन्होंने 
+सार् ममलकर कायथ करना शुरू ककया, लेककन ननभथय को कायथ पूरा होने से 4 दिन पहले ही कायथ छोड़ना पड़ा। कायथ ककतने दिनों में 
+पूरा हो पाएगा? (RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+1. 
+𝟓
+𝟏𝟑
+𝟐𝟓 days 
+2. 
+𝟓
+𝟔
+𝟐𝟓 days   
+3. 
+𝟓
+𝟖
+𝟐𝟓 days   
+4.        𝟓
+𝟐𝟒
+𝟐𝟓 days 
+61. A, B and C can do a work separately in 18, 36 and 54 days, respectively. They started the work 
+together, but B and C left 5 days and 10 days, respectively. before the completion of the work. In 
+how many days was the work finished? 
+A, B और C किसी िाम िो अलग-अलग क्रमशः 18, 36 और 54 किन में िर सिते हैं। उन्होंने एि साथ िाम िरना शुरू किया, लेकिल, B और C ने िाम पूरा होने िे पहले 
+क्रमशः 5 किन और 10 किन पहले िाम छोड़ किया। कितने किनों में िाम पूरा हुआ? 
+(a) 13 days  
+ 
+(b) 12 days  
+ 
+(c) 14 days  
+ 
+(d) 15 days  
+ 
+62. A, B, and C can do a piece of work in 42, 56, and 63 days respectively. They started the work together 
+but A left the work 10 days before the completion of the work while B left the work 12 days before 
+the completion. Find the number of days (approximate) to complete the whole work. 
+A, B vkSj C ,d dk;Z dks Øe'k% 42, 56 vkSj 63 fnuksa esa dj ldrs gSaA mUgksaus ,d lkFk dke 'kq: fd;k ysfdu A us dke iwjk gksus ls 10 fnu 
+igys NksM+ fn;k tcfd B us dke iwjk gksus ls 12 fnu igys NksM= fn;kA dqy dk;Z dks iwjk djus esa yxus okys fnuksa dh la[;k ¼yxHkx½ Kkr djsaA
+ 
+(SSC GD 2022) 
+(a)29 days 
+ (b)25 days 
+ 
+(c)15 days 
+ 
+(d)24 days 
+63. A, B and C can complete a work in 10, 12 and 15 days respectively They started the work together 
+But A left work before 5 days of its completion. B also left the work 2 days after A left. In how many 
+days was the work completed? 
+ A, B और C क्रमशः 10, 12 और 15 दिनों में एक काम पूरा कर सकते हैं। उन्होंने एक सार् काम शुरू ककया लेककन इसके पूरा होने 
+के 5 दिन पहले A ने काम छोड़ दिया। B ने A के छोड़ने के 2 दिन बाि काम छोड़ दिया। कायथ ककतने दिनों में पूरा हुआ? 
+a) 4 days 
+ 
+b) 5 days  
+ 
+c) 7 days 
+ 
+d) 8 days 
+64. N, O and P can complete a work alone in 20, 15 and 12 days respectively. They started the 
+work together. N left the work 4 days before the work was completed and O left the work 2 days 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+after N had left. P completed the remaining work alone. How many days will be required to 
+complete the whole work? 
+N, O और P अकेले एक काम को क्रमशः 20, 15 और 12 दिनों में पूरा कर सकते हैं। उन्होंने एक सार् काम शुरू ककया. N ने 
+काम पूरा होने से 4 दिन पहले काम छोड़ दिया और O ने N के जाने के 2 दिन बाि काम छोड़ दिया। P ने शेष कायथ अकेले पूरा 
+ककया। संपूर्थ कायथ को पूरा करने में ककतने दिन लगेंगे? 
+A) 20/3 days 
+B) 21/4 days 
+C) 20/5 days 
+D) 18/5 days 
+65. A can do a certain work in 40 days. B has 66
+𝟐
+𝟑% less efficiency than A and C is 400% more efficient 
+than B. All the three started the work together. If B and C left the work 5 days and 2 days before 
+the completion of the work respectively, then in how many days was the entire work completed? 
+A एक तनश्चिि कार्य को 40 दिनों में कर सकिा है। B, A से 66
+𝟐
+𝟑%  कम िक्षिा रखिा है और C, B से 400% अचिक कुशल है। िीनों 
+ने ममलकर काम शुरू ककर्ा। र्दि B और C ने कार्य पूरा होने से क्रमशः 5 दिन और 2 दिन पहले कार्य छोड़ दिर्ा, िो पूरा कार्य ककिने 
+दिनों में पूरा हुआ? (ICAR Assistant 2022) 
+a)16 
+ 
+ 
+b)20 
+ 
+ 
+c)15 
+ 
+ 
+d)18 
+66. Somesh, Tarun and Nikhil can complete a work separately in 45, 60 and 75 days. They started the 
+work together but Nikhil left after 5 days of start and Somesh left 2 days before the completion of 
+the work. In how many days will the work be completed? 
+सोमेश, तरुर् और ननखिल क्रमशः 45, 60 और 75 दिनों में अलग – अलग एक काम पूरा कर सकते हैं। उन्होंने एक सार् काम 
+शुरू ककया लेककन ननखिल ने काम शुरु होने  के 5 दिनों के बाि  छोड़ दिया और सोमेश ने काम पूरा होने से 2 दिन पहले छोड़ 
+दिया।  ज्ञात करे कायथ ककतने दिनों में पूरा हुआ ? 
+(a) 𝟐𝟓
+𝟏
+𝟕  
+(b) 𝟓𝟎
+𝟏
+𝟕 
+ 
+(c) 𝟑𝟓
+𝟓
+𝟕  
+(d) 𝟒𝟎
+𝟓
+𝟕 
+67. A can complete a certain work in 18 days. B can complete the same work in 72 days. C is 33
+𝟏
+𝟑% more 
+efficient than B. All the three started the work together. A left 8 days and C left 17 days before the 
+completion of work, but B continued to work till the work was completed. For how many days did A 
+work? 
+A ,d fo'ks"k dk;Z dks 18 fnuksa esa iwjk dj ldrk gSA mlh dk;Z dks B, 72 fnuksa esa iwjk dj ldrk gSA C, B ls 𝟑𝟑
+𝟏
+𝟑%  vf/kd dq'ky gSA lHkh rhuksa us ,d 
+lkFk dk;Z djuk izkjaHk fd;kA A us dk;Z iwjk gksus ls 8 fnu iwoZ dk;Z NksM+ fn;k vkSj C us 17 fnu iwoZ dk;Z NksM+ fn;k fdUrq B, dk;Z iwjk gksus rd dk;Z djrk 
+jgkA A us fdrus fnuksa rd dk;Z fd;k\ 
+1.9   
+2.15  
+3.10  
+4. 12 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+68. Anil alone can do a job in 20 days while Sunil alone can do it in 40 days. Anil starts the job, and after 
+3 days, Sunil joins him. Again, after a few more days, Bimal joins them and they together finish the 
+job. If Bimal has done 10% of the job, then in how many days was the job done? 
+अननल अकेले 20 दिन में एक काम कर सकते हैं जबकक सुनील अकेले 40 दिनों में कर सकते हैं। अननल काम शुरू करता है, और 
+3 दिनों के बाि, सुनील उससे जुड़ जाता है। किर, कुछ और दिनों के बाि, बबमल उनसे जुड़ जाता है और िे एक सार् काम पूरा 
+करते हैं। अगर बबमल ने 10% काम ककया है, तो ककतने दिनों में काम पूरा हुआ? 
+(a)13  
+ 
+(b)14  
+ 
+(c)12  
+ 
+(d)15 
+ 
+69. A does half as much work as B in three-fourth of the time. If together they take 66 days to complete 
+the work, how many days shall B alone take to do it?  
+ककसी काम को करने में B को स्जतना समय लगता है, उसके तीन-चौर्ाई समय में A िही काम आिा कर पाता है। यदि िोनों 
+ममलकर काम को 66 दिनों में पूरा करते हैं, तो B को अकेले िह काम पूरा करने में ककतने दिन लगेंगे? (SSC GD 2025) 
+1. 55 
+ 
+ 
+ 
+ 
+2. 66 
+3. 110  
+ 
+ 
+ 
+4. 90 
+70. A does  3/8 as much work as B in five-sixth of time. If B take 87 days to complete a work alone, how 
+much time shall A and B take together to do it? 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+B द्िारा मलए गये समय के 5/6 समय में A 3/8 भाग काम पूरा करता है यदि B को ककसी कायथ को पूरा करने में 87 दिन लगते 
+हैं, तो A और B को ममलकर काम पूरा करने में ककतना समय लगेगा? 
+a) 58days 
+ 
+b) 60days 
+ 
+c) 64 days  
+ 
+d) 50 days 
+71. John does 
+𝟏
+𝟐  piece of work in 3 hours. Joe does 
+𝟏
+𝟒 of the remaining work in 1 hour and George finishes 
+remaining work in 5 hours. How long would it have taken the three working together to do the work? 
+जॉन 3 घंटे में  ½ भाग काम करता है। जॉय 1 घंटे में बचे हुए काम का 1/4 दहटसा पूरा करता है और जॉजथ 5 घंटे में बाकी बचा 
+काम पूरा करता है। तीनों को एक सार् काम पूरा करने में ककतना समय लगा होगा? 
+(a) 𝟐
+𝟏
+𝟕 hours (b) 𝟑
+𝟏
+𝟕 hours 
+ 
+(c) 𝟑
+𝟖
+𝟏𝟏 hours (d) 𝟐
+𝟖
+𝟏𝟏 hours 
+72. A and B together can do a piece of work in 12 days which B and C together do in 16 days. If A works 
+for 5 days, B works for 7 days than C completes the remaining work in 13 days. In how much time B 
+alone does the whole work. 
+A और B ममलकर ककसी काम को 12 दिनों में तर्ा B और C ममलकर उसी काम को 16 दिनों में करते है| अगर A 5 दिन 
+काम करता है, B 7 दिन काम करता है और C 13 दिनों में शेष काम करता है, तो B अकेला पूरा काम ककतने दिनों में ख़त्म 
+करेगा? 
+a) 48 days 
+ 
+b) 24 days 
+ 
+c) 16 days 
+ 
+d) 12 days 
+73. A would have taken 12 hours less than what B would have taken to complete a task if each of them 
+worked alone. Working together they can complete the task in 17.5 hours. How many hours would B 
+take to do 50% of the task? 
+A ककसी काम को पूरा करने में, B द्िारा उसी काम को पूरा करने में मलए गये समय से 12 घंटे कम समय लेता है । एक सार् 
+काम करने पर िे 17.5 घंटे में कायथ पूरा कर सकते हैं। 50% कायथ करने में B को ककतने घंटे लगेंगे? 
+(a) 18 
+                 
+ (b) 21 
+ 
+(c) 22 
+                
+ (d) 16 
+74. Vijay can chop all the vegetables available in 4 minutes lesser time than Bishaka. If both of them 
+work together, they take 288 seconds to chop all the vegetables. Howlong does Vijay alone take to 
+chop all the vegetables? 
+fot; lHkh miyC/k lfCt;ksa dks fc'kkdk ls 4 feuV de le; esa dkV ldrk gSA vxj nksuksa ,d lkFk dke djrs gSa] rks os lHkh lfCt;ksa dks dkVus esa 288 lsdaM 
+dk le; ysrs gSaA fot; vdsys lHkh lfCt;ksa dks dkVus eas fdruk le; ysxk\ 
+(a) 8 minutes   
+ 
+ 
+(b)6 minutes 
+(c) 9 minutes   
+ 
+ 
+(d) 7 minutes 
+75. Three men A, B and C working together can do a job in 6 hours less time than A alone, in 1 hour less 
+time than B alone and in one half the time needed by C when working alone. Then A and B together 
+can do the job in  
+A, B तर्ा C ममलकर ककसी काम को A की तुलना में 6 घंटे कम तर्ा B की तुलना में 1 घंटे कम में पूरा करते है तर्ा C की 
+तुलना में आिे समय में पूरा करते है, तो A तर्ा B ममलकर काम ककतने दिनों में पूरा करेंगे? 
+a) 
+𝟐
+𝟑 hour 
+ 
+b) 
+𝟏
+𝟑 hour 
+ 
+b) 
+𝟑
+𝟐 hour 
+ 
+d) 
+𝟒
+𝟑 hour 
+76. Sharan and Mayukh, working together, can complete a task in 18 days. However, Mayukh works alone 
+and leaves after completing one-third of the task. Then, Sharan takes over and completes the 
+remaining work by himself. As a result, the duo could complete the task in 40 days. How many days 
+would Sharan alone have taken to do the job if Mayukh had worked faster than Sharan? 
+शरण और ियूख एक साथ मिलकर मकसी कायय को 18 मदनों िें सिाप्त करते हैं। परन्तु ियूख इसी कायय को अकेले करता है और एक 
+मतहाई कायय पूरा करके काि छोड़ देता है। इसके बाद शरण कायय को अकेले पूरा करता है। इस प्रकार दोनों मिलकर कायय को 40 मदन 
+िें पूरा कर पाते हैं। यमद ियूख शरण से ज्यादा तेजी से कायय करता तो शरण अकेले मकतने मदनों िें पूरे कायय को सिाप्त करता? 
+RRB ALP  09/08/2018  (Afternoon) 
+(a) 30  
+(b) 45 
+ 
+(c) 24 
+(d) 72 

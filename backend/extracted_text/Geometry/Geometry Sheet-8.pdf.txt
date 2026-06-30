@@ -1,0 +1,307 @@
+ 
+                                            BY Gagan Pratap 
+1. In a scalene triangle field, a pole is situated and angle of elevation from the corners to the top of the 
+pole are equal then the pole is situated on which point of triangular field. 
+एक विषमबाहु आकृति के मैदान में एक खंभा स्थिि है।मैदान के प्रत्येक कोने से खंभे के शीषष का उन्नयन कोण बराबर है।िब ज्ञाि कीस्िये त्रिभुि 
+के कौन से त्रबंदु पर िह खंभा स्थिि है। 
+a) Circumcentre  
+b) Incentre   
+c) Orthocenter 
+ 
+d) Centroid 
+ 
+2. A, B, C are three points such that AB = 11 cm, BC = 13 cm and AC = 24 cm. Number of circles passing 
+through the points A, B, C is: 
+ 
+A, B, C तीन ब िंदु इस प्रकार हैं कक AB = 11 cm, BC = 13 cm और AC = 24 cm है। ब िंदु A, B, C से गुजरने वाले वृत्तों की सिंख्या ककतनी है?                
+SSC CHSL Pre 2024 
+ 
+[A]0  
+ 
+[B]3 
+ 
+[C] 1  
+ 
+[D]2 
+3. The circumcenter of a triangle PQR is O. if ∠QPR=55° and ∠QRP=75° , the value of ∠OPR is: 
+ककसी त्रिभुि PQR का पररकेन्र O है। यदद ∠QPR=55°  और ∠QRP=75° िो ∠OPR का मान है- 
+a)45°            b)40°                c)60°                d)70⁰ 
+ 
+4. If O and I is the circumcenter and incenter of a triangle DEF respectively, ∠EOF=124°, then ∠EIF=? 
+यदद त्रिभुि DEF में , O और I क्रमशः  पररकेंर और अन्िः केंर है।∠EOF=124° िो ∠EIF का मान होगा- 
+a)118°         b)124°       c)106°            d)121° 
+5. O is the circumcenter of a triangle PQR whose ∠P=56° . If the bisector of ∠OQR and ∠ORQ intersect 
+at M then what is the measure of ∠QMR? 
+ककसी त्रिभुि PQR का पररकेन्र O है।स्िसका  ∠P=56° है।∠OQR और ∠ORQ का कोण समद्विभािक M पर ममलिे है, िब ∠QMR का मान क्या 
+होगा? 
+a)118°  b)129°         c)146° 
+     d)151° 
+6. A triangle ABC is inscribed in a circle with center O. AO is produced to meet the circle at K and AD 
+⊥ BC. If ∠B = 80⁰ and ∠C = 64⁰, then the measure of ∠DAK is : 
+एक बिभुज ABC,  केंद्र O वाले एक  वृत्त के अिंदर  ना   हुआ है। AO को इस प्रकार  ढ़ाया जाता है की वह वृत्त को K पर मिले और AD ⊥BC  है। यदद 
+∠B = 80⁰ और ∠C = 64⁰  है, तो ∠DAK का िाप है: 
+a)10⁰       b) 16⁰        c) 12⁰         d) 20⁰ 
+7. In the given figure, OX, OY and OZ are perpendicular bisectors of the three sides of triangle. If 
+∠QPR=65°  and ∠PQR=60°  , then what is the value of (∠QOR+∠POR)? 
+ददए गए चिि में, OX, OY और OZ िीनों भुिाओं के लम्ब समद्विभािक है। यदद∠QPR=65°  और ∠PQR=60°   है।िब (∠QOR+∠POR) का मान 
+क्या होगा? 
+ 
+a)250°    b)230°        c)210°        d)195° 
+8. In a ∆PQR, I and C are respectively incentre and circumcenter of the triangle. The line PI is extended 
+which intersect the circumcircle at point D. ∠QCD=x, ∠PQR=y and ∠QID=z, find 
+𝟕𝒙+𝟕𝒚
+𝟐𝒛? 
+∆PQR में, I ििा C क्रमशः त्रिभुि के अन्िः केंर और पररकेन्र है। रेखा PI को बढ़ाने पर यह िृत्त को त्रबंदु D पर काटिी है।यदद ∠QCD=x, ∠PQR=y 
+और ∠QID=z है, िब 
+𝟕𝒙+𝟕𝒚
+𝟐𝒛का मान ज्ञाि कीस्िये। 
+a)9              b)5              c)14                d)7 
+ 
+                                            BY Gagan Pratap 
+ 
+ 
+9. In a quadrilateral PQRS such that SR=17cm, ∠PQR=122° and ∠PSR=116°. Find QS. 
+ििुभुषि PQRS में , यदद SR=17cm, ∠PQR=122° और∠PSR=116° है िब QS की लम्बाई क्या होगी? 
+a)25.5cm        b)34cm    c)17cm 
+d)8.5cm 
+ 
+10. In a ∆PQR, ∠Q=60°, PR=14√6cm. find the circumradius of triangle PQR. 
+त्रिभुि PQR में , ∠Q=60°, PR=14√6cm है ,त्रिभुि PQR के बाहय िृत्त की त्रिज्या क्या है? 
+a)7√7cm            b)7√3cm         
+c)7√6cm            d)14√2cm 
+11. Sides of a triangle are 9 cm, 6 cm and 5 cm. What is the value of circumradius of this triangle? 
+,d f=Hkqt dh Hkqtk,¡ 9 cm, 6 cm vkSj 5 cm gSaA bl f=Hkqt dh ifjf=T;k dk eku D;k gS\ 
+(a) 
+𝟗√𝟑
+𝟒 cm 
+(b) 
+𝟗√𝟑
+𝟓 cm 
+(c) 
+𝟐𝟕√𝟐
+𝟖 cm 
+(d) 
+𝟗√𝟐
+𝟐 cm 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+12. Sides of a triangle are 12 cm, 9 cm and 9 cm. What is the radius of the circumcircle of this triangle? 
+,d f=Hkqt dh Hkqtk, 12 cm, 9 cm vkSj 9 cm gSA bl f=Hkqt ds ifjo`Ùk dh f=T;k fdruh gS\ 
+(a) 
+𝟏𝟖𝟏√𝟓 
+(b) 
+𝟐𝟕/√𝟓 
+(c) 
+(𝟐𝟕√𝟓)/𝟏𝟎 
+(d) 
+𝟓𝟒/√𝟓  
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+ 
+13. In the given fig. ABC is a triangle in which AB=10cm, AC=6cm and AE=4cm, if AD is diameter of 
+circumcircle then find the radius of circumcircle? 
+ददए गए चिि में, ABC एक त्रिभुि है स्िसमे AB=10cm, AC=6cm और AE=4cm है। यदद AD पररिृत्त का व्यास है िब पररिृि की त्रिज्या क्या 
+होगी? 
+ 
+a)9cm       b)7.5cm         c)12cm        d)15cm 
+ 
+ 
+ 
+                                            BY Gagan Pratap 
+ 
+ 
+14. Find the radius of circum-radius to in-radius if sides of triangle are in the ratio 4:5:7? 
+यदद त्रिभुि की भुिाओं का अनुपाि 4:5:7 है, िो परर-त्रिज्या और अंि:त्रिज्या की त्रिज्या ज्ञाि कीस्िए? 
+A) 5/2 
+B) 13/7 
+C) 35/12 
+D) 7/6 
+15. The ratio of the side of a triangle, which is inscribed in a circle of radius 2√𝟑 cm is 3:5:7. Find the 
+area of the triangle? 
+एक बिभुज की भुजा का अनुपात 3:5:7 है।  जो 2√3 सेिी बिज्या के एक वृत्त िें अिंककत है, बिभुज का क्षेिफल ज्ञात कीजजए? 
+A) 135/49                          C) 15/4 
+B) 
+𝟏𝟓
+𝟒√𝟑                              D) 
+𝟏𝟑𝟓
+𝟒𝟗√𝟑 
+ 
+16. ABC is a right-angled triangle. ∠ACB=90° and ∠ABC=30°. What is the ratio of the circumradius of the 
+triangle to the side BC? 
+ABC एक समकोण त्रिभुि है।∠ACB=90° और ∠ABC=30° है िब त्रिभुि के पररत्रिज्या और भुिा BC में क्या अनुपाि होगा? 
+a)2:√3 b)1:√3      c)1:2 d)2:3 
+ 
+17. The sides of a triangle are 11 cm, 60 cm and 61 cm. What is the radius of the circle circumscribing 
+the triangle? 
+एक त्रिभुज की भुजाएँ 11 सेमी, 60 सेमी और 61 सेमी हैं। त्रिभुज के पररवृत्त  की त्रिज्या क्या है? 
+(a) 30.5 cm     
+(b) 31.5 cm    
+(c) 30 cm 
+ 
+ 
+(d) 31 cm 
+ 
+18. The sides of a triangle are 56 cm, 90 cm and 106 cm. The circumference of its circumcircle is: 
+एक त्रिभुज की भुजाएँ 56 सेमी, 90 सेमी और 106 सेमी हैं। इसकी पररवृत्त की पररत्रि है: 
+(a) 𝟏𝟎𝟗𝝅 
+ 
+ 
+(b) 𝟏𝟎𝟔𝝅 
+ 
+(c) 𝟏𝟏𝟐𝝅  
+ 
+ 
+(d) 𝟏𝟎𝟖𝝅 
+19. Find the length of the sides of a triangle, if its angles are in the ratio 2 : 4 : 6 and its circumradius is 
+12 cm. 
+उस बिभुज की भुजाओिं की लिं ाई ज्ञात करें, जजसके कोणों का अनुपात 2 : 4 : 6 है और जजसकी पररबिज्या 12 cm है        
+SSC CHSL Pre 2024 
+[A] 
+5 cm, 6 cm, 10 cm 
+[B] 15 cm, 15√𝟑 cm, 30 cm 
+[C]  
+12 cm, 12√𝟑 cm, 24 cm 
+[D] 6 cm, 6√𝟑 cm, 12 cm 
+ 
+20. The figure shows a circle of diameter AB and radius 6.5 cm. if chord CA is 5 cm long, find the area 
+of ∆ABC? 
+आकृत्रि, AB व्यास और 6.5 सेमी त्रिज्या का एक वृत्त त्रिखािी है। यत्रि जीवा CA, 5 सेमी लंबी है, िो त्रिभुज ABC का क्षेिफल 
+ज्ञाि कीत्रजए? 
+ 
+ 
+                                            BY Gagan Pratap 
+A) 60 sq cm                             C) 30 sq cm 
+B) 40 sq cm                             D) 52 sq cm 
+21. In a circle of radius 10cm with center O, PQ and PR are two chords each of length 12cm. PO intersects 
+chord QR at the point S. The length of OS is: 
+केंद्र O के बिज्या 10cm के एक वृत्त िें, PQ और PR प्रत्येक 12cm लिं ाई के दो जीवा  हैं। PO ,जीवा QR को ब िंदु S पर काटता है। OS की लिं ाई है: 
+a)2.8 cm     b) 2.5 cm      c) 3.2 cm     d) 3 cm 
+22. In a circle of radius 10cm and center O, PQ and PR are two equal chords, each of length 12 cm. What 
+is the length of chord QR? 
+बिज्या 10 सेिी और केंद्र O के एक वृत्त िें, PQ और PR दो सिान जीवा हैं, जजनिें से प्रत्येक की लिं ाई 12 सेिी है। जीवा QR की लिं ाई क्या है? 
+a)18.6       b) 20.4     
+  c) 18.4       
+ d) 19.2 
+23. On a circle of radius 7 units, PQ and QR are chords of length 7 units each. What is the length of the 
+chord PR in units? 
+7 इकाई त्रिज्या वाले एक वृत्त पर, PQ और QR प्रत्येक 7 इकाई लंबाई वाली जीवाएँ हैं। जीवा PR की लंबाई इकाई में त्रकतनी है? 
+ (SSC CGL PRE 2024) 
+ 
+ 
+ 
+[A] 
+𝟐𝟖
+√𝟑 
+ 
+[B] 
+𝟕
+√𝟑 
+ 
+[C] 
+𝟏𝟒
+√𝟑 
+ 
+[D] 
+𝟐𝟏
+√𝟑 
+24. Find the distance between incentre and circumcenter of a triangle whose sides are 6,8 and 10cm? 
+एक त्रिभुि की भुिाये 6,8 और 10 है । इस त्रिभुि के अन्िः केंर और पररकेन्र के बीि की दूरी ज्ञाि कीस्िये। 
+ORTHOCENTER 
+(लम्बकेन्र) 
+25. In any triangle if orthocentre lies on its one sides then: 
+यदद ककसी त्रिभुि में, लम्बकेन्र इसकी एक भुिा पर स्थिि है िब - 
+a) Orthocenter  lies on vertex  
+b) Circumcentre lies outside the triangle 
+c) Circumcentre also lies on that side 
+d) Centroid and orthocenter are on same point 
+ 
+26. In any triangle sum of all three altitude will be: 
+ककसी त्रिभुि में िीनों शीषष लम्बो की लंबाई का योगफल सदैि होिा है- 
+a) Equal to sum of all three sides 
+b) Less than the sum of all three sides 
+c) Greater than the sum of all three sides 
+d) Equal to twice of the sum of all three sides 
+ 
+27. In an obtuse angled triangle ABC, ∠A is obtuse angle and O is orthocenter. If ∠BOC=54, then find the 
+value of ∠BAC? 
+अचिक कोण त्रिभुि ABC में, ∠A अचिक कोण है ििा O लम्बकेन्र है।यदद ∠BOC=54° है िब∠BAC का मान होगा- 
+a)108°    
+b)126°     
+ 
+ c)136°      
+ 
+d)116° 
+28. In 𝜟𝑨𝑩𝑪, the perpendiculars drawn from A, B and C meet the opposite sides at D, E and F, 
+respectively. AD, BE and CF intersect at point P. If ∠EPD=122° and the bisectors of ∠A and ∠B meet 
+at Q, then the measure of ∠AQB is: 
+𝜟𝑨𝑩𝑪 में, A, B और C से खींची  गए लंब क्रमशः D, E और F पर त्रवपरीत भुजाओं से मिलते  हैं। AD, BE और CF त्रबंदु P पर एक दूसरे को काटती है। यत्रद ∠EPD 
+= 122° और ∠A और ∠B के त्रिभाजक त्रबंदु Q पर त्रमलते हैं, तो ∠AQB का माप है: 
+(a) 122°  
+ 
+(b) 119° 
+(c) 117°  
+ 
+(d) 124° 
+29. In ABC, BE⊥AC, CD⊥AB and BE and CD intersect each other at O. The bisectors of OBC and OCB 
+meet at P. If BPC = 148⁰, then what is the measure of A? 
+ABC esa BE ⊥ AC, CD ⊥ AB rFkk BE vkSj CD ijLij ,d&nwljs dks O ij dkVrs gSaA OBC vkSj OCB ds le&f}Hkktd P ij feyrs gSaA 
+;fn BPC = 148° gS] rks A dh eki D;k gksxh\ 
+(a) 64⁰            (b) 28⁰             (c) 56⁰       (d) 32⁰ 
+30. In a triangle PQR, PX, QY and RZ be altitudes intersecting at O. If PO=6cm, PX=8cm and QO=4cm, 
+then what is the value (in cm) of QY? 
+ 
+                                            BY Gagan Pratap 
+त्रिभुि PQR में, िीनो शीषषलम्ब क्रमशः PX, QY और RZ एक दूसरे को त्रबंदु O पर काटिे है।यदद PO=6cm, PX=8cm और QO=4cm है िब QY का 
+मान होगा- 
+a) 6.3          b) 5.8          c) 6            d) 7 
+31. In a ∆ABC , AD and BE are altitudes on side BC and AC respectively . O is the orthocentre . if AO=9, 
+OD=2, and OE=3 unit the length of side AB is ? 
+∆ABC िें, AD और BE क्रिशः BC और AC की की ऊँचाइयाँ हैं। O , ∆ABC का लिं केन्द्द्र  है। यदद AO = 9, OD = 2, और OE = 3 इकाई, AB 
+की लिं ाई क्या  है? 
+a)√𝟏𝟓𝟏                       b) √𝟏𝟓𝟐                            
+ c) √𝟏𝟓𝟑                        d) √𝟏𝟓𝟒    
+32. If the distance between centroid and circumcentre of a triangle is 6cm the find distance between 
+orthocentre and circumcentre ? 
+यदद ककसी बिभुज के केन्द्द्रक और पररकेन्द्द्र  के  ीच की दूरी 6 सेिी है, तो लिं केन्द्द्र और पररकेन्द्द्र   के  ीच की दूरी है? 
+a)12cm        b)18cm      c)6cm         d)7.5cm 
+33. In a triangle the length of two altitudes are 12cm and 15cm respectively. Find the sum of all possible 
+integer value of third altitude. 
+ककसी त्रिभुि के दो शीषषलम्ब12cm और 15cm है।िो िीसरे शीषषलम्ब के सभी संभििः पूणाांक मान का योगफल क्या होगा? 
+ a)1689       b)1749         c)1889       d)1598 
+34. What is the distance between the orthocenter and the circumcenter of a triangle whose sides measure 
+12cm, 35cm and 37cm? 
+एक त्रिभुि स्िसकी भुिाएँ 12cm, 35cm ििा 37cm है िो उसके लम्ब केंर ि पररकेन्र के मध्य दूरी ज्ञाि कीस्िये? 
+a) 17.5cm        
+ 
+b) 15cm  
+c) 18.5cm      
+ 
+d) 8√5cm 
+ 
+35. In triangle ABC, AD is perpendicular to BC and BE is perpendicular to AC, AD and BE intersect at F 
+(inside the triangle). If AB = 20 cm, CD = 4 cm and AD = 12 cm, then what is the length of BE? 
+त्रिभुि ABC में, AD, BC पर लंबिि है और BE, AC पर लंबिि है, AD और BE, F पर (त्रिभुि के अंदर) प्रतिच्छेद करिे हैं। यदद AB 
+= 20 सेमी, CD = 4 सेमी और AD = 12 सेमी, िो BE की लंबाई क्या है? 
+A) 8 
+ 
+ 
+ 
+C) 5√𝟏𝟎 
+B) 6√𝟏𝟎                              D) 16 
+ 
+ 
+36. Find the radius r in the given figure? 
+दी गई आकृति में त्रिज्या r ज्ञाि कीस्िए? 
+ 
+A) 4/3  
+B) 2/3 
+C) ½ 
+D) 1.25 

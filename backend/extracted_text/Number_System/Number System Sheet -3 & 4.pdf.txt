@@ -1,0 +1,944 @@
+ 
+ 
+1. If 𝟐𝟗𝟒𝟏+ 𝟑𝟕𝟒𝟏  is divided by 33, then the remainder is: 
+यदि 29⁴¹ + 37⁴¹ को 33 से विभाजित ककया िाता है, तो प्राप्‍त होने िाला शेषफल ज्ञात करें।  
+(a) 2 
+ 
+ 
+(b) 3 
+ 
+ 
+(c) 1 
+ 
+ 
+(d) 0 
+2. What is the remainder when ( 𝟏𝟐𝟕𝟗𝟕 + 𝟗𝟕𝟗𝟕 ) is divisible by 32? 
+tc (12797 + 9797) dks 32 ls foHkkftr fd;k tkrk gS rks fdruk शेषफल cprk gS\ 
+(a) 7 
+(b) 2 
+(c) 4 
+(d) 0 
+3. (𝟕𝟑𝟓𝟑 + 𝟖𝟑𝟓𝟑 ) is divisible by: 
+(𝟕𝟑𝟓𝟑 + 𝟖𝟑𝟓𝟑) निम्ि में से निससे निभाज्य है? 
+A.150 
+B.156 
+C.154 
+D. 152 
+4. One of the factors (82k + 52k), where k is an odd number, is : 
+(82k + 52k) का‍गुणनखंड‍क्या‍होगा ( जह ां k एक विषम सांख्य  है ) : 
+(a) 86 
+ 
+(b) 84 
+ 
+(c) 88 
+ 
+(d) 89 
+5. What is the remainder when ( 𝟕𝟓𝟔𝟐𝟕𝟑 - 𝟒𝟏𝟐𝟐𝟕𝟑 ) is divisible by 86? 
+tc ( 𝟕𝟓𝟔𝟐𝟕𝟑 - 𝟒𝟏𝟐𝟐𝟕𝟑 )  dks 86 ls foHkkftr fd;k tkrk gS rks fdruk शेषफल cprk gS\ 
+(a) 5 
+(b) 2 
+(c) 0 
+(d) 3 
+6. What is the remainder when ( 𝟑𝟒𝟏𝟐𝟏𝟖 - 𝟏𝟓𝟔𝟐𝟏𝟖 ) is divisible by 259? 
+tc  ( 𝟑𝟒𝟏𝟐𝟏𝟖 - 𝟏𝟓𝟔𝟐𝟏𝟖 )  dks 259 ls foHkkftr fd;k tkrk gS rks fdruk शेषफल cprk gS\ 
+(a) 0 
+(b) 2 
+(c) 7 
+(d) 3 
+7. What is the remainder when we divided  𝟓𝟕𝟎+ 𝟕𝟕𝟎 𝒃𝒚 𝟑𝟕? 
+tc  ( 𝟓𝟕𝟎 + 𝟕𝟕𝟎 )  dks 37 ls foHkkftr fd;k tkrk gS rks fdruk शेषफल cprk gS\ 
+a) 5 
+ 
+b) 0 
+ 
+c) 7 
+ 
+d) 1 
+8. The number 𝟗𝟕𝟑𝟎−𝟏𝟒𝟑𝟎 is divisible by? 
+संख्या‍𝟗𝟕𝟑𝟎−𝟏𝟒𝟑𝟎 ककससे‍विभाज्य‍है? 
+A) 37 but not 83 
+B) 83 but not 37 
+C) Both 37 and 83 
+D) Neither 37 nor 83 
+9. ( 𝟑𝟏𝟐𝟎−𝟏𝟎𝟐𝟒 ) is not divisible by : 
+(a) 137 
+(b) 107 
+(c) 9 
+(d) 32  
+10. 𝟒𝟗𝟏𝟓-1 is exactly divisible by; 
+𝟒𝟗𝟏𝟓-1 बिल्कुल बिभाज्य है; 
+A) 50              B) 51         C) 19       D) 19 &86 both 
+11. (68)n + 1 is exactly divisible by 23 when n is ? 
+(68)n +1,23 विभाज्य‍है यदि n: 
+a) Any natural number              b) Odd number         
+c) Even number                      d) Only prime number  
+12. For what values of x is (𝟐𝟓𝒙−𝟏) divisible by 13? 
+x के ककन मानों के लिए (𝟐𝟓𝒙−𝟏), 13 से विभाज्य है? 
+A) All real values of x 
+B) Odd natural values of x 
+C) Even values of x 
+D) All the integral values of x 
+ 
+ 
+ 
+13. The expression 𝟓𝟐𝐧−𝟐𝟑𝐧 has a factor? 
+व्यंिक‍ 𝟓𝟐𝐧−𝟐𝟑𝐧 ‍का‍एक गुडनखंड‍‍है? 
+(a) 8 
+ 
+(b) 7 
+ 
+(c) 17 
+ 
+(d) None of these 
+14. Consider the following statements: 
+61 divides 𝟏𝟎𝟕𝟏𝟎𝟎−𝟕𝟔𝟏𝟎𝟎. 
+100 divides 𝟔𝟕𝟓+ 𝟑𝟑𝟓. 
+Which of the statements given above is/are correct? 
+ननम्नललखखत‍कथनों‍पर‍विचार‍करें: 
+ 
+61, 𝟏𝟎𝟕𝟏𝟎𝟎−𝟕𝟔𝟏𝟎𝟎‍िो विभाजित‍करता‍है‍ 
+ 
+100,‍𝟔𝟕𝟓+ 𝟑𝟑𝟓 िो‍विभाजित‍करता‍है 
+ऊपर‍दिए‍गए‍कथनों‍में‍से‍कौन‍सा/से‍सही‍है/हैं? (UPSC CDS-2 2024) 
+A) I only 
+B) II only 
+C) Both I and II 
+D) Neither I nor II 
+15. Given that 220 + 1 is completely divisible by a whole number, which of the following is completely divisible by the 
+same number? 
+दिया‍गया‍है‍कक‍220+1 ककसी‍पूणण‍संख्या‍से‍पूणणतः‍विभाज्य‍है।‍ननम्न‍में‍से‍कौन-सी‍संख्या‍उसी‍संख्या‍से‍पूणणतः‍
+विभाज्य‍होगी? 
+(a) 215+1 
+ 
+(b) 5 × 230 
+ 
+(c) 290+1 
+(d) 260+1 
+16. 𝟐𝟎𝟐𝟎𝟐𝟎+ 𝟏𝟔𝟐𝟎𝟐𝟎−𝟑𝟐𝟎𝟐𝟎−𝟏  is divisible by:  
+𝟐𝟎𝟐𝟎𝟐𝟎+ 𝟏𝟔𝟐𝟎𝟐𝟎−𝟑𝟐𝟎𝟐𝟎−𝟏  ककससे विभाज्य‍है? 
+(a) 317 
+(b) 91  
+ 
+ 
+(c) 253 
+(d) 323 
+17. What is the remainder when (1723 + 4623 + 2923) is divided by 23? 
+ 
+(a) 0 
+ 
+(b) 1 
+ 
+(c) 2 
+ 
+(d) 3 
+18. If N = (24³ + 25³ + 26³ + 27³), then N divided by 102 leaves a remainder of: 
+;fn N = (24³ + 25³ + 26³ + 27³) gS] rks N dks 102 ls foHkkftr djus ij ------------------- 'ks"kQy çkIr gksxkA 
+(a) 
+12 
+(b) 
+1 
+(c) 
+0 
+(d) 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+1. If a number is divisible by both 11 and 13, then 
+it must be: 
+यदि कोई संख्या 11 और 13 िोनों से विभाज्य है, तो िह होनी 
+चादहए: 
+(SSC SELECTION POST XII MATRICULATION 
+LEVEL) 
+A) Divisible by 42 
+B) Divisible by (11+13) 
+C) Divisible by (13-11) 
+D) Divisible by (11*13) 
+2. Which of the following statements is/are correct? 
+I. 
+A number is divisible by 125, if the last three 
+digits of the number from a number that is 
+divisible by 𝟓𝟑? 
+II. 
+If a number is divisible by two numbers, then it is 
+divisible by the product of the two numbers. 
+III. 
+A number is divisible by 36, if the number is 
+divisible by 4, 6 and 12. 
+ननम्नलिखित में से कौन सा/से कथन सही है/हैं? 
+I. 
+एक संख्या 125 से विभाज्य है, यदि उस संख्या के अंनतम तीन 
+अंक 𝟓𝟑 से विभाज्य हैं? 
+II. 
+यदि कोई संख्या िो संख्याओं से विभाज्य है, तो िह उन िो 
+संख्याओं के गुणनफि से भी विभाज्य है। 
+III. 
+एक संख्या 36 से विभाज्य है, यदि िह संख्या 4, 6 और 12 से 
+विभाज्य है। 
+( IB ACIO 2023) 
+A) II and III 
+B) I and II 
+C) I only 
+D) II only 
+3. The sum of 3-digit numbers abc, cab and bca is not 
+divisible by: 
+3-vad okyh la[;kvksa abc, cab vkSj bca dk ;ksxQy -------------------- ls foHkkT; 
+ugha gSA 
+(a) 
+a + b + c 
+(b) 
+37 
+(c) 
+31 
+(d) 
+3 
+4. Ram gives a six-digit number 468312 to Shyam 
+to check the divisibility. Shyam tells Ram that 
+the number is divisible by 57. Shyam asks Ram, 
+“If we rearrange the digits of this number in 
+descending order, then by which number will it 
+be always divisible?” 
+राम विभाज्यता की जांच करने के लिए श्याम को छह अंकों की 
+संख्या 468312 िेता है। श्याम ने राम को बताया कक यह संख्या 
+57 से विभाज्य है। श्याम ने राम से पूछा, "यदि हम इस संख्या 
+के अंकों को घटते क्रम में पुनर्वययिस्थथत करें, तो यह हमेशा ककस 
+संख्या से विभाज्य होगी?" 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 2 
+B) 17 
+C) 3 
+D) 19 
+5. Which of the following numbers is divisible by 4. 
+ननम्नलिखित में से कौन सी संख्या 4 से विभाज्य है। 
+I) 
+67920598 
+II) 
+618703592 
+III) 
+618703594 
+IV) 
+67920590 
+(SSC SELECTION POST XII MATRICULATION 
+LEVEL) 
+A) II 
+B) III 
+C) I 
+D) IV 
+6. Find the largest number which should replace P in 
+the 7- digit number 87893P4 to make the number 
+divisible by 4? 
+िह सबसे बडी संख्या ज्ञात कीस्जए स्जसे 7-अंकीय संख्या 
+87893P4 में P के थथान पर िाना चादहए ताकक संख्या 4 से 
+विभाज्य हो सके? 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 2 
+B) 8 
+C) 9 
+D) 0 
+7. What should be the value of N to make 396258N 
+divisible by 8? 
+396258N को 8 से विभाज्‍य बनाने के विए N का मान क्‍या हेाना 
+चावहए?  
+(a) 2 
+ 
+(b) 8 
+ 
+ 
+(c) 4 
+ 
+(d) 6 
+8. In a 7-digit number 89476*2, what is the smallest 
+possible value of * such that the number is 
+divisible by 8?  
+,d 7&vadh; la[;k 89476*2 esa] * dk U;wuer laHko eku D;k gS ftlls la[;k 
+8 ls foHkkT; gks\ 
+(a)2       (b)1      (c)4 (d)3 
+9. Which number among 98984, 98992, 98998 and 
+99008 is NOT divisible by 8? 
+98984, 98992, 98998 और 99008‍में‍से‍कौन-सी‍संख्या‍8‍से‍
+विभाज्य‍नहीं‍है? 
+(a) 98998 
+  (b) 98992 
+(c) 98984                (d) 99008 
+ 
+ 
+SSC CGL 2023 PRE 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+10. number that can be subtracted from 148109326 
+so that it becomes divisible by 8. 
+िह सबसे छोटी संख्या ज्ञात कीस्जए स्जसे 148109326 से घटाने पर 
+प्राप्त संख्या 8 से विभाज्य हो होगी।  
+(a) 4 
+ 
+(b) 8   
+(c) 6 
+ 
+(d) 10 
+ 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+11. Find the sum of the greatest and the smallest 
+number which may replace k in the number 
+8130k36 so that the number is divisible by 8. 
+mu lcls cM+h vkSj lcls NksVh la[;kvksa dk ;ksx Kkr dhft, ftUgsa] la[;k 
+8130k36 esa k ds LFkku ij j[kus ls ;g la[;k 8 ls foHkkT; gks ldrh gSA 
+(a) 
+10 
+(b) 
+9 
+(c) 
+12 
+(d) 
+8  
+12. If the 8-digit number 123456xy is divisible by 8, 
+then the total possible pairs of (x, y) are? 
+यदि 8 अंकों की संख्या 123456xy, 8 से विभाज्य है, तो (x, 
+y) के कुि संभावित जोडे हैं? 
+A) 8 
+B) 13 
+C) 10 
+D) 11 
+13. Which of the following options is divisble by 3? 
+वनम्‍न में से कौनसी संख्‍या 3 से विभाज्‍य है?  
+(a) 2362735 
+ 
+(b) 6342589 
+(c) 3745932 
+ 
+(d) 4539763 
+14. If the number 934a6281 is completely divisible by 
+3 and a be the smallest positive integer, then find 
+the value of (a−2)(a−1)a (a+1)(a+2)(a+3)(a+4).  
+यदि संख्या 934a6281 , 3 से पूरी तरह विभाज्य है और a 
+सबसे 
+छोटा 
+धनात्मक 
+पूणाांक 
+है, 
+तो 
+(a−2)(a−1)a 
+(a+1)(a+2)(a+3) )(a+4) का मान ज्ञात कीस्जए 
+(RRB RPF SI 2024) 
+A) 5004  
+B) 5040  
+C) 5400  
+D) 4050 
+15. The number 2918245 is divisible by which of the 
+following numbers? 
+संख्या 2918245  ननम्नलिखित में से ककस संख्या से विभाज्य 
+है? (MAINS 2022) 
+A) 3 
+B) 11 
+C) 9 
+D) 12 
+16. 83462*704 is divisible by 3, then the sum of 
+possible digits in place of * is: 
+83462*704, 3 से विभाज्य है, तो * के थथान पर संभावित 
+अंकों का योग है: 
+a) 17      b) 15    c) 16         d) 19 
+17. A six-digit number is divisible by 198. If the digits 
+are rearranged, even then the number will be 
+divisible by: 
+(a) 3 
+(b) 6 
+(c) 2 
+(d) 66 
+18. Find the largest value of k such that a 6-digit 
+number 450k1k is divisible by 3. 
+k dk og vf/kdre eku Kkr dhft,] ftlds fy, 6 vadksa dh la[;k 450k1k, 
+3 ls iw.kZr% foHkkT; gksA 
+(a)7               (b)9               (c)8          (d)6 
+19. Which of the following numbers is divisible by 9? 
+ननम्न में से कौन-सी संख्या 9 से विभाज्य है? 
+(a) 897342 
+ 
+(b) 594327 
+(c) 346217 
+ 
+(d) 734895 
+20. If 746832*71 is divisible by 9, then the digit in 
+place of * is: 
+यदि 746832*71, 9 से विभाज्य है, तो * के थथान पर अंक 
+है: 
+a) 7        
+ b) 1                 
+c)5                     d)2 
+21. What is the least number that would be added to 
+78489656 so that the resultant number is 
+divisible by 9? 
+78489656 में कौन-सा सबसे छोटी संख्या को जोडा जाएगा ताकक 
+पररणामी संख्या 9 से विभाज्य हो ?  (UP  POLICE SI 2021) 
+(A) 4        (B) 2        (C) 1     (D) 3 
+22. If the number 23P629713854 is divisible by the 
+smallest odd composite number, then what is the 
+value of P? 
+;fn la[;k 23P629713854 y?kqre विषम HkkT; la[;k ls foHkkT; gS rks P 
+dk eku D;k gS\ 
+(a) 4 
+ 
+(b) 5 
+   (c) 6  
+(d) 7 
+23. An 11-digit number 7823326867X is divisible by 
+18. What is the value of X?  
+,d 11&vadh; la[;k 7823326867X] 18 ls foHkkT; gSA X dk eku D;k gS\ 
+(a) 6  
+ (b)4 
+(c) 8                
+ (d) 2 
+ 
+24. What will be the greatest number 32a78b, which 
+is divisible by 3 but NOT divisible by 9% (Where a 
+and b are single digit number). 
+la[;k 32a78b ds fy, fuEu esa ls lcls cMh la[;k dkSu&lh gksxh] tks 3 ls 
+foHkkT; gS] ysfdu 9 ls foHkkT; ugha gS ¼tgka a vkSj b ,d vad dh la[;k,a gSa½\ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+(a) 329784 
+  (b) 324781 
+       
+(c) 326787 
+   (d) 329787 
+25. Which of the following numbers is NOT divisible 
+by 6. 
+fuEufyf[kr esa ls dkSu&lh la[;k 6 ls foHkkT; ugha gSA 
+(i) 1,97,232   
+(ii)9,72,132    
+(iii) 8,00,552 
+(iv)17,90,184 
+(a) (iii)  
+(b) (ii)  
+(c) (i) 
+ 
+(d) (iv) 
+ 
+SSC CHSL 2023 PRE
+ 
+26. What is the least value of x for which the number 
+712x816 is divisible by 12?  
+X dk og lcls NksVk eku D;k gS ftlds fy, la[;k 712x816 , 12 ls 
+foHkkT; gS\ 
+(a) 1 
+ 
+(b) 0 
+ 
+ 
+(c) 2 
+ 
+(d) 4 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+27. Which number among 38211, 38121, 32118, and 
+31128 is divisible by 24? 
+38211, 38121, 32118 और 31128 में से कौन-सी संख्या 24 से 
+विभाज्य है? (SSC CGL MAINS 2024) 
+A) 32118 
+B) 31128 
+C) 38121 
+D) 38211 
+28. What is the value of k such that number 72k460k 
+is divisible by 6? 
+K dk og eku Kkr djsa fd la[;k 72k460k, 6 ls foHkkT; gks tk,\ 
+(a) 
+4 
+(b) 
+–9 
+(c) 
+7 
+(d) 
+8 
+29. If the number 87m6203m is divisible by 6 then 
+find the sum of all possible values of 'm'. 
+;fn la[;k 87m6203m, 6 ls foHkkT; gks]rks 'm' ds lHkh laHkkfor ekuksa dk 
+;ksxQy Kkr djsaA 
+(a)10          (b)20           (c)16       (d)15 
+30. Find the value of k such that the number k53206k 
+is divisible by 6. 
+k dk og eku Kkr dhft,] ftlls la[;k k53206k, 6 ls foHkkT; gksxhA 
+(a) 
+7 
+(b) 
+4 
+(c) 
+2 
+(d) 
+1 
+ 
+31. Which of the following numbers is divisible by 24? 
+fuEufyf[kr esa ls dkSu&lh la[;k 24 ls foHkkT; gS\  
+(a) 52668 
+(b) 49512 
+(c) 64760 
+(d) 26968 
+ 
+SSC CGL 2023 PRE 
+32. The 6-digit number 439xy5 is divisible by 125. 
+How many such 6-digit numbers are there? 
+6 vadksa dh la[;k 439xy5, 125 ls foHkkT; gSA 6 vadksa dh ,slh fdruh la[;k,¡ 
+laHko gSa\ 
+(a) 
+5 
+(b) 
+2 
+(c) 
+4 
+(d) 
+3 
+33. The five-digit number 45yz0 is divisible by 40. 
+What is the maximum possible value of (y + z)?  
+पांच अंकों की संख्या 45yz0 40 से विभाज्य है। (y + z) का 
+अधधकतम संभि मान क्या है? 
+(SSC CGL 2024 Pre) 
+A) 15  
+B) 18  
+C) 16  
+D) 17 
+34. If 11-digit number 543247x968y is divisible by 
+90, then the value of  
+(4x+5y). 
+यदि 11 अंकों की संख्या 543247x968y, 90 से विभाज्य है, 
+तो (4x + 5y) का मान है 
+ 
+(a) 24       
+         (b) 21 
+(c) 25                     (d) 16 
+35. If the eight-digit number 9534x37y is divisible by 
+24, then what is the value of (3x+y), for the largest 
+value of x? 
+;fn vkB vadksa dh la[;k 9534x37y,  24 ls foHkkT; gS rks x ds lcls cM+s 
+eku ds fy, (3x+y) dk eku D;k gksxk\ 
+(a) 
+21 
+(b) 
+30 
+(c) 
+32 
+(d) 
+            24 
+36. If the 9-digit number 72x8431y4 is divisible by 36, 
+what is the value of (𝒙
+𝒚−
+𝒚
+𝒙)  for the smallest 
+possible value of y, given that x and y are natural 
+numbers? 
+;fn ,d 9 vadh; la[;k 72x8431y4, 36 ls foHkkT; gS] x vkSj y çkÑr 
+la[;k,¡ gSa] rks y ds lcls NksVs eku ds fy, (𝒙
+𝒚−
+𝒚
+𝒙) dk eku D;k gksxk\ 
+(a) 1 
+𝟓
+𝟕 
+(b) 2 
+𝟏
+𝟏𝟎 
+(c) 1 
+𝟐
+𝟓 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+(d) 2 
+𝟗
+𝟏𝟎 
+ 
+37. If the 9-digit number 9843x678y is divisible by 72, 
+then what is the value of (x²+y²+xy)? 
+;fn 9 vadksa dh la[;k 9843x678y, 72 ls foHkkT; gS] rks (x² + y² + xy) 
+dk eku Kkr dhft,A 
+(a) 
+29 
+(b) 
+43 
+(c) 
+41 
+(d) 
+61 
+38. If the seven-digit number 94x29y6 is divisible by 
+72, then what is the value of (2x + 3y) for  
+x  y? 
+;fn lkr vad okyh la[;k 94x29y6, 72 ls foHkkT; gS] rks x  y ds fy,]  
+(2x + 3y) dk eku Kkr djsaA 
+(a) 
+35 
+(b) 
+21 
+(c) 
+37 
+(d) 
+23 
+39. If a 10-digit number 54726x79y6 is divisible by 
+72, then what is the value of 5x–3y, for the least 
+value of y? 
+;fn 10&vadksa dh ,d la[;k 54726x79y6, 72 ls foHkkT; gS] rks y ds U;wure 
+eku ds fy,] 5x–3y dk eku D;k gksxk\ 
+(a) 
+17 
+ 
+(b) 
+16 
+(c) 
+19 
+(d) 
+23 
+40. If a 9-digit number 8947x19y2 is divisible by 72, 
+then the maximum possible value of (3x+4y) is? 
+यदि 9 अंकों की संख्या 8947x19y2, 72 से विभाज्य है, तो 
+(3x+4y) का अधधकतम संभि मान क्या है? 
+A) 52 
+B) 47 
+C) 44 
+D) 51 
+41. If the 10-digit number 897359y7x2 is divisible by 
+72, then what is the value of (3x + y), for the 
+possible greatest value of y? 
+यदि 10 अंकों की संख्या 897359y7x2, 72 से विभाज्य है, तो 
+y के संभावित सबसे बडे मान के लिए (3x + y) का मान क्या 
+है? 
+ 
+(a)23 
+       (b) 28 
+      
+ (c) 27 
+        (d) 25 
+ 
+42. Which of the following numbers is divisible by 
+11? 
+ननम्नलिखित में से कौन सी संख्या 11 से विभाज्य है? 
+(SSC SELECTION POST XII MATRICULATION 
+LEVEL) 
+A) 8865747 
+B) 8865987 
+C) 4512458 
+D) 5578961 
+ 
+43. The number 2918245 is divisible by which Find 
+the value of k in the number 9314k8025 so that 
+the number is divisible by 11. 
+la[;k 9314k8025 esa k dk eku Kkr dhft, rkfd og la[;k 11 ls foHkkT; 
+gksA 
+(a) 
+2 
+(b) 
+6 
+(c) 
+4 
+(d) 
+5 
+44. What is the smallest number which can be added 
+to 9454351626 so that it becomes divisible by 11? 
+िह‍छोटी‍से‍छोटी‍संख्या‍कौन-सी‍है‍विसे‍9454351626‍में‍िोड़ने‍
+पर‍प्राप्त‍संख्या‍11‍से‍विभाज्य‍होगी? 
+(a) 1        
+       (b)6                
+ (c) 5              
+      (d) 4  
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+45. The number 13703669658525 is: 
+नम्बर‍13703669658525 ________है: 
+1.‍neither divisible by 3 nor by 11 
+/ 
+न‍तो‍3 से‍और‍न‍ही‍11 से‍विभाज्य‍है 
+2.‍divisible by 11 but not by 3/ 11 से‍विभाज्य‍िेवकन‍3 
+से‍नहीं‍है 
+3.‍divisible by both 3 and 11/ 3 और‍11 दोनों‍से‍
+विभाज्य‍है 
+4.‍divisible by 3 but not by 11/ 3 से‍विभाज्य‍िेवकन‍11 
+से‍नहीं‍है 
+46. Find the greatest value of b so that 30a68b (a>b) 
+is divisible by 11. 
+b dk vf/kdre eku Kkr djsa] ftlls 30a68b (a>b) la[;k] 11 ls foHkkT; 
+gksA 
+(a) 
+4 
+(b) 
+9 
+(c) 
+3 
+(d) 
+6 
+ 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+47. Find the sum of all the possible values of (a + b), 
+so that the number 4a067b is divisible by 11. 
+(a + b) ds lHkh laHkkfor ekuka dk ;ksxQy Kkr djsa] ftlls la[;k 4a067b, 
+11 ls foHkkT; gksA 
+(a) 
+5 
+(b) 
+16 
+(c) 
+21 
+(d) 
+11 
+48. If the number A9257B684 is divisible by 11, then 
+what is the least value of A -B? 
+;fn A9257B684 la[;k 11 ls foHkkT; gS] rks A - B dk U;wure eku D;k 
+gksxk\ 
+ (a)14       (b)3         (c)0         (d)-8 
+49. If a number 54k31m82 is divisible by 11, what will 
+be the maximum value of (k+m)? 
+;fn la[;k  54k31m82, 11 ls foHkkT; gS] rks (k+m) dk vf/kdre eku Kkr 
+djsa\ 
+(a) 
+23 
+ 
+ 
+(b) 
+13 
+(c) 
+12 
+(d) 
+11 
+50. 𝟑𝟓𝟎+ 𝟗𝟐𝟔+ 𝟐𝟕𝟏𝟖+ 𝟗𝟐𝟖+ 𝟗𝟐𝟗 is divided by which of 
+the following integers? 
+𝟑𝟓𝟎+ 𝟗𝟐𝟔+ 𝟐𝟕𝟏𝟖+ 𝟗𝟐𝟖+ 𝟗𝟐𝟗, ननम्नलिखित में से ककस पूणाांक 
+से विभास्जत है? 
+A) 11 
+B) 5 
+C) 7 
+D) 2 
+ 
+51. If 738A6A is divisible by 11, then the value of A is 
+;fn 738A6A, 11 ls HkkT; gS] rks A dk eku gSA 
+         (a) 6 
+                (b) 3   
+         (c) 9 
+                (d) 4 
+52. Find the lowest positive value of (c - b) such that 
+the 7-digit number 1738b9c is divisible by 12. 
+ 
+(c - b) का िह ननम्नतम धनात्मक मान ज्ञात कीस्जए स्जससे 7 
+अंकों की संख्या 1738b9c, 12 से विभाज्य हो। 
+                                                                                                                                                  
+SSC CHSL Pre 2024 
+ 
+[A]4 
+ 
+ [B]2 
+ 
+[C]1 
+ 
+ [D]7 
+53. If the nine-digit number ‘8475639AB’ is divisible 
+by 99, then what is the value of A and B? 
+;fn ukS vad okyh la[;k ‘8475639AB’ , 99 ls foHkkT; gS] rks A vkSj B dk 
+eku Kkr djsaA 
+ 
+(a) 
+A = 4, B = 6 
+ 
+(b) 
+A = 5, B = 3 
+ 
+(c) 
+A = 3, B = 9 
+ 
+(d) 
+A = 4, B = 8 
+54. If the nine-digit number 708x6y8z9 is divisible by 
+99, then what is the value of x+y+z? 
+यदि  708x6y8z9 िािी नौ अंको िािी संख्या 99 से विभाज्य है , 
+तो x+y+z  का मान क्या है? 
+a) 27 
+ 
+b) 5 
+ 
+ 
+c) 16 
+ 
+d) 9 
+55. If 10-digit number 67127y76x2 is divisible by 88, 
+then the value of  
+(7x – 2y): 
+यदि 10 अंकों की संख्या 67127y76x2, 88 से विभाज्य है, 
+तो (7x - 2y) का मान? 
+(a)10 
+              
+(b) 7 
+          
+(c) 3 
+                      (d) 5 
+56. If a ten digit number 2094x843y2 is divisible by 
+88 then find (5x – 7y) for maximum value of x. 
+;fn 10 vadksa dh ,d la[;k 2094x843y2 ] 88 ls foHkkT; gS rks x ds vf/kdre 
+eku ds fy, ] (5x – 7y) dk eku gS & 
+(A) 5 
+ 
+(B) 3 
+ 
+ 
+(C) 2 
+ 
+(D) 6 
+57. If a 9 digit number 9834x97y4 is divisible by 88, 
+then what is the maximum possible value of 
+(3x+2y)? 
+यदि 9 अंकों की संख्या 9834x97y4, 88 से विभाज्य है, तो 
+(3x+2y) का अधधकतम संभि मान क्या है? ( IB ACIO 2023) 
+A) 31 
+B) 27 
+C) 34 
+D) 37 
+58. If a 9 digit number 45069x4y8 is divisible by 44, 
+then what will be the value of (5x -2y ) for the 
+maximum value of y? 
+यदि 9 अंको की संख्या 45069x4y8 , 44  से विभाज्य हो, तो y 
+के अधधकतम मान के लिए (5x -2y ) का मान ककतना होगा? 
+(ICAR Technician 2022) 
+A) 17 
+B) 14 
+C) 15 
+D) 11 
+59. If 7-digit number 678p37q is divisible by 75 and p 
+is not a composite, then the values of p and q are: 
+;fn 7 vadksa dh la[;k 678p37q, 75 ls foHkkT; gS vkSj p ,d HkkT; la[;k 
+ugha gS] rks p vkSj q ds eku Kkr dhft,A 
+(a) 
+p = 5, q = 5 
+(b) 
+p = 3, q = 0 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+(c) 
+p = 3, q = 5 
+(d) 
+ 
+p = 2, q = 5 
+ 
+60. What are the values of R and M, respectively, if 
+the given number is perfectly divisible by 16 and 
+11 ? 
+;fn nh xbZ la[;k 16 vkSj 11 ls iw.kZr% foHkkT; gS] rks R vkSj M ds eku Øe'k% 
+D;k gSa\ 
+34R05030M6 
+(a) 4 and 6/4 vkSj 6 
+(b)7 and 5/7 vkSj 5 
+(c) 5 and 5/5 vkSj 5 
+(d) 5 and 7/5 vkSj 7 
+61. How many pairs of A and B are possible in number 
+89765A4B. If number is divisible by 18? 
+89765A4B संख्या में A और B की ककतनी जोडी संभि है। यदि   
+संख्या 18 से विभाज्य है? 
+(a) 4                       (b) 5            
+(c) 6                       (d) 7 
+62. If the seven-digit number 52A6B7C is divisible by 
+33, and A, B, C are primes, then the maximum 
+value of 2A+3B+C is? 
+यदि सात अंकों की संख्या 52A6B7C, 33 से विभाज्य है, और 
+A, B, C अभाज्य संख्याएँ हैं, तो 2A+3B+C का अधधकतम मान 
+क्या है? 
+A) 32 
+B) 23 
+C) 27 
+D) 34 
+63. If the number 413283P759387 is divisible by 13, 
+then what is the value of P ? 
+;fn la[;k 413283P759387 ] 13 ls foHkkftr gS rks p dk eku D;k gksxk \ 
+(A) 3 
+ 
+(B) 6   
+(C) 7 
+ 
+(D) 8 
+64. A six-digit number of the form ababab is always 
+divisible by: 
+ababab ds :i dh Ng vadksa dh la[;k ges'kk ------------------- ls foHkkT; gksrh gSA 
+(a) 
+11111 
+(b) 
+10001 
+(c) 
+11001 
+(d) 
+ 
+10101 
+ 
+ 
+ 
+ 
+ 
+ 
+65. A six-digit number is formed by repeating a three-
+digit number for example 347347. The resultant 
+number will be divisible by? 
+तीन अंकों की संख्या को िोहराकर एक छह अंकों की संख्या बनाई 
+जाती है। जैसे 347347 पररणामी संख्या ककसके द्िारा विभाज्य 
+होगी? 
+(a) Only 7                 (b) Only 11                 
+(c) Only 13               (d) 1001 
+66. A leading chocolate producing company produces 
+‘abc’ chocolates per hour (abc is a three-digit 
+positive number). In how many hours it will 
+produce ‘abcabc’ chocolates? 
+एक प्रमुख चॉकलेट उत्पादक कंपनी प्रति घंटे 'abc' चॉकलेट का 
+उत्पादन करिी है (abc िीन अंकों की सकारात्मक संख्या है)। यह 
+ककिने घंटे में 'abcabc' चॉकलेट िैयार करेगा? 
+A) abc 
+B) 101 
+C) 1001 
+D) CND 
+67. If six-digit number 5 × 2 y 6 z is divisible by 7, 11 
+and 13, then the value of (x-y+3 z) is:  
+यदि छह अंकों िािी संख्या 5x2y6z; 7, 11 और 13 से विभाज्य 
+है, तो (x-y+3 z) का मान ज्ञात करें। 
+(a) 7 
+ 
+ 
+(b) 4 
+ 
+(c) 0 
+ 
+ 
+(d) 9 
+68. Consider the 6 digit number of the form XYXYXY, 
+the number is divisible by: 
+XYXYXY के रूप की 6 अंकों की संख्या पर विचार करें, संख्या 
+विभाज्य है: 
+A) 3 and 7 only 
+B) 7 and 13 only 
+C) 3, 13 and 37 only 
+D) 3, 7, 13, 37 
+69. If 5-digit number 535ab is divisible by 3, 7 and 11, 
+then what is the value of (a2 – b2  + ab)? 
+यदि 5 अंकों िािी संख्या 535ab, 3, 7 और 11 से विभाज्य है, तो 
+(a2 – b2 + ab) का मान ज्ञात कीस्जए। 
+(a) 95  
+ 
+ 
+(b) 83 
+ 
+(c) 89 
+ 
+ 
+ (d) 77 
+ 

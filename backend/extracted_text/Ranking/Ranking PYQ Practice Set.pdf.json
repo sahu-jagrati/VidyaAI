@@ -1,0 +1,57 @@
+[
+  {
+    "number": 18,
+    "question_text": "A stands in the 45th position from the front of the queue and there are 3 persons between A and B. B stands after A. If the first 10 persons are removed from the queue then what is the position of B from the front of the queue? A कतार मŐ आगे से 45 वŐ स्थान पर खड़ा है और A और B के बीच मŐ 3 ʩİƅ हœ। B, A के पीछे खड़ा है। यिद पहले 10 ʩİƅयों को कतार से हटा िदया जाता है तो कतार मŐ आगे से B का स्थान Ɛा है? [UP SI - 13 Nov 2021 - Shift 3] 1.39 2.43 3.37 4.51",
+    "option_a": "If the first 10 persons are removed from the queue then what is the position of B from the front of the queue? A कतार मŐ आगे से 45 वŐ स्थान पर खड़ा है और A और B के बीच मŐ 3 ʩİƅ हœ। B, A के पीछे खड़ा है। यिद पहले 10 ʩİƅयों को कतार से हटा िदया जाता है तो कतार मŐ आगे से B का स्थान Ɛा है? [UP SI - 13 Nov 2021 - Shift 3] 1.39 2.43 3.37 4.51",
+    "option_b": "B stands after",
+    "option_c": "",
+    "option_d": "",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 19,
+    "question_text": "A stands in the 13th position from the front of the queue and there are 2 persons between A and B. B stands after A. If the first 8 persons are removed from the queue then what is the position of B from the front of the queue? A एक कतार मŐ आगे से 13वŐ स्थान पर खड़ा है और A और B के बीच 2 ʩİƅ हœ। B, A के पीछे खड़ा है। यिद पहले 8 ʩİƅयों को कतार से हटा िदया जाता है, तो कतार मŐ आगे से B का स्थान Ɛा है? [UP SI - 2 Dec 2021 - Shift 1]",
+    "option_a": "If the first 8 persons are removed from the queue then what is the position of B from the front of the queue? A एक कतार मŐ आगे से 13वŐ स्थान पर खड़ा है और A और B के बीच 2 ʩİƅ हœ। B, A के पीछे खड़ा है। यिद पहले 8 ʩİƅयों को कतार से हटा िदया जाता है, तो कतार मŐ आगे से B का स्थान Ɛा है? [UP SI - 2 Dec 2021 - Shift 1]",
+    "option_b": "B stands after",
+    "option_c": "",
+    "option_d": "",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 21,
+    "question_text": "In this question, the relationship between different elements is shown in the statement. This statement is followed by two conclusions: इस प्रʲ मŐ कथन मŐ िविभɄ तȕों के बीच संबंध दशाŊया गया है। इस कथन के बाद दो िनʺषŊ िदए गए हœ: Statement:/कथनः C > H  ≥  I = P< O ≤ T < L <  E Conclusion:/िनʺषŊः i) H > O ii) O < L Choose the appropriate one from the following options िनɻिलİखत िवकʙों मŐ से उपयुƅ िवकʙ का चयन कीिजए:",
+    "option_a": "Only conclusion i follows केवल िनʺषŊ । अनुसरण करता है",
+    "option_b": "Only conclusion ii follows केवल िनʺषŊ ii अनुसरण करता है",
+    "option_c": "Either i or ii follows या तो । या ii अनुसरण करता है",
+    "option_d": "Neither i nor ii follows न तो । और न ही ii अनुसरण करता है (E)  Both i and ii follow i और ii दोनों अनुसरण करते हœ [UP SI - 21 Nov 2021 - Shift 3]",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 26,
+    "question_text": "A stands in the 3rd position from the front of the queue and there are 3 persons between A and B. B stands after A. If the first two persons are removed from the queue then what is the position of B from the front of the queue? A कतार मŐ आगे से तीसरे स्थान पर खड़ा है और A और B के बीच मŐ 3 ʩİƅ हœ। B, A के बाद खड़ा है। यिद पहले दो ʩİƅयों को कतार से हटा िदया जाता है तो कतार मŐ आगे से B का स्थान Ɛा है? [UP SI - 25 Nov 2021 - Shift 3] 1.3 2.4 3.6 4.5",
+    "option_a": "If the first two persons are removed from the queue then what is the position of B from the front of the queue? A कतार मŐ आगे से तीसरे स्थान पर खड़ा है और A और B के बीच मŐ 3 ʩİƅ हœ। B, A के बाद खड़ा है। यिद पहले दो ʩİƅयों को कतार से हटा िदया जाता है तो कतार मŐ आगे से B का स्थान Ɛा है? [UP SI - 25 Nov 2021 - Shift 3] 1.3 2.4 3.6 4.5",
+    "option_b": "B stands after",
+    "option_c": "",
+    "option_d": "",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 31,
+    "question_text": "Study the given statement and answer the appropriate question. िदए गए कथनों का अȯयन कीिजये और उनके आधार पर सही उȅर िवकʙ का चयन कीिजये। Statements:/कथनः I. V is not shorter than A./V, A से छोटा नहीं है। II. D is shorter than V./D, V से छोटा है। III. A is shorter than D./A, D से छोटा है। [NTPC CBT 2 - 2021]",
+    "option_a": "/V, A से छोटा नहीं है। II. D is shorter than V./D, V से छोटा है। III. A is shorter than",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "/A, D से छोटा है। [NTPC CBT 2 - 2021]",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

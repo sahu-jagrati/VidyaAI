@@ -1,0 +1,18 @@
+[
+  {
+    "question_number": 1,
+    "question_en": "A dice is tossed 4 times and the outcomes are recorded. How many possible outcomes are there?",
+    "question_hi": "एक पासा 4 बाि उछाला िाता है औि परिणाम रिकॉर्ड ककए गए हैं। ककतने संभाववत परिणाम हैं?",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Probability",
+    "source_pdf": "Probability Sheet-2.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  }
+]

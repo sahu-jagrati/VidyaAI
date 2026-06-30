@@ -1,0 +1,1358 @@
+ 
+                                                   BY Gagan Pratap 
+1. 15 taps can fill a tank in 36 minutes. How many taps will be required to fill the tank in one hour? 
+(a) 
+12 
+(b) 
+9 
+(c) 
+8 
+(d) 
+6  
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+2. A tank is to be filled completely with water for which 8 pipes of the same kind are used. The tank gets filled in 1 hour and 40 
+minutes. If 10 pipes of the same kind, as mentioned above, are used, in how much time (in hours and minutes) will the tank 
+be completely filled? 
+  
+SSC CHSL TIER – I 2022 
+(a) 1 hour 30 minutes/1 
+30
+(b) 1 hour 20 minutes/1 
+20
+(c) 1 hour 45 minutes/1 
+45
+(d) 2 hours 5 minutes/2 
+5
+3. Pipe A can fill a tank of capacity 350 litres in 3
+𝟏
+𝟐 minutes. Pipe B can fill a tank of capacity 780 litres 
+in 8
+𝟐
+𝟑 minutes. How long (in min) will it take to fill a tank of capacity 1615 litres, if both pipes are 
+opened together? 
+A, 350 
+3
+𝟏
+𝟐 
+B, 780 
+8
+𝟐
+𝟑 
+ 
+ 
+SSC CGL 2020 PRE 
+(a) 9 
+ 
+ 
+(b) 7
+𝟏
+𝟐  
+ 
+(c) 8
+𝟏
+𝟐  
+ 
+(d) 8 
+4. A pump can be operated both for filling the tank and for emptying it. The capacity of tank is 1800 
+meter cube. The emptying capacity of the pump is 10 meter cube per minute higher than its filling 
+capacity. Consequently the pump needs 9 minute less to empty the tank than to fill it. Find the 
+emptying capacity of the pump? 
+टैंक को भरने और खाली करने दोनोों के ललए एक पोंप सोंचाललत लकया जा सकता है। टैंक की क्षमता 1800 मीटर क्यूब है। पोंप की 
+खाली करने की क्षमता उसकी भरने की क्षमता से 10 मीटर क्यूब प्रलत लमनट अलिक है। नतीजतन, पोंप को टैंक को भरने की 
+तुलना में खाली करने के ललए 9 लमनट कम की आवश्यकता होती है। पोंप की खाली करने की क्षमता ज्ञात करें? 
+A) 50 𝒎𝟑/𝒎𝒊𝒏                        C) 67𝒎𝟑/𝒎𝒊𝒏 
+B) 46𝒎𝟑/𝒎𝒊𝒏                         D) 35𝒎𝟑/𝒎𝒊𝒏 
+5. One pipe can fill a tank three times as fast as another pipe. Together the two pipes can fill the tank in 32 minutes. 
+The slower pipe alone will be able to fill the tank in _____minutes. 
+एक पाइप एक टंकी को दूसरे पाइप की तुलना में तीन गुना तेज भर सकता है। दोनों पाइप एक साथ ममलकर टंकी को 32 ममनट में 
+भर सकते हैं। धीमे पाइप द्वारा अकेले टंकी को भरने में मकतने ममनट का समय लगेगा ? 
+Group D  12/09/2022 (Afternoon) 
+(a) 96  
+(b) 144    
+(c) 64  
+(d) 128 
+6. A water tap fills a tub in 'p' hours and a sink at the bottom empties it in 'q' hours. If p < q and both 
+tap and sink are open, the tank is filled in 'r' hours; then 
+एक पानी का नल 'p' घंटे में एक टब भरता है और तल पर एक छिद्र इसे 'q' घंटों में खाली कर देता है। यदद p<q और नल और 
+छिद्र दोनों खुले हैं, तो टैंक 'r' घंटों में भर जाता है; फिर 
+ 
+SSC CGL 2016 PRE 
+(a) 
+𝟏
+𝒓=
+𝟏
+𝒑+
+𝟏
+𝒒  
+(b) 
+𝟏
+𝒓=
+𝟏
+𝒑−
+𝟏
+𝒒 
+ 
+(c) 𝒓= 𝒑+ 𝒒 (d) 𝒓= 𝒑−𝒒 
+ 
+ 
+                                                   BY Gagan Pratap 
+7. Three pipes X, Y and Z release three different chemicals A, B and C in a tank. These pipes can fill the 
+tank in 20, 25 and 40 minutes respectively. If all the pipes are left open for 10 minutes, what will be 
+the ratio of chemical B in the tank 
+तीन पाइप X, Y और Z एक टैंक में तीन भिन्न-भिन्न रसायन A, B और C छोड़ते हैं| यह पाइप क्रमशः 20, 25 और 40 भमनट में टैंक को िर सकते हैं| यभि सिी पाइपों को 10 
+भमनट के भिए खुिा छोड़ भिया जाता है तो टैंक में रसायन B का अनुपात क्या होगा  ?
+  
+SSC CPO 2019  
+A) 4/7     B) 13/23      c) 8/23       D) 11/15 
+8. A tanker can be filled by two pipes 'P' and 'Q' in 60 minutes and 40 minutes, respectively. In what 
+time will the tanker be filled if pipe 'Q' alone is opened for half the time at first and 'P' and 'Q' 
+together are opened during the other half?  
+एक टैंकर को दो पाइप 'P' और 'Q' द्वारा क्रमशः 60 ममनट और 40 ममनट में भरा जा सकता है। यदद पाइप 'Q' को पहले 
+आधे समय के मलए अकेले खोला जाए और दूसरे आधे समय के दौरान 'P' और 'Q' को एक साथ खोला जाए तो टैंकर फकतने 
+समय में भर जाएगा? 
+UP POLICE ASSISTANT OPERATOR 2024 
+ 
+A) 30 minutes  
+ 
+B) 35 minutes 
+C) 27.5 minutes  
+ 
+D) 15 minutes 
+9. Two pipes A and B can fill a tank in 20 minutes and 30 minutes respectively. If initially only pipe B 
+was kept open for the 2/5th part of the total time and both pipes A and B were kept open for the rest 
+time being, the tank would be filled. How many minutes should both pipes take? 
+दो पाइप A और B एक टैंक को क्रमशः 20 ममनट और 30 ममनट में भर सकते हैं| यदद शुरू में कुल समय के 
+𝟐
+𝟓वें भाग के मलए केवल पाइप B को 
+और बाकी समय के मलए पाइप A और B दोनों को खुला रखा गया था, तो टैंक को भरने में दोनों पाइपों को ककतने ममनट लगे होंगे? 
+𝑨)𝟏𝟔
+𝟓
+𝟐𝟑     𝑩)𝟏𝟑
+𝟏
+𝟐𝟑      𝑪)𝟏𝟑
+𝟓
+𝟏𝟗        𝑫)𝟏𝟓
+𝟏𝟓
+𝟏𝟗 
+10. Pipe A can fill an empty tank in 18 hours and pipe B can fill the same empty tank in 24 hours. If both 
+the pipes are opened simultaneously, how much time (in hours) will they take to fill the empty tank? 
+पाइप A एक खाली टैंक को 18 घंटे में भर सकता है और पाइप B उसी खाली टैंक को 24 घंटे में भर सकता है। यदि िोनों पाइपों को एक साथ खोल 
+दिया जाए, तो खाली टैंक को भरने में उन्हें दकतना समय (घंटों में) लगेगा?  
+(a) 
+7
+3
+11
+             (b) 
+7
+1
+10
+ 
+ 
+(c) 
+7
+2
+10
+ 
+(d) 
+7
+2
+11
+ 
+ 
+SSC CGL 2023 PRE
+ 
+11. A cistern has a hole in the bottom through which the water is leaking. A tap can fill the cistern in 3 hours and the 
+hole in the bottom can empty the fully filled cistern in 5 hours. If both the tap and the hole are open, then what 
+will be the time taken to completely fill the empty cistern ? 
+एक टंकी की तली में मौजूद एक मिद्र से पानी ररसता है। एक नल, उस टंकी को 3 घंटे में भर सकता है, और तली में मौजूद मिद्र उस 
+पूरी भरी टंकी को 5 घंटे में खाली कर सकता है। यमद नल और मिद्र दोनों एक साथ खोल मदए जाते हैं, तो खाली टंकी को पूरा भरने 
+में कुल मकतना समय लगेगा ? 
+Group D  28/09/2022 (Morning) 
+(a) 6.5 hours /  6.5 घंटे 
+(b) 7 hours / 7 घंटे 
+(c) 7.5 hours/ 7.5 घंटे 
+(d) 8.5 hours / 8.5 घंटे 
+12. An inlet pipe can fill an empty tank in 51 hours while an outlet pipe drains a completely-filled tank in 
+76.5 hours. If both the pipes are opened simultaneously when the tank is empty, in how many hours will 
+tank get completely filled? 
+”
+.
+  SSC CHSL 2023 PRE
+(a) 153  
+(b) 178.5 
+(c) 105 
+(d) 127.5 
+13. An inlet pipe can fill an empty tank in 3.6 hours, while an outlet pipe can drain a completely-filled tank in 6.3 hours. If both 
+the pipes are opened simultaneously when the tank is empty, in how many hours will the tank get completely filled? 
+एक इनलेट पाइप एक खाली टैंक को 3.6 घंटे में भर सकता है, जबमक एक आउटलेट पाइप पूरी तरह से भरे टैंक को 6.3 घंटे में खाली 
+कर सकता है। यमद टैंक खाली होने पर दोनों पाइप एक साथ खोले जाते हैं, तो टैंक मकतने घंटे में पूरी तरह से भर जाएगा?  
+ 
+                                                   BY Gagan Pratap 
+( CPO 2023)
+(a) 8.7  
+(b) 8.1  
+(c) 9.0  
+(d) 8.4 
+(SSC CPO 2023) 
+14. An inlet pipe can fill an empty tank in 120 hours while an outlet pipe drains a completely-filled tank 
+in 54 hours. If 8 inlet pipes and 3 outlet pipes are opened simultaneously, when the tank is empty, 
+then in how many hours will the tank get completely filled? 
+एक इनलेट पाइप एक खाली टैंक को 120 घंटे में भर सकता है, जबमक एक आउटलेट पाइप पूरी तरह से भरे टैंक को 54 घंटे में खाली 
+कर देता है। यमद टैंक खाली होने पर 8 इनलेट पाइप और 3 आउटलेट पाइप एक साथ खोले जाते हैं, तो टैंक मकतने घंटे में पूरी तरह 
+से भर जाएगा? 
+(a) 81 
+(b) 96    
+(c) 72 
+     (d) 90 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+15.  
+ 
+A cistern has two pipes one can fill it with water in 36 hours and other can empty it 
+in 20 hours. In how many hours will the cistern be emptied if both the pipes are opened together 
+when 1/5th of the cistern is already filled with water? 
+एक टंकी में दो पाइप हैं एक इसे 36 घंटे में पानी से भर सकता है और दूसरा इसे 20 घंटे में खाली कर सकता है। यदद दोनों 
+पाइपों को एक साथ खोल ददया जाए तो टंकी फकतने घंटे में खाली हो जाएगी जबफक टंकी का 1/5 भाग पहले से ही पानी से 
+भरा हुआ है? 
+ DSSSB ASSISTANT GRADE-III 2024 
+A) 8 h 
+B) 12 h 
+C) 9 h 
+D) 4 h 
+16. If pipe A can fill a cistern in X hours, pipe B can fill the same cistern in Y hours, and pipe C can empty the full 
+cistern in Z hours, then find the time taken to completely fill the cistern, if Pipes A, B and C are opened together. 
+यमद पाइप A एक टंकी को X घंटे में भर सकता है, पाइप B उसी टंकी को Y घंटे में भर सकता है, और पाइप C पूरी भरी टंकी को Z 
+घंटे में खाली कर सकता है, तो पाइप A, B और C सभी को एक साथ खोल मदए जाने पर, टंकी को पूरा भरने में लगने वाला समय ज्ञात 
+कीमजए। 
+Group D  29/09/2022 (Afternoon) 
+(a) 
+𝐗𝐘𝐙
+𝐘𝐙+𝐗𝐙−𝐗𝐘 
+(b) 
+𝐗𝐘𝐙
+𝐘𝐙+𝐗𝐙+𝐗𝐘 
+(c) 
+𝐗𝐘𝐙
+𝐘𝐙−𝐗𝐙−𝐗𝐘 
+(d) 
+𝐗𝐘𝐙
+𝐘𝐙−𝐗𝐙+𝐗𝐘 
+17. Pipe A can fill a tank in 12 minutes; pipe B can fill it in 18 minutes, while pipe C can empty the full 
+tank in 36 minutes. If all the pipes are opened simultaneously, how much time will it take to fill the 
+empty tank completely? 
+पाइप A एक टंकी को 12 ममनट में भर सकता है; पाइप B इसे 18 ममनट में भर सकता है, जबमक पाइप C पूरी भरी हुई टंकी को 36 
+ममनट में खाली कर सकता है। यमद सभी पाइपों को एक साथ खोल मदया जाए, तो खाली टंकी को पूरी तरह भरने में मकतना समय 
+लगेगा? 
+(a) 7 minutes 30 seconds 
+(b) 10 minutes        
+(c) 9 minutes   
+ 
+(d)  6 minutes 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+18. Two pipes fill a tank when working individually in 25 and 40 hours, respectively while a third pipe can drain the 
+filled tank in 16 hours. If all the three pipes are turned on at the same time when the tank is empty, how long 
+will it take to fill the tank completely ? 
+दो पाइप मकसी खाली टैंक को अकेले क्रमशः 25 और 40 घंटों में भर देते हैं जबमक एक  तीसरा पाइप भरे हुए टैंक को 16 घंटों में 
+खाली कर देता है। जब टैंक पूरी तरह से खाली हो और तीनों पाइपों को एक साथ चला मदया जाये तो टैंक मकतने समय में भर जायेगा 
+?                 RRB ALP  17/08/2018  (Afternoon) 
+(a) 15 days 18 hours / 15 मदन 18 घंटे    
+(b) 2 days 1 hours / 2 मदन 1 घंटे 
+(c) 16 days 16 hours / 16 मदन 16 घंटे 
+    
+(d) 1 day 7 hours /  1 मदन 7 घंटे  
+ 
+                                                   BY Gagan Pratap 
+19. Two pipes A and B can fill a tank in 45 minutes and 75 minutes, respectively. A drain pipe C can 
+empty the two-third filled tank in 20 minutes. If all three pipes are opened together, in how much 
+time (in hours) can three-fifth part of the tank be filled? 
+दो पाइप A और B एक टैंक को क्रमशः 45 ममनट और 75 ममनट में भर सकते हैं। एक नाली पाइप C दो-मतहाई भरे हुए टैंक को 20 
+ममनट में खाली कर सकता है। यमद तीनों पाइपों को एक साथ खोल मदया जाए, तो टंकी का तीन-पााँचवााँ (3/5) भाग मकतने समय में 
+(घंटों में) भर सकता है? 
+1. 5                         2. 4.5  
+3. 4  
+4. 3.5            ( ICAR Technician 2023) 
+20. Pipes A and B together can fill an empty tank in 30 hours, whereas pipes B and C together can fill it in 24 hours. A, B and C 
+together can fill the tank in 20 hours. In how many hours can pipe B alone fill 35% of the tank? 
+A
+B
+30
+B
+C
+24 
+A, B
+C
+20
+B 
+35%
+  
+SSC SELECTION 
+POST 2023 
+(a) 
+10½ 
+(b) 
+14 
+(c) 
+21 
+(d) 
+17½ 
+21. Inlet Pipes A and B can together fill an empty tank in 1.5 hours. Outlet Pipe C, when opened alone, 
+can empty the completely filled tank, in 4.5 hours. When only Pipes A and C are opened together, 
+the empty tank is filled in 6 hours. Find the time taken by Pipe B, when opened alone, to fill the 
+empty tank. 
+A
+B
+C 
+A
+ C 
+B
+ 
+(a)  3 hours 30 minutes    
+(b)  3 hours 36 minutes 
+  
+(c)  3 hours 32 minutes  
+(d)  3 hours 40 minutes 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+22. Pipes A and B can fill a tank in 15 hours and 12 hours, respectively. Pipe C alone can empty the full tank in 10 hours. If all 
+the three pipes are opened together for 2 hours 40 minutes, then what part of the tank will remain unfilled?  MTS 2020 
+A
+B
+C
+(a) 
+𝟑
+𝟐𝟎 
+(b) 
+𝟏𝟑
+𝟏𝟓 
+(c) 
+𝟐
+𝟏𝟓 
+(d) 
+𝟏𝟕
+𝟐𝟎 
+23. Three pipes A, B and C can fill a cistern in 12, 18 and 24 minutes, respectively. If all the pipes are 
+opened together for 7 minutes, what will be the volume of the water that overflows as the percentage 
+of the total volume of the cistern? 
+A ,B 
+C 
+श
+श
+श
+श
+(a) 𝟐𝟔
+𝟕
+𝟏𝟖                (b) 𝟐𝟑
+𝟏,
+𝟑             (c) 𝟐𝟑
+𝟐
+𝟑                  (d) 𝟐𝟔
+𝟓
+𝟏𝟖 
+ 
+24. A tank has an inlet pipe and an outlet pipe. If the outlet pipe is closed then the inlet pipe fills the 
+empty tank in 8 hours. If the outlet pipe is open then the inlet pipe fills the empty tank in 10 hours. 
+If only the outlet pipe is open then in how many hours the full tank becomes half-full? 
+एक टैंक में एक इनिेट पाइप और एक आउटिेट पाइप है। यभि आउटिेट पाइप बंि है तो इनिेट पाइप खािी टैंक को 8 घंटे में िर िेता है। यभि आउटिेट पाइप खुिा है तो 
+इनिेट पाइप खािी टैंक को 10 घंटे में िर िेता है। यभि केवि आउटिेट पाइप खुिा है तो पूरा टैंक भकतने घंटे में आधा िरा होगा? UP SI DAROGA 2021 
+ 
+(a) 20  
+ 
+(b) 30  
+(c) 40  
+ 
+(d) 45 
+25. A tank is normally filled in 20 hours by a pipe, but it takes 8 hours more to fill the tank due to a leakage at its 
+bottom. The leakage point can empty the tank when it is  60 % full in ________ hours. 
+ 
+                                                   BY Gagan Pratap 
+एक टंकी सामान्यतः एक पाइप द्वारा 20 घंटे में िर जाती है, िेभकन तिी में ररसाव के कारण टंकी को िरने में 8 घंटे अभधक िगते हैं। ररसाव भछद्र टैंक को ________ घंटों में 60% 
+िरा होने पर खािी कर सकता है।   (SSC GD 2023)
+(a) 
+42 
+(b) 
+35 
+(c) 
+56 
+(d) 
+49 
+26. A pump can fill a tank with water in 7.5 hours. Because of a leak in the tank it takes 50 minutes 
+more to fill the tank. The leak can drain all the water from the tank in: 
+एक पंप 7.5 घंटे में एक टैंक को पानी से भर सकता है। टैंक में छिद्र के कारण टैंक को भरने में  50 ममनट ज्यादा लगता है। यह 
+छिद्र अकेले फकतने समय में टैंक खाली कर सकता है ? 
+a) 75hrs      b) 25hrs     c) 80hrs     d) 50hrs 
+(SSC CPO 2023) 
+27.  
+ 
+Pipes A and B can fill a tank in 16 hours and 24 hours, respectively, whereas pipe C alone can empty the 
+full tank in x hours. When all the 3 pipes are opened together, the tank is full in 20
+𝟒
+𝟕 hours. What is the value of x? 
+A
+B
+16
+24
+C
+x
+3
+𝟐𝟎
+𝟒
+𝟕
+x
+(a) 
+12 
+(b) 
+18 
+(c) 
+15 
+(d) 
+20 
+ 
+28. Pipes A and B are emptying pipes and can empty a tank in 6 hours and 16 hours, respectively. C is a 
+filling pipe. All the three pipes were opened together. They took 80 minutes to empty 
+𝟓
+𝟏𝟖th of the 
+tank. Pipe C alone can fill the tank in: 
+A 
+B 
+क्रमश 
+C 
+𝟓
+𝟏𝟖 
+C 
+ SSC CGL 2022 PRE 
+(a) 48 hours         (b) 42 hours 
+ 
+(c) 40 hours         (d) 36 hours 
+29. Pipes A and B can fill a tank in 20 hours and 25 hours, respectively. Pipe C is an emptying pipe. When 
+all the three pipes are opened for 15 hours, then 
+𝟕
+𝟐𝟎 part of the tank filled. How much time (in hours) 
+will pipe C take to empty one-third part of the tank? 
+A
+B
+C
+𝟕
+𝟐𝟎 
+C
+ 
+1. 5
+𝟏
+𝟑 
+2. 4 
+3. 5 
+4. 5
+𝟐
+𝟑 
+ 
+ 
+( ICAR Technician 2023) 
+30. Pipe A can fill a tank in 12 hours. Pipe B can fill 33
+𝟏
+𝟑% part of the same tank in 6 hours, whereas 
+pipe C alone can empty full tank in x hours. When all the three pipes are opened together, 13/15 
+part of the tank is filled in 12 hours. How much time (in hours) will A and C together take to fill 
+40% part of the tank? 
+पाइप A एक टैंक को 12 घंटे में भर सकता है। पाइप B उसी टैंक के 33
+𝟏
+𝟑%  भाग को 6 घंटे में भर सकता है, जबकक पाइप C अकेले पूर्ण 
+टैंक को x घंटे में खाली कर सकता है। जब तीनों पाइपों को एक साथ खोल ददया जाता है, तो टैंक का 13/15 भाग 12 घंटे में भर जाता 
+है। A और C ममलकर टैंक के 40% भाग को भरने में ककतना समय (घंटों में) लेंगे? (ICAR Assistant 2022) 
+A)32 
+B)24 
+C)28 
+ 
+                                                   BY Gagan Pratap 
+D)20 
+31. Pipes A and B can fill a tank in 6 hours and 15 hours, respectively. Pipe C is a drain pipe. When all 
+the three pipes are opened together for 6 hours, then 65% of the tank is filled. Initially, pipes A and 
+C are opened together for 8 hours and then C is closed and B is opened. Pipes A and B together will 
+fill the remaining part of tank in ______ hours? 
+पाइप A और B एक टैंक को क्रमशः 6 घंटे और 15 घंटे में भर सकते हैं। पाइप C एक नाली पाइप है। जब तीनों पाइपों को एक 
+साथ 6 घंटे के मलए खोला जाता है, तो टंकी का 65% दहस्सा भर जाता है। प्रारंभ में, पाइप A और C को 8 घंटे के मलए एक 
+साथ खोला जाता है और फिर C को बंद कर ददया जाता है और B को खोल ददया जाता है। पाइप A और B ममलकर टैंक के शेष 
+भाग को ______ घंटे में भर देंगे? ( IB ACIO GRAE-2 2023) 
+A) 2
+𝟕
+𝟑 
+B) 3
+𝟏
+𝟑 
+C) 3
+𝟐
+𝟑 
+D) 2
+𝟔
+𝟑 
+32. Two pipes A and B can fill a cistern in 21 minutes and 28 minutes, respectively. Both the pipes are opened 
+together but after 4 minutes, pipe B is turned off. What is the total time taken to fill the tank ? 
+दो पाइप A और B एक टंकी को क्रमशः 21 ममनट और 28 ममनट में भर सकते हैं। दोनों पाइपों को एक साथ खोल मदया जाता है 
+लेमकन 4 ममनट बाद पाइप B को बंद कर मदया जाता है। टंकी को भरने में कुल मकतना समय लगता है? 
+Group D  17/09/2022 (Afternoon) 
+(a) 18 minutes / 18 ममनट 
+(b) 12 minutes / 12 ममनट 
+(c) 13 minutes / 13 ममनट 
+(d) 15 minutes / 15 ममनट 
+33. A pipe can fill an empty tank in 12.5 hours. At the bottom of the tank there was a leakage point which can drain 
+the completely filled tank in 17.5 hours. The leakage point could be closed after 14 hours of opening the pipe to 
+fill the tank. What was the total time taken (in hours) to fill the tank ? 
+एक पाइप मकसी खाली टंकी को 12.5 घंटे में भर सकता है। टंकी के तली में ररसाव था, मजससे पूरी भरी हुई टंकी 17.5 घंटे में खाली 
+हो सकती है। टंकी को भरने के मलए पाइप को खोलने के 14 घंटे बाद ररसाव को बंद मकया जा सका। टंकी को भरने में लगने वाला 
+कुल समय (घंटे में) मकतना था ?                 Level 5 (15/06/2022) Shift 2 
+(a) 22.5 
+(b) 20.5      
+(c) 27 
+(d) 25 
+34. Pipes P and Q can fill a tank in 18 and 27 minutes, respectively, whereas pipe R can empty the full 
+tank in 54 minutes. P and Q were opened together for 6 minutes and then closed and R was opened. 
+The tank was emptied by R alone in how many minutes: 
+P 
+Q 
+श
+R 
+P 
+Q 
+R 
+R 
+(a) 30  
+      (b) 40 
+ 
+ 
+(c) 35 
+       (d) 45 
+35. Pipes A and B can fill a tank in 30 hours and 45 hours, respectively while pipe C alone can empty the full tank in 
+20 hours. When the tank is full, C alone is opened for 8 hours and then closed and pipes A and  B are opened 
+together at the same time. Now, how much time will pipe A and B together take to fill the tank completely ? 
+पाइप A और B एक टंकी को क्रमशः 30 घंटे और 45 घंटे में भर सकते हैं, जबमक अकेले पाइप C पूरी भरी टंकी को 20 घंटे में खाली 
+कर सकता है। जब टंकी पूरी भर जाती है, तो अकेले C को 8 घंटे के मलए खोला जाता है, और मिर बंद कर मदया जाता है, और मिर 
+एक ही समय पर पाइप A और B को एक साथ खोला जाता है। अब, पाइप A और B को एक साथ टंकी को पूरी तरह से भरने में 
+मकतना समय लगेगा?                                           Level 3 (17/06/2022) Shift 2 
+(a) 7.5 hours / 7.5 घंटे 
+(b) 8 hours / 8 घंटे 
+(c) 7.8 hours / 7.8 घंटे 
+(d) 7.2 hours / 7.2 घंटे 
+36. Pipes A and B can fill a tank in 12 hours and 16 hours respectively and pipe C can empty the full tank in 24 hours. All three 
+pipes are opened together, but after 4 hours pipe B is closed. In how many hours, the empty tank will be completely filled? 
+ 
+                                                   BY Gagan Pratap 
+A 
+B 
+12 h 
+16 h 
+C 
+24 h 
+4 h 
+B 
+(a) 
+18 
+(b) 
+32 
+(c) 
+28 
+(d) 
+14 
+37. Pipes A and B can fill a tank in 16 hours and 24 hours respectively whereas pipe C can empty the full 
+tank in 40 hours. All three pipes are opened together, but pipe A is closed after 8 hours. After how 
+many hours, the remaining part of tank will be filled? 
+पाइप A और B क्रमशः 16 घंटे और 24 घंटे में एक टैंक भर सकते हैं जबफक पाइप C, 40 घंटे में पूरा टैंक खाली कर सकता है। 
+सभी तीन पाइप एक साथ खोले जाते हैं, लेफकन पाइप A को 8 घंटे बाद बंद कर ददया जाता है। फकतने घंटों के बाद, टैंक का शेष 
+भाग भरा जाएगा? SSC CGL 2020 PRE 
+a) 28           
+ 
+b) 22              
+c) 26           
+ 
+d) 30 
+38. Two pipes S1 and S2 alone can fill an empty tank in 15 hours and 20 hours respectively. Pipe S3 
+alone can empty that completely filled tank in 40 hours. Firstly both pipes S1 and S2 are opened and 
+after 2 hour pipe S3 is also opened. In how much time tank will be completely filled after S3 is 
+opened? 
+दो पाईप S1 तथा S2 एक खाली टंकी को अकेले क्रमशः 15 घंटे तथा 20 घंटे में भर सकते हैं। पाईप S3 उस संपूर्ण रूप से भरी हुई 
+टंकी को अकेले 40 घंटे में खाली कर सकता है। सबसे पहले दोनों पाइप 51 तथा S2 को खोला गया तथा 2 घंटे बाद पाइप S3 को भी 
+खोला गया है। S3 खुलने के बाद टंकी मकतने समय में संपूर्ण रूप से भर जायेगी? 
+(a) 90/17 hours       (b) 89/12 hours        (c) 90/13 hours 
+     (d) 92/11 hours 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+39. Two pipe A and B can fill a tank with water in 42min and 35min respectively. The third pipe C can 
+empty the tank in 60min. first A and B are opened. After 12 minutes C is opened. Total time (in min) 
+in which the tank will be filled up is? 
+दो पाइप A और B क्रमशः 42ममनट और 35ममनट  में पानी के साथ एक टैंक भर सकते हैं। तीसरा पाइप C 60 ममनट में टैंक खाली 
+कर सकता है। पहले A और B खोले जाते हैं, 12 ममनट  के बाद C भी खोला जाता है। कुल समय (ममनट में) जजसमें टैंक भरा 
+जाएगा? 
+a) 22min24sec    
+b) 23min36sec    
+c) 21min27sec                             d) 24min40sec 
+40. Pipes A and B can empty a full tank in 36 and 45 minutes, respectively, whereas pipe C alone can fill the tank is 15 minutes. 
+B and C are opened together for 5 minutes, and then both are turned off and A is opened. Pipe A will empty the tank in (in 
+minutes) 
+A 
+B, 
+36 
+45 
+C, 
+B
+C
+A
+A
+____
+SSC CGL 2022 PRE
+(a) 
+30 
+(b) 
+18 
+(c) 
+20 
+(d) 
+24 
+41. Pipes A and B are filling pipes while pipe C is an emptying pipe. A and B can fill a tank in 72 and 90 
+minutes respectively. When all the three pipes are opened together, the tank gets filled in 2 hours. 
+A and B are opened together for 12 minutes, then closed and C is opened. The tank will be empty 
+after: 
+A 
+B 
+C 
+A 
+B 
+क्रमशः 
+A 
+B 
+C 
+ 
+                                                   BY Gagan Pratap 
+(a) 15 minutes 
+ 
+(b) 16 minutes 
+(c) 18 minutes 
+ 
+(d) 12 minutes 
+42. Pipes A and B can fill a tank in 18 hours and 24 hours, respectively, while pipe C alone can empty the full tank in 30 hours. 
+Pipes A and B are opened together for 6 hours and then A is closed and C is opened instantly (with B). After closing of pipe 
+A, now how much time (in hours) will B and C together take to fill the tank completely? 
+A
+B
+18 h
+24 h
+C
+30 h
+A
+B
+6 h
+A
+C
+B
+A 
+B
+C
+h 
+(a) 
+45 
+(b) 
+50 
+(c) 
+42 
+(d) 
+48 
+43. Pipe A and Pipe B are the filling pipe, while the pipe is the emptying pipe. Pipes A and B together can 
+fill a tank in 30 hours. The time taken by A, B and C together to fill the tank is 33
+𝟏
+𝟑% more than the 
+time taken by A and B together to fill the tank. In how much time (hours) will C alone take to empty 
+the full tank? 
+पाइप A और पाइप B भरने वाले पाइप है, जबकक पाइप C खली करने वाला पाइप है।  पाइप A और B ममलकर एक टैंक को 30  घंटे में 
+भर सकता है।  A, B और C द्वारा एक साथ ममलकर टैंक को भरने में A और B द्वारा एक साथ ममलकर टैंक को भरने में लगे समय से 
+33
+𝟏
+𝟑%  अधिक समय लगता है। C को अकेले पूरे भरे हुए टैंक को खली करने में ककतने समय (घंटे ) में लगेगा? 
+ (ICAR Technician 2022) 
+a)150 
+b)100 
+c)90 
+d)120 
+44. in 10 hours. They worked together for 4 hours and then B stopped and A continued filling the tank till it was full. 
+It took a total of 13 hours to fill the tank. How long would it take A to fill the empty tank alone ? 
+एक साथ कायण करते हुए पाइप A और B एक खाली टैंक को 10 घंटे में भर सकता है। उन्ोंने 4 घंटे तक एक साथ काम मकया और 
+मिर B ने काम करना बंद कर मदया तथा A ने कायण अंत तक जारी रखा। टैंक को भरने में कुल 13 घंटे लग गए। A द्वारा अकेले खाली 
+टैंक को भरने में मकतना समय लगेगा ? 
+RRB ALP  09/08/2018  (Evening) 
+(a) 16 hours / 16 घंटे 
+(b) 13 hours /  13 घंटे 
+(c) 15 hours / 15 घंटे  
+(d) 12 hours / 12 घंटे 
+45. Pipes A, B and C together can fill a cistern in 12 hours. All the three pipes are opened together for 4 
+hours and then C is closed. A and B together take 10 hours to fill the remaining part of the cistern. 
+C alone will fill two thirds of the cistern in: 
+A, B 
+C 
+C
+A
+B 
+C 
+(a) 50 hr 
+ 
+(b) 60 hr 
+ 
+ 
+(c) 40 hr 
+ 
+(d) 48 hr 
+46. Pipe P can fill ¾ part of a tank in 18 hours and pipe Q can fill 3/5 part of its tank in 12 hours. Both 
+P and Q were kept open for 4 hours, then both were closed. Then pipe R alone was opened, and it 
+emptied out the water from the tank in 5
+𝟏
+𝟐 hour. In how much time can the pipe P, Q and R 
+together fill the empty tank? 
+पाइप P एक टैंक के ¾ भाग को 18 घंटे में भर सकता है और पाइप Q अपने टैंक के 3/5 भाग को 12 घंटे में भर सकता है। P और Q 
+दोनों को 4 घंटे के मलए खुला रखा गया किर दोनों को बंद कर ददया गया। किर अकेले पाइप R को खोला गया, और इसने 5
+𝟏
+𝟐 घंटे में टैंक 
+से पानी को खाली कर ददया। पाइप P, Q और R ममलकर खाली टैंक को ककतने समय में भर सकते हैं? (SSC CGL 2022) 
+A)36 hours 
+B)35 hours 
+ 
+                                                   BY Gagan Pratap 
+C)40 hours 
+D)30 hours 
+47. Pipes A and B can fill a tank in 18 hours and 30 hours, respectively, while C alone can empty the full 
+tank in x hours. All the three pipes are kept open for 3 hours, then B is closed. After another 3 hours, 
+C is closed. The total time taken to get the tank filled completely is 21 hours. What is the value of 
+x? 
+पाइप A और B एक टैंक को क्रमश: 18 घंटे और 30 घंटे में भर सकते हैं, जबकक C अकेले पूर्ण टैंक को x घंटे में खाली कर सकता है। 
+तीनों पाइपों को 3 घंटे के मलए खुला रखा जाता है, किर B को बंद कर ददया जाता है, और 3 घंटे के बाद, C को बंद कर ददया जाता है। 
+टैंक को पूरी तरह से भरने में लगने वाला कुल समय 21 घंटे है। x का मूल्य क्या है? (ICAR Technician 2022) 
+A) 21
+𝟏
+𝟐 
+B) 22
+𝟏
+𝟐 
+C) 18 
+D) 20 
+48. Two pipes A and B can fill an empty cistern in 18 and 27 hours, respectively. Pipe C can drain the entire cistern 
+in 45 hours when no other pipe is in operation. Initially, when the cistern was empty Pipe A and Pipe C were 
+turned on. After a few hours Pipe A was turned off and Pipe B was turned on instantly. In all, it took 55 hours to 
+fill the cistern. For how many hours was pipe B turned on ? 
+दो पाइप A और B मकसी खाली टंकी को क्रमशः 18 और 27 घंटे में भर देते हैं। पाइप C पूरे भरी टंकी को 45 घंटे में खाली कर देता है 
+जब कोई अन्य पाइप नहीं चल रहा हो। शुरुआत में जब टंकी खाली थी, पाइप A और C को चालू मकया गया। कुि घंटों के बाद पाइप 
+A को बंद कर मदया गया और पाइप B को चालू मकया गया। इस प्रकार टंकी भरने में कुल 55 घंटे लगे। पाइप B को मकतने घंटे चलाया 
+गया ?                RRB ALP  17/08/2018  (Morning) 
+(a) 30 
+(b) 27 
+ 
+(c) 45 
+(d) 50 
+49. If two pipes A and B function simultaneously, an empty tank will be filled in 20 hours. If pipe A, workingalone, 
+fills this empty tank 9 hour faster than pipe B can fill it working alone, then how many hours does it take pipe B 
+to fill this empty tank while working alone ? 
+यमद दो पाइप A और B एक साथ खोले जाते हैं तो एक खाली टंकी 20 घंटे में भर जाएगी। केवल पाइप A खोले जाने पर, यह खाली 
+टंकी को पाइप B द्वारा इसे अकेले भरने में मलए जाने वाले समय की तुलना में 9 घंटे पहले भर देता है, तो पाइप B को अकेले यह खाली 
+टंकी भरने में मकतना समय लगेगा ?                  Group D  16/09/2022 (Evening) 
+(a) 42 hours / 42 घंटे 
+(b) 39 hours / 39 घंटे 
+(c) 45 hours / 45 घंटे 
+(d) 36 hours / 36 घंटे 
+50. Pipes A and B together can fill an empty tank in 𝟔
+𝟐
+𝟑 minutes. If A takes 3 minutes more than B to fill 
+the tank, then the time in which A alone would fill one third part of the tank is: 
+ A 
+B 
+𝟔
+𝟐
+𝟑
+A 
+B 
+A 
+SSC CHSL 2021 PRE
+(a) 4.5  
+(b) 6 
+ 
+ 
+ 
+(c) 5.5  
+(d) 5 
+51. Two taps A and B can fill a tank in 48 min and 36 min. If both taps are opened together after how 
+much time tap A is closed so that the whole tank fill in 25 min 30 sec. 
+दो नल A और B एक टैंक को क्रमशः 48 ममनट और 36 ममनट में भर सकते हैं। दोनों नल एक साथ खोले जाते हैं तब  A को  
+फकतने समय के बाद बंद फकया जाता है, ताफक पूरा टैंक 25 ममनट 30 सेकेंड में भर जाए। 
+a) 16 min 
+ 
+b) 14 min 
+ 
+c) 17.5 min 
+ 
+d) 21 min 
+52. Two valves P and B can fill a sump in 37
+𝟏
+𝟐 minutes and 45 minutes respectively. Both valves are opened. The sump 
+will be filled in just 30 minutes, if valve B is turned off after : 
+दो पाइप P और B एक टंकी को क्रमश: 37
+𝟏
+𝟐 ममनट और 45 ममनट में भर सकते हैं। दोनों पाइप खुले हैं। टंकी 30 ममनट में भर जायेगी, 
+यमद पाइप B को ......बाद बंद कर मदया जाता हैं।                   RRB ALP  13/08/2018  (Afternoon) 
+(a) 9 min / 9 ममनट   
+(b) 6 min / 6 ममनट   
+(c) 10 min / 10 ममनट   
+(d) 5 min  / 5 ममनट 
+ 
+                                                   BY Gagan Pratap 
+53. Pipe A can fill a tank in 16 minutes and pipe B empties it in 24 minutes. If both the pipes are opened 
+simultaneously, after how many minutes should B be closed so that the tank is filled in 30 minutes? 
+पाइप A एक टैंक को 16 ममनट में भर सकता है और पाइप B इसे 24 ममनट में खाली करता है| यदद दोनों पाइपों को एक साथ खोल ददया जाए तो 
+ककतने ममनट बाद B को बंद कर ददया जाना चादहए जजससे कक टैंक 30 ममनट में भर जाए? SSC CPO 2019  
+(a) 21 ममनट 
+ 
+(b) 20 ममनट 
+(c) 15 ममनट 
+ 
+(d) 18 ममनट 
+54. An empty cistern has three pipes A, B and C. A and B can fill it in 45hrs and 36 hours respectively 
+and C can empty it in 37
+𝟏
+𝟐 hr. After how much time draining pipe should be closed so that cistern is 
+filled in 32 hrs. 
+एक खाली टैंक  में तीन पाइप A, B और C लगे हुए है, A और B इसे क्रमशः 45 घंटे और 36 घंटे में भर सकते हैं और C इसे 37
+𝟏
+𝟐  
+घंटे में खाली कर सकता हैं। फकतने समय बाद ररसाव पाइप को बंद फकया जाना चादहए ताफक टैंक 32 घंटे में भर जाए। 
+a) 20.5hrs        b) 21hrs         c) 22.5hrs         d) 16hrs  
+55. Pipes A, B and C can fill a tank in 30 hours, 36 hours and 28 hours, respectively. All the three pipes were opened 
+simultaneously. If A and C were closed 5 hours and 8 hours, respectively, before the tank was filled completely, then in how 
+many hours was the tank filled? 
+A, B
+C
+30
+36
+28
+A
+C
+5
+8
+(a) 12 
+(b) 14 
+(c) 16 
+(d) 15 
+ 
+ 
+ 
+MTS 2020 
+56. Two pipes A and B can fill a tank in 12 minutes and 24 minutes, respectively, while a third pipe C can empty the full tank in 
+32 minutes. All the three pipes are opened simultaneously. However, pipe C is closed 2 minutes before the tank is filled. In 
+how much time (in minutes) will the tank be full? 
+दो पाइप A और B एक टंकी को क्रमश: 12 ममनट और 24 ममनट में भर सकते हैं, वहीं पाइप C पूरी भरी हुई टंकी को 32 ममनट में खाली कर सकती है। तीनों पाइपों को एक साथ 
+खोल मदया गया। हालांमक पाइप C को टंकी के भरने 2 ममनट पहले बंद कर मदया गया। टंकी मकतने समय (ममनट में)में पूरी तरह भर जाएगी?   (CGL MAINS 2021) 
+(a)9 
+ 
+(b)10 
+ 
+(c)12 
+ 
+(d)8 
+57. Two pipes could fill an empty tank in 20 hrs., 28 hours respectively while a third one can drain the 
+filled tank in 35 hours. If the outlet pipe was closed 3 hours before the tank got filled and second 
+pipe which can filled cistern in 28 hrs., also closed 4 hrs. before the cistern is filled, how many hours 
+since the beginning did it take to fill the tank? 
+दो पाइप एक खाली टैंक को क्रमशः 20 घंटे और 28 घंटे में भर सकते हैं, जबफक तीसरा पाइप एक भरे हुए टैंक को 35 घंटे में खाली 
+कर सकता है। यदद टैंक भरने से 3 घंटे पहले आउटलेट पाइप बंद हो जाता है और दूसरा पाइप (जो 28 घंटे में टैंक को भर सकता 
+है), टैंक भरने से 4 घंटे पहले बंद हो जाता है, तो टैंक को भरने में फकतने घंटे लगे? 
+a) 18hr30min                              b) 16hr45min 
+ 
+c) 17hr15min  
+d) 20hr10min 
+58. Pipes A, B and C can fill a tank in 30 h, 40 h and 60 h respectively. Pipes A, B and C are opened at 7 
+a.m., 8 a.m., and 10 a.m., respectively on the same day. When will the tank be full? 
+पाइप A, B और C क्रमशः 30 h, 40 h और 60 h में एक टैंक भर सकते हैं। पाइप A, B और C उसी लदन क्रमशः 7 बजे, 8 
+बजे और 10 बजे खोले जाते हैं। टोंकी कब भरी जाएगी? SSC CGL  MAINS 2021  
+(a)10.20 p.m.  
+(b) 10.00 p.m. 
+(c) 9.40 p.m.  
+(d) 9.20 p.m. 
+59. Pipes A and B can fill a tank in 16 hours and 24 hours, respectively, and pipe C alone can empty the 
+full tank in x hours. All the pipes were opened together at 10:30 a.m., but C was closed at 2:30 p.m. 
+If the tank was full at 8:30 p.m. on the same day, then what is the value of x? 
+पाइप A और B क्रमशः 16 घंटे और 24 घंटे में एक टैंक भर सकते हैं, और अकेले पाइप C, x घंटे में पूरा टैंक खाली कर सकता हैं। सभी पाइप एक साथ सुबह 
+10:30 बजे खोले गए, लेमकन C को 2:30 बजे बंद कर मदया गया। अगर उसी मदन साढे आठ बजे टंकी भर जाती है, तो x का मान क्या है? 
+ SSC CGL  MAINS 2021  
+(a) 45               (b) 96 
+           (c) 64 
+         (d) 48 
+60. An empty cistern has three pipes A, B and C. A and B can fill it in 24hrs and 30 hours respectively 
+and C can empty it in 8hr 20 minutes. If these pipes are opened in order at 1PM, 4PM and 6 PM, 
+when will the cistern be empty again? 
+ 
+                                                   BY Gagan Pratap 
+दो पाइप फकसी टंकी को क्रमशः 24 घंटे और 30 घंटे में पानी से भर सकते है और एक तीसरा पाइप इस टंकी को 8 घंटे 20 ममनट 
+में खाली कर सकता है यदद इन पाइपों को क्रमशः दोपहर 1PM, 4 PM और 6 PM बजे खोला जाए, तो टंकी फकतने बजे खाली 
+होगी? 
+a) 12:06:40 AM  
+b) 11:40:06 PM 
+ 
+c) 01:15:12 AM  
+d) 12:40:06 AM 
+61. Two pipes A and B are attached to an empty water tank. Pipe A fills the tank while pipe B drains it. 
+If pipe A is opened at 2 pm and pipe B is opened at 3 pm, then the tank becomes full at 10 pm. 
+Instead, if pipe A is opened at 2 pm and pipe B is opened at 4 pm, then the tank becomes full at 6 
+pm. If pipe B is not opened at all, then the time, in minutes, taken to fill the tank is? 
+दो पाइप A और B एक खाली पानी की टंकी से जुडे हैं। पाइप A टैंक को भरता है जबकक पाइप B इसे खाली करता है। यदद पाइप A को 
+दोपहर 2 बजे खोला जाता है और पाइप B को दोपहर 3 बजे खोला जाता है, तो टैंक रात 10 बजे भर जाता है. इसके बजाय, यदद पाइप 
+A को दोपहर 2 बजे खोला जाता है और पाइप B को शाम 4 बजे खोला जाता है, तो टैंक शाम 6 बजे भर जाता है। यदद पाइप B को 
+बबल्कुल भी नहीं खोला जाता है, तो टैंक को भरने में लगने वाला समय ममनटों में ककतना होगा?  (CAT 2023) 
+A) 264 
+B) 120 
+C) 140 
+D) 144 
+62. A leak in the bottom of a tank can empty the full tank in 9 hours. An inlet pipe fills water at the rate 
+of 5 liters per minute. When the tank is full, the inlet is opened and due to the leak the tank gets 
+empty in 12 hours. The capacity of the tank (in liters) is? 
+एक टैंक के तल में एक ररसाव 9 घंटे में पूरा टैंक खाली कर सकता है। एक इनलेट पाइप 5 लीटर प्रतत ममनट की दर से पानी भरता है। जब 
+टंकी भर जाती है तो इनलेट खोला जाता है और ररसाव के कारर् टंकी 12 घंटे में खाली हो जाती है। टैंक की क्षमता (लीटर में) है?  
+(ICAR Technician 2022) 
+ 
+A) 18000 
+B) 10008 
+C) 10800 
+D) 10080 
+63. Two pipes can fill a cistern separately in 36 minutes and 45 minutes, respectively. A waste pipe can 
+drain off 40 litres per minute. If all the three pipes are opened, the cistern fills in one hour. The 
+capacity (in litres of the cistern) is 
+दो पाइप एक टंकी को अलग-अलग तौर पर क्रमशः 36 ममनट और 45 ममनट में भर सकते हैं। टंकी में लगा एक छनकास पाइप प्रछत 
+ममनट 40 लीटर पानी छनकाल सकता है। यदद तीनों पाइप एक साथ खोल ददए जाएं तो टंकी एक घंटे में भर जाती है। टंकी की 
+क्षमता/धाररता (लीटर में) ज्ञात कीजजए।  
+ (CHSL MAINS 2023)   
+[a]600 
+[b]1200 
+[c]300 
+[d]400 
+64. Two pipes can fill a cistern separately in 55 and 66 minutes respectively and waste pipe can drain 
+off 1320 gallons per minute. If all the three pipes are open, the cistern fills in 2 hours. What is 
+capacity of the cistern? 
+दो पाइप अलग-अलग क्रमशः 55 और 66 ममनट में एक टैंक को भर सकते हैं और छनकास पाइप 1320 गैलन प्रछत ममनट की दर 
+से पानी छनकलता हैं। यदद सभी तीन पाइप खुले हैं, तो 2 घंटे में टैंक भर जाता है। टैंक की क्षमता क्या है? 
+a) 46200 gallons 
+b) 52800 gallons 
+c) 72600 gallons 
+d) 59400 gallons 
+65. Two pipes A and B can fill an empty cistern in 32 and 48 hours, respectively. Pipe C can drain the 
+entire cistern in 64 hours when no other pipe is in operation. Initially, when the cistern was empty 
+Pipe A and Pipe C were turned on. After a few hours, Pipe A was turned off and Pipe B turned on 
+instantly. In all it took 112 hours to fill the cistern. For how many was Pipe B turned on? 
+दो पाइप A और B क्रमशः 32 और 48 घंटे में एक खाली टैंक भर सकते हैं। जब कोई अन्य पाइप चालू नहीं होता है, तो पाइप C 
+64 घंटे में पूरे टैंक को खाली कर सकता है। प्रारंभ में, जब टैंक खाली था तो पाइप A और पाइप C को चालू कर ददया गया। कुि 
+ 
+                                                   BY Gagan Pratap 
+घंटों के बाद, पाइप A को बंद कर ददया गया और पाइप B को तुरन्त चालू फकया गया। इन सभी को टैंक को भरने में 112 घंटे लगे। 
+पाइप B फकतने देर तक चालू रहा? 
+a) 84  
+ 
+b) 70  
+c) 77  
+ 
+d) 72 
+66. Two pipes A and B fill a tank in 12 and 16 minutes respectively. When both pipes are opened 
+together, pipe A works with 7/8 of its efficiency and Pipe B works with 5/6 of its efficiency due to 
+some blockage in pipes, after some times the blockage was removed and the tank now got filled in 
+3 minutes. Find for how much time the pipes were blocked? 
+दो पाइप A और B एक टैंक को क्रमशः 12 और16 लमनट में भरते हैं। जब दोनोों पाइपोों को एक साथ खोला जाता है, तो पाइप A 
+अपनी क्षमता के 7/8 भाग के साथ काम करता है और पाइप में कुछ रुकावट के कारण पाइप B अपनी दक्षता के 5/6 के साथ 
+काम करता है, कुछ समय बाद रुकावट को हटा लदया गया और टैंक अब 3 लमनट में भर गया। ज्ञात कीलजए लक लकतने समय के 
+ललए पाइपोों को अवरुद्ध लकया गया था? 
+A) 4.5 min                           C)𝟓. 𝟔min 
+B) 5min                             D) 4.8min 
+67. A cistern can be filled by one of two pipes in 52 minutes and by the other pipe in 60 minutes. Both 
+pipes are opened together for a certain time but being particularly clogged only 13/20 of the full 
+quantity of water flows through the first pipe and only ¾ of the full quantity of water flows through 
+the second pipe. The obstruction, however, were suddenly removed in both the pipes after some 
+time and the cistern got filled in 15
+𝟑
+𝟓 minutes from that moment. For how many minutes did the 
+pipes remain clogged? 
+एक टंकी को दो पाइपों में से एक द्वारा 52 ममनट में और दूसरे पाइप द्वारा 60 ममनट में भरा जा सकता है। दोनों पाइपों को 
+एक छनजचचत समय के मलए एक साथ खोला जाता है, लेफकन ववशेष रूप से बंद होने के कारण पानी की पूरी मात्रा का केवल 
+13/20 ही पहले पाइप से बहता है और पानी की पूरी मात्रा का केवल 3/4 दूसरे पाइप से बहता है। हालााँफक, कुि समय बाद 
+अचानक दोनों पाइपों में रुकावटें दूर हो गईं और टंकी उसी क्षण से 15
+𝟑
+𝟓  ममनट में भर गई। पाइप फकतने ममनट तक अवरुद्ध 
+रहे? ( IB ACIO GRADE-2 2023) 
+A) 17
+𝟑
+𝟓 
+B) 17
+𝟐
+𝟓 
+C) 17
+𝟒
+𝟓 
+D) 17
+𝟏
+𝟓 
+68. Two taps A and B can fill a tank in 30 min and 36 min respectively. Both taps are opened together 
+but due to some problem they work 5/6 and 9/10 of their efficiency, after some time the problem 
+was removed and the whole tank will fill in 16
+𝟏
+𝟐 minutes. then after how much time the problem is 
+removed? 
+दो नल A और B क्रमशः 30 ममनट और 36 ममनट में एक टैंक भर सकते हैं। दोनों नल एक साथ खोले जाते हैं लेफकन कुि समस्या 
+के कारण वे अपनी दक्षता के 5/6 और 9/10 कायय करते हैं, कुि समय बाद समस्या को हटा ददया गया और पूरा टैंक 16
+𝟏
+𝟐 ममनट में 
+भर जाएगा। फिर फकतने समय के बाद समस्या को दूर फकया जाता है? 
+a)1min    b)1
+𝟏
+𝟐min   c)2min    d)45sec    
+69. Two pipes A and B can fill a cistern in 24hr and 27hr respectively. both taps are opened and after 2 
+hrs16minutes, it is noticed that there was a leakage. leakage is repaired immediately. it takes 96 
+min extra for cistern to fill than normal. if cistern is full how much time leakage would take to empty 
+the cistern? 
+दो पाइप A और B क्रमशः 24 घंटे  और 27घंटे  में एक टैंक भर सकते हैं। दोनों नल खोले जाते हैं और 2 घंटे 16 ममनट  के बाद, यह 
+देखा जाता है फक टैंक में एक ररसाव है। ररसाव की तुरंत मरम्मत की जाती है जजस कारण टैंक को भरने में सामान्य से 96 ममनट 
+अधधक लगता है।। यदद टैंक  भरा है तो अकेले ररसाव को टैंक खाली करने में फकतना समय लगेगा? 
+a) 16hr         b) 27hr       c) 18hr      d) 24hr 
+70. Two pipes can fill a cistern in 21 hours and 24 hours, respectively. The pipes are opened 
+simultaneously and it is found that due to leakage in the bottom it took 48 minutes more to fill the 
+cistern. When the cistern is full, in what time will the leak empty half of the cistern? 
+ 
+                                                   BY Gagan Pratap 
+दो पाइप एक टंकी को क्रमशः 21 घंटे और 24 घंटे में भर सकते हैं। पाइपों को एक साथ खोला मदया जाता है तो पाया गया मक तली में 
+ररसाव के कारर् टंकी को भरने में 48 ममनट अमधक लगे। जब टंकी पूरी भर जाती है, तो मकतने समय में ररसाव से टंकी का आधा 
+महस्सा खाली हो जाएगा? 
+1. 84 hours 
+2.78hours 
+3.90 hours 
+4. 96 hours 
+ 
+( ICAR Technician 2023) 
+71. Two pipes can fill a cistern in 12 hours and 16 hours, respectively. The pipes are opened simultaneously and it is found that 
+due to leakage at the bottom, it takes 90 minutes more to fill the cistern. How much time will the leakage take to empty the 
+completely filled tank? 
+दो पाइप एक टंकी को क्रमशः 12 घंटे और 16 घंटे में भर सकते हैं। पाइपों को एक साथ खोल मदया जाता है, और यह पाया जाता है 
+मक टंकी की तली में एक ररसाव के कारर्, टंकी को भरने में 90 ममनट अमधक लगते हैं। इस ररसाव द्वारा पूरी तरह से भरे टैंक को 
+खाली करने में मकतना समय लगेगा? ( CPO 2023)
+(a) 39
+𝟏𝟑
+𝟒𝟗 h                          (b) 36
+𝟐𝟗
+𝟒𝟗 h 
+ 
+(c) 37
+𝟏𝟓
+𝟒𝟗 h                          (d) 38
+𝟏𝟎
+𝟒𝟗 h 
+72. Pipe A and B can fill a tank in 10 hours and 40 hours, respectively. C is an outlet pipe attached to 
+the tank. If all the three pipe are opened simultaneously, it takes 80 minutes more time than what 
+A and B together take to fill the tank A and B are kept opened for 7 hours and then closed and C was 
+opened. C will now empty the tank in:-  
+पाइप A और B एक टैंक क्रमश: 10 घंटे और 40 घंटे में भर सकते है।  C टैंक से जुड़ा हुआ एक आउटलेट पाइप है।  यदद सभी 
+तीन पाइपों को एक साथ खोला गया है तो A और B द्वारा ममलकर टैंक को भरने में लगने वाले समय से 80 ममनट  अधधक समय 
+लगता है।  A और B  घंटे तक खोला जाता है और C को खोल ददया जाता है।  C अब टैंक को फकतने समय घंटे खाली कर सकेगा? 
+ SSC CHSL  PRE 2021  
+a) 42 hours 
+ 
+b) 45.5 hours 
+ 
+c) 49 hours 
+ 
+d) 38.5 hours. 
+73. Two pipes X and Y can fill an empty tank in 36 and 45 hours respectively. Ravi opens these two pipes 
+simultaneously. After 6 hours45min he comes back and sees that there was a leak in the tank. He 
+stops the leakage and thus tank took 15.5 hours to be filled completely after closing the leak. In 
+what time leakage will empty the filled tank? 
+दो पाइप X और Y क्रमशः 36 और 45 घंटे में एक खाली टैंक भर सकते हैं। रवव इन दोनों पाइपों को एक साथ खोलता है। 6 घंटे 
+45 ममनट के बाद वह वापस आता है और देखता है फक टैंक में एक ररसाव है । वह ररसाव को रोकता है और इस तरह ररसाव बंद 
+करने के बाद टैंक को पूरी तरह से भरने में 15.5 घंटे लगते हैं। भरे हुए टैंक को ररसाव अकेले  फकतने समय में खाली कर देगा? 
+a) 54 hrs.                  b) 60 hrs. 
+ 
+c) 72hrs 
+           d) 81 hrs. 
+74.  A bathtub can be filled by a cold pipe in 15 minutes and by a hot pipe in 10 minutes. A man opens 
+both the taps at 7 a.m. and leaves the bathroom. He returns at the time when the tub was expected 
+to be full, but he observes that the waste pipe in the bottom was open and the tub was not full. He 
+now closes it, and it takes 4 more minutes before the tank is full. After using the bathtub for 10 
+minutes , he opens the waste pipe. At what time will the tub be empty ? 
+IB  2021  
+(A) 33 minutes past 7 a.m. 
+(B) 31 minutes past 7 a.m. 
+(C) 29 minutes past 7 a.m. 
+(D) 27 minutes past 7 a.m. 
+75. Three taps A, B and C can fill a tank in 24, 30 and 40 hours respectively. If A is open all the time 
+and B and C are open for one hour each alternately, then the tank will be full in: 
+तीन नल A, B और C एक टंकी को क्रमशः 24, 30 और 40 घंटे में भर सकते हैं। यदद A हर समय खुला रहता है और B और 
+C बारी-बारी से एक-एक घंटे के मलए खुले रहते हैं, तो टंकी फकतने समय में भर जाएगी? 
+A) 13
+𝟓
+𝟕   
+ 
+                                                   BY Gagan Pratap 
+B) 14
+𝟏
+𝟗 
+C) 15
+𝟐
+𝟓 
+D)  20
+𝟕
+𝟗 
+76. Pipe A could fill an empty cistern in 18 hours while Pipe B can drain a filled cistern in 30 hours. 
+When the cistern is empty, Pipe A is turned on for an hour and then turned off. Now Pipe B is allowed 
+to drain out water from the cistern for an hour and then turned off. The pipes were alternatively left 
+open for an hour each time till the cistern was full. How much time did it take for the cistern to be 
+full? 
+पाइप A 18 घंटे में एक खाली टंकी भर सकता है जबफक पाइप B 30 घंटे में एक भरा हुआ टंकी खाली करता है। जब टंकी खाली 
+होता है, तो पाइप A को एक घंटे के मलए चालू फकया जाता है और फिर बंद कर ददया जाता है। अब पाइप B को एक घंटे के मलए 
+खोल ददया गया और फिर बंद कर ददया गया। प्रत्येक पाइप को बारी बारी से एक घंटे के मलए तब तक खोला गया जब तक फक 
+टंकी पूरा न भर जाए। टंकी के पूरी तरह से भरने में फकतना समय लगा?    
+(RRB NTPC 2021) 
+a) 86 hours 40 minutes 
+ 
+b) 86 hours 48 minutes 
+ 
+c) 90 hours 
+             
+d) 86 hours 
+77. An inlet pipe can fill an empty tank in 𝟒
+𝟏
+𝟐 hours while an outlet pipe drains a completely filled tank 
+in 𝟕
+𝟏
+𝟓 hours. The tank is initially empty, and the two pipes are alternately opened for an hour each, 
+till the tank is completely filled, starting with the inlet pipe. In how many hours will the tank be 
+completely filled? 
+एक इनलेट पाइप एक खाली टैंक को 4
+𝟏
+𝟐 घंटे में भर सकता है, जबमक एक आउटलेट पाइप पूरी तरह से भरे टैंक को 7
+𝟏
+𝟓 घंटे में खाली 
+कर देता है। टैंक शुरू मैं खाली है और इनलेट पाइप से शुरू होते हुए दोनों पाइप बारी
+-
+बारी से एक एक घंटे के मलए खोले जाते हैं, 
+जब तक मक टैंक पूरी तरह से भर न जाए। टैंक मकतने घंटे में पूरी भर जाएगी? 
+ 
+(a) 24 
+   (b) 20
+𝟏
+𝟒 
+  (c)  20
+𝟑
+𝟒 
+(d) 22
+𝟑
+𝟖 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+78. Two inlets A and B are connected to a tank. A and B can fill the tank in 32 h and 28 h respectively. 
+If both the pipes are opened alternately for 1 h, starting from A, then in how much time (in hours 
+to the nearest round) the tank will be filled? 
+एक टैंक से दो इनलेट A और B जुड़े हुए है।  A और B टैंक को क्रमशः 32  h और 28  h में भर सकते है।  यदद दोनों पाईपो 
+को A से शुरू करते हुए, बारी-बारी से, 1 h के मलए खोला जाता है, तो टैंक फकतने समय ( घंटो में छनकटम पूणयक) में भर जायेगा? 
+SSC CGL  MAINS 2022  
+ 
+A) 36 
+B) 22 
+C) 24 
+D) 30 
+79. A, B and C are pipes attached into a cistern. A and B can fill it in 20 and 30 minutes respectively, 
+while C can empty it in 15 minutes. If A, B and C be kept open successively for 1 minute each, how 
+soon will the cistern be filled? 
+पाइप A, B और C एक टैंक में लगे हैं। A और B इसे क्रमशः 20 और 30 ममनट में भर सकते हैं, जबफक C इसे 15 ममनट में खाली 
+कर सकता हैं। यदद A, B और C को बारी बारी से एक ममनट के मलए खुला रखा जाए, तो फकतने समय में टैंक भरा जाएगा? 
+ (RRB NTPC 2021) 
+a) 2hr 44 min  
+b) 2hr 47min  
+c) 2hr 37min   
+d) 2hr 40min 
+80. Pipe A can fill a tank in 12 hours. Pipe B can fill the same tank in 16 hours. Pipe C can empty the 
+full tank in 24 hours. Pipe A, B and C are opened alternatively for 1 hour each. If B is opened first, 
+then how many hours will they take to fill the empty tank? 
+ 
+                                                   BY Gagan Pratap 
+पाइप A एक टंकी को 12 घंटे में भर सकता है। पाइप B उसी टंकी को 16 घंटे में भर सकता है। पाइप C भरी हुई टंकी को 24 
+घंटे में खाली कर सकता है। पाइप A, B और C को बारी-बारी से 1 घंटे के मलए खोला जाता है। यदद B को पहले खोला जाता है, 
+तो खाली टैंक को भरने में उन्हें फकतने घंटे लगेंगे?  
+SSC CGL  MAINS 2022 
+A)  28 
+ 
+B)  27 
+ 
+C)  30 
+D)  29 
+ 
+81. Two pipes A and B can fill an empty cistern in 15 and 25 hours, respectively. Pipe C can drain the 
+entire cistern in 20 hours. Pipe A is open for all the time. B and C are opened at alternate hours 
+starting with B. then in how much time cistern will be filled? 
+दो पाइप A और B क्रमशः 15 और 25 घंटे में एक खाली टैंक को भर सकते हैं। पाइप C 20 घंटे में भरे हुए टैंक को खाली कर 
+सकता है। पाइप A हर समय खुला रहता है। B और C को बारी बारी से एक घंटे के मलए खोला जाता है जहां B से शुरूआत होती 
+है। ज्ञात कीजजये फकतने समय में टैंक भर जाएगा? 
+a) 16
+𝟏
+𝟖     
+    b)16
+𝟑
+𝟖     
+c)12              d)18
+𝟑
+𝟒 
+82. One fill pipe A takes 21
+𝟏
+𝟑 minutes more to fill the cistern than two fill pipes A and B opened together 
+to fill it. Second fill pipe B takes 27 minutes more to fill the cistern than two fill pipes A and B opened 
+together to fill it. When will the cistern be full if both the pipes are opened simultaneously? 
+पाइप A द्वारा  टैंक भरने  में पाइप A और B द्वारा एक साथ भरने  की तुलना में 21
+𝟏
+𝟑 ममनट अधधक लगते हैं दुसरे  पाइप B को 
+टैंक भरने  में पाइप A और B द्वारा एक साथ भरने  की तुलना में 27 ममनट अधधक लगते हैं हैं। यदद दोनों पाइपों को एक साथ 
+खोला जाता है तो  कब भरी जाएगी? 
+a) 18 min 
+ 
+b) 24 min 
+ 
+c) 32 min 
+ 
+d) 27 min 
+83. Pipe A and B together can fill empty tank in x minutes. A alone takes (8+x) minutes to fill the tank 
+and B alone takes (32+x) minutes to fill the tank. A and B together fill the tank for 10 minutes, C 
+alone fills the remaining part of the tank in 4
+𝟏
+𝟐 minutes. A, B, C together can fill 7/20th part of the 
+tank in? 
+पाइप A और B ममलकर खाली टैंक को x ममनट में भर सकते हैं। A अकेले टैंक को भरने में (8+x) ममनट लेता है और B अकेले टैंक को 
+भरने में (32+x) ममनट लेता है। A और B ममलकर टैंक को 10 ममनट के मलए भरते हैं, C अकेला टैंक के शेष भाग को 4
+𝟏
+𝟐 ममनट में भरता 
+है। A, B, C ममलकर टैंक के 7/20वें दहस्से को ककतने में भर सकते हैं? 
+A) 𝟐
+𝟐
+𝟓 minutes                      C) 3
+𝟏
+𝟐 minutes 
+B) 𝟐
+𝟒
+𝟓 minutes                      D) 3
+𝟏
+𝟒 minutes 
+84. A swimming pool is fitted with 3 pipes, the 1st two pipes working simultaneously fill the pool in the 
+same time as the 3rd pipe alone, the 2nd pipe alone fills the pool 7 hrs. faster than the 1st pipe & 9 
+hrs. slower than 3rd pipe. In what time 2nd and 3rd pipe together fill the pool. 
+एक जस्वममंग पुल में 3 पाइप लगाया जाता है, जजतने समय में पहले दो पाइप जस्वममंग पुल को भर सकता है उतने समय में  
+तीसरा पाइप जस्वममंग पुल को भर देता है| दूसरा पाइप जस्वममंग पुल को पहले पाइप की अपेक्षा 7 घंटे तेजी से भरता है जबफक 
+तीसरे पाइप की अपेक्षा 9 घंटे धीमे भरता है तो फकतने समय में दूसरा और तीसरा पाइप ममलकर जस्वममंग पुल को भर देंगे| 
+a) 48/7 hrs. b) 36/5 hrs.  
+c) 84/11 hrs. 
+d) 48/5 hrs. 
+85. There are three taps of diameter 2 cm, 3cm and 4 cm respectively. The ratio of the water flowing 
+through them is equal to the ratio of the square of their diameters. The largest tap alone can fill an 
+empty tank in 81 minutes. If all the drains are opened simultaneously, then how much time (in 
+minutes) will it take to fill the tank? 
+क्रमशः 2 cm, 3cm और 4 cm ब्यास के तीन नल है।  उनके माध्यम से प्रवादहत जल का अनुपात उनके ब्यास के वगय के 
+अनुपात के बराबर है।  सबसे बड़ा नल अकेले एक खली टंकी को 81 ममनट में भर सकता है।  यदद सभी नालो को एक साथ खोल 
+ददया जाये, तो टंकी को भरने में फकतना समय (ममनट में) लगेगा?  (SSC CGL MAINS 2022) 
+ 
+                                                   BY Gagan Pratap 
+A) 34
+𝟐𝟎
+𝟐𝟗 
+B) 54
+𝟐𝟎
+𝟐𝟗 
+C) 64
+𝟐𝟎
+𝟐𝟗 
+D) 44
+𝟐𝟎
+𝟐𝟗 
+86. A tank is fitted with pipes, some filling it and the rest draining it. All filling pipes fill at the same 
+rate, and all draining pipes drain at the same rate. The empty tank gets completely filled in 6 hours 
+when 6 filling and 5 draining pipes are on, but this time becomes 60 hours when 5 filling and 6 
+draining pipes are on. In how many hours will the empty tank get completely filled when one draining 
+and two filling pipes are on? 
+एक टैंक को पाइप से लगाया जाता है, कुि इसे भरते हैं और बाकी इसे छनकालते हैं। सभी भरने वाले पाइप एक ही दर से भरते 
+हैं, और सभी पाइवपंग पाइप एक ही दर से छनकलते हैं। खाली टंकी 6 घंटे में पूरी तरह से भर जाती है जब 6 फिमलंग और 5 ड्रेछनंग 
+पाइप चालू होते हैं, लेफकन यह समय 60 घंटे का हो जाता है जब 5 फिमलंग और 6 ड्रेछनंग पाइप चालू होते हैं। एक खाली होने और 
+दो भरने वाले पाइप चालू होने पर फकतने घंटे में खाली टैंक पूरी तरह भर जायेगा ? 
+a) 7.5hr     b) 10hr      c) 12hr     d) 15hr 
+87. An inlet pipe can fill an empty tank in 140 hours while an outlet pipe drains a completely-filled 
+tank in 63 hours. If 8 inlet pipes and y outlet pipes are opened simultaneously, when the tank is 
+empty, then the tank gets completely filled in 105 hours. Find the value of y? 
+एक इनलेट पाइप एक खाली टैंक को 140 घंटे में भर सकता है जबफक एक आउटलेट पाइप एक पूरी तरह से भरे टैंक को 63 घंटे 
+में खाली कर सकता है। यदद टैंक खाली होने पर 8 इनलेट पाइप और y आउटलेट पाइप एक साथ खोले जाते हैं, तो टैंक 105 घंटे 
+में पूरी तरह भर जाता है। y का मान ज्ञात कीजजये?  
+(SSC CGL  PRE 2023) 
+A) 1 
+B) 4 
+C) 2 
+D) 3 
+88. 28 pipes are connected to a tank. Some of them pour water into the tank, whereas the rest drain water out of it. 
+Each of the pipes that ﬁll water can ﬁll the empty tank in 14 hours, whereas any of the drainpipes can empty the 
+ﬁlled tank in 35 hours, If all the pipes are opened simultaneously when the tank is empty and the tank is ﬁlled in 
+2.5 hours, how many of pipes were drain pipes ? 
+28 पाइप एक टैंक से जुडे हैं। उनमें से कुि टैंक में पानी डालते हैं, जबमक बाकी उसमें से पानी मनकाल देते हैं। पानी भरने वाला प्रत्येक 
+पाइप 14 घंटे में खाली टैंक को भर सकता है, जबमक कोई भी मनकासी 35 घंटे में भरे हुए टैंक को खाली कर सकता है, यमद टैंक खाली 
+होने पर सभी पाइप एक साथ खोले जाते हैं और टैंक 2.5 घंटे में भर जाता है , मकतने पाइप मनकासी के पाइप थे ? 
+NTPC CBT - I  19/03/2021 (Morning) 
+(a) 16 
+(b) 18 
+ 
+(c) 17 
+(d) 15  
+89. There are 17 taps connected to tank some are inlets and others are outlets. Each inlet can fill cistern 
+in 24 minutes where each outlet can empty in 30 minutes. If all taps are opened together, a full will 
+be emptied in 24 minutes. Find difference between number of inlet and outlet taps. 
+एक टैंक से 17 नल जुड़े हैं जजनमे कुि इनलेट्स नल हैं और अन्य आउटलेट नल  हैं। प्रत्येक इनलेट 24 ममनट में टैंक भर सकता 
+है जहााँ प्रत्येक आउटलेट 30 ममनट में टैंक खाली कर सकता है। यदद सभी नल एक साथ खोले जाते हैं, तो 24 ममनट में एक भरा 
+हुआ टैंक पूरा खाली हो जायेगा ,इनलेट और आउटलेट नलों  की संख्या के बीच अंतर ज्ञात करें। 
+a) 4 
+         b) 5              c) 2             d) 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                   BY Gagan Pratap 
+ 
+90. A tank has n pipes attached to it, out of which 2 are outlet pipes and the rest are inlet pipes. Each 
+inlet pipe can fill a tank in 10 hours and each outlet pipe can empty the full tank in 15 hours. 
+When all the pipes are opened together, then 91
+𝟐
+𝟑% part of the tank is filled in 2
+𝟏
+𝟐 hours. What is the 
+value of n is? 
+एक टैंक में n पाइप लगे हैं, जजनमें से 2 आउटलेट पाइप हैं और बाकी इनलेट पाइप हैं। प्रत्येक इनलेट पाइप एक टैंक को 10 घंटे में भर 
+सकता है और प्रत्येक आउटलेट पाइप पूरे टैंक को 15 घंटे में खाली कर सकता है। जब सभी पाइपों को एक साथ खोल ददया जाता है, तो 
+टैंक का 91
+𝟐
+𝟑% दहस्सा 2.5 घंटे में भर जाता है। n का मान क्या है? 
+A) 9                                   C) 7 
+B) 8                                   D) 6 
+ 
+91. Two taps can fill a tank in 20 min and 30 min respectively. There is an outlet tap at exactly half level 
+of that rectangular tank which can pump out 100 L of water per minute. If the outlet tap is open, 
+then it takes 24 min to fill an empty tank. What is the volume of the tank? 
+दो नल क्रमशः 20 ममनट और 30 ममनट में एक टैंक भर सकते हैं।एक  आयताकार टैंक के ठीक आधे स्तर पर एक छनकास  नल 
+है जो प्रछत ममनट 100 लीटर  पानी बाहर छनकाल सकता है। यदद छनकास  नल खुला है, तो एक खाली टैंक को भरने में 24 ममनट 
+लगते हैं। टैंक का आयतन क्या है? 
+a) 1800 L 
+ 
+b) 1500 L 
+ 
+c) 1200 L   
+d) 2400 L 
+ 

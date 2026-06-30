@@ -1,0 +1,1037 @@
+ 
+                                                      BY Gagan Pratap 
+ 
+1. 135 kg of an alloy A is mixed with 72 kg of alloy B to get a new alloy. If alloy A has zinc and copper 
+in the ratio 4:5 and alloy B has zinc and copper in ratio 7:5, then what is the weight of zinc in the 
+new alloy? 
+135 kg  मिश्रधातु  A  को 72 kg मिश्रधातु B के साथ मिलाने पर एक नई मिश्रधातु प्राप्त होती है। यदि मिश्रधातु  A  िें ज िंक और 
+कॉपर का अनुपात 4 : 5 है और मिश्रधातु  B िें ज िंक और कॉपर का अनुपात 7 : 5 है, तो नई मिश्रधातु िें ज िंक का भार ककतना है? 
+(a) 102 kg  
+ 
+(b) 85 kg 
+ 
+ 
+(c) 115 kg 
+ 
+(d)92 kg  
+2. In two alloys, the ratio of Aluminium to Zinc are 5 : 6 and 3 : 5. If 242 kg of the first alloy and 144 
+kg of the second alloy are mixed, then the ratio of Aluminium and Zinc in the new alloy will be: 
+nks feJ /kkrqvksa esa] ,Y;qfefu;e vkSj fta+d dk vuqikr 5 : 6 vkSj 3 : 5 gSA ;fn igyh feJ/kkrq ds 242 kg vkSj nwljh feJ/kkrq ds 144 kg dks 
+vkil esa feyk;k tk,] rks ubZ feJ/kkrq esa ,Y;qfefu;e vkSj fta+d dk vuqikr D;k gS\ 
+(a) 93 : 100 
+(b) 82 : 111 
+(c) 68 : 125 
+(d) 76 : 117 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+3. Alloy X contains 70% copper and 30% zinc. Alloy Y contains 40% copper, 25% zinc and 35% 
+aluminum. Alloy X and Y are mixed in the ratio of 1: 3. What is the ratio of copper and zinc in the 
+newly formed alloy? 
+मिश्र धातु  X  िें  70% तािंबा और 30%  स्ता है। मिश्रधातु  Y  िें  40%  तािंबा, 25%  स्ता और 35% एल्यूिीननयि है। मिश्रधातु  
+X  और Y को1 : 3 के अनुपात िें मिलाया  ाता है। नई बनी मिश्र धातु िें तािंबे और  स्ते का अनुपात क्याहै? 
+(a) 19 : 33 
+ 
+(b) 38 : 21 
+ 
+ 
+(c) 19 : 21 
+ 
+(d) 11 : 32 
+4. Two different quantities of the same solution having ingredients A and B are stored in two different 
+containers. In the first container, there are 252 litre of A and 441 litre of B. In the second 
+container, the total quantity of the solution was 1188 litre. How much of the solution in the second 
+container was made up of ingredient B?  
+A और B अवयवों वाले एक ही घोल की दो अलग-अलग मात्राएँ दो अलग-अलग कंटेनरों में संग्रहहत की जाती हैं। पहले कंटेनर में, 
+252 लीटर A और 441 लीटर B हैं। दूसरे कंटेनर में, घोल की कुल मात्रा 1188 लीटर थी। दूसरे कंटेनर में ककतना घोल घटक B 
+से बना था? (SSC CGL 2024 Pre) 
+A) 765 litre  
+B) 756 litre  
+C) 752 litre  
+D) 760 litre 
+5. An alloy is prepared by mixing three metals A, B and C in the proportion 3 : 4 : 7 by volume. Weights 
+of the same volume of the metals A,B and C are in the ratio 5 : 2 : 6 . In 130 kg of the alloy , the 
+weight , in kg of the metal C is  
+1 तीन धातुओिं A, B और C को आयतन के अनुसार 3:4:7 के अनुपात िें मिलाकर एक मिश्रधातु तैयार की  ाती है। धातुओिं A,B और 
+C के सिान आयतन के भारों का अनुपात 5:2:6 है। मिश्रधातु के 130 ककग्रा िें, भार, धातु C के ककग्रा िें है 
+ 
+(A) 96 
+ 
+(B) 84 
+ 
+(C) 70 
+ 
+(D) 48 
+6. While making a sugar solution of 3 litres containing 40% sugar for a sweet, one litre of water is 
+added. The percentage of sugar in the new solution is? 
+एक ममठाई के मलए 40% चीनी युक्त 3 लीटर चीनी का घोल बनाते समय एक लीटर पानी ममलाया जाता है। नए घोल में चीनी 
+का प्रततशत है 
+ (a) 33.33 % 
+ 
+ 
+ 
+ (b) 25 %  
+(c) 30 % 
+ 
+ 
+ 
+ (d) 20 %  
+7. A beaker contains acid and water in the ratio 1 : x. When 300 ml of the mixture and 50 ml of water 
+are mixed, the ratio of acid and water becomes 2:5. What is the value of x? 
+,d chdj esa ,flM vkSj ikuh dk vuqikr 1: x gSA tc 300 feyh feJ.k 50 feyh ikuh dks feyk;k tkrk gS rks ,flM vkSj ikuh ds feJ.k dk vuqikr 2 % 5 gks 
+tkrk gSA x dk eku D;k gksxk\ 
+(a) 2 
+ 
+(b) 4 
+ 
+(c) 3 
+ 
+(d) 1 
+ 
+8. A jar contains a blend of a fruit juice and water in the ratio 15 : x. When 4 litre of water is added to 
+16 litres of the blend the ratio of fruit juice to water becomes 1 : 1. What is the value of x? 
+,d tkj esa Qy dk jl vkSj ikuh dk feJ.k j[kk gS ftldk vuqikr 15 : x gSA tc 16 yhVj ds feJ.k eas 4 yhVj ikuh feyk;k tkrk gS rks Qy ds jl vkSj 
+ikuh dk vuqikr 1 % 1 gks tkrk gSa x dk eku D;k gS\     
+     (MAINS 2017) 
+ 
+                                                      BY Gagan Pratap 
+(a) 9 
+ 
+(b) 8 
+ 
+ 
+(c) 6 
+ 
+(d) 10 
+9. A container has 20% milk and 80% water in it. It is mixed with another sample (in equal quantity) 
+having 80% milk and 20% water. What would be the milk content in the final mixture? 
+,d daVsuj esa 20% nw/k vkSj 80% ikuh gSA bls ,d vU; uewus ¼leku ek=k esa½ ds lkFk feyk;k tkrk gS ftlesa 80% nw/k vkSj 20% ikuh gSA vafre feJ.k 
+esa nw/k dk va'k D;k gksxk\ 
+(a) 50% 
+(b)80% 
+(c) 60% 
+(d) 100% 
+10. Three bottles of the same capacity are 30%, 40% and 25% full of orange juice, respectively. They are 
+filled up completely by adding apple juice. The contents of the three bottles are emptied into another 
+vessel. What is the percentage of apple juice in the mixture? 
+leku /kkfjrk dh rhu cksrysa Øe'k% 30%, 40% vkSj 25% larjs ds twl ls Hkjh gqbZ gSA lsc dk twl feykdj cksryksa dks iwjh rjg Hkj fn;k x;kA rhuksa cksryksa 
+dh lkefxz;ksa dks ,d vU; ik= esa mM+sy fn;k x;kA bl feJ.k esa lsc ds twl dk çfr'kr Kkr djsaA 
+(a) 
+72% 
+(b) 
+65% 
+(c) 
+51
+𝟐
+𝟑% 
+(d) 
+68
+𝟏
+𝟑% 
+11. A milkman has 2 types of milk. In the first container the % of milk is 80% and in the 2nd container 
+the % of milk is 60%. If he mixes 28L of milk of the 1st container to the 32L of milk of the 2nd 
+container, then the % of milk in the mixture is: 
+एक दूधिया के पास दो प्रकार के दूि है। पहले बततन में 80% दूि है और दूसरे बततन में 60% दूि है। यहद वह पहले बततन में से 
+28 ली दूि और दूसरे बततन में से 32 ली दूि तनकालकर एक ममश्रण बनाता है तो ममश्रण में दूि की प्रततषत मात्रा ज्ञात कीजजये। 
+a)  69.33% 
+ b) 70.14%    
+c) 67.21%    d) 63.78% 
+12. Pomegranate juice contains 10% sugar solution and orange juice contains 30% sugar solution. What 
+is the percentage of sugar solution in a mixture of two litres of pomegranate juice and three litres 
+of orange juice? 
+अनार के रस में 10% चीनी का घोल होता है और संतरे के रस में 30% चीनी का घोल होता है। दो लीटर अनार के रस और 
+तीन लीटर संतरे के रस के ममश्रण में चीनी के घोल का प्रततशत ककतना है? (SSC CHSL 2024) 
+A) 22% 
+B) 25% 
+C) 20% 
+D) 40% 
+13. Ramu mixes 2 liters of water at 100°𝑪 and 18 liters of water at 32°𝑪. What temperature will the 
+water have after mixing? 
+रामू 100°C पर 2 लीटर पानी और 32°C पर 18 लीटर पानी ममलाता है। ममश्रण के बाद पानी का तापमान क्या होगा? 
+(SSC CHSL 2024) 
+A) 66°𝑪 
+B) 20°𝑪 
+C) 38.8°𝑪 
+D) 40°𝑪 
+14. Three milk bottles of 1 litre, 750 millilitres and 650 millilitres with milk percentage respectively 
+45%, 50% and 60% are emptied in a same container simultaneously . What is the percentage of milk 
+in the mixture? 
+ 
+                                                      BY Gagan Pratap 
+1 yhVj] 750 feyhyhVj vkSj 650 feyhyhVj dh nw/k dh rhu cksrys gSa ftuesa nw/k dk çfr'kr Øe'k% 45%, 50% vkSj 60% gS] dks leku ik= esa ,d lkFk 
+[kkyh fd;k tkrk gSA feJ.k esa nw/k dk izfr'kr fdruk gksxk\ 
+(a) 
+50.625% 
+(b) 
+52.625% 
+(c) 
+56.225% 
+(d) 
+55.625% 
+15. Solution A contains liquids X, Y and Z in the ratio 2 : 3 : 4; solution B contains liquids X and Y in 
+the ratio 5 : 7, while solution C contains liquids Y and Z in the ratio 5 : 4. Three litres of A, 2 litres 
+of B and 5 litres of C are mixed to form a new solution. What is the percentage of liquid Y in the 
+new solution? (Correct to one decimal place) 
+विलयन A िें द्रि X, Y और Z का अनुपात 2:3:4 है; घोल B िें तरल पिाथथ X और Y 5: 7 के अनुपात िें हैं,  बकक घोल C िें तरल 
+पिाथथ Y और Z 5 : 4 के अनुपात िें हैं। 3 लीटर A, 2 लीटर B और 5 लीटर C को मिलाकर एक नया घोल बनाया  ाता है। . नए 
+विलयन िें द्रि Y का प्रनतशत ककतना है? (एक िशिलि स्थान पर सही) (ICAR Assistant 2022) 
+A) 45.2%  
+B) 49.4%  
+C)  48.5% 
+D)  46.8% 
+16. A vessel contains a 32litre solution of acid and water in which the ratio of acid and water is 5:3. If 
+12litres of the solution are taken out and 7
+𝟏
+𝟐 litres of water are added to it, then what is the ratio of 
+acid and water in the resulting solution?  
+      (MAINS 2018) 
+,d crZu esa vEy vkSj ty dk 32 yhVj ?kksy gS] ftlesa vEy vkSj ty dk vuqikr 5 % 3 gSA tc crZu esa ls 12 yhVj ?kksy fudky fy;k tkrk gS vkSj crZu esa 
+7
+𝟏
+𝟐 yhVj ty feyk fn;k tkrk gS] rks izkIr ?kksy esa vEy vkSj ty dk vuqikr D;k gksxk\         
+(a) 4 : 7 
+ 
+(b) 8 : 11 
+(c) 4 : 9 
+ 
+(d) 5 : 6 
+17. A milkman has a 15 litres drum with 9 litres milk. He filled the drum with water and now takes out 
+𝟏
+𝟐 litre of the mixture. What ist he quantity of milk (in millilitres) in the mixture taken out? 
+,d nw/kokys ds ikl 15 yhVj dk Mªe gS ftleas 9 yhVj nw/k gSA mlus Mªe dks ikuh ls Hkj fn;k vkSj vc feJ.k dk 
+𝟏
+𝟐 yhVj fudky fy;kA fudkys 
+x, feJ.k esa nw/k dh ek=k ¼feyhyhVj esa½ fdruh gS\ 
+(a) 250          (b) 333         (c) 300         (d) 266 
+18. Three boxes of capacity 208 kg, 312 kg and 832 kg are completely filled with three varieties of 
+wheat A1, B1 and C1 respectively. All the three boxes were emptied and the three types of wheat 
+were thoroughly mixed and the mixture was put back in the boxes. How many kg of type A1 
+wheat would be there in the third box? 
+208 ककलोग्राम, 312 ककलोग्राम और 832 ककलोग्राम क्षमता वाले तीन बक्से क्रमशः गेहूं की तीन ककस्मों A1, B1 और C1 से 
+पूरी तरह भरे हुए हैं। तीनों बक्सों को खाली कर हदया गया और तीनों प्रकार के गेहूं को अच्छी तरह ममलाया गया और ममश्रण 
+को वापस बक्सों में डाल हदया गया। तीसरे डडब्बे में ककतने ककलो A1 प्रकार का गेहूं होगा? 
+A) 124 kg 
+B) 112 kg 
+C) 104 kg 
+D) 128 kg 
+19. The concentration of three acids, P, Q and R, is given as 15%, 25% and 35%, respectively. They 
+are mixed in the ratio of x : 3: 5, resulting in a 28% concentration solution. What is the value of 
+x? 
+तीन अम्लों, P, Q और R की साांद्रता क्रमशः 15%, 25% और 35% दी गई है। उन्हें x : 3: 5 के अनुपात में ममलाया जाता है, 
+जजसके पररणामस्वरूप 28% साांद्रता वाला घोल बनता है। x का मूल्य क्या है? (DP CONSTABLE 2023) 
+ 
+A) 2 
+B) 1 
+C) 4 
+D) 3 
+ 
+                                                      BY Gagan Pratap 
+20. Two containers of equal capacity are full of mixture of milk and water. In the first, the ratio of 
+milk to water is 3 : 7 and in the second it is 7 : 9. Now both the mixtures are mixed in a bigger 
+container. What is the resulting ratio of milk to water? 
+समान क्षमता के दो कांटेनर दूध और पानी के ममश्रण से भरे हुए हैं। पहले में दूध और पानी का अनुपात 3:7 है और दूसरे में 7:9 
+है. अब दोनों ममश्रण को एक बडे कांटेनर में ममला ददया जाता है. दूध और पानी का पररणामी अनुपात क्या है? 
+(SSC SELECTION POST XII MATRICULATION LEVEL) 
+A) 59:101 
+B) 57:107 
+C) 61:97 
+D) 58:103 
+21. One cup has juice and water in the ratio 5 : 2, while another cup of the same capacity has them in 
+the ratio 7: 4, respectively. If contents of both the cups (when full) are poured in a vessel, then 
+what will be the final ratio of water to juice in the vessel? 
+एक कप में, रस और पानी का अनुपात 5 : 2 है, जबकक उसी िाररता के दूसरे कप में उनका अनुपात क्रमशः 
+7 : 4 है। यहद दोनों कपों की सामग्री (जब कप पूणतः भरी हों) एक बततन में डाल दी जाती है, तो बततन में पानी का रस से अंततम 
+अनुपात क्या होगा? 
+(a) 52:25 
+ 
+(b)25:26 
+ 
+(c)26:25  
+ 
+(d)25:52 
+22. An alloy contains the metals A, B and C in the ratio 2 : 3 : 1 and another contains the metals B, C 
+and D in the ratio 5 : 4 : 3. If equal weights of both alloys are mixed together to form a third alloy, 
+then how much part of the metal B is in new alloy?  
+ 
+एक ममश्र िातु में िातु A, B और C का अनुपात 2 : 3 : 1 है और दूसरी ममश्रिातु में िातु B, C और D का अनुपात 5 : 4 : 3 है। 
+यहद दोनों ममश्र िातुओं के बराबर वनज को एक साथ ममलाकर एक तीसरी ममश्रिातु बनाई जाती है, तो नई ममश्रिातु में िातु में 
+B का ककतना भाग होगा? 
+ 
+SSC CPO Pre 2024 
+ 
+[A]1/8 
+ 
+[B] 1/6 
+ 
+ 
+[C]3/24 
+ 
+[D] 11/24 
+23. The ratios of copper to zinc in alloys A and B are 3 : 4 and 5 : 9, respectively. A and B are taken in 
+the ratio 2 : 3 and melted to form a new alloy C. What is the ratio of copper to zinc in C? 
+मिश्र धातु A और B िें ताांबे और जस्ता के अनुपात क्रिशः 3: 4 और 5: 9 हैं। A और B को 2: 3 के अनुपात िें मिया जाता है और एक नए 
+मिश्रधातु C को बनाने के मिए मपघिाया जाता है। C िें ताांबे और जस्ता का अनुपात क्या है?         (MAINS 2018) 
+(a) 27 : 43 
+           (b) 8 : 13 
+(c) 3 : 5 
+ 
+(d) 9 : 11 
+24. Alloy A contains copper and zinc in the ratio of 5:2 and alloy B contains copper and zinc in the ratio 
+of 1:3. A and B are taken in the ratio of 9:8 and melted to form a new alloy. The percentage of zinc 
+in the new alloy is closest to: 
+ 
+      (MAINS 2018) 
+मिश्र धातु A िें 5: 2 के अनुपात िें ताांबा और जस्ता है और मिश्र धातु B िें 1: 3 के अनुपात िें ताांबा और जस्ता है। A और B को 9: 8 के अनुपात िें मिया जाता 
+है और एक नया मिश्र धातु बनाया जाता है। नए मिश्र धातु िें जस्ता का प्रमतशत है: 
+(a) 46.9 
+ 
+(b) 53.86 
+(c) 48.73 
+ 
+(d) 50.42 
+25.  Alloy A contain metals x and y in the ratio 5 : 2 and alloy B contains these metals in the ratio 3 : 4. 
+Alloy C is prepared by mixing A and B in the ratio 4 : 5.The percentage of y in alloy C is: 
+feJ /kkrq A eas] /kkrq x vkSj y dk vuqikr 5 : 2 gS vkSj feJ /kkrq B eas] /kkrq x vkSj y dk vuqikr 3 : 4 gSA A vkSj B dks 4 : 5 vuqikr eas feykdj feJ /kkrq C 
+rS;kj dh tkrh gSA feJ /kkrq C eas y dk çfr'kr Kkr djsaA 
+(a) 
+44 
+𝟒
+𝟗% 
+(b) 
+33
+𝟒
+𝟗% 
+(c) 
+66
+𝟒
+𝟗% 
+(d) 
+55
+𝟓
+𝟗% 
+ 
+                                                      BY Gagan Pratap 
+26. Two jars A and B are containing the solution of two liquids P and Q. The ratio of the liquids P and Q 
+in the jars A and B are 2:19 and 1:11, respectively. If 7 liters of the solution of jar A and 4 liters of 
+the solution of jar B are mixed, what is the ratio of the solutions P and Q in the new mixture? 
+दो जार A और B में दो तरल पदाथत P और Q का घोल है। जार A और B में तरल पदाथत P और Q का अनुपात क्रमशः 2:19 
+और 1:11 है। यहद जार A के 7 लीटर घोल और जार B के 4 लीटर घोल को ममलाया जाए, तो नए ममश्रण में घोल P और Q का 
+अनुपात क्या है? (CHSL 2023 PRE) 
+A) 10:1 
+B) 1:9 
+C) 9:1 
+D) 1:10 
+27. Ratio of Copper and Gold in first and second alloy are 3 : 4 and 2 : 5 respectively. 26 kg of the first 
+alloy is mixed with 39 kg of the second alloy. Find the ratio of Copper and Gold, respectively, in the 
+new mixture. 
+igyh rFkk nwljh feJ/kkrq esa] rkacs vkSj lksus dk vuqikr] Øe'k% 3 : 4 vkSj 2 : 5 gSA igyh feJ /kkrq ds 26 kg dks nwljh feJ/kkrq ds 39 kg ds lkFk feyk;k 
+tkrk gS rks u, feJ.k esa Øe'k% rkacs vkSj lksus dk vuqikr Kkr dhft,A 
+(a) 
+23 : 12 
+(b) 
+17 : 13 
+(c) 
+5 : 9 
+(d) 
+12 : 23 
+28. The ratios of alcohol and water in solutions A and B are 7 : 8 and 3 : 2, respectively. If 9 litres of A 
+is mixed with 6 litres of B and then 1 litre of alcohol and 2 litres of water are added to the resulting 
+mixture, what is the percentage of alcohol in the final mixture so obtained (correct to one decimal 
+place)? 
+ववलयन A और B में अल्कोहल और पानी का अनुपात क्रमशः 7:8 और 3:2 है। यहद 9 लीटर A को 6 लीटर B के साथ ममलाया 
+जाता है और किर पररणामी ममश्रण में 1 लीटर अल्कोहल और 2 लीटर पानी ममलाया जाता है, तो प्राप्त अंततम ममश्रण में अल्कोहल 
+का प्रततशत क्या है (एक दशमलव स्थान तक सही)? 
+A) 46.7% 
+B) 47.8% 
+C) 47.4% 
+D) 48.9% 
+29. The ratio of acid and water in solution A is 5:4 and 7:11 in solution B. 10 liters of A is mixed with 8 
+liters of B. In 324 ml of the resulting solution, how much water (in ml) should be added to get a 
+solution containing 33
+𝟏
+𝟑% acid? 
+घोल A िें अम्ल और पानी का अनुपात 5:4 और घोल B िें 7:11 है। 10 लीटर A को 8 लीटर B िें मिलाया  ाता है। पररणािी घोल के 
+324 मिली िें 33
+𝟏
+𝟑% एमसड युक्त घोल प्राप्त करने के मलए ककतना पानी (मिली िें) मिलाया  ाना चादहए? (ICAR Assistant 2022) 
+A) 145 
+B) 148 
+C) 144 
+D) 162 
+30. The ratio of alcohol and water in solutions A and B is 3:5 and 5:7, respectively. Two liters of A is 
+mixed with 5 liters of B and 3 liters of alcohol is also added to it to get a new solution C, how much 
+alcohol in 1.5L of solution C (in ml) should be mixed so that the ratio of alcohol and water in the 
+final solution becomes 2:1? 
+ववलयन  A और B में अल्कोहल और पानी का अनुपात क्रमशः 3:5 और 5:7 है। दो लीटर A को 5 लीटर B के साथ ममलाया 
+जाता है और एक नया घोल C प्राप्त करने के मलए इसमें 3 लीटर अल्कोहल भी ममलाया जाता है, C के 1.5L में  ककतना 
+अल्कोहल (ममलीलीटर में) ममलाया जाना चाहहए ताकक अंततम घोल में अल्कोहल और पानी का अनुपात हो 2:1 हो जाता है? 
+ ( IB ACIO 2023) 
+A) 405 
+B) 385 
+ 
+                                                      BY Gagan Pratap 
+C) 395 
+D) 375 
+31. Three bottles of equal capacity have mixture of milk and water in ratio 5 : 7, 7 : 9 and 2 : 1 
+respectively. These three bottles are emptied into a large bottle. What is the percentage of milk in 
+the new mixture? 
+rhu leku {kerk dh cksryksa eas nwèk rFkk ikuh ds feJ.k dk vuqikr Øe”k% 5 : 7, 7 : 9 rFkk  2 : 1 gSA bu rhu cksryksa dks ,d cM+h cksry 
+esa [kkyh dj fn;k tkrk gSA u;s feJ.k esa nwèk dk çfr”kr fdruk gS\  
+ 
+ 
+ (CGL 2017) 
+(a) 49.6 
+ 
+(b) 52.3 
+ 
+(c) 51.2 
+ 
+(d) 50.7 
+32. Three containers A, B and C are having mixture of milk and water in the ratio 1:3, 2:3 and 2:5 
+respectively. If the capacities of the containers are in the ratio 2:3:5, find the ratio of milk to water, 
+if the mixture of all 3 containers are mixed together. 
+तीन बततनो A, B और C में दूि और पानी का अनुपात क्रमशः 1:3, 2:3 और 2:5 है तथा इन् बततनो के आयतनों के अनुपात 
+2:3:5 है। यहद इन तीनो बततनो क ममश्रण को ममलाया जाये तो नए ममश्रण में दूि और पानी के अनुपात क्या होगा? 
+a) 143:296  
+ 
+b) 438:962  
+c) 348:962  
+ 
+d) 481:219 
+33. The capacities of three containers P, Q and R are in the proportion of 5 : 4 : 8. They are completely 
+filled with a mixture of milk and water in the proportions of 1 : 4, 2 : 3 and 3 : 5, respectively. If the 
+mixtures of all the three containers are mixed together, then what will be the proportion of milk to 
+water in the final mixture?  
+P, Q vkSj R rhu daVsujksa dh {kerkvksa dk vuqikr 5 : 4 : 8 gSA os Øe'k% 1 : 4, 2 : 3 vkSj 3 : 5 vuqikr okys nw/k vkSj ikuh ds feJ.k ls iw.kZr% 
+Hkjs gq, gSaA ;fn rhuksa daVsuj ds feJ.kksa dks ,d lkFk fefJr fd;k tkrk gS] rks vafre feJ.k eas nw/k vkSj ikuh dk vuqikr Kkr djsaA 
+(a) 1 : 2 
+(b) 16 : 81 
+(c) 25 : 64 
+(d) 28 : 57       MTS 2020 
+34. There are two drums, each containing a mixture of paints A and B. In drum 1, A and B are in the ratio 
+18 : 7. The mixtures from drums 1 and 2 are mixed in the ratio 3 : 4 and in this final mixture, A and 
+B are in the ratio 13 : 7. In drum 2, then A and B were in the ratio:  
+दो ड्रम हैं, जजनमें से प्रत्येक में पेंट A और B का ममश्रण है। ड्रम 1 में, A और B का अनुपात 18: 7 है। ड्रम 1 और 2 से 
+ममश्रण 3:4 के अनुपात में ममलाया जाता है और इस अंततम ममश्रण में, A और B 13:7 के अनुपात में हैं। किर ड्रम 2 में, A 
+और B का अनुपात क्या था? 
+(a) 229 : 141  
+ 
+(b) 220 : 149  
+(c) 239 : 161  
+ 
+(d) 251 : 163 
+35. A mango juice is made by mixing water and mango concentrate in the ratio 9 : 7. If x litres of water 
+and 3x litres of mango concentrate is mixed in 160 litres of mango juice, then the new ratio 
+becomes 13 : 14. What is the quantity of the new mango juice (in litres)?  
+एक आम का रस पानी और आम के सांद्रण को 9:7 के अनुपात में ममलाकर बनाया जाता है। यहद 160 लीटर आम के रस में x 
+लीटर पानी और 3x लीटर आम के सांद्रण को ममलाया जाता है, तो नया अनुपात 13:14 हो जाता है। नये आम के रस की मात्रा 
+(लीटर में) क्या है? 
+ 
+(SSC CGL 2024 Pre) 
+A) 197  
+B) 212  
+C) 206  
+D) 216 
+36. In some quantity of water, four times the quantity of milk is added and the quantity of the mixture 
+is now 7.5 litres. How much more milk is to be added to the mixture to have 90% milk in the mixture? 
+ikuh dh dqN ek=k esa] bl ek=k ls pkj xquk nw/k dh ek=k feykbZ tkrh gS vkSj vc feJ.k dh ek=k 7-5 yhVj gks tkrh gSA feJ.k esa 90% nw/k gksus ds fy, feJ.k 
+esa fdruk vkSj nw/k feyk;k tkuk pkfg,\ (SSC MTS 2023) 
+ 
+(a) 9 liters 
+(b) 9.5 liters 
+ (c) 6 liters 
+(d) 7.5 liters 
+37. 200 liters of a mixture contains milk and water in the ratio 17 : 3. After the addition of some more 
+milk to it, the ratio of milk to water in the resulting mixture  becomes 7 : 1. The quantity of milk 
+added to it was? 
+ 
+                                                      BY Gagan Pratap 
+200 लीटर ममश्रण में दूि और पानी का अनुपात 17:3 है। दूि की कुछ मात्रा ममलने पर दूि और पानी का अनुपात 7:1 हो जाता 
+है। तो ज्ञात कीजजये ककतना दूि ममलाया गया है?  
+a) 20 liters 
+ 
+b) 40 liters  
+c) 60 liters 
+ 
+d) 80 liters 
+38. In a mixture of 178 liters, the ratio of water and milk is 5:7. How much water should be added to 
+make the ratio of water and milk 3:4? 
+178 लीटर के ममश्रण में पानी और दूि का अनुपात 5:7 है। पानी और दूि का अनुपात 3:4 करने के मलए ककतना पानी ममलाना 
+चाहहए?   
+(CHSL 2023 PRE) 
+A) 3
+𝟏𝟕
+𝟐𝟒 𝒍𝒊𝒕𝒆𝒓𝒔 
+B) 3
+𝟏𝟑
+𝟐𝟒𝒍𝒊𝒕𝒆𝒓𝒔 
+C) 2
+𝟏𝟏
+𝟐𝟒𝒍𝒊𝒕𝒆𝒓𝒔 
+D) 2
+𝟐𝟑
+𝟐𝟒𝒍𝒊𝒕𝒆𝒓𝒔 
+39. Ravi has 1458 litres of a mixture of milk and water. The ratio of milk to water in this mixture is 8 : 
+1. How much water (in litres) should Ravi add into the mixture so that the ratio of milk and water 
+becomes 6 : 5? 
+रवव के पास दूि और पानी का ममश्रण 1458 लीटर है। इस ममश्रण में दूि और पानी का अनुपात 8:1 है। रवव को ममश्रण में 
+ककतना पानी (लीटर में) ममलाना चाहहए ताकक दूि और पानी का अनुपात 6:5 हो जाए? 
+(RRB RPF SI 2024) 
+ A) 918  
+ B) 909  
+ C) 927  
+ D) 900 
+40. In 65 litres of a mixture of kerosene and petrol, the ratio of kerosene to petrol is 3 : 2. In order to 
+make this ratio 4 : 5, how many litres of petrol should be added to the given mixture? 
+feV~Vh ds rsy vkSj isVªksy ls cus 65 yhVj feJ.k esa] feV~Vh ds rsy vkSj isVªksy dk vuqikr 3 : 2 gSA bl vuqikr dks 4 : 5 djus ds fy,] fn, x, feJ.k esa 
+fdrus yhVj isVªksy feykuk pkfg,\ 
+(a) 
+29.25 
+(b) 
+24.5 
+(c) 
+23.25 
+(d) 
+22.75 
+41. The ratio of milk and water in a vessel is 4:7. If 25ltr water is added then ratio becomes 6:13. Find 
+the initial quantity of mixture (in ltr)?  
+एक बततन में दूि और पानी का अनुपात 4:7 है। यहद  ममश्रण में 25 लीटर पानी  ममलाया जाता है तो दूि और पानी का अनुपात 
+6:13 हो जाता है। ममश्रण की प्रारंमभक मात्रा (लीटर में) ज्ञात कीजजए? 
+a) 150     
+b) 132   
+c) 165    
+d) 175 
+42. The ratio of milk and water in a vessel is 8:5. If we added 44ltr milk and 44ltr water then quantity of 
+milk becomes 28.56% more than water. Find the initial quantity of water? 
+एक बततन में  दूि और पानी का अनुपात 8 : 5  है। यहद ममश्रण में 44 लीटर दूि और  44 लीटर पानी ममलाया जाये तो ममश्रण 
+में दूि की मात्रा पानी से 28.56% अधिक हो जाती है। ममश्रण में पानी की प्रारंमभक मात्रा ज्ञात करें। 
+a) 48ltr   
+b) 45ltr  
+c) 40ltr   
+d) 60ltr 
+43. Babulal runs a juice corner outside a park and sells giloy juice (giloy + water) in the morning. Initially 
+he had 19 litres juice, which had giloy and water in the ratio 2 : 9. He sold 2
+𝟏
+𝟐 litres juice. Later, in 
+order to dilute it, he added some water and the ratio of giloy and water became 1 : 5. How much 
+water was added? 
+ 
+                                                      BY Gagan Pratap 
+ckcwyky] fdlh ikdZ ds csgrj twl dh nqdku pykrk gS vkSj lqcg eas fxyks; dk twl ¼fxyks;$ikuh½ csprk gSA 'kq: eas mlds ikl 19 yhVj twl Fkk] ftlesa fxyks; 
+vkSj ikuh dk vuqikr 2 : 9 FkkA og 𝟐
+𝟏
+𝟐 yhVj twl csprk gSA ckn eas] bls iryk djus ds fy,] og dqN ek=k eas ikuh feykrk gS vkSj fxyks; vkSj ikuh dk vuqikr 
+1 : 5 gks tkrk gSA fdruk ikuh feyk;k x;k Fkk\ 
+(a) 1
+𝟏
+𝟐 litres 
+(b) 
+𝟏
+𝟐litres 
+(c) 2 litres 
+(d) 1 litres 
+ 
+ 
+ 
+ 
+MTS 2020 
+44. When 1ltr water is added to a mixture of milk and water, the new mixture contains 25% milk when 
+2ltr milk is added to the new mixture, the resultant mixture contains 40% milk. What is the % of 
+milk in the original mixture? 
+यहद ममश्रण में 1 ली पानी ममलाया जाए तो नए ममश्रण में दूि की मात्रा 25% हो जाती है।यहद इस नए ममश्रण में 2 ली दूि 
+ममलाया जाए तो ममश्रण में दूि की मात्रा 40% होगी। प्रारजभभक ममश्रण में दूि की % मात्रा ज्ञात कीजजए। 
+a) 33.33%  
+ 
+b) 50%  
+c) 28.57%  
+ 
+d) 30% 
+45. In an x L solution of alcohol and water, the ratio of alcohol and water is 5:7. If 5 L of alcohol and 11 
+L of water are added to the solution, the percentage of alcohol in the resulting solution becomes 
+40%. What will be the value of x? 
+अलकोहल और पानी के x L  विलयन िें, एलकोहल और पानी का अनुपात 5:7 है।  यदि विलयन िें 5 L एलकोहल और 11  L  पानी 
+और मिला दिया  ाये, तो पररणािी विलयन िें अलकोहल का प्रनतशत 40 % हो  ाता है। x  का िान ककतना होगा?  
+(ICAR Technician 2022) 
+A) 84 
+B) 60 
+C) 96 
+D) 72 
+46. A vessel contains a mixture of acid and water in ratio 13:4. Now 15.5liters of mixture is taken out 
+from the mixture and 1.5litre of pure water and 3liter acid is added to the mixture. If resultant 
+mixture contains 25% water, then what was the initial quantity of mixture in the vessel before the 
+replacement? 
+एक बततन में अभल और पानी के 13:4 अनुपात में है। अब 15.5लीटर द्रव्य ममश्रण से तनकालकर इसमें 1.5लीटर पानी और 3लीटर 
+अभल ममलाया गया। यहद पररणामी ममश्रण में पानी की मात्रा 25% है, तो प्रततस्थापन से पहले की मात्रा क्या थी? 
+a) 34ltr   
+ 
+b) 41ltr  
+c) 51ltr   
+ 
+d) 49.5ltr 
+47. A vessel contains 2.5liters of water and 10liters of milk. 20% of the contents of the vessel are 
+removed. To the remaining contents, x liters of water is added to reverse the ratio of water and milk. 
+Then y liter of milk is added again to reverse the ratio of water and milk. Find y. 
+एक बततन में 2.5लीटर पानी और 10लीटर दूि है। बततन के ममश्रण का 20% हटा हदया जाता है। शेष ममश्रण में, पानी और दूि 
+के अनुपात को उलटने के मलए x लीटर पानी जोडा जाता है। पानी और दूि के अनुपात को किर से उलटने के मलए y लीटर दूि 
+डाला जाता है। y खोजें? 
+a) 100   
+b) 110  
+c) 120   
+d) 130 
+48. A bottle is full of Dettol. One third of it is taken out and then equal amount of water is poured into 
+the bottle to fill it. This operation is done four times. Find the final ratio of Dettol and water in the 
+bottle? 
+एक बोति डेटॉि से भरी है। इसिें से एक मतहाई मनकाि मिया जाता है और मिर इसे भरने के मिए बोति िें उतना ही पानी डािा 
+जाता है। यह प्रमक्रया चार बार मकया जाता है। बोति िें डेटॉि और पानी का अांमति अनुपात ज्ञात कीमजए? (CHSL 2023 PRE) 
+A) 8:30                                      C) 36:44 
+B) 16:65                                    D) 32:65 
+49. A container contains 40 litres of concentrated syrup. 4 litres of it was taken out and replaced with 
+water and the same process was repeated thrice more. In the end, what percentage of the solution 
+will be syrup in the container? 
+एक पात्र में 40 लीटर सान्द्द्र मसरप है। इसमें से 4 लीटर तनकाल मलया गया और पानी से बदल हदया गया और यही प्रकक्रया तीन 
+बार iqu%  और दोहराई गई। अंत में पात्र में ककतने प्रततशत घोल में चाशनी होगी? 
+A)  67.23% 
+ 
+ 
+                                                      BY Gagan Pratap 
+B)  65.61% 
+C)  63.72% 
+ 
+D)  64.15% 
+50. From a container having pure milk, 40% is replaced by water and the process is repeated thrice. At 
+the end of the third operation, the purity of milk is: 
+शुद्ि दूि वाले एक कंटेनर से, 40% को पानी से बदल हदया जाता है और इस प्रकक्रया को तीन बार दोहराया जाता है। तीसरी बार 
+के अंत में दूि की शुद्िता क्या होगी? 
+ 
+[SSC Selection Post (Phase-XII)] 
+[A]22.7% 
+ 
+[B] 21.6% 
+ 
+[C]18.6% 
+ 
+[D] 23.4% 
+51. From a container having pure milk, 35% is replaced by water and the process is repeated thrice. At 
+the end of the third operation, the purity of the milk is? 
+शुद्ि दूि वाले एक कंटेनर से, 35% पानी से बदल हदया जाता है और प्रकक्रया तीन बार दोहराई जाती है। तीसरे ऑपरेशन के अंत 
+में, दूि की शुद्िता है? (MTS 2023) 
+A) 21
+𝟏𝟐
+𝟖𝟎% 
+B) 37
+𝟐𝟏
+𝟖𝟎% 
+C) 23
+𝟑𝟕
+𝟖𝟎% 
+D) 27
+𝟑𝟕
+𝟖𝟎% 
+52. A container contains 25 litre of milk. From this container, 5 litre of milk is taken out and replaced 
+by water. This process is further repeated two times. How much milk is there in the container now? 
+fdlh crZu esa 25 yhVj nw/k gSA bl crZu ls 5 yhVj nw/k fudky dj mlds LFkku ij ikuh feyk fn;k tkrk gSA ;g çfØ;k iqu% nks ckj nksgjkbZ tkrh gSA vc 
+ml crZu esa fdruk nw/k gS\ 
+(a) 
+11.5 litre 
+(b) 
+14.8 litre 
+(c) 
+13.5 litre 
+(d) 
+12.8 litre  
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+53. A vessel is full of 90ltr milk, 18ltr milk is taken out and replaced by water and again this process is 
+repeated 2 times, the amount of milk left after the 3rd replacement is? 
+एक बततन 90 लीटर दूि से भरा है। इसमें से 18 लीटर दूि तनकालकर उतनी ही मात्रा में पानी ममला हदया गया। इस प्रकक्रया को 
+दो बार और दोहराया गया। तीसरे प्रततस्थापन के बाद दूि की बची हुई मात्रा बताइये। 
+a) 11.52ltr  
+ 
+b) 46.08ltr  
+c) 23.04ltr  
+ 
+d) 69.12ltr 
+54. A drum contains 165 litres of ethanol. 44 litres of this liquid is removed and replaced with water. 44 
+litres of this mixture is again removed and replaced with water. How much water (in litres) is present 
+in this drum now? 
+,d Mªe esa 165 yhVj bFksukWy gSA bl rjy inkFkZ ds 44 yhVj fudky fn, tkrs gSa vkSj mls ikuh ls çfrLFkkfir fd;k tkrk gSA bl feJ.k dh 44 yhVj ek=k 
+dks fQj ls fudkyk tkrk gS vkSj ikuh ls izfrLFkkfir fd;k tkrk gSA vc bl Mªe esa fdruk ikuh ¼yhVj esa½ ekStwn gS\ 
+     (MAINS 2017) 
+(a) 80.55 
+ 
+(b) 88.73 
+ 
+ 
+(c) 76.26 
+ 
+(d) 71.66 
+55. A vessel is full of 80L milk. If 10L milk is taken out and replaced by same amount of water and further 
+16L mixture is taken out and replaced by same amount of water and again further 8L mixture is 
+taken out and replaced by same amount of water again further 20L mixture is taken out replaced by 
+same amount of water then at the end of 4th process the amount of water in the mixture? 
+एक बततन 80L दूि से भरा है। यहद इसमें से 10लीटर दूि तनकालकर पानी भर हदया गया। इसके बाद ममश्रण में से 16लीटर द्रव्य 
+तनकाल कर उतना ही पानी भर हदया गया। पुनः ममश्रण से 8लीटर द्रव्य तनकाल कर उतनी ही मात्रा में पानी ममलाया गया। इसके 
+बाद किर से ममश्रण में से 20लीटर द्रव्य तनकाल कर सामान मात्रा में पानी ममला हदया गया। चोथे प्रततस्थापन के बाद ममश्रण में 
+पानी की मात्रा ज्ञात कीजजये। 
+a) 37.8L  
+ 
+b) 52.4L  
+c) 42.2L  
+d) 27.6L 
+ 
+ 
+ 
+                                                      BY Gagan Pratap 
+56. A jar is filled with milk. A person replaces 25% of milk with water. He repeats the same process 5 
+times and as a result there is 1458ml of milk left in the jar. The remaining part of jar is filled with 
+water. The initial quantity of milk in the jar was? 
+एक बततन दूि से भरा हुआ है।एक व्यजक्त इसमें से 25% दूि तनकालकर उसे पानी से भर देता है। वह 5 बार एक ही प्रकक्रया को 
+दोहराता है। यहद अंत में बततन में 1458 ममलीलीटर दूि बचता है तो बततन में दूि की प्रारंमभक मात्रा ककतनी थी? 
+a) 4.096L  
+ 
+b) 6.144L  
+c) 5.12L  
+ 
+d) 9.216L 
+57. From a container of wine, a thief has stolen 15 lit of wine and replaced it with same quantity of 
+water. He again, repeated the same process. Thus in 3 attempts ratio of wine and water becomes 343 
+: 169. Initial amount of wine. 
+वाइन के एक बततन में से एक चोर 15 लीटर वाइन चुराता है और उसकी जगह समान मात्रा में पानी ममला देता है और वह इस 
+प्रकक्रया को दोहराता है तथा ऐसा तीन बार करने पर वाइन और पानी का अनुपात 343 % 169 हो जाता है तो शुरूआत में वाइन की 
+मात्रा क्या थी\ 
+a) 90 
+ 
+b) 135         
+ c) 105     
+ 
+d) 120 
+58. A cask having a capacity of 600 litres is initially filled with win. From this cask y litres  of wine are 
+first drawn and replaced with water. From this mixture, 120 litres are drawn and replaced with water. 
+From this further diluted mixture, 120 litres are drawn again and replaced with water. The ratio of 
+wine to water in the cask in now 12 : 13 . What is the value of y ? 
+600 yhVj /kkfjrk ¼{kerk½ okys ,d ihis dks “kq: esa okbu ls Hkjk tkrk gSA igys bl ihis ls y yhVj okbu fudkydj mlds LFkku ij ikuh Mkyk 
+fn;k tkrk gSA bl feJ.k ls 120 yhVj fudkydj mlds LFkku ij ikuh Mky fn;k tkrk gSA bl vkSj vf/kd ruq feJ.k ls 120  yhVj fQj ls 
+fudkydj mls LFkku ij ikuh Mky fn;k tkrk gSaA vc ihis esa okbu vkSj ikuh dk vuqikr 12:13 gks tkrk gSA y dk eku D;k gS\ 
+(a) 100  
+ 
+(b) 200 
+ 
+(c) 150  
+ 
+(d) 125 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+59. From a cask filled with wine, 75 liters are first drawn and replaced with water. From this mixture, 
+60 liters are drawn and replaced with water. The ratio of wine to water in the cask is now 3:2. How 
+many liters of wine did the cask initially hold? 
+शराब से भरे एक पीपे से पहले 75 लीटर शराब तनकाली जाती है और उसकी जगह पानी डाला जाता है। इस ममश्रण से 60 लीटर 
+पानी तनकाला जाता है और उसके स्थान पर पानी डाला जाता है। पीपे में शराब और पानी का अनुपात अब 3:2 है। शुरुआत में 
+पीपे में ककतनी लीटर शराब थी? (CHSL 2023 PRE) 
+A) 225 
+B) 375 
+C) 250 
+D) 300 
+60. A vessel is completely filled with milk. 27litres of milk is taken out and replaced by water. Again 
+15ltr of mixture is taken out and vessel is filled with water again. Now concentration of milk in the 
+mixture becomes 71.11%. What is the capacity of container?  
+एक बततन में दूि भरा है। 27लीटर दूि तनकाल कर उतना ही पानी ममलाया गया। अब ममश्रण में से 15लीटर तनकालकर उतना ही 
+पानी ममलाया गया। यहद अब ममश्रण में दूि की सांद्रता 71.11% है। बततन की क्षमता ज्ञात कीजजये। 
+a) 105ltr  
+ 
+b) 162ltr  
+c) 180ltr  
+ 
+d) 135ltr 
+61. A container contains 71.2L of pure milk. 20% of the milk (sol) is taken out and replaced with water. 
+This process is repeated ‘n’ number of times. Find the min value of ‘n’ for which the milk 
+concentration becomes less than 46.8%? 
+एक बततन में 71.2लीटर दूि है। बततन से 20% दूि तनकाल कर उसकी जगह पानी भर हदया गया। पुनः 20% ममश्रण तनकाल कर 
+उसकी जगह पानी भरा गया। यह प्रकक्रया ‘n’ बार तब तक दोहराई जाती है जब तक की ममश्रण में दूि की मात्रा (सांद्रता) 46.8% 
+से कम ना हो जाये। ‘n’ का न्द्यूनतम मान ज्ञात कीजजये। 
+a)  6 
+b) 3    
+c) 4     
+d) 5 
+ 
+62. 10% of a 50% alcohol sol is replaced  with water. From the resulting sol, again 20% is replaced with 
+water. Finally half the sol is replaced with water. What is the concentration of alcohol in the final 
+solution this obtained? 
+ 
+                                                      BY Gagan Pratap 
+50% अल्कोहल मिश्रण के 10% भाग को पानी के साथ बिल दिया   ाता है। पररणािी मिश्रण को पुनः 20% पानी से बिल 
+दिया  ाता है । अिंत िे मिश्रण का आधा भाग पानी के साथ बिल दिया  ाता है।इस प्रकार प्राप्त अिंनति मिश्रण िें अल्कोहल की 
+सान्द्द्रता क्या होगी? 
+a)10%   
+b)18%  
+ c)20%  
+ d)36%  
+63. A solution contains 75L petrol,110L diesel and 100L kerosene. 30% of this solution is replaced by 
+kerosene and then 2/7 of the obtained solution is replaced by diesel. Find the quantity of petrol in 
+the mixture now. 
+एक घोल में 75 लीटर पेटरोल, 110 लीटर डीज़ल और 100 लीटर केरोसिन है घोल के 30% को केरोसिन िे बदल सदया 
+जाता है और प्राप्त घोल का 2/7 भाग को डीजल िे बदला जाता है वततमान में पेटरोल की मात्रा ज्ञात करें।  
+a)40.5L   
+b)50L   
+c)37.5L  
+ d)32.5L 
+64. A jar contains a mixture of 175 ml water and 700 ml alcohol. Rohit takes out 10% of the mixture and 
+substitutes it by water of the same amount. The process is repeated once again. The percentage of 
+water in the mixture is now? 
+ एक जार में 175 ममलीलीटर पानी और 700 ममलीलीटर अल्कोहल का ममश्रण  है। रोहहत ममश्रण का 10% तनकालता है और 
+उसी मात्रा के पानी से इसका प्रततस्थापन करता है। प्रकक्रया को एक बार किर दोहराया जाता है। अब ममश्रण में पानी का प्रततशत 
+है ? 
+(a) 35.2 
+ 
+(b) 30.3 
+ 
+ 
+(c) 40.5 
+ 
+(d) 25.4 
+ 
+65. 
+The ratio of milk to water in a 100 litres mixture is 2: 3. 10 litres of this mixture is 
+withdrawn and replaced with milk. This process is repeated 2 more time. Wht is the 
+percentage of mild in final mixture?  
+100 yhVj ds fy, feJ.k esa nw/k vkSj ikuh dk vuqikr 2%3 gSA bl feJ.k esa ls 10 yhVj fudky fy;k tkrk gSA rFkk mruk gh nw/k 
+Mky fn;k tkrk gSA ;g izfd;k 2 ckj vkSj nksgjkbZ tkrh gSA vafre feJ.k esa nq/k dk izfr”kr D;k gS\ 
+(a) 56.26%  
+(b) 58.21%  
+(c) 51.24%  
+(d) 54.27%  
+66. A solution contains acid and water in the ratio of 4: 5 If 20% of the solution is replaced by water, 
+then what will be the ratio of acid and water in the new solution? 
+fdlh foy;u esa vEy vkSj ikuh dk vuqikr 4 % 5 gSA ;fn 20% foy;u] ikuh }kjk izfrLFkkfir dj fn;k tk,] rks u, foy;u esa vEy vkSj ikuh 
+dk vuqikr fdruk gksxk\ 
+(a) 
+10 : 7 
+(b) 
+5 : 17 
+(c) 
+16 : 29 
+(d) 
+8 : 15 
+67. A large container has a 50 litre mixture of juice and water in the ratio of 3 : 2. To this, a 60 litre juice 
+and water mixture is added, that has a juice to water ratio of 2 : 1. After this, 11 litre of the solution 
+is replaced with pure juice. What is the ratio of water to juice in the final mixture? 
+fdlh cM+s daVsuj esa 3 : 2 vuqikr okys twl vkSj ikuh dk 50 yhVj feJ.k gSA bleas twl vkSj ikuh ds 60 yhVj feJ.k dks feyk;k tkrk gS] ftleas twl vkSj ikuh 
+dk vuqikr 2 : 1 gks tkrk gSA blds ckn] 11 yhVj feJ.k dks 'kq) twl ls cny fn;k tkrk gSA vafre feJ.k eas ikuh vkSj twl dk vuqikr Kkr djsaA 
+(MTS 2020) 
+(a) 37 : 18 
+(b) 29 : 81 
+(c) 4 : 7 
+(d) 18 : 37 
+68. A vessel contained a solution of acid and water, in which water was 64%. Four litres of the solution was taken out of the 
+vessel and the same quantity of water was added. If the resulting solution contains 30% acid, the quantity (in litres) of 
+the water in the solution, at the beginning in the vessel, was: 
+एक बततन िें एमिड और पानी का घोि था, मजििें पानी 64% था। बततन िें िे चार िीटर घोि मनकाि मिया गया और उतनी ही िात्रा िें पानी मििा मिया गया। यमि पररणािी घोि िें 
+30% अम्ि है, तो बततन िें शुरुआत िें घोि िें पानी की िात्रा (िीटर िें) थी: 
+(a)11.36 (b)15.36 (c)8.64  
+(d)12.64 
+ 
+ 
+                                                      BY Gagan Pratap 
+ 
+69. A vessel has 45 liters of solution of alcohol and water, having 60% alcohol. How many liters of the 
+solutions must be withdrawn from the vessel and replaced by the same quantity of water so that 
+the resulting solution would have 35% alcohol? 
+एक बततन में शराब और पानी का 45 लीटर घोल है, जजसमें 60% अल्कोहल है। बततन से ककतने लीटर ववलयन तनकालकर समान मात्रा 
+में पानी से प्रततस्थावपत ककया जाना चाहहए ताकक पररणामी घोल में 35% अल्कोहल हो? (ICAR Technician 2022) 
+A) 20.25 
+B) 15.25 
+C) 18.75 
+D) 17.5 
+70. A vessel contains a mixture of O2 and N2. The quantity of O2 is 36% of total mixture. Some quantity 
+of mixture taken out from it and replaced by N2. This process is repeated once more. Now the quantity 
+of O2 is 16% of total mixture. If total quantity of mixture was 18 it then find the quantity of mixture 
+which is taken out? 
+एक बततन में O2 और N2 का ममश्रण है। जजसमे O2 की मात्रा कुल ममश्रण का 36% है। हमने ममश्रण की कुछ मात्रा तनकालकर 
+उतनी ही N2 ममला दी] यह प्रकक्रया कुल दो बार की। अब उसमे बची हुई O2 की मात्रा] ममश्रण की कुल मात्रा का 16% है। यहद कुल 
+ममश्रण 18 लीटर हो] तो बताइए कक ककतनी मात्रा तनकाली गई थी। 
+a)  12L   
+b) 4.5L    
+ 
+c) 9L     
+ d) 6L 
+71. The ratio of milk and water in a mixture is 7:5. How much part of the mixture should be replaced by 
+water so hat ratio of milk and water is 2:3? 
+एक ममश्रण में दूि और पानी का अनुपात 7 % 5 है। ममश्रण का ककतना भाग पानी से प्रततस्थावपत ककया जाए ताकक ममश्रण में दूि 
+और पानी का अनुपात 2 % 3 रह जाये। 
+a)  
+𝟏𝟏
+𝟑𝟓 
+ 
+b) 
+𝟏𝟏
+𝟐𝟓     
+c) 
+𝟏𝟑
+𝟐𝟒      
+d) 
+𝟏𝟑
+𝟑𝟔 
+72. A bottle is filled with liquid of which 4 parts are water and 5 parts are fruit extract. How much of the 
+mixture must be drawn off and replaced with so that the mixture may be half water and half fruit 
+extract? 
+nzo ls Hkjh gqbZ ,d cksry ds 4 Hkkx ikuh vkSj 5 Hkkx Qy dk jl gSaA bl nzo esa ls fdruk feJ.k fudkydj mlds LFkku ij ikuh Mkyk tkuk pkfg, rkfd feJ.k 
+esa vk/kk ikuh vkSj vk/kk QYk dk jl gks\  
+(a) 9
+10          (b) 1
+10  
+ 
+(c) 4
+9  
+(d) 5
+9  
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+ 
+ 
+ 
+73. A vessel contains a solution of two liquids A and B in the ratio 5:3. When 10 litres of the solution is 
+taken out and replaced by the same quantity of B, the ratio of A and B in the vessel becomes 10:11. 
+The quantity (in litres) of the solution, in the vessel was ………. 
+,d crZu esa nks rjy inkFkksZa A vkSj B dk foy;u gS ftudk vuqikr 5 % 3 gSA ;fn crZu esa ls 10 yhVj foy;u fudkyk tkrk gS vkSj mlh ek=k esa B dks feyk 
+fn;k tkrk gS] rks crZu esa A vkSj B dk vuqikr 10 % 11 gks tkrk gSA crZu esa foy;u dh ek=k ¼yhVj esa½ ______ FkhA 
+(a) 42  
+ 
+(b) 48  
+ 
+(c) 52  
+ 
+(d) 44 
+ 
+ 
+ 
+74. A beaker contains a mixture of two liquids X and Y in the ratio 5 : 3. When 6 litres of the mixture is 
+drawn offer and then replaced with Y, the ratio of X and Y becomes 5 : 7. How many litres of liquid 
+X was contained in the beaker initially? 
+,d cdhj esa nks rjy inkFkZ X vkSj Y dk feJ.k 5 : 3 ds vuqikr esa gSA tc 6 yhVj feJ.k fudkyk tkrk gS vkSj blds LFkku ij Y feyk fn;k tkrk gS] rks 
+X vkSj Y dk vuqikr 5 : 7 gks tkrk gSA chdj esa çkjaHk esa fdrus yhVj rjy X Fkk\ 
+(a) 
+18.25 
+(b) 
+22.5 
+(c) 
+11.25 
+(d) 
+15.5 
+ 
+                                                      BY Gagan Pratap 
+75. In a mixture, the ratio of a chemical X and water is 15 : 9. When 48 litres of this mixture is replaced 
+with water, the ratio becomes 11 : 13. Find the quantity of water after replacement. 
+,d feJ.k esa] ,d jlk;u X vkSj ikuh dk vuqikr 15 : 9 gSA tc bl feJ.k ds 48 yhVj feJ.k dks ikuh ls çfrLFkkfir dj fn;k 
+tkrk gS] rks vuqikr 11 : 13 gks tkrk gSA çfrLFkkiu ds ckn ikuh dh ek=k Kkr dhft, A   
+(a) 99 litres 
+(b) 97.5 litres        (c) 92 litres 
+ (d) 102.5 litres 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+76. In a mixture of 48 liters of milk and water, the ratio of milk and water is 2:3. If some of the 
+mixture is taken out and the same amount of water is added, the ratio of milk and water in the new 
+mixture becomes 3:5. Then tell how many liters of the mixture has been replaced with water? 
+48  लीटर दूि और पानी के एक ममश्रण में दूि और पानी का अनुपात 2:3 है। इसमें से कुछ ममश्रण तनकलकर उतना ही पानी 
+डाल हदया जाये तो नए ममश्रण में दूि और पानी का अनुपात 3:5 हो जाता है तो बताये की ककतना लीटर ममश्रण को पानी से 
+स्थान्द्तररत ककया गया है? 
+A) 4 L 
+B) 3 L 
+C) 2 L 
+D) 5L 
+77. A jar was containing 60 litres of juice . 5 litres of juice was taken out and 10 litres of water was added 
+.after this 13 litres of the new mixture (of juice and water)was taken out and 20 ltrs of water was 
+added. What is the respective ratio of juice and water in the jar now? 
+एक  ार िें 60 ली  ूस था। 5 ली  ूस ननकालकर इसिे 10 ली पानी मिला दिया गया । इसके बाि 13 ली मिश्रण ननकालकर 
+पुनः 20 ली पानी मिला दिया गया। अब  ार िें  ूस और पानी का अनुपात क्या होगा? 
+a)13:5  
+ 
+b)11:7  
+ 
+ c) 14:9  
+ 
+ d)11:18 
+78. A can have 25 litres of water and milk mixed in the ratio of 1 : 4. If 3 litres of the mixture is 
+emptied and 2 litres of milk are added and the same process is carried out one more time, what will 
+be the final ratio of milk to water? 
+A में 25 लीटर पानी और दूि 1:4 के अनुपात में ममलाया जा सकता है। यहद ममश्रण का 3 लीटर खाली कर हदया जाता है और 
+2 लीटर दूि ममला हदया जाता है और इसी प्रकक्रया को एक बार और ककया जाता है, तो दूि से पानी का  अंततम अनुपात क्या 
+होगा? ? 
+A) 49 : 11 
+ 
+B) 72 : 185  
+C) 54 : 275 
+             D) 383 : 77 
+ 
+79. There is a vessel holding 40L of milk. 4L of milk is initially taken out from the vessel and 5L of water 
+is poured in. After this 5L of the mixture from this vessel is replaced with 6L of water and finally 6L 
+of mixture from the vessel is replaced with 7L of water. How much of the milk (in ltr) in there in the 
+vessel now? 
+एक बततन में 40 ली दूि भरा है। बततन में से 4 ली दूि तनकालकर इसकी जगह 5 ली पानी भर हदया गया। इसके बाद, ममश्रण में 
+से 5 ली तनकालकर इसमे 6 ली पानी भर हदया गया। अंत में इस ममश्रण में से 6 ली ममश्रण तनकालकर उसकी जगह 7 ली पानी 
+भर हदया गया। अब बततन में दूि की मात्रा ककतनी है\ 
+a)  22.42 
+b) 27 .09   
+ 
+ c) 24.72     
+ 
+d) 29.42 
+80. 80 litres of a mixture of spirit and water in the ratio 7 : 9 is present in a container A. 20 litres of the 
+mixture is transferred to another container B. Then the container A is filled with 20 litres of water. 
+Then 32 litres of the mixture is again transferred to container B. The ratio of water to spirit of the 
+mixture in container B is equal to: 
+एक कंटेनर A में स्पिररट और पानी का 80 लीटर समश्रण, 7 : 9 के अनुपात में है। इि समश्रण का 20 लीटर, दूिरे कंटेनर B में 
+स्थानांतररत कर सदया जाता है। सिर कंटेनर A में 20 लीटर पानी भरा जाता है। सिर इि समश्रण का 32 लीटर, दोबारा कंटेनर B में 
+स्थानांतररत कर सदया जाता है। कंटेनर B के समश्रण में, पानी और स्पिररट का अनुपात ज्ञात कीसजए। (MAINS  2023) 
+(a) 87 : 41 
+(b) 131 : 77 
+(c) 77 : 131 
+(d) 41 : 87 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      BY Gagan Pratap 
+81. A vessel contains a mixture of 160L of milk and 20L of water. Then ‘x’ L of mixture is taken out and 
+20L of milk and 25L of water are added to the remaining mixture. If the difference between the 
+quantity of milk and water is 100 ltr, then find ‘x’? 
+एक बततन में 160 ली दूि और 20 ली पानी का ममश्रण है। यहद ममश्रण से ‘x’ ली ममश्रण तनकालकार इसमे 20 ली दूि और 25 ली 
+पानी ममलाया गया। यहद अब दूि और पानी का अंतर 100 ली है तो x का मान ज्ञात करे। 
+a)  27 
+ 
+ 
+b) 36     
+ 
+c) 45      
+d) 54 
+82. A solution of volume of 40 liters, has dye and water in the proportion 2:3. Water is added to the 
+solution to change this proportion to 2:5. If one-fourth of this diluted solution is taken out, how 
+many liters of dye must be added to the remaining solution to bring the proportion back to 2:3? 
+40 िीटर के आयतन के घोि िें डाई और पानी का अनुपात 2:3 है। इस अनुपात को 2:5 िें बदिने के मिए घोि िें पानी मििाया 
+जाता है। यमद इस तनु मिियन का एक चौथाई भाग मनकाि मिया जाए, तो शेष मिियन िें मकतना िीटर डाई मििानी चामहए 
+तामक अनुपात 2:3 पर िापस आ जाए? 
+A) 8                                   C) 3 
+B) 4                                   D) 5 
+ 
+ 
+ 
+ 
+ 
+ 

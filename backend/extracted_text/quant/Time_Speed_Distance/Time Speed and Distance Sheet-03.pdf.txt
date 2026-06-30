@@ -1,0 +1,761 @@
+ 
+                                           BY:-GAGAN PRATAP 
+ 
+1. X gets on a lift at the ground floor which goes up at speed of 30 floors per minute whereas Y gets on another 
+lift at the same time on the 50th floor which goes down at the speed of 45 floors per minute. At which floor 
+will their paths cross?(lifts are moving without stopping at any floor) 
+X Hkwry ij fLFkr fy¶V eas p<+rk gS tks 30 eafty çfr feuV dh xfr ls Åij tkrh gS tcfd Y mlh le; 50oha eafty ij ,d nwljh fy¶V esa p<+rk gS tks 45 eafty 
+çfr feuV dh xfr ls uhps tkrh gSA fdl eafty ij muds ekxZ feysaxs\ ¼fy¶V fdlh Hkh eafty ij #d ugha jgh gS½\ 
+ 
+(SSC GD 2022) 
+(a) 
+18th 
+(b) 
+25th 
+(c) 
+24th 
+(d) 
+20th 
+2. Train A and B start at the same time. Train A travels at 55 km/hr from station X to station Y and train B 
+travels at 80 km/hr from station Y to station X. They cross each other after 1 hour and 36 minutes. What 
+is the distance (in km) between station X and Y? 
+Vªsu A vkSj B ,d gh le; esa श्kq: gksrh gSA Vªsu A LVsशu X ls LVsशu Y rd 55 fd-eh-@?kaVk dh xfr ;s ;k=k djrh gS vkSj Vªsu B LVsशu Y ls LVsशu X rd dh 
+;k=k 80 fd-eh-@?kaVk dh xfr ls djrh gSA os 1 ?kaVs vkSj 36 feuV ds ckn ,d nwljs dks ikj djrh gSA LVsशu X vkSj Y ds chp nwjh ¼fd-eh- esa½ D;k gS\ 
+(a) 196  
+(b) 232  
+(c) 240  
+(d) 216  
+3. The distance between two stations A and B is 200 km. A train runs from A to B at a speed of 75 km/h, 
+while another train runs from B to A at a speed of 85 km/h. What will be the distance between the two 
+trains (in km) 3 minutes before they meet? 
+nks LVs'kuksa A vkSj B ds chp dh nwjh 200 km gSA ,d Vªsu A ls B dh vksj 75 km/h dh pky ls pyrh gS] tcfd nwljh Vªsu B ls A dh vksj 85 km/h dh pky 
+ls pyrh gSA nksuksa Vªsuksa ds ,d&nwljs ls feyus ls 3 feuV igys muds chp dh nwjh ¼fdeh- esa½ fdruh gksxh\ 
+(a) 
+5 
+(b) 
+8 
+(c) 
+10 
+(d) 
+6 
+4. Vinay and Mahesh are 250 meters apart from each other. They are moving towards each other with the 
+speed of 36 km/h and 54 km/h respectively. In how much time will they meet each other? 
+विनय और महेश एक दूसरे से 250 मीटर दूर हैं। िे क्रमशः 36 ककमी/घंटा और 54 ककमी/घंटा की गति से एक-दूसरे की ओर बढ़ रहे हैं। िे एक 
+दूसरे से ककिने समय में ममलेंगे? 
+A) 20 seconds 
+B) 10 seconds 
+C) 15 seconds 
+D) 12 seconds 
+5. Places A and B are 396 km apart. Train X leaves from A for B and train Y leaves from B for A at the same 
+time on the same day on parallel tracks. Both trains meet after 𝟓
+𝟏
+𝟐 hours. The speed of Y is 10 km/h more 
+than that of X. What is the speed (in km/h) of Y? 
+स्थान A और B 396 किमी दूरी पर हैं। ट्रेन X िो A से B िे किए तथा ट्रेन Y िो B से A िे किए समान ट्रैि पर उसी कदन छोड़ता जाता है। दोनों ट्रेनें 𝟓
+𝟏
+𝟐 घंटे िे बाद कमिती हैं। Y िी गकत 
+X िी तुिना में 10 किमी / घंटा अकिि है। Y िी गकत (किमी / घंटा में) क्या है? 
+(a) 31  
+(b) 54  
+ 
+(c) 41  
+(d) 56 
+6. The driver of a car, which is travelling at a speed of 75 km/h, locates a bus 80 m ahead of him, travelling 
+in the same direction. After 15 seconds, he finds that the bus is 40 m behind the car. What is the speed of 
+the bus (in km/h)? 
+75 km/h िी चाि से चि रही िार िा चािि, 80 m आगे समान कदशा में चि रही एि बस िो देखता है। 15 सेिंड बाद वह देखता है कि बस अब िार से 40 m पीछे है। बस िी चाि 
+(km/h में) कितनी है? 
+(a) 44.2  
+(b) 42.5  
+(c) 47.5  
+(d)46.2 
+7. On a straight road, a bus is 30 km ahead of a car travelling in the same direction. After 3 hours, the car is 
+60 km ahead of the bus. If the speed of the bus is 42 km/h, then find the speed of the car. 
+एक सीधी सड़क पर, कोई बस उसी दिशा में चल रही दकसी कार से 30km आगे है। 3 घंटे बाि, कार बस से 60 km आगे दिकल जाती है। 
+यदि बस की चाल 42 km/h है, तो कार की चाल ज्ञात करें। 
+Delhi Police S.I. 09/11/2022 (Morning)  
+(a) 67 km/h 
+(b) 72 km/h 
+ 
+                                           BY:-GAGAN PRATAP 
+(c) 65 km/h 
+(d) 59 km/h 
+8. A car and a bus were travelling in the same direction. At 7:30 a.m. the car travelling at a speed of 72 km/h 
+was 4.2 km behind the bus. At 8.15 a.m. the car was 15.8 km ahead of the bus. What is the ratio of the 
+speed of the car to the speed of the bus? 
+,d dkj vkSj ,d cl ,d gh fn'kk esa py jgh FkhaA lqcg 7:30 a.m. ij 72 km/h dh pky l spy jgh dkj cl ls 4.2 km ihNs FkhA lqcg 8.15 a.m. ikj dkj 
+cl ls 15.8 km vkxs FkhA dkj dh pky vkSj cl dh pky dk vuqikr D;k gS\ 
+(a) 
+36 : 17 
+(b) 
+27 : 17 
+(c) 
+9 : 4 
+(d) 
+9 : 5 
+9. A train crosses a man going along the railway track at 13.5 km/hr. The man could see the train upto 4 min 
+then find the speed of the train if due to fog he can see upto 1.9 km and length of train is 500 metre? 
+एक ट्रेन 13.5 ककमी/घंटा की रफ्तार से रेलवे ट्रैक पर जा रही एक आदमी को पार कर जाती है। आदमी 4 ममनट तक ट्रेन को देख सकता 
+है, यदद कोहरे के कारण वह 1.9 ककमी तक देख सकता है और ट्रेन की लंबाई 500 मीटर है, तब ट्रेन की चाल ज्ञात करे ? 
+a) 49.5 km/hr      b) 54 km/hr 
+c) 44 km/hr         d) 40.5 km/hr 
+10. A person X starts from a place A and another person Y starts simultaneously from another place B which 
+is d km away from A. They walk in the same direction. X walks at an average speed of u km/h and Y walks 
+at an average speed of v km/h. how far will X have walked before he overtakes Y? 
+एक व्यक्ति X एक स्थान A से शुरू करिा है और दूसरा व्यक्ति Y एक साथ दूसरे स्थान B से शुरू करिा है जो A से d ककमी दूर है। िे एक ही 
+ददशा में चलिे हैं। X, u ककमी/घंटा की औसि गति से चलिा है और Y, v ककमी/घंटा की औसि गति से चलिा है। Y से आगे तनकलने से पहले 
+X ककिनी दूर चल चुका होगा? 
+A) 
+𝒖𝒅
+𝒖−𝒗 
+B) 
+𝒗𝒅
+𝒖−𝒗 
+C) 
+𝒖𝒅−𝒗𝒅
+𝒖−𝒗 
+D) 
+𝒖𝒅+𝒗𝒅
+𝒖+𝒗 
+11. A ship develops a leak 20 km from the shore. Despite the leak, the ship is able to move towards the shore 
+at a speed of 12 km/hr. However, the ship can stay afloat only for 23 minutes. If a rescue vessel were to 
+leave from the shore towards the ship and it takes 8 minutes to evacuate the crew and passengers of the 
+ship, what should be the minimum speed of the rescue vessel in order to be able to successfully rescue the 
+people aboard the ship ? 
+एक जहाज में दकिारे से 20 km िूर पर ररसाव शुरू हो जाता है। ररसाव के बावजूि, जहाज दकिारे की ओर 12 km/h की रफ्तार से आगे 
+बढ़िे में सक्षम है। हालांदक, जहाज केवल 23 दमिट तक ही जलप्लादवत रह सकता है। यदि दकिारे से एक बचाव िौका को जहाज की ओर 
+भेजा जाता है और जहाज के चालक िल और यादियों को दिकालिे में 8 दमिट लगते हैं, तो बचाव िौका की न्यूितम गदत क्या होिी चादहए 
+दजससे लोगों को सफलतापूववक बचाया जा सके ? 
+UP Constable 25/10/2018  (1st Shift) 
+(a) 65 km/hr 
+(b) 67 km/hr 
+(c) 68 km/hr 
+(d) 70 km/hr 
+12. The distance covered by A in 10 hours is 27 km less than the distance covered by B in 12 hours. The 
+distance covered by B in 8 hours is 7
+𝟏
+𝟐 km more than the distance covered by A in 9 hours. If they start 
+moving towards each other from the two ends of a road, 4.2 km in length, at the same time, they will cross 
+each other after? 
+A द्िारा 10 घंटे में िय की गई दूरी, B द्िारा 12 घंटे में िय की गई दूरी से 27 ककमी कम है। B द्िारा 8 घंटे में िय की गई दूरी, A द्िारा 9 
+घंटे में िय की गई दूरी से 7
+𝟏
+𝟐 ककमी अधिक है। यदद िे 4.2 ककमी लंबी सड़क के दो मसरों से एक-दूसरे की ओर बढ़ना शुरू करिे हैं, िो  ककिना 
+समय िे एक-दूसरे को पार करेंगे? (ICAR Technician 2022) 
+A) 24 minutes 
+B) 21 minutes 
+C) 23
+𝟏
+𝟑 minutes 
+D) 24
+𝟐
+𝟑 minutes 
+ 
+13. There is a circular path around a sports field. Rahul takes 15 minutes to drive one round of the field, while 
+Anil takes 18 minutes for the same. Suppose they both start from the same point and at the same time, 
+and go in the same direction. After how many minutes will they meet again at the starting point? 
+ 
+                                           BY:-GAGAN PRATAP 
+एक खेल के मैदान के चारों ओर एक िृत्ताकार पथ है। राहुल को मैदान का एक चतकर लगाने में 15 ममनट लगिे हैं, जब कक अतनल को इसमें 18 
+ममनट लगिे हैं। मान लीक्जए कक िे दोनों एक ही बबंदु से और एक ही समय पर शुरू करिे हैं और एक ही ददशा में जािे हैं, िो ककिने ममनट बाद िे 
+किर से प्रारंमिक बबंदु पर ममलेंगे ? (MTS 2022) 
+(a) 120feuV   
+(b) 90feuV 
+ 
+ 
+(c) 100feuV 
+ 
+(d) 80 feuV 
+14. Three bikes, A, B and C, start racing at the same time and from the same point in the same direction in a 
+circular path. A completes a round in 56 sec, B in 48 sec and C in 70 sec. After what time will they meet 
+again at the starting point? 
+तीन बाइक, A, B और C, एक ही समय में और एक ही बबंदु से एक वृत्ताकार पथ में एक ही ददशा में दौड़ना शुरू करते हैं। A एक चक्कर 
+56 सेकंड में, B 48 सेकंड में और C 70 सेकंड में पूरा करता है। ककतने समय बाद वे किर से प्रारंमिक बबंदु पर ममलेंगे? 
+A) 32 minutes 
+B)  20 minutes 
+C) 36 minutes 
+D) 28 minutes 
+15. A, B and C run on a circular track. Time taken by A, B, and C to complete one round are 6 min, 8 min and 
+3 min respectively. If they start together at 5 p.m., then at what time will they meet again at the starting 
+point? 
+A, B vkSj C ,d o`Ùkkdkj VªSd ij nkSM+rs gSaA A, B vkSj C dks ,d pDdj iwjk djus esa Øe'k% 6 feuV] 8 feuV vkSj 3 feuV dk le; yxrk gSA ;fn os 5 p.m. cts 
+,d lkFk 'kq: djrs gSa] rks os vkjafHkd fcUnq ij nksckjk fdl le; feysaxs\ 
+(a) 
+5:12 p.m. 
+(b) 
+5:18 p.m. 
+(c) 
+5:08 p.m. 
+(d) 
+5:24 p.m. 
+16. In a circular race of 800 m length, Ram and Mohan start at speeds of 25 m/sec and 40 m/sec, respectively, 
+at the same time from the same point. After how much time will they meet for the first time at the starting 
+point, when running in the same direction?  
+800 m लम्बी एक वृत्ताकार दौड़ में, राम और मोहन एक ही समय पर एक ही स् थान से क्रमशः 25 m/sec और 40 m/sec की चाल से 
+दौड़ना आरंि करते हैं। एक ही ददशा में दौड़ते हुए, ककतने समय बाद वे पहली बार प्रारम्म्िक स्थान पर ममलेंगे? 
+1. 136 seconds 
+ 
+ 
+ 
+ 
+ 
+2. 120 seconds 
+3. 152 seconds 
+ 
+ 
+ 
+ 
+ 
+4. 160 seconds 
+17. In a circular race of 1500m, A and B start running simultaneously at a speed of 27 km/hr and 45 km/hr 
+from the same point and the same time. After how much time will they meet at the starting point for the 
+first time if they are running in the opposite direction ? 
+वृत्ताकार पथ पर 1500 m की एक रेस में, A और B एक ही समय पर एक ही बबंदु से 27 km/hr और 45 km/hr की चाल से एक साथ 
+दौड़ना शुरू करते हैं। यदद वे ववपरीत ददशा में दौड़ रहे हों, तो ककतने समय बाद वे पहली बार प्रारंमिक बबंदु पर ममलेंगे? (SSC GD 2025) 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+3. 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+ 
+18. In a race of 1200 m on a circular track, A and B start from the same place at the same time, running in the 
+same direction with speeds of 18 km/h and 27 km/h respectively. How long after the start of the race will 
+they meet for the first time on the track? 
+वृत्ताकार टरैक पर हो रही 1200 m की एक िौड़ में A और B एक ही स्थाि से एक ही समय पर, एक ही दिशा में क्रमशः 18 km/h और 27 
+km/h की चाल से िौड़िा शुरू करते हैं। िौड़ शुरू होिे के दकतिे समय बाि वे टरैक पर पहली बार दमलेंगे? 
+(a) 240 सेकंड 
+(b) 520 सेकंड 
+(c) 300 सेकंड 
+(d) 480 सेकंड 
+19. Two friends are running on a circular track of 720 m. They started from the same point and are moving in 
+the same direction with speeds of 1.5 m/s and 3.5 m/s. After how much time will they cross each other 
+for the second time? 
+nks nksLr 720 ehVj ds ,d o`Ùkkdkj VªSd ij nkSM+ jgs gSaA mUgksaus ,d gh fcUnq ls nkSM+uk 'pkq: fd;k vkSj leku fn'kk esa 1.5 ehVj@lsdaM vkSj 3.5 ehVj@lsdaM dh pky 
+ls nkSM+ jgs gSaA fdrus le; ckn os nwljh ckj ,d&nwljs dks ikj djsaxs\ 
+(a) 
+12 minutes 
+(b) 
+3.5 minutes 
+(c) 
+7 minutes 
+ 
+                                           BY:-GAGAN PRATAP 
+(d) 
+10 minutes 
+20. In a circular race of 4225 m, X and Y start from the same point and at the same time at speeds of 54 km/h 
+and 63 km/h. When will they meet again for the first time on the track when they are running in the 
+opposite direction? 
+4225 m की एक वृत्ताकार िौड़ में x और Y एक ही दबंिु से और एक ही समय में 54 km/h और 63 km/h की चाल से िौड़िा आरंभ करते 
+हैं। यदि वे दवपरीत दिशा में िौड़ रहें हों, तो टरैक पर दफर से कब दमलेंगे? 
+(a) 140 seconds 
+    (b)  150 seconds 
+     (c)  130 seconds 
+ 
+(d) 120 seconds 
+21. In a circular path of 600 m, Pankaj start walking in opposite dircetions from the same point at the speed 
+of 2.85 m/sec and 5.4 km/h, respectively. After how many minutes will they meet for the first time? 
+600 मीटर के वृत्ताकार पथ पर, पंकज एक ही बबंदु से क्रमशः 2.85 मीटर/सेकंड और 5.4 ककमी/घंटा की गतत से ववपरीत ददशाओं में 
+चलना शुरू करता है। वे ककतने ममनट बाद पहली बार ममलेंगे? 
+ 
+ (SSC CGL 2023) 
+A) 3.2 
+B) 2.3 
+C) 2.7 
+D) 4.7 
+22. A and B are running on a circular track of length 1400 meters. The speed of A is 33 m/sec and the speed 
+of B is 47 m/sec. they start from the same point at the same time in the opposite direction. After how 
+much time will they meet for the second time? 
+A और B 1400 मीटर लम्बे वृत्ताकार ट्रैक पर दौड़ रहे हैं। A की गतत 33 मीटर/सेकंड है और B की गतत 47 मीटर/सेकंड है। वे एक ही 
+समय पर एक ही बबंदु से ववपरीत ददशा में प्रारंि करते हैं। वे ककतने समय बाद दूसरी बार ममलेंगे? (CHSL 2023 PRE) 
+A) 33 sec 
+B) 38 sec 
+C) 35 sec 
+D) 32 sec 
+23. A and B run on a circular path of perimeter 1200 m at different speeds. If they start at the same time and 
+from the same place, but run in opposite directions, they meet for the first time in 3 minutes. If the speed 
+of B is 10.8 km/h, then what is the speed (in km/h) of A? 
+A vkSj B, 1200 m ifjeki okyks ,d o`Ùkkdkj iFk ij fHkUu&fHkUu pky ls nkSM+rs gSaA ;fn os ,d gh le; vkSj ,d gh LFkku ls izkjaHk djrs gSa] ysfdu foijhr fn'kkvksa eas 
+nkSM+rs gSa] rks os igyh ckj 3 feuV esa feyrs gSaA ;fn B dh pky 10.8 km/h gS] rks A dh pky (km/h esa) D;k gS\ 
+(a) 
+12.8 
+(b) 
+13.2 
+(c) 
+12.5 
+(d) 
+13.5 
+24. Two people A and B started running from the same point on a circular track of length 400 m in opposite 
+directions with initial speeds of 10 m/sec and 40 m/sec, respectively. Whenever they meet, A’s speed 
+doubles and B’s speed halves. After what time from the start will they meet for the third time? 
+दो व्यम्क्त A और B ने 400 मीटर लंबे वृत्ताकार ट्रैक पर एक ही बबंदु से क्रमशः 10 मीटर/सेकंड और 40 मीटर/सेकंड की प्रारंमिक गतत 
+से ववपरीत ददशाओं में दौड़ना शुरू ककया। जब िी वे ममलते हैं, A की गतत दोगुनी हो जाती है और B की गतत आधी हो जाती है। प्रारंि 
+से ककतने समय बाद वे तीसरी बार ममलेंगे? (CHSL 2023 PRE) 
+A) 30 sec 
+B) 24 sec 
+C) 26 sec 
+D) 28 sec 
+25. There are three persons M,N And P. They are running in the same direction around a circular track of length 
+150 m. Their speeds are 20 m/sec,15 m/sec and 12 m/sec, respectively. If they start at same time and 
+same point, then after what time do they meet for the first time?  
+तीन व्यम्क्त M, N और P हैं। वे 150 m लंबे एक वृत्ताकार ट्रैक पर एक ही ददशा में दौड़ रहे हैं। उनकी चालें क्रमशः 20 m/sec, 15 m/sec 
+और 12 m/sec है। यदद वे एक ही समय पर और एक ही बबंदु से दौड़ना शुरू करते हैं, तो वे ककतने समय बाद पहली बार एक-दूसरे से 
+ममलेंगे? (SSC GD 2025) 
+a)  
+  
+ 
+ 
+ 
+ 
+ 
+b)  
+ 
+c)  
+  
+ 
+ 
+ 
+ 
+ 
+d)  
+ 
+ 
+ 
+                                           BY:-GAGAN PRATAP 
+26. A, B, and C start running simultaneously, starting from a point, around a circular track of length 900m, 
+with respective speeds of 3m/s, 5m/s, and 6m/s. A and B run in the same direction while C runs in the 
+opposite direction of the other two. After how much time will they meet for the first time? 
+A, B vkSj C ,d fcUnq ls çkjaHk djds Øe'k% 3 m/s, 5 m/s vkSj 6 m/s gdh pky ls ,d gh le; ij 900 m yackbZ okys ,d o`Ùkkdkj VSªd ds ifjr% nkSM+uk 'kq: djrs 
+gSaA A vkSj B ,d gh fn'kk esa nkSM+rs gSa] tcfd C mu nksuksa ds foijhr fn'kk esa nkSM+rk gSA os igyh ckj fdrus le; ckn feysaxs\ 
+(a) 
+12 minutes 
+(b) 
+13 minutes 
+(c) 
+14 minutes 
+(d) 
+15 minutes 
+27. Two persons started running on a circular track at a speed of 20 m/s and 30 m/s in opposite directions. If 
+the circumference of the circular track is 100 m, find at how many distinct points they will cross each 
+other? 
+िो व्यक्ति एक वृत्ताकार टरैक पर दवपरीत दिशाओं में 20 m/s और 30 m/s की चाल से िौड़िा शुरू करते हैं। यदि वृत्ताकार पथ की पररदध 
+100m है, तो ज्ञात कीदजए दक वे एक-िूसरे को दकतिे अलग-अलग दबंिुओं पर पार करेंगे? 
+(a) 2  
+(b) 3 
+(c)  5 
+(d)  10 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+28. Two girls A and B runs on a circular tracks with the speed of 80 m/s and 140 m/s find the maximum 
+number of distinct points where they can meet if they run in the opposite direction? 
+दो लड़किय ाँ A और B 80 मीटर/सेिंड और 140 मीटर/सेिेंड िी गकि से वृत्तािार पथ पर दौड़िी हैं, यकद वे कवपरीि कदश  में दौड़िी हैं िो अकिििम कििने अलग-अलग क ंदु 
+कमल सििे हैं? 
+A)10         B)11           C)12           D)13 
+29. Anjali and Babita are running on a circular track in opposite directin from same time at same point with 
+speeds of 8 m/sec and 6 m/sec, respectively. If the length of the circular track is 960 m, how many times 
+distinct points they will meet until they meet at starting point again? 
+vatfy vkSj cchrk ,d o`Ùkkdkj VSªd ij ,d gh le; vkSj ,d gh fcUnw ls foijhr fn'kkvksa esa Øe'k% 8 m/sec vkSj 6 m/sec dh pky ls nkSM+ jgh gSaA ;fn o`Ùkkdkj VªSd 
+dh yackbZ 960 m gS] rks अगली मुलाकात शुरुआती ब िंदु पर  होने से पहले os vyx&vyx feyu fcUnwvksa ij fdruh ckj feysaxh\ 
+(a) 
+7 times/ckj 
+(b) 
+6 times/ckj 
+(c) 
+12 times/ckj 
+(d) 
+10 times/ckj 
+30. Having started from the same point and at the same time, two runners-P and Q- are running around a 
+circular track of length 500 m in opposite directions with the speeds of 6 m/sec and 10 m/sec, respectively. 
+If they exchange their speeds after meeting for the first time, who will reach the starting point first? 
+एक ही बबंदु से और एक ही समय पर चलना शुरू करके, दो धावक-P और Q- क्रमशः 6 मीटर/सेकंड और 10 मीटर/सेकंड की गतत के साथ 
+ववपरीत ददशाओं में 500 मीटर लंबे एक गोलाकार ट्रैक के चारों ओर दौड़ रहे हैं। यदद वे पहली बार ममलने के बाद अपनी गतत बदल लेते 
+हैं, तो शुरुआती बबंदु पर सबसे पहले कौन पहुंचेगा? (SSC CGL 2023) 
+A) Q 
+B) P 
+C) Both P and Q reach at the same time 
+D) No one of the P and Q 
+31. A dog saw a cat at a distance of 280 m. The cat started running at the speed of 10 km/h and the dog also 
+ran to catch it with the speed of 24 km/h. How much time will the dog take to catch the cat? 
+,d dqÙks us ,d fcYyh dks 280 m dh nwjh ij ns[kkA fcYyh 10 km/h dh pky ls nkSM+us yxh vkSj dqÙkk Hkh 24 km/h dh pky ls mls idM+us ds fy, nkSM+kA dqÙkk 
+fcYyh dks idM+us esa fdruk le; ysxk\ 
+(a) 
+1.4 min 
+(b) 
+1.5 min 
+(c) 
+1.2 min 
+(d) 
+1.3 min 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+32. A policeman follows a thief who is 600 m ahead of the policeman. If the policeman and the thief 
+run at speeds of 10 km/h and 8 km/h, respectively, in how much time (in minutes), will the 
+policeman catch the thief? 
+ 
+                                           BY:-GAGAN PRATAP 
+,d iqfyldehZ ,d pksj dk ihNk djrk gS tks iqfyldehZ ls 600 ehVj vkxs gSA ;fn iqfyldehZ vkSj pksj Øe”k% 10 fdeh@?kaVk, 8 fdeh@?kaVk dh pky 
+ls nkSM+rs gSaA rks iqfyldehZ fdrus le; ¼feuV es½ esa pksj dks idM+ ysxk\  
+(a) 16 
+(b)  14 
+(c)  18 
+(d) 12 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+33. A thief steals a scooter at 1:40 p.m. and drives it at 54 km/h. The theft is discovered at2:10 p.m. and the 
+owner sets off to chase the thief on another scooter at 72 km/h. At what time will he catch the thief? 
+एक चोर ने दोपहर 1:40 p.m. पर स्कूटर चुराया और इसे 54 km/h की चाल सेचलाता है। दोपहर 2:10 p.m. पर चोरी का पता चला और 
+मामलक 72 km/h की चाल सेदूसरे स्कूटर सेचोर का पीछा करने केमलए तनकला। वह ककस समय चोर को पकड़ लेगा?  
+(a) 3:40 p.m. 
+(b) 3:20 p.m. 
+(c) 4:50 p.m. 
+(d) 4:10 p.m. 
+34. A thief saw a policeman and he started running at a speed of 12 m/s. After a certain time, the policeman 
+starts running behind the thief at a speed of 18 m/s. If the policeman covered a 540 m distance to catch 
+the thief, the time (in seconds) after which the policeman started running is:  
+एक चोर ने एक पुमलसकमी को देखा और वह 12 मीटर/सेकेंड की गतत से िागने लगा। एक तनम्चचत समय के बाद, पुमलसकमी 18 
+मीटर/सेकेंड की गतत से चोर के पीछे दौड़ना शुरू कर देता है। यदद पुमलसकमी ने चोर को पकड़ने के मलए 540 मीटर की दूरी तय की, तो 
+वह समय (सेकंड में) म्जसके बाद पुमलसकमी ने दौड़ना शुरू ककया: 
+ 
+(SSC MTS 2024) 
+ A) 10 
+ B) 12  
+ C) 15  
+ D) 18 
+35. A policeman saw a thief from a distance of 450 m. When the policeman started chasing him, the thief also 
+started running. The ratio of speeds of the thief to the policeman is 7 : 8. After running how much distance 
+(in km) can the policeman catch the thief? 
+,d iqfyldehZ us ,d pksj dks 450 ehVj dh nwjh ls ns[kkA iqfyldehZ us mldk ihNk djuk 'kq: fd;k rks pksj Hkh Hkkxus yxkA pksj dh pky vkSj iqfyldehZ dh pky dk 
+vuqikr 7 : 8 gSA fdruh nwjh (km esa) nkSM+us ds ckn iqfyldehZ pksj dks idM+ ldrk gS\ 
+(a) 
+3.75 
+(b) 
+3.4 
+(c) 
+3.6 
+(d) 
+3.15 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+36. A thief was spotted by a policeman at a distance of 1200 m and he started chasing him. The thief ran 6.4 
+km in 52 minutes and the policeman also ran the same distance in 40 minutes. Find the distance the thief 
+had run before he was caught. 
+एक पुमलसकमी ने एक चोर को 1200 मीटर की दूरी पर देखा और उसका पीछा करना शुरू कर ददया। चोर 52 ममनट में 6.4 ककमी दौड़ा 
+और पुमलसकमी िी उतनी ही दूरी 40 ममनट में दौड़ा। चोर पकड़े जाने से पहले ककतनी दूरी तय की।  
+(a)  2.5 km 
+(b) 4 km  
+(c)  3.0 km 
+(d)  3.5 km 
+37. A thief is spotted by a policeman from a distance of 210 m. When the policeman starts the chase, the thief 
+also starts running. If the speed of the thief is 25 km/h and that of the policeman is 32 km/h, then how 
+far would the thief have run (in m) before he is overtaken? 
+,d iqfyldehZ dks 210 ehVj dh nwjh ij ,d pksj fn[kkbZ nsrk gSA tc iqfyldehZ us ihNk djuk vkjaHk fd;k rks pksj Hkh Hkkxus yxkA ;fn pksj dh pky 25 fdeh@?kaVk gS 
+vkSj iqfyldehZ dh pky 32 fdeh@?kaVk gS] rks pksj idM+s tkus ls igys fdruh nwj ¼ehVj esa½ Hkkx pqdk gksxk\ 
+(a) 920         
+ (b) 480 
+(c)  1200 
+ 
+(d)  750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+38. A policeman follows a thief, who is 1250 m ahead of him. The policeman and the thief run at the speed of 
+10 km/h and 8 km/h, respectively. The distance (in km) run by the thief before he is nabbed by the 
+policeman is: 
+एक पुमलसकमी एक चोर का पीछा करता है, जो उससे 1250 मीटर आगे है। पुमलसकमी और चोर क्रमशः 10 ककमी/घंटा और 8 ककमी/घंटा की गतत 
+से दौड़ते हैं। पुमलसकमी द्वारा पकड़े जाने से पहले चोर द्वारा तय की गई दूरी (ककमी में) ककतनी है? 
+(a) 7 
+ 
+(b) 4  
+ 
+(c) 5 
+(d) 6 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+39. A policeman spots a thief at a distance of 360 m. Both the policeman and the thief simultaneously start 
+running, with the former chasing the latter. While the thief runs at the speed of 8 km/h, the policeman 
+runs at 9.2 km/h. How many metres will the policeman have to run before he catches up with the thief? 
+ 
+                                           BY:-GAGAN PRATAP 
+एक पुदलसकमी को 360 मीटर की िूरी पर एक चोर दिखाई िेता है। पुदलसकमी और चोर िोिों एक साथ भागिे लगते हैं और चोर चोर का 
+पीछा करता है। जहां चोर 8 दकमी/घंटा की गदत से िौड़ता है, वहीं पुदलसकमी 9.2 दकमी/घंटा की गदत से िौड़ता है। चोर को पकड़िे से पहले 
+पुदलसकमी को दकतिे मीटर िौड़िा होगा? 
+1. 2852 
+2. 2714 
+3. 2668 
+4. 2760 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+40. A policeman chases a thief. The speed of the policeman and thief are 18 km/h and 6 km/h, respectively. 
+If the policeman started 10 minutes late, at what distance will he catch the thief? 
+ 
+एक पुमलसकमी एक चोर का पीछा करता है। पुमलसकमी और चोर की चाल क्रमशः 18 km/h और 6 km/h है। यदद पुमलसकमी 10 ममनट देरी 
+से शुरू करता है, तो वह चोर को ककतनी दूरी पर पकड़ लेगा? 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A]2.0 km 
+ 
+[B] 
+1.0 km 
+ 
+ 
+[C]1.5 km 
+ 
+[D] 
+2.5 km 
+41. A thief takes off on his bike at a certain speed, after seeing a police car at a distance of 250 m. The police 
+car starts chasing the thief and catches him. If the thief runs 1.5 km before being caught and the speed of 
+the police car is 70 km/h, then what is the speed of thief’s bike (in km/h)?  
+एक चोर 250 मीटर की दूरी पर एक पुमलस कार को देखकर एक तनम्चचत गतत से अपनी बाइक चलाता है। पुमलस की गाड़ी चोर का पीछा 
+करने लगती है और उसे पकड़ लेती है. यदद चोर पकड़े जाने से पहले 1.5 ककमी दौड़ता है और पुमलस की गाड़ी की गतत 70 ककमी/घंटा 
+है, तो चोर की बाइक की गतत (ककमी/घंटा में) क्या है? 
+ 
+ 
+(SSC CGL 2024 Pre) 
+A) 65  
+B) 60 
+C) 55   
+D) 50  
+42. A thief is noticed by a policeman from a distance of 650 m. The thief starts running and the policeman 
+chases him. The thief and the policeman run at the rate of 8 km and 10.5 km per hours, respectively. The 
+distance (in metres) between them after 12 minutes is: 
+,d iqfyldehZ dks 650 ehVj dh nwjh ls ,d pksj fn[kkbZ nsrk gSA pksj Hkkxus yxrk gS vkSj iqfyldehZ mldk ihNk djrk gSa pksj vkSj iqfyldehZ Øe'k% 8 km vkSj 10.5 
+km çfr ?kaVs dh nj ls nkSM+rs gSaA 12 feuV ds ckn muds chp dh nwj (m esa) fdruh gksxh\ 
+(a) 
+150 
+(b) 
+85 
+(c) 
+125 
+(d) 
+100 
+43. A thief committed a crime and escaped from the spot at a speed of 12 k/h. A security guard started chasing 
+him 20 minutes after the thief started running and caught him in the next 20 minutes. What is the speed 
+(in m/h) to the Security guard? 
+,d pksj vijk/k djrk gS vkSj 12m/h dh pky ls ml LFkku ls Hkkxrk gSA pksj ds Hkkxus ds 20 feuV ckn ,d pkSdhnkj us mldk ihNk djuk 'kq: fd;k 
+vkSj vxys 20 feuV esa mls idM+ fy;kA pkSdhnkj dh pky ¼m/h esa½ D;k gS\ 
+(a) 24 
+(b) 30 
+(c) 32 
+(d) 36 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+44. The speed of a thief is 4
+5
+ times the speed of a policeman. The thief covers a distance of 6 km before he was 
+caught by the policeman in 30 minutes. Initially, what was the distance between the policeman and the 
+thief in km? 
+ 
+एक चोर की चाल एक पुमलसकमी की चाल की 4
+5
+गुना है। पुमलसकमी द्वारा 30 ममनट में पकड़े जाने से पहले चोर 6 km की दूरी तय करता है। शुरूआत 
+में पुमलसकमी और चोर के बीच km में दूरी ककतनी थी? 
+ 
+ 
+SSC CHSL PRE 2024 
+ 
+[A] 
+0.8  
+[B] 1.0 
+ 
+[C] 
+1.5  
+[D] 1.2 
+45. A person sees another person snatching a chain from a lady, at a distance of 300 metres. He starts running 
+and catches the thief by running at 10 km/h after running a total distance of 1.5 km. The speed at which 
+the thief was running was:  
+एक व्यम्क्त 300 मीटर की दूरी पर दूसरे व्यम्क्त को एक मदहला से चेन छीनते हुए देखता है. वह दौड़ना शुरू करता है और कुल 1.5 
+ककमी की दूरी तय करने के बाद 10 ककमी/घंटा की गतत से दौड़कर चोर को पकड़ लेता है। चोर म्जस गतत से दौड़ रहा था वह थी: 
+(SSC MTS 2024) 
+A) 8.5 km/h  
+B) 9 km/h  
+C) 9.5 km/h 
+ D) 8 km/h 
+ 
+                                           BY:-GAGAN PRATAP 
+46. A policeman sees a thief and starts chasing him. The distance between the thief and the policeman is 200 
+m and the speed of the thief is 8 km/h. if the policeman was able to catch the thief in 20 minutes, then 
+the speed of the policeman is ________ km/h? 
+एक पुमलसकमी एक चोर को देखता है और उसका पीछा करना शुरू कर देता है. चोर और पुमलसकमी के बीच की दूरी 200 मीटर है और 
+चोर की गतत 8 ककमी/घंटा है। यदद पुमलसकमी 20 ममनट में चोर को पकड़ने में सक्षम था, तो पुमलसकमी की गतत ________ ककमी/घंटा 
+है? (MTS 2023) 
+A) 8.4 
+B) 9.2 
+C) 8.6 
+D) 8.2 
+47. A policeman chases a thief on a straight road. The policeman catches the thief in 15 minutes if he drives 
+with a speed of 60 km/h and catches the thief in 0.5 hours if he drives with a speed 45 km/h. What should 
+be his driving speed (in km/h) to catch the thief in just 10 minutes?  
+एक पुमलसकमी सीधी सड़क पर चोर का पीछा करता है। यदद पुमलसकमी 60 km/h की चाल से गाड़ी चलाता है, तो वह चोर को 15 ममनट 
+में पकड़ लेता है और यदद वह 45 km/h की चाल से गाड़ी चलाता है तो चोर को 0.5 घंटे में पकड़ लेता है। केवल 10 ममनट में चोर को 
+पकड़ने के मलए पुमलसकमी की गाड़ी की चाल (km/h में) क्या होनी चादहए? 
+[SSC Selection Post (Phase-XII)] 
+[A]75 
+                   [B]65                           [C]90 
+   [D]70 
+  
+48. A thief steals an item and escapes, running at 13.5 km/h. A policeman arrives at the spot of the crime 
+after 8 minutes and immediately starts chasing the thief. 28 minutes after the policeman started to chase 
+the thief, there is still a gap of 540 m between the two. At what distance from the spot of the crime would 
+the policeman catch up with the thief, and what is the speed (in km/h) at which the policeman ran? 
+एक चोर एक वस्तु चुराता है और 13.5 Km/h की चाल से िाग जाता है। 8 ममनट बाद एक पुमलसकमी अपराध स्थल पर पहुुँचता है और 
+तुरंत चोर का पीछा करना शुरू कर देता है। पुमलसकमी द्वारा चोर का पीछा करने के 28 ममनट बाद िी दोनों के बीच 540 m की दूरी रहती 
+है अपराध स्थल से ककतनी दूरी पर पुमलसकमी चोर को पकड़ पाएगा और पुमलसकमी की चाल (Km/h में) क्या है? 
+[SSC Selection Post (Phase-XII)] 
+[A]11.2 km, 16.4 
+[B] 
+10.8 km, 16.2 
+ 
+[C]10.4 km, 16 
+[D] 
+12.96 km, 16.2 
+ 
+49. Two guns are fired from the same place at an interval of 9 minutes. A person approaching the place observes 
+that 8 minutes 48 seconds have elapsed between the hearing of the sound of the two guns. If the velocity 
+of the sound is 330 m/s, at what speed was the person approaching that place (in km/h)? 
+दो बंदूकें 9 ममनट के अंतराल पर एक ही स्थान से दागी जाती हैं। उस स्थान िी ओर आने वाले एक व्यम्क्त ने देखा कक दो बंदूकों की 
+आवाज सुनने के बीच 8 ममनट 48 सेकंड का समय बीत चुका है। यदद ध्वतन का वेग 330 मीटर/सेकेंड है, तो व्यम्क्त ककस गतत से 
+(ककमी/घंटा में) उस स्थान िी ओर आ रहा था? (UP CONSTABLE RE -EXAM 2024) 
+A) 36 
+B) 27 
+C) 33 
+D) 29 
+50. Two guns were fired from same place at an interval of 32 minutes. But a man sitting in the train going 
+away from the place hears the 2nd firing 35 minutes after the 1st. If the speed of train is 97.2 km/hr. Find 
+the speed of sound (in m/s)? 
+32 ममनट के अंतराल पर एक ही जगह से दो बंदूकें दागी गईं। लेककन उस जगह से दूर जा रहे ट्रेन में बैठे एक व्यम्क्त ने 1 के 35 ममनट 
+बाद दूसरी िायररंग सुनी। यदद ट्रेन की गतत 97.2 ककमी/घंटा है। ध्वतन की गतत ज्ञात कीम्जए (m/s में)?  
+a) 315              b) 330  
+ 
+c) 300               d) 320  
+51. You travel by Delhi Metro every day from Botanical Garden, Noida to Hauz Khash, Delhi. At Hauz Khash 
+metro station, you see an escalator to get out of the station. The escalator takes 80 seconds. One day, the 
+escalator was not working and you walk up the escalator in 50 seconds. How many minutes does it 
+approximately take you to walk down the working escalator? 
+आप हर बदन बदल्ली मेट्रो से  ॉट्बनकल गार्डन, नोएर्ा से हौज खास, बदल्ली तक यात्रा करते हैं। हौज खास मेट्रो स्टेशन पर आपको स्टेशन 
+से  ाहर बनकलने के बलए एक एस्केलेट्र बदखाई देता है। एस्केलेट्र में 80 सेकिंर् लगते हैं। एक बदन, एस्केलेट्र काम नहीिं कर रहा था 
+और आप 50 सेकिंर् में एस्केलेट्र पर चढ़ जाते हैं। काम कर रहे एस्केलेट्र से नीचे चलने में आपको लगभग बकतने बमनट् लगते हैं? 
+A) 1.5 minutes                 C) 2.2 minutes 
+B) 2.8 minutes                 D) 2.6 minutes 
+ 
+ 
+ 
+                                           BY:-GAGAN PRATAP 
+52. Ajit Singh left from place P at 9.30 a.m. for place Q, and David Raj left place Q at 1.30 p.m. for place P. The 
+distance between them is 416 km. If Ajit Singh's speed is 44 km/h and David Raj's speed is 52km/h, then 
+at what time will they meet each other? 
+vftr flag lqcg 9.30 cts LFkku P ls LFkku Q ds fy, pyuk 'kq: djrk gS vkSj MsfoM jkt nksgij 1.30 cts LFkku Q ls LFkku P ds fy, pyuk 'kq: djrk gSA muds 
+chp dh nwjh 416 km gSA ;fn vftr flag dh pky 44 km/h gS vkSj MsfoM jkt dh pky 52 km/h gS] rks os ,d nwljs ls fdrus cts feysaxs\ 
+ 
+(a)4.30 p.m. 
+      
+(b)5 p.m.  
+ 
+(c)6 p.m.  
+ 
+(d)4 p.m. 
+53. The two trains leave Varanasi for Lucknow at 11.00 a.m. and at 11.30 a.m., respectively and travel at a 
+speed of 110 km/h. and 140 km/h. respectively. How many kilometers from Varanasi will both trains meet? 
+दो ट्रेन वाराणसी से िखनऊ िे किए सुबह 11.00 बजे और 11.30 बजे प्रस्थान िरती हैं, क्रमशः 110 किमी / घंटा और 140 किमी / घंटा िी गकत से से चिती है। दोनों ट्रेनें वाराणसी से कितने 
+कििोमीटर िी दूरी पर एि दूसरे से कमिेंगी? 
+a) 246
+𝟏
+𝟑 km 
+ 
+b) 238
+𝟐
+𝟑 km 
+ 
+c) 255
+𝟏
+𝟑 km 
+ 
+d) 256
+𝟐
+𝟑 km 
+54. A train travelling at a speed of 60 km/h leaves station A at 7:00 a.m. and another train travelling at a speed 
+of 84 km/h starts from station A at 9:30 a.m. in the same direction on a parallel track. At what distance 
+(in km) from station A and after how many hours of travel of the second train will they be together? Express 
+your answer in the same order. 
+60 ककमी/घंटा की गतत से चलने वाली एक ट्रेन स्टेशन A से सुबह 7:00 बजे तनकलती है और 84 ककमी/घंटा की गतत से चलने वाली 
+दूसरी ट्रेन स्टेशन A से सुबह 9:30 बजे समानांतर ट्रैक पर उसी ददशा में चलती है . स्टेशन A से ककतनी दूरी (ककमी में) पर और दूसरी 
+ट्रेन की यात्रा के ककतने घंटे बाद वे एक साथ होंगे? इसी क्रम में अपना उत्तर व्यक्त करें। 
+(SSC MTS 2024) 
+ A) 693, 8.25 
+ B) 525, 6.25  
+ C) 375, 6.25  
+ D) 495, 8.25 
+55. train started from station A and proceeded towards station B at a speed of 212 kmph. 45 minutes later, 
+another train started from station B and proceeded towards station A at 20 kmph. If the distance between 
+the two stations is 855 kms, at what distance from 
+station A will the trains meet? (In km) 
+एक ट्रेन 212 kmph की गतत से स्टेशन A से स्टेशन B के मलए चली। 45 ममनट बाद, दूसरी ट्रेन 20kmph की गतत से स्टेशन B से 
+स्टेशन A के मलए चली। यदद दोनों स्टेशनों के बीच की दूरी 855 kms है, तो दोनों ट्रेनें स्टेशन A से ककतनी दूरी पर ममलेंगी? (km में). 
+UP POLICE SI 2021 
+(A) 785  
+(B) 775 
+(C) 795  
+(D) 765 
+56. A train leaves station A at 5 AM and reaches station B at 9 AM on the same day. Another train leaves 
+station B at 7 AM and reaches station A at 10:30 AM on the same day. The time at which the two trains 
+cross each other is: 
+एक ट्रेन स्टेशन A से सुबह 5 बजे चलती है और उसी ददन सुबह 9 बजे स्टेशन B पहुंचती है। दूसरी ट्रेन सुबह 7 बजे स्टेशन B से तनकलती 
+है और उसी ददन सुबह 10:30 बजे स्टेशन A पहुंचती है। ममलने का समय ज्ञात करें? 
+(a) 8: 26 AM  
+(b) 7: 36 AM 
+(c) 7: 56 AM    (d) 8:14 AM 
+57. A train leaves station A at 8 am and reaches station B at 12 noon. A car leaves station B at 8:30 am and 
+reaches station A at the same time when the train reaches station B. At what time do they meet? 
+,d jsyxkM+h] lqcg 8 cts LVs'ku A ls fudyrh gS vkSj nksigj 12 cts LVs'ku B ij igqaprh gSA ,d dkj lqcg 8 : 30 cts LVs'ku B ls fudyrh gS vkSj LVs'ku A ij mlh 
+le; igqaprh gS tc jsyxkM+h LVs'ku B ij igqaprh gSA os ,d&nwljs ls fdl le; feyrh gS\ 
+(a) 
+9 : 38 am 
+(b) 
+10 : 22 am 
+(c) 
+10 : 08 am 
+(d) 
+9 : 52 am 
+ 

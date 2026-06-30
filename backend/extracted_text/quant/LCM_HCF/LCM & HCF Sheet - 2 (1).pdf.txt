@@ -1,0 +1,2031 @@
+ 
+ 
+ 
+1. 
+Which of the following statement is true? 
+ 
+निम्ननिखित में से सत्य कथि चुनिए ? 
+ 
+[A] 
+HCF of two numbers is the smallest common divisor of both numbers. 
+ 
+ 
+दो संख्याओं का HCF ,दोिों संख्याओं का सबसे छोटा सह भाजक है। 
+ 
+[B] 
+LCM of two natural numbers is divisible by their HCF. 
+ 
+ 
+दो प्राकृततक संख्याओं का LCM उिके HCF द्वारा विभाज्य है 
+ 
+[C] 
+HCF+LCM of two numbers = Product of the two numbers 
+ 
+ 
+दो संख्याओं का (HCF + LCM) = दो संख्याओं का गुणिफि 
+ 
+[D] 
+Two prime numbers are co-prime numbers if their LCM is 1. 
+ 
+ 
+तो दो अभाज्य संख्याएँ, सह अभाज्य संख्याएँ हैं यदद उिके LCM 1 हैं 
+2. 
+Let P = QQQ be a 3-digit number. What is the HCF of P and 481 ? 
+ 
+माि िीनजए P = QQQ कोई 3-अंकों की संख्या है । P और 481 का महत्तम समापिततक (HCF) क्या है ? (UPSC CSAT 2025) 
+ 
+[A] 
+1 
+[B] 
+13 
+ 
+[C] 
+37 
+[D] 
+481 
+3. 
+What is the HCF of 11, 44, 121, 88 and 1331? 
+ 
+11, 44, 121,88 और 1331 का महत्तम समापिततक (HCF) क्या है? 
+ 
+[A] 
+22 
+[B] 
+11 
+ 
+[C] 
+2 
+[D] 
+8 
+ 
+4. 
+The HCF of 1020, 850 and 1156 is: 
+ 
+1020,850 और 1156 का महत्तम समापिततक ज्ञात करें। 
+ 
+[A] 
+28 
+[B] 
+24 
+ 
+[C] 
+34 
+[D] 
+22  
+5. 
+The HCF of 408 and 1309 is: 
+ 
+408 और 1309 का HCF है: 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+17 
+[B] 
+21 
+ 
+[C] 
+19 
+[D] 
+15 
+6. 
+What is the largest common divisor of the numbers 1026, 2268 and 2430?  
+ 
+संख्या 1026, 2268 और 2430 को महत्तम समापिततक क्या है? 
+ 
+(SSC CGL 2022) 
+ 
+[A] 
+108 
+[B] 
+54 
+ 
+[C] 
+81 
+[D] 
+27  
+ 
+ 
+ 
+ 
+ 
+7. 
+The HCF of 552, 759 and 828 is x .The value of x lies between : 
+ 
+552, 759 और 828 का HCF x है। x का माि ज्ञात कीनजए ? 
+ 
+GD Constable 15/12/2021 (Morning) 
+ 
+[A] 
+65 and 70 
+[B] 
+60 and 65 
+ 
+[C] 
+55 and 60 
+[D] 
+70 and 75 
+8. 
+The HCF of 767, 1003 and 2773 is x. The value of x lies between: 
+ 
+767, 1003 और 2773 का म.स. x है। x का माि वकसके बीच है ? 
+ 
+GD Constable 06/12/2021 (Afternoon)  
+ 
+[A] 
+60 and 65 
+[B] 
+55 and 60 
+ 
+ 
+ 
+[C] 
+45 and 50 
+[D] 
+50 and 55 
+9. 
+Two positive numbers differ by 2858. When the greater number is divided by the smaller number, the 
+quotient is 5 and the remainder is 178. What is the HCF of the greater of the two given numbers and 
+3828? 
+ 
+दो धिात्मक संख्याओं के बीच 2858 का अंतर है। जब बडी संख्या को छोटी संख्या से विभानजत वकया जाता है, तो भागफि 5 
+होता है और शेषफि 178 होता है। दी गई दो संख्याओं में से बडी संख्या और 3828 का HCF वकतिा है? 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[A] 
+17 
+[B] 
+13 
+ 
+[C] 
+12 
+[D] 
+11 
+10. 
+Let x be the least number which when divided by 16, 24, 30, 36 and 45, the remainder in each case is 
+4, and x is divisible by 28. If the HCF of x and 3193 is y, then what is the sum of the digits of y? 
+ 
+माि िीनजए x सबसे छोटी संख्या है नजसे 16, 24, 30, 36 और 45 से विभानजत करिे पर प्रत्येक स्थितत में शेष 4 है, और x ,28 
+से विभाज्य है। यदद x और 3193 का HCF y है, तो y के अंकों  का योग क्या है? 
+ 
+[A] 
+4 
+[B] 
+9 
+ 
+[C] 
+5 
+[D] 
+10 
+11. 
+If 𝒂= 𝟐𝟑× 𝟑𝟒× 𝟓× 𝟕𝟑, 𝒃= 𝟐𝟑× 𝟑𝟒× 𝟓𝟐× 𝟕𝟒 & 𝒄= 𝟐𝟒× 𝟑𝟐× 𝟓𝟒× 𝟕, then the HCF of a, b and c? 
+ 
+यदद 𝒂= 𝟐𝟑× 𝟑𝟒× 𝟓× 𝟕𝟑, 𝒃= 𝟐𝟑× 𝟑𝟒× 𝟓𝟐× 𝟕𝟒 & 𝒄= 𝟐𝟒× 𝟑𝟐× 𝟓𝟒× 𝟕 , तो a, b और c का HCF क्या है ? 
+ 
+(SSC MTS 2024) 
+ 
+[A] 
+1260 
+[B] 
+1575 
+ 
+[C] 
+630 
+[D] 
+180  
+12. 
+The HCF of x1.5 × y2.5 and y3.5 × x2.5 is ____. 
+ 
+x1.5 × y2.5 और y3.5 × x2.5 का म.स.प. (HCF) ज्ञात कीनजए। 
+ 
+[A] 
+𝒙× 𝒚𝟐× √𝒙× 𝒚 
+[B] 
+𝒙𝟐× 𝒚× √𝒙× 𝒚 
+ 
+[C] 
+𝒙𝟐× 𝒚𝟐× √𝒙× 𝒚 
+[D] 
+𝒙× 𝒚× √𝒙× 𝒚 
+13. 
+The highest common factor and the least common multiple of 432, 648 and 576 are ____ and ____, 
+respectively. 
+ 
+432, 648 और 576 का महत्तम समापिततक और िघुत्तम समापित्यत क्रमशः ------और ----- हैं। 
+ 
+[A] 
+72,5184 
+[B] 
+36,5184 
+ 
+[C] 
+36,2592 
+[D] 
+72,2592 
+ 
+14. 
+The LCM of 165, 176, 385 and 495 is k. When k is divided by the HCF of the numbers, 
+ 
+the quotient is p. What is the value of p? 
+ 
+165, 176, 385 और 495 का ि. स. (LCM) k है। जब k को संख्याओं के म.स. (HCF) द्वारा विभानजत वकया जाता है, तो 
+भागफि p प्राप्त होता है। P का माि बताइए। 
+ 
+[A] 
+26.375 
+[B] 
+26.125  
+ 
+[C] 
+26.000 
+[D] 
+26.250 
+ 
+15. 
+In finding the HCF of two numbers by division method four successive quotient are 4,3 ,6 and 5 
+respectively and final divisor is 12. What are two numbers? 
+ 
+विभाजि वितध द्वारा दो संख्याओं के HCF ज्ञात करिे में चार क्रनमक भागफि क्रमशः 4, 3, 6 और 5 हैं। और अंततम भाजक 12 
+है, दो संख्याएँ क्या हैं? 
+ 
+[A] 
+1226, 5376 
+[B] 
+1116, 4836  
+ 
+ 
+[C] 
+1056, 4596 
+[D] 
+1176, 5076 
+16. 
+In finding the HCF of two numbers by division method, the last divisor is 17 and the quotients are 1, 11 
+and 2 respectively. What is sum of the two numbers? 
+ 
+ 
+ 
+यदद विभाजि वितध द्वारा दो संख्याओं का महत्तम समापिततक ज्ञात करिे पर, अंततम भाजक 17 है और भागफि क्रमशः 1, 11 
+और 2 प्राप्त होते हों, तो उि दोिों संख्याओं का योग क्या होगा? 
+ 
+[A] 
+833 
+[B] 
+901  
+ 
+ 
+[C] 
+816 
+[D] 
+867 
+17. 
+In finding the HCF of two numbers by division method, the quotients are 4, 6 and 9, respectively, and 
+the last divisor is 45. What is the LCM of the two numbers? 
+ 
+विभाजि वितध द्वारा दो संख्याओं का महत्तम समापिततक (HCF) ज्ञात करिे पर, भागफि क्रमशः 4, 6 और 9 होते हैं, तथा 
+अंततम भाजक 45 होता है। दोिों संख्याओं का िघुत्तम समापित्यत (LCM) ज्ञात कीनजए। 
+ 
+(IB ACIO GRADE-2 2025) 
+ 
+[A] 
+566778 
+[B] 
+566771 
+ 
+[C] 
+566772 
+[D] 
+566775 
+18. 
+Find the greatest number that divides 556, 763 and 349 and leaves 4 as remainders respectively. 
+ 
+िह अतधकतम संख्या ज्ञात करें नजससे 556, 763 तथा 349 में भाग देिे पर प्रत्येक स्थितत में 4 शेष बचता है? 
+ 
+[A] 
+69 
+[B] 
+92  
+ 
+ 
+[C] 
+36 
+[D] 
+54 
+19. 
+The greatest number, which divides 1163 and 2214 to leave 15 and 82 respectively as remainders, is: 
+ 
+िह बडी से बडी संख्या ज्ञात कीनजए, नजससे 1163 और 2214 को भाग देिे पर क्रमशः 15 और 82 शेषफि प्राप्त हो। 
+ 
+(SSC GD 2025) 
+ 
+[A] 
+173 
+[B] 
+169 
+ 
+[C] 
+159 
+[D] 
+164 
+20. 
+Find the greatest number that divides 797, 1085 and 1232 and leaves 16,20,25 as remainders 
+respectively. 
+ 
+िह अतधकतम संख्या क्या है, नजससे 797, 1085  तथा 1232 में भाग देिे पर क्रमशः16,20,25  शेष बचता है? 
+ 
+[A] 
+69 
+[B] 
+71  
+ 
+ 
+[C] 
+65 
+[D] 
+91  
+21. 
+What is the greatest number which when divides 1128, 1537 and 1834 leaves remainders 7, 3 and 5, 
+respectively? 
+ 
+िह सबसे बडी संख्या ज्ञात कीनजए, नजससे 1128, 1537 और 1834 को विभानजत करिे पर शेषफि के रूप में क्रमशः 7, 3 और 5 
+प्राप्त होता है। 
+ 
+[A] 
+43 
+[B] 
+54  
+ 
+ 
+[C] 
+59 
+[D] 
+67 
+22. 
+What is the largest number that divides 627, 15630 and 3128 and leaves remainders of 2, 5 and 3, 
+respectively? 
+ 
+िह सबसे बडी संख्या कौि-सी है नजससे 627, 15630 और 3128 को भाग देिे पर क्रमशः 2, 5 और 3 शेषफि बचता है? 
+ 
+(SSC MTS 2023) 
+ 
+[A] 
+775 
+[B] 
+650 
+ 
+ 
+[C] 
+625 
+[D] 
+1225 
+23. 
+The sides of a triangular field are 62 m, 186 m and 279 m. Find the greatest length of tape that would 
+be able to exactly measure each of them without any fractions. 
+ 
+एक तिभुजाकार मैदाि की भुजाएँ 62 m, 186 m और 279 m हैं। उस टेप की अतधकतम िंबाई ज्ञात कीनजये जो इिमें से प्रत्येक 
+को वबिा कोई टुकडा वकए सटीकता से मापिे में सक्षम हो। 
+ 
+[A] 
+62 m 
+[B] 
+93 m 
+ 
+[C] 
+31 m 
+[D] 
+30 m 
+ 
+ 
+24. 
+Find the length of the largest possible length scale by which pillars of lengths 3m 96cm, 5m 28cm 
+and 7m 92cm can be measured to the exact bar.  
+ 
+िह बडी से बडी संभि िंबाई िािे पैमािे की िंबाई ज्ञात कीनजए, नजसके द्वारा 3m 96 cm, 5 m 28 cm और 7 m 92 cm 
+िंबाई िािे िंभों को सटीक बार में मापा जा सकता है। 
+ 
+RRB Group D- 2022 
+ 
+[A] 
+33 cm 
+[B] 
+66 cm 
+ 
+[C] 
+1 m 32 cm 
+[D] 
+3 m 21 cm 
+25. Deepesh has 168 litres of Oil A and 234 litres of Oil B. He fills a number of identical containers with the 
+two types of oil in a manner that each container has only one type of oil, and all containers are 
+completely filled. What can be the maximum volume (in litres) of each container that Deepesh uses, 
+so that all the oil that Deepesh has, of both the types, can be poured into these containers? 
+दीपेश के पास 168 िीटर तेि A और 234 िीटर तेि B है। िह कई समाि कंटेिरों को दोिों प्रकार के तेि से इस प्रकार भरता है 
+वक प्रत्येक कंटेिर में केिि एक प्रकार का तेि होता है, और सभी कंटेिर पूरी तरह से भरे होते हैं। दीपेश द्वारा उपयोग वकए जािे 
+िािे प्रत्येक कंटेिर का अतधकतम आयति (िीटर में) वकतिा हो सकता है, नजससे वक दीपेश के पास मौजूद दोिों प्रकार के 
+तेि को इि कंटेिरों में भरा जा सके? 
+[A] 
+10 
+[B] 
+6 
+[C] 
+14 
+[D] 
+5 
+26. 
+Three vessels are filled with 204, 136 and 119 liters of water respectively. Find the maximum capacity 
+of that small vessel, by which the water of all the vessels can be completely measured in a certain 
+number of times.  
+ 
+तीि बततिों में क्रमशः 204, 136 तथा 119 िीटर पािी भरा हुआ है। उस छोटे बतति की अतधकतम धाररता ज्ञात कीनजए, नजससे 
+सभी बततिों के पािी को निनित बार में पूणतया मापा जा सकता हो 
+ 
+RRB NTPC 2021 
+ 
+[A] 
+15 liter 
+[B] 
+17 liter 
+ 
+[C] 
+19 liter 
+[D] 
+18 liter 
+27. 
+A forester wants to plant 76 apple trees, 114 banana trees and 152 mango trees in equal rows (in 
+terms of number of trees). Also, he wants to make distinct rows of trees (i.e. only one type of tree in 
+one row). Find the number of rows (minimum) that are required. 
+ 
+एक ििपाि 76 सेब के पेड, 114 केिे के पेड और 152 आम के पेड बराबर कतारों में िगािा चाहता है (पेडों की संख्या के 
+अिुसार)। िह अिग-अिग कतारें भी बिािा चाहता है (अथात एक कतार में केिि एक प्रकार का पेड हो)। आिश्यक 
+न्यूितम कतारों की संख्या ज्ञात कीनजए। 
+ 
+UP S.I. 14/11/2021 (Morning) 
+ 
+[A] 
+11 
+[B] 
+10  
+ 
+[C] 
+12 
+[D] 
+9 
+28. 
+A shopkeeper has 3 different qualities of oil. 598 litres of 1st quality, 644 litres of 2nd quality and 667 
+litres of 3rd quality. Find the least possible number of bottles of equal size in which different Oil of 
+different qualities can be filled without mixing? 
+ 
+एक दुकािदार के पास 3 अिग-अिग गुणित्ता िािे तेि हैं। पहिी गुणित्ता का 598 िीटर, दूसरी गुणित्ता का 644 िीटर 
+और तीसरी गुणित्ता का 667 िीटर। समाि आकार की उि बोतिों की न्यूितम संख्या ज्ञात कीनजए नजिमें अिग-अिग 
+गुणित्ता िािे तेि को वबिा नमिाए भरा जा सकता है? 
+ 
+UP S.I. 22/11/2021 (Morning) 
+  
+[A] 
+83 
+[B] 
+81  
+ 
+[C] 
+80 
+[D] 
+23 
+ 
+ 
+29. 
+In a seminar the number of participants in subjects A, B and C are 96, 160 and 224 respectively. 
+Arrangements for the stay of these participants are to be made in separate rooms, out of which all 
+the rooms will have the same number of participants and one room will have participants from the 
+same subject. Find the minimum number of rooms required to arrange it this way.  
+ 
+एक सेनमिार में A, B और C विषयों में प्रततभागगयों की संख्या क्रमशः 96, 160 और 224 है। इि प्रततभागगयों के रूकिे की 
+व्यििा अिग-अिग कमरों में की जािी है, नजिमें से सभी कमरों में प्रततभागगयों की संख्या समाि होगी और एक कमरे में 
+एक ही विषय के प्रततभागी होंगे। इस प्रकार व्यिस्थित करिे के निए आिश्यक कमरों की न्यूितम संख्या ज्ञात कीनजए। 
+ 
+RRB Group D- 2022 
+ 
+[A] 
+15 
+[B] 
+32 
+ 
+[C] 
+12 
+[D] 
+24 
+30. 
+Four ropes of lengths 102 m, 119m, 153 m and 204 m are to be cut into parts of equal length, each part 
+must be as long as possible. What is the minimum number of pieces that can be cut? 
+ 
+102 मीटर, 119 मीटर, 153 मीटर और 204 मीटर िंबी चार रस्सियों को समाि िंबाई के भागों में काटिा है, प्रत्येक भाग 
+नजतिा संभि हो उतिा िंबा होिा चारहए। काटे जा सकिे िािे टुकडों की न्यूितम संख्या क्या है? 
+ 
+[A] 
+42 
+[B] 
+36 
+ 
+[C] 
+252 
+[D] 
+34 
+31. 
+A can X contains 399 litres of petrol and a can Y contains 532 litres of diesel. They are to be bottled in 
+bottles of equal size so that whole of petrol and diesel would be separately bottled. The bottle 
+capacity in terms of litres is an integer. How many different bottle sizes are possible? 
+ 
+एक कैि X में 399 िीटर पेट्रोि है और एक कैि Y में 532 िीटर डीजि है। उन्हें समाि आकार की बोतिों में बोतिबंद वकया 
+जािा चारहए तावक पूरा पेट्रोि और डीजि अिग-अिग बोतिबंद हो। िीटर के संदभत में बोति की क्षमता एक पूणाांक है। 
+वकतिे अिग-अिग बोति आकार संभि हैं? 
+ 
+(UPSC CSAT 2024) 
+ 
+[A] 
+3 
+[B] 
+4 
+ 
+[C] 
+5 
+[D] 
+6 
+32. 
+A farmer has 945 cows and 2475 sheep. He farms them into flocks, keeping cows and sheep separate 
+and having the same number of animals in each flock. If these flocks are as large as possible, then 
+the maximum number of animals in each flock and total number of flocks required for the purpose 
+are respectively 
+ 
+एक वकसाि के पास 945 गायें तथा 2475 भेडे हैं, िह उन्हें झुंडो में इस तरह बाँटता है वक प्रत्येक झुंड में बराबर पशु हो और गाय 
+तथा भेंडे अिग-अिग हो, यदद ये झुंड अतधकतम नजतिा बडा हो सकता है उतिा बडा हो, तो एक झुंड में वकतिे पशु हैं तथा झुंडो 
+की संख्या वकतिी है 
+ 
+[A] 
+15 and 228 
+[B] 
+9 and 380   
+ 
+[C] 
+45 and 76 
+[D] 
+46 and 75 
+33. 
+The length and the breadth of the floor of a rectangular hall are 98 feet and 70 feet, respectively. If all 
+persons in the hall are allotted equal square spaces as workstations, what will be the area of the 
+largest such workstation that can be allotted to any user, assuming no space in the hall is left 
+unoccupied? 
+ 
+एक आयताकार हॉि के फशत की िंबाई और चौडाई क्रमशः 98 फीट और 70 फीट है। यदद हॉि में सभी व्यगियों को कायतिि 
+के रूप में समाि िगत िाि आिंरटत वकए जाते हैं, तो ऐसे सबसे बडे कायत केंद्र का क्षेिफि क्या होगा नजसे वकसी भी 
+उपयोगकतात को आिंरटत वकया जा सकता है, यह मािते हुए वक हॉि में कोई भी िाि िािी िहीं छोडा गया है? 
+ 
+[A] 
+196 sq. ft 
+[B] 
+144 sq. ft  
+ 
+[C] 
+100 sq. ft 
+[D] 
+256 sq. ft 
+ 
+ 
+34. 
+There are three farms, whose area is 288, 408 and 552 square meters, respectively.in which rows of 
+equal length has to be made, If the width of each row is 4 meters, then what will be the maximum 
+length? 
+ 
+तीि िेत हैं, नजिका क्षेिफि क्रमशः 288, 408 एिं 552 िगतमीटर है। इिमें बराबर-बराबर िाप की फूि की क्याररयां बिािी 
+है। यदद प्रत्येक क्यारी की चौडाई 4 मीटर हो, तो उिकी अतधकतम िम्बाई क्या होगी? 
+ 
+[A] 
+3 metre 
+[B] 
+5 metre 
+ 
+ 
+ 
+[C] 
+4 metre 
+[D] 
+6 metre 
+35. 
+A rectangular courtyard is 5m 52cm long and 8m97cm broad. It is to be paved with the square tiles of 
+the same size. Find the least number of such square tiles required to pave the rectangular courtyard. 
+ 
+एक आयताकार आंगि 5m 52cm िंबा और 8m97cm चौडा है। इसे समाि आकार की िगातकार टाइिों से पक्का वकया 
+जािा है। आयताकार आंगि को पक्का करिे के निए आिश्यक ऐसी िगातकार टाइिों की न्‍यूितम संख्या ज्ञात कीनजए।  
+ 
+(SSC MTS 2024) 
+ 
+[A] 
+104 
+[B] 
+88 
+ 
+[C] 
+105 
+[D] 
+117  
+ 
+ 
+36. 
+The HCF of two numbers is 12. Which one of the following can never be their LCM?  
+ 
+दो संख्याओं का महत्तम समापिततक 12 है। निम्ननिखित में से कौि-सा उिका िघुत्तम समापित्यत कभी िहीं हो सकता है? 
+ 
+[A] 
+72 
+[B] 
+60 
+ 
+[C] 
+90 
+[D] 
+84 
+37. 
+The least common multiple of two numbers is 588. Which of the following cannot be their Highest 
+common factor?  
+ 
+दो संख्याओं का िघुत्तम समापित्यत 588 है। निम्नांवकत में से कौि-सा उिका महत्तम समपिततक िहीं हो सकता है? 
+ 
+RRB Group D- 2022 
+ 
+[A] 
+28 
+[B] 
+35 
+ 
+[C] 
+49 
+[D] 
+21  
+38. 
+About the number of pairs which have 15 as their HCF and 138 as their LCM, we can definitely say 
+that? 
+ 
+उि जोरडयों की संख्या के बारे में नजिका HCF 15 और LCM 138 है, हम निनित रूप से ऐसा कह सकते हैं? 
+ 
+UP CONSTABLE LEAK PAPER 17FEB SHIFT- 1) 
+ 
+[A] 
+No such pair exist 
+ 
+[B] 
+Only one such pair exist 
+ 
+[C] 
+Only two such pairs exist 
+ 
+[D] 
+Many such pair exist 
+39. 
+The HCF of x and y is H. Consider the following statements in respect of the HCF of 𝒑 =
+𝒙𝟑+ 𝒚𝟑
+𝒙𝟐− 𝒙𝒚 + 𝒚𝟐 𝒂𝒏𝒅 𝒒 =
+𝒙𝟑− 𝒚𝟑
+𝒙𝟐+ 𝒙𝒚 + 𝒚𝟐: 
+ 
+x और y का HCF H है। 𝒑 =
+𝒙𝟑+ 𝒚𝟑
+𝒙𝟐− 𝒙𝒚 + 𝒚𝟐 𝒂𝒏𝒅 𝒒 =
+𝒙𝟑− 𝒚𝟑
+𝒙𝟐+ 𝒙𝒚 + 𝒚𝟐: के HCF के संबंध में निम्ननिखित कथिों पर विचार करें  
+ 
+I. 
+The HCF of p and q can be H/p और q का HCF H हो सकता है। 
+ 
+II. 
+The HCF of p and q can be 2H/p और q का HCF 2H हो सकता है। 
+ 
+Which of the statements given above is/are correct?/ऊपर ददए गए कथिों में से कौि सा/से सही है/हैं?  
+ 
+(UPSC CDS -II 2025) 
+ 
+[A] 
+I only 
+[B] 
+II only 
+ 
+[C] 
+Both I and II 
+[D] 
+Neither I nor II 
+40. 
+The HCF of three numbers is 57. If they are in the ratio of 4 : 5 : 6, then find the numbers. 
+ 
+ 
+ 
+तीि संख्याओं का महत्तम समापिततक (HCF) 57 है। यदद इि संख्याओं को अिुपात 4 : 5 : 6 है, तो संख्याएं ज्ञात कीनजए। 
+ 
+(SSC MTS 2023) 
+ 
+[A] 
+228, 285, 342 
+[B] 
+236, 295, 354 
+ 
+ 
+[C] 
+240, 300, 360 
+[D] 
+232, 290, 348 
+41. 
+The HCF and LCM of two numbers are 48 and 720. Ratio of two numbers is 3 : 5. Then find the larger 
+number. 
+ 
+दो संख्याओं का HCF और LCM क्रमशः 48 और 720 हैं। दो संख्याओं का अिुपात 3 : 5 है। वफर बडी संख्या क्या है  
+ 
+[A] 
+280 
+[B] 
+360 
+ 
+[C] 
+240 
+[D] 
+300 
+42. 
+The H.C.F. of the two numbers is 37 and the other two divisors of their Least Common Multiple are 21 
+and 23. Find the smallest number among them. 
+ 
+ 
+दो संख्याओं का महत्तम समापिततक 37 है तथा उिके िघुत्तम समापित्यत के अन्य दो भाजक 21 और 23 हैं। उिमें से सबसे छोटी 
+संख्या ज्ञात कीनजए। 
+ 
+UP S.I. 23/11/2021 (Morning) 
+  
+[A] 
+687 
+[B] 
+397  
+ 
+[C] 
+777 
+[D] 
+527 
+43. 
+Two numbers are in the ratio 6:11. If their HCF is 28, then the sum of these two numbers will be 
+ 
+दो संख्याएँ 6 : 11 के अिुपात में हैं। यदद उिकी HCF 28 है, तो इि दो संख्याओं का योग होगा? 
+ 
+[A] 
+420 
+[B] 
+448    
+ 
+ 
+[C] 
+392 
+[D] 
+476 
+44. 
+The ratio of two numbers is 9:11 and their HCF is 18, then their LCM is: 
+ 
+दो संख्याओं का अिुपात 9: 11 है और महत्तम समापिततक 18 है तो उिका िघुत्तम समापित्यत है: 
+ 
+[A] 
+1718 
+[B] 
+1782 
+ 
+ 
+[C] 
+1584 
+[D] 
+1208  
+45. 
+Three numbers are in the ratio 3 : 2 : 13, and their LCM is 4758. Their HCF is ______. 
+ 
+यदद तीि संख्याएं 3 : 2 : 13 के अिुपात में हैं, और उिका िघुत्तम समापित्यत (LCM) 4758 है, तो उिका महत्तम समापिततक 
+(HCF) ज्ञात कीनजए। 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[A] 
+46 
+[B] 
+64 
+ 
+[C] 
+61 
+[D] 
+75 
+46. 
+Three numbers are in the proportion of 3 : 8 : 15 and their LCM is 8280. What is their HCF? 
+ 
+तीि संख्याएँ 3: 8: 15 के अिुपात में हैं और उिका िघुत्तम समापित्यत 8280 हैं उिका महत्तम समापिततक क्या होगा? 
+ 
+[A] 
+60 
+[B] 
+69 
+ 
+[C] 
+75 
+[D] 
+57 
+47. 
+The ratio of four positive numbers is 5 : 8 : 12 : 18 and their LCM is 2880. The difference between the 
+graeter and the smaller number is? 
+ 
+चार धिात्मक संख्याओं का अिुपात 5 : 8 : 12 : 18 है और उिका LCM 2880 है। बडी और छोटी संख्या के बीच अंतर क्या है? 
+ 
+(SSC GD 2021) 
+ 
+[A] 
+114 
+[B] 
+124 
+ 
+[C] 
+104 
+[D] 
+106 
+48. 
+The sum of LCM and HCF of two numbers is 4956. Those numbers have a ratio of 11: 16. What's the 
+difference between LCM and HCF of two numbers? 
+ 
+ 
+ 
+दो संख्याओं के ि.स. तथा म.स का योग 4956 है। उि संख्याओं में 11 : 16 का अिुपात है। उि संख्याओं के ि.स. तथा म.स. का 
+अंतर क्या है? 
+ 
+[A] 
+4480 
+[B] 
+4620 
+ 
+ 
+ 
+[C] 
+4780 
+[D] 
+4900 
+49. 
+The LCM of 165, 176, 385 and 495 is k. When k is divided by the HCF of the numbers, the quotient is p. 
+What is the value of p? 
+ 
+165, 176, 385 और 495 का ि. स. (LCM) k है। जब k को संख्याओं के म.स. (HCF) द्वारा विभानजत वकया जाता है, तो 
+भागफि p प्राप्त होता है। p का माि बताइए। 
+ 
+[A] 
+2520 
+[B] 
+5040 
+ 
+ 
+ 
+[C] 
+6720 
+[D] 
+3360 
+50. 
+The sum of two numbers is 1215 and their HCF is 81. How many pairs of such number is possible? 
+ 
+दो संख्याओं का योग 1215 है और उिका HCF 81 है। ऐसी संख्याओं के वकतिे युग्म  संभि हैं? 
+ 
+[A] 
+4 
+[B] 
+2 
+ 
+ 
+ 
+[C] 
+3 
+[D] 
+5 
+51. 
+How many pairs of positive integers p, q exist such that the HCF of p, q is 37 and the sum of p and q is 
+1961?  
+ 
+धिात्मक पूणाांक p, q के ऐसे वकतिे युग्म मौजूद हैं नजिमें p, q का महत्‍तम समापिततक (HCF) 37 हो तथा p और q का 
+योगफि 1961 है? 
+ 
+[A] 
+54 
+[B] 
+26  
+ 
+ 
+[C] 
+53 
+[D] 
+28 
+52. 
+The product of two numbers is 11830 and their HCF is 13. How many pairs of such number can be 
+formed? 
+ 
+िह दो संख्याओं का गुणिफि 11830 है और उिका HCF 13 है। है। ऐसी संख्याओं के वकतिे युग्म  संभि हैं? 
+ 
+[A] 
+2 
+[B] 
+3 
+ 
+ 
+ 
+[C] 
+4 
+[D] 
+5 
+53. 
+The sum of two numbers is 1215 and their HCF is 81. If the numbers lie between 500 and 700, then the 
+sum of the reciprocals of the numbers is …… 
+ 
+दो संख्याओं का योगफि 1215 है तथा उिका म.स. (HCF) 81 है। यदद संख्याएं 500 और 700 के बीच में हैं, तो संख्याओं के 
+व्युत्क्रमों का योग ______ होगा। 
+ 
+[A] 
+𝟓
+𝟕𝟎𝟐 
+[B] 
+ 
+𝟓
+𝟑𝟕𝟖  
+ 
+ 
+[C] 
+𝟓
+𝟏𝟓𝟏𝟐 
+[D] 
+ 
+𝟓
+𝟏𝟏𝟖𝟖 
+54. 
+If HCF and LCM of two numbers are 5 and 495. If sum of both numbers is 100. Find difference of them. 
+ 
+दो संख्याओं का HCF और LCM  क्रमशः 5 और 495 है। यदद दोिों संख्याओं का योग 100 है, तो उिका अंतर ज्ञात कीनजए। 
+ 
+[A] 
+9 
+[B] 
+10  
+ 
+ 
+[C] 
+15 
+[D] 
+5 
+55. 
+The LCM and HCF of two numbers are 455 and 13 respectively. If one of them is located in the middle 
+of 75 and 125, then that number is. 
+ 
+दो संख्याओं का म. स. 13 ि ि. स. 455 है । यदद उिमें से एक संख्या 75 और 125 के बीच में स्थित हो, तो िह संख्या है। 
+ 
+[A] 
+78 
+[B] 
+91  
+ 
+ 
+[C] 
+104  
+[D] 
+117 
+56. 
+The HCF of two 4 digit number is 103 and their LCM is 19261. What is the sum of the two numbers? 
+ 
+दो 4 अंकीय संख्याओं का HCF 103 है और उिका LCM 19261 है। दोिों संख्याओं का योग क्या है? 
+ 
+ 
+ 
+(SSC GD 2021) 
+ 
+[A] 
+3090 
+[B] 
+2884 
+ 
+[C] 
+2678 
+[D] 
+2781 
+57. 
+The least common multiple (LCM) of two natural numbers is 1326 and their greatest common factor 
+(HCF) is 3. If the difference of the numbers is 27, find the sum of the numbers.  
+ 
+दो प्राकृत संख्याओं का िघुत्तम समापित्यत (LCM) 1326 है और उिका महत्तम समापिततक (HCF) 3 है। यदद संख्याओं का 
+अंतर 27 है, तो संख्याओं का योग ज्ञात कीनजए। 
+ 
+[RRB NTPC 2021] 
+ 
+[A] 
+129 
+[B] 
+125 
+ 
+[C] 
+140 
+[D] 
+117 
+58. 
+The HCF of two numbers is 21 and their LCM is 221 time the HCF. If one of the numbers lies between 200 
+and 300, then the sum of the digits of the other number is: 
+ 
+दो संख्याओं का HCF 21 है और उिका LCM, HCF का 221 गुिा है। यदद दोिों संख्याओं में से एक 200 और 300 के बीच है, तो 
+दूसरी संख्या के अंकों का योग है: 
+ 
+[A] 
+17 
+[B] 
+18  
+ 
+ 
+[C] 
+14 
+[D] 
+15 
+59. 
+The LCM of two numbers x and y is 204 times their HCF. If their HCF is 12 and the difference between 
+the numbers is 60, then x + y =? 
+ 
+दो संख्या x और y का LCM उिके HCF से 204 गुिा है। यदद उिकी HCF 12 है और संख्याओं का अंतर 60 है, तो x + y =? 
+ 
+[A] 
+660 
+[B] 
+426 
+ 
+ 
+ 
+ 
+[C] 
+348 
+[D] 
+852 
+60. 
+The sum of two numbers is 255 and LCM is 1080. find the numbers. 
+ 
+दो संख्याओं का योग 255 है और LCM 1080 है संख्याएँ क्या हैं? 
+ 
+[A] 
+120,135 
+[B] 
+150,105 
+ 
+ 
+[C] 
+165,90 
+[D] 
+None  
+61. 
+LCM of two numbers is 1260 and their difference is 54. Then find the sum of these two numbers? 
+ 
+दो संख्याओं का िघुतम समापित्यत 1260 है और उिका अंतर 54 है। तो इि दो संख्याओं का योग ज्ञात कीनजए? 
+ 
+[A] 
+288 
+[B] 
+306         
+ 
+[C] 
+216 
+[D] 
+342 
+62. 
+The sum of two numbers is 50 and their product is 525. The LCM of the two numbers is: 
+ 
+दो संख्याओं का योगफि 50 है और उिका गुणिफि 525 है। दोिों संख्याओं का ि.स. (LCM) ज्ञात करें। 
+ 
+MTS 2020 
+ 
+[A] 
+85 
+[B] 
+105 
+ 
+[C] 
+115 
+[D] 
+125 
+63. 
+Find the product of the numbers whose HCF and LCM are 8 and 40 respectively. 
+ 
+उि संख्याओं का गुणिफि ज्ञात कीनजए नजिके महत्तम समापिततक और िघुत्तम समापित्यत क्रमशः 8 और 40 हैं। 
+ 
+[A] 
+240 
+[B] 
+300 
+ 
+[C] 
+320 
+[D] 
+360 
+64. 
+The product of two numbers is 2028 and their HCF is 13. Find their LCM. 
+ 
+दो संख्याओं का गुणिफि 2028 है और उिका HCF 13 है। उिका LCM ज्ञात कीनजए। 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+142 
+[B] 
+156 
+ 
+[C] 
+186 
+[D] 
+168 
+ 
+ 
+65. 
+The LCM of the two numbers is 1440 and their HCF is 32. If the first number is 288, then find the second 
+number. 
+ 
+दो संख्याओं का िघुत्तम समापित्यत 1440 है और उिका महत्तम समापिततक 32 है। यदद पहिी संख्या 288 है, तो दूसरी संख्या 
+ज्ञात कीनजए। 
+ 
+(SSC MTS 2023) 
+ 
+[A] 
+150 
+[B] 
+145 
+ 
+[C] 
+180 
+[D] 
+160 
+66. 
+The HCF of two numbers 12906 and 14818 is 478.Their LCM is: 
+ 
+दो संख्याओं 12906 तथा 14818 का म.स.प.478 है। उिका ि.स.प. है। 
+ 
+[A] 
+400086 
+[B] 
+200043 
+ 
+ 
+ 
+[C] 
+600129 
+[D] 
+800172 
+67. 
+The product of two numbers is 1,48,176 and their LCM is 3,528. What is their HCF? 
+ 
+दो संख्याओं का गुणिफि 1,48,176 है तथा उिके LCM का माि 3,528 है। उिका HCF ज्ञात कीनजए। 
+ 
+(SSC GD 2025) 
+ 
+[A] 
+42 
+[B] 
+51 
+ 
+[C] 
+32 
+[D] 
+36 
+68. 
+The LCM of two numbers is 4158 and their HCF is 54. If one of the numbers is 378, what is the other 
+number? 
+ 
+दो संख्याओं के LCM का माि 4158 है तथा उिके HCF का माि 54 है। यदद उिमें से एक संख्या 378 है, तो दूसरी संख्या ज्ञात 
+कीनजए। 
+ 
+(SSC GD 2025) 
+ 
+[A] 
+495 
+[B] 
+398 
+ 
+[C] 
+594 
+[D] 
+459 
+69. 
+The HCF and the LCM of two numbers are 17 and 1224, respectively. If one of the numbers is 136, find 
+the other one. 
+ 
+दो संख्याओं का महत्तम समापिततक (H.C.F.) और िघुत्तम समापित्यत (L.C.M.) क्रमशः 17 और 1224 है। यदद इिमें से एक 
+संख्या 136 है, तो दूसरी संख्या ज्ञात कीनजए। 
+ 
+(RRB NTPC 12th LEVEL 2025) 
+ 
+[A] 
+102 
+[B] 
+153 
+ 
+[A] 
+119 
+[D] 
+85 
+70. 
+The HCF and the LCM of two numbers are 57 and 114, respectively. If one of the numbers is 9/2 times of 
+the other, what is the larger number? 
+ 
+दो संख्याओं का HCF और LCM क्रमशः 57 और 114 हैं। यदद एक संख्या दूसरी से 9/2 गुिा है, तो बडी संख्या क्या है? 
+ 
+(RRB RPF SI 2024) 
+ 
+[A] 
+124 
+[B] 
+186 
+ 
+[C] 
+154 
+[D] 
+171 
+71. 
+The least common multiple (LCM) and Highest common factor (HCF) of two numbers are 5005 and 77 
+respectively. When either of these two numbers is divided by 55, the quotient is 18 and the remainder 
+is 11. Find the second number.  
+ 
+दो संख्याओं के िघुत्तम समापित्यत (LCM) और महत्तम समापिततक (HCF) क्रमशः 5005 और 77 हैं। जब इि दोिों संख्याओं 
+में से वकसी एक को 55 से विभानजत वकया जाता है, तो भागफि 18 और शेषफि 11 प्राप्त होता है। दूसरी संख्या ज्ञात कीनजए। 
+ 
+RRB Group D- 2022 
+ 
+[A] 
+385 
+[B] 
+418 
+ 
+ 
+ 
+[C] 
+440 
+[D] 
+330 
+72. 
+When product of two numbers, is divided by its HCF then we get 5775, but when it is divided by LCM, 
+we get 25. If one number is 525, what is the second number? 
+ 
+दो संख्याओं के गुणिफि में जब उसके म.स. से भाग ददया जाता है तब 5775 प्राप्त होता है िेवकि जब ि.स. से भाग ददया 
+जाता है तब 25 प्राप्त होता है। यदद उिमें से एक संख्या 525 हो, तो दूसरी संख्या क्या है ? 
+ 
+[A] 
+275 
+[B] 
+325 
+ 
+ 
+[C] 
+405 
+[D] 
+210 
+73. 
+The sum of LCM and HCF of two numbers is 536 and the difference between LCM and HCF is 296. If one 
+of the numbers is 104, then what is the other number? 
+ 
+दो संख्याओं के LCM और HCF का योग 536 है और LCM और HCF के बीच का अंतर 296 है। यदद संख्याओं में से एक 104 है, तो 
+दूसरी संख्या क्या है? 
+ 
+[A] 
+420 
+[B] 
+480 
+ 
+[C] 
+484 
+[D] 
+506 
+ 
+ 
+ 
+ 
+ 
+74. 
+The LCM of two numbers is 90, whereas their HCF is 6. If one number is 12 more than the other, then 
+the greater number is: 
+ 
+दो संख्याओं का ि.स.प. (LCM) 90 है, जबवक उिका म.स.प. (HCF) 6 है। यदद एक संख्या, दूसरी संख्या से 12 अतधक है, तो बडी 
+संख्या ज्ञात करें। 
+ 
+MTS 2020 
+ 
+[A] 
+12 
+[B] 
+45  
+ 
+[C] 
+30 
+[D] 
+51 
+75. 
+The product of LCM and HCF of two numbers is 63504. If one of the numbers is 378 then find the HCF of 
+numbers? 
+ 
+दो संख्याओं के LCM और HCF का गुणिफि 63504 है। यदद संख्याओं में से एक संख्या 378 है तो संख्याओं का HCF ज्ञात 
+कीनजए? 
+ 
+[A] 
+21 
+[B] 
+42  
+ 
+ 
+[C] 
+63 
+[D] 
+56 
+76. 
+The Highest common multiple of two numbers is 47. If the product of these two numbers is 6627, then 
+find the larger number of the two.  
+ 
+दो संख्याओं का महत्तम समापिततक (HCF) 47 है। यदद इि दोिों संख्याओं का गुणिफि 6627 है, तो दोिों में से बडी संख्या 
+ज्ञात कीनजए। 
+ 
+RRB Group D- 2022 
+ 
+[A] 
+235 
+[B] 
+188 
+ 
+[C] 
+94 
+[D] 
+141 
+77. 
+Two numbers are in the ratio of 5: 7. The product of their LCM and HCF is 12635. then the sum of the 
+numbers will be. 
+ 
+दो संख्याएं 5:7 के अिुपात में हैं। उिके म.स. तथा ि. स. का गुणिफि 12635 है। संख्याओं का योगफि होगा। 
+ 
+[A] 
+252 
+[B] 
+228  
+ 
+ 
+[C] 
+304 
+[D] 
+380   
+78. 
+If the sum of two numbers is 60 and the HCF and LCM of these numbers are 5 and 175 respectively, 
+then the sum of the reciprocals of the numbers is: 
+ 
+यदद दो संख्याओं का योग 60 है और इि संख्याओं का महत्तम समापिततक और िघु समापित्यत क्रमशः 5 और 175 है, तो 
+संख्याओं के व्युत्क्रमों का योग --------- है। 
+ 
+[A] 
+14/120 
+[B] 
+14/175 
+ 
+ 
+ 
+[C] 
+12/175 
+[D] 
+11/120 
+79. 
+If the ratio of two numbers is 18 : 5 and the product of their LCM and their HCF is 360, then the sum of 
+the reciprocals of the LCM and the HCF is: 
+ 
+यदद दो संख्याओं का अिुपात 18 : 5 है तथा उिके िघुत्तम समापित्यत (LCM) और महत्तम समापिततक (HCF) का गुणिफि 
+360 है, तो उिके िघुत्तम समापित्यत तथा महत्तम समापिततक के व्युत्क्रमों का योगफि ज्ञात कीनजए। 
+ 
+[A] 
+𝟗𝟏
+𝟏𝟖𝟎 
+[B] 
+𝟗𝟏
+𝟏𝟖𝟓 
+ 
+[C] 
+𝟗𝟏
+𝟐𝟎𝟒 
+[D] 
+𝟗𝟏
+𝟏𝟗𝟑 
+80. 
+LCM of two numbers is 56 times their HCF, with the sum of their HCF and LCM being 1710. If one of the 
+two numbers is 240, then what is the other number? 
+ 
+दो संख्याओं का िघुत्तम समापत्यत उिके महत्तम समापितक का 56 गुिा है, उिके HCF और LCM का योग 1710 है। यदद दो 
+संख्याओं में से एक 240 है, तो दूसरी संख्या कौिसी है? 
+ 
+[A] 
+57 
+[B] 
+171 
+ 
+[C] 
+1680 
+[D] 
+210 
+81. 
+The Greatest Common Factor (HCF) of two numbers is one-twentieth (1/20) of their Least Common 
+Multiple (LCM). If a number is 96 and the difference between the LCM and the HCF is 456, then what 
+will be the other number? 
+ 
+दो संख्याओं का महत्तम समापिततक (HCF), उिके िघुत्तम समापित्यत (LCM) का बीसिां (1/20) रहिा है। यदद एक संख्या 
+96 है और िघुत्तम समापित्यत और महत्तम समापिततक के बीच का अंतर 456 है, तो दूसरी संख्या क्या होगी? 
+ 
+[A] 
+72 
+[B] 
+144 
+ 
+[C] 
+48 
+[D] 
+120 
+82. 
+The LCM. of two numbers is 28 times their HCF and the sum of their LCM. and HCF is 493. The 
+difference of both the numbers is 51. If the sum of those two numbers is s, then find the sum of the 
+digits of s? 
+ 
+दो संख्याओ का िघुत्तम समापिततक, उिके महत्तम समापिततक का 28  गुिा है और उिके िघुत्तम समापिततक और महातम 
+समापिततक का योग  493  है।  दोिों संख्याओ का अंतर 51  है।  यदद उि दोिों संख्याओ का योग s  है , तो s  के अंको का योग 
+ज्ञात कीनजये?  
+ 
+(ICAR Technician 2022) 
+ 
+[A] 
+13 
+[B] 
+17 
+ 
+[C] 
+19 
+[D] 
+16 
+83. 
+LCM of two numbers is 15 times of their HCF. The product of numbers is 4860. What will be the 
+maximum possible difference between the numbers? 
+ 
+दो संख्याओं का िघतुम समापित्यत उिके महतम समापिततक का 15 गुिा है। संख्याओं का गुणिफि 4860 है। संख्याओं के 
+बीच अतधकतम संभावित अंतर वकतिा होगा ? 
+ 
+[A] 
+36 
+[B] 
+90 
+ 
+[A] 
+252 
+[D] 
+270 
+84. 
+13, a, b, c are four distinct numbers and the HCF of each pair of numbers (13, a); (13, c) is 13, where a, 
+b, c are each less than 60 and a < b < c. What is the value of 
+𝒂+𝒄
+𝒃 ? 
+ 
+a, b, c चार अिग-अिग संख्याएँ। हैं और संख्याओं के प्रत्येक जोडे (13, a); (13, b); (13, c) का म.स. 13 है, जहाँ a, b,c 
+प्रत्येक 60 से कम है और a<b<c है 
+𝒂+𝒄
+𝒃 का माि क्या है? 
+ 
+[A] 
+3.5 
+[B] 
+2 
+ 
+[C] 
+5 
+[D] 
+4.5 
+85. 
+There are 2 numbers such that a>b, HCF (a, b) = h and LCM (a, b) = I. What is the LCM of a-b and b? 
+ 
+ 
+ 
+ऐसी 2 संख्याएँ हैं जैसे a>b, HCF (a, b) = h और LCM (a, b) = I. a-b और b का LCM क्या है?    
+ 
+(SSC GD 2023) 
+ 
+[A] 
+I 
+[B] 
+(a-b)b 
+ 
+[C] 
+(𝒂−𝒃)𝒃
+𝒉
+ 
+[D] 
+h(a-b) 
+86. 
+A pendulum strikes 5 times in 3 seconds and another pendulum strikes 7 times in 4 seconds. If both 
+pendulums start start striking at the same time, how many clear strike can be listened in one 
+minute? 
+ 
+एक पेंडुिम 3 सेकंड में 5 बार टकराता है और दूसरा पेंडुिम 4 सेकंड में 7 बार टकराता है। यदद दोिों पेंडुिम एक ही समय में 
+आघात करिा शुरू करते हैं, तो एक नमिट में वकतिे स्पष्ट प्रहार सुिे जा सकते हैं? 
+ 
+[A] 
+199 
+[B] 
+200 
+ 
+[C] 
+198 
+[D] 
+205 
+87. 
+(x, y) is a pair of positive integers such that HCF (x, y) + LCM (x, y) = 187 and x>y. 
+ 
+Which one of the following is correct in respect of the Question and the Statements given below? 
+ 
+(x, y) धिात्मक पूणाांकों का एक युग्म इस प्रकार है वक HCF (x, y) + LCM (x, y) = 187 और x>y 
+ 
+प्रश्न और िीचे ददए गए कथिों के संबंध में निम्ननिखित में से कौि सा सही है? 
+ 
+Statement 1: There are three possible values of HCF (x, y). 
+ 
+कथि 1: HCF (x, y) के तीि संभावित माि हैं। 
+ 
+Statement 2: The minimum value of (x+y) is 37. 
+ 
+कथि 2: (x+y) का न्यूितम माि 37 है। 
+ 
+Statement 3: There are 7 pairs of (x, y) that satisfy the given conditions. 
+ 
+कथि 3: (x, y) के 7 जोडे हैं जो दी गई शतों को पूरा करते हैं। 
+ 
+(IB ACIO GRADE-2 2024) 
+ 
+[A] 
+Statement 1 is incorrect but Statements 2 and 3 are correct./कथि 1 गित है िेवकि कथि 2 और 3 
+सही हैं। 
+ 
+[B] 
+Only statement 1 and 2 are correct./केिि कथि 1 और 2 सही हैं। 
+ 
+[C] 
+Statements 1 and 3 are correct but statement 2 is incorrect./कथि 1 और 3 सही हैं िेवकि कथि 2 
+गित है। 
+ 
+[D] 
+All three statements are correct./तीिों कथि सही हैं। 
+88. 
+When the numbers 7807, 8022 and 8667 were divided by the greatest number x, then the remainder 
+in each case was the same. The sum of the digits of x is: 
+ 
+जब संख्याओं 7807, 8022 और 8667 को सबसे बडी संख्या x से भाग ददया जाता है, तो प्रत्येक स्थितत में समाि शेषफि बचता 
+है। x के अंकों का योग ज्ञात कीनजए। 
+ 
+(SSC GD 2025) 
+ 
+[A] 
+8 
+[B] 
+9 
+ 
+[C] 
+6 
+[D] 
+7 
+89. 
+Let x be the greatest number which when divides 955, 1027, 1075, the remainder in each case is the 
+same. Which of the following is NOT a factor of x? 
+ 
+मािा x िह बडी से बडी संख्या है, नजससे 955, 1027, 1075 को विभानजत वकया जाता है, तो प्रत्येक मामिे में समाि शेषफि 
+प्राप्‍त होता है। निम्‍ि में से कौि-सा x का गुणांक िहीं है? 
+ 
+[A] 
+6 
+[B] 
+16  
+ 
+ 
+ 
+[C] 
+4 
+[D] 
+8 
+90. 
+If r is the remainder when each of 6454, 7306 and 8797 is divided by the greatest number d (d > 1), 
+then (d – r) is equal to: 
+ 
+ 
+ 
+यदद r िह शेषफि है, जो 6454, 7306 और 8797 को बडी से बडी संख्या d(d > 1) से विभानजत करिे पर प्राप्त होता है, तो (d-r) 
+का माि ज्ञात कीनजए। 
+ 
+[A] 
+126 
+[B] 
+64  
+ 
+ 
+ 
+[C] 
+137 
+[D] 
+149 
+91. 
+When 1063, 2815 and 3451 are divided by the greatest number x, the remainder in each case is y. 
+What is the value of (3x − 14y)? 
+ 
+जब 1063, 2815 और 3451 को सबसे बडी संख्या x से विभानजत वकया जाता है, तो प्रत्येक स्थितत में शेषफि y होता है। (3x − 
+14y) का माि ज्ञात कीनजए। 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[A] 
+−65 
+[B] 
+−60 
+ 
+[C] 
+−62 
+[D] 
+−66 
+92. 
+When 1833, 2482 and 3190 are divided by a largest number x, the remainder in each case is y. Find the 
+value of (3x – 14y).  
+ 
+जब 1833, 2482 और 3190 को सबसे बडी संख्या x से विभानजत वकया जाता है, तो प्रत्येक मामिे में शेषफि y होता है। (3x – 
+14y) का माि ज्ञात कीनजए ? 
+ 
+RRB Group D- 2022 
+ 
+[A] 
+133 
+[B] 
+121 
+ 
+[C] 
+123 
+[D] 
+131 
+93. 
+When 860, 1712 and 3203 are divided by a two-digit number x, then the remainder in each case is y. if 
+(2x+y) is written as 𝒑× 𝒒× 𝒓𝟐, where p, q and r are prime numbers, then what is the value of (p+q+r)? 
+ 
+जब 860, 1712 और 3203 को दो अंकों की संख्या x से विभानजत वकया जाता है, तो प्रत्येक स्थितत में शेषफि y होता है। यदद 
+(2x+y) को p×q×r2 के रूप में नििा जाता है, जहां p, q और r अभाज्य संख्याएं हैं, तो (p+q+r) का माि क्या है? 
+ 
+(IB ACIO 2023) 
+ 
+[A] 
+12 
+[B] 
+10 
+ 
+[C] 
+16 
+[D] 
+15 
+94. 
+When 1395, 2247 and 3738 are divided by two-digit number k, the remainder in each case is p. what is 
+te value of (2k-3p)? 
+ 
+जब 1395, 2247 और 3738 को दो अंकों की संख्या k से विभानजत वकया जाता है, तो प्रत्येक मामिे में शेष p होता है। तो (2k-
+3p) का  माि क्या है? 
+ 
+[A] 
+2 
+[B] 
+5 
+ 
+[C] 
+6 
+[D] 
+8 
+95. 
+When 2388, 4309 and 8151 are divided by a certain 3-digit number, the remainder in each case is the 
+same. The remainder is: 
+ 
+जब 2388, 4309 और 8151 को एक निनित 3-अंकीय संख्या से विभानजत वकया जाता है, तो प्रत्येक स्थितत में शेषफि समाि 
+होता है। शेषफि है: 
+ 
+[A] 
+15 
+[B] 
+19  
+ 
+ 
+[C] 
+39 
+[D] 
+23 
+96. 
+The LCM of 
+𝟗
+𝟏𝟎,
+𝟏𝟐
+𝟐𝟓,
+𝟏𝟖
+𝟑𝟓,
+𝟐𝟏
+𝟒𝟎 is? 
+ 
+𝟗
+𝟏𝟎,
+𝟏𝟐
+𝟐𝟓,
+𝟏𝟖
+𝟑𝟓,
+𝟐𝟏
+𝟒𝟎 का LCM क्या है? 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+252/5 
+[B] 
+151/7 
+ 
+[C] 
+100/9 
+[D] 
+9/100 
+ 
+ 
+97. 
+The LCM of 
+𝟏
+𝟔,
+𝟕
+𝟐𝟕,
+𝟓
+𝟗,
+𝟒
+𝟏𝟓 and 
+𝟖
+𝟑 is: 
+ 
+𝟏
+𝟔,
+𝟕
+𝟐𝟕,
+𝟓
+𝟗,
+𝟒
+𝟏𝟓 और 
+𝟖
+𝟑 का िघुत्तम समापित्यत ज्ञात करें। 
+ 
+[A] 
+280/3 
+[B] 
+3/280 
+ 
+[C] 
+280/15 
+[D] 
+15/280 
+98. 
+Calculate the LCM of 
+𝟑𝟔
+𝟐𝟓,
+𝟒𝟐
+𝟏𝟐𝟓,
+𝟓𝟒
+𝟓𝟓 
+ 
+ 
+𝟑𝟔
+𝟐𝟓,
+𝟒𝟐
+𝟏𝟐𝟓,
+𝟓𝟒
+𝟓𝟓 का ि.स.प. ज्ञात कीनजए। 
+ 
+[A] 
+𝟏𝟓𝟏
+𝟑
+𝟓 
+[B] 
+𝟏𝟓𝟏
+𝟒
+𝟓 
+ 
+[C] 
+𝟏𝟓𝟏
+𝟐
+𝟓 
+[D] 
+𝟏𝟓𝟏
+𝟏
+𝟓 
+99. 
+Calculate the HCF of 
+𝟏𝟐
+𝟓,
+𝟏𝟒
+𝟏𝟓 and 
+𝟏𝟔
+𝟏𝟕. 
+ 
+𝟏𝟐
+𝟓,
+𝟏𝟒
+𝟏𝟓 और 
+𝟏𝟔
+𝟏𝟕 के महत्तम समापिततक की गणिा करें। 
+ 
+(SSC CGL 2022) 
+ 
+[A] 
+𝟒
+𝟐𝟓𝟓 
+[B] 
+𝟑
+𝟐𝟓𝟓 
+ 
+[C] 
+𝟐
+𝟐𝟓𝟓 
+[D] 
+𝟏
+𝟐𝟓𝟓  
+100. Calculate the HCF of 
+𝟏.𝟕𝟓
+𝟗,
+𝟓.𝟔
+𝟏𝟐 & 
+𝟕
+𝟏𝟖? 
+ 
+𝟏.𝟕𝟓
+𝟗,
+𝟓.𝟔
+𝟏𝟐 & 
+𝟕
+𝟏𝟖 का HCF की गणिा करें? 
+ 
+ 
+ 
+ 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+7/180 
+[B] 
+13/180 
+ 
+[C] 
+17/180 
+[D] 
+11/180 
+101. 
+Find the HCF of 4.08 and 6.63. 
+ 
+4.08 और 6.63 का महत्तम समापिततक ज्ञात करें। 
+ 
+(SSC CGL 2022) 
+ 
+[A] 
+0.50 
+[B] 
+0.52 
+ 
+[C] 
+0.51 
+[D] 
+0.53 
+102. Find the HCF of 0.25, 2.08 and 8.1. 
+ 
+0.25, 2.08 और 8.1 का महत्तम समापिततक ज्ञात कीनजए। 
+ 
+[A] 
+0.01 
+[B] 
+0.1 
+ 
+[C] 
+0.05 
+[D] 
+0.02 
+103. Find the HCF of 3.6, 0.54 and 1.08. 
+ 
+3.6, 0.54 और 1.08 का HCF ज्ञात कीनजए। 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+1.8 
+[B] 
+18 
+ 
+[C] 
+0.018 
+[D] 
+0.18 
+104. Find the HCF of 0.7, 0.35, 1.05? 
+ 
+0.7, 0.35, 1.05 का HCF ज्ञात कीनजए? 
+ 
+[A] 
+0.7 
+[B] 
+0.35 
+ 
+[C] 
+1.005 
+[D] 
+0.007 
+105. The HCF of 0.0006, 0.006, 0.06, 0.6 and 6 is:  
+ 
+0.0006, 0.006, 0.06, 0.6 और 6 का HCF है: 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+0.0006 
+[B] 
+0.6 
+ 
+[C] 
+0.06 
+[D] 
+6 
+ 
+ 
+106. The LCM of the numbers 10.8 and 0.06 is: 
+ 
+संख्याओं 10.8 और 0.06 का िघुत्तम समापित्यत (LCM) ज्ञात कीनजए। 
+ 
+(RRB NTPC 12th LEVEL 2025)  
+ 
+[A] 
+1.08 
+[B] 
+108 
+ 
+[C] 
+10.8 
+[D] 
+0.108 
+107. The LCM of the numbers 3.8 and 0.052 is: 
+ 
+संख्या 3.8 और 0.052 का िघुत्‍तम समापित्‍यत (LCM) ज्ञात कीनजए। 
+ 
+(RRB NTPC 12th LEVEL 2025) 
+ 
+[A] 
+0.494 
+[B] 
+49.4 
+ 
+[C] 
+494 
+[D] 
+4.94 
+108. What is the LCM of 0.126, 0.36 and 0.96? 
+ 
+0.126, 0.36 और 0.96 का ि.स.प. (LCM) ज्ञात करें।  
+ 
+[A] 
+20160 
+[B] 
+20.16 
+ 
+ 
+[C] 
+201.60 
+[D] 
+2.016 
+109. What is the LCM of 9, 8.1, 0.27, 0.09? 
+ 
+9, 8.1, 0.27, 0.09 का LCM क्या है? 
+ 
+ 
+ 
+ 
+ 
+(DP CONSTABLE 2023) 
+ 
+[A] 
+801 
+[B] 
+81 
+ 
+[C] 
+8100 
+[D] 
+810 
+110. 
+Find the HCF of (𝟒𝟑𝟏𝟓−𝟏) & (𝟒𝟐𝟓−𝟏)? 
+ 
+(𝟒𝟑𝟏𝟓−𝟏) & (𝟒𝟐𝟓−𝟏) का HCF ज्ञात कीनजए? 
+ 
+[A] 
+1 
+[B] 
+(𝟒𝟐𝟓−𝟏) 
+ 
+[C] 
+1024 
+[D] 
+1023 
+111. 
+Find LCM and HCF of the following? 
+ 
+निम्ननिखित  का LCM और HCF ज्ञात करें? 
+ 
+[A] 
+𝟏𝟗𝟔𝟑+ 𝟏 and 𝟏𝟗𝟒𝟓+ 𝟏 
+ 
+[B] 
+𝟐𝟐𝟓−𝟏 and 𝟐𝟔𝟓−𝟏 
+ 
+[C] 
+𝟑𝟑𝟑𝟑𝟑+ 𝟏 and 𝟑𝟑𝟑𝟑𝟒+ 𝟏 

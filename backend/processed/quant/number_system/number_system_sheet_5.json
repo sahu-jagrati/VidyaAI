@@ -1,0 +1,32 @@
+[
+  {
+    "question_number": 54,
+    "question_en": "The expression 𝟓𝟓𝟓𝟕𝟕𝟕+ 𝟕𝟕𝟕𝟓𝟓𝟓 is divisible by which of the following? I. II. III. Select the correct answer using the code given below:",
+    "question_hi": "ब्यंजक 𝟓𝟓𝟓𝟕𝟕𝟕+ 𝟕𝟕𝟕𝟓𝟓𝟓 तनम्नललखखत में से ककससे विभाज्य है? नीचे ददए गए कोड का उपयोग करके सही उत्तर चुनें: (CDS-1 2024)",
+    "option_a": "I and II only",
+    "option_b": "II and III only",
+    "option_c": "I and III only",
+    "option_d": "I, II and III",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Number System",
+    "source_pdf": "Number System Sheet-5.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 62,
+    "question_en": "If the number is successively divided by 7, 4 and 3 leaves remainder 5, 3 and 2 respectively. If the order of divisor are reversed then what will be the remainder?",
+    "question_hi": "यदद एक संख्या क्रलमक रूप से 7, 4 और 3 से विभाजजत ककया जाता है तो क्रमशः 5, 3 और 2 शेष हैं। यदद विभाजक का क्रम उलट जाता है तो क्रलमक शेष क्या होगा?",
+    "option_a": "1,3,6",
+    "option_b": "2,4,3",
+    "option_c": "0,2,6",
+    "option_d": "1,3,5",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Number System",
+    "source_pdf": "Number System Sheet-5.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

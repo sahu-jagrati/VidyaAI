@@ -1,0 +1,167 @@
+[
+  {
+    "number": 1,
+    "question_text": "Find the area of a triangle whose length of two sides are 4 cm and 5 cm and the angle between them is 45°? उस त्रिभुज का क्षेिफल ज्ञात कीजजए जजसकी दो भुजाओं की लंबाई 4 सेमी और 5 सेमी है और उनके बीच का कोण 45° है? (CPO 2023)",
+    "option_a": "4√𝟐𝒄𝒎𝟐",
+    "option_b": "6√𝟐𝒄𝒎𝟐",
+    "option_c": "5√𝟐𝒄𝒎𝟐",
+    "option_d": "7√𝟐𝒄𝒎𝟐",
+    "correct_answer": null,
+    "explanation": null,
+    "source": "CPO 2023"
+  },
+  {
+    "number": 2,
+    "question_text": "Let ABC be a triangle with area 36 square cm. if AB = 9 cm, BC = 12 cm and ∠𝑨𝑩𝑪= 𝜽, then what is cos𝜽 equal to? माना कक ABC एक त्रिभुज है जजसका क्षेिफल 36 वर्ग सेमी है। यदद AB = 9 सेमी, BC = 12 सेमी और ∠ABC=θ है, तो cosθ ककसके बराबर है? (UPSC CDS-2  2024)",
+    "option_a": "√𝟓 𝟑",
+    "option_b": "√𝟓 𝟒",
+    "option_c": "𝟏 𝟑",
+    "option_d": "𝟐 𝟑",
+    "correct_answer": null,
+    "explanation": null,
+    "source": "UPSC CDS-2  2024"
+  },
+  {
+    "number": 3,
+    "question_text": "In a triangle ABC, AB=8cm, AC=12cm, AD is the angle bisector of ∠BAC. if ∠BAC = 60°. What is the length of AD? त्रिभुज ABC में, AD, ∠BAC का कोण समद्ववभाजक है | ∠BAC = 60°,AB=8cm और AC=12cm , AD  की लंबाई क्या है? a) 𝟑𝟐√𝟑 𝟓cm                    b) 𝟐𝟎√𝟑 𝟑cm c) 𝟐𝟓√𝟑 𝟕cm d) 𝟐𝟒√𝟑 𝟓cm",
+    "option_a": "𝟑𝟐√𝟑 𝟓cm",
+    "option_b": "𝟐𝟎√𝟑 𝟑cm",
+    "option_c": "𝟐𝟓√𝟑 𝟕cm",
+    "option_d": "𝟐𝟒√𝟑 𝟓cm",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 4,
+    "question_text": "In a ∆PQR , ∠PQR=120°. S is a point on side PR such that ∠PQS=75° , if PQ=16cm and QR=15cm.then find the length of QS? त्रिभुज PQR में ∠PQR=120°.  भुजा PR पर एक त्रबंदु S इस प्रकार जथित है कक  ∠PQS=75°  और PQ=16cm ,QR=15cm तब  QS की लंबाई होर्ी? a) 𝟏𝟐𝟎√𝟔 𝟐𝟑+𝟖√𝟑            b) 𝟏𝟐𝟒√𝟔 𝟐𝟕+𝟏𝟏√𝟑 c) 𝟐𝟒𝟎√𝟐 𝟑𝟏+𝟖√𝟐            d) 𝟏𝟐𝟎√𝟑 𝟏𝟓.𝟓+𝟕√𝟑",
+    "option_a": "𝟏𝟐𝟎√𝟔 𝟐𝟑+𝟖√𝟑",
+    "option_b": "𝟏𝟐𝟒√𝟔 𝟐𝟕+𝟏𝟏√𝟑",
+    "option_c": "𝟐𝟒𝟎√𝟐 𝟑𝟏+𝟖√𝟐",
+    "option_d": "𝟏𝟐𝟎√𝟑 𝟏𝟓.𝟓+𝟕√𝟑",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 5,
+    "question_text": "If three sides of a triangle are 8cm, 17cm and x cm. for what value of x area of  triangle is maximum ? एक त्रिभुज की तीन  भुजायें 8 सेमी ,17 सेमी  और x सेमी है , x के ककस मान के ललए त्रिभुज का क्षेिफल अधिकतम होर्ा ? a)15cm b)17cm c)18.79cm d)23.16cm",
+    "option_a": "15cm",
+    "option_b": "17cm",
+    "option_c": "18.79cm",
+    "option_d": "23.16cm",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 6,
+    "question_text": "In the given  triangle PQR, S and T are two points  on side PQ and PR respectively such that PS:SQ=3:4 and PT:TR=6:5,if 𝒂𝒓𝒆𝒂 𝒐𝒇⎕ 𝑺𝑻𝑸𝑹=177cm2 then Find  𝒂𝒓𝒆𝒂 𝒐𝒇 ∆𝑷𝑸𝑹 ? ददए र्ए त्रिभुज PQR में, S और T क्रमशः PQ तिा PR पर जथित दो त्रबंदु है । ताकक PS:SQ=3:4 और PT:TR=6:5 ⎕𝑺𝑻𝑸𝑹 का क्षेिफल= 𝟏𝟕𝟕वर्ग सेमी है  तो ∆𝑷𝑸𝑹 का क्षेिफल=? a)198        b)𝟐𝟑𝟏       c)𝟏𝟗𝟎      d)𝟐𝟔𝟒",
+    "option_a": "198",
+    "option_b": "𝟐𝟑𝟏",
+    "option_c": "𝟏𝟗𝟎",
+    "option_d": "𝟐𝟔𝟒",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 7,
+    "question_text": "In the given figure, if AD=3, DE=4, AB=12, BF=2, FG=6, BC=10, then the value of 𝑴 𝑵 is: (Assume:  M is the area of the quadrilateral FGDE text and N is the area of the triangle AB",
+    "option_a": "𝟑𝟏 𝟔𝟎",
+    "option_b": "𝟏 𝟐",
+    "option_c": "𝟐𝟓 𝟒𝟗",
+    "option_d": "𝟏 𝟑",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 8,
+    "question_text": "In the given figure, PQR is a triangle and quadrilateral ABCD is inscribed in it. QD=2 cm, QC=5cm, CR=3cm, BR=4cm, PB=6cm, PA=5cm and AD=3cm. What is the area (in cm2) of the quadrilateral ABCD? ददए र्ए धचि में, PQR एक त्रिभुज है जजसके अंदर एक चतुभुगज ABCD बनाया र्या है।यदद  . QD=2 cm, QC=5cm, CR=3cm, BR=4cm, PB=6cm, PA=5cm और AD=3cm तब चतुभुगज ABCD का क्षेिफल क्या होर्ा। a) (23√𝟐𝟏)/4 b)(15√𝟐𝟏)/4 c) (17√𝟐𝟏)/5                d) (23√𝟐𝟏)/5",
+    "option_a": "(23√𝟐𝟏)/4",
+    "option_b": "(15√𝟐𝟏)/4",
+    "option_c": "(17√𝟐𝟏)/5",
+    "option_d": "(23√𝟐𝟏)/5",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 9,
+    "question_text": "n a triangle ABC, AD is angle bisector of ∠A and AB:AC=3:4, If the area of triangle ABC is 350cm2, then what is the area (in cm2)of triangle ABC? त्रिभुज ABC में, ∠A का कोण सम्दद्ववभाजक AD है और AB:AC=3:4 यदद ABC का क्षेिफल350cm2 है तो त्रिभुज ADC का क्षेिफल ज्ञात करें? a)150     b)200     c)210      d)240",
+    "option_a": "150",
+    "option_b": "200",
+    "option_c": "210",
+    "option_d": "240",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 10,
+    "question_text": "In a triangle ABC, D is any point on side BC such that BD:DC is 5:7. Perpendiculars from point D are drawn on sides AB and AC at point E and F respectively such that DE = 10cm and DF = 21cm. Find the ratio of sides AB and AC. त्रिभुज ABC में, भुजा BC पर D इस तरह एक त्रबंदु है कक BD:DC 5: 7 है। त्रबंदु D से भुजा AB और AC पर DE और DF  क्रमशः लंबवत खींचे जाते हैं यदद DE = 10cm और DF = 21cm. भुजाओ  AB और AC का अनुपात ज्ञात कीजजए। (a) 15 : 14 (b) 14 : 15 (c) 3 : 2 (d) 2 : 3",
+    "option_a": "15 : 14",
+    "option_b": "14 : 15",
+    "option_c": "3 : 2",
+    "option_d": "2 : 3",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 11,
+    "question_text": "In ABC, D is a point on AB and E is a point on CD such that areas of  ADE, AEC and BDE are 15, 36 and 9 find area of BEC? ABC में, D, AB पर एक त्रबंदु है और E, CD पर एक त्रबंदु है जैसे कक ADE, AEC और BDE के क्षेि 15, 36 और 9  है ,BEC का क्षेिफल है? (a) 21.6              (b) 19.2 (c) 17.2              (d) 23.4",
+    "option_a": "21.6",
+    "option_b": "19.2",
+    "option_c": "17.2",
+    "option_d": "23.4",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 12,
+    "question_text": "𝜟𝑨𝑩𝑪and 𝜟𝑫𝑩𝑪are on the same base BC but on opposite sides of it. AD and BC intersect each other at O. If AO=a cm, DO= b cm and the area of 𝜟𝑨𝑩𝑪= 𝒙cm2, then what is the area (in cm2) of 𝜟𝑫𝑩𝑪? 𝜟𝑨𝑩𝑪 और 𝜟𝑫𝑩𝑪 एक ही आधार BC के तिपरीि तरफ हैं। AD और BC, एक दूसरे को O पर काटिे हैं। यतद AO = a cm, DO = b cm और 𝜟𝑨𝑩𝑪 का क्षेत्रफल x cm2 है, िो 𝜟𝑫𝑩𝑪 का क्षेत्रफल (cm2 में) क्या है? (a) 𝒂𝒃 𝟐𝒙 (b) 𝒂 𝒃𝒙 (c) 𝒂+𝒃 𝟐𝒙 (d) 𝒃𝒙 𝒂",
+    "option_a": "𝒂𝒃 𝟐𝒙",
+    "option_b": "𝒂 𝒃𝒙",
+    "option_c": "𝒂+𝒃 𝟐𝒙",
+    "option_d": "𝒃𝒙 𝒂",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 3,
+    "question_text": "Find the ratio area (EC",
+    "option_a": "9 : 8",
+    "option_b": "1 : 2 BY GAGAN SIR",
+    "option_c": "2 : 1",
+    "option_d": "8 : 8",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 14,
+    "question_text": "In ΔABC, AD is a median. If points E, F and G are midpoints of AD, AE and DE, respectively, then what will be the area ΔBFG? ΔABC esa AD ,d ekf/;dk gSA ;fn fcanq E, F vkSj Øe'k% AD, AE vkSj DE ds e/; fcanq gSa] rks ΔBFG dk {ks=Qy gksxk\\ (a) 1 2 (Area ΔAB",
+    "option_a": "1 2 (Area ΔAB",
+    "option_b": "1 8 (Area ΔAB",
+    "option_c": "1 4 (Area ΔAB",
+    "option_d": "1 2 (Area ΔAB",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  },
+  {
+    "number": 15,
+    "question_text": "In the triangle PQR, S is the midpoint of QR. X is any point on PR. T is the point on QR such that PT||SX. If the area of triangle PQR is 6.4sq. cm, then the area of triangle RTX is त्रिभुज में, S भुजा QR का मध्य त्रबंदु है। PR पर एक त्रबंदु X है, T भुजा QR पर इस प्रकार जथित है कक PT||SX यदद त्रिभुज PQR का क्षेिफल 6.4sq. cm है।तब त्रिभुज RTX का क्षेिफल क्या होर्ा? a) 3.2 sq cm              b) 2.4sq. cm c) 4sq cm                  d) CND",
+    "option_a": "3.2 sq cm",
+    "option_b": "2.4sq. cm",
+    "option_c": "4sq cm",
+    "option_d": "CND",
+    "correct_answer": null,
+    "explanation": null,
+    "source": null
+  }
+]

@@ -1,0 +1,851 @@
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+1. In the figure, angle D = 900, AB = 16 cm, BC = 12 cm and CA = 6 cm, then CD is? 
+fp= esa dks.k D = 900, AB = 16 cm, BC = 12 cm vkSj CA = 6 cm fQj CD dk eku gS\ 
+ 
+(a) 
+𝟏𝟑
+𝟔                 
+ 
+ 
+(b) 
+𝟏𝟕
+𝟔                    
+(c) 
+𝟏𝟗
+𝟔                  
+ 
+ 
+(d) 
+𝟏𝟖
+𝟓 
+2. The sum of the square of sides of a right-angled triangle is 8450 square units. What is the length of 
+its hypotenuse? 
+,d ledks.k f=Hkqt dh Hkqtkvksa ds oxksZ dk ;ksxQy 8450 oxZ bdkbZ gSA blds d.kZ dh yackbZ D;k gS\ 
+(A) 50 units 
+(B) 55 units 
+ 
+(C) 60 units 
+(D) 65 units 
+3. The lengths of the sides of a right-angled triangle are consecutive even integers. What is the 
+product of these integers? 
+,d ledks.k f=Hkqt dh Hkqtkvksa dh yackbZ;ka dzekxr le iw.kkZad gSA bu iw.kkZadksa dk xq.kuQy D;k gS\ 
+(A) 60 
+ 
+             (B) 120 
+ 
+ 
+(C) 360  
+ 
+(D) 480 
+4. The hypotenuse of a right triangle is 6m more than twice the shortest side. If the third side is 2 m 
+less than the hypotenuse, find the area 
+(in m2) of the triangle. 
+ 
+एक समकोण त्रिभुज का कणण सबसे छोटी भुजा के दोगुने से 6 m अधिक है। यदद तीसरी भुजा, कणण से 2 m छोटी है, तो त्रिभुज का 
+क्षेिफल (m2 में) ज्ञात कीजजए।                                               SSC CHSL Pre 2024 
+ 
+[A]130 
+           [B]100 
+ 
+[C] 120 
+           [D]110 
+5. One of the angles of a right-angled  
+triangle is 150, and the hypotenuse is 1 m. The area of the triangle (in sq. cm.) is  
+समकोण त्रिभुज का एक कोण 150 है। और विकणण की लंबाई 1m है। तब त्रिभुज का क्षेिफल (in sq. cm.) ज्ञात करे? 
+(a) 1220     
+(b) 1250        
+(c) 1200    
+(d) 1215 
+6. Let ABC be a right-angled triangle with hypotenuse BC of length 20 cm. If AP is perpendicular on BC, 
+then the maximum possible length of AP, in cm, is 
+यदद ABC एक समकोण त्रिभुज है जजसमें AP, 20 सेमी लंबाई के कणण BC पर लंबित है, तो AP की अधिकतम संभि लंबाई, 
+(सेमी में), है 
+(a) 6√𝟐  
+(b) 5 
+ 
+ 
+ 
+(c) 8√𝟐  
+(d) 10 
+ 
+7. If the length of the hypotenuse of a  right-angled triangle is 10 cm, then what is the maximum area 
+of such a right-angled triangle? 
+;fn ,d ledks.k f=Hkqt ds d.kZ dh yackbZ 10 cm gS] rks bl çdkj ds ledks.k f=Hkqt dk vfèkdre {ks=Qy fdruk gS\ 
+(a) 100 cm2 
+        (b) 50 cm2 
+(c) 25 cm2            (d) 10 cm2 
+8. The area of the largest triangle that can be inscribed in a semicircle of radius 6 cm is? 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+6 सेमी त्रिज्या िाले अिणिृत्त में अंककत ककए जा सकने िाले सबसे बडे त्रिभुज का क्षेिफल क्या है? 
+(RRB ALP 2024) 
+A) 36 𝒄𝒎𝟐 
+B) 72 𝒄𝒎𝟐 
+C) 38 𝒄𝒎𝟐 
+D) 76 𝒄𝒎𝟐 
+9. If a point P moves such that the sum of the squares of its distances from two fixed points A and B 
+is a constant, then the locus of the point P is? 
+यदद एक त्रबंदु P इस प्रकार गतत करता है कक , दो जथिर त्रबंदु A और B से इसकी दूरी के िगों का योगफ़ल सदैि एक समान रहता है तब त्रबंदु P का 
+त्रबंदु पि होगा- 
+a) A straight line    
+                                           
+b) A circle       
+ c) Perpendicular bisector of AB  
+ d) An arbitrary curve 
+10. In a triangle ABC, ∠B = 90° and AB + BC = 4096 cm, then find the sum of circumradius and 
+inradius? 
+एक त्रिभुज ABC में, ∠B = 90° और AB + BC = 4096 सेमी, तो पररत्रिज्या और अंतत्रििज्या का योग ज्ञात कीत्रजए? 
+A) 941 cm        C) 2048 cm 
+B) 8192 cm      D) Cannot be determined 
+11. ABC is a triangle right angled at B. Let D be the midpoint on AC. If BD = 6.5 cm, then what is 𝑨𝑩𝟐+
+𝑩𝑪𝟐 equal to? 
+ABC एक त्रिभुज है जो B पर समकोण है। माना D, AC का मध्यत्रबंदु है। यदद BD = 6.5 सेमी है, तो 𝑨𝑩𝟐+ 𝑩𝑪𝟐 ककसके बराबर 
+है? 
+A) 144 sq cm                     C) 169 sq cm 
+B) 196 sq cm                     D) 225 sq cm 
+12. In a ABC, angle BAC = 900. If BC = 25cm, then what is length of the median AD? 
+ABC esa] dks.k BAC = 900 gSA ;fn BC = 25cm gS rks ekf/;dk AD dh yackbZ Kkr dhft,aA (CPO 2019) 
+(a) 10 cm 
+ 
+ 
+(b) 24 cm 
+ 
+(c) 14.5 cm 
+ 
+ 
+(d) 12.5 cm 
+13. ∆ABC is inscribed in a circle with Centre O. If AB = 21 cm, BC = 20 cm and AC = 29 cm, then what 
+is the length of the circumradius of the triangle? 
+केंद्र O िाले एक िृत्त में ∆ABC उत् कीर्णणत ककया गया है। यदद AB = 21 cm, BC = 20 cm और AC = 29 cm है, तो त्रिभुज के पररिृत्त की 
+त्रिज्या (circumradius) की लंबाई ककतनी है? (SSC CGL MAINS 2024) 
+A) 32.5 cm 
+B) 13.5 cm 
+C) 21.5 cm 
+D) 14.5 cm 
+14. ∆ABC is a right-angled triangle with ABC = 90º. If m(𝑨𝑩
+̅̅̅̅) = 28 cm, and m(𝑩𝑪
+̅̅̅̅) = 96 cm, find the area 
+(in cm2) of the circum-circle of ∆ABC. (Use 𝝅 = 3.14.) 
+ 
+∆ABC एक समकोण त्रिभुज है जजसमें ABC = 90º है। यदद m(𝑨𝑩
+̅̅̅̅) = 28 cm और m(𝑩𝑪
+̅̅̅̅) = 96  है, तो ∆ABC के पररिृत्त 
+का क्षेफल (cm2 में) ज्ञात करें। का उपयोग करें।)  
+SSC CGL 2024 Pre 
+ 
+[A] 
+7,85      [B]8,164 
+ 
+[C]7,693        [D]7,536 
+15. ∆PQR is right-angled at Q such that QR = 16 cm and PQ = 12 cm. A circle with centre O has been 
+inscribed in triangle touching to all three sides of triangle such that OA ⊥ PQ and OB ⊥ QR and OC ⊥ 
+PR. If OA = OB = OC = r, then find r. 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+PQR, Q ij bl çdkj ledks.k gS fd QR = 16 cm vkSj PQ = 12 cm gSA dsUæ O okyk ,d o`Ùk bl f=Hkqt dh rhuksa Hkqtkvksa dks Li'kZ djrs gq, blesa 
+bl çdkj mRdh.kZ fd;k x;k gS fd OA ⊥ PQ, OB ⊥ QR vkSj OC ⊥ PR gSA ;fn  
+OA = OB = OC = r gS] rks r Kkr dhft,A 
+(a) 4 cm 
+ (b)12 cm 
+ 
+(c) 6 cm  
+(d) 8 cm 
+16. What is the distance between the orthocenter and the circumcenter of a triangle whose sides 
+measure 12cm, 35cm and 37cm? 
+एक त्रिभुज जजसकी भुजाएँ 12cm, 35cm तथा 37cm है तो उसके लम्ब केंद्र व परिकेन्द्द्र के मध्य दूिी ज्ञात कीजजये? 
+a) 17.5cm        
+ 
+b) 15cm  
+c) 18.5cm      
+ 
+d) 8√5cm 
+17. The length (in cm) of three sides of a triangle are, respectively, 65, 72 and 97. What is the length 
+(in cm) of the median joining the midpoint of the longest side to its opposite vertex? 
+एक त्रिभुज की तीन भुजाओं की लंबाई (सेमी में) क्रमशः 65, 72 और 97 है। सबसे लंबी भुजा के मध्य त्रबंदु को उसके विपरीत 
+शीर्ण से ममलाने िाली माजध्यका की लंबाई (सेमी में) क्या है? 
+A) 36 
+B) 73 
+C) 45 
+D) 48.5 
+18. The sides of a triangle are 33 cm, 56 cm and 65 cm. What is the distance between orthocenter and 
+centroid of the triangle?  
+एक त्रिभुज की भुजाएँ 33 सेमी, 56 सेमी और 65 सेमी हैं। त्रिभुज के लंबकेद्र और केन्द्रक के बीच की दूरी क्या है? 
+(a) 19.73 cm      
+ (b) 32.5 cm    
+(c) 12√𝟐 cm 
+ 
+ (d) 21.66 cm 
+19. In, ∆𝑨𝑩𝑪, angle B = 90°, AB = 36 cm, BC = 77 cm. if Q is centroid, then find BQ? 
+∆ABC में, कोण B = 90°, AB = 36 सेमी, BC = 77 सेमी है। यदद Q केन्द्द्रक है, तो BQ ज्ञात कीजजए? 
+A) 28.33cm 
+B) 25.66 cm 
+C) 42.5 cm 
+D) 41 cm 
+20. If the sides of a triangle are 39cm, 80cm and 89cm respectively, then find the distance between its 
+orthocentre and incentre? 
+यदद एक त्रिभुज की भुजाएँ क्रमशः 39 सेमी, 80 सेमी और 89 सेमी हैं। तो इसके लंबकेन्द्द्र और  अन्द्तःकेंद्र  के बीच की दूरी ज्ञात 
+करें? 
+a) 29.66cm           b) 15√𝟐 cm                               
+c) 12√𝟑 cm           d) 13√𝟐 cm 
+21. ABC is right angle triangle in which ∠ABC =90°. Incircle of ∆ABC touches hypotenuse AC at point D. 
+If AD=5cm, DC=7.5cm then find the area of ∆ABC?  
+ABC समकोण त्रिभुज है जजसमें ∠ABC =90° है। ∆ABC का अन्द्तःिृत  कणण AC को त्रबन्द्दु D पर थपशण करता है। यदद AD = 5cm, DC = 7.5cm है 
+तो ∆ABC का क्षेिफल ज्ञात कीजजए? 
+ 
+a)25cm2 
+b)42.5cm2 c)37.5cm2    d)40cm2 
+22. The area of a right-angled triangle is 40 sq cm and its perimeter is 40 cm. the length of its 
+hypotenuse is? 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+एक समकोण त्रिभुज का क्षेिफल 40 वगि सेमी है और इसका पररमाप 40 सेमी है। इसके कणि की लंबाई क्या है? 
+A) 16 cm                             C) 17 cm 
+B) 18 cm                             D) 16cm 
+23. If the perimeter of a right angle triangle is 144cm and its circumradius is 32.5cm.  Find its area?  
+यदद समकोण त्रिभुज की पररमाप 144 सेमी है और इसकी पररत्रिज्या 32.5 सेमी है। इसका क्षेिफल ज्ञात कीजजए?                            
+a) 504cm2                    b)520cm2   
+c)512cm2                                d) None of these 
+24. Circumradius and inradius of a right-angle triangle are 102.5 cm and 33 cm respectively. Find 
+perimeter of triangle? 
+एक समकोण त्रिभुज की पररवृत त्रिज्या और अंतःत्रिज्या क्रमशः 102.5 सेमी और 33 सेमी है। त्रिभुज का परिमाप ज्ञात कीत्रजए? 
+A) 476 cm                             C) 467 cm 
+B) 326 cm                            D) 512 cm 
+25. If the inradius and circumradius of a right angle triangle are 3cm and 10cm respectively then find 
+the area of the triangle? 
+यदद एक समकोण त्रिभुज के अन्द्तःत्रिज्या और पररत्रिज्या क्रमशः 3cm और 10cm हैं तो त्रिभुज का क्षेिफल ज्ञात करें? 
+a)69cm2  
+b)56 cm2      c)65 cm2    d)75 cm2 
+26. The difference between the two perpendicular sides of a right-angled triangle is 17 cm and its area is 
+84 cm². What is the perimeter (in cm) of the triangle? 
+ledks.k f=Hkqt ds nks yacor Hkqtkvksa ds chp dk varj 17 cm gS vkSj bldk {ks=Qy 84 cm² gSA f=Hkqt dk ifjeki (cm eas) D;k gksxk\ 
+(a)56 
+ (b)65 
+ 
+(c)72 
+ 
+(d)49 
+27. In ABC, A = 900, AB= 16cm and AC = 12 cm. D is the midpoint of AC and DE⊥ CB at E. What is 
+the area of CDE? 
+ABC Eksa A = 900 esa AB= 16cm vkSj AC = 12 cm gSA AC dk e/; fcUnq D gS vkSj E ij DE⊥ CB gSA CDE dk {ks=Qy Kkr dhft,A 
+(a) 6.25  
+ 
+(b) 8.64  
+(c) 7.68  
+ 
+(d) 5.76 
+28. If the ratio of angles of a triangle are 1:5:6 then find the ratio of its circumradius and inradius. 
+यदद ककसी त्रिभु ज के कोणों का अनुपात 1: 5:6 है, तो इसके पररत्रिज्या और अन्द्तःत्रिज्या के अनुपात का पता लगाएं। 
+a)√𝟑+ √𝟐 
+            
+ b) √𝟔+2 
+c) √𝟔+ √𝟑            d) √𝟔+ 𝟐√𝟐 
+29. In the given figure, ABC is a right angle triangle at B, D is a point on AC such that DC=11 ,AD=31 
+and BD=17, find the area of shaded region? 
+ददए गए धचि में, ABC एक समकोण त्रिभुज है, जहाँ B समकोण है। AC भुजा पर एक त्रबंदु D इस प्रकार है  कक DC=11, AD=31 और BD=17 है, 
+तब छायांककत भाग का क्षेि फल क्या होगा? 
+ 
+a)84 cm2 
+  b)96.8 cm2       
+c)92.4cm2     d) 88cm2 
+30. In the given diagram, an incircle DEF is circumscribed by the right-angled triangle in which AF 
+=6cm and EC= 15cm. Then find the difference between CD and BD? 
+ददए गए धचि में, अन्द्तःिृत्त DEF ,समकोण त्रिभुज के अंदर बना हुआ है जजसमें AF = 6cm और EC = 15cm है। कफर CD और BD के बीच अंतर 
+ज्ञात कीजजए? 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+a)1cm     b)3cm       c)4cm      d)5cm  
+31. An isosceles triangle ABC is right-angled at B, D is a point inside the triangle ABC. P and Q are the  
+feet of the  perpendiculars drawn from D on  the sides AB and AC respectively of ∆ABC. If AP=a cm, 
+AQ=b cm and BAD=150, sin 750= 
+समद्विबाहु समकोण त्रिभुज ABC में, B पर समकोण है।त्रबंदु D त्रिभुज ABC के अंदर जथित है। P और Q  क्रमशः त्रबंदु D से भुजा AB और AC पर 
+डाले गए लम्ब का पाद त्रबंदु है।यदद AP=a cm, AQ=b cm और BAD=150 है तब sin 750 का मान होगा- 
+(a) 
+𝟐𝒃
+√𝟑𝒂        𝒃)
+𝟐𝒂
+√𝟑𝒃             𝒄)
+√𝟑𝒂
+𝟐𝒃              𝒅)
+𝒂
+𝟐𝒃 
+32. In a triangle ABC, angle B = 90° and p is the length of the perpendicular from B to AC. If BC = 10 
+cm and AC =12 cm, then what is the value of p? 
+त्रिभुज ABC में, कोण B = 90° है और p, B से AC पर डाले गए लंब की लंबाई है। यदद BC = 10 सेमी और AC = 12 सेमी है, 
+तो p का मान क्या है? (CDS 2023) 
+ 
+A) 
+𝟓√𝟏𝟏
+𝟑 
+B) 
+𝟏𝟎√𝟏𝟏
+𝟑
+ 
+C) 
+𝟒𝟎
+√𝟔𝟏 
+D) 12/25 
+33. ∆ABC is a right-angled triangle where  
+m∠ABC = 90º. If m(𝑨𝑩
+̅̅̅̅) = 15 cm, M(𝑩𝑪
+̅̅̅̅) = 20 cm, and 𝑩𝑫
+̅̅̅̅̅ ⊥𝑨𝑪
+̅̅̅̅, intersecting 𝑨𝑪
+̅̅̅̅ at the point D, find 
+m(𝑩𝑫
+̅̅̅̅̅) (in cm). 
+∆ABC एक समकोण त्रिभुज है जहां m∠ABC = 90º है। यदद m(𝑨𝑩
+̅̅̅̅) = 15 cm, M(𝑩𝑪
+̅̅̅̅) = 20 cm और 𝑩𝑫
+̅̅̅̅̅⊥𝑨𝑪
+̅̅̅̅ है, जो 𝑨𝑪
+̅̅̅̅ 
+को त्रबंदु D पर प्रततच्छेददत कर रहा है, तो m(𝑩𝑫
+̅̅̅̅̅) (cm में) ज्ञात करें।            SSC CHSL Pre 2024 
+[A] 
+12.5             [B]12 
+[C]  
+10              [D]9 
+34. In a triangle ABC, ∠A = 90°, M is the mid-point of BC and D is a point on BC such that AD⊥ BC. If 
+AB=7cm and AC= 24 cm, then AD: AM is equal to:- 
+∆𝑨𝑩𝑪 में, ∠𝑨= 𝟗𝟎, M, BC का मध् य त्रबन्द् दु है और D, BC पर एक ऐसा त्रबन्द् दु है कक AD ⊥ BC है। यदद AB = 7 cm और AC = 24 
+cm है, तो AD : AM क् या होगा? 
+a) 168:275                 
+b) 24:25                  
+c) 32:43                         
+d) 336:625 
+35. What is the length of (in cm) of the smallest altitude of the triangle whose sides are 5 cm, 12 cm and 
+13 cm? (correct to one decimal place) 
+ml f=Hkqt dh U;wure ÅapkbZ dh yackbZ ¼lseh- eas½ Kkr djas] ftldh Hkqtkvksa dh yackbZ 5 cm, 12 cm vkSj 13 cm gS ¼n'keyo ds ,d LFkku rd lgh½A 
+(a)5.1 
+  
+(b)12.0 
+(c)4.6 
+  
+(d)2.6 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+36. Let ABC be a right-angled triangle with BC as hypotenuse, Length of AB and AC are 15km and 
+20km, respectively. The minimum possible time, (in minutes), required to reach the hypotenuse 
+from A at a  speed of 30km/hr is? 
+समकोण त्रिभुज ABC में जहाँ BC कणण है AB और AC की लंबाई क्रमशः15km और 20km है।त्रबंदु A से कणण तक जाने में न्द्यूनतम समय क्या 
+होगा यदद चाल 30km/hr हो। 
+(a) 24                   (b) 25                      
+(c)21                     (d)18 
+37. In right-angled triangle ABC, C = 90, CM is perpendicular on AB. If AB = 18 cm and BM = 6 cm, then 
+find the length of CM. 
+समकोण त्रिभुज ABC में, ∠C=90 है, CM, AB पर लंब है। यदद AB = 18 cm और BM = 6 cm है, तो CM की लंबाई ज्ञात कीजजए। 
+ 
+ 
+ 
+ 
+SSC CGL 2024 Pre 
+[A] 
+6√𝟐 cm        [B]4√𝟐 cm 
+[C] 
+7√𝟐 cm         [D]2√𝟐 cm 
+38. In a triangle ABC, BAC = 90o and AD is perpendicular to BC. if AD = 8.4 cm and BD = 4.8 cm. then 
+the length of BC is: 
+f=Hkqt ABC eas] BAC = 90o vkSj AD, BC ds yacor gSA ;fn AD = 8.4 cm vkSj BD = 4.8 cm. gS] rks BC=? 
+(a) 
+19.5 cm 
+(b) 
+15 cm 
+(c) 
+18 cm 
+(d) 
+18.5 cm 
+39. In the given figure find AB? 
+दी गई आकृतत में AB ज्ञात कीजजए? 
+ 
+A) 5 
+B) 6 
+C) 7 
+D) 8 
+40. In the given figure find CD? 
+दी गई आकृतत में CD ज्ञात कीजजए? 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+A) 7 
+B) 8 
+C) 9 
+D) 7.5 
+41. In ABC, A = 90°, AD ⊥ BC at D. If AB = 12 cm and AC = 16 cm, then what is the length (in cm)  
+of BD? 
+ABC esa] A = 90°, fcanq D ij AD ⊥ BC gSaA ;fn AB =12cm  vkSj AC = 16 cm gSa] rks BD dh yackbZ (cm esa) Kkr djsaA 
+ (a) 
+8.4 
+(b) 
+7.8 
+(c) 
+7.2 
+(d) 
+6.2 
+42. 
+In the given figure, all measurements are in centimeters. What are the values of a and 
+b (both in cm), respectively? 
+nh xbZ vkÑfr esa] lHkh eki lsaVhehVj esa gSaA Øe'k% a vkSj b ds eku ¼nksuksa lseh- esa½ D;k gksaxs\ 
+ 
+(a) 26.10 
+(b) 31.2, 28.8 
+(c) 10, 26 
+(d) 28.8, 31.2 
+43. In the given figure find AD? 
+दी गई आकृतत में AD ज्ञात कीजजए? 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+A) 
+√𝟐𝟔𝟕−𝟑
+𝟐
+ 
+B) 
+√𝟐𝟔𝟕−𝟑
+𝟑
+ 
+C) 
+√𝟐𝟔𝟕−𝟑
+𝟐
+ 
+D) 
+√𝟐𝟔𝟓−𝟑
+𝟐
+ 
+ 
+44. In a right angled ABC, if ABC = 90°, BN is perpendicular to AC, AB = 12 cm, and AC = 20 cm, then 
+AN : NC is: 
+,d ledks.k ABC esa] ;fn ABC = 90°, BN, AC ij yEcor gS] AB = 12 cm, vkSj AC = 20 cm gS] rks AN : NC Kkr dhft,A 
+(a) 3 : 1 
+(b)1 : 4 
+ 
+(c) 2 : 3  
+(d) 9 : 16 
+45. In a right angled triangle ABC, AB  = 15 cm, BC = 20 cm an AC = 25 cm. further, BP is the 
+perpendicular on AC. What is the difference in the area of triangles PAB and PCB? 
+एक समकोण त्रिभुज ABC में, AB = 15 सेमी, BC = 20 सेमी और AC = 25 सेमी। इसके अलािा BP ,AC पर लंबित है। त्रिभुज 
+PAB और PCB के क्षेिफल में क्या अंतर है? (CDS-1 2024) 
+A) 40 sq cm 
+B) 42 sq cm 
+C) 45 sq cm 
+D) 48 sq cm 
+46. In ABC, C = 900 and CD is perpendicular to AB at D. If AD/BD = √𝒌, then AC/BC = ? 
+ABC esa] C = 900  vkSj CD, Hkqtk AB ij yac gS tgka D, AB  ij ,d fcanq gsA ;fn AD/BD = √𝒌 gS] rks AC/BC = ? 
+(a) k 
+ 
+ 
+(b) √𝒌   
+ 
+(c) 
+𝟏
+√𝒌                   
+(d) √𝒌
+𝟒
+ 
+47. ABC is a right angled triangle, right angled at C and p is the length of the perpendicular from C on 
+AB. If a, b and c are the length of the sides BC, CA and AB respectively, then 
+ABC एक समकोण त्रिभुज है, जो  C पर समकोण है और p, भुजा AB पर त्रबंदु C से लम्ब की लम्बाई है। यदद a, b और c क्रमशः BC, CA और AB  
+की लंबाई हैं, तो 
+a)
+𝟏
+𝒑𝟐=
+𝟏
+𝒃𝟐−
+𝟏
+𝒂𝟐                    b)
+𝟏
+𝒑𝟐=
+𝟏
+𝒃𝟐+
+𝟏
+𝒂𝟐 
+c)
+𝟏
+𝒑𝟐+
+𝟏
+𝒂𝟐=
+𝟏
+𝒃𝟐                    d)
+𝟏
+𝒑𝟐=
+𝟏
+𝒂𝟐−
+𝟏
+𝒃𝟐 
+48. What is the area of a right-angled triangle, if the radius of the circumcircle is 5 cm and altitude drawn 
+in the hypotenuse is 4 cm? 
+,d ledks.k f=Hkqt dk {ks=Qy D;k gS] ;fn ifjo`r dh f=T;k 5 lseh gS vkSj d.kZ ij [khapk x;k शीर्ण ZyEc 4 lseh gS\ 
+(A) 20 sq cm 
+(B) 18 sq cm 
+ 
+(C) 16 sq cm 
+(D) 10 sq cm 
+ 
+49. In the given figure ABC = BDC = 90, if AD = 18cm & CD = 32cm, then find area of ABC. 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ददए गए आकृतत में ABC = BDC = 90, यदद AD = 18 सेमी और CD = 32 सेमी है तो ABC का क्षेिफल ज्ञात 
+कीजजए? 
+ 
+(a) 480     
+      
+(b) 600             
+ 
+(c) 400             
+(d) 540 
+50. In the given figure AC:BD=13:6, then find tanC ? 
+त्रिए गए त्रिि में AC:BD=13:6, तो tanC ज्ञात कीत्रजए ? 
+ 
+A) 
+𝟐
+𝟑                                        C) 
+𝟑
+𝟐 
+B) 
+𝟐
+𝟑  OR   
+𝟑
+𝟐                               D) none 
+51. Find the area of a right-angled triangle with perimeter 16cm and the length of the perpendicular 
+dropped on the hypotenuse is 3 cm. 
+16 lseh ifjeki okys ,d ledks.k f=Hkqt dk {ks=Qy Kkr djsa ;fn d.kZ ij fxjh gqbZ yacor yackbZ 3 lseh gSA 
+(a) 
+𝟏𝟗𝟐
+𝟏𝟗  
+ 
+(b) 
+𝟏𝟕𝟓
+𝟏𝟕  
+ 
+ 
+(c) 
+𝟐𝟓𝟔
+𝟐𝟏  
+ 
+(d) 
+𝟏𝟐𝟖
+𝟏𝟗 
+52. In the given figure PQR is a right angled triangle in which ∠PQR=90, PQ=15cm, QR=20cm. QS is the 
+altitude on hypotenuse PR. Circles are inscribed with in the ∆PSQ & QSR. A and B are the centres 
+of circle. What is the distance between A and B? 
+नीचे ददए गए धचि में, PQR एक समकोण त्रिभुज है।∠PQR=90, PQ=15cm, QR=20cm. QS, कणण PR पर लम्ब है।दो िृत्त  क्रमशः त्रिभुज PSQ 
+और QSR में अंककत है। A और B िृत्त के केन्द्द्र है।A और B की बीच की दूरी क्या है? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a)√65 b)√50 
+         c)7           d)8 
+ 
+ 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+53. In DABC, ÐC = 90°. M and N are the mid-points of sides AB and AC, respectively. CM and BN 
+intersect each other at D and ÐBDC = 90°. If BC = 8 cm, then the length of BN is: 
+ABC esa] C = 90° gSA M vkSj N Øe”k% Hkqtk AB vkSj AC ij fLFkr eè; fcanq gSaA CM vkSj BN ,d nwljs dks fcanq D ij çfrPNsn djrs gSa vkSj 
+BDC = 90° gSA ;fn BC = 8 cm gS] rks BN dh yackbZ D;k gksxh\ 
+(a) 6√𝟑 cm 
+ 
+ 
+(b) 6√𝟔 cm 
+ 
+ 
+(c) 4√𝟔 cm 
+ 
+ 
+(d) 8√𝟑 cm 
+54. In a right angle triangle two medians  intersects each other at 90°. Find the ratio of all three sides 
+of triangle  ? 
+एक समकोण त्रिभुज  की कोई  दो  मजध्यकाए एक दूसरे को 90° पर काटती है| त्रिभुज की तीनो भुजाओ का अनुपात ज्ञात करो? 
+a)3:4:5 
+ 
+        b)√𝟐: √𝟑: √𝟓 
+ 
+ 
+c)1:√𝟐: √𝟑            d)√𝟑: 𝟐: √𝟕 
+55. A point D is taken from the side BC of a right – angled triangle ABC , Where AB is hypotenuse , then? 
+एक  समकोण  त्रिभुज ABC  की एक भुजा BC  पि एक त्रबिंदु D  को चुना  गया है, जजसमे AB  त्रिभुज का एक कणण है तदनुसाि, तनम्न में क्या सही 
+है ? 
+ a)𝑨𝑩𝟐+𝑪𝑫𝟐= 𝑩𝑪𝟐+𝑨𝑫𝟐              b) 𝑨𝑩𝟐+𝑩𝑫𝟐= 𝑩𝑪𝟐+𝑨𝑫𝟐          
+c)𝑨𝑩𝟐+𝑨𝑪𝟐= 𝟐𝑨𝑫𝟐                    d) 𝑨𝑫𝟐+𝑩𝑫𝟐= 𝑨𝑩𝟐 
+56. Points D and E are  taken on the sides BC and AB  of a right – angled triangle ABC , Where AC is 
+hypotenuse . then? 
+त्रबंदु D और E एक समकोण त्रिभुज ABC भुजा की BC और AB   पर मलए गए हैं, जहाँ AC कणण है। तब कफर? 
+a)𝑨𝑫𝟐+𝑪𝑬𝟐= 𝑩𝑪𝟐+𝑨𝑩𝟐              b) 𝑨𝑫𝟐+𝑪𝑬𝟐= 𝑫𝑬𝟐+𝑨𝑪𝟐        
+c)  𝑨𝑩𝟐+𝑨𝑪𝟐= 𝟐𝑫𝑬𝟐                    d) 𝑨𝑫𝟐+𝑪𝑬𝟐= 𝑨𝑪𝟐−𝑫𝑬𝟐 
+57. Points M and N are on the sides PQ and QR respectively of a triangle PQR, right angled at Q. If PN = 
+9 cm, MR = 7 cm, and MN = 3 cm, then find the length of PR (in cm). 
+f=Hkqt PQR dh Hkqtk PQ vkSj QR ij Øe'k% fcUnq M vkSj N fLFkr gS rFkk ;g f=Hkqt Q ij ledks.k gS ;fn PN = 9 cm, MR = 7 cm vkSj MN = 3 
+cm gS] rks PR dh yackbZ ¼lseh- eas½ Kkr djsaA 
+(a) 
+13 
+(b) 
+11 
+(c) 
+12 
+(d) 
+√𝟒𝟏 
+58. In ∆PQR, ∠P = 90°. S and T are the mid points of sides PR and PQ, respectively. What is the value of 
+𝑹𝑸𝟐
+𝑸𝑺𝟐 + 𝑹𝑻𝟐? 
+∆PQR में, ∠P = 90° है। S और T क्रमश: भुजा PR और PQ के मध् य त्रबंदु हैं। 
+𝑹𝑸𝟐
+𝑸𝑺𝟐 + 𝑹𝑻𝟐 का मान ज्ञात कीजजए? 
+(a) 
+𝟑
+𝟒 
+ 
+ 
+(b) 
+𝟏
+𝟐 
+ 
+ 
+ 
+(c) 
+𝟐
+𝟑 
+ 
+ 
+(d) 
+𝟒
+𝟓 
+59. In ∆ABC, ∠C = 90°. Points P and Q are on the sides AC and BC, respectively, such that AP:PC = 
+BQ:QC = 1:2. Then, 
+𝑨𝑸𝟐+𝑩𝑷𝟐
+𝑨𝑩𝟐
+ is equal to: 
+∆ABC में, ∠C = 90° है। भुजा AC और BC पर क्रमश: त्रबंदु P और Q इस प्रकार हैं कक AP:PC = BQ:QC = 1:2 है। तो 
+𝑨𝑸𝟐+𝑩𝑷𝟐
+𝑨𝑩𝟐
+ 
+______ के बराबर होगा।  
+(a) 
+𝟒
+𝟗 
+ 
+ 
+(b) 
+𝟒
+𝟑 
+ 
+ 
+ 
+(c) 
+𝟏𝟑
+𝟗 
+ 
+ 
+(d) 
+𝟖
+𝟑 
+60. ABC is a right-angled triangle, right angled at B. AD and CE are the two medians drawn from A and C 
+respectively. If AC=5cm and AD=3√5/2 cm, find the length of CE. 
+ABC समकोण त्रिभुज है। जहाँ B समकोण है। AD औि CE दो माजध्यकाये है जो क्रमशः त्रबिंदु A औि C से खीिंची गई है। यदद AC=5cm औि AD=3√5/2 
+cm है तब CE की लिंबाई होगी- 
+(a) 2√5cm 
+ 
+(b) 2.5cm          
+(c) 5cm   
+ 
+(d) 4√2cm 
+ 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+61. In the given figure, triangle PQR is a right angled triangle at Q. If PQ = 35 cm and PS = 21 cm, then what is the value (in 
+cm) of radius of semicircle? 
+दी गई आकृतत में, त्रिभुज POR, Q पर एक समकोण त्रिभुज है। यदद PQ= 35 से.मी. तिा PS=21 से.मी. हैं तो अिणिृत्त के त्रिज्या का मान (सेमी 
+में) क्या है? 
+ 
+(a) 24.5   
+(b) 23.33 
+ 
+(c) 25.66 
+(d) 22.22 
+ 
+62. If PQ=3cm and QR=4cm  then find the length of ST? 
+यदद  PQ=3cm और QR=4cm   है।तब ST की लंबाई ज्ञात कीजजये 
+ 
+a)12/7     
+b)48/25   
+c)100/49 
+  d)96/41 
+63. ABC is a right angled triangle, right angled at B such that AB = 6 cm and BC = 8 cm. what is the 
+perimeter of the square inscribed in the triangle ABC with maximum area? 
+ABC एक समकोण त्रिभुज है, जजसका  B  समकोण इस प्रकार है कक AB = 6 सेमी और BC = 8 सेमी है। त्रिभुज ABC में 
+अधिकतम क्षेिफल िाले अंककत िगण का पररमाप क्या है? (CDS-1 2024) 
+A) 24/7 cm 
+B) 96/7 cm 
+C) 24 cm 
+D) 32 cm 
+64. ∆ABC  is right angled triangle in which angle ABC is 90°.a square PQRS is made inside and another 
+smaller square is also drawn  as shown in figure if AP=18cm,CQ=32cm then find side of smaller 
+square? 
+∆ABC समकोण त्रिभुज है जजसमें कोण ABC= 90° है| त्रिभुज के अंदर िगण PQRS है और एक और छोटा िगण भी बनाया गया है 
+जैसा कक धचि में ददखाया गया है यदद AP = 18cm, CQ = 32cm तो छोटे िगण की भुजा ज्ञात करे| 
+ 
+a)
+𝟒𝟖
+𝟓                              b)
+𝟗𝟔
+𝟕                      
+ c)
+𝟏𝟒𝟒
+𝟏𝟏                            d)
+𝟏𝟏𝟎
+𝟗 
+ 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+65. In this figure, find the perimeter of square BDEF inscribed in right angle ∆ABC. 
+ददये गए धचि मे समकोण त्रिभुज ∆ABC के अंदर बने िगण BDEF का पररमाप ज्ञात करो ? 
+ 
+ 
+a)
+𝟕𝟐𝟎
+𝟐𝟑cm          b)
+𝟒𝟖𝟎
+𝟏𝟕cm              c)8√30cm                d)
+𝟒𝟓𝟎
+𝟏𝟕 
+66. Triangle ABC is right angled at B .it side AB=24cm ,BC =32. A square PQRS is made on hypotenuse 
+AC as shown in fig. Find the diagonal of Square PQRS? 
+त्रिभुज ABC त्रबंदु पर समकोण है .यदद भुजा  AB=24cm ,BC =32 .जैसा कक धचि मे ददया गया है एक िगण PQRS , भुजा पर बनाया गया है .िगण 
+PQRS का विकनण ज्ञात करे ? 
+     
+A)475√2/37 
+ 
+B)480√2/37 
+C)512√2/49 
+ 
+D)225√2/27 
+67. find Radius of semicircle?(∠B=90) 
+ददए गए धचि में, अिणिृत्त की त्रिज्या ज्ञात करे।(∠B=90) 
+ 
+ 
+a)6.25cm  
+  
+b)5.25cm    
+ 
+ 
+c)6cm     
+d)8.25cm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+68. find Radius of semicircle?(∠B=90) 
+ददए गए धचि में, अिणिृत्त की त्रिज्या ज्ञात करे।(∠B=90) 
+ 
+a)12           b)60/7         c)10          d)7.5 
+69. In the fig. given below ABC is a right-angled triangle where ⎳A=90, AB=p cm and AC=q cm. on the 
+three sides as diameters semicircles are drawn as shown in the fig. The area of the shaded portion, 
+in sq. cm is 
+ददए गए धचि में ABC एक समकोण त्रिभुज है जहां ⎳A=90, AB=p cm और  AC=q cm. तीनो भुजाओं को विकणण पर अिणिृत 
+र्खंचा जाता है छायांककत भाग का क्षेिफल ज्ञात करें? 
+ 
+(a) pq               
+ (b) pq/2   
+    
+(c) π(p2+q2)/2            (d) π(p2+q2)/2 
+ 
+70. In the fig. 3 semicircles are drawn on three sides of ∆ ABC. AB=21cm, BC=28cm and AC=35cm. what 
+is the area of shaded part? 
+ददए गए धचि में, तीन अिणिृतों को त्रिभुज∆ ABC की तीन भुजाओं  पर बनाया गया है, यदद AB=21cm, BC=28cm और AC=35cm है।तब 
+छायांककत भाग का क्षेिफल ज्ञात कीजजये। 
+ 
+     a)588  
+b)324 
+ 
+c)294 
+ 
+d)286 
+71. Let ABC be a right-angled isosceles triangle with hypotenuse BC. Let BQC be a semi-circle, away from 
+A, with diameter BC. Let BPC be an arc of a circle centered at A and lying between BC and BQC. If AB 
+has length 6 cm then the area, in sq.cm, of the region enclosed by BPC and BQC is ? 
+ 
+एक समद्विबाहु समकोण त्रिभुज ABC में जहाँ BC कणण है। एक अिणिृत्त BQC भुजा BC को व्यास मानकर त्रबंदु A के विपरीत ददशा में 
+बनाया गया है, BPC एक चाप है। जजसका केंद्र त्रबंदु A पर है जो भुजा BC और BQC के मध्य जथित है।यदद AB की लंबाई 6 
+cm 
+है 
+तब 
+BPC 
+और 
+BQC 
+के 
+मध्य 
+तिरे 
+भाग 
+का 
+क्षेिफल 
+ज्ञात 
+कीजजये।। 
+a) 9π-18 
+              b) 18  
+ 
+ 
+c)9π  
+ 
+                   d)9 
+ 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+72. Let P be an interior point of a right-angled isosceles triangle ABC with hypotenuse AB. If the 
+perpendicular distance of P from each of AB, BC and CA is 4(√2-1) cm, then the area, in sq cm, of the 
+triangle ABC is? 
+समद्विबाहु समकोण त्रिभुज ABC में जहाँ AB कणण है, त्रिभुज के अंदर एक त्रबंदु P है। त्रबंदू P से तीनों भुजाओं AB, BC तथा CA की 
+लम्बित दूरी 4(√2-1) cm है तब त्रिभुज का क्षेिफल ज्ञात करे। 
+(a) 16              
+(b) 18         
+ 
+(c) 25              
+(d) 12√2 
+ 
+73. In the figure given below, ABC is a right angled triangle with hypotenuse AC= 100cm, AC is divided 
+into four segments AD, DE, EF and FC such that AD=DE=EF=FC. What is the value of  
+BD2 +BE2 +BF2  ? 
+नीचे ददए गए धचि में, ABC एक समकोण त्रिभुज जहाँ AC= 100cm है।AC को चार बराबर भागो AD, DE, EF ,FC में बांटा गया है तब 
+AD=DE=EF=FC है। BD2 +BE2 +BF2  का मान ज्ञात कीजजये। 
+ 
+       
+         a)8000      b)8750     c)10000       d)9250 
+74. Find the area ∆ABC in the given fig., ∠B=90°? 
+    त्रिभुज ABC का क्षेिफल ज्ञात किे, ∠B=90°? 
+ 
+ 
+a)1244cm2                         b)1176cm2 
+c)1444cm2                         d)1344cm2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

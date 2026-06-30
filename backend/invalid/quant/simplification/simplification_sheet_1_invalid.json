@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 1,
+    "question_en": "𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐭𝐡𝐞𝐬𝐞 𝐢𝐧𝐭𝐨 𝐟𝐫𝐚𝐜𝐭𝐢𝐨𝐧?",
+    "question_hi": null,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Simplification",
+    "source_pdf": "Simplification Sheet -1.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 25,
+    "question_en": "Find the square of these numbers?",
+    "question_hi": "इन संख्याओं का वगग ज्ञात कीभिये?",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "e) f) g) h) i) j)",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Simplification",
+    "source_pdf": "Simplification Sheet -1.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c"
+  },
+  {
+    "question_number": 73,
+    "question_en": "𝑇ℎ𝑒 𝑣𝑎𝑙𝑢𝑒 𝑜𝑓 48.3×{4.952+4.95×13.25} [(12.55)2−(5.65)2]×19.8  𝑖𝑠: 48.3×{4.952+4.95×13.25}",
+    "question_hi": "[(12.55)2−(5.65)2]×19.8  का मान क्या है?",
+    "option_a": "17.5",
+    "option_b": "0.175",
+    "option_c": "1.75",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Simplification",
+    "source_pdf": "Simplification Sheet -1.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_d"
+  }
+]

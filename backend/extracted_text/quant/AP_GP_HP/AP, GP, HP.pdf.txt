@@ -1,0 +1,548 @@
+ 
+Gagan Pratap Maths 
+1. 
+How many terms are there in the A.P 7, 13, 19, ………. 205? 
+ 
+A.P 7, 13, 19, ............ 205 भें कितने ऩद वैं? 
+ 
+[A] 31 
+[B] 32 
+ 
+[C] 34 
+[D] 36 
+2. 
+Find the number of terms in the series      
+ 
+    
+ 
+  ………. the sum of which is 
+300?  
+ 
+श्ृंखरा      
+ 
+    
+ 
+  ………. भें ऩदों िी ऴृंख्या ज्ञात िीजजए, जजऴिा मॉग 300 वै? 
+ 
+[A] 25 
+[B] 36 
+ 
+[C] 25 and 36 both 
+[D] none 
+ 
+ 
+ 
+ 
+3. 
+What is the maximum value of the sum of the numbers 36, 33, 30, 27, 24……..? 
+ 
+ऴृंख्याओृं 36, 33, 30, 27, 24…….. िे मॉग िा अधधितभ भान क्या वै? 
+ 
+(UPSC CDS-1 2025) 
+ 
+[A] 240 
+[B] 237 
+ 
+[C] 234 
+[D] 231 
+ 
+4. 
+What is the sum of all three-digit numbers divisible by 7? 
+ 
+7 ऴे कऱबाज्य ऴबी तीन अृंिीम ऴृंख्याओृं िा मॉग क्या वै? 
+ 
+[A] 70336 
+[B] 70707 
+ 
+[C] 72000 
+[D] 71407 
+ 
+ 
+ 
+ 
+ 
+5. 
+What is the sum of all 3 digit number that give a remainder of 5 when they are 
+divided by 50? 
+ 
+उन ऴबी 3 अृंिों िी ऴृंख्याओृं िा मॉग क्या वै जॉ 50 ऴे कऱबाजजत वॉने ऩय 5 लेळपर देती वैं? 
+ 
+(UPSC CDS-1 2025) 
+ 
+[A] 9005 
+[B] 9540 
+ 
+[C] 9600 
+[D] 9640 
+6. 
+What is the sum of all natural numbers between 100 and 400 which are 
+divisible by 13? 
+ 
+100 तथा 400 िे भध्य ऴबी प्रािृधति ऴृंख्याओृं िा मॉग क्या वै जॉ 13 ऴे कऱबाज्य वैं? 
+ 
+[A] 5681 
+[B] 5334 
+ 
+ 
+[C] 5434 
+[D] 5761 
+7. 
+The first and last terms of an A.P. are 20 and 55. If the sum of its terms is 600, 
+then the number of terms will be? 
+ 
+किऴी ऴभाृंतय श्ेढ़ी (A.P.) िा प्रथभ ऩद औय अृंधतभ ऩद क्रभल: 20 औय 55 वै। मदद इऴिे ऩदों 
+िा मॉगपर 600 वै, तॉ ऩदों िी ऴृंख्या ज्ञात िीजजए। 
+ 
+[RRB Technician Grade 1 2024] 
+ 
+[A] 15 
+[B] 16 
+ 
+[C] 17 
+[D] 14 
+8. 
+If 15th and 28th terms of an A.P. be 208 and 416 respectively, then its 49th term is: 
+ 
+Gagan Pratap Maths 
+ 
+मदद किऴी ऴभाृंतय श्ेढ़ी (A.P.) िा 15ऱााँ तथा 28ऱााँ ऩद क्रभलः 208 तथा 416 वै, तॉ उऴिा 49ऱााँ 
+ऩद ज्ञात िीजजए। 
+ 
+[RRB Technician Grade 1 2024] 
+ 
+[A] 755 
+[B] 749 
+ 
+[C] 752 
+[D] 751 
+9. 
+If the sum of first 14 terms of any A.P. is 1050 & its first term is 10, then find the 
+20th term. 
+ 
+मदद किऴी ऴभाृंतय श्ेणी िे प्रथभ 14 ऩदों िा मॉग 1050 वै औय इऴिा प्रथभ ऩद 10 वै, तॉ 20ऱााँ 
+ऩद ज्ञात िीजजए। 
+ 
+[A] 200 
+[B] 201 
+ 
+[C] 203 
+[D] 202 
+10. Find the sum of first 32 terms of an AP if fifth term is 108 and 28th term is 250? 
+ 
+एि AP िे ऩवरे 32 ऩदों िा मॉग ज्ञात िीजजए मदद ऩााँचऱााँ ऩद 108 वै औय 28ऱााँ ऩद 250 वै? 
+ 
+[A] 5728 
+[B] 5600          
+ 
+[C] 5278 
+[D] 5872 
+11. Sum of first 25 terms of an AP is 525. Sum of the next 25 terms is 725. What is 
+the common difference? 
+ 
+किऴी AP िे ऩवरे 25 ऩदों िा मॉग 525 वै। अगरे 25 ऩदों िा मॉग 725 वै। ऴाऱव अृंतय क्या वै? 
+ 
+[A] 
+ 
+   
+[B] 
+ 
+               
+ 
+[C] 
+ 
+  
+[D] 
+  
+           
+12. If the square of the 7th term of an arithmetic progression with positive 
+common difference equals the product of the 3rd and 17th terms, then the ratio 
+of the first term to the common difference is: 
+ 
+मदद धनात्मि उबमजनष्ठ अृंतय ऱारी ऴभान्तय श्ेणी िे 7 ऱें ऩद िा ऱगव तीऴये औय 17 ऱें ऩदों िे 
+गुणनपर िे फयाफय वै, तॉ ऩवरे ऩद िा उबमजनष्ठ अृंतय ऴे क्या अनुऩात वै? 
+ 
+[A] 2 : 3 
+[B] 3 : 2 
+ 
+ 
+ 
+[C] 3 : 4 
+[D] 4 : 3 
+13. If the sum of the first 100 terms of an arithmetic progression is 50, and the 
+sum of the first 200 terms is 90, then what is the sum of the first 300 terms of 
+the progression? 
+ 
+मदद एि ऴभाृंतय श्ेणी िे ऩवरे 100 ऩदों िा मॉग 50 वै, औय ऩवरे 200 ऩदों िा मॉग 90 वै, तॉ 
+श्ेणी िे ऩवरे 300 ऩदों िा मॉग क्या वै? 
+ 
+(DELHI POLICE HEAD CONSTABLE 2022) 
+ 
+[A] 140 
+[B] 100 
+ 
+[C] 130 
+[D] 120 
+14. All the page numbers from a book are added, beginning at page 1. However, 
+one page number was added twice by mistake. The sum obtained was 1000. 
+Which page number was added twice? 
+ 
+Gagan Pratap Maths 
+ 
+किऴी ऩुस्ति िे ऴबी ऩृष्ठ ऴृंख्याएाँ जॉड़ दी जाती वैं, ऩृष्ठ 1 ऴे लुरू वॉती वै। वाराृंकि, गरती ऴे दॉ 
+फाय एि ऩृष्ठ ऴृंख्या जॉड़ी गई थी। 1000 मॉग प्राप्त, िॊन ऴी ऩृष्ठ ऴृंख्या दॉ फाय जॉड़ा गमा वै? 
+ 
+[A] 8 
+[B] 10                    
+ 
+[C] 45 
+[D] 20  
+15. What is the sum of first 200 terms of the given series? 
+ 
+दी गई शृंखरा िे ऩवरे 200 ऩदों िा मॉग क्या वै? 
+ 
+1 + 5 + 6 + 10 + 11 + 15 + 16 + 20 + .......... 
+ 
+SSC CHSL TIER – I 2022 
+ 
+[A] 49400 
+[B] 49600 
+ 
+[C] 50100 
+[D] 48300 
+ 
+ 
+ 
+16. If A = 1 – 10 + 3 – 12 + 5 – 14 + 7 + … upto 60 terms, then what is the value of A? 
+ 
+मदद  A = 1 – 10 + 3 – 12 + 5 – 14 + 7 + … 60 ऩदों ति वैं, तॉ A िा भान क्या वै? 
+ 
+[a] –360 
+[B] –310 
+ 
+ 
+[C] –240 
+[D] –270 
+ 
+17. Find 5 – 8 + 13 + 7 – 11 + 17 + 9 – 14 + 21 + …….. upto 99 terms,? 
+ 
+5 – 8 + 13 + 7 – 11 + 17 + 9 – 14 + 21 + …….. upto 99 terms क्या वै? 
+ 
+[A] 1843 
+[B] 1749 
+ 
+ 
+[C] 1815 
+[D] 1914 
+18. What is the value of                                        
+        ? 
+ 
+                                              िा भान क्या 
+वै?  
+ 
+(CGL 2022 PRE) 
+ 
+[A] 5050 
+[B] 4985 
+ 
+[C] 4995 
+[D] 4950 
+ 
+ 
+ 
+ 
+ 
+19. What is the sum of all the common terms between the given series S1 and S2? 
+ 
+दी गई श्ृंखराओृं S1 तथा S2 िे भधम ऴबी उबमजनष्ठ ऩदों िा मॉग क्या वै?   
+ 
+S1 = 2, 9, 16,…..632  
+ 
+S2 = 7, 11, 15…..743  
+ 
+[A] 6974 
+[B] 6860  
+ 
+[C] 6750 
+[D] 7140  
+20. What is the sum of first 20 terms of the following series?  
+ 
+दी गई श्ृंखरा िे ऩवरे 20 ऩदों िा मॉग क्या वै ? 
+ 
+1 × 2 + 2× 3 +3 × 4 +4 ×5 ………………. 
+ 
+[A] 2940 
+[B] 3160  
+ 
+[C] 3080 
+[D] 3240 
+21. Find the sums up to n terms 
+  
+  
+     
+    
+        
+         ? 
+ 
+Gagan Pratap Maths 
+ 
+n ऩदों ति िा मॉग ज्ञात िीजजए 
+  
+  
+     
+    
+        
+             ? 
+ 
+[A] 
+ (   )
+ 
+ 
+[B] 
+ (   )
+ 
+ 
+ 
+[C] 
+ (   )
+ 
+ 
+[D] 
+ (   )
+ 
+ 
+22. Find the value of      
+ 
+    
+ 
+        . 
+ 
+     
+ 
+    
+ 
+          िा भान ज्ञात ियॉ।   
+ 
+[A] 68 
+[B] 72 
+ 
+[C] 74 
+[D] 64 
+23. The sum of n terms of a G.P 
+ 
+  –
+ 
+  
+ 
+    is in GP. is 
+  
+   Find the value of n?  
+ 
+एि गुणॉत्तय श्ेणी 
+ 
+  –
+ 
+  
+ 
+    िे n ऩदों िा मॉग 
+  
+   वै, तॉ n िा भान फताइए?    
+ 
+SSC CGL 2023 PRE 
+ 
+[A] 5 
+[B] 2 
+ 
+[C] 3 
+[D] 4 
+24. The sum of 4+44+444+………… upto n terms is 
+ 
+4+44+444+………… िा n ऩदों ति मॉग वै            
+ 
+[A] 
+  
+   (    – 1 ) - 
+  
+  
+[B] 
+  
+   (    – 1 ) - 
+  
+   
+ 
+[C] 
+  
+   (     – 1 ) - 
+  
+  
+[D] 
+  
+   (     – 1 ) - 
+  
+  
+25. If a ball is thrown from a height of 500m on the ground, the ball bounces 
+ 
+  times of its 
+every last bounce. Find the total distance covered by the ball till it stops. 
+ 
+मदद किऴी गेंद िॉ 500 भीटय िी ऊाँचाई ऴे ज़भीन ऩय पेंिा जाता वै, तॉ गेंद अऩने वय आखखयी 
+उछार िे 
+ 
+  गुना  उछरती वै। गेंद िे रुिने ति िुर दूयी तम ियें। 
+ 
+[A] 4500m 
+[B] 5000m  
+ 
+ 
+[C] 4200m 
+[D] 4000m 
+26. If the sum of the first 1743 terms of a GP is 500 and first 3486 terms is 900, then 
+sum of first 5229 terms of GP is? 
+ 
+मदद किऴी GP िे ऩवरे 1743 ऩदों िा मॉग 500 वै औय ऩवरे 3486 ऩदों िा मॉग 900 वै, तॉ GP 
+िे ऩवरे 5229 ऩदों िा मॉग क्या वै? 
+ 
+[A] 1200 
+[B] 1300 
+ 
+[C] 1220 
+[D] 1330 
+ 
+27. For two observations, the sum is S and product is P. What is the harmonic 
+mean of these two observations? 
+ 
+दॉ अऱरॉिनों िे जरए, मॉग S वै औय  गुनापर P वै। इन दॉ अऱरॉिनों िा वाभोजनि भाध्य 
+क्या वै?  
+ 
+(CDS 2020) 
+ 
+[A] 
+  
+  
+[B] 
+ 
+(  ) 
+ 
+ 
+[C] 
+  
+  
+[D] 
+ 
+(  )  
+ 
+ 
+Gagan Pratap Maths 
+28. If x is the harmonic mean between and y and z, then which one of the 
+following is correct? 
+ 
+मदद x औय y औय z िे फीच िा वाभोजनि भाध्य वै, तॉ जनम्नजरखखत भें ऴे िॊन ऴा ऴवी वै? 
+ 
+(CDS 2021) 
+ 
+[A] xy+xz-yz 
+[B] xy+xz-2yz 
+ 
+[C] xy+xz+yz 
+[D] xy+xz-4yz 
+29. The harmonic mean and the geometric mean of two numbers are 10 and 12 
+respectively. What is their arithmetic mean? 
+ 
+दॉ ऴृंख्याओृं िे वयात्मि भाध्य औय गुणॉतय भाध्य िभा: 10 औय 12 वै। उनिा ऴभाृंतय भाध्य क्या वै? 
+ 
+[A] 
+  
+  
+[B] √             
+ 
+[C] 11 
+[D] 14.4 
+30. If arithmetic and geometric mean of x and y is 8 and 3√  respectively, then 
+the value of       is? 
+ 
+मदद x औय y िा ऴभान्तय औय गुणॉत्तय भाध्य क्रभलः 8 औय 3√  वै, तॉ       िा भान क्या वै? 
+ 
+[A] 1072 
+[B] 945 
+ 
+[C] 559 
+[D] 855 
+31. Let the positive numbers                be in GP. If P is the GM of 
+              and Q is the GM of                      , then what is the GM of 
+3n numbers? 
+ 
+भान रीजजए कि ऴिायात्मि ऴृंख्याएाँ                GP भें वैं। मदद P,              िा 
+GM वै औय Q,                       िा GM वै, तॉ 3n  ऴृंख्याएाँ िा GM क्या वै? 
+ 
+(CDS-1 2024) 
+ 
+[A]     
+[B]     
+ 
+[C] √   
+[D]          
+ 
+ 
+ 
+ 
+ 
+1. 
+(c) 
+2. 
+(c) 
+3. 
+(c) 
+4. 
+(a) 
+5. 
+(b) 
+6. 
+(a) 
+7. 
+(b) 
+8. 
+(c) 
+9. 
+(a) 
+10. (a) 
+11. 
+(a) 
+12. 
+(a) 
+13. 
+(d) 
+14. 
+(b) 
+15. 
+(c) 
+16. 
+(d) 
+17. 
+(d) 
+18 
+(c) 
+19. (a) 
+20. 
+(c) 
+21. 
+(c) 
+22. 
+(d) 
+23 
+(a) 
+24. 
+(c) 
+25. 
+(a) 
+26. 
+(c) 
+27 
+(c) 
+28. (b) 
+29. 
+(d) 
+30. 
+(a) 
+31. 
+(d) 
+ 
+Answer key 

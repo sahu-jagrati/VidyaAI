@@ -1,0 +1,1652 @@
+1.
+Ashok went 8 kms. South and turned west and
+walked 3 Kms, again he turned north and
+walked 5 Kms. He took a final turn to east and
+walked 3 Kms. In which direction was Ashok
+from the starting point?
+अशोक 8 ककमी. दकिण की तरफ गया और पकिम को
+मुड़कर 3 ककमी. चला। वह कफर उत्तर की तरफ मुड़ा
+और 5 ककमी. चला। अंत में वह पूवव कदशा की ओर मुड़ा
+और 3 ककमी. चला। अशोक आरंकिक स्थान से ककस
+कदशा में था?
+(a) East / पूवव 
+(b) North / उत्तर
+(c) West / पकिम 
+(d) South / दकिण
+2.
+Starting from a point P, Sachin walked 20 m
+towards South, he turned left and walked 30 m.
+He then turned left and walked 20 m. He again
+turned left and walked 40m and reached a
+point Q. How far and in which direction is the
+point P from the point Q?
+क ंदु P से शुरू करके, सकचन दकिण की ओर 20 मीटर
+चला, वह  ाएं मुड़ा और 30 मीटर चला। कफर वह  ायीं
+ओर मुड़ा और 20 मीटर चला। वह कफर  ायीं ओर मुड़ा
+और 40 मीटर चला और एक क ंदु Q पर पहंचा। क ंदु P,
+क ंदु Q से ककतनी दूर और ककस कदशा में है?
+(a) 20 m West/ पकिम (b) 10 m West/ पकिम
+(c) 10 m East/ पूवव 
+(d) 10 m North/ उत्तर
+3.
+Roy walked 2 km. to East, then turns North-west
+and walks 3 Km. Then he turned South and
+walked 5 Km. Then again he turns west and
+walked 2 Km. Finally he turned North and
+walked 6 Km. In which direction is he from the
+starting point?
+रॉय 2 ककमी चला। पूवव की ओर, कफर उत्तर-पकिम की
+ओर मुड़ता है और 3 ककमी चलता है। कफर वह दकिण की
+ओर मुड़ा और 5 ककमी चला। कफर वह कफर से पकिम की
+ओर मुड़ता है और 2 ककमी चलता है। अंततः वह उत्तर
+की ओर मुड़ा और 6 ककमी चला। प्रारंकिक क ंदु से वह
+ककस कदशा में है?
+(a) South-West / दकिण पकिम 
+(b) South-East / दकिण पूवव 
+(c) North-West / उत्तर-पकिम 
+(d) North-East / उत्तर-पूवव 
+4.
+Vimal faces towards north and turning to his
+right, he walked 25 meters. He then turns to his
+left and walks 30 meter. Next, he moves 25
+meters after turning to his right. He then turns
+to his right again and walks 55 meters. Finally
+he turns to the right and moves 40 meters. In
+which direction is he now from his starting
+point?
+कवमल का मुख उत्तर की ओर है और वह अपनी दाकहनी
+ओर मुड़कर 25 मीटर चलता है। कफर वह  ाईं ओर
+मुड़ता है और 30 मीटर चलता है। इसके  ाद, वह अपने
+दाकहनी ओर मुड़कर 25 मीटर चलता है। कफर वह दो ारा
+अपनी दाईं ओर मुड़ता है और 55 मीटर चलता है। अंततः
+वह दाईं ओर मुड़ता है और 40 मीटर चलता है। अब वह
+अपने प्रारंकिक क ंदु से ककस कदशा में है?
+(a) South-West / दकिण पकिम
+(b) South / दकिण
+(c) North-West / उत्तर-पकिम
+(d) South-East / दकिण पूवव
+5.
+Q walked 20 meters towards west and took a
+left turn and walked 20 meters. He then took a
+left turn and walked 20 meters and again took a
+right turn and walked 20 meters. How far is Q
+now from the starting point?
+Q पकिम की ओर 20 मीटर चला और  ायीं ओर मुड़कर
+20 मीटर चला। कफर वह  ायीं ओर मुड़ा और 20 मीटर
+चला और कफर दायीं ओर मुड़ा और 20 मीटर चला। Q
+अब प्रारंकिक क ंदु से ककतनी दूर है?
+(a) 40 m
+(b) 50 m 
+(c) 80 m
+(d) Data inadequate 
+डेटा अपयावप्त 
+6.
+Seema says to Suresh that she is going to the
+ 
+ 
+North direction to hide, but she went 2 Km. east 
+from there and then 3 Km. towards south and 
+again 2 Km. towards west and then again same 
+distance towards the starting place. Now, in 
+which direction is Seema from her hiding place? 
+ 
+सीमा ने सुरेश से कहा कक वह किपने के कलए उत्तर कदशा 
+में जा रही है, लेककन वह वहां से 2 ककमी पूवव की ओर 
+चली गई और कफर 3 ककमी दकिण की ओर और कफर 2 
+ककमी पकिम की ओर और कफर प्रारंकिक स्थान की ओर 
+कफर से उतनी ही दूरी पर चली गई। अब, सीमा अपने 
+किपने के स्थान से ककस कदशा में है? 
+ 
+(a) North / उत्तर 
+(b) South / दकिण 
+ 
+(c) West / पकिम 
+(d) East / पूवव 
+ 
+7. 
+A man is facing west. He turns 45° in the clock-
+wise direction and then another 180° in the 
+same direction and then 270° in the anticlock-
+wise direction. Which direction is he facing 
+now? 
+ 
+एक आदमी का मुख पकिम की ओर है. वह दकिणावतव 
+कदशा में 45° घूमता है और कफर उसी कदशा में 180° और 
+कफर वामावतव कदशा में 270° मुड़ता है। अब उसका मुख 
+ककस कदशा की ओर है? 
+ 
+(a) South / दकिण 
+ 
+(b) North-West / उत्तर-पकिम 
+ 
+(c) West / पकिम 
+ 
+(d) South-West / दकिण पकिम 
+ 
+8. 
+A man is looking for his friend. He went 90m in 
+the east before turning to his right. He went 
+20m before turning to his right again and goes 
+further to look for his friend at his uncle's place 
+30m from this point. His friend was not there, 
+from there he went 100 m to north before 
+meeting his friend in a street. How far did the 
+man meet his friend from the starting point? 
+ 
+एक आदमी अपने दोस्त की तलाश कर रहा है. दाकहनी 
+ओर मुड़ने से पहले वह पूवव में 90 मीटर चला। वह कफर 
+से दाईं ओर मुड़ने से पहले 20 मीटर चला और इस क ंदु 
+से 30 मीटर दूर अपने चाचा के घर पर अपने दोस्त की 
+तलाश करने के कलए आगे  ढा। उसका दोस्त वहां नहीं 
+था, वहां से वह 100 मीटर उत्तर की ओर गया और एक 
+गली में अपने दोस्त से कमला। वह व्यक्ति आरंकिक क ंदु 
+से ककतनी दूरी पर अपने कमत्र से कमला? 
+ 
+(a) 80 m 
+(b) 100 m 
+ 
+(c) 140 m 
+(d) 260 m 
+ 
+9. 
+A rat runs 20' towards East and turns to right, 
+runs 10' and turns to right, runs 9' and again 
+turns to left, runs 5' and then turns to left, runs 
+12' and finally turns to left and runs 6' Now, 
+which direction is the rat facing? 
+ 
+एक चूहा पूवव की ओर 20' दौड़ता है और दाईं ओर मुड़ता 
+है, 10' दौड़ता है और दाईं ओर मुड़ता है, 9' दौड़ता है 
+और कफर  ाईं ओर मुड़ता है, 5' दौड़ता है और कफर  ाईं 
+ओर मुड़ता है, 12' दौड़ता है और अंत में  ाईं ओर मुड़ता 
+है और 6' दौड़ता है अब, चूहा ककस कदशा का सामना कर 
+रहा है? 
+ 
+(a) East / पूवव 
+(b) West / पकिम 
+ 
+(c) North / उत्तर 
+(d) South / दकिण 
+ 
+10. Guriya moved a distance of 75 meters towards 
+the north. She then turned to the left and walk-
+ing for about 25 meters, turned left again and 
+walked 80 meters. Finally, she turned to the 
+right at an angle of 45°. In which direction was 
+she facing now? 
+ 
+गुररया उत्तर की ओर 75 मीटर की दूरी तय की। वह कफर 
+ ाईं ओर मुड़ी और लगभगग 25 मीटर तक चली, कफर से 
+ ाईं ओर मुड़ी और 80 मीटर तक चली। अंत में, वह 45° 
+के कोण पर दाईं ओर मुड़ गई। अब उसका मुख ककस 
+कदशा में था? 
+ 
+(a) North-East / उत्तर-पूवव 
+ 
+(b) North-West / उत्तर-पकिम 
+ 
+(c) South / दकिण 
+ 
+(d) South-West / दकिण पकिम 
+ 
+11. A man started to walk East. After moving a dist-
+ance he turned to his right. He turns right and 
+moving a little distance again turned in the end 
+to his left. In which direction was he going now? 
+ 
+एक आदमी पूवव की ओर चलना शुरू कर कदया। कुि 
+ 
+ 
+दूरी चलने के  ाद वह अपनी दाकहनी ओर मुड़ गया। वह 
+दायीं ओर मुड़ता है और कुि दूर जाकर अंत में कफर 
+ ायीं ओर मुड़ जाता है। अब वह ककस कदशा में जा रहा 
+था? 
+ 
+(a) North / उत्तर 
+(b) South / दकिण 
+ 
+(c) East / पूवव 
+(d) West / पकिम 
+ 
+12. If A is 50 meters North-West of B and C is 50 
+meters North-East of B and D is 50 meters 
+South of B then who is in the East direction of 
+A? 
+ 
+यकद A, B के 50 मीटर उत्तर-पकिम में है और C, B के 50 
+मीटर उत्तर-पूवव में है और D, B के 50 मीटर दकिण में है 
+तो A के पूवव कदशा में कौन है? 
+ 
+(a) A 
+(b) B 
+ 
+(c) C 
+(d) D 
+ 
+13. K is P's neighbor and he stays 400 meters away 
+toward east. N is K's neighbor and resides 400 
+meters away towards North. S is N's neighbor 
+and he stays 400 m to west. If distance between 
+S and P is also 400 meters, Then who stays in 
+the South-East direction of S? 
+ 
+K, P का पड़ोसी है और वह पूवव की ओर 400 मीटर दूर 
+रहता है। N, K का पड़ोसी है और उत्तर की ओर 400 
+मीटर दूर रहता है। S, N का पड़ोसी है और वह 400 
+मीटर पकिम में रहता है। यकद S और P के  ीच की दूरी 
+िी 400 मीटर है, तो S के दकिण-पूवव कदशा में कौन रहता 
+है? 
+ 
+(a) S 
+(b) P 
+ 
+(c) N 
+(d) K 
+ 
+14. After sunrise Sudhir faces the Sun and walks for 
+one Kilometer. Then he turns right and walks for 
+two kms. Then he turns right again and walks 
+for one Km. In which direction is Sudhir from his 
+starting point? 
+ 
+सूयोदय के  ाद सुधीर सूयव की ओर मुख करके एक 
+ककलोमीटर चलता है। कफर वह दाएं मुड़ता है और दो 
+ककलोमीटर चलता है। कफर वह पुनः दाएं मुड़ता है और 
+एक ककमी चलता है। सुधीर अपने प्रारंकिक क ंदु से ककस 
+ 
+कदशा में है? 
+ 
+(a) South / दकिण 
+(b) North / उत्तर 
+ 
+(c) East / पूवव 
+(d) West / पकिम 
+ 
+15. If A stands on his head with his face towards 
+north, in which direction will his left hand point? 
+ 
+यकद A उत्तर कदशा की ओर मुख करके कसर के बल खड़ा 
+हो तो उसका  ायां हाथ ककस कदशा की ओर होगा? 
+ 
+(a) North-East / उत्तर-पूवव 
+ 
+(b) North / उत्तर 
+ 
+(c) East / पूवव 
+ 
+(d) West / पकिम 
+ 
+16. Rahul put his Time piece on the table in such a 
+way that at 6 P.M. hour hand points to North 
+direction. In which direction will minute hand 
+point at 9:15 P.M.? 
+ 
+राहल ने अपना टाइम पीस टे ल पर इस तरह रखा कक 
+शाम 6  जे. घंटे की सुई उत्तर कदशा की ओर इशारा 
+करती है। राकत्र 9:15  जे कमनट की सुई ककस कदशा में 
+होगी? 
+ 
+(a) South-East / दकिण - पूवव 
+ 
+(b) South / दकिण 
+ 
+(c) North / उत्तर 
+ 
+(d) West / पकिम 
+ 
+17. Sunil walks toward east from point A. He turns 
+toward right at point B and covered same dista-
+nce which he traveled in east direction. Now he 
+turned left and covered same distance. Finally 
+he turns left and covered same and stopped at 
+point C. How many times is the distance bet-
+ween A and C to that of between A and B? 
+ 
+सुनील क ंदु A से पूवव की ओर चलता है। वह क ंदु B पर 
+दाईं ओर मुड़ता है और वही दूरी तय करता है जो उसने 
+पूवव कदशा में तय की थी। अब वह  ायीं ओर मुड़ा और 
+समान दूरी तय की। अंत में वह  ायीं ओर मुड़ता है और 
+वही दूरी तय करके क ंदु C पर रुक जाता है। A और C के 
+ ीच की दूरी A और B के  ीच की दूरी से ककतनी गुना है? 
+ 
+(a) Can’t be determined / तय नहीं ककया जा सकता 
+ 
+(b) Two / दो 
+ 
+ 
+(c) Three / तीन 
+ 
+(d) None of these / इनमें से कोई नहीं 
+ 
+18. Nidhi travelled 5 km. towards North and turned 
+right and walked 10 km. and turned left and 
+walked 5 km. Finally she turned left and walked 
+10 km. Now in which direction she is moving? 
+ 
+कनकध उत्तर की ओर 5 ककमी चली और दाएं मुड़कर 10 
+ककमी चली और  ाएं मुड़कर 5 ककमी चली। अंततः वह 
+ ायीं ओर मुड़ी और 10 ककमी चली। अब वह ककस कदशा 
+में  ढ रही है? 
+ 
+(a) East / पूवव 
+(b) South / दकिण 
+ 
+(c) North / उत्तर 
+(d) West / पकिम 
+ 
+19. In a clock at 12:30 P.M. hours hand of a watch is 
+in eastward direction and minute hand of a 
+watch is in west. In which direction hours hand 
+of watch will be at 2:45 P.M.? 
+ 
+एक घड़ी में दोपहर 12:30  जे एक घड़ी की घंटे वाली 
+सुई पूवव कदशा में है और एक घड़ी की कमनट वाली सुई 
+पकिम कदशा में है। दोपहर 2:45  जे घड़ी की सुई ककस 
+कदशा में होगी? 
+ 
+(a) South-East / दकिण - पूवव 
+ 
+(b) South / दकिण 
+ 
+(c) South-West / दकिण - पकिम 
+ 
+(d) North / उत्तर 
+ 
+20. A clock shows 4:30. P.M. If minute hand toward 
+east than in which direction will be hours hand? 
+ 
+एक घड़ी शाम के 4:30  जे कदखाती है। यकद कमनट की 
+सुई पूवव की ओर हो तो घंटे की सुई ककस कदशा में होगी? 
+ 
+(a) North-East / उत्तर-पूवव 
+ 
+(b) South-East / दकिण पूवव 
+ 
+(c) North-West / उत्तर-पकिम 
+ 
+(d) North / उत्तर 
+ 
+21. Starting from the point X, Jayant walked 15m 
+towards west. He turned left and walked 20m. 
+He then turned left and walked 15m. After this 
+he turned to his right and walked 12m. How far 
+ 
+and in which direction is now Jayant from X? 
+ 
+क ंदु X से शुरू करके, जयंत 15 मीटर पकिम की ओर 
+चला। वह  ायीं ओर मुड़ा और 20 मीटर चला। कफर वह 
+ ायीं ओर मुड़ा और 15 मीटर चला। इसके  ाद वह 
+अपनी दाईं ओर मुड़ा और 12 मीटर चला। अब जयन्त X 
+से ककतनी दूर और ककस कदशा में है? 
+ 
+(a) 32 m, South / दकिण 
+ 
+(b) 47 m, East / पूवव 
+ 
+(c) 42 m, North / उत्तर 
+ 
+(d) 27 m, South / दकिण 
+ 
+22. Lakshman went 15 km to the West of his house, 
+then turned left and walked 20 km. He then 
+turned east and walked 25 km and finally turn-
+ing left covered 20 km. How far was he from his 
+house? 
+ 
+लक्ष्मण अपने घर के पकिम में 15 ककमी चला, कफर  ायीं 
+ओर मुड़ गया और 20 ककमी चला। कफर वह पूवव की ओर 
+मुड़ा और 25 ककमी चला और अंत में  ायीं ओर मुड़कर 
+20 ककमी चला। वह अपने घर से ककतनी दूर था? 
+ 
+(a) 5 km 
+(b) 10 km 
+ 
+(c) 40 km 
+(d) 80 km 
+ 
+23. K is 40 m South-West of L.M is 40m South-East 
+of L. Then, M is in which direction of K? 
+ 
+K, L से 40 मीटर दकिण-पकिम में है। M, L से 40 मीटर 
+दकिण-पूवव में है। तो, M, K की ककस कदशा में है? 
+ 
+(a) North-East / उत्तर-पूवव 
+ 
+(b) East / पूवव 
+ 
+(c) West / पकिम 
+ 
+(d) South / दकिण 
+ 
+24. A person walks 4 km towards west, then turns 
+to his right to travel 9 km. He turns towards east 
+and travels 12 km. Finally, he travels 3 km 
+towards south. How far is he from the initial 
+position (in km)? 
+ 
+एक व्यक्ति पकिम की ओर 4 ककमी चलता है, कफर 9 
+ककमी यात्रा करने के कलए अपने दायें मुड़ता है। वह पूवव 
+की ओर मुड़ता है और 12 ककमी चलता है। अंत में, वह 
+दकिण की ओर 3 ककमी चलता है। वह प्रारंकिक क्तस्थकत से 
+ 
+ककतनी दूर है (ककमी में)? 
+ 
+ 
+(a) 15 
+(b) 23 
+ 
+(c) 18 
+(d) 10 
+ 
+25. Rohan walks a distance of 3km towards North, 
+then turns to his left and walks for 2 km. He 
+again turns left and walks for 3km. At this point 
+he turns to his left and walks for 3 km. How far 
+is he from the starting point? 
+ 
+रोहन उत्तर की ओर 3 ककमी चलता है, कफर  ाईं ओर 
+मुड़ता है और 2 ककमी चलता है। वह कफर  ायीं ओर 
+मुड़ता है और 3 ककमी चलता है। इस क ंदु पर वह अपनी 
+ ायीं ओर मुड़ता है और 3 ककमी तक चलता है। वह 
+आरंकिक क ंदु से ककतनी दूर है? 
+ 
+(a) 1 km 
+(b) 2 km 
+ 
+(c) 3 km 
+(d) 5 km 
+ 
+26. One evening before sunset two friends Sumit 
+and Mohit were talking to each other face to 
+face. If Mohit's shadow was exactly to his right 
+side, which direction was Sumit facing? 
+ 
+एक शाम सूयावस्त से पहले दो दोस्त सुकमत और मोकहत 
+एक-दूसरे से आमने-सामने  ात कर रहे थे। यकद मोकहत 
+की िाया ठीक उसके दाकहनी ओर थी, तो सुकमत का मुख 
+ककस कदशा में था? 
+ 
+(a) North / उत्तर 
+(b) South / दकिण 
+ 
+(c) West / पकिम 
+(d) Data inadequate 
+ 
+ 
+ 
+ 
+डेटा अपयावप्त 
+ 
+27. Mani and Vinay are two brothers who are facing 
+each other. Shadow of Mani falls on the left side 
+of Vinay, so in which direction Mani is facing? 
+ 
+मकण और कवनय दो िाई हैं जो एक-दूसरे के आमने-
+सामने हैं। मकण की िाया कवनय के  ाईं ओर पड़ती है, तो 
+मकण ककस कदशा के सम्मुख है? 
+ 
+(a) North / उत्तर 
+ 
+(b) North-West / उत्तर-पकिम 
+ 
+(c) South / दकिण 
+ 
+(d) Can’t be determined / तय नहीं ककया जा सकता 
+ 
+28. One morning Akash starts walking toward the 
+ Sun. After walking some distance he took a left 
+turn then a right turn and again a left turn and 
+stopped. In which direction Akash is facing? 
+ 
+एक सु ह आकाश सूयव की ओर चलना शुरू करता है। 
+कुि दूर चलने के  ाद वह  ाएँ मुड़ा, कफर दाएँ मुड़ा और 
+कफर  ाएँ मुड़ा और रुक गया। आकाश का मुख ककस 
+कदशा में है? 
+ 
+(a) North / उत्तर 
+(b) South / दकिण 
+ 
+(c) East / पूवव 
+(d) West / पकिम 
+ 
+29. A clock is placed in such a way that when it is 
+12' O clock, the hands point towards North-east 
+direction. In which direction will the hour hand 
+point at 6 PM? 
+ 
+एक घड़ी इस प्रकार लगाई गई है कक जब 12  जे हों तो 
+सूइयां उत्तर-पूवव कदशा की ओर हों। शाम 6  जे घंटे की 
+सुई ककस कदशा में होगी? 
+ 
+(a) West / पकिम 
+(b) East / पूवव 
+ 
+(c) South / दकिण 
+(d) South-West / दकिण- 
+ 
+ 
+ 
+ 
+पकिम 
+ 
+30. A clock is placed at 12 noon. Its hour hand 
+points towards north-east. In which direction 
+does its hour hand point at 1.30 pm? 
+ 
+दोपहर 12  जे एक घड़ी लगाई गई है। इसकी घंटे की 
+सुई उत्तर-पूवव की ओर इंकगत करती है। दोपहर 1:30  जे 
+इसकी घंटे की सुई ककस कदशा में इंकगत करती है? 
+ 
+(a) North / उत्तर 
+(b) East / पूवव 
+ 
+(c) South / दकिण 
+(d) West / पकिम 
+ 
+31. Nakul starts walking from his office towards his 
+house. He starts from the front gate of his office 
+and walks 5 m, then turns left and walks 2m, 
+then turns left again and walks 4m, then he 
+turns to his right and walks 3m, then turns left 
+and walks 1m and then turns to his left again 
+and walks 4m, then turns to his right and walks 
+10 m and finally turns right and walks 3 m and 
+thus reaches the front gate of his house. 
+ 
+नकुल अपने ऑकफस से अपने घर की ओर चलने लगता 
+ है। वह अपने कायावलय के सामने वाले गेट से शुरू करता 
+है और 5 मीटर चलता है, कफर  ाएं मुड़ता है और 2 मीटर 
+ 
+चलता है, कफर  ाएं मुड़ता है और 4 मीटर चलता है, कफर 
+वह दाईं ओर मुड़ता है और 3 मीटर चलता है, कफर  ाएं 
+मुड़ता है और 1 मीटर चलता है और कफर  ाईं ओर 
+मुड़ता है और 4 मीटर चलता है, कफर दाईं ओर मुड़ता है 
+और 10 मीटर चलता है और अंत में दाएं मुड़ता है और 3 
+मीटर चलता है और इस तरह अपने घर के सामने वाले 
+गेट पर पहंचता है। 
+ 
+What is the shortest distance between Nakul's 
+house and his office (in m)? 
+ 
+नकुल के घर और उसके कायावलय के  ीच न्यूनतम दूरी 
+(मीटर में) क्या है? 
+ 
+(a) 5 
+(b) √5 
+ 
+(c) 5√5 
+(d) None of these 
+ 
+ 
+ 
+ 
+इनमें से कोई नहीं 
+ 
+32. Eight persons M to T are standing in such a way 
+that O is 20 m apart from N towards West, N is 
+30 m South with respect to M. M is 40 m 
+towards West with respect to Q. P is 50 m 
+towards South with respect to Q. R is 15 m 
+apart from S towards North. T is 20 m towards 
+East with respect to S. R is 40 m towards West 
+with respect to P. 
+ 
+आठ व्यक्ति M से T इस प्रकार खड़े हैं कक O, N से 
+पकिम की ओर 20 मीटर की दूरी पर है, N, M के सं ंध 
+में 30 मीटर दकिण की ओर है। M, Q के सं ंध में पकिम 
+की ओर 40 मीटर की दूरी पर है। P, Q के सं ंध में दकिण 
+की ओर 50 मीटर दूर है। R, उत्तर की ओर S से 15 
+मीटर दूर है। T, S के सं ंध में 20 मीटर पूवव की ओर है। 
+R, P के सं ंध में 40 मीटर पकिम की ओर है। 
+ 
+In which direction is Q standing with respect to 
+R? 
+ 
+R के सन्दिव में Q ककस कदशा में खड़ा है? 
+ 
+(a) North-West / उत्तर-पकिम 
+ 
+(b) North / उत्तर 
+ 
+(c) North-East / उत्तर-पूवव 
+ 
+(d) Can’t be determined / तय नहीं ककया जा सकता 
+ 
+33. Eight persons M to T are standing in such a way 
+that O is 20 m apart from N towards West, N is 
+30 m South with respect to M. M is 40 m 
+towards West with respect to Q. P is 50 m 
+towards South with respect to Q. R is 15 m 
+apart from S towards North. T is 20 m towards 
+East with respect to S. R is 40 m towards West 
+with respect to P. 
+ 
+आठ व्यक्ति M से T इस प्रकार खड़े हैं कक O, N से 
+पकिम की ओर 20 मीटर की दूरी पर है, N, M के सं ंध 
+में 30 मीटर दकिण की ओर है। M, Q के सं ंध में पकिम 
+की ओर 40 मीटर की दूरी पर है। P, Q के सं ंध में दकिण 
+की ओर 50 मीटर दूर है। R, उत्तर की ओर S से 15 
+मीटर दूर है। T, S के सं ंध में 20 मीटर पूवव की ओर है। 
+R, P के सं ंध में 40 मीटर पकिम की ओर है। 
+ 
+If one more person U is standing towards 
+South-West with respect to P, then in which 
+direction is T, standing with respect to U? 
+ 
+यकद एक अन्य व्यक्ति U, P के सं ंध में दकिण-पकिम की 
+ओर खड़ा है, तो U के सं ंध में T ककस कदशा में खड़ा है? 
+ 
+(a) South-West / दकिण पकिम 
+ 
+(b) North-East / उत्तर-पूवव 
+ 
+(c) North-West / उत्तर-पकिम 
+ 
+(d) Cannot be determined / तय नहीं ककया जा 
+सकता 
+ 
+34. Eight persons M to T are standing in such a way 
+that O is 20 m apart from N towards West, N is 
+30 m South with respect to M. M is 40 m 
+towards West with respect to Q. P is 50 m 
+towards South with respect to Q. R is 15 m 
+apart from S towards North. T is 20 m towards 
+East with respect to S. R is 40 m towards West 
+with respect to P. 
+ 
+आठ व्यक्ति M से T इस प्रकार खड़े हैं कक O, N से 
+पकिम की ओर 20 मीटर की दूरी पर है, N, M के सं ंध 
+में 30 मीटर दकिण की ओर है। M, Q के सं ंध में पकिम 
+की ओर 40 मीटर की दूरी पर है। P, Q के सं ंध में दकिण 
+की ओर 50 मीटर दूर है। R, उत्तर की ओर S से 15 
+मीटर दूर है। T, S के सं ंध में 20 मीटर पूवव की ओर है। 
+R, P के सं ंध में 40 मीटर पकिम की ओर है। 
+ 
+What is the direction of O with respect to S? 
+ 
+S के सन्दिव में O की कदशा क्या है? 
+ 
+(a) North-West / उत्तर-पकिम 
+ 
+ 
+(b) North / उत्तर 
+ 
+(c) West / पकिम 
+ 
+(d) Can’t be determined / तय नहीं ककया जा सकता 
+ 
+35. Eight persons M to T are standing in such a way 
+that O is 20 m apart from N towards West, N is 
+30 m South with respect to M. M is 40 m 
+towards West with respect to Q. P is 50 m 
+towards South with respect to Q. R is 15 m 
+apart from S towards North. T is 20 m towards 
+East with respect to S. R is 40 m towards West 
+with respect to P. 
+ 
+आठ व्यक्ति M से T इस प्रकार खड़े हैं कक O, N से 
+पकिम की ओर 20 मीटर की दूरी पर है, N, M के सं ंध 
+में 30 मीटर दकिण की ओर है। M, Q के सं ंध में पकिम 
+की ओर 40 मीटर की दूरी पर है। P, Q के सं ंध में दकिण 
+की ओर 50 मीटर दूर है। R, उत्तर की ओर S से 15 
+मीटर दूर है। T, S के सं ंध में 20 मीटर पूवव की ओर है। 
+R, P के सं ंध में 40 मीटर पकिम की ओर है। 
+ 
+What is the shortest between T and R (in m)? 
+ 
+T और R (मीटर में) के  ीच स से िोटा क्या है? 
+ 
+(a) 5 
+(b) 5√21 
+ 
+(c) √221 
+(d) None of these 
+ 
+ 
+ 
+ 
+इनमें से कोई नहीं 
+ 
+36. There is AB axis in such a way that A is in north 
+and B is in south direction.There is XY axis in 
+such a way that X is in west direction and Y is in 
+east direction. AB axis and XY axis intersect at a 
+point Q in such a way that AQ is 14m, QB is 
+25m, QX is 23m, QY is 18 m. While facing 
+towards south direction at point A, Rajesh takes 
+right turn and walks 15m and then he takes left 
+turn and walks 24m and reached to point C. 
+While facing towards north direction from point 
+C, Rohit takes right turn and walks 33m and 
+reached at point D. 
+ 
+AB अि इस प्रकार है कक A उत्तर में है और B दकिण 
+कदशा में है। XY अि इस प्रकार है कक X पकिम कदशा में है 
+और Y पूवव कदशा में है। AB अि और XY अि एक क ंदु Q 
+पर इस प्रकार प्रकतच्छेद करते हैं कक AQ 14 मीटर है, QB 
+25 मीटर है, QX 23 मीटर है, QY 18 मीटर है। क ंदु A 
+पर दकिण कदशा की ओर मुख करते हए, राजेश दाएं 
+मुड़ता है और 15 मीटर चलता है और कफर वह  ाएं 
+मुड़ता है और 24 मीटर चलता है और क ंदु C पर पहंचता 
+है। क ंदु C से उत्तर कदशा की ओर मुख करते हए, रोकहत 
+दाएँ मुड़ता है और 33 मीटर चलता है और क ंदु D पर 
+पहँचता है। 
+ 
+Point X is in which direction with respect to 
+Rajesh’s final point? 
+ 
+राजेश के अंकतम क ंदु के सं ंध में क ंदु X ककस कदशा में 
+है? 
+ 
+(a) South / दकिण 
+ 
+(b) South-East / दकिण - पूवव 
+ 
+(c) South-West / दकिण पकिम 
+ 
+(d) North-West / उत्तर-पकिम 
+ 
+37. There is AB axis in such a way that A is in north 
+and B is in south direction.There is XY axis in 
+such a way that X is in west direction and Y is in 
+east direction. AB axis and XY axis intersect at a 
+point Q in such a way that AQ is 14m, QB is 
+25m, QX is 23m, QY is 18 m. While facing 
+towards south direction at point A, Rajesh takes 
+right turn and walks 15m and then he takes left 
+turn and walks 24m and reached to point C. 
+While facing towards north direction from point 
+C, Rohit takes right turn and walks 33m and 
+reached at point D. 
+ 
+AB अि इस प्रकार है कक A उत्तर में है और B दकिण 
+कदशा में है। XY अि इस प्रकार है कक X पकिम कदशा में है 
+और Y पूवव कदशा में है। AB अि और XY अि एक क ंदु Q 
+पर इस प्रकार प्रकतच्छेद करते हैं कक AQ 14 मीटर है, QB 
+25 मीटर है, QX 23 मीटर है, QY 18 मीटर है। क ंदु A 
+पर दकिण कदशा की ओर मुख करते हए, राजेश दाएं 
+मुड़ता है और 15 मीटर चलता है और कफर वह  ाएं 
+मुड़ता है और 24 मीटर चलता है और क ंदु C पर पहंचता 
+है। क ंदु C से उत्तर कदशा की ओर मुख करते हए, रोकहत 
+दाएँ मुड़ता है और 33 मीटर चलता है और क ंदु D पर 
+पहँचता है। 
+ 
+Point D is in which direction with respect to 
+Rohit’s starting position? 
+ 
+ 
+रोकहत की प्रारंकिक क्तस्थकत के सं ंध में क ंदु D ककस कदशा 
+में है? 
+ 
+(a) North / उत्तर 
+ 
+(b) East / पूवव 
+ 
+(c) North-East / उत्तर-पूवव 
+ 
+(d) North-West / उत्तर-पकिम 
+ 
+38. There is AB axis in such a way that A is in north 
+and B is in south direction.There is XY axis in 
+such a way that X is in west direction and Y is in 
+east direction. AB axis and XY axis intersect at a 
+point Q in such a way that AQ is 14m, QB is 
+25m, QX is 23m, QY is 18 m. While facing 
+towards south direction at point A, Rajesh takes 
+right turn and walks 15m and then he takes left 
+turn and walks 24m and reached to point C. 
+While facing towards north direction from point 
+C, Rohit takes right turn and walks 33m and 
+reached at point D. 
+ 
+AB अि इस प्रकार है कक A उत्तर में है और B दकिण 
+कदशा में है। XY अि इस प्रकार है कक X पकिम कदशा में है 
+और Y पूवव कदशा में है। AB अि और XY अि एक क ंदु Q 
+पर इस प्रकार प्रकतच्छेद करते हैं कक AQ 14 मीटर है, QB 
+25 मीटर है, QX 23 मीटर है, QY 18 मीटर है। क ंदु A 
+पर दकिण कदशा की ओर मुख करते हए, राजेश दाएं 
+मुड़ता है और 15 मीटर चलता है और कफर वह  ाएं 
+मुड़ता है और 24 मीटर चलता है और क ंदु C पर पहंचता 
+है। क ंदु C से उत्तर कदशा की ओर मुख करते हए, रोकहत 
+दाएँ मुड़ता है और 33 मीटर चलता है और क ंदु D पर 
+पहँचता है। 
+ 
+What is the distance between point D and point 
+Y? 
+ 
+क ंदु D और क ंदु Y के  ीच की दूरी क्या है? 
+ 
+(a) 24 m 
+(b) 23 m 
+ 
+(c) 18 m 
+(d) 10 m 
+ 
+39. Eight persons B, D, F, H, J, L, N and P are stand- 
+ 
+ing in a row facing north and all are standing at 
+a distance of 1 km, 2 km, 3km and so on. All the 
+above information is not necessarily in the same 
+order. Two persons are at a same distance of 5 
+km from their immediate neighbours. D is 3km 
+left of F and 6 km away from L. D is standing 
+immediately between J and N at 5km and 2km 
+respectively. P is 4 km left of J. F is second to the 
+left of H. Person on the extreme left is 10km 
+away from J. P starts moving towards the south 
+and after going 3 km it takes right turn and 
+going 2 km and reached point X. 
+ 
+आठ व्यक्ति B, D, F, H, J, L, N और P उत्तर की ओर 
+मुख करके एक पंक्ति में खड़े हैं और सिी 1 ककमी, 2 
+ककमी, 3 ककमी और इसी तरह की दूरी पर खड़े हैं। 
+उपरोि सिी जानकारी आवश्यक नहीं कक इसी क्रम में 
+हों। दो व्यक्ति अपने कनकटतम पड़ोकसयों से 5 ककमी की 
+समान दूरी पर हैं। D, F के  ाईं ओर 3 ककमी और L से 6 
+ककमी दूर है। D, J और N के ठीक  ीच में क्रमशः 5 
+ककमी और 2 ककमी की दूरी पर खड़ा है। P, J के  ायीं 
+ओर 4 ककमी दूर है। F, H के  ायीं ओर दूसरे स्थान पर 
+है। स से  ायीं ओर वाला व्यक्ति J से 10 ककमी दूर है। P 
+दकिण की ओर  ढना शुरू करता है और 3 ककमी जाने 
+के  ाद दाएं मुड़ता है और 2 ककमी चलकर क ंदु X पर 
+पहंच जाता है। 
+ 
+Another person K, which moves more than 3km 
+but less than 8km towards the north of point X 
+(also divisible by 3), going Y km towards east 
+and stops at point c. If Y is the shortest distance 
+of B and P’s last position. F moves 3km towards 
+north direction, and then takes a left turn and 
+goes 5km straight and then it turns again to its 
+right direction and moves another 7km and 
+halts at point Z. 
+ 
+एक अन्य व्यक्ति K, जो क ंदु X के उत्तर की ओर 3 ककमी 
+से अकधक लेककन 8 ककमी से कम चलता है (3 से िी 
+कविाज्य), Y ककमी पूवव की ओर जाती है और क ंदु c पर 
+रुकती है। यकद Y, B और P की अंकतम क्तस्थकत से सबसे 
+कम दूरी है। F उत्तर कदशा की ओर 3 ककमी चलता है, 
+और कफर  ाईं ओर मुड़ता है और 5 ककमी सीधी चलता है 
+और कफर यह कफर से अपनी दाईं ओर मुड़ता है और 7 
+ 
+ककमी और चलता है और क ंदु Z पर रुक जाता है। 
+ 
+How many persons are there in between ‘J’ and 
+ 
+‘H’? 
+ 
+'J' और 'H' के  ीच ककतने व्यक्ति हैं? 
+ 
+ 
+(a) Two / दो 
+(b) Five / पाँच 
+ 
+(c) Six / छह 
+(d) Four / चार 
+ 
+40. Eight persons B, D, F, H, J, L, N and P are stand-
+ing in a row facing north and all are standing at 
+a distance of 1 km, 2 km, 3km and so on. All the 
+above information is not necessarily in the same 
+order. Two persons are at a same distance of 5 
+km from their immediate neighbours. D is 3 km 
+left of F and 6 km away from L. D is standing 
+immediately between J and N at 5 km and 2 km 
+respectively. P is 4 km left of J. F is second to the 
+left of H. Person on the extreme left is 10 km 
+away from J. P starts moving towards the south 
+and after going 3 km it takes right turn and 
+going 2 km and reached point X. 
+ 
+आठ व्यक्ति B, D, F, H, J, L, N और P उत्तर की ओर 
+मुख करके एक पंक्ति में खड़े हैं और सिी 1 ककमी, 2 
+ककमी, 3 ककमी और इसी तरह की दूरी पर खड़े हैं। 
+उपरोि सिी जानकारी आवश्यक नहीं कक इसी क्रम में 
+हों। दो व्यक्ति अपने कनकटतम पड़ोकसयों से 5 ककमी की 
+समान दूरी पर हैं। D, F के  ाईं ओर 3 ककमी और L से 6 
+ककमी दूर है। D, J और N के ठीक  ीच में क्रमशः 5 
+ककमी और 2 ककमी की दूरी पर खड़ा है। P, J के  ायीं 
+ओर 4 ककमी दूर है। F, H के  ायीं ओर दूसरे स्थान पर 
+है। स से  ायीं ओर वाला व्यक्ति J से 10 ककमी दूर है। P 
+दकिण की ओर  ढना शुरू करता है और 3 ककमी जाने 
+के  ाद दाएं मुड़ता है और 2 ककमी चलकर क ंदु X पर 
+पहंच जाता है। 
+ 
+Another person K, which moves more than 3km 
+but less than 8 km towards the north of point X 
+(also divisible by 3), going Y km towards east 
+and stops at point c. If Y is the shortest distance 
+of B and P’s last position. F moves 3 km towards 
+north direction, and then takes a left turn and 
+goes 5 km straight and then it turns again to its 
+right direction and moves another 7 km and 
+halts at point Z. 
+ 
+एक अन्य व्यक्ति K, जो क ंदु X के उत्तर की ओर 3 ककमी 
+ 
+से अकधक लेककन 8 ककमी से कम चलता है (3 से िी 
+कविाज्य), Y ककमी पूवव की ओर जाती है और क ंदु C पर 
+रुकती है। यकद Y, B और P की अंकतम क्तस्थकत से स से 
+कम दूरी है। F उत्तर कदशा की ओर 3 ककमी चलता है, 
+और कफर  ाईं ओर मुड़ता है और 5 ककमी सीधी चलता है 
+और कफर यह कफर से अपनी दाईं ओर मुड़ता है और 7
+ ककमी और चलता है और क ंदु Z पर रुक जाता है। 
+ 
+Which person will be met first, if ‘F’ starts mov-
+ing in the West direction? 
+ 
+यकद 'F' पकिम कदशा में चलना शुरू कर दे तो स से पहले 
+ककस व्यक्ति से मुलाकात होगी? 
+ 
+(a) D 
+(b) J 
+ 
+(c) N 
+(d) B 
+ 
+41. M & N (89m) – M is 76m south of N. 
+ 
+M & N (89 मीटर) – M, N से 76 मीटर दकिण में है। 
+ 
+M % N (52m) – M is 39m east of N. 
+ 
+M % N (52 मी) - M, N से 39 मी पूवव में है। 
+ 
+M @ N (110m) – M is 97m north of N. 
+ 
+M @ N (110 मीटर) – M, N के 97 मीटर उत्तर में है। 
+ 
+M # N (58m) – M is 45m west of N. 
+ 
+M # N (58मी) – M, N के 45मी पकिम में है। 
+ 
+X @ P (25m), W # V (18m), R % S (18m), Q % P 
+(22m), T # U (19m), Q & S (20m), W & U (28m), 
+T @ R (25m) 
+ 
+If Z % X (33m) then what is sum of the shortest 
+distance between S and T and the shortest dist-
+ance between Z and U? 
+ 
+यकद Z % X (33m) है तो S और T के  ीच की न्यूनतम 
+दूरी और Z और U के  ीच की न्यूनतम दूरी का योग क्या 
+है? 
+ 
+(a) 20 m 
+(b) 25 m 
+ 
+(c) 29 m 
+(d) 32 m 
+ 
+42. M & N (89m) – M is 76m south of N. 
+ 
+M & N (89 मीटर) – M, N से 76 मीटर दकिण में है। 
+ 
+M % N (52m) – M is 39m east of N. 
+ 
+M % N (52 मी) - M, N से 39 मी पूवव में है। 
+ 
+M @ N (110m) – M is 97m north of N. 
+ 
+M @ N (110 मीटर) – M, N के 97 मीटर उत्तर में है। 
+ 
+M # N (58m) – M is 45m west of N. 
+ 
+M # N (58मी) – M, N के 45मी पकिम में है। 
+ 
+X @ P (25m), W # V (18m), R % S (18m), Q % P 
+ 
+ 
+(22m), T # U (19m), Q & S (20m), W & U (28m), 
+T @ R (25m) 
+ 
+If R # K (19m), which among the following 
+statements is true? 
+ 
+यकद R # K (19m), तो कनम्नकलक्तखत में से कौन सा कथन 
+सत्य है? 
+ 
+(a) X # A (33m), K @ A (4m) 
+ 
+(b) B @ V (16m), K # B (18m) 
+ 
+(c) D & X (18m), K % D (20m) 
+ 
+(d) F % Q (24m), F & K (19m) 
+ 
+43. M & N (89m) – M is 76m south of N. 
+ 
+M & N (89 मीटर) – M, N से 76 मीटर दकिण में है। 
+ 
+M % N (52m) – M is 39m east of N. 
+ 
+M % N (52 मी) - M, N से 39 मी पूवव में है। 
+ 
+M @ N (110m) – M is 97m north of N. 
+ 
+M @ N (110 मीटर) – M, N के 97 मीटर उत्तर में है। 
+ 
+M # N (58m) – M is 45m west of N. 
+ 
+M # N (58मी) – M, N के 45मी पकिम में है। 
+ 
+X @ P (25m), W # V (18m), R % S (18m), Q % P 
+(22m), T # U (19m), Q & S (20m), W & U (28m), 
+T @ R (25m) 
+ 
+If P # Q (25m), S & T (19m), Q @ R (31m) and S 
+% R (17m) then what is the shortest distance 
+between P and T? 
+ 
+यकद P # Q (25 मी), S & T (19 मी), Q @ R (31 मी) 
+और S % R (17 मी) तो P और T के  ीच की न्यूनतम 
+दूरी क्या है? 
+ 
+(a) 24 m 
+(b) 18 m 
+ 
+(c) 20 m 
+(d) 22 m 
+ 
+44. M & N (89m) – M is 76m south of N. 
+ 
+M & N (89 मीटर) – M, N से 76 मीटर दकिण में है। 
+ 
+M % N (52m) – M is 39m east of N. 
+ 
+M % N (52 मी) - M, N से 39 मी पूवव में है। 
+ 
+M @ N (110m) – M is 97m north of N. 
+ 
+M @ N (110 मीटर) – M, N के 97 मीटर उत्तर में है। 
+ 
+M # N (58m) – M is 45m west of N. 
+ 
+M # N (58मी) – M, N के 45मी पकिम में है। 
+ 
+X @ P (25m), W # V (18m), R % S (18m), Q % P 
+(22m), T # U (19m), Q & S (20m), W & U (28m), 
+ 
+T @ R (25m) 
+ 
+What is the direction of S with respect to P? 
+ 
+P के सन्दिव में S की कदशा क्या है? 
+ 
+(a) North / उत्तर 
+ 
+(b) North-East / उत्तर-पूवव 
+ 
+(c) South-West / दकिण पकिम 
+ 
+(d) North-West / उत्तर-पकिम 
+ 
+45. M & N (89m) – M is 76m south of N. 
+ 
+M & N (89 मीटर) – M, N से 76 मीटर दकिण में है। 
+ 
+M % N (52m) – M is 39m east of N. 
+ 
+M % N (52 मी) - M, N से 39 मी पूवव में है। 
+ 
+M @ N (110m) – M is 97m north of N. 
+ 
+M @ N (110 मीटर) – M, N के 97 मीटर उत्तर में है। 
+ 
+M # N (58m) – M is 45m west of N. 
+ 
+M # N (58मी) – M, N के 45मी पकिम में है। 
+ 
+X @ P (25m), W # V (18m), R % S (18m), Q % P 
+(22m), T # U (19m), Q & S (20m), W & U (28m), 
+T @ R (25m) 
+ 
+What is the total distance between S and T? 
+ 
+S और T के  ीच की कुल दूरी क्या है? 
+ 
+(a) 14 m 
+(b) 18 m 
+ 
+(c) 13 m 
+(d) 22 m 
+ 
+46. Akash and Sikha start cycle race from point A. 
+They both start towards east direction. After 
+cycling for 8m, Akash takes right turn while 
+Sikha takes a left turn. They both cycle for 7m. 
+Sikha takes left and cycles for 9m and takes a 
+right turn. Now she cycles for 5 m. Akash takes 
+right and cycles for 9m and takes a left turn. 
+Now he cycles for 7 m. Both stop at these 
+points. Akash is in which direction from point 
+A? 
+ 
+आकाश और कसखा ने क ंदु A से साइककल दौड़ शुरू की। 
+वे दोनों पूवव कदशा की ओर शुरू करते हैं। 8 मीटर तक 
+साइककल चलाने के  ाद, आकाश दाईं ओर मुड़ता है 
+ज कक कसखा  ाईं ओर मुड़ती है। वे दोनों 7 मी तक 
+साइककल चलाते हैं। कसखा  ाईं ओर मुड़ता है और 9 
+मीटर तक साइककल चलाता है और दाईं ओर मुड़ता है। 
+अब वह 5 मीटर तक साइककल चलाती है। आकाश दाईं 
+ 
+ओर मुड़ता है और 9 मीटर तक साइककल चलाता है और 
+ ाईं ओर मुड़ता है। अब वह 7 मीटर तक साइककल 
+चलाता है। दोनों इन क ंदुओं पर रुकते हैं। आकाश क ंदु 
+A से ककस कदशा में है? 
+ 
+(a) North-West / उत्तर-पकिम 
+ 
+(b) North-East / उत्तर-पूवव 
+ 
+(c) South-West / दकिण-पकिम 
+ 
+(d) South / दकिण 
+ 
+47. Two Person P and Q are separated by a distance 
+of 200 meter in west – east direction respecti-
+vely. Now P and Q start walking in north and 
+south direction respectively and walked for 25 
+meter. Now P and Q took a right turn and 
+walked 40m each. Now P and Q took right turn 
+and after walking 25 meter and both of them 
+stopped. Find the distance between them now. 
+ 
+दो व्यक्ति P और Q क्रमशः पकिम-पूवव कदशा में 200 
+मीटर की दूरी पर अलग हैं। अब P और Q क्रमशः उत्तर 
+और दकिण कदशा में चलना शुरू करते हैं और 25 मीटर 
+तक चलते हैं। अब P और Q दाईं ओर मुड़े और प्रत्येक 
+40 मीटर चले। अब P और Q दाएं मुड़ गए और 25 
+मीटर चलने के  ाद दोनों रुक गए। अब उनके  ीच की 
+दूरी ज्ञात कीकजए। 
+ 
+(a) 121 m 
+(b) 120 m 
+ 
+(c) 122 m 
+(d) 123 m 
+ 
+48. Amit started walking towards West direction 
+from point A. After walking 17 m he reached 
+point B, from there he takes a right turn and 
+walk 11 m to reach point C. From C, he turns 
+left and walks 9 m and reaches point D. Then, 
+he turns left and walks 25 m to reach point E. 
+From point E he turns left and walks 32 m. Now 
+he reached point F and from there he turns left 
+and walks 30 m to reach point G. From point G 
+he turns left and walks 2 m to reach point H. 
+What is the direction of G with respect to A? 
+ 
+अकमत ने क ंदु A से पकिम कदशा की ओर चलना शुरू 
+ 
+ककया। 17 मीटर चलने के  ाद वह क ंदु B पर पहंचा, वहां 
+से वह दाएं मुड़ता है और क ंदु C पर पहंचने के कलए 11 
+मीटर चलता है। C से, वह  ाईं ओर मुड़ता है और 9 
+मीटर चलता है और क ंदु D पर पहंचता है। कफर, वह  ाईं 
+ओर मुड़ता है और क ंदु E पर पहंचने के कलए 25 मीटर 
+चलता है। क ंदु E से वह  ायीं ओर मुड़ता है और 32 
+मीटर चलता है। अब वह क ंदु F पर पहंच गया और वहां 
+से वह  ाईं ओर मुड़ गया और क ंदु G तक पहंचने के 
+कलए 30 मीटर चला। क ंदु G से वह  ाईं ओर मुड़ गया 
+और क ंदु H तक पहंचने के कलए 2 मीटर चला। A के 
+सं ंध में G की कदशा क्या है? 
+ 
+(a) North-East / उत्तर-पूवव 
+ 
+(b) East / पूवव 
+ 
+(c) North-West / उत्तर-पकिम 
+ 
+(d) West / पकिम 
+ 
+49. Amit started walking towards West direction 
+from point A. After walking 17 m he reached 
+point B, from there he takes a right turn and 
+walk 11 m to reach point C. From C, he turns 
+left and walks 9 m and reaches point D. Then, 
+he turns left and walks 25 m to reach point E. 
+From point E he turns left and walks 32 m. Now 
+he reached point F and from there he turns left 
+and walks 30 m to reach point G. From point G 
+he turns left and walks 2 m to reach point H. 
+What is the distance between A and H and A is 
+in which direction with respect to H? 
+ 
+ अकमत ने क ंदु A से पकिम कदशा की ओर चलना शुरू 
+ककया। 17 मीटर चलने के  ाद वह क ंदु B पर पहंचा, वहां 
+से वह दाएं मुड़ता है और क ंदु C पर पहंचने के कलए 11 
+मीटर चलता है। C से, वह  ाईं ओर मुड़ता है और 9 
+मीटर चलता है और क ंदु D पर पहंचता है। कफर, वह  ाईं 
+ओर मुड़ता है और क ंदु E पर पहंचने के कलए 25 मीटर 
+चलता है। क ंदु E से वह  ायीं ओर मुड़ता है और 32 
+मीटर चलता है। अब वह क ंदु F पर पहंच गया और वहां 
+से वह  ाईं ओर मुड़ गया और क ंदु G तक पहंचने के 
+कलए 30 मीटर चला। क ंदु G से वह  ाईं ओर मुड़ गया 
+और क ंदु H तक पहंचने के कलए 2 मीटर चला। A और H 
+के  ीच की दूरी क्या है और H के सन्दिव में A ककस कदशा 
+में है? 
+ 
+(a) √273 m south-east / दकिण - पूवव 
+ 
+(b) √270 m south-east / दकिण - पूवव 
+ 
+ 
+(c) √269 m south-west / दकिण - पकिम 
+ 
+(d) √272 m south-west / दकिण - पकिम 
+ 
+50. A person starts walking from P towards north 
+direction to reach Q, which is 19m north to P. 
+He then takes a right turn and walks 22 m to 
+reach point R. From R, he takes left turn and 
+walks 14m to point S, then again, he takes a left 
+turn and walks 12m to point T. From T, he takes 
+a left turn and walks 18m to reach point U. He 
+then takes a right turn and walks 15m to reach 
+V and finally takes a left turn to reach point W, 
+which is 18 m away from V. In which direction is 
+point Q with respect to point U? 
+ 
+एक व्यक्ति Q तक पहंचने के कलए P से उत्तर कदशा की 
+ओर चलना शुरू करता है, जो कक P से 19 मीटर उत्तर में 
+है। कफर वह दाएं मुड़ता है और क ंदु R तक पहंचने के 
+कलए 22 मीटर चलता है। R से, वह  ाईं ओर मुड़ता है 
+और क ंदु S तक 14 मीटर चलता है, कफर वह  ाईं ओर 
+मुड़ता है और क ंदु T तक 12 मीटर चलता है। T से, वह 
+ ाईं ओर मुड़ता है और क ंदु U तक पहंचने के कलए 18 
+मीटर चलता है। कफर वह दाईं ओर मुड़ता है और V तक 
+पहंचने के कलए 15 मीटर चलता है और अंत में क ंदु W 
+तक पहंचने के कलए  ाईं ओर मुड़ता है, जो V से 18 मीटर 
+दूर है। क ंदु U के सं ंध में क ंदु Q ककस कदशा में है? 
+ 
+(a) North-West / उत्तर-पकिम 
+ 
+(b) South-East / दकिण पूवव 
+ 
+(c) North-East / उत्तर-पूवव 
+ 
+(d) South-West / दकिण पकिम 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. d 
+ 
+ 
+ 
+2. c 
+ 
+ 
+ 
+3. c 
+ 
+ 
+ 
+ 
+4. d 
+ 
+ 
+ 
+5. a 
+ 
+ 
+ 
+6. b 
+ 
+ 
+ 
+7. d 
+1 
+(d) 
+2 
+(c) 
+3 
+(c) 
+4 
+(d) 
+5 
+(a) 
+6 
+(b) 
+7 
+(d) 
+8 
+(b) 
+9 
+(c) 
+10 
+(d) 
+11 
+(b) 
+12 
+(c) 
+13 
+(d) 
+14 
+(a) 
+15 
+(c) 
+16 
+(d) 
+17 
+(b) 
+18 
+(d) 
+19 
+(b) 
+20 
+(a) 
+21 
+(a) 
+22 
+(b) 
+23 
+(b) 
+24 
+(d) 
+25 
+(a) 
+26 
+(b) 
+27 
+(d) 
+28 
+(a) 
+29 
+(d) 
+30 
+(b) 
+31 
+(d) 
+32 
+(c) 
+33 
+(d) 
+34 
+(a) 
+35 
+(d) 
+36 
+(d) 
+37 
+(b) 
+38 
+(d) 
+39 
+(d) 
+40 
+(c) 
+41 
+(a) 
+42 
+(b) 
+43 
+(c) 
+44 
+(b) 
+45 
+(c) 
+46 
+(c) 
+47 
+(b) 
+48 
+(a) 
+49 
+(d) 
+50 
+(a) 
+Answer Key 
+SOLUTION 
+ 
+ 
+ 
+ 
+8. b 
+ 
+ 
+ 
+9. c 
+ 
+ 
+ 
+10. d 
+ 
+ 
+ 
+11. b 
+ 
+ 
+ 
+12. c 
+ 
+ 
+ 
+13. d 
+ 
+ 
+ 
+14. a 
+ 
+ 
+ 
+15. c 
+ 
+ 
+ 
+16. d 
+ 
+ 
+ 
+17. b 
+ 
+ 
+ 
+18. d 
+ 
+ 
+ 
+19. b 
+ 
+ 
+ 
+20. a 
+ 
+ 
+ 
+21. a 
+ 
+ 
+ 
+22. b 
+ 
+ 
+ 
+23. b 
+ 
+ 
+ 
+24. d 
+ 
+ 
+ 
+ 
+ 
+25. a 
+ 
+ 
+ 
+26. b 
+ 
+ 
+ 
+27. d 
+ 
+ 
+ 
+28. a 
+ 
+ 
+ 
+29. d 
+ 
+ 
+ 
+30. b 
+ 
+ 
+ 
+31. d 
+ 
+ 
+ 
+None of these 
+ 
+32. c 
+ 
+ 
+ 
+North-East 
+ 
+33. d 
+ 
+ 
+ 
+Cannot be determined 
+ 
+34. a 
+ 
+ 
+ 
+North-West 
+ 
+35. d 
+ 
+ 
+ 
+None of these 
+ 
+36. d 
+ 
+ 
+ 
+North-West 
+ 
+37. b 
+ 
+ 
+ 
+East 
+ 
+38. d 
+ 
+ 
+ 
+= 10 m 
+ 
+39. d 
+ 
+ 
+ 
+ 
+= Four 
+ 
+40. c 
+ 
+ 
+ 
+= N 
+ 
+41. a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42. b 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43. c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44. b 
+ 
+ 
+45. c
+46. c
+Total distance between Sikha and Akash is 26 m 
+(PQ + QR + RS) = (7 + 14 + 5) 
+South-West 
+47. b
+= 120 m 
+48. a
+North-East 
+49. d
+= √272 m South-West 
+50. a
+= North-West 

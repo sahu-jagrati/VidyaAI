@@ -1,0 +1,618 @@
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+1. 
+Which of the following is NOT a property of a regular polygon? 
+निम्ननऱखित में वे कॊि-वा, एक वम बहुभुज (regular polygon) का गुण िशीं शै? 
+ 
+[A] All sides are of equal length./वभी भुजाएं, वमाि ऱंबाई की शॉती शैं। 
+ 
+[B] Angles at the centre by all sides are equal./वभी भुजाओं द्वारा केंद्र पर बिे कॉण 
+बराबर शॉते शैं। 
+ 
+[C] The angle made by each side at the centre is 90°, if it is a regular polygon 
+with four sides./यदि यश चार भुजाओं लाऱा एक वम बहुभुज शै, तॉ केंद्र पर प्रत्येक भुजा 
+द्वारा निनमित कॉण 90° शॉता शै। 
+ 
+[D] The angle made by each side at the centre is 60°, if it is a regular polygon 
+with eight sides./यदि यश आठ भुजाओं लाऱा एक वम बहुभुज शै, तॉ केंद्र पर प्रत्येक भुजा 
+द्वारा निनमित कॉण 60° शॉता शै। 
+2. 
+Find the number of sides in a regular polygon if its each interior angle is 165°. 
+एक वम बहुभुज में भुजाओं की वंख्या ज्ञात कीनजए यदि इवका प्रत्येक अंतः कॉण 165° शै।  
+(RRB TECHNICIAN GRADE-3 2024) 
+[A] 24 
+[B] 17 
+[C] 25 
+[D] 20 
+3. 
+If one interior angle of a regular polygon is greater than its exterior angle by 
+144°, how many sides does the polygon have? 
+यदि ककवी वम बहुभुज का एक अंतः कॉण उवके बहशष्कॉण वे 144° अधिक शै, तॉ बहुभुज में 
+ककतिी भुजाएँ शोंगी? 
+(RRB NTPC LEVEL 12th 2025)                                     
+[A] 18 
+[B] 21 
+[C] 20 
+[D] 19 
+4. 
+The sum of all interior angles of a regular polygon is 1620°. What is the 
+measure (in degrees) of its each exterior angle? 
+एक वम बहुभुज के वभी अंतः कॉणों का यॉग 1620° शॉता शै। इवके प्रत्येक बहशष्कॉण की माप 
+(हडग्री में) ककतिी शॉगी?          
+(RRB NTPC LEVEL 12th 2025)                    
+[A]   
+ 
+   
+[B]   
+ 
+   
+[C]   
+ 
+   
+[D]   
+ 
+   
+5. 
+The interior angle between two adjacent sides of a regular n- sided polygon is 
+_______ degrees. 
+उव वमबहुभुज की िॉ आवन्न भुजाओं के बीच का अंतः कॉण _______ हडग्री शॉता शै, नजवकी 
+भुजाओं की वंख्या n शै।       
+(RRB NTPC LEVEL 12th 2025) 
+[A] 180– 
+  
+  
+[B] 180– 
+   
+  
+[C] 90– 
+  
+  
+[D] 180– 
+   
+   
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+6. 
+The exterior angle of a regular polygon is one-seventh of its interior angle. 
+How many sides does the polygon have? 
+एक वम बहुभुज का बहशष्कॉण, उवके अंत: कॉण का वातलाँ भाग शॉता शै। बहुभुज में ककतिी भुजाएँ शैं? 
+[A] 12 
+[B] 18 
+[C] 16 
+[D] 24 
+7. 
+The ratio of sum of interior angles to sum of exterior angles of a regular 
+polygon of n sides is 7/2. What is the measure of an interior angle of polygon? 
+n भुजाओं लाऱे एक नियनमत बहुभुज के आंतहरक कॉणों के यॉग और बाह्य कॉणों के यॉग का 
+अिुपात 7/2 शै। बहुभुज के आंतहरक कॉण का माप क्या शै? 
+(UPSC CDS-2 2024) 
+[A] 110  
+[B] 120  
+[C] 130  
+[D] 140  
+8. 
+For a regular polygon, the sum of the interior angles is 400% more than the 
+sum of its exterior angles. Each interior angle of the polygon measures x°. 
+What is the value of x? 
+एक वम बहुभुज के नऱए, अंतः कॉणों का यॉगफऱ उवके बाह्य कॉणों के यॉगफऱ वे 400% अधिक 
+शै। बहुभुज के प्रत्येक अंतः कॉण की माप x° शै। x का माि ज्ञात कीनजए। 
+[A] 145 
+[B] 135 
+[C] 150 
+[D] 140 
+9. 
+For a regular polygon, the sum of the interior angles is 250% more than the 
+sum of its exterior angles. Each interior angle of the polygon measures x°. 
+What is the value of x? 
+एक वम बहुभुज के नऱए, अंतः कॉणों का यॉगफऱ उवके बाह्य कॉणों के यॉगफऱ वे 250% अधिक 
+शै। बहुभुज के प्रत्येक अंतः कॉण की माप x° शै। x का माि ज्ञात कीनजए। 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-I) 
+[A] 140 
+[B] 150 
+[C] 145 
+[D] 120 
+10. 
+The ratio of the numbers of sides of two regular polygon is 5:3 if each interior 
+angle of the first polygon is 156 , then the measure of each interior angle of the 
+second polygon is? 
+िॉ वमबहुभुज की भुजाओं की वंख्या का अिुपात 5:3 शै यदि पशऱे बहुभुज का प्रत्येक अंत:कॉण 
+156° शै, तॉ िूवरे बहुभुज के प्रत्येक अंत: कॉण का माप शै? 
+[A] 136° 
+[B] 150° 
+[C] 140° 
+[D] 135° 
+11. 
+A regular polygon has twice the number of sides as another regular polygon. 
+The perimeter of the smaller polygon is 84.8 cm and each of its interior angles 
+measures140 .The side length of the larger polygon is1.2 times that of the 
+smaller one. What is the measure of each interior angle of the larger polygon? 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+एक वमबहुभुज की भुजाओं की वंख्या िूवरे वमबहुभुज की भुजाओं की वंख्या वे िॉगुिी शै। छॉटे 
+बहुभुज का पहरमाप 84.8 वेमी शै और इवके प्रत्येक आंतहरक कॉण का माप 140° शै। बडे बहुभुज 
+की भुजा की ऱंबाई छॉटे बहुभुज की भुजा की 1.2 गुिा शै। बडे बहुभुज के प्रत्येक आंतहरक कॉण का 
+माप क्या शै? 
+SSC CHSL PRE 2025 
+[A] 155° 
+[B] 158° 
+[C] 160° 
+[D] 162 
+12. 
+If the exterior angle of a regular polygon is 18 , then what will be the number of 
+diagonals in this polygon? 
+यदि एक वम बहुभुज का बहशष्कॉण 18° शै, तॉ इव बहुभुज में कलकणो की वंख्या क्या शॉगी ? 
+[A] 180 
+[B] 170 
+[C] 140 
+[D] 150 
+13. 
+The sum of interior angles of a regular polygon is 1260°. Find the number of 
+diagonals of this regular polygon. 
+एक वम बहुभुज के अंतः कॉणों का यॉगफऱ 1260° शै। इव वम बहुभुज के कलकणों की वंख्या ज्ञात कीनजए। 
+[A] 35 
+[B] 27 
+[C] 44 
+[D] 20 
+14. 
+Find the number of diagonals of a regular polygon whose interior angles sum 
+to 2700°? 
+एक वम बहुभुज के कलकणो की वंख्या ज्ञात कीनजये, नजवके अन्तः कॉणों का यॉग 2700  शै? 
+(SSC CPO 2025) 
+[A] 127 
+[B] 121 
+[C] 119 
+[D] 117 
+15. 
+If the sum of the interior angles of a regular polygon is 2520°, determine the 
+number of sides and the total number of diagonals of the polygon. 
+यदि एक नियनमत बहुभुज के आंतहरक कॉणों का यॉग       शै, तॉ बहुभुज की भुजाओं की वंख्या 
+और कलकणों की कुऱ वंख्या ज्ञात कीनजए। 
+(SSC CPO 2025) 
+[A] 16 sides, 104 diagonals 
+[B] 14 sides, 94 diagonals 
+[C] 18 sides, 104 diagonals 
+[D] 14 sides, 84 diagonals 
+16. 
+In a regular polygon, any interior angle exceeds the exterior angle by 120 
+degrees. Then, the number of diagonals of this polygon is? 
+एक नियनमत बहुभुज में, कॉई भी आंतहरक कॉण बाशरी कॉण वे 120 हडग्री अधिक  शै। तॉ, इव 
+बहुभुज के कलकणों की वंख्या शै?   
+(CAT 2023) 
+[A] 54 
+[B] 55 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+[C] 56 
+[D] 60 
+17. 
+If regular polygon has 65 diagonals, then the number of sides this polygon has is? 
+यदि नियनमत बहुभुज में 65 कलकणण शों, तॉ इव बहुभुज की भुजाओं की वंख्या ककतिी शै? 
+(RRB ALP 2024) 
+[A] 12 
+[B] 14 
+[C] 13 
+[D] 10 
+18. 
+If regular polygon has 35 diagonals, then the sum of its interior angles is? 
+यदि नियनमत बहुभुज में 35 कलकणण शैं, तॉ इवके आंतहरक कॉणों का यॉग ककतिा शै? 
+(RRB ALP 2024) 
+[A] 1620° 
+[B] 1440° 
+[C] 1980° 
+[D] 1800° 
+19. 
+In a polygon, the number of diagonals is 12 more than the number of sides. Find 
+the number of sides in polygon? 
+एक बहुभुज में कलकणों की वंख्या भुजाओं की वंख्या वे 12 अधिक शै। बहुभुज में भुजाओं की वंख्या 
+ज्ञात कीनजए? 
+[A] 8 
+[B] 6 
+[C] 5 
+[D] 10 
+20. If the sum of the interior angles of a regular polygon is equal to four times the sum of 
+its exterior angles, then what is the number of diagonals in the polygon? 
+यदि एक वमबहुभुज के अंतःकॉणों का यॉग उवके बहशष्कॉणों के यॉग के चार गुिा के बराबर शै, तॉ 
+बहुभुज में कलकणों की वंख्या ककतिी शॉगी? 
+(RRB NTPC LEVEL 5th 2025) 
+[A] 35 
+[B] 30 
+[C] 25 
+[D] 40 
+21. 
+If the interior angle of a regular polygon is   times its exterior angle, express 
+the number of sides     of the polygon in terms of  . 
+यदि ककवी नियनमत बहुभुज का आंतहरक कॉण उवके बाह्य कॉण का   गुिा शै,  तॉ बहुभुज की  
+भुजाओं की वंख्या     कॉ   के रूप में व्यक्त करें। 
+(SSC CGL 2025 PRE) 
+[A] 2k+4 
+[B] 2k-4 
+[C] 2k+2 
+[D] 4k-3 
+22. If each interior angle of a regular polygon is (   
+ 
+ )  , then what is the sum of 
+the number of its diagonals and the number of its sides? 
+यदि एक नियनमत बहुभुज का प्रत्येक आंतहरक कॉण (   
+ 
+ )  , शै, तॉ उवके कलकणों की वंख्या और 
+उवके भुजाओ  की वंख्या का यॉग क्या शॉगा ? 
+[A] 15 
+[B] 21  
+[C] 17 
+[D] 19 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+23. If the measure of exterior angle of a regular polygon is   
+ 
+  , then the ratio of its 
+diagonals to the number of its side is? 
+यदि एक वम बहुभुज के बहशऴकॉण का माप   
+ 
+   शै, तॉ इवके कलकणों का, इवके भुजाओ की 
+वंख्या वे अिुपात शै? 
+[A] 11 : 2 
+[B] 14 : 3 
+[C] 7 : 1 
+[D] 10 : 1 
+24. The ratio of the sum of all interior angles and the measure of an exterior angle 
+of a regular polygon is 6 : 0.1. Find the number of sides of the polygon.  
+एक वम बहुभुज के वभी अंतः कॉणों के यॉग और एक बाह्य कॉण के माप का अिुपात 6 : 0.1 शै। 
+बहुभुज की भुजाओं की वंख्या ज्ञात कीनजए।  
+[RRB Group D-2022] 
+[A] 16 
+[B] 12  
+[C] 10 
+[D] 15 
+25. If one of the interior angle of a regular polygon is 15/16 times of one of the 
+interior angles of a regular decagon, then find the number of diagonal of the 
+polygon? 
+यदि एक नियनमत बहुभुज का एक आंतहरक कॉण एक नियनमत िवभुज के एक आंतहरक कॉण का 
+15/16 गुिा शै, तॉ बहुभुज के कलकणों की वंख्या ज्ञात कीनजए? 
+[A] 20 
+[B] 14 
+[C] 2 
+[D] 35 
+26. The interior angle of a regular polygon is 360 more than 5 times of its one 
+exterior angle. Find the number of diagonals in this polygon? 
+ककवी वम बहुभुज का कॉई भी आंतहरक कॉण इवके बहशष्कॉण के 5 गुिे वे 360 अधिक शै, तब 
+बहुभुज के कलकणो की वंख्या ज्ञात करे। 
+[A] 77 
+[B] 119    
+[C] 104 
+[D] 90 
+27.    and    are two regular polygons. The sum of all the interior angles of    is 
+1080°. Each interior angle of    exceeds its exterior angle by 132°. The sum of 
+the number of sides    and    is: 
+A1 और A2 िॉ वम बहुभुज शैं। A1 के वभी आंतहरक कॉणों का यॉग 1080° शै। A2 का प्रत्येक आंतहरक 
+कॉण, इवके बाह्य कॉण वे 132° अधिक शै। A1 और A2 की भुजाओं की वंख्या का यॉग ककतिा शॉगा? 
+[A] 21 
+[B] 22  
+ 
+[C] 23 
+[D] 24 
+28. P1 and P2 are two regular polygons. If the ratio of one of the internal angles to 
+that of an external angle of P1 is 7 : 2 and the number of diagonal of P2 is 65, 
+then find the sum of the number of sides of P1 and P2? 
+P1 और P2 िॉ नियनमत बहुभुज शैं। यदि `P1 के आंतहरक कॉणों में वे एक का बाह्य कॉण वे अिुपात 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+7:2 शै और P2 के कलकणों की वंख्या 65 शै, तॉ P1 और P2 की भुजाओं की वंख्या का यॉग ज्ञात 
+कीनजए? 
+[A] 20 
+[B] 21 
+[C] 22 
+[D] 23 
+29. Number of sides of two regular polygons are in ratio 2:3 & each of their interior 
+angles are in ratio 9:10. The number of sides of there two polygons are? 
+िॉ वमबहुभुज के भुजाओं की वंख्या का अिुपात 2:3 शै और उिके आंतहरक कॉण का अिुपात 9:10 
+शै। तब उिके भुजाओं की वंख्या शॉगी- 
+[A] 8, 12 
+[B] 6, 9    
+[C] 4,  6 
+[D] 10, 15 
+30. There are two regular polygon with number of sides in the ratio 4 : 5, and 
+interior angles are in the ratio 25 : 26, find number of sides in both polygons? 
+िॉ वम बहुभुज के भुजाओं की वंख्या का अिुपात 4 : 5 शै। और उिके आंतहरक कॉण का अिुपात 
+25:26 शै, तब उिके भुजाओं की वंख्या शॉगी- 
+[A] 8 , 10 
+[B] 20, 25     
+[C] 12, 15 
+[D] 16, 20 
+31. 
+8 interior angles of a polygon is 1650 each and remaining interior angles are 
+1680 each find number of diagonals in polygon? 
+एक बहुभुज में 8 आंतहरक कॉण में वे प्रत्येक की माप 1650 शै और ळेऴ  आंतहरक कॉण में वे प्रत्येक 
+की  माप 1680 शै। तब कुऱ कलकणो की वंख्या क्या शॉगी? 
+[A] 350 
+[B] 464         
+[C] 275 
+[D] 405 
+32. If the sum of all interior angles except one of a polygon is 27300, then find 
+number of sides must be? (All interior angle is less than 1800) 
+यदि ककवी बहुभुज के एक आंतहरक कॉण कॉ छॉडकर ळेऴ अन्य का यॉगफऱ 2730° शै, तब बहुभुज 
+के भुजाओं की वंख्या शॉगी-(वभी आंतहरक कॉण 1800 वे कम माि के शै।) 
+[A] 19 
+[B] 17      
+[C] 18 
+[D] 20 
+33. The interior angles of a polygon are in AP, the smallest interior angle is 1000, 
+and common difference is 40, then find the number of sides? 
+बहुभुज के आतंहरक कॉण वमान्तर श्रेणी में शै वबवे छॉटी आतंहरक कॉण 100° शै और  वालाांतर 4° 
+शै तॉ भुजाओं की वंख्या ज्ञात करें ? 
+[A] 5 
+[B] 20     
+[C] 12 
+[D] 8 
+34. A closed polygon has six sides and one of its angles is 30° greater than each of 
+the other five equal angles. What is the value of one of the equal angles? 
+एक बंि बहुभुज में छश भुजाएँ  शैं और इवका एक कॉण अन्य पाँच वमाि कॉणों की तुऱिा में 30° 
+अधिक  शै। वमाि कॉणों में वे एक का माि  क्या शै? 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+[A] 55° 
+[B] 115° 
+[C] 125° 
+[D] 110° 
+35. If a star figure is formed by elongating the sides of a regular pentagon, then 
+the measure of each angle at the angular points of the star figure is  
+एक वम पंचभुज के ळीऴो कॉ िींचकर (भुजाओ कॉ चॊडा करके) एक स्टार बिाया गया शै। इव 
+स्टार के प्रत्येक कॉण की माप क्या शॉगी? 
+[A] 36° 
+[B] 48°      
+[C] 32° 
+[D] 30°  
+36. ABCDE is a regular pentagon. O is a point inside the pentagon such that AOB is 
+an equilateral triangle. What is ∠OEA? 
+ABCDE एक वम पंचभुज शै। O इवके अंिर एक कबिंिु इव प्रकार शै कक एक AOB वमबाहु धिभुज शै। 
+तब ∠OEA का माि क्या शॉगा? 
+[A] 66° 
+[B] 48°      
+[C] 54° 
+[D] 72° 
+37. One angle of pentagon is 140° if the remaining angles are in the ratio 1:2:3:4, the 
+size of the greatest angle is? 
+पंचभुज का एक कॉण 140° शै, यदि ळेऴ कॉण 1:2:3:4 के अिुपात में शैं, तॉ वबवे बडे कॉण का 
+आकार ककतिा शॉगा? 
+[A] 150° 
+[B] 180° 
+ 
+[C] 160° 
+[D] 170° 
+38. The area of a regular polygon with a side of 8 cm is 112 cm2. If the perpendicular 
+distance from the centre to the side of the polygon is 7 cm, then the number of 
+sides of the polygon is: 
+8 cm भुजा लाऱे एक वम बहुभुज का क्षेिफऱ 112 cm2 शै। यदि केंद्र वे बहुभुज की भुजा तक की 
+ऱंबलत िूरी 7 cm शै, तॉ बहुभुज की भुजाओं की वंख्या ज्ञात कीनजए।  
+(RRB ALP GRADUATE LEVEL CBT-2 2025) 
+[A] 7 
+[B] 4 
+[C] 6 
+[D] 5 
+39. Find the apothem of a regular pentagon with side length 10 cm and area        .  
+यदि ककवी नियनमत पंचभुज की भुजा 10 वेमी शै और उवका क्षेिफऱ 172 लगण वेमी शै, तॉ उवका 
+अपॉत (apothem) ज्ञात कीनजए।  
+(DELHI POLICE HEAD CONSTABLE 2025) 
+[A] 6.8 cm 
+[B] 7.5 cm 
+[C] 6.2 cm 
+[D] 7.0 cm 
+40. The area of a regular hexagon is made of how many equilateral triangles? 
+एक नियनमत ऴट्भुज का क्षेिफऱ ककतिे वमबाहु धिभुजों वे बिा शॉता शै?   
+(SSC CGL 2025 PRE) 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+[A] 3 
+[B] 4 
+[C] 5 
+[D] 6 
+41. 
+A regular hexagon has a perimeter of 72 cm. What is its area? 
+एक वमऴट्भुज का पहरमाप 72 वेमी शै। इवका क्षेिफऱ क्या शै?  
+ 
+(SSC CGL 2025 PRE) 
+[A]            
+[B]            
+[C]            
+[D]            
+42. If the area of a regular hexagon is     √     , find the length of each side. 
+यदि एक नियनमत ऴट्भुज का क्षेिफऱ     √  वेंटीमीटर2 शै, तॉ प्रत्येक भुजा की ऱंबाई ज्ञात 
+कीनजए। 
+(DELHI POLICE CONSTABLE Executive 2025) 
+[A]   √      
+[B]         
+[C]  √     
+[D]   √     
+43. A regular hexagonal mirror has a side of 18 cm. If     of the mirror area is 
+covered by the frame, what is the visible glass area? 
+एक वम ऴट्कॉणीय िपण
+ की भुजा 18 वेमी शै। यदि िपण
+ के क्षेिफऱ का     भाग फ्रेम द्वारा ढका 
+हुआ शै, तॉ दृश्यमाि काँच का क्षेिफऱ ककतिा शै?  
+ 
+(SSC CGL 2025 PRE) 
+[A]           
+[B]           
+[C]           
+[C]           
+44. A field whose area is 2400√3 sq. m is in the shape of a regular hexagon. If the 
+cost of fencing the field is Rs. 16.80/m, then find the total cost required to 
+completely fence the field? 
+एक मैिाि नजवका क्षेिफऱ 2400√3 लगण मीटर शै, एक नियनमत ऴट्भुज के आकार का शै। यदि 
+िेत की बाड ऱगािे की ऱागत 16.80/मीटर शै, तॉ िेत की पूरी तरश वे बाड ऱगािे के नऱए 
+आलश्यक कुऱ ऱागत ज्ञात कीनजए? 
+45. A regular hexagon is inscribed inside a circle of radius 14 cm. Find the area of 
+the hexagon. 
+14 वेमी धिज्या लाऱे एक लृत्त के अन्दर एक वमऴट्भुज बिा शै। ऴट्भुज का क्षेिफऱ ज्ञात कीनजए। 
+(SSC CGL 2025 PRE) 
+[A]            
+[B]            
+[C]            
+[D]            
+46. If the area of a regular hexagon is equal to the area of an equilateral triangle of 
+side 12 cm, then the length, in cm, of each side of the hexagon is? 
+यदि एक वम ऴट्भुज का क्षेिफऱ 12 वेमी भुजा लाऱे एक वमबाहु धिभुज के क्षेिफऱ के बराबर शै, 
+तॉ ऴट्भुज की प्रत्येक भुजा की ऱंबाई वेमी में क्या शै? 
+(SSC CGL 2025 PRE) 
+[A] 4√  
+[B] 2√  
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+[C] √  
+[D] 6√  
+47. The area of a regular hexagon is equal to the area of the square. What is the 
+ratio of the perimeter of the regular hexagon to the perimeter of square? 
+ककवी वमऴट्भुज का क्षेिफऱ एक लगण के क्षेिफऱ के बराबर शै। तब वमऴट्भुज और लगण के 
+पहरमाप का अिुपात क्या शॉगा? 
+[A] √ √  : √ √  
+[B] 2√  : √ √  
+[C] √ √  : 2 
+[D] √ √  : 2√  
+48. Two similar hexagons have their perimeters in the ratio    . If the smaller 
+hexagon has an area of       , what is the area of the larger hexagon? 
+िॉ वमरूप ऴट्भुजों का पहरमाप     के अिुपात में शै। अगर छॉटे ऴट्भुज का क्षेिफऱ        शै, तॉ 
+बडे ऴट्भुज का क्षेिफऱ क्या शै?  
+ 
+(SSC CGL 2025 PRE) 
+[A]         
+[B]         
+[C]         
+[D]         
+49. In the given figure, PQRSTU is a regular hexagon of side 12 cm. What is the area 
+(in cm2) of triangle SQU? 
+दिए गए धचि में, PQRSTU वमऴट्भुज शै नजवका भुजा 12 cm शै, तब धिभुज SQU का क्षेिफऱ शॉगा- 
+ 
+[A] 162√  
+[B] 144√     
+[C] 108√  
+[D] 54√  
+ 
+50. ABCDEF is a regular hexagon with side 12cm. P, Q and R are the midpoints of AF, 
+ED and BC respectively, find the area of ∆PQR? 
+ABCDEF एक वमऴट्भुज शै नजवका भुजा 12cm शै। P, Q और R भुजा क्रमळः AF, ED और BC का 
+मध्य कबिंिु शै| तब ∆PQR का क्षेिफऱ क्या शॉगा? 
+ 
+[A] 72√3 cm2 
+[B] 81√3 cm2  
+[C] 54√3 cm2 
+[D] 90√3 cm2  
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+51. 
+Let PQRSTU be a regular hexagon. The ratio of the area of the triangle PRT to 
+that the hexagon PQRSTU is- 
+PQRSTU एक वमबहुभुज शै। तब धिभुज PRT और ऴट्भुज PQRSTU के क्षेिफऱ का अिुपात ज्ञात करे? 
+[A] 0.4 
+[B] 0.5     
+[C] 0.75 
+[D] 0.625 
+52. In the given figure side of regular hexagon is 12 cm. Find the area of     ? 
+िी गई आकृधत में वम ऴट्भुज की भुजा 12 वेमी शै। ∆ECD का क्षेिफऱ ज्ञात कीनजए? 
+ 
+[A] 33√     
+[B] 36√     
+[C] 35√     
+[D] 32√     
+53. In the given figure, ABCDEF is a regular hexagon whose side is 12 cm. What is 
+the shaded area (in cm2)? 
+दिए गए धचि में, एक वमऴट्भुज शै, नजवकी प्रत्येक भुजा की ऱंबाई 12 cm शै। तब छायांककत भाग 
+का क्षेिफऱ शॉगा- 
+ 
+[A] 54√3 
+[B] 36√3       
+[C] 48√3 
+[D] 52√3 
+54. A is the center of given regular hexagon. Find the area of shaded region? 
+A दिए गए नियनमत ऴट्भुज का केंद्र शै। छायांककत क्षेि का क्षेिफऱ ज्ञात कीनजए? 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+[A] 430√     
+[B] 434√     
+[C] 432√     
+[D] 440√     
+55. ABCDEF is a regular hexagon whose area is 180 cm2. Find the area of shaded region? 
+ABCDEF एक वमऴट्भुज शै नजवका क्षेिफऱ 180 cm2 शै । छायांककत भाग का क्षेिफऱ ज्ञात करें ? 
+ 
+[A] 9 cm2 
+[B] 10 cm2         
+[C] 12 cm2 
+[D] 15 cm2 
+56. Find the ratio of shaded area to un-shaded area? 
+दिए गए धचि में, छायांककत और ळेऴ भाग के क्षेिफऱ का अिुपात ज्ञात करे? 
+ 
+[A] 1/8 
+[B] 1/9     
+[C] 1/10 
+[D] 1/12 
+57. ABCDEF is a regular hexagon; find the ratio of the area of shaded region to 
+area of hexagon ABCDEF? 
+ABCDEF एक वमऴट्भुज शै। छायांककत भाग और वमऴट्भुज ABCDEF अिुपात ज्ञात करें? 
+ 
+[A] 
+ 
+  
+[B] 
+ 
+        
+[C] 
+ 
+  
+[D] 
+ 
+  
+58. An equilateral triangle of area 300cm2 is cut form its three vertices to form a 
+regular hexagon. Area of hexagon is what % of the area of triangle? 
+एक वमबाहु धिभुज नजवका क्षेिफऱ 300cm2 शै इवके तीिों ळीऴों कॉ काटकर एक वम ऴट्भुज 
+बिाया बिाया जाता शै। वम ऴट्भुज का क्षेिफऱ धिभुज के क्षेिफऱ का ककतिा % शै ? 
+[A] 66.66% 
+[B] 33.33%   
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+[C] 83.33%    
+[D] 56.41% 
+59. ABCDEF is a regular polygon. Two poles at C and D are standing vertically and 
+subtend angles of elevation 300 and 600 at A respectively. What is the ratio of 
+the height of the pole at C to that of the pole at D? 
+ABCDEF एक वमबहुभुज शै। इवके कबिंिु C और D पर िॉ स्तम्भ िडे शै। और ये स्तम्भ कबिंिु A पर 
+क्रमळः 300 और 600 का उन्नयि कॉण बिाते शै। तब िॉिॉ स्तम्भॉ के ऊँचाई का अिुपात शॉगा- 
+[A] 1 : √3 
+[B] 1 : 2√3      
+[C] 2√3 : 1 
+[D] 2 : √3 
+60. A square whose side is 2cm has its corners cut away so as to form an octagon 
+with all sides equal. Then the length of each side of the octagon in meters is.  
+एक लगण की भुजा 2 वेमी शै। यदि इवके कॉिॉ कॉ काटकर एक वम  अष्टभुज बिाया गया शै तब 
+इवकी प्रत्येक भुजा शॉगी- 
+[A] 
+√ 
+√    
+[B] 
+ 
+√    
+    
+[C] 
+√ 
+√          
+[D] 
+ 
+√    
+61. 
+A regular octagonal stop sign has a side length of 10 cm . Calculate its area.  
+एक नियनमत अष्टभुजीय (octagonal) वंकेत बॉडण की प्रत्येक भुजा 10 वेमी शै। इवका क्षेिफऱ 
+ज्ञात कीनजए।  
+ 
+(DELHI POLICE HEAD CONSTABLE 2025) 
+[A]           
+[B]   √      
+[C]         
+[D]   √      
+62. A circle with radius R circumscribes a regular octagon. What is the area of the 
+octagon? 
+धिज्या   लाऱा एक लृत्त एक वम अष्टभुज के चारों ओर बिा शै। अष्टभुज का क्षेिफऱ क्या शै? 
+(DELHI POLICE HEAD CONSTABLE 2025) 
+[A]  √    
+[B]     
+[C]  √    
+[D] √    
+ 

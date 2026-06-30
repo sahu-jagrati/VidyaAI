@@ -1,0 +1,899 @@
+ 
+  BY:-GAGAN PRATAP  
+ 
+1. In ∆ABC, A = 85º and C = 58º. If ∆PQR is similar to ∆ABC, and in correspondence, then find ∠Q. 
+∆ABC esa A = 85º vkSj C = 58º gSA ;fn ∆𝐏𝐐𝐑, ∆ABC ds le:i gS vkSj laxr gS] rks Kkr dhft,,   
+(CHSL MAINS 2023)   
+ 
+[a]37º 
+ 
+[b] 85º 
+ 
+[c]58º 
+ 
+[d] 73º 
+2. If in triangle PQR and triangle DEF, ∠𝑷= 𝟓𝟐°, ∠𝑸= 𝟕𝟒°, ∠𝑹= 𝟓𝟒°, ∠𝑫= 𝟓𝟒°, 
+∠𝑬= 𝟕𝟒°, ∠𝑭= 𝟓𝟐°, then which of the following is correct? 
+यदि त्रिभुज PQR और त्रिभुज DEF में, ∠P=52°,∠Q=74°,∠R=54°,∠D=54°,∠E=74°,∠F=52°, तो निम्िलिखित में 
+से कौि सा सही है? 
+A) ∆𝑷𝑸𝑹~∆𝑭𝑬𝑫 
+B) ∆𝑹𝑸𝑷~∆𝑭𝑬𝑫 
+C) ∆𝑷𝑹𝑸~∆𝑭𝑬𝑫 
+D) ∆𝑷𝑸𝑹~∆𝑫𝑬𝑭 
+3. In ABC and DEF, we have 
+𝑨𝑩
+𝑫𝑭=
+𝑩𝑪
+𝑫𝑬=
+𝑨𝑪
+𝑬𝑭 , then which of the following is true? 
+ABC vkSj DEF eas] 
+𝑨𝑩
+𝑫𝑭=
+𝑩𝑪
+𝑫𝑬=
+𝑨𝑪
+𝑬𝑭  gSA fuEu eas ls dkSu lk lR; gS\ 
+(a) 
+DEF ~ ABC 
+(b) 
+BCA ~ DEF 
+(c) 
+CAB~ DEF 
+(d) 
+DEF ~ BAC 
+4. Let ABC and PQR be two congruent triangles, such that ∠A = ∠P = 90°. If BC = 29 cm, PR = 21 
+cm, find the value (in cm) of AB. 
+ 
+मान लीजिए ABC और PQR दो समकोण जिभुि हैं, जिससे ∠A = ∠P = 90° है। यजद BC = 29 सेमी, PR = 21 सेमी है, तो AB का मान 
+(सेमी में) ज्ञात कीजिए। (CHSL MAINS 2023)   
+ 
+[a]23  
+ 
+[b]19 
+[c]20 
+ 
+[d]22 
+5. If ∆ABC ∼ ∆XYZ, AB = 6 cm,  XY = 8 cm, YZ = 12 cm and ZX = 16 cm, then find the perimeter 
+of ∆ ABC. 
+यदि ∆ABC ∼ ∆XYZ, AB = 6 cm, XY = 8 cm, YZ = 12 cm और ZX = 16 cm है, तो ∆ ABC का पररमाप ज्ञात कीजजए। 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+A) 1. 34 cm 
+B) 2. 32 cm 
+C) 3. 27 cm 
+D) 4. 24 cm 
+6. The perimeters of two similar triangles ABC and PQR are 78 cm and 46.8 cm, respectively. If 
+PQ=11.7, then the length of AB is: 
+दो समरूप त्रिभुजों ABC और PQR के परिमाप   क्रमशः 78 सेमी और 46.8 सेमी है। यत्रद PQ = 11.7, तो AB की लंबाई है: 
+(a) 23.4 cm 
+(b) 20 cm 
+ 
+(c) 24 cm 
+(d) 19.5 cm 
+7. The ratio of the lengths of two corresponding sides of two similar triangles is 17 : 13. The 
+ratio of the areas of these two triangles, in the order mentioned, is: 
+िो समरूप त्रिभुजों की िो संगत भुजाओं की िंबाइयों का अिुपात 17 : 13 है। उजलिखित क्रम में, इि िोिों त्रिभुजों के 
+क्षेिफिों का अिुपात ज्ञात कीजजए?  
+[RRB JE 2024] 
+A) 289 : 169 
+B) 17 : 13 
+C) 
+ 
+D) 290 : 170 
+ 
+8. If the areas of two similar triangles are in the ratio 121 :225, what would be the ratio of the 
+corresponding sides ? 
+यदि िो समरूप दिभुजों के क्षेिफलों का अनुपात 121 : 225 है, तो संगत भुजाओं का अनुपात ज्ञात कीदजए। 
+(SSC CGL MAINS 2024) 
+ 
+  BY:-GAGAN PRATAP  
+A) 9 : 11 
+B) 11 : 15 
+C) 15 : 13 
+D) 11 : 13 
+9. ABC ~ PQR. The perimeters of ABC and PQR are 72 cm and 43.2 cm, respectively. What 
+is the ratio of the area of ABC to the area of PQR? 
+ABC ~ PQR gSA ABC vkSj PQR ds ifjeki Øe'k% 72 cm vkSj 43.2 cm gSaA ABC vkSj PQR ds {ks=Qyksa dk vuqikr Kkr djsaA 
+ 
+(a)25 : 9 
+ (b)36 : 25 
+ 
+(c)16 : 9  
+ 
+(d)9 : 4 
+10. The  area of two similar triangles are (7 - 4√3)cm3 and (7+4√3)cm3 respectively the ratio of 
+their corresponding perimeters is  
+िो समरूप दिभुजों का  क्षेिफल क्रमशः (7 - 4√3)cm3 और (7+4√3)cm3 है, तो उनकी पररमापों का अनुपात ज्ञात करें? 
+a)7 - 4√3    
+ b)7 - 3√3     
+c)5 - √3     
+ d)5 + √3 
+11. The average of the areas of 2 similar triangles is 706.5 m2 whose perimeters are in the ratio 
+of 6 : 11. What is 20% of the difference (in m2) in areas of both triangles? 
+ 
+िो समरूप त्रिभुजों के क्षेिफिों का औसत 706.5 m2 है, जजिके पररमाप 6 : 11 के अिुपात में हैं। िोिों त्रिभुजों के क्षेिफिों 
+में अंतर (m में) का 20% क्या होगा?   SSC CHSL PRE 2024 
+ 
+[A]157 
+          [B]149              [C] 153             [D]164 
+12. ABC ~ PQR. The areas of ABC and PQR are 64 cm² and 81 cm² respectively and AD and 
+PT are the medians of ABC and PQR, respectively. If PT = 10.8 cm, then AD = ? 
+ABC ~ PQR gSaA ABC dk {ks=Qy vkSj PQR dk {ks=Qy Øe'k% 64 cm² vkSj 81 cm² gS vkSj AD vkSj PT Øe'k% ABC vkSj 
+PQR dh ekf/;dk gSA ;fn PT = 10.8 cm gS] rks AD = fdruk gksxk\ 
+(a)8.4 cm 
+  
+(b)9 cm              (c)9.6 cm  
+ 
+(d)12 cm 
+13. ABC is similar to    DEF. The area of ABC is 80 cm2 and the area of DEF is 39.2 cm2, If 
+the altitude of ABC = 5cm, then the corresponding altitude of DEF is: 
+ABC, DEF के समरूप है। ABC का क्षेिफल 80 cm2 है तथा DEF का क्षेिफल 39.2 cm2 है। यजद ABC की ऊँचाई = 5 cm 
+है, तो DEF की संगत ऊँचाई क्या होगी? 
+(a) 17.5 cm  
+(b) 14.5 cm 
+ 
+(c) 16 cm  
+(d) 10.5 cm 
+14. Given that ∆DEF ~AABC. If the area of ∆ABC is 9 cm2 and that of ∆DEF = 12 cm2 and BC = 2.1 
+cm, then the length of EF is: 
+दिया गया है कक ∆DEF ~∆ABC है यदि ∆ABC का क्षेिफि 9 cm2 और ∆DEF का क्षेिफि = 12 cm2 और BC = 2.1 cm है, 
+तो EF की िम् बाई ज्ञात कीजजए।  
+(a) 
+𝟖√𝟑
+𝟓 cm 
+ 
+(b) 
+𝟑√𝟕
+𝟓 cm 
+ 
+(c) 
+𝟒√𝟕
+𝟓 cm 
+ 
+(d) 
+𝟕√𝟑
+𝟓 cm 
+15. ∆ABC and ∆DEF are two similar triangles whose area are 72cm2 and 60.5cm2 respectively. if 
+AC=13.2cm, DF=? 
+∆ABC और ∆DEF िो समरूप त्रिभुज है जजिके क्षेिफि क्रमशः 72cm2और 60.5cm2है।यदि AC=13.2cm तब DF की 
+िंबाई होगी- 
+a)12.5cm     b)12.1cm 
+ 
+c)10.8cm     d)9.6cm 
+16. Let ABC ~ QPR and (Area of ABC) : (Area of PQR) = 121 : 64.  
+If QP = 14.4 cm, PR = 12cm and Ac =18cm, then what is the length of AB? 
+ekuk fd ABC ~ QPR rFkk (ABC dk {ks=Qy) : (PQR dk {ks=Qy) = 121 : 64 gSA ;fn  QP = 14.4 cm, PR = 12 cm vkSj AC 
+= 18 cm gS] rks AB dh yackbZ fdruh gS\ 
+(a)32.4 cm 
+ (b)21.6 cm 
+ 
+(c)19.8 cm 
+ 
+(d)16.2 cm 
+ 
+  BY:-GAGAN PRATAP  
+17. The areas of two similar triangles ΔPQR and ΔXYZ are 12.96 cm2 and 635.04 cm2 , respectively. 
+If QR = 2.9 cm, then the length (in cm) of YZ equals: 
+ 
+िो समरूप त्रिभुजों ΔPQR और ΔXYZ का क्षेिफि क्रमशः 12.96 cm2 और 635.04 cm2 है। यदि  
+QR = 2.9 cm है, तो YZ की िंबाई (cm में) ज्ञात कीजजए।                                                     
+SSC CHSL Pre 2024 
+ 
+[A]30.4 
+           [B]20.3 
+[C] 23.2           [D] 25.2 
+18. It is given that 𝜟𝑨𝑩𝑪∼𝜟𝑷𝑹𝑸 and that 𝑨𝒓𝒆𝒂 𝑨𝑩𝑪: 𝑨𝒓𝒆𝒂 𝑷𝑹𝑸= 𝟏𝟔: 𝟏𝟔𝟗. If 𝑨𝑩= 𝒙, 𝑨𝑪= 𝒚, 𝑩𝑪= 𝒛 (all 
+in cm), then PQ is equal to: 
+यह दिया गया है कि 𝜟𝑨𝑩𝑪∼𝜟𝑷𝑹𝑸 और क्षेत्र ABC : क्षेत्र PRQ = 16 : 169। यदि 𝑨𝑩= 𝒙 
+, 𝑨𝑪= 𝒚, 𝑩𝑪= 𝒛 (अभी cm में), तो PQ क्या होगा? 
+(a) 
+𝟏𝟑
+𝟒𝒚  
+(b) 
+𝟏𝟑
+𝟒𝒛  
+ (c) 
+𝟏𝟑
+𝟒𝒙  
+(d) 
+𝟏𝟑
+𝟖𝒙 
+19. ABC is similar to PQR. AB = 4 cm, BC = 8 cm and AC = 10 cm. If QR = 16 cm, then what is 
+the area of PQR? 
+ABC, PQR ds le:i gSA AB = 4 cm, BC = 8 cm and AC = 10 cm gSA ;fn QR = 16 cm gS] rks PQR dk {ks=Qy fdruk 
+gS\(CHSL 2022 PRE) 
+(a)𝟐√𝟐𝟑𝟏cm²         (b)𝟒√𝟐𝟑𝟏cm²        (c)𝟒√𝟒𝟔𝟐cm²          (d)𝟖√𝟐𝟑𝟏cm² 
+20. Two isosceles triangles have equal vertical angles and their areas are in the ratio 4.84 : 5.29 . 
+What is the ratio of their corresponding heights ? 
+nks lef}ckgq f=Hqktksa ds “kh’kZ dks.k cjkcj gS vkSj muds {ks=Qyksa dk vuqikr 4.84 : 5.29 gSA rks mudh laxr mapkbZ;ksa dk vuqikr D;k gksxk \ 
+ (A) 11 : 23 
+ 
+(B) 23 : 25 
+ 
+(C) 22 : 23 
+ 
+(D) 484 : 529 
+21. ∆𝐃𝐄𝐅 & ∆𝐆𝐇𝐈 are two similar triangles. If DE = 64 cm and GH = 24 cm and the perimeter of 
+triangle GHI is 72 cm, then what is the sum of the lengths (in cm) of the side EF and FD of 
+the triangle DEF? 
+ 
+∆DEF और ∆GHI िो समरूप त्रिभुज हैं। यदि DE = 64 सेमी और GH = 24 सेमी और त्रिभुज GHI का पररमाप 72 
+सेमी है, तो त्रिभुज DEF की भुजा EF और FD की िंबाई (सेमी में) का योग क्या है? SSC CHSL Pre 2024 
+A) 192 
+B) 96 
+C) 128 
+D) 82 
+22. In ∆ABC, DE||BC and 5AE = 3EC. If AB = 6.4 units, then the value of DB (in units) is: 
+∆ABC में, DE||BC है औि 5AE = 3EC है। यदि AB = 6.4 इकाई है, तो DB का मान (इकाई में) ज्ञात कीजिए।   
+SSC CGL 2024 Pre 
+[A]2.4 
+ 
+[B]5 
+[C]3.2 
+ 
+[D]4 
+23. R and S are the points of the sides XY and XZ, respectively, of ΔXYZ. Also, XR = 15 cm, XY = 
+25 cm, XS = 12 cm and XZ = 20 cm. RS is equal to: 
+R और S क्रमशः ΔXYZ की भुजाओं XY और XZ ij fLFkr ब ंदु हैं। साथ ही, XR = 15 सेमी, XY = 25 सेमी, XS = 12 
+सेमी और XZ = 20 सेमी। RS इसके  रा र है: 
+1. 
+𝟐
+𝟓 YZ 
+2. 
+𝟓
+𝟑 YZ 
+3. 
+𝟑
+𝟓 YZ 
+4. 
+𝟑
+𝟒 YZ   (SSC SELECTION POST XI 2023) 
+24. In PQR, point T and S are PQ and PR, respectively. Such that TS is parallel to QR. If TQ = 7.2 
+cm , PS = 1.8 cm and SR = 5.4 cm, the length of PT. 
+ 
+  BY:-GAGAN PRATAP  
+PQR esa] fcanq T vkSj S Øe'k% PQ vkSj PR ij bl izdkj gSa fd TS, QR ds lekarj gSA ;fn TQ = 7.2 cm, PS = 1.8 cm vkSj SR = 5.4 
+cm gS] rks PT dh yackbZ Kkr djsaA 
+(a)2 cm 
+ (b)2.4 cm 
+ 
+(c)1.35cm             (d)3.6 cm 
+25. In ΔABC,XY is drawn parallel to BC, cutting sides at X and Y, where AB = 5.4 cm ,BC = 7.2 cm 
+and BX = 3 cm. What is the length of XY (in cm)? 
+ΔABC में, XY को BC के समािांतर िींचा गया है, जो X और Y पर भुजाओं को काटता है, जहां AB = 5.4 सेमी,  
+BC = 7.2 सेमी और BX = 3 सेमी है। XY की िंबाई (सेमी में) क्या है? 
+A) 
+4.3 
+B) 
+3.0 
+C) 
+3.2 
+D) 
+2.8 
+26. In ABC, DE||BC, where D and E are points on the sides AB and AC, respectively. If AD = 2 
+cm, BD = 5.2 cm, AC = 9 cm and AE = x cm, then what is the value of x? 
+ABC esa] DE||BC gS] tgka D vkSj E, Øe'k% Hkqtk AB vkSj AC ij fLFkr fcUnq gSaA ;fn AD = 2 cm, BD = 5.2 cm, AC = 9 cm vkSj AE 
+= x cm gS] rks x dk eku Kkr djsaA 
+ 
+(a)3.5 
+  
+(b)4 
+ 
+ 
+(c)3 
+ 
+ 
+(d)2.5 
+27. In a triangle ABC, points P and Q are on AB and AC, respectively, such that AP = 4cm, PB = 
+6cm, AQ = 5cm and QC = 7.5cm. If PQ = 6cm, then find BC (in cm). 
+,d f=Hkqt ABC eas] fcUnw P vkSj Q Øe'k% AB vkSj AC ij bl çdkj fLFkr gS fd AP = 4 cm, PB = 6 cm,  
+AQ = 5 cm vkSj QC = 7.5 cm gSaA ;fn PQ = 6 cm gS] rks BC (cm esa) Kkr dhft,A 
+(a)10 
+ (b)9 
+ 
+(c)15 
+ 
+(d)12 
+28. In ABC, D and E are the points on sides AB and AC, respectively such that ADE = B. If  
+AD = 7 cm, BD = 5 cm and BC = 9 cm, then DE (in cm) is equal to : 
+ABC esa] Øe'k% Hkqtk AB vkSj AC ij fcUnq D vkSj E bl çdkj gS fd ADE =B gSA ;fn AD = 7 cm, BD = 5 cm vkSj BC = 9 cm 
+gS] rks DE dk eku ¼lseh- esa½ Kkr djsaA 
+(a)6.75 
+ (b)8.4 
+ 
+(c)5.25  
+(d)7 
+29. In the given figure, if DE|| BC, AD = 2.5 cm, DB=3.5 cm, and EC =4.2 cm, then the measure 
+of AC is: 
+दिए गए चचि, में, यदि DE|| BC, AD = 2.5 सेमी, DB = 3.5 सेमी, और EC = 4.2 सेमी है, तो AC का माप है: 
+ 
+a) 7.2 cm 
+ 
+b) 6.4 cm 
+ 
+c) 7.4 cm 
+ 
+d) 8.4 cm 
+30. In ABC, DE || AB, where D and E are the points on sides AC and BC, respectively. If AD = x–
+3, AC = 2x, BE = x–2 and BC = 2x + 3, then what is the value of x? 
+ABC esa] DE || AB gS] tgk¡ D vkSj E Øe'k% Hkqtkvksa AC vkSj BC ij fcUnq gSaA ;fn AD = x–3, AC = 2x, 
+ BE = x–2 vkSj BC = 2x + 3 gS] rks x dk eku Kkr djsaA 
+(a)12 
+ (b)10 
+ 
+(c)8 
+ 
+(d)9 
+ 
+  BY:-GAGAN PRATAP  
+31. In △ABC, D and E are points on the sides AB and AC, respectively, such that DE || BC. If AD 
+= 5 cm, DB = 9 cm, AE = 4 cm and BC = 15.4 cm, then the sum of the lengths of DE and EC (in 
+cm) is: 
+△ABC में, भुजा AB और AC पर क्रमशः त्रबंिु D और E इस प्रकार जथित हैं कक DE || BC है। यदि AD=5 cm, DB=9 cm, 
+AE=4 cm और BC=15.4 cm है, तो DE और EC की िंबाई का योगफि (cm में) ज्ञात कीजजए। 
+(a) 11.6  
+(b) 12.7  
+(c) 13.4  
+(d) 10.8 
+32. In ABC, D is a point on side AB such that BD = 3 cm and DA = 4 cm. E is a point on BC such 
+that DE || AC., Then Area of BDE : Area of trapezium ACED = 
+ABC esa] Hkqtk AB ij fcUnq D bl çdkj gS fd BD = 3 cm vkSj DA = 4 cm gSA BC ij fcUnq E bl çdkj gS fd DE || AC gSA BDE 
+dk {ks=Qy % leyac prqHkqZt ACED dk {ks=Qy dk eku Kkr djsaA 
+(a)16 : 33 
+ (b)40 : 9 
+(c)33 : 16 
+ 
+(d)9 : 40 
+33. In ABC, DE || AC, where D and E are the points on sides AB and BC, respectively. 
+If BD = 12 cm and AD = 11 cm, then what is the ratio of the area of BDE to that of the trapezium ADEC? 
+ में, 
+ है, िहााँ D औि E क्रमशः भुिाओं AB औि BC पि जथित ब ंिु हैं। यदि BD = 12 cm औि AD = 11 
+cm है, तो 
+ के क्षेत्रफल औि समलम्  चतुभुि ADEC के क्षेत्रफल का अनुपात ज्ञात कीजिए।(RRB NTPC 
+GRADUATE LEVEL 2025 CBT-1) 
+1. 623 : 199 
+ 
+2. 385 : 144 
+3. 390 : 413 
+ 
+4. 144 : 385 
+34. In triangle ABC, X and Y are the points on sides AB and AC, respectively, such that XY is 
+parallel to BC. If XY : BC = 2.5 : 7, what is the ratio of the area of the trapezium BCYX to that 
+of the AXY? 
+f=Hkqt ABC eas] X vkSj Y Øe'k% Hkqtkvksa AB vkSj AC ij fLFkr ,sls fcUnw gSa fd XY, BC ds lekukarj gSA ;fn XY : BC = 2.5 : 7 gS] rks 
+leyEc prqHkqZt BCYX ds {ks=Qy dk] AXY ds {ks=Qy ls vuqikr D;k gS\ 
+(a)
+𝟐𝟓
+𝟏𝟕𝟏 
+ (b)
+𝟐𝟓
+𝟏𝟗𝟔 
+ 
+(c)
+𝟏𝟗𝟔
+𝟐𝟓 
+ 
+(d)
+𝟏𝟕𝟏
+𝟐𝟓  
+35. In ABC, D and E are points on sides AB and BC, respectively, such that DE || AC. If BD = 4√𝟔 
+and AB = 12√𝟑 cm, then the ratio of the area of BDE to that of quadrilateral ACED is: 
+ABC esa] D vkSj E fcUnw Øe'k% AB vkSj BC Hkqtkvksa ij bl çdkj fLFkr gSa fd DE || AC gSA ;fn BD = 4√𝟔 vkSj AB = 12√𝟑 𝒄𝒎 gS] 
+rks BDE ds {ks=Qy vkSj prqHkqZt ACED ds {ks=Qy dk vuqikr gS& 
+(a)4 : 11 
+ (b)2 : 9  
+(c)2 : 7  
+(d)1 : 3 
+36. In ABC, D and E are the points on sides AB and AC, respectively and DE || BC. BC = 8 cm DE 
+= 5 cm. If the area of ADE = 45 cm², then what is the area (in cm²) of ABC? 
+ABC esa] D vkSj E, Øe'k% Hkqtkvksa AB vkSj AC ij fcUnq gSa vkSj DE || BC gSA BC = 8 cm vkSj DE = 5 cm gSa ;fn ADE dk {ks=Qy 
+45 cm² gS] rks ABC dk {ks=Qy ¼cm² esa½ Kkr djsaA 
+(a)105.2 
+ (b)115.2  
+ 
+(c)64 
+ 
+(d)125 
+37. In a triangle ABC, P and Q are points on AB and AC, respectively, such that AP = 1 cm, PB = 3 
+cm, AQ = 1.5 cm, and CQ = 4.5 cm. If the area of APQ is 12 cm2, then find the area of BPQC. 
+दिभुज ABC में, P और Q क्रमश: AB और AC पर दथित ऐसे द ंिु हैं दक AP=1 cm, PB=3 cm AQ=1.5 cm, और CQ=4.5 cm हैं। यदि ∆APQ 
+का क्षेिफल 12 cm2 है, तो BPQC का क्षेिफल ज्ञात कीदजए। 
+ 
+  BY:-GAGAN PRATAP  
+ 
+(a) 180 cm2 
+ 
+(b) 192 cm2 
+ 
+(c) 190 cm2 
+ 
+(d) 182 cm2 
+38. In ∆EFG, XY||FG, area of the quadrilateral XFGY = 44m2 . If EX : XF = 2 : 3, then find the area 
+of ∆EXY (in m ). 
+ 
+∆EFG में, XY||FG है, चतुभुज XFGY का क्षेिफि = 44m2 है। यदि EX : XF = 2 : 3 है, तो ∆EXY का क्षेिफि (m में) ज्ञात 
+कीजजए।                                        SSC CHSL Pre 2024 
+ 
+[A] 
+8.38 
+[B] 9.46 
+ 
+[C]  
+7.28 
+[D] 8.10 
+39. In a ∆ABC, D and E are points lie on AB and AC. M and N are points lie on BD and EC 
+respectively. if DE∥MN∥BC ,AD:DM=3:2, DM:MB=6:7 and  area of ▭DENM=432cm2 then find 
+the area of ▭MNCB? 
+∆ABC में, D औि E, क्रमशः AB औि AC पि जथित ब ंिु हैं। M औि N क्रमशः BD औि EC पि जथित ब ंिु हैं। यदि DE∥MN∥BC ,AD: DM 
+= 3: 2,  DM: MB = 6: 7 औि क्षेत्रफल ▭DENM = 432 cm2 का तो ▭MNCB का क्षेत्रफल ज्ञात किें? 
+a)666cm2      
+  b)777cm2 
+ 
+c)888cm2 
+   d)999cm2 
+40. In a 𝜟𝑨𝑩𝑪, D and E are two points on sides AB and BC, respectively such that AD : DB = 2 : 3 
+and DE || AC. if the area of 𝜟𝑨𝑫𝑬 is equal to 𝟏𝟖 𝒄𝒎𝟐, then what is the area (in 𝒄𝒎𝟐) of 𝜟𝑨𝑩𝑪? 
+𝜟𝑨𝑩𝑪में, भुजा AB और BC पर क्रमशः D और E िो ब िंिु इस प्रिार है कि AD:DB= 2:3 और DE || AC है| यदि 𝜟𝑨𝑫𝑬  िा क्षेत्रफल 18 
+cm2  है तो𝜟𝑨𝑩𝑪 िा क्षेत्रफल(cm2 में) क्या है? 
+(a) 40.5  
+(b) 75 
+ 
+ 
+(c) 54 
+ 
+(d) 45 
+41. In triangle ABC, the straight line parallel to the side BC meets AB and AC at the points P and 
+Q, respectively. If AP = QC, the length of AB is 16 cm and the length of AQ is 4 cm, then the 
+length (in cm) CQ is? 
+त्रिभुज ABC में, भुजा BC के समािांतर सीधी रेिा क्रमशः त्रबंिु P और Q पर AB और AC से लमिती है। यदि AP = 
+QC है, AB की िंबाई 16 सेमी है और AQ की िंबाई 4 सेमी है, तो CQ की िंबाई (सेमी में) क्या है? 
+A) 𝟐(√𝟐𝟏+ 𝟐) 
+B) 𝟐(√𝟏𝟖+ 𝟐) 
+C) 𝟐(√𝟏𝟕−𝟐) 
+D) 𝟐(√𝟏𝟗+ 𝟐) 
+42. In ABC, D and E are the points on AB and AC respectively such that  
+AD*AC = AB*AE. If ADE = ACB + 30⁰ and ABC = 78⁰, then A=? 
+ABC esa AB vkSj AC ij क्रमश fcanq D vkSj E bl çdkj fLFkr gSa fd AD ×AC= AB × AE gSA ;fn ADE = ACB + 30° 
+vkSj ABC = 78° gS] rks A = ? 
+(a) 48⁰                  (b) 56⁰ 
+                 (c) 68⁰              (d) 54⁰ 
+43. In the below figure, LM ∥ CB and LN ∥ CD. If AM = 5 cm, AB = 8 cm, ND = 4.5 cm and AL = 8.5 
+cm, then the value of LC+AN ? 
+नीचे बदए गए बचत्र में, LM ∥ CB और LN ∥ CD। यबद AM = 5 सेमी, AB = 8 सेमी, ND = 4.5 सेमी और AL = 8.5 
+सेमी है, तो LC+AN का मान बकतना होगा? 
+ 
+  BY:-GAGAN PRATAP  
+ 
+1. 13.5 cm 
+2. 15.2 cm 
+3. 14.3 cm 
+4. 12.6 cm 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+44. In triangle ABC, M& N is a point on side AB & AC respectively & O is an intersection point of 
+side MC & NB. Given AM:MB =7:9 & MN is parallel to BC. Find the area ratio of 
+∆𝑴𝑶𝑵 𝒕𝒐 ∆𝑩𝑶𝑪? 
+त्रिभुज ABC में, M और N क्रमशः भुजा AB और AC पर एक त्रबंिु है और O भुजा MC और NB का प्रनतच्छेिि त्रबंिु है। 
+दिया गया AM:MB =7:9 और MN, BC के समािांतर है। ∆MON और ∆BOC का क्षेिफि अिुपात ज्ञात कीजजए? 
+A) 49:256 
+B) 256:49 
+C) 7:61 
+D) 81:256 
+45. In ABC, DE||AB, Where D and E are points on sides AC and BC, respectively. F is a point 
+between C and D such that EF || BD. If AD = 15 cm, DC = 10 cm, then the length of CF is: 
+ABC esa, DE||AB gS, tgk¡ D vkSj E Øe'k% Hkqtk AC vkSj BC ij fLFkr fcanq gSaA C vkSj D ds chp fcUnq F bl çdkj gS fd EF || BD gSA ;fn 
+AD = 15 cm, DC = 10 cm gS] rks CF dh yackbZ Kkr djsaA 
+ 
+(a)3 cm 
+ (b)7.5 cm 
+ 
+(c)5 cm  
+(d)4 cm 
+46. In a triangle ABC, D and E are the points on side AC and BC, respectively such that DE∥ AB. F 
+is a point on CE such that DF∥ AE. If CE= 6 cm, and  
+CF =2.5 cm, then BC is equal to:- 
+त्रिभुज ABC में, D और E, क्रमशः AC और BC के त्रबंिु हैं, जैसे कक DE∥ AB ,F, CE पर एक त्रबंिु है जैसे कक DF∥ AE, यदि 
+CE = 6 सेमी, और CF = 2.5 सेमी, तो BC बराबर है:- 
+a) 14.4 cm                
+b) 15.6 cm                
+ 
+c) 14 cm                 
+d) 12 cm     
+47. In the figure(not drawn to scale) given below, P is a point on AB such that AP:PB=4:3. PO is 
+parallel to AC and OD is parallel to CP. In ∆ARC, ∠ARC=90° and in ∆POS. ∠PSO=90°. The length 
+of OS is 6cm. what is ratio AP:PD? 
+दिए गए चचत्र में, भुिा AB पि ब ंिु P इस प्रकाि है कक AP:PB=4:3, PO ,AC के समान्ति है ि कक  OD , CP के समांति है। बत्रभुि ARC 
+में, ∠ARC=90°  औि ∆POS में ∠PSO=90° , त  AP:PD का मान ज्ञात कीजिये यदि OS की लं ाई 6 सेमी है। 
+ 
+a)10:3 
+b)2:1 
+c)7:3 
+d)8:3 
+ 
+ 
+ 
+ 
+48. In a triangle ABC, D and E are the points on side AC and BC, respectively such that DE∥ AB. F 
+is a point on CE such that DF∥ AE. If FE= 6.5cm, and BE =11.7 cm, then CF is equal to:- 
+त्रिभुज ABC में, D और E, क्रमशः AC और BC के त्रबंिु हैं, जैसे कक DE∥ AB ,F, CE पर एक त्रबंिु है जैसे कक DF∥ AE, यदि 
+FE = 6.5 सेमी, और BE = 11.7 सेमी, तो CF बराबर है:- 
+a) 5.2 cm                
+b) 8.666 cm                
+c) 6.63 cm                 
+d) 8.125 cm  
+49. If ABC, B = 87° and C = 60°. Points D and E are on the sides AB and AC, respectively, such 
+that DEC = 93° and DE : BC = 5 : 9. If AB = 14.4 cm, then the length of AE is: 
+ 
+  BY:-GAGAN PRATAP  
+ABC esa] B = 87° vkSj C = 60° gSA fcUnw D vkSj E Øe'k% Hkqtkvksa AB vkSj AC ij bl çdkj fLFkr gSa fd DEC = 93° vkSj DE : 
+BC = 5 : 9 gSA ;fn AB = 14.4 cm gSZ] rks AE dh yackbZ D;k gS\ 
+(a) 
+8.4 cm 
+(b) 
+9 cm 
+(c) 
+7.2 cm 
+(d) 
+8 cm 
+50. In ∆ABC, P is a point on AB such that PB : AP = 3 : 4 and PQ is parallel to AC. If AR and QS are 
+perpendicular to PC and QS = 9 cm, what is the length (in cm) of AR?  
+ 
+ABC में, AB पर एक त्रबंिु P इस प्रकार है कक PB : AP = 3 : 4 है और PQ, AC के समांतर है। यदि AR और QS, PC के िंबवत 
+हैं और QS = 9 cm है, तो AR की िंबाई (cm में) ककतिी है?  SSC CPO PRE 2024  
+ 
+[A]28 
+ 
+[B] 35 
+ 
+ 
+[C]21 
+ 
+[D] 14 
+51. In ∆PQR, S and T are points on PQ and PR, respectively, such that  
+ST || QR and ST divides the ∆PQR into two parts of equal areas. Then the ratio of PS and QS 
+is: 
+ 
+∆PQR में, S और T क्रमशः PQ और PR पर दथित द ंिु इस प्रकार हैं दक ST || QR है और ST, ∆PQR को समान क्षेिफल वाले िो भागों में दवभादजत 
+करती है। तो PS और QS का अनुपात दकतना है? 
+  SSC CHSL Pre 2024 
+ 
+[A] 
+𝟏: √𝟐−𝟏 
+[B] 𝟏: 𝟏 
+ 
+[C] 
+𝟏: √𝟐+ 𝟏 
+[D] 𝟏: √𝟐 
+52. In ∆ABC, D and E are points on the sides BC and AB, respectively, such that ∠ACB = ∠DEB. If 
+AB = 12 cm, BE = 5 cm and BD : CD = 1:2, then BC is equal to: 
+∆ABC में, द ंिु D और E क्रमश: भुजाओं BC और AB पर इस प्रकार दथित हैं, दक ∠ACB = ∠DEB है। यदि AB = 12 cm, BE = 5 cm और BD : 
+CD = 1 : 2 है, तो BC की लं ाई  ताइए। 
+(a) 8 √3 cm 
+ 
+(b) 5√5 cm 
+ 
+(c) 6√5 cm 
+ 
+(d) 6√3 cm 
+53. In ∆ABC,D and E are two points on sides AC and AB, respectively ,such that ∠ADE= ∠B.if 
+AD=7.6cm,AE=7.2cm,BE=4.2cm and BC=8.4cm then DE is equal to ? 
+ ∆ABC में, D औि E, क्रमशः AC औि AB पि िो ब ंिु हैं, िैसे कक ∠ADE = ∠B.if AD = 7.6cm, AE = 7.2cm, BE = 4.2cm औि BC = 
+8.4cm त  DE   िा ि है? 
+a)6.3cm     
+   b)5.8cm    
+   c)7.4cm      
+   d)5.6cm 
+54. In ∆ADC ,E and B are the points on the sides  AD and AC respectively such that ∠ABE=∠ADC. if 
+AE=6cm,BC=2cm,BE=3cm and CD=5cm then , (AB+DE) is equal to? 
+∆ADC में, E औि B क्रमशः AD औि AC पि जथति िो  ब ंिु इस प्रकाि हैं कक ∠ABE = ∠ADC यदि AE = 6cm, BC  =2cm, BE = 3cm औि 
+CD = 5cm तो, (AB + DE) ककसके  िा ि है? 
+a)14cm             b)16cm          c)
+𝟒𝟗
+𝟑𝒄𝒎     𝒅)
+𝟒𝟔
+𝟑cm 
+55. In ∆ABC, AB = 20 cm, BC = 7 cm and CA = 15 cm. Side BC is produced to D such that 
+∆DAB~∆DCA. DC is equal to: 
+∆ABC में, AB = 20 cm, BC = 7 cm और CA = 15 cm है। भुजा BC को द न्िु D तक इस तरह  ढ़ाया जाता है दक ∆DAB~∆DCA है। DC का 
+माप  ताइए। 
+ (a) 9 cm 
+(b) 8 cm 
+(c) 10 cm 
+(d) 7 cm 
+56. D is a point on the side BC of a ABC such that ADC = BAC. If CA = 10cm and BC = 16cm, 
+then the length of CD is: 
+ABC  dh Hkqtk BC ij ,d fcanq D bl rjg ls fLFkr gS fd  ADC = BAC A ;fn CA = 10cm vkSj BC = 16 cm gS] rks CD dh yackbZ 
+fdruh gksxkh\ 
+         (a) 6 
+ 
+(b) 6.5  
+ 
+              (c) 6.25  
+(d) 7    
+57. In the given fig. ∠BAC=∠BCD AB=50cm & BD=18cm, then find the ratio of perimeter ∆ABC & 
+∆BCD? 
+दिए गए चचत्र मे, ∠BAC=∠BCD AB=50cm औि BD=18cm त  बत्रभुि ABC औि बत्रभुि BCD के परिमापो का अनुपात ज्ञात किे? 
+ 
+  BY:-GAGAN PRATAP  
+a)25/18 
+b)5/3 
+c)5/4 
+d)20/9 
+ 
+ 
+ 
+ 
+ 
+58. In a triangle PQR, RS intersects PQ at point S. The sides of the triangle QR = 36 cm, SQ = 27 
+cm, RS = 18 cm and ∠QRS = ∠QPR. What is the ratio of the perimeter of ∆PRS to that of ∆QSR? 
+ 
+त्रिभुज PQR में, RS, PQ को त्रबंिु S पर प्रनतच्छेदित करती है। त्रिभुज की भुजाएं QR = 36 cm, SQ = 27 cm, RS = 18 cm हैं 
+और ∠QRS = ∠QPR है। ∆PRS के पररमाप और ∆QSR के पररमाप का अिुपात ककतिा है?            SSC CHSL Pre 2024 
+ 
+[A] 
+𝟖
+𝟔 
+ 
+[B]
+𝟗
+𝟏𝟐 
+ 
+[C] 
+𝟕
+𝟗 
+ 
+[D]
+𝟓
+𝟖 
+59. In a triangle ABC, AC = 8.4 CM and BC = 14 cm, P is a point on AB such that CP = 11.2 cm and 
+ACP = B. What is the length (in cm) of BP? 
+त्रिभुज ABC में, AC = 8.4 CM और BC = 14 सेमी, P, AB पर एक त्रबंिु है जैसे कक CP = 11.2 cm और ACP = B. BP की 
+िंबाई (सेमी में) क्या है? 
+a) 4.12             
+ 
+b) 2.8                   
+c) 3.78                   
+d) 3.6 
+60. The median AD of triangle ABC is produced and a perpendicular CF is dropped on it. BE is 
+perpendicular to AD. If BC = 34 cm and DF = 8 cm, what is the length (in cm) of BE? 
+एक त्रिभुज ABC की माजययका AD को बढाया जाता है और उस पर एक िंब CF डािा जाता है। BE, AD के िंबवत है। 
+यदि BC = 34 cm और DF = 8 cm है, तो BE की िंबाई (cm में) ज्ञात कीजजए। SSC Selection Post (Phase-XII)  
+ 
+[A]9 
+ 
+[B] 17 
+ 
+ 
+[C]15 
+ 
+[D] 19 
+61. In ABC, AB = AC and D is a point on side AC such that BD = BC. If AB = 12.5cm and BC = 
+5cm, then what is the measure of DC? 
+ABC esa] AB = AC gS vkSj D, Hkqtk AC ij bl rjg ls ,d fcanq gS fd BD = BC gSA ;fn AB = 12.5 cm vkSj BC = 5 cm gS] 
+rks DC dh eki Kkr dhft,A 
+(a) 2 cm 
+(b) 2.5 cm 
+ 
+(c) 3 cm 
+(d) 1.8 cm 
+62. Let S be as an arbitrary point on the side PQ of an acute-angled ∆PQR. Let T be the point of 
+intersection of QR extended with the straight line PT drawn parallel to SR through P. let U be 
+the point of intersection of PR extended with the straight line QU drawn parallel to SR through 
+Q. if PT=a and QU=b, then the length of SR is? 
+एक न्यूनकोण बत्रभुि PQR की भुिा PQ पि एक ब ंिु S है।ब ंिु P पि िेखा SR के समांति िेखा खींची िाती है िो भुिा QR को आगे  ढ़ाने 
+पि ब ंिु T पि ममलती है।ब ंिु Q पि िेखा SR के समांति एक िेखा खींची िाती है िो िेखा PR को आगे  ढ़ाने पि ब ंिु U पि ममलती है।यदि 
+PT=a औि QU=b त  SR की लं ाई क्या होगी- 
+a)
+𝒂+𝒃
+𝒂𝒃  
+ 
+  b) 
+𝒂−𝒃
+𝒂𝒃      
+c) 
+𝒂𝒃
+𝒂+𝒃     d) 
+𝒂𝒃
+𝒂−𝒃    
+63. Two poles of height 2m and 3 m are 5 m apart. The height of the point points of intersection 
+of the lines joining the top of each pole to the foot of the opposite pole is? 
+2 मीटर और 3 मीटर ऊंचाई वाले दो खंभे 5 मीटर की दूरी पर हैं। प्रत्येक ध्रुव के शीर्ष को ववपरीत ध्रुव के पाद से वमलाने 
+वाली रेखाओं के प्रवतच्छेदन विन्दुओं की ऊँचाई क्या है? 
+A) 1 m                               C) 1.2 m 
+B) 1.4 m                            D)1.25m 
+64. In the given fig. AB||PQ||CD and  AB-CD=72cm & BP:PC=5:3 then find length of PQ? 
+दिए गए चचत्र में, AB||PQ||CD औि AB-CD=72cm & BP:PC=5:3 त  PQ की लम् ाई क्या होगी? 
+ 
+  BY:-GAGAN PRATAP  
+a)67.5cm 
+b)60cm 
+c)75cm 
+d)64cm 
+ 
+ 
+ 
+ 
+65. In the given fig. AB, EF and CD are parallel lines, given that EG=5cm, GC=10cm and DC=18cm. 
+Calculate AC, if AB=15cm? 
+दिए गए चचत्र में AB, EF औि CD समानांति िेखाएाँ हैं, जिसमे  EG = 5cm, GC = 10cm औि DC = 18cm हैं। AC की गणना किें, यदि AB 
+= 15 सेमी हैं? 
+ 
+a)21cm  
+b)25cm 
+c)30cm 
+d)28cm 
+ 
+ 
+ 
+ 
+ 
+66. A man looks at the reflection of the top of the lamp-post on the mirror that is 6.6 m away 
+from the foot of the lamppost. The man's height is 1.25 m and he is standing 2 m away from 
+the mirror. Assuming that the mirror is placed on the ground, facing the sky and the man, 
+and that the mirror and the lamp-post are in a same line, find the height of the lamp-post (in 
+metres). 
+ 
+एक आिमी लैंप पोथट के शीर्ष के प्रदतद ं  को िपषण पर िेखता है जो लैपपोथट के पाि द ंिु से 6.6m िूर है। आिमी की ऊँचाई 1.25m है और वह िपषण से 2
+ m 
+िूर खडा है। यह मानते हुए दक िपषण जमीन पर रखा गया है, दजसका मुख आकाश और आिमी की ओर है, तिा िपषण और लॅप पोथट एक ही रेखा में हैं, लैंप पोथट की 
+ऊँचाई (मीटर में) ज्ञात कीदजए । 
+                                                           SSC CHSL Pre 2024 
+ 
+[A] 
+4.28 
+[B] 4.45 
+ 
+[C] 
+3.97 
+[D] 4.13 
+67. In the given fig two squares of sides 8cm and 20cm are given. What is the area(in cm2) of the 
+shaded part? 
+दिए गए चचत्र में , िो वगु है ,जिनकी भुिाये क्रमश  8 सेमी औि 20 सेमी है।छायांककत भाग का क्षेत्रफल क्या होगा? 
+a)120/7 
+b)160/7 
+c)180/7 
+d)240/13 
+ 
+ 
+ 
+68. In the given figure, ABCD is a rectangle and P is a point on DC such that BC = 24 cm, DP = 10 
+cm, and CD = 15 cm. If AP produced intersects BC produced at Q, then find the length of AQ. 
+दिए गए दचि में, ABCD एक आयत है और DC पर द ंिु P ऐसे दथित है दक BC = 24 cm, DP = 10 cm, और CD = 15 cm है। यदि  ढ़ाई गई रेखा AP 
+ ढ़ाई गई रेखा BC को द ंिु Q पर प्रदतच्छेदित करती है, तो AQ की लं ाई ज्ञात कीदजए। 
+ 
+(a) 35 cm 
+ 
+(b) 24 cm 
+ 
+(c) 39 cm  
+ 
+(d) 26 cm 
+69. In the given fig. ABCD is parallelogram side AD is extended to M. N is a point on side CD. BN 
+is extended to meet AD at M. if NO=21cm, OB=35cm then find MN? 
+ 
+  BY:-GAGAN PRATAP  
+दिए गए चचत्र में ABCD समांति चतुभुि है। AD को ब ंिु M तक   ढ़ाया िाता है। N, भुिा CD पि ब ंिु है। BN को AD से ममलने के मलए 
+ववथतारित ककया िाता है। यदि NO = 21 सेमी, OB = 35 सेमी तो MN ज्ञात किें? 
+ 
+a)28cm  
+b)37.33cm 
+c)42cm 
+d)33.33cm 
+ 
+ 
+ 
+ 
+ 
+ 
+70. In the figure there are two rectangle ABCD and DEBG, each of length 7cm and width 3 cm. 
+The area of shaded region, in cm2, is approximately. 
+दिए गए चचत्र में, िो आयत ABCD औि DEBG है।प्रत्येक की लं ाई औि चौड़ाई क्रमशः 7cm , 3cm  है।त  छायांककत भाग 
+का क्षेत्र फल क्या होगा? 
+ 
+a)13.57      b)10 .66    c)11.86     d)12.43 
+71. L and M are the mid points of sides AB and AC of a triangle ABC, respectively, and BC = 18 
+cm. If LM || BC, then find the length of LM (in cm). 
+L और M क्रमशः त्रिभुज ABC की भुजाओं AB और AC के मयय त्रबंिु हैं, और BC = 18 सेमी है। यदि LM|| BC, तो 
+LM की िंबाई (सेमी में) ज्ञात कीजजए। 
+(SSC CHSL 2024) 
+A) 6 
+B) 9 
+C) 3 
+D) 12 
+72. In triangle ABC, P and Q are the mid points of AB and AC, respectively. R is a point on PQ 
+such that PR : RQ = 3 : 5 and QR = 20 cm, then what is the length (in cm) of BC? 
+f=Hkqt ABC esa] P vkSj Q Øe'k% AB vkSj AC ds e/; fcUnq gSaA ;fn PQ ij dksbZ fcUnq R bl çdkj fLFkr gS fd PR : RQ = 3 : 5 vkSj  
+QR = 20 cm gS] rks BC dh yackbZ ¼lseh- esa½ Kkr djsaA 
+(a)48 
+ (b)40 
+ 
+(c)64 
+ 
+(d)66.66 
+73. The mid points of AB and AC of a triangle ABC are X and Y, respectively. If BC + XY = 24 
+units, then the value of BC – XY is? 
+एक त्रिभुज ABC के AB और AC के मयय त्रबंिु क्रमशः X और Y हैं। यदि BC + XY = 24 इकाई है, तो BC – XY का 
+माि क्या है? 
+A) 5cm 
+B) 4 cm 
+C) 6 cm 
+D) 8 cm 
+ 
+  BY:-GAGAN PRATAP  
+74. In ∆ PQR, M, N, and S are the mid-points of sides PQ, PR and QR, respectively. If the area of 
+the ∆ PQR is 46 cm2, what is the area (in cm2) of the quadrilateral MNRQ? 
+ 
+∆PQR में, M, N औि S क्रमशः भुिाओं PQ, PR औि QR के मध्य-ब ंिु हैं। यदि ∆ PQR का क्षेत्रफल 46 cm है, तो चतुभुि 
+MNRQ का क्षेत्रफल (cm में) क्या है?  
+ 
+SSC CGL 2024 Pre 
+ 
+[A] 
+39  
+[B]27.6 
+ 
+[C] 
+23  
+[D]34.5 
+75. In a ABC, D, E and F are the mid-points of side BC, CA and AB respectively. If BC = 25.6 cm, 
+CA = 18.8 cm and AB = 20.4 cm, what is the perimeter (in cm) of the DEF? 
+ABC esa] D, E vkSj F Øe'k% BC, CA vkSj AB ds e/; fcUnw gSaA ;fn BC = 25.6 cm, CA = 18.8 cm vkSj  
+AB = 20.4 cm gS] rks DEF dk ifjeki ¼lseh- esa½ Kkr djsaA 
+(a)36.8 
+  
+(b)30.6  
+ 
+(c)32.4  
+ 
+(d)34.4 
+76. Let A,B,C be the mid-points of sides XY,YZ and XZ, respectively of ΔXYZ. If the area of ΔXYZ 
+is 8464 "cm2", then find the area (in "cm2") of ΔABC. 
+मान लीबजए A,B,C क्रमशः ΔXYZ की भुजाओं XY,YZ और XZ के मध्य-ब ंदु हैं। यबद ΔXYZ का क्षेत्रफल 8464 "सेमी2" 
+है, तो ΔABC का क्षेत्रफल ("सेमी2" में) ज्ञात करें। 
+1. 2116 
+2. 1812 
+3. 1516 
+4. 3112 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+77. ABC is a triangle with sides AB = 41 cm, BC = 28 cm and CA = 15 cm. If D, E and F are the 
+midpoints of AB, BC and CA respectively, then what is the area of the triangle DEF? 
+ABC एक त्रिभुज है जजसकी भुजाएँ AB = 41 सेमी, BC = 28 सेमी और CA = 15 सेमी हैं। यदि D, E और F क्रमशः 
+AB, BC और CA के मययत्रबंिु हैं, तो त्रिभुज DEF का क्षेिफि क्या है?  
+(CDS 2023) 
+A) 63 squarecm 
+B) 45 squarecm  
+C) 31.5 squarecm 
+D) 22.5 squarecm 
+78. On a plane area there are two vertical towers separated by 100 feet apart. The shorter tower 
+is 40 feet tall. A pole of length 6 feet stands on the line joining the base of two towers so that 
+the tip of the towers and tip of the pole are also on the same line. If the distance of the pole 
+from the shorter tower is 75 feet, then what is the height of the taller tower (approximately)? 
+एक सतह क्षेत्र में दो ऊर्ध्ाषधर टॉवर 100 फीट की दूरी पर है। छोटा टॉवर 40 फीट लंिा है। 6 फीट लंिाई का एक खंभा 
+िोिों टावरों के आधार को वमलाने वाली लाइन पर खडा  है तावक टावरों की नोक और पोल की नोक भी एक ही लाइन 
+पर हो। यवद छोटे टॉवर से िम्बे की दूरी 75 फीट है, तो लम्बे टॉवर की ऊँचाई (लगभग) वकतनी है? 
+(a) 85 feet 
+ 
+(b) 110 feet 
+ 
+(c) 125 feet 
+ 
+(d) 140 feet 
+79. Suhas, a 3.15 m tall tree, and an 11.25 m tall building are positioned such that their feet on 
+the ground are collinear and the tree is located between Suhas and the building. The tree is 
+locted at a distance of 45 m from the building. Further, the eyes of Suhas, the top of the 
+tree, and the top of the building fall in one line, and the eyes of Suhas are at a height of 1.8 
+m from the ground. At what distance (in m) from Suhas is the tree located? 
+सुहास, एक 3.15 मीटर िंबा पेड़ और एक 11.25 मीटर ऊंची इमारत इस तरह जथित हैं कक जमीि पर उिके पैर 
+एकरेिीय हैं और पेड़ सुहास और इमारत के बीच जथित है। पेड़ इमारत से 45 मीटर की िूरी पर जथित है। इसके अिावा, 
+सुहास की आंिें, पेड़ की चोटी और इमारत की चोटी एक पंजक्त में पड़ती हैं, और सुहास की आंिें जमीि से 1.8 मीटर 
+की ऊंचाई पर हैं। पेड़ सुहास से ककतिी िूरी (मीटर में) पर जथित है? 
+A) 6 
+B) 5 
+C) 7.5 
+D) 8 
+  BY:-GAGAN PRATAP  
+ 

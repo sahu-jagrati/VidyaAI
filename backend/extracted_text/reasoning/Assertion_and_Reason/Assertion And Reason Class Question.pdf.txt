@@ -1,0 +1,508 @@
+1. A: We feel comfortable in hot and humid climate.
+R: Sweat evaporates faster in humid climate.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R
+R, A
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A
+R 
+R, A
+(c) A is true but R is false./A 
+R
+(d) A is false but R is true./A 
+R
+(e) Both A & R are false./A 
+R 
+2. A: Shimla is colder than Delhi.
+R: Shimla is at a higher altitude as compared to Delhi.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R
+R, A
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A
+R 
+R, A
+(c) A is true but R is false./A 
+R
+(d) A is false but R is true./A 
+R
+(e) Both A & R are false./A 
+R 
+3. A: Leakages in household gas cylinders can be
+detected.
+R: LPG has a strong smell.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A
+R 
+R, A
+(c) A is true but R is false./A 
+R
+(d) A is false but R is true./A 
+R
+(e) Both A & R are false./A 
+R 
+4. A: Plaster of Paris is used by doctors for setting
+fractured bones.
+R: When Plaster of Paris is mixed with water & applied
+around the fractured limbs, it sets into a hard mass.
+(a) Both A & R are true & R is the correct expla-
+nation of A.
+A 
+R 
+R, A
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A
+R 
+R, A
+(c) A is true but R is false./A 
+R
+(d) A is false but R is true./A 
+R
+(e) Both A & R are false./A 
+R 
+5. A: We prefer to wear white clothes in winter.
+R: White clothes are good reflectors of heat.
+(a) Both A & R are true & R is the correct expla-
+nation of A.
+A 
+R 
+R, A
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+6. A: Baking soda creates acidity in the stomach.
+R: Baking soda is alkaline.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+7. A: When common salt is kept open, it absorbs mois-
+ture from the air.
+R: Common salt contains magnesium chloride.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+8. A: When a body is dipped in liquid fully or partially,
+there is a decrease in its weight.
+R: The decrease in weight is due to the higher den-
+sity of the displaced liquid.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+9. A: Safety fuses are made of elements with high
+melting points.
+R: Safety protects against damage caused by exce-
+ssive electric current.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+10.A: The water of the open pond remains cool even on
+a hot summer day.
+R: When heated, water vaporizes and the heat energy
+is converted into latent heat.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+11.A: Carbon can form more compounds than other
+elements.
+R: Carbon can exist in different forms.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+12.A: In the year 1928, a protest against the Simon
+Commission was organized in Lahore under the
+leadership of Lala Lajpat Rai.
+R: Not a single Indian member was included in the
+Simon Commission.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+13.A: Humus is found in abundance in the soils of the
+Himalayas.
+R: Most of the area in the Himalayas is forested.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+14.A: A gas can easily be compressed by applying pressure.
+R: Since the inter-particle spaces between gases are
+very large, they can decrease by applying pressure.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+15.A: It is easier to cook food at sea level as compared
+to higher altitudes.
+R: The boiling point of water increases at high alti-
+tudes.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+16.A: When a solid melts, its temperature remains the
+same.
+R: The heat gets used up in changing the state by
+overcoming the forces of attraction between the
+particles.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+17.A: The boiling point of water is 100 C.
+C
+R: The boiling point of water increases at higher
+altitudes.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+18.A: The conversion of a solid directly into a gas is
+known as sublimation.
+R: Naphthelene does not leave residue when kept
+open for sometime.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+19.A: Steam is better the boiling water for heating pur-
+poses.
+R: Steam contains more heat in the form of latent
+heat than boiling water.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+20.A: Sugar and Salt both are easily dissolved in water.
+R: Sugar and Salt are solid hence it is easily dis-
+solved in water.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+21.A: Ice is float on water.
+R: Density of ice is lesser than water.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+22.A: The matter around us exists in three different
+states solid, liquid, gas
+R: These states arise due to the variation in charac-
+teristics of the particle of matter.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+23.A: Solid carbon dioxide is known as dry ice.
+R: Solid carbon dioxide gets converted directly to
+gases state on decrease of pressure to 1 atmo-
+sphere without coming into liquid state.
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(c) A is true but R is false./A 
+R 
+(d) A is false but R is true./A 
+R 
+(e) Both A & R are false./A 
+ R 
+24.A: Urban India is sicker than rural India in spite
+of better healthcare facilities.
+R: Urban life is facing the problems of increasing
+pollution levels, unhygienic garbage dumping,
+and a fast-food culture.
+UPSI, 20 Nov 2021 (Shift-2)
+(a) Both A & R are true but R is not the correct expla-
+nation of A.
+A 
+R 
+R, A 
+(b) A is true but R is false./A 
+R 
+(c) A is false but R is true./A 
+R 
+(d) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A
+25.A: The sale of mobile phones has increased mani-
+fold in recent times.
+R: The craze for e-commerce drives mobile sales.
+UPSI, 20 Nov 2021 (Shift-2)
+(a) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+(b) A is true but R is false./A 
+R 
+(c) A is false but R is true./A 
+R 
+(d) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+26.A: Nowadays, more people opt for fast food.
+R: Fast food is always inexpensive.
+NTPC CBT-2, 2021
+(a) Both A & R are true but R is not the correct
+explanation of A.
+A 
+R 
+R, A 
+(b) A is false but R is true./A 
+R 
+(c) A is true but R is false./A 
+R 
+(d) Both A & R are true & R is the correct explana-
+tion of A.
+A 
+R 
+R, A 
+24 
+(d)
+25 
+(b)
+26 
+(c) 
+Answer Key

@@ -1,0 +1,717 @@
+Piyush Varshney Sir (Reasoning Expert)
+Directions (1-28): Each of the following questions is based
+on the following alphabet series:
+(1-28): 
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+1.
+Which letter is exactly midway between G and Q in
+the given alphabet?
+G 
+Q 
+(a) K
+(b) L
+(c) M
+(d) N
+2.
+Which letter is midway between the eighteenth let-
+ter from the left end and tenth letter from the right
+end of the given alphabet?
+(a) No letter/
+(b) K
+(c) Q
+(d) R
+(e) None of these
+3.
+Which letter in the alphabet is as far from G as T is
+from M?
+G 
+T,
+M 
+(a) M
+(b) N
+(c) O
+(d) P
+4.
+Which letter is sixteenth to the right of the letter
+which is fourth to the left of I?
+I 
+Practice Sheet
+Geometry
+(a) S
+(b) T
+(c) U
+(d) V
+(e) Y
+5.
+Which letter will be eighth to the right of the third
+letter of the second half of the English alphabet?
+(a) V
+(b) W
+(c) X
+(d) Y
+6.
+If the above alphabet are divided into two equal
+halves – from A to M and N to Z, which letter in the
+later half would be corresponding to the letter J?
+A
+M 
+N 
+Z, 
+J 
+(a) Q
+(b) V
+(c) X
+(d) W
+(e) None of these/
+7.
+Which letter will be sixth to the left of the nineteenth
+letter from the right end of the alphabet?
+(a) M
+(b) N
+(c) X
+(d) Y
+(e) None of these/
+8.
+Which of the following is the twelth letter to the left
+of the seventeenth letter from the left end?
+Mathematics
+ALPHABETICAL
+SERIES
+(CLASS QUESTIONS)
+Piyush Varshney Sir (Reasoning Expert)
+(a) E
+(b) F
+(c) G
+(d) T
+(e) None of these
+9.
+Which letter is seventh to the right of the eighteenth
+letter from the right end of the alphabet?
+(a) K
+(b) O
+(c) P
+(d) R
+(e) None of these/
+10. Which letter is seventh to the right of the thirteenth
+letter from the left end?
+(a) S
+(b) T
+(c) U
+(d) V
+(e) None of these/
+11. If the order of the English alphabet is reversed, then
+which letter would be exactly in the middle?
+(a) L
+(b) M
+(c) N
+(d) None of these/
+12. If the above alphabet is written in the reverse order,
+which will be the eighth letter to the right of O?
+O 
+(a) F
+(b) G
+(c) V
+(d) W
+(e) None of these/
+13. If the above alphabet is written in the reverse order,
+which will be the fifth letter to the left of the ninth
+letter from the right?
+(a) P
+(b) N
+(c) D
+(d) W
+(e) M
+14. If the above alphabet is written in the reverse order,
+what will be the fourth letter to the right of the thir-
+teenth letter from the left?
+(a) J
+(b) K
+(c) L
+(d) M
+15. If only the first half of the given alphabet is reversed,
+how many letters will be there between K and R?
+K 
+R 
+(a) 6
+(b) 10
+(c) 14
+(d) 16
+(e) None of these/
+16. Which letter should be ninth letter to the left of ninth
+letter from the right, if the first half of the given al-
+phabet is reversed?
+(a) D
+(b) E
+(c) F
+(d) I
+(e) None of these/
+17. If the second half of the given alphabet is written in
+the reverse order, which letter will be seventh to the
+right of the twelth letter from the left end?
+Piyush Varshney Sir (Reasoning Expert)
+(a) R
+(b) S
+(c) U
+(d) V
+(e) None of these/
+18. If the last ten letters of the alphabet are written in the
+reverse order, which of the following will be the sixth
+to the right of the thirteenth letter from the left end?
+(a) U
+(b) V
+(c) W
+(d) X
+19. If every alternate letter starting from B is deleted from
+the given alphabet, which of the following will be the
+tenth letter from the right end?
+B 
+(a) G
+(b) D
+(c) Q
+(d) H
+(e) None of these/
+20. If the alphabet is written in the reverse order and
+every alternate letter starting with Y is dropped,
+which letter will be exactly in the middle of the re-
+maining letters of the alphabet?
+Y 
+(a) M
+(b) N
+(c) O
+(d) M or O
+(e) None of these/
+21. In the given alphabet, starting from the fifth letter
+from the left, if twelve letters are written in reverse
+order, then which letter will be the seventh to the
+left of the fourteenth letter from the right?
+(a) H
+(b) L
+(c) M
+(d) N
+(e) None of these/
+22. Suppose the first and the second letters of the English
+alphabet changed places, also the third and the fourth,
+the fifth and the sixth, and so on. In the new alphabet,
+thus formed which letter would be the 14th?
+(a) H
+(b) K
+(c) L
+(d) M
+23. If A interchanges position with B, similarly C and D
+interchange positions and so as E and F and so on
+upto Y and Z, then which of the following will be sev-
+enth from the left?
+(a) A
+(b) F
+(c) I
+(d) None of these/
+24. If in the English alphabet every fourth letter is re-
+placed by the symbol (*), which of the following
+would be seventh to the left of the fourteenth ele-
+ment from the left?
+(*) 
+Piyush Varshney Sir (Reasoning Expert)
+(a) G
+(b) H
+(c) T
+(d) *
+(e) None of these/
+25. If 1st and 26th, 2nd and 25th, 3rd and 24th, and so
+on, letters of the English alphabet are paired, then
+which of the following pairs is correct?
+(a) GR
+(b) CW
+(c) IP
+(d) MP
+(e) EV
+26. If every alternate letter of English alphabet from B
+onwards (including B) is written in lower case (small
+letters) and the remaining letters are capitalized, then
+how will the first month of the second half of the
+year be written?
+B 
+(a) July
+(b) AuGuSt
+(c) jUlY
+(d) AugUSt
+27. If every alternate letter starting from B of the given
+alphabet is written in small letters, rest all are writ-
+ten in capital letters, how will the month of 'Septem-
+ber' be written?
+B 
+(a) SEpteMbeR
+(b) SEptembER
+(c) sePTemBeR
+(d) SEptEMbEr
+(e) None of these/
+28. If the alternate letters in the given alphabet starting
+from A are written in small and rest all in capital let-
+ters, which of the following will represent the third
+month after July?
+A 
+(a) OCTOBER
+(b) OCtObEr
+(c) oCtObEr
+(d) ocToBeR
+29. In the following alphabets, which letter is eighth to
+the right of the fourteenth letter from the right end?
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
+Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
+(a) H
+(b) R
+(c) S
+(d) T
+30. A B C D E F G H
+Which letter is second to the left of the letter imme-
+diately to the left of the letter which is fourth to the
+right of the letter immediately to the left of the let-
+ter which is second to the left of the letter D?
+A B C D E F G H
+D 
+(a) A
+(b) B
+(c) C
+(d) D
+31. K L M N O P Q R
+Which letter is fourth to the right of the letter imme-
+diately to the left of the letter immediately to the
+left of the letter which is third to the right of the let-
+ter immediately to the left of the letter L?
+K L M N O P Q R
+Piyush Varshney Sir (Reasoning Expert)
+L 
+(a) O
+(b) P
+(c) Q
+(d) R
+32. Which letter will be sixth to the right of the third let-
+ter from the left of the letter which is exactly in the
+middle of the letters in the series given below?
+A B C D E Z Y X W V Q R S T U F G H I J K L M N O P A
+A B C D E Z Y X W V Q R S T U F G H I J K L M N O P A
+(a) F
+(b) G
+(c) Q
+(d) R
+(e) None of these/
+Directions (33-35): If letters from A to M were written,
+leaving space for one letter between every two letters,
+and then the remaining letters were inserted, beginning
+with N and ending the series with Z after M, answer the
+following questions :
+(33-35): 
+A 
+M 
+N 
+M 
+Z 
+33. Which letter would be third to the right of the sev-
+enth letter from the left?
+(a) C
+(b) O
+(c) R
+(d) S
+34. Which letter would be exactly between D and K?
+D 
+K 
+(a) S
+(b) T
+(c) V
+(d) W
+35. Which letter would be exactly in the middle of the
+eighteenth letter from the beginning and fifteenth
+from the end?
+(a) G
+(b) H
+(c) J
+(d) L
+Directions (36-38): If all the letters from A to Z were writ-
+ten as A_C_E_G_ upto Y, i.e., dropping each alternate let-
+ter, leaving blank spaces and then all the blanks were filled
+in with remaining letters in reverse order, i.e., AZCXEV
+....ending with B, answer the following questions :
+(36-38): 
+A 
+Z 
+A_C_E_G_Y 
+AZCXEV....B 
+36. Which letter is to the right of sixteenth letter from
+the left corner?
+(a) M
+(b) N
+(c) Q
+(d) R
+37. Which letters are exactly in the middle of the nine-
+teenth letter from the left and fourteenth letter from
+the right end?
+(a) O
+(b) N
+(c) L
+(d) P
+38. Which letter would be placed between Q and S?
+Q 
+S 
+(a) H
+(b) J
+(c) L
+(d) R
+Piyush Varshney Sir (Reasoning Expert)
+Directions (39-44): These questions are based on the fol-
+lowing arrangement of symbols, letters and numbers:
+9 B Q = $ 2 5 R J L 3 @ Y M E 6 8 * ÷ D F 4 βH 7 ©
+(39-44): 
+9 B Q = $ 2 5 R J L 3 @ Y M E 6 8 * ÷ D F 4 βH 7 ©
+39. How many such numbers are there in the arrange-
+ment each of which is immediately preceded by a
+symbol, but not immediately followed by a letter?
+(a) Nil/
+(b) One/
+(c) Two/
+(d) Three/
+(e) None of these/
+40. Four of the following five are alike in a certain way
+based on the positions of the elements in the above
+arrangement and hence form a group. Which one
+does not belong to the group?
+(a) * ÷ 8 D 6
+(b) Y M @ E 3
+(c) @ Y 3 M L
+(d) βH 4 7 D
+(e) B Q 9 = 
+41. How many such symbols are there in the above arrange-
+ment each of which is either immediately followed by a
+number or immediately preceded by a letter?
+(a) One/
+(b) Two/
+(c) Three/
+(d) Four/
+(e) More than four/
+42. Total number of pairs of adjacent symbol and letter
+(X), total number of pairs of adjacent letter and num-
+ber (Y) and total of pairs of adjacent number and sym-
+bol (Z) in the above arrangement are written in the
+descending order. Which of the following will indi-
+cate the same?
+(X)
+(Y)
+(Z)
+(a) X,Y,Z
+(b) X,Z,Y
+(c) Y,X,Z
+(d) All the  three are equal in number
+(e) None of these/
+43. How many such letters are there in the arrangement
+each of which is immediately followed by a number
+but not immediately preceded by a symbol?
+(a) Nil/
+(b) One/
+(c) Two/
+(d) Three/
+(e) Four/
+44. In the above arrangement, 2 R J L : B = $ 5 and Y E 6 *
+:  3 @ M in the same way as ? : 8 ÷ D 4
+2 R J L : B = $ 5 
+ Y E 6 * :  3 @ M,
+? : 8 ÷ D 4
+(a) D 4 β ©
+(b) F β H ©
+(c) D 4 β 7
+(d) ÷ F 4 H
+(e) None of these/
+Directions (45-49): Study the following arrangement care-
+fully and answer the questions given below:
+W 1 R % 4 J E # 7 M T 2 I 9 B H 3 A $ 9 F Q 5 D G 6 U S P
+Piyush Varshney Sir (Reasoning Expert)
+(45-49): 
+W 1 R % 4 J E # 7 M T 2 I 9 B H 3 A $ 9 F Q 5 D G 6 U S P
+45. Which of the following is the seventh to the right of
+the eighteenth from the right end?
+(a) A
+(b) E
+(c) $
+(d) #
+(e) None of these/
+46. If the order of the last fifteen elements is reversed,
+which of the following will be fifth to the right of
+twelfth from the left end?
+(a) U
+(b) $
+(c) 3
+(d) 6
+(e) None of these/
+47. Four of the following five are alike in a certain way
+on the basis of above arrangement and hence form a
+group. Which one does not belong to that group?
+(a) R W 4
+(b) 5 F G
+(c) 9 Q A
+(d) 3 B $
+(e) 7 E T
+48. If the positions of E and A are interchanged and simi-
+larly the positions of R and U are interchanged then
+how many symbols will be there each of which is ei-
+ther preceded or followed by a vowel?
+E 
+A 
+R 
+U 
+(a) None/
+(b) One/
+(c) Two/
+(d) Three/
+(e) Four/
+49. What should come in place of question mark on the
+basis of the above arrangement?
+R 4 #
+M 2 B
+3 $ Q
+?
+R 4 #
+M 2 B
+3 $ Q
+?
+(a) 5 G U
+(b) D 6 S
+(c) 5 G S
+(d) D 6 P
+(e) None of these/
+Directions (50-54): Study the following letter-number se-
+quence to answer these questions:
+E & G B D M 4 N K H 2 A C Z S V 3 F 1 J L O Q 5 P R
+(50-54): 
+E & G B D M 4 N K H 2 A C Z S V 3 F 1 J L O Q 5 P R
+50. If it is possible to make a meaningful word with the
+first, the twelfth, the fifteenth and the twenty-first
+letters, then which of the following will be the first
+letter of that word ? If no such word can be made,
+give X as your answer and if more than one such
+words can be made, give M as your answer.
+X 
+M 
+(a) E
+(b) T
+(c) X
+(d) M
+Piyush Varshney Sir (Reasoning Expert)
+51. What will come in place of question mark in the fol-
+lowing sequence?
+G D R
+B M P
+D 4 5
+?
+G D R
+B M P
+D 4 5
+?
+(a) M N Q
+(b) 4 N Q
+(c) M K O
+(d) M 4 Q
+52. If the letters/numbers only from M to L are written in
+the reverse order and other letters/number are kept
+unaltered, then which letter will be the third to the
+right of 17th letter/ number from the right?
+M 
+L 
+(a) A
+(b) C
+(c) S
+(d) Z
+53. If every third letter/number starting from the right
+replaces successive days of the week starting from
+Monday, then which letter will replace Thursday?
+(a) A
+(b) F
+(c) S
+(d) Z
+54. If every alternate letter/number is dropped starting from
+E onwards, then which letter/number will be the sec-
+ond to the left of the tenth letter/number from the left?
+E
+(a) A
+(b) B
+(c) Q
+(d) V
+Directions (55-59): Answer these questions referring to the
+symbol-letter-number sequence given below:
+2 P J @ 8 $ L B 1 V # Q 6  G W 9 K C D 3 © •5 F R 7 A Y 4
+(55-59): 
+2 P J @ 8 $ L B 1 V # Q 6  G W 9 K C D 3 © • 5 F R 7 A Y 4
+55. How many symbols and numbers are there in the se-
+quence which are either immediately preceded or im-
+mediately followed by the letter which is from the
+first half of the english alphabet?
+(a) 6
+(b) 7
+(c) 8
+(d) 9
+(e) None of these/
+56. Four of the following five are similar in relation to
+their positions in the above sequence and hence form
+a group. Which one does not belong to that group?
+(a) Q K 5
+(b) L 6 D
+(c) P L δ
+(d) 1 G ©
+(e) K  4
+57. Each symbol exchanges its position with its immedi-
+ate right symbol/letter/number. Now, how many let-
+ters are there in the sequence which are immediately
+followed by a number and immediately preceded  by
+a symbol?
+(a) Nil/
+(b) One/
+(c) Two/
+(d) Three/
+(e) None of these/
+Piyush Varshney Sir (Reasoning Expert)
+58. P @ L is to Y75 in the same way as $ 1 # to
+P @ L, Y75 
+$ 1 #
+(a) R  ©
+(b) F  3
+(c) 5  ©
+(d) 5 • D
+(e) None of these/
+59. Which of the following indicates the total number of
+symbols, letters and numbers respectively, which get
+eliminated from the sequence when every second el-
+ement of the sequence from your left is dropped from
+the sequence?
+(a) 5, 8, 2
+(b) 6, 9, 1
+(c) 5, 8, 1
+(d) 5, 9, 1
+(e) None of these/
+60. Study the following information carefully and answer
+the questions given below.
+WRY COB MUG GYM ARE ROE
+If all the words are arranged in dictionary order from
+left to right, then how many words remain unchanged
+in their position?
+(a) One/
+(b) Two/
+(c) Three/
+(d) Four/
+(e) None of these/
+1 
+(b)
+2 
+(a)
+3 
+(b)
+4 
+(c) 
+5
+(c) 
+6
+(d)
+7
+(e) 
+8
+(a) 
+9
+(c) 
+10
+(b)
+11. 
+(d)
+12. 
+(b) 
+13 
+(b)
+14 
+(a) 
+15
+(c) 
+16
+(b) 
+17
+(c) 
+18
+(d) 
+19
+(a)
+20 
+(b)
+21. 
+(e) 
+22 
+(d)
+23 
+(d)
+24 
+(a) 
+25
+(e) 
+26
+(c) 
+27
+(d)
+28
+(d) 
+29
+(d)
+30 
+(b)
+31 
+(b)
+32 
+(b) 
+33 
+(c) 
+34 
+(b)
+35
+(b) 
+36
+(c) 
+37
+(c) 
+38
+(b) 
+39
+(b)
+40 
+(d)
+41 
+(d)
+42 
+(d)
+43 
+(c) 
+44 
+(b)
+45
+(c) 
+46
+(a) 
+47
+(c) 
+48
+(d) 
+49
+(d)
+50 
+(d)
+51 
+(a) 
+52 
+(d)
+53 
+(c) 
+54 
+(d)
+55
+(c) 
+56
+(c) 
+57
+(c) 
+58
+(e) 
+59
+(d)
+60 
+(a)
+Answer Key 

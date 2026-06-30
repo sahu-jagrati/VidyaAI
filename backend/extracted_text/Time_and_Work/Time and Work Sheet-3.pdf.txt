@@ -1,0 +1,2009 @@
+ 
+BY:-GAGAN PRATAP 
+ 
+1. A started a work and left working after 9 days. Now B finished the remaining work in 24 
+days. Had A left the work after working for 13 days then B would have finished the remain-
+ing work in next 18 days. Then, find in how many days A and B together can complete the 
+work. 
+ A ने एक कार्य शुरू ककर्ा और 9 दिनों के बाि काम करना छोड़ दिर्ा अब B ने शेष कार्य को 24 दिनों में पूरा कर 
+लिर्ा। अगर A ने 13 दिन काम करने के बाि काम छोड़ा होता तो B ने अगिे 18 दिनों में शेष काम पूरा कर लिर्ा 
+होता। ज्ञात कक A और B एक साथ ककतने दिनों में काम पूरा कर सकते हैं? 
+a) 12 days  
+ 
+b) 15 days 
+ 
+c) 16 days 
+ 
+d) 18 days 
+2. A and B together can do a certain work in x days. Working  alone, A and B can do the same 
+work in (x+8) and (x+18) days, respectively. A and B together will complete 
+𝟓
+𝟔 of the same 
+work in: 
+A vkSj B ,d lkFk feydj ,d dke dks x fnuksa esa iwjk dj ldrs gSA  A vkSj B vyx&vyx dke djus ij mlh dke dks dze”k% (x+8) vkSj 
+(x+18) fnuksa esa iwjk dj ldrs gSA A vkSj B  ,d lkFk feydj mlh dk;Z ds 
+𝟓
+𝟔 Hkkx dks fdrus fnuksa esa iwjk dj nsaxs\ 
+(a) 9  
+(b) 8        (c) 10 
+(d) 12 
+3. Krisha alone takes 4 hours more to complete a job than if both Krisha and Krupa work 
+together. If Krupa works alone, she takes 9 hours more to complete the job than if 
+Krisha and Krupa worked together. What time would they take to complete the job if 
+both Krisha and Krupa worked together? 
+र्दि कृषा और कृपा िोनों एक साथ काम करते हैं तो कृषा अकेिे एक कार्य को पूरा करने में 4 घंटे अधिक िेती है। 
+र्दि कृपा अकेिे काम करती है, तो उसे काम पूरा करने में कृषा और कृपा को एक साथ काम करने की तुिना में 9 
+घंटे अधिक िगते हैं। र्दि कृष और कृपा िोनों एक साथ काम करते हैं तो उन्हें काम पूरा करने में ककतना समर् 
+िगेगा? (DP CONSTABLE 2023) 
+A) 
+8 ours 
+B) 
+6 hours 
+C) 
+7 ours 
+D) 
+9 hours 
+4.  A can complete a work in 10
+𝟏
+𝟖 more days than A and B working together, while B take 12.5 
+days more to complete a work alone than A and B working together. How much time B 
+alone can do it? 
+ A और B के एक साथ काम करने की तुिना में A,10
+𝟏
+𝟖 अधिक दिन में एक काम पूरा कर सकता है, जबकक A और B 
+के एक साथ काम करने की तुिना में अकेिे काम पूरा करने में B को 12.5 दिन और िगते हैं। B अकेिे ककतना 
+समर् में काम पूरा कर सकता है? 
+a) 22
+𝟏
+𝟒 days 
+b) 23
+𝟑
+𝟒 days 
+ 
+c) 24
+𝟏
+𝟐 days 
+d) 21
+𝟏
+𝟖 days   
+5. A alone would take 32 hours more to complete a work than A and B together. B takes 18 
+hours more to complete a work alone than A and B work together. In 9hours how much % 
+work A and B can complete working together? 
+A को अकेिे एक काम करने में A और B द्वारा एक साथ लमिकर काम करने की तुिना में 32 घंटे अधिक िगते 
+है। A और B के एक साथ काम करने की तुिना में B को अकेिे काम पूरा करने में 18 घंटे अधिक िगते हैं 9 घंटे में 
+A और B एक साथ लमिकर ककतने % काम कर सकते हैं? 
+a)40% 
+         b)37.5% 
+ 
+c)36.36%          d)42.5% 
+ 
+ 
+ 
+BY:-GAGAN PRATAP 
+6. X takes 32 days more than Y and 50 days more than Z to complete a work. X and Y together 
+can complete the same work in the same time as Z alone can do it. So find in how many 
+days will X alone complete that work? 
+X ककसी कार्य को करने मे Y से 32 दिन अधिक तथा Z से 50 दिन अधिक िेता है। X तथा Y लमिकर उसी कार्य 
+को उतने ही समर् मे पूरा करते है जीतने समर् मे Z अकेिा करता है। तो ज्ञात करे X अकेिा उस कार्य को ककतने 
+दिनों मे पूरा करेगा? 
+[A] 75 
+ 
+[B] 80 
+[C] 82 
+ 
+[D] 64 
+7. Varun and Gaurav can dig a pond in 10 days and 18 days, respectively. After finishing that work together, they 
+receive an amount of Rs. 7,280. What is the share of Gaurav in that amount? 
+o#.k vkSj xkSjo ,d rkykc dks Øe'k% 10 vkSj 18 fnu esa [kksnrs gSaA ,d lkFk feydj og dke iwjk djus ds ckn mUgsa dqy 7]280 #- izkIr gq,A 
+bl jkf'k esa xkSjo dk fgLlk fdruk gS\  
+(SSC CGL PRE 2020) 
+(a) Rs. 2,600 
+(b) Rs. 2,500 
+(c) Rs. 2,700 
+(d) Rs. 2,800   
+8. Sachin alone can complete a piece of work for ` 6800Rs. in 8
+𝟏
+𝟐days what with the help of Vishnu, the work is 
+complete in 6 days . What is vishnu's share ? 
+vdsys lfpu] `68]00 रुपए ds fy, fdlh dk;Z dks 8
+𝟏
+𝟐fnu esa iwjk dj ldrk gSA ysfdu fo".kq dh enn ls] dk;Z 6 fnu esa iwjk gks tkrk gSA fo".kq 
+dks Hkqxrku fd;k tkus okyk fgLlk Kkr djsaA 
+(a) `3,200 
+(b) `2,500 
+(c) `2,400 
+(d) `2,000 
+9. If A had worked alone, he would have taken 63 hours to do the task. What is B's share, if 
+A and B together on a task finishing it in 36 hours and they get paid Rs. 5,950 for it? 
+र्दि A ने अकेिे काम ककर्ा होता तो वह काम करने के लिए 63 घंटे िेता है। B का दहस्सा क्र्ा होगा, अगर A 
+और B एक साथ काम करके उसे 36 घंटे में समाप्त करते है और इसके लिए 5,950 रुपए का भुगतान ककर्ा जाता 
+है?  (SSC CPO 2023) 
+(a) 3400  
+ 
+(b) 3600 
+ 
+(c) 2550  
+ 
+(d) 2750 
+ 
+10.  A, B and C can do a work in 8, 10 and 12 days, respectively. After completing the work together, 
+they received `5,550. What is the share of B (in `) in the amount received? 
+A, B vkSj C ,d dke dks Øe'k% 8, 10 vkSj 12 fnuksa esa dj ldrs gSaA ,d lkFk feydj dke iwjk djus ds ckn] mUgsa `5,550 çkIr gq,A çkfIr 
+jkf'k esa B dk fgLlk (` esa) fdruk gS\ 
+(a) 1,500 
+(b) 1,850 
+(c) 1,800 
+(d)1,696 
+11. A, B and C working separately can do a piece of work in 5, 8 and 6 days, respectively. If they all work together 
+and earn ₹22,774 for the whole work, then find the difference between the shares of B and C. 
+A, B और C अिग-अिग तौर पर कार्य करते हुए ककसी कार्य को क्रमशः 5, 8 और 6 दिनों में पूरा कर सकते हैं। र्दि 
+वे सभी एक साथ कार्य करते हैं और पूरे कार्य के लिए ₹22,774 अर्जयत करते हैं, तो B और C के दहस्से के बीच अंतर 
+ज्ञात कीर्जए।(SSC GD 2025) 
+ 
+BY:-GAGAN PRATAP 
+ 
+1. ₹1,930 
+ 
+ 
+ 
+ 
+2. ₹1,560 
+3. ₹1,840 
+ 
+ 
+ 
+ 
+4. ₹2,010 
+12. A and B undertake to do a piece of work for ₹18,750. A can do it in 20 days and B can do it in 30 days  
+. With the help of C, they finished it in 8 days. How much should C be paid for his work in proportion? 
+A और B ₹ 18,750 में एक काम करने का अनुबंध करते हैं। A इसे 20 दिन ं में कर सकता है और B इसे 30 दिन ं में कर 
+सकता है। C की सहायता से उन् ंने इसे 8 दिन ं में समाप्त कर दिया। C क  उसके काम के अनुपात में दकतना भुगतान 
+दकया जाना चादहए? 
+Level 6 (09/05/2022) Shift 2 
+(a) ₹7,500 
+(b) ₹5,000 
+(c) ₹6,500 
+(d) ₹6,250 
+13. 
+A alone can do a piece of work in 42 days and B alone can do it in 56 days. A and B 
+undertook to do the work in for Rs.27000. With the help of C, they completed the work in 
+21 days. How much amount is to be paid to C? 
+A अकेिे ककसी काम को 42 दिनों में कर सकता है और B अकेिे उसे 56 दिनों में कर सकता है। A और B ने 
+27000 रुपर्े में काम करने का बीड़ा उठार्ा। C की सहार्ता से, उन्होंने कार्य को 21 दिनों में पूरा ककर्ा। C को 
+ककतनी रालश का भुगतान ककर्ा जाना है? 
+DSSSB HEAD CLERK 2022 
+A) 
+3375 
+B) 
+5375 
+C) 
+4735 
+D) 
+6735 
+14. A and B undertake a contract of a task for Rs.10,800. A and B can complete the task in45 days and 60 days, 
+respectively. However, to finish the work early, they take C’s helpand complete the entire work in 20 days. What 
+is the value (in Rs.) of (a – b + 2c),where a, b and c are the shares of A, B and C, respectively, for their contri-
+bution tocomplete the task? 
+A vkSj B ,d dk;Z dk vuqca/k ¼dkUVªSDV½ #- 10]800 esa djrs gSaA A vkSj B Øe'k% 45 fnuksa vkSj 60 fnuksa esa dk;Z dks iwjk dj ldrs gSaA gkykafd] 
+dke dks tYnh [kRe djus ds fy,] os C dh enn ysrs gSa vkSj iwjs dk;Z dks 20 fnuksa esa iwjk djrs gSaA (a–b+2c) dk eku ¼#- esa½ Kkr dhft,] 
+tgk¡ a, b vkSj c Øe'k% A, B vkSj C ds fgLls gSa] tks dk;Z dks iwjk djus esa muds ;ksxnku ds fy, çkIr /ku gSA 
+(a) 6000 
+(b)3000 
+(c) 8000 
+(d) 4000 
+15. A can complete a task in 24 days and B can complete the same task in 36 days. They start working together but 
+A works only for 4 days. The remaining work is completed by B. If the contract to complete the work is for 
+Rs.4,800, then what is B's share (in Rs.)? 
+A ,d dke dks 24 fnu esa iwjk dj ldrk gS vkSj B mlh dke dks 36 fnu esa iwjk dj ldrk gSA os ,d lkFk dke djuk 'kq: djrs gSa ysfdu A 
+dsoy 4 fnu ds fy, dke djrk gSA 'ks"k dke B }kjk iwjk fd;k tkrk gSA ;fn dke dks iwjk djus dk Bsdk #- 4]800 dk gS] rks B dk fgLlk 
+¼#- esa½ Kkr djsa\.    
+(a) 3,600 
+(b) 4,400 
+(c) 2,400 
+(d) 4,000 
+16. A can complete a task in 18 days and B can complete the same task in 32 days. They start working together but B 
+works only for 8 days. There after, the work is completed by A. If they received Rs.8,800 after completion of the 
+work, then what is A's share (in Rs.)? 
+A ककसी कार्य को 18 दिनों में पूरा कर सकता है और B उसी कार्य को 32 दिनों में पूरा कर सकता है। वे एक साथ 
+काम करना शुरू करते हैं िेककन B केवि 8 दिनों के लिए काम करता है। उसके बाि, कार्य A द्वारा पूरा ककर्ा जाता 
+है। र्दि कार्य पूरा होने के बाि उन्हें `8800 लमिते हैं, तो A का दहस्सा (रू में) क्र्ा है ?   (SSC CGL PRE 2022) 
+(a)5500 
+ 
+BY:-GAGAN PRATAP 
+(b)6600 
+(c)6400 
+(d)7200 
+17. A can do a certain work in 12 days and B can do it in 18 days. They worked together for 4 days. The remaining 
+work was completed by C alone in 6 days. If they get `3,240 for the whole work, then the share of C in this 
+amount will be: 
+A fdlh dk;Z dks 12 fnu esa dj ldrk gS vkSj B mlh dk;Z dks 18 fnu esa dj ldrk gSA os ,d lkFk 4 fnu rd dk;Z djrs gSaA vdsys C, 
+'ks"k dk;Z dks 6 fnu eas iwjk djrk gSA ;fn mUgsa iwjs dk;Z ds fy, `3,240 feyrs gSa] rks bl jkf'k eas C dk fgLlk Kkr djsaA 
+       (a) `1,080 
+(b) `1,440 
+ 
+      (c) `1,260 
+(d) `1,170 
+18. 
+Anil can paint a house in 60 days while Bimal can paint it in 84 days. Anil starts 
+painting and after 10 days, Bimal and Charu join him. Together, they complete the painting 
+in 14 more  days. If they are paid a total of Rs 21000 for the job, then the share of Charu, 
+in INR, proportion to the work done by him, is? 
+अनिल 60 दििों में एक घर को पेंट कर सकता है जबकक बबमल इसे 84 दििों में पेंट कर सकता है। अनिल पेंदटिंग करिा 
+शुरू करता है और 10 दििों के बाि, बबमल और चारू उसके साथ जुड़ जाते हैं। अब तीनो ममलकर पेंदटिंग को 14 और दििों में 
+पूरा करते हैं। यदि उन्हें कायय के मलए कुल 21000 रुपये का भुगताि ककया जाता है, तो चारु का दहस्सा, (INR में), उसके 
+द्वारा ककए गए कायय के अिुपात में क्या है ? (CAT 2021) 
+A) 
+9150 
+B) 
+9100 
+C) 
+9200 
+D) 
+9000 
+19. 
+A, B and C can do a piece of work in 32 days, 48days, and 29days, respectively. They 
+work together for 4 days, then A left the work. After this B and C worked for 8 days and 
+then B left the work and the remaining work was done by C. If they got Rs. 6840 for whole 
+work, then find the share of C ? 
+A, B और C क्रमश: 32 दिन ,48 दिन और 29 दिन मे एक काम कर सकते है | वे 4 दिन के लिर् एक साथ काम 
+करते है , किर A ने काम छोड़ दिर्ा | इसके बाि B और C ने 8 दिन काम ककर्ा और किर B ने काम छोड़ दिर्ा 
+और शेष काम C द्वारा पूरा ककर्ा गर्ा |पूरे काम के लिए 6840 रुपर्े दिर्ा गर्ा , किर C का दहस्सा ज्ञात कीर्जए 
+?  
+A) Rs. 4275        B) Rs. 5130        
+C) Rs. 4400     D) Rs. 3420 
+20. Samir and Puneet can complete the same work in 10 days and 15 days respectively. The work was assigned for 
+Rs. 4500. After working together for 3 days Samir and Puneet involved Ashok. The work was completed in total 
+5 days. What amount (in Rs.) was paid to Ashok? 
+lehj vkSj iquhr] ,d dk;Z dks Øe'k% 10 fnu vkSj 15 fnu eas iwjk dj ldrs gSaA bl dk;Z ds fy, 4]500 #- dh /kujkf'k vkoafVr dh xbZ FkhA 
+lehj vkSj iquhr us 3 fnu rd ,d lkFk feydj dk;Z djus ds ckn] v'kksd dks dk;Z esa 'kkfey dj fy;kA dk;Z] dqy 5 fnu eas iwjk gqvkA v'kksd 
+dks Hkqxrku dh xbZ jkf'k ¼:- eas½ Kkr djsaA 
+(a) 
+750 
+(b) 
+1500 
+(c) 
+1071 
+(d) 
+800 
+21. 
+P and Q completed a work together and were paid `1,080 and `1,440, respectively. 
+If P can do the entire work in 20 days, how many days did they take to complete the work 
+together? 
+P vkSj Q us ,d lkFk ,d dke iwjk fd;k vkSj mUgsa Øe'k% `1,080 vkSj `1,440 dk Hkqxrku fd;k x;kA ;fn P iwjs dk;Z dks 20 fnuksa eas dj 
+ldrk gS] rks mUgksaus ,d lkFk feydj dk;Z dks iwjk djus esa fdrus fnu dk le; fy;k\ 
+(a) 
+6
+𝟒
+𝟕 
+ 
+BY:-GAGAN PRATAP 
+(b) 
+6
+𝟑
+𝟕 
+(c) 
+8
+𝟑
+𝟕 
+(d) 
+8
+𝟒
+𝟕 
+22. 
+A and B under took a work for Rs. 880. A got Rs. 240 more than B When the 
+work together, B takes 12 days more than A, when they work individually. In how many 
+days A and B working together can do the whole work? 
+A और B ने रु 880 रु में एक काम लिर्ा, जब  वे एक साथ काम करते हैं, A को B से 240 रु अधिक लमिता है और 
+जब वे व्र्र्क्तगत रूप से काम करते हैं, तो काम पूरा करने में  B को A से 12 दिन अधिक िगते  है, A और B एक 
+साथ ककतने दिनों में काम पूरा कर सकते हैं? 
+a) 10
+𝟐
+𝟏𝟏 
+           
+b) 11
+𝟐
+𝟏𝟏 
+ 
+ c) 9
+𝟐
+𝟏𝟏 
+ 
+ 
+d) 12
+𝟐
+𝟏𝟏 
+23. 
+When Ashish finishes a certain work, he gets a total wage of Rs. 70. When Kanika 
+finishes the same work, he gets a total wage of Rs. 165. The daily wages of Ashish and 
+Kanika are Rs. 3.5 and Rs. 5.5 respectively. If both of them do it together, what is the cost 
+of the work? 
+tc vk'kh"k ,d fuf'pr dk;Z iwjk djrk gS] rks mls 70 #i, dk dqy osru feyrk gSA tc dfudk leku dk;Z iwjk djrh gS] rks mls 165 #i, 
+dk dqy osru feyrk gSaA vk'kh"k vkSj dfudk dh nSfud etnwjh Øe'k% 3-5 #i, vkSj 5-5 #i, gSaA ;fn os nksuksa bls ,d lkFk djrs gSa] rks dk;Z 
+dh ykxr D;k gS\  
+(a) 
+Rs. 108 
+(b) 
+Rs. 144 
+(c) 
+Rs. 120 
+(d) 
+Rs. 140 
+24. 
+S, T and U complete one task in 40, 48 and 60 days respectively. To complete 
+the work, they get Rs. 10800. they started the work together, but T left the work 2 days 
+before the completion of work and U left 5 days before the completion of the work. S has 
+completed the rest of the work. what is the share   of S (in rupees) from total money? 
+S, T तथा U एक कार्य को क्रमशः 40, 48 तथा 60 दिन में पूरा करते हैं| कार्य को पूरा करने के लिए उन्हें 10800 
+रुपर्े लमिते हैं| उन्होंने कार्य को एक साथ प्रारंभ ककर्ा, परन्तु T कार्य पूरा होने से 2 दिन पहिे तथा U कार्य पूरा 
+होने से 5 दिन पहिे कार्य को छोड़कर चिे गए| S शेष कार्य को अकेिा पूर्य करता है| ननिायररत रालश में से S का 
+भाग (रुपर्े में) ककतना है? 
+a) 4000 
+ 
+b) 4320 
+ 
+c) 4500 
+ 
+d) 4860 
+25. 
+Rs.12,600 is divided among 15 labourers. There are 7 men, 3 women and 5 boys. If 
+each woman receives three times as much as each boy, and each man receives seven times 
+as much as each boy, the share of each woman is ________. 
+15 etnwjksa esa Rs. 12,600 ck¡Vs tkrs gSaA bueas 7 iq#"k] 3 efgyk,¡ vkSj 5 yM+ds gSaA ;fn çR;sd efgyk çR;sd yM+ds dk frxquk izkIr djrh gS] 
+vkSj izR;sd iq#"k izR;sd yM+ds dk lkr xquk izkIr djrk gS] rks izR;sd efgyk dk fgLlk fdruk gS\ 
+(a) 
+Rs. 1,800 
+(b) 
+Rs. 1,200 
+(c) 
+Rs. 600 
+ 
+BY:-GAGAN PRATAP 
+(d) 
+Rs. 900 
+26. 
+12 skilled, 14 semi-killed and 10 unskilled workers complete a job for Rs 13189. If 
+their individual, wages be in the ratio of 9 : 5 : 4, then the total money (in Rs) earned by 
+10 unskilled workers is: 
+12 कुशल, 14 अधध-कुशल और 10 अकुशल श्रदमक, दकसी कायध क  ₹13189 में पूरा करते हैं। यदि उनकी व्यक्तिगत 
+मजिूरी का अनुपात 9 : 5 : 4 है, त  10 अकुशल श्रदमक ं द्वारा अदजधत कुल धनरादश (₹ में) दकतनी ह गी? 
+NTPC CBT II Level 2 (16/06/2022) Shift 3 
+(a) 3240 
+(b) 3420    
+(c) 2420    
+(d) 2240 
+27. 
+4 men and 5 women can earn Rs 8,800 in 8 days. 7 men and 10 women can earn Rs 
+10,250 in 5 days. In how many days will 8 men and 12 women earn Rs 21,600? 
+4 iq#"k vkSj 5 efgyk,a 8 fnuksa eas Rs 8,800 dek ldrs gSaA 7 iq#"k vkSj 10 efgyk,a 5 fnuksa eas Rs 10,250 dek ldrs gSaA 8 iq#"k vkSj 12 
+efgyk,a fdrus fnuksa eas Rs 21,600 dek ldrs gSa\ 
+(a) 8 days 
+(b) 9 days 
+(c) 12 days 
+(d) 10 days 
+MTS 2020 
+28. 
+5 women and 9 girls earn a total of Rs 18720 in 9 days, while 9 women and 16 girls 
+earn a total of Rs 52080 in 14 days. How much will 12 women and 7 girls together earn (in 
+Rs) in 13 days? 
+5 मदहिाएं और 9 िड़ककर्ां 9 दिनों में कुि 18720 रुपर्े कमाती हैं, जबकक 9 मदहिाएं और 16 िड़ककर्ां 14 दिनों 
+में कुि 52080 रुपर्े कमाती हैं। 12 मदहिाएं और 7 िड़ककर्ां लमिकर 13 दिनों में ककतना कमाएंगी (रुपर्े में)? 
+(SSC CGL 2023) 
+ 
+ 
+A) 
+42510 
+B) 
+41990 
+C) 
+42380 
+D) 
+42120 
+29. 
+A and B can complete a piece of work in 12 and 18 days respectively. A begins 
+to do the work and they work alternatively one at a time for one day each. The whole work 
+will be completed in 
+A और B ककसी काम को क्रमशः 12 तथा 18 दिनों में कर सकते है| A काम करना शुरू करता है और वे बारी-बारी से 
+एक-एक दिन काम करते है, तो पूरा काम ककतने दिनों में खत्म होगा? 
+a)14
+𝟏
+𝟑days  
+b)15
+𝟏
+𝟑days      
+c)16
+𝟏
+𝟑days  
+d)18
+𝟏
+𝟑days 
+30. 
+X & Y working separately can do a piece of work in 24 days and 32 days, respectively. 
+If they work for a day alternatively, X beginning, in how many days will the work com-
+pleted? 
+X और Y अिग-अिग कार्य करते हुए एक कार्य को क्रमश: 24 दिनों और 32 दिनों में पूरा कर सकते हैं। र्दि वे 
+वैकर्पपक रूप से एक दिन कार्य करते हैं, X प्रारंभ करता है, तो कार्य ककतने दिनों में पूरा होगा? 
+A) 
+27
+𝟏
+𝟑 
+B) 
+26
+𝟐
+𝟑 
+C) 
+25
+𝟐
+𝟑 
+D) 
+28
+𝟏
+𝟑 
+ 
+BY:-GAGAN PRATAP 
+31. 
+A & B working separately can do a piece of work 46 days and 69 days respectively. 
+If they work for a day alternately. A beginning, in how many days, the work will be com-
+pleted? 
+A और B अिग-अिग कार्य करते हुए ककसी कार्य को क्रमश: 46 दिन और 69 दिन कर सकते हैं। अगर वे बारी-
+बारी से एक दिन काम करते हैं। A A ls 'kq: djds, ककतने दिनों में काम पूरा होगा? 
+A) 
+55 days 
+B) 
+59 days 
+C) 
+53 days 
+D) 
+57 days 
+32. 
+Abhay and Shreya can individually complete a piece of work in 42 mins and 70 mins 
+respectively, Starting with Abhay, they work alternately for a minute each till the work is 
+completed, with only the one working at the end being allowed to work for less than a 
+minute in the final turn. How long will it take the duo to complete the work ? 
+अभय और श्रेया अकेले क्रमशः 42 दमनट और 70 दमनट में दकसी कायध क  पूरा कर सकते हैं। अभय से शुरू करके, 
+कायध पूरा ह ने तक वे बारी-बारी एक दमनट कायध करते हैं, केवल अंत में कायध करने वाले क  एक दमनट से भी कम समय 
+तक कायध करने की अनुमदत िी जाती है। कायध पूरा करने के दलए ि न ं क  दकतना समय लगेगा ? 
+UP Constable 25/10/2018  (1st Shift) 
+(a) 52 mins 24 secs   
+(b) 52 mins 30 secs 
+(c) 52 mins 36 secs   
+(d) 52 mins 40 secs 
+33. 
+In a workshop, Saral and Kanika are working on alternate days. Saral on the 1stday, 
+Kanika on the 2ndday, Saral on the 3rdday and so on. Saral alone can complete thework in 
+15 days, while Kanika alone takes 18 days to finish the same work. In howmany days will 
+they complete the work if they work on alternate basis? 
+,d odZ'kkWi esa] ljy vkSj dfudk ,dkarj fnuksa esa dke dj jgs gSaA igys fnu ljy] nwljs fnu dfudk] rhljs fnu ljy vkSj ;g Øe blh çdkj 
+jgrk gSA ljy vdsys dke dks 15 fgnuksa esa iwjk dj ldrk gS] tcfd dfudk vdsys mlh dke dks iwjk djus esa 18 fnu ysrh gSA ;fn os ,dkarj 
+vk/kkj ij dke djrs gSa rks os ml dke dks fdrus fnuksa esa iwjk djsaxs\ 
+(a) 𝟏𝟓
+𝟏
+𝟒 
+(b) 𝟏𝟓
+𝟏
+𝟑 
+(c) 𝟏𝟔
+𝟏
+𝟑 
+(d) 𝟏𝟒
+𝟏
+𝟒 
+34. 
+Akshita and Raina are typing a book, but have only one laptop to work upon. They 
+decided that they will work on alternate basis such that Akshita works for the first day, 
+Raina works for the second day, Akshita for the third day and so on. Akshita alone can 
+finish the typing work in 16 days, while Raina will take 24 days if she works alone on the 
+entire book. How many days will they take to finish the typing work if they work on alter-
+nate basis? 
+अक्षिता और रैना एक ककताब टाइप कर रहे हैं, िेककन काम करने के लिए उनके पास केवि एक िैपटॉप है। उन्होंने 
+ननर्यर् लिर्ा कक वे वैकर्पपक आिार पर काम करेंगे जैसे कक अक्षिता पहिे दिन काम करती है, रैना िूसरे दिन काम 
+करती है, अक्षिता तीसरे दिन काम करती है और इसी तरह। अक्षिता अकेिे टाइपपंग का काम 16 दिनों में पूरा कर 
+सकती है, जबकक रैना को पूरी ककताब पर अकेिे काम करने में 24 दिन िगेंगे। र्दि वे वैकर्पपक आिार पर काम 
+करते हैं तो उन्हें टाइपपंग का काम पूरा करने में ककतने दिन िगेंगे? 
+A) 
+19 
+ 
+BY:-GAGAN PRATAP 
+B) 
+15 
+C) 
+17 
+D) 
+16 
+35. 
+In a partnership firm two partners, Vijay and Praveen are working on an assignment. 
+It will take 12 weeks for Vijay to complete the entire assignment alone, while Praveen will 
+take 8 weeks to complete it alone. Due to work pressure, they decided to work on that 
+assignment on the alternate week basis. In the first week Praveen will work and in the 
+second week Vijay will work and so on. In how many weeks the work will be completed if 
+they work on alternate week basis? 
+,d lk>snkjh QeZ esa nks lk>snkj] fot; vkSj çoh.k ,d vlkbuesaV ij dk;Z dj jgs gSaA fot; dks vdsys iwjs vlkbuesaV dks iwjk djus esa 12 
+lIrkg yxsaxs] tcfd çoh.k vdsys bls iwjk djus esa 8 lIrkg dk le; ysxkA dk;Z ds ncko ds dkj.k] mUgksaus ,dkarj lIrkg ds vk/kkj ij ml 
+vlkbuesaV ij dk;Z djus dk QSlyk fd;kA igys lIrkg esa çoh.k dk;Z djsxk vkSj nwljs lIrkg esa fot; dk;Z djsxk vkSj blh rjg vkxs Hkh os 
+dke djsaxsA ;fn os ,dkarj lIrkg ds vk/kkj ij dk;Z djrs gSa rks dk;Z fdrus lIrkg esa iwjk gks tk,xk\ 
+(a) 
+8 
+(b) 
+8.5 
+(c) 
+9.5 
+(d) 
+9  
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+36. A can complete a piece of work in 18 days and B can complete it in 22 days. If they work on alternate days, 
+starting with B on the first day, then in how many days will the work be finished? 
+A ककसी कार्य को 18 दिनों में पूरा कर सकता है और B इसे 22 दिनों में पूरा कर सकता है। र्दि वे पहिे दिन B से 
+शुरू करते हुए एकांतर दिनों पर कार्य करते हैं, तो कार्य ककतने दिनों में पूरा हो जाएगा? (RRB NTPC GRADUATE 
+LEVEL 2025 CBT-1) 
+ 
+1.  
+𝟏𝟖
+𝟐
+𝟗 
+ 
+2. 
+𝟏𝟗
+𝟐
+𝟗 
+  
+3. 
+𝟏𝟖
+𝟗
+𝟏𝟏 
+  
+4.  
+𝟏𝟗
+𝟗
+𝟏𝟏 
+37. 
+A and B individually can finish a work in 15 and 20 days, respectively. If B starts 
+the work on 1 October, and they work on alternate days, the work will be finished on: 
+A और B व्र्र्क्तगत रूप से एक काम को क्रमशः 15 और 20 दिनों में पूरा कर सकते हैं। र्दि B 1 अक्टूबर को 
+काम शुरू करता है, और वे वैकर्पपक दिनों पर काम करते हैं, तो काम समाप्त हो जाएगा: 
+ 
+ 
+ 
+ 
+ 
+ 
+(DP CONSTABLE 2023) 
+A) 
+14 October 
+B) 
+10 October 
+C) 
+18 October 
+D) 
+9 October 
+38. 
+A, B and C can separately complete a work in 20, 25 and 30 days, respectively. If A 
+works on the first day alone, B on second day alone and C on the third day alone, and this 
+sequence goes on further, in how many days will the entire work be finished? 
+A, B और C अलग-अलग एक काम क  क्रमशः 20, 25 और 30 दिन ं में पूरा कर सकते हैं। यदि A पहले दिन अकेले 
+काम करता है, B अकेले िूसरे दिन और C अकेले तीसरे दिन काम करता है, और यह क्रम आगे बढ़ता है, त  पूरा काम 
+दकतने दिन ं में समाप्त ह  जाएगा? 
+1. 25
+𝟒
+𝟏𝟓 
+2. 24
+𝟏
+𝟕𝟓 
+3. 25
+𝟏
+𝟕𝟓 
+4. 24
+𝟒
+𝟏𝟓 
+ 
+BY:-GAGAN PRATAP 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+39. 
+P, Q and R can complete a piece of work in 6 days, 12 days and 15 days, respectively. 
+P starts working alone on 1st, 4th, 7th,….., Q works alone on 2nd, 5th, 8th,… and R works alone 
+on 3rd, 6th, 9th,…. This pattern is continued till the work is completed. In how much time 
+(in days) is the entire work done? 
+P, Q और R एक काम को क्रमशः 6 दिन, 12 दिन और 15 दिन में पूरा कर सकते हैं। P 1st, 4th, 7th,….., को 
+अकेिे काम करना शुरू करता है, Q 2nd, 5th, 8th,… को अकेिे काम करता है और R 3rd, 6th, 9th,…. को अकेिे 
+काम करता है। र्ह क्रम कार्य पूरा होने तक जारी रहता है। संपूर्य कार्य ककतने समर् (दिनों में) में पूरा हो जाता है? 
+(MTS 2023) 
+ 
+A) 
+10
+𝟑
+𝟓 
+B) 
+9
+𝟑
+𝟏𝟎 
+C) 
+9
+𝟏
+𝟐 
+D) 
+10
+𝟏
+𝟐 
+40. 
+P, Q, R and S can complete a piece of work in 25 days, 30 days, 36 days and 40 days, 
+respectively. They work on a rotation basis with Q working on the first day, S on the second 
+day, P on the third day and R on the fourth day, then again Q on the fifth day and so on. 
+In how much time will the work be completed?  
+P, Q, R और S ककसी कार्य को क्रमशः 25 दिनों, 30 दिनों, 36 दिनों और 40 दिनों में पूरा कर सकते हैं। वे क्रमावतयन 
+(rotation) के आिार पर कार्य करते हैं, र्जसमें Q पहिे दिन कार्य करता है, S िूसरे दिन, P तीसरे दिन और R चौथे 
+दिन, किर से Q पांचवें दिन और इसी तरह आगे भी कार्य ककर्ा जाता है। कार्य ककतने समर् में पूरा होगा? 
+ (SSC GD 2025) 
+ 
+1.  𝟐𝟗
+𝟒
+𝟐𝟕  days  
+ 
+ 
+2. 𝟑𝟏
+𝟏𝟕
+𝟐𝟓  days 
+3.  𝟐𝟑
+𝟏𝟏
+𝟏𝟓  days  
+ 
+ 
+4.  𝟐𝟔
+𝟕
+𝟑𝟎  days 
+41. 
+Ram, Ravi and Ratan can alone finish an assignment in 9 days, 12 days and 15 days 
+respectively. They decide to complete a work by working in turns. Ram works alone on 
+Monday, Ravi does the work alone on Tuesday, followed by Ratan working alone on Wednes-
+day and so on. What proportion of the complete work is done by Ravi?  
+राम, रवि और रतन अकेले 9 विन ों, 12 विन ों और 15 विन ों में एक कार्य पूरा कर सकते हैं। िे बारी-बारी से काम 
+करके काम पूरा करने का फैसला करते हैं। राम स मिार क  अकेले काम करता हैं, रवि मोंगलिार क  अकेले काम 
+करता है, उसके बाि रतन बुधिार और इसी तरह अकेले काम करता है। पूर्य कार्य का अनुपात रवि द्वारा वकस 
+अनुपात में वकर्ा जाता है? 
+(a) 2/9 
+(b) 12/47 
+ 
+ 
+(c) 1/3 
+(d) 4/9 
+42. 
+X, Y and Z can do a piece of work in 10 days, 20 days and 30 days, respectively. In 
+how many days can the work be completed if X is assisted by Y and Z together, on every 
+alternate day? 
+X, Y vkSj Z ,d dk;Z dks Øe'k% 10 fnu] 20 fnu vkSj 30 fnu esa iwjk dj ldrs gSaA ;fn X, Y vkSj Z dh lgk;rk ls çR;sd ,dkarj fnu esa 
+dke djrk gS] rks dk;Z fdrus fnuksa esa iwjk fd;k tk ldrk gS\ 
+(a) 𝟓
+𝟏
+𝟏𝟕days/fnu 
+(b) 𝟖
+𝟐
+𝟏𝟕days/fnu 
+(c) 𝟕
+𝟑
+𝟏𝟏days/fnu 
+ 
+BY:-GAGAN PRATAP 
+(d) 𝟔
+𝟒
+𝟏𝟏days/fnu 
+43. 
+A can do a piece of work in 30 days, B in 50 days and C in 40 days. If A is assisted 
+alternately by B on one day and C on the next day, the work will be completed in ______ 
+time. 
+A एक कायध क  30 दिन ं में, B 50 दिन ं में और C 40 दिन ं में कर सकता है। यदि A क  एक दिन B द्वारा और अगले 
+दिन C द्वारा बारी बारी से सहायता प्रिान की जाती है, त  कायध ______ समय में पूरा ह गा।  
+(SSC CHSL MAINS 2022) 
+(a) 17
+𝟑𝟑
+𝟑𝟓 दिन  
+(b) 17
+𝟑𝟒
+𝟑𝟓 दिन 
+(c) 17
+𝟑𝟏
+𝟑𝟓 दिन 
+(d) 17
+𝟑𝟐
+𝟑𝟓 दिन 
+44. 
+A, B and C can do a piece of work in 30 days, 45 days and 90 days, respectively. A 
+starts the work and he is assisted by B and C together on every third day. In how many 
+days will the work be completed? 
+A, B vkSj C ,d dke dks dze”k% 30 fnuksa ] 45 fnuksa vkSj 90 fnuksa esa iwjk dj ldrs gSA A dke “kq: djrk gS rFkk B vkSj C nksuksa feydj mldh 
+gj rhljs fnu lgk;rk djrs gSA dke fdrus fnuksa esa iwjk gks tk,xk\(SSC CGL 2022) 
+(a) 23  
+ 
+(b) 24  
+ 
+ 
+(c) 30  
+ 
+(d) 𝟐𝟐
+𝟏
+𝟐 
+45. 
+A can complete a piece of work alone in 200 days, while B can complete the same 
+piece of work alone in 100 days. In every three-day cycle, both A and B work on day 1, only 
+A works on day 2, and only B works on day 3. This cycle continues till the work is com-
+pleted. How many days in all does it take the duo to complete the work? 
+A अकेिे ककसी कार्य को 200 दिनों में पूरा कर सकता है, जबकक B उसी कार्य को अकेिे 100 दिनों में पूरा कर 
+सकता है। प्रत्र्ेक तीन-दिवसीर् चक्र में, A और B िोनों पहिे दिन काम करते हैं, केवि A िूसरे दिन काम करता है, 
+और केवि B तीसरे दिन काम करता है। र्ह चक्र काम पूरा होने तक जारी रहता है। िोनों को काम पूरा करने में 
+कुि ककतने दिन िगेंगे? 
+SSC CPO 2024 
+A) 
+100
+𝟏
+𝟑 
+B) 
+99
+𝟐
+𝟑 
+C) 
+100
+𝟏
+𝟐 
+D) 
+100 
+46. 
+A can do a piece of work in 94 days, B can do in 141 days and C can do same work 
+in 188 days. If on the first day A worked alone and on the second day B and C worked 
+together and on the third day A and C worked together. If they repeat the cycle, then in 
+how many days total work can be completed? 
+A, 94 दिनों में एक कार्य कर सकता है, B, 141 दिनों में र्ही कार्य कर सकता है और C, 188 दिनों में उसी कार्य 
+को कर सकता है। पहिे दिन A ने अकेिे कार्य ककर्ा और िूसरे दिन B और C ने एक साथ कार्य ककर्ा और तीसरे 
+दिन A और C ने एक साथ कार्य ककर्ा। र्दि वे इस चक्र को िोहराते हैं, तो कुि ककतने दिनों में कार्य पूरा हो सकता 
+है? (UP POLICE SI 2021) 
+(A)75
+𝟏
+𝟗 
+(B) 79
+𝟏
+𝟗 
+(C) 77
+𝟏
+𝟗 
+(D) 73
+𝟏
+𝟗 
+ 
+BY:-GAGAN PRATAP 
+47. 
+A, B, C and D can do a piece of work separately in 30 days, 33 days, 36 days and 44 
+days, respectively. In how many days can A and B together complete the work, if A and B 
+together are assisted by C and D on alternate two-two days starting with C for first two 
+days, then D on next two days and again C on next two days and so on?  
+A, B, C और D अिग-अिग तौर पर एक कार्य को क्रमशः 30 दिन, 33 दिन, 36 दिन और 44 दिन में पूरा कर सकते 
+हैं। र्दि A और B को C और D द्वारा बारी-बारी से िो-िो दिन सहार्ता िी जाती है, र्जसमें पहिे िो दिन C, किर 
+अगिे िो दिन D और किर अगिे िो दिन C तथा इसी प्रकार आगे भी सहार्ता िी जाती है, तो A और B लमिकर 
+कार्य को ककतने दिनों में पूरा कर सकते हैं? (SSC GD 2025) 
+1. 𝟔
+𝟕
+𝟐𝟒days 
+ 
+ 
+ 
+ 
+2.  𝟖
+𝟓
+𝟑𝟔days  
+3.  𝟏𝟏
+𝟏𝟑
+𝟓𝟕days   
+ 
+ 
+ 
+4.  𝟓
+𝟓
+𝟏𝟏days  
+48. 
+Efficiency of B is two times more than efficiency of A. both started working 
+alternatively, starting with B and completed the work in total 37 days. if C alone complete 
+the same work in 50 days then find in how many days A and C together will complete the 
+work?  
+B की ििता A की ििता से िो गुना अधिक है। िोनों ने एकान्तर दिन में काम करना शुरू ककर्ा, B ने शुरू ककर्ा 
+और कुि 37 दिनों में काम पूरा ककर्ा। र्दि C अकेिे उसी कार्य को 50 दिनों में पूरा करता है तो A और C लमिकर 
+ककतने दिनों में कार्य पूरा करेंगे? 
+a)24days    b)32days     c)36days    d)30days 
+ 
+49. 
+A and B working together on alternate days can finish a piece of work in 23 days if 
+A starts the work, while they take 23
+𝟓
+𝟖 days if B starts the work.In how many days would A 
+and B together finish the work if A works with one-fourth  of his efficiency and B works 
+with twice of  his original efficiency ?  
+A और B एक साथ वैकर्पपक दिनों पर काम करते हुए 23 दिनों में एक  काम पूरा कर सकते हैं र्दि A काम शुरू 
+करता है, जबकक B काम शुरू करने पर उन्हें 235/8 दिन िगते हैं। र्दि A अपनी ििता के एक-चौथाई के साथ काम 
+करता है और B अपनी मूि ििता के िोगुने के साथ काम करता है, तो A और B एक साथ काम को ककतने दिनों में 
+पूरा करेंगे? 
+ 
+(a) 
+𝟏𝟕
+𝟐
+𝟓 
+(b) 16
+𝟏
+𝟖   
+(c) 15
+𝟏
+𝟒   
+(d) 16
+𝟑
+𝟒  
+ 
+50. 
+Ratnesh and Vineet take turns to work alternately and Ratnesh starts the work on 
+the first day.  The entire work is completed in 54
+𝟑
+𝟒 days.  If Ratnesh alone can complete 
+the work in 48 days, then in how many days can Vineet alone complete the work? 
+रत्नेश और पवनीत बारी बारी से एक दिन छोड़कर काम करते है और रत्नेश पहिे दिन काम शुरू करता है।  सम्पूर्य 
+काम 54
+𝟑
+𝟒  दिनों में पूरा हो जाता है।  र्दि रत्नेश अकेिे उस काम को 48  दिन में पूरा कर सकता है, तो पवनीत 
+अकेिे उस काम को ककतने दिन में पूरा कर सकता है ? 
+(SSC CHSL MAINS 2024) 
+A) 
+60 
+B) 
+64 
+C) 
+66 
+D) 
+62 
+51. 
+To do a certain work, Q and R work on alternate days, with Q beginning the work on 
+the first day. Q can finish the work alone in 56 days. If the work gets completed in 37.5 
+days, then R alone can finish half of the same work in: 
+ 
+BY:-GAGAN PRATAP 
+ककसी कार्य को करने के लिए Q और R एकांतर दिनों में कार्य करते हैं, र्जसमें Q पहिे दिन कार्य शुरू करता है। Q 
+अकेिे कार्य को 56 दिनों में पूरा कर सकता है। र्दि कार्य 37.5 दिनों में पूरा हो जाता है, तो R अकेिे उसी कार्य का 
+आिा भाग ककतने दिनों में पूरा कर सकता है? (SSC GD 2025) 
+1. 28 days 
+ 
+ 
+ 
+ 
+2. 21 days 
+3. 14 days 
+ 
+ 
+ 
+ 
+4. 7 days 
+ 
+ 
+ 
+52. Brajen can paint a wall red in 10 hours while Ballari can whitewash the wall completely 
+in 12 hours. If Brajen and Ballari work alternatively for an hour each starting when the 
+wall has just cement on it till when it is completely painted red, how many hours will it 
+take to paint the entire wall red? 
+ब्रजेन 10 घंटे में एक िीवार िाि रंग से रंग सकता है, जबकक बपिारी 12 घंटे में िीवार की पूरी तरह से सिेिी कर 
+सकता है। र्दि ब्रजेन और बपिारी बारी-बारी से एक-एक घंटे के लिए हाि ही में सीमेंटेड िीवार पर तब तक काम 
+करते हैं, जब तक िीवार पूरी तरह से िाि रंग नहीं जाती हैं, पूरी िीवार िाि रंग से रंगने में ककतने घंटे िगेंगे?  
+a) 120         b) 108           c) 110          d) 109 
+53. 
+A, B, C, D can complete a work in 3, 6, 9 and 12 hours respectively. Additionally, 
+only one person can work each hour at a time and no person can work for two hours con-
+tinuously. It is not necessary that everyone be employed. What is the minimum number of 
+hours he will take to complete the work? 
+A, B, C, D एक कार्य को क्रमशः 3, 6, 9 और 12 घंटे में पूरा कर सकते हैं। इसके अनतररक्त, एक समर् में प्रत्र्ेक 
+घंटे केवि एक ही व्र्र्क्त काम कर सकता है और कोई भी व्र्र्क्त िगातार िो घंटे तक काम नहीं कर सकता है। 
+र्ह जरूरी नहीं कक हर कोई कार्य करे।  कार्य पूरा करने में उसे न्र्ूनतम ककतने घंटे िगेंगे? 
+ (CDS-1 2024) 
+A) 
+36/25 
+B) 
+12/5 
+C) 
+4 
+D) 
+2 
+54. 
+12 men and 10 women can complete a work in 14 days. Then, in how many days 42 
+men and 35 women can complete the same work? 
+12 पुरुष और 10 मदहिाएं एक काम को 14 दिनों में पूरा कर सकते हैं किर, 42 पुरुष और 35 मदहिाएं उसी काम को 
+ककतने दिनों में पूरा कर सकते हैं? 
+a)3 days 
+ 
+b)4 days 
+ 
+c)7 days 
+ 
+d)8 days 
+55. 
+22 men and 19 women can complete a work in 12 days while 13 men and 15 women 
+can complete the same work in 18 days. Then, in how many days 9 men and 4 women can 
+complete the same work? 
+22 पुरुष और 19 मदहिाएं लमिकर 12 दिनों में ककसी काम को पूरा कर सकते हैं, जबकक 13 पुरुष और 15 मदहिाएं 
+लमिकर वही काम 18 दिनों में पूरा कर सकते हैं। किर, 9 पुरुष और 4 मदहिाएं लमिकर उसी काम को ककतने दिनों में 
+पूरा कर सकते हैं? 
+a) 27 
+       b) 48 
+c) 42 
+        d) 36 
+56. 
+A total of 5 men and 6 women can do a piece of work in 10 days, while 6 men and 5 
+women can do the same work in 9 days. In how many days can 3 men and 2 women do the 
+same work? 
+कुल 5 पुरुष और 6 मदहलाएँ एक काम क  10 दिन ं में कर सकते हैं, जबदक 6 पुरुष और 5 मदहलाएँ उसी काम क  9 
+दिन ं में कर सकते हैं। 3 पुरुष और 2 मदहलाएँ समान कायध क  दकतने दिन ं में कर सकते हैं? 
+ 
+BY:-GAGAN PRATAP 
+1. 17
+𝟐𝟓
+𝟓𝟑 
+2. 18
+𝟑𝟔
+𝟓𝟑  
+3. 20
+𝟑𝟕
+𝟓𝟑  
+4. 16
+𝟏𝟓
+𝟓𝟑 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+ 
+57. 
+3 men and 8 women can complete a work in 
+𝟕𝟓
+𝟖 days, while 9 men and 12 women can 
+complete it in 
+𝟐𝟓
+𝟕 days. In how many days will 15 women complete it? 
+3 iq#"k vkSj 8 efgyk,a ,d dke dks 
+𝟕𝟓
+𝟖 fnuksa esa iwjk dj ldrs gSa] tcfd 9 iq#"k vkSj 12 efgyk,a bls 
+𝟐𝟓
+𝟕 fnuksa esa iwjk dj ldrs gSaA 15 efgyk,a 
+bls fdrus fnuksa esa iwjk djsaxh\ 
+(a) 18 
+(b)24 
+(c) 20 
+(d) 22 
+58. 
+35 men and 49 women, working together, can do a job in 84 days while 48 men and 
+84 women, working together, can do the same job in 56 days. In how many days can the 
+same job be done by 30 men and 21 women, working together? 
+35 पुरुष और 49 मदहिाएँ, एक साथ काम करते हुए, एक काम को 84 दिनों में कर सकते हैं जबकक 48 पुरुष और 
+84 मदहिाएँ, एक साथ काम करते हुए, उसी काम को 56 दिनों में कर सकते हैं। उसी कार्य को 30 पुरुष और 21 
+मदहिाएँ एक साथ कार्य करके ककतने दिनों में पूरा कर सकते हैं? ( IB ACIO GRADE-2 2023) 
+A) 
+120
+𝟔
+𝟏𝟑 
+B) 
+120
+𝟖
+𝟏𝟑 
+C) 
+120
+𝟗
+𝟏𝟑 
+D) 
+120
+𝟕
+𝟏𝟑 
+ 
+59. 
+8 men and 6 women can complete a work in 9 days while 6 men and 8 women can 
+complete the same work in 12 days. In how many days 16 men and 21 women can complete 
+the same work? 
+8 पुरुष और 6 मदहिाएं 9 दिनों में एक काम पूरा कर सकते हैं, जबकक 6 पुरुष और 8 मदहिाएं एक ही काम को 12 
+दिनों में पूरा कर सकते हैं। उसी काम को 16 पुरुष और 21 मदहिाएं लमिकर ककतने दिनों में पूरा कर सकती हैं? 
+a)5  
+        b)4.5 
+      c)8                d)6.5 
+60. 
+4 men and 5 women can complete a work in 15 days, whereas 9 men and 6 women 
+can complete it in 10 days. To complete the same work in 7 days, how many women should 
+assist 4 men? 
+4 पुरुष और 5 मदहिाएं एक कार्य को 15 दिनों में पूरा कर सकते हैं, जबकक 9 पुरुष और 6 मदहिाएं इसे 10 दिनों में 
+पूरा कर सकते हैं। उसी कार्य को 7 दिनों में पूरा करने के लिए, ककतनी मदहिाओं को 4 पुरुषों की सहार्ता करनी 
+चादहए? 
+(a) 14  
+(b) 15  
+(c) 11  
+(d)13 
+61. 
+4 men and 5 women can complete a work in 15 days, whereas 9 men and 6 women 
+can do it in 10 days. To complete the same work in 7 days, how many women should assist 
+4 men? 
+4 पुरुष और 5 मदहिाएं 15 दिनों में एक काम पूरा कर सकते हैं, जबकक 9 पुरुष और 6 मदहिाएं इसे 10 दिनों में पूरा कर सकते हैं। 
+7 दिनों में इस काम को पूरा करने के लिए, 4 पुरुषों के साथ ककतनी मदहिाओं की सहार्ता चादहए? 
+(a) 14  
+ 
+(b) 13  
+ 
+ 
+(c) 11  
+ 
+(d) 12 
+ 
+BY:-GAGAN PRATAP 
+ 
+62. 
+8 men or 10 boys can complete a work in 174 days. 12 men and 14 boys will complete 
+the same work in how many days? 
+8 iq#"k ;k 10 yM+ds fdlh dk;Z dks 174 fnuksa esa iwjk dj ldrs gSaA 12 iq#"k vkSj 14 yM+ds mlh dk;Z dks fdrus fnuksa esa iwjk djsaxs\ 
+(a) 
+60 days 
+(b) 
+50 days 
+(c) 
+72 days 
+(d) 
+48 days  
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+63. 
+To finish a work in 8 days, 10 men are required, or 15 women are required. If 'x' men 
+and 'y' women are required to finish the work in 12 days, then which of the following 
+equations is correct?  
+ककसी कार्य को 8 दिनों में पूरा करने के लिए 10 पुरुष र्ा 15 मदहिाओं की आवश्र्कता होती है। र्दि 12 दिनों में 
+कार्य पूरा करने के लिए 'x' पुरुषों और 'y' मदहिाओं की आवश् र्कता हो, तो ननम्नलिखखत में से कौन-सा समीकरर् 
+सही है? (SSC GD 2025) 
+1. 3x+2y = 20   
+ 
+ 
+ 
+2. 2x+3y = 30 
+3. x+3y = 20   
+ 
+ 
+ 
+4. 3x+2y = 30 
+64. 
+16 men or 21 women or 18 children can complete a work in 93 days. In how 
+many days 32 men, 35 women and 27 children working together complete the whole work? 
+16 पुरुष र्ा 21 मदहिाएं र्ा 18 बच्चे 93 दिनों में एक काम पूरा कर सकते हैं। एक साथ 32 पुरुष, 35 मदहिाएं और 27 
+बच्चे पूरे काम को ककतने दिनों में पूरा करते हैं? 
+a)18 days 
+ 
+b)24days  
+ 
+c)36 days 
+ 
+d)16 days 
+65. 
+If 8 men or 16 women or 32 boys can do a piece of work in 8 months, then in how 
+many months can 4 men, 4 women and 4 boys together complete the work? 
+ 
+र्दि 8 पुरुष र्ा 16 मदहिाएं र्ा 32 िड़के एक कार्य को 8 महीने में पूरा कर सकते हैं, तो 4 पुरुष, 4 मदहिाएं 
+और 4 िड़के लमिकर उस कार्य को ककतने महीने में पूरा कर सकते हैं? 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A] 
+8
+𝟐
+𝟕 [B] 
+10
+𝟓
+𝟕 
+ 
+ 
+[C] 
+9
+𝟏
+𝟕 [D] 
+6
+𝟑
+𝟕 
+66. 
+A work can be finished in a day by 20 men, or by 30 women, or by 50 boys. 2 men 
+and 5 boys work on alternate days and 6 women work on all days. If men work on the first 
+day, the work is finished in ____ days. 
+एक कार्य को 20 पुरुष, र्ा 30 मदहिाएँ, र्ा 50 िड़के एक दिन में पूरा कर सकते हैं। 2 पुरुष और 5 िड़के एकांतर 
+दिनों में कार्य करते हैं और 6 मदहिाएँ सभी दिन कार्य करती हैं। र्दि पुरुष पहिे दिन कार्य शुरू करते हैं, तो कार्य 
+____ दिनों में पूरा हो जाता है।(SSC GD 2025) 
+1. 𝟒
+𝟏
+𝟑    
+2. 3
+𝟏
+𝟒 
+3. 4
+𝟏
+𝟒 
+ 
+4. 𝟑
+𝟏
+𝟑 
+67. 
+6 men can complete a work in 64 days. 24 women can complete the same work in 
+32 days. 16 men and 24 women together worked for 12 days, after which 8 men and 8 
+women were dropped. In how many days the work will be completed? 
+6 iq#"k fdlh dk;Z dsk 64 fnu eas iwjk dj ldrs gSaA 24 efgyk,a mlh dk;Z dks 32 fnu eas iwjk dj ldrh gSaA 16 iq#"k vkSj 24 
+efgyk,a ,d lkFk 12 fnu rd dk;Z djrs gSa] ftlds ckn 8 iq#"k vkSj 8 efgyk,a dk;Z NksM+ nsrh gSaA dk;Z dks iwjk gksus esa fdrus 
+fnuksa dk le; yxsxk\ 
+ 
+BY:-GAGAN PRATAP 
+ (a) 18 
+(b) 6 
+(c) 3 
+(d) 15 
+68. 
+12 unskilled and 14 skilled workers together complete a certain piece of work in 9 
+days. If each unskilled worker takes twice the time taken by a skilled worker to finish the 
+work, in how many days will 12 skilled workers finish the same work? 
+12 अकुशल और 14 कुशल श्रदमक एक साथ दमलकर दकसी कायध क  9 दिन में पूरा करते हैं। यदि प्रत्येक अकुशल 
+श्रदमक क  कायध पूरा करने में, दकसी कुशल श्रदमक क  कायध पूरा करने में लगे समय से ि गुना समय लगता है, त  12 
+कुशल श्रदमक उसी कायध क  दकतने दिन में पूरा करेंगे? 
+Group D  08/09/2022 (Evening) 
+(a) 10 days 
+(b)  15 days 
+(c) 18 days 
+(d)  12 days 
+69. 
+15 men can complete a work in 15 days, whereas it takes 18 women to complete the 
+work in 15 days. In how many days will 20 men and 9 women, together, complete the 
+work? (Rounded off to complete number of days.) 
+15 पुरुष एक काम क  15 दिन ं में पूरा कर सकते हैं, जबदक 18 मदहलाओं क  उस काम क  15 दिन ं में पूरा करना 
+पड़ता है। 20 पुरुष और 9 मदहलाएं दमलकर उस कायध क  दकतने दिन ं में पूरा करेंगे? (दिन ं की पूर्ध संख्या तक 
+पूर्ाांदकत दकया गया।) 
+1. 8 
+2. 15 
+3. 12 
+4. 5 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+70. 
+48 men can do a work in 5 days while 40 women can do the same work in 9 days. In 
+how many days can 4 men and 6 women together do the same work? 
+48 पुरुष एक काम को 5 दिनों में कर सकते हैं जबकक 40 मदहिाएं उसी काम को 9 दिनों में कर सकती हैं। 4 पुरुष 
+और 6 मदहिाएँ लमिकर उसी कार्य को ककतने दिनों में कर सकते हैं? 
+(RRB ALP 2024) 
+A) 
+24 days 
+B) 
+30 days 
+C) 
+48 days 
+D) 
+42 days 
+71. 
+9 men can complete a piece of work in 16 days, while 5 women can do it in 18 days. 
+In how many days can 2 women and 4 men complete the work? 
+9 पुरुष ककसी कार्य को 16 दिनों में पूरा कर सकते हैं, जबकक 5 मदहिाएँ इसे 18 दिनों में पूरा कर सकती हैं। 2 मदहिाएँ 
+एवं 4 पुरुष इस कार्य को ककतने दिनों में पूरा कर सकते हैं?  (RRB NTPC 12th LEVEL 2025) 
+A. 15 days 
+B. 18 days 
+C. 20 days 
+D. 16 days 
+72. 
+The one-day work of 2 men is equal to the one-day work of 4 women or the one-
+day work of 8 qualified workers. 10 qualified workers can finish a work in 8 days. If a man, 
+a woman and a qualified worker work in the same order on three different days, the work 
+is finished in ___ days. 
+ 
+2 पुरुषों का एक दिन का कार्य 4 मदहिाओं के एक दिन के कार्य र्ा 8 र्ोग्र् श्रलमकों के एक दिन के कार्य 
+के बराबर है। 10 र्ोग्र् श्रलमक एक कार्य को 8 दिनों में पूरा कर सकते हैं। र्दि एक पुरुष, एक मदहिा और एक र्ोग्र् 
+श्रलमक तीन अिग-अिग दिनों में इसी क्रम में कार्य करते हैं, तो कार्य ____ दिनों में समाप्त हो जाएगा। 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A] 
+𝟏𝟑𝟏
+𝟒 [B] 
+𝟐𝟎𝟑
+𝟔 
+ 
+ 
+[C] 
+𝟏𝟑𝟓
+𝟒 [D] 
+𝟏𝟔𝟔
+𝟓 
+ 
+ 
+BY:-GAGAN PRATAP 
+73. 
+3 men can finish a work in 10 days, 4 women can finish it is 12 days and 10 
+qualified workers can finish it in 6 days. In how many days is the work finished by 4 men, 
+4 women and 4 qualified workers, working together every day?  
+3 पुरुष एक कार्य को 10 दिनों में कर सकते हैं, 4 मदहिाएं इसे 12 दिनों में कर सकती हैं और 10 र्ोग्र् श्रलमक इसे 6 
+दिनों में पूरा कर सकते हैं। प्रनतदिन 4 पुरुष, 4 मदहिाएं और 4 र्ोग्र् श्रलमक एक साथ लमिकर कार्य करते हुए उस 
+कार्य को ककतने दिनों में पूरा करते हैं?  [SSC Selection Post (Phase-XII)] 
+ 
+[A]
+𝟔𝟎
+𝟏𝟗 
+[B] 
+𝟑𝟎
+𝟏𝟗  
+ 
+[C]
+𝟔𝟎
+𝟏𝟕 
+[D] 
+𝟒𝟓
+𝟏𝟕 
+74. 
+Eighteen men can complete a piece of work in 64 days. 9 women can complete it in 
+108 days, whereas 7 children can finish it in 216 days. How many days will 16 men, 9 
+women and 21 children together take to complete the same work? 
+अठारह आिमी एक काम को 64 दिनों में पूरा कर सकते हैं। 9 मदहिाएं इसे 108 दिनों में पूरा कर सकती हैं, जबकक 
+7 बच्चे इसे 216 दिनों में पूरा कर सकते हैं। 16 पुरुष, 9 मदहिाएं और 21 बच्चे लमिकर उसी कार्य को ककतने दिन 
+में पूरा करेंगे? (UP POLICE HEAD OPERATOR 2024) 
+A) 27 
+B) 32 
+ 
+C)  45 
+D) 42 
+75. 
+There was a leakage in the container of the refined oil. If 11kg oil is leaked out 
+per day then it would have lasted for 50 days, if the leakage was 15 kg per day, then it 
+would have lasted for only 45 days. For how many days would the oil have lasted, If there 
+was no leakage and it was completely used for eating purpose? 
+ररिाइंड तेि से भरे एक कंटेनर में एक नछद्र है । र्दि नछद्र से प्रनत दिन 11 ककिो तेि बाहर ननकि जाता है तो र्ह 
+50 दिनों तक चिता है , र्दि ररसाव 15 ककिोग्राम प्रनत दिन होता है , तो र्ह केवि 45 दिनों तक चिता है । तेि 
+ककतने दिनों तक चिेगा, अगर कोई ररसाव नहीं था और इसका उपर्ोग पूरी तरह से खाने के उद्िेश्र् से ककर्ा गर्ा 
+था? 
+a)80 days  
+ 
+b)72 days 
+ 
+c)100 days 
+ 
+d)120 days 
+76. 
+If 18 men can cut a field in 35 days, then in how many days can 21 men cut the 
+same field? 
+यदि 18 पुरुष 35 दिनों में एक खेत काट सकते हैं, तो 21 पुरुष उसी  खेत को दकतने दिनों में काट सकते हैं? 
+a) 32 
+ 
+b) 30 
+ 
+ 
+c) 27 
+ 
+d) 28 
+77. 
+If 108 workers can build a wall in 36 days, then in how many days can 48 workers 
+build the same wall? 
+र्दि 108 श्रलमक 36 दिनों में एक िीवार बना सकते हैं, तो 48 श्रलमक उसी िीवार को ककतने दिनों में बना सकते 
+हैं? 
+(SSC SELECTION POST XII MATRICULATION LEVEL) 
+ 
+A) 
+72 
+B) 
+81 
+C) 
+54 
+D) 
+63 
+78. 
+48 men can do a work in 14 days. Find the amount of work done by 5 men in 12 
+days? 
+48 आिमी एक काम को 14 दिनों में कर सकते हैं। 12 दिनों में 5 पुरुषों द्वारा ककए गए कार्य की मात्रा ज्ञात 
+कीर्जए?  (UP CONSTABLE RE-EXAM 2024) 
+A) 
+13.5% 
+ 
+BY:-GAGAN PRATAP 
+B) 
+9.8% 
+C) 
+7.9% 
+D) 
+8.9% 
+79. 
+A certain number of workers agree to finish a work in 30 days. 10 workers do not 
+come to work, the rest finished the work in 50 days. Find the number of workers who 
+originally agreed to work. 
+dqN Jfed 30 fnuksa esa ,d dk;Z iwjk djus ds fy, lger gksrs gSaA 10 Jfed dke ij ugha vkrs] 'ks"k Jfed 50 fnuksa esa dk;Z iwjk djrs gSaA ewy 
+:i ls dk;Z djus ds fy, fdrus Jfed lger gq, Fks\ 
+(a)20 
+ 
+(b) 25 
+(c) 15 
+(d) 22 
+80. 
+A certain number of men can finish a piece of work in 108 days. If, however 
+there were 28 men less, it would take another 24 days to finish the work. How many men 
+were there originally? 
+पुरुषों की एक ननर्श्चत संख्र्ा 108 दिनों में काम खत्म कर सकती है। अगर, 28 आिमी कम होंगे, तो काम खत्म 
+होने में 24 दिन और िगेंगे। मूि रूप से वहां ककतने आिमी थे? 
+(a)140 
+ 
+ 
+(b)154 
+ 
+(c)168 
+ 
+ 
+(d)112 
+81. 
+p number of men can finish a piece of work in q days. If there are 50% more men, 
+then the work will be finished 12 days earlier. What is the value of q? 
+p संख्र्ा में पुरुष ककसी कार्य को q दिनों में पूरा कर सकते हैं। र्दि 50% अधिक आिमी हैं, तो कार्य 12 दिन पहिे 
+समाप्त हो जाएगा। q का मान क्र्ा है? (CDS-1 2024) 
+A) 
+48 
+B) 
+40 
+C) 
+36 
+D) 
+CND 
+82. 
+If the work done by x men in (x+1) days is equal to the work done by (x+5) men in (x-
+2) days, then what is the value of x? 
+र्दि x पुरुषों द्वारा (x+1) दिनों में ककर्ा गर्ा कार्य (x+5) पुरुषों द्वारा (x-2) दिनों में ककए गए कार्य के बराबर है, 
+तो x का मान क्र्ा है? (CDS-1 2024) 
+A) 
+5 
+B) 
+6 
+C) 
+7 
+D) 
+8 
+83. 
+18 men can complete a work in 9 days. After they have worked for 5 days, 6 more 
+join them. How many days will they take to complete the remaining work? 
+18 पुरुष ककसी काम को 9 दििों में पूरा कर सकते हैं| 5 दििों तक काम करिे के बाि, 6 और पुरुष उिसे जुड़ते हैं |बचे हुए काम को 
+पूरा करिे में उन्हें ककतिे दिि लगेंगे? 
+A) 3 
+ 
+ 
+B) 𝟐
+𝟏
+𝟐  
+ 
+ 
+C) 2 
+ 
+ 
+D) 𝟑
+𝟏
+𝟐 
+84. 
+18 workers can complete a piece of work in 96 days. They start working together 
+and after 26 days 10 more workers join them. In how many days in all will the work be 
+completed? 
+ 
+BY:-GAGAN PRATAP 
+18 श्रलमक एक कार्य को 96 दिनों में पूरा कर सकते हैं। वे एक साथ काम करना शुरू करते हैं और 26 दिनों के बाि 
+10 और कमयचारी उनके साथ जुड़ जाते हैं। कार्य कुि ककतने दिनों में पूरा होगा? 
+SSC CPO 2024 
+A) 
+69 
+B) 
+71 
+C) 
+72 
+D) 
+70 
+85. 
+84 men can complete a work in 30 days. After 15 days, more men were engaged, and 
+the work was completed in 5 days ahead of schedule. How many more people were engaged 
+in total? 
+84 आिमी एक काम को 30 दिनों में पूरा कर सकते हैं। 15 दिनों के बाि, और आिलमर्ों को िगार्ा गर्ा, और काम 
+तर् समर् से 5 दिन पहिे पूरा हो गर्ा। कुि ककतने और िोग िगे  थे? 
+A) 
+40 men 
+B) 
+42 men 
+C) 
+32 men 
+48 men  
+86. 
+105  people could complete a work in 36 days. But after they worked together for 8 
+days their employer wanted that the work should be completed in a total of 29 days. How 
+many more workers need to be employed to meet the deadline? 
+105 व्यक्ति दकसी कायध क  36 दिन में पूरा कर सकते हैं। लेदकन उनके द्वारा 8 दिन तक एकसाथ कायध करने के बाि 
+उनका मादलक चाहता है दक कायध कुल 29 दिन में पूरा ह  जाए। कायध क  समय से पूरा करने के दलए दकतने और व्यक्तिय ं 
+क  दनय दजत करने की आवश्यकता ह गी? 
+Level 5 (15/06/2022) Shift 1 
+(a) 40  
+(b) 35 
+ 
+(c) 28 
+(d) 42 
+87. 
+Eight persons can finish a work in 20 days. After 5 days they were request to com-
+plete the working the next 8 days. How many more persons should join the group to fulfill 
+the requirement?  
+आठ व् यदि दकसी काम को 20 दिन में पूरा कर सकते हैं। 5 दिन के बाि उनसे अगले 8 दिनों में काम पूरा करने का अनुरोध दकया गया था। उस काम को पूरा करने 
+के दलए दकतने और व् यदियों को समूह में शादमल दकया जाना चादहए? 
+(A) 23  
+(B) 12  
+ 
+(C) 15  
+(D) 7 
+88. 
+30 men can complete a job in 40 days. However, after 24 days some men out of the 
+assigned 30 left the job. The remaining people took another 40 days to complete the job. 
+The number of men who left the job is  
+(CDS 2017) 
+30 आिमी 40 विन ों में एक काम पूरा कर सकते हैं। हालाोंवक, 24 विन ों के बाि 30 पुरुष ों में से कुछ ने काम छ ड़ 
+विर्ा। शेष ल ग ों क  काम पूरा करने में 40 विन लग गए। काम छ ड़ने िाले पुरुष ों की सोंख्या है 
+(a) 24  
+(b) 18  
+ 
+(c) 12  
+(d) 6 
+89. 
+15 persons begin to work together on a job, but after some days 6 persons leave. As 
+a result, the job which could have been completed in 42 days is completed in 54 days. 
+After how many days of the commencement of the work did 6 person leave? 
+15 व्र्र्क्त एक साथ काम करना शुरू करते हैं, िेककन कुछ दिनों के बाि 6 व्र्र्क्त काम छोड़ िेते हैं। पररर्ामस्वरूप, 
+जो काम 42 दिनों में पूरा हो सकता था वह 54 दिनों में पूरा हो गर्ा। काम शुरू होने के ककतने दिन बाि 6 व्र्र्क्त 
+चिे गए? (SSC GD 2021) 
+A) 
+12 
+ 
+BY:-GAGAN PRATAP 
+B) 
+32 
+C) 
+18 
+D) 
+24 
+90. 
+25 persons can complete a work in 60 days. They started the work. 
+10 persons left the work after x days. If the whole work was completed in 80 days, then 
+what is the value of x? 
+25 O;fDr fdlh dke dks 60 fnuksa esa iwjk dj ldrs gSaA mUgksaus dke djuk “kq: fd;kA x fnuksa ds ckn 10 O;fDr;ksa us dke NksM+ 
+fn;kA ;fn lkjk dke 80 fnuksa esa iwjk gqvk] rks x dk eku D;k gS\ 
+(a) 15 
+ 
+ 
+(b) 30  
+ 
+ 
+(c) 12 
+ 
+ 
+(d) 24  
+91. 
+By working 12 hours a day, 90 people can complete a work in 16 days. How much work 
+will be left after 24 days if 70 people work for 8 hours per day? 
+एक दिन में 12 घंटे काम करके 90 व्यक्ति एक कायध क  16 दिन ं में पूरा कर सकते हैं। यदि 70 व्यक्ति प्रदतदिन 8 घंटे 
+कायध करें त  24 दिन बाि दकतना कायध बचेगा? 
+1. 3/8 
+2. 2/9 
+3. 7/9 
+4. 5/8  
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+92. 
+Working 7 hours a day, 18 persons can complete a certain work in 32 days. In how 
+many days would 14 persons complete the same work, working 8 hours a day? 
+,d fu;r dk;Z dks 18 O;fDr izfrfnu 7 ?kaVsa dke djds 32 fnuksa esa iwjk dj ldrs gSA mlh dk;Z dks 14 O;fDr izfrfnu 8 ?kaVsa dk;Z djds fdrus 
+fnuksa esa iwjk dj ldrs gS\ 
+(a) 35  
+(b) 30  
+ 
+ 
+(c) 42  
+ 
+(d) 36 
+93. 
+15 men take 6 days to complete a job working 5 hours a day. How many hours a day 
+should 18 men take to complete the job in 6 days? 
+15 O;fDr çfrfnu 5 ?kaVs dke djds ,d dke dks iwjk djus eas 6 fnu dk le; ysrs gSaA dke dks 6 fnu eas iwjk djus ds fy, 18 iq#"kksa dks çfrfnu 
+fdrus ?kaVs dke djuk gksxk\ 
+(a) 2
+𝟏
+𝟔 
+(b)𝟏
+𝟏
+𝟔 
+(c) 𝟒
+𝟏
+𝟔 
+(d) 𝟑
+𝟏
+𝟔 
+94. 
+220 men working 12 hours a day can finish a job in 28 days. How many men are 
+required to finish the job in 22 days working 14 hours a day? 
+220 आिमी प्रनतदिन 12 घंटे काम करके एक काम 28 दिनों में पूरा कर सकते हैं। प्रनतदिन 14 घंटे काम करके 
+22 दिनों में काम पूरा करने के लिए ककतने पुरुषों की आवश्र्कता होगी? 
+DSSSB ASSISTANT GRADE-III 2024 
+A) 
+245 
+B) 
+260 
+C) 
+280 
+D) 
+240 
+95. 
+If 18 mechanics can repair 90 cars in 10 days, how many mechanics will be required 
+to repair 150 cars in 12 days? 
+र्दि 18 मैकेननक 10 दिनों में 90 कारों की मरम्मत कर सकते हैं, तो 12 दिनों में 150 कारों की मरम्मत के लिए 
+ककतने मैकेननकों की आवश्र्कता होगी? 
+A) 
+27 
+B) 
+25 
+C) 
+30 
+ 
+BY:-GAGAN PRATAP 
+D) 
+20 
+96. 
+If 24 people can build 90 identical walls in 25 days, then how many more days will 
+27 people require to build 162 such walls? 
+र्दि 24 िोग 25 दिनों में 90 समान िीवारें बना सकते हैं, तो 27 िोगों को ऐसी 162 िीवारें बनाने में ककतने दिन 
+िगेंगे? 
+SSC CPO 2024 
+A) 
+16 
+B) 
+14 
+C) 
+15 
+D) 
+13 
+97. 
+A total of 24 men working 7 hours a day can complete a task in 10 days. In how 
+many days will 21 men working9 hours a day complete the same task? 
+कुि 24 आिमी प्रनतदिन 7 घंटे काम करके एक कार्य को 10 दिनों में पूरा कर सकते हैं। 21 आिमी प्रनतदिन 9 घंटे 
+काम करके उसी कार्य को ककतने दिनों में पूरा करेंगे? 
+(SSC MTS 2024) 
+ 
+A) 
+7
+𝟕
+𝟖 𝒅𝒂𝒚𝒔 
+B) 
+9
+𝟗
+𝟏𝟎 𝒅𝒂𝒚𝒔 
+C) 
+6
+𝟔
+𝟕 𝒅𝒂𝒚𝒔 
+D) 
+8
+𝟖
+𝟗 𝒅𝒂𝒚𝒔 
+98. 
+If 27 men take 15 days to mow 225 hectares of grass, how long will 33 men take to 
+mow 165 hectares? 
+र्दि 27 आिमी 225 हेक्टेर्र घास काटने में 15 दिन िगाते हैं, तो 33 आिमी 165 हेक्टेर्र घास काटने में ककतना 
+समर् िेंगे? 
+A) 
+11 days 
+B) 
+9 days 
+C) 
+12 days 
+D) 
+14 days 
+99. 
+25 doctors can diagnose 75 patients in 5 hours. If five doctors leave the job, then 
+how many patients can be diagnosed in 6 hours? 
+25 MkWDVj 5 ?kaVs esa 75 jksfx;ksa dh tkap dj ldrs gSaA ;fn ikap MkWDVj lsok NksM+ nsrs gSa] rks 6 ?kaVs esa fdrus jksfx;ksa dh tkap dh tk ldrh gS\ 
+(a) 
+74 
+(b) 
+70 
+(c) 
+72 
+(d) 
+76 
+100. 
+If 45 men can build a wall of 360 m length in 18 days, how many 
+men will take 15 days to build a similar type of wall of length 180 m? 
+यदि 45 आिमी 360 मीटर लंबी िीवार 18 दिन ं में बना सकते हैं, त  उसी प्रकार 180 मीटर लम्बाई की िीवार 15 
+दिन ं में बनाने में दकतने आिमी लगेंगे? 
+1. 29 men 
+2. 27 men 
+3. 21 men 
+4. 25 men 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+101. 
+If 30 men can build a wall 84 metres long in 9 days, what length (in metres) of a similar 
+wall can be built by 45 men in 4 days? 
+ 
+BY:-GAGAN PRATAP 
+यदि 30 आिमी 84 मीटर लंबी िीवार 9 दिन ं में बना सकते हैं, त  45 आिमी 4 दिन ं में दकतनी लंबी (मीटर में) समान 
+िीवार बना सकते हैं? 
+1.56 metres 
+2. 60 metres 
+3. 70 metres 
+4. 63 metres 
+ 
+ 
+ 
+( ICAR Technician 2023) 
+102. 
+If 45 persons can complete a work in 18 days, working 8 hours a day, then how many 
+persons are required to complete two-thirds of the same work in 20days, working 9 hours 
+a day? 
+;fn 45 O;fDr izfrfnu 8 ?kaVs dke djds ,d dke dks 18 fnuksa esa iwjk dj ldrs gSa] rks mlh dke ds nks&frgkbZ Hkkx dks çfrfnu 9 ?kaVs dke 
+djds 20 fnuksa esa iwjk djus ds fy, fdrus O;fDr;ksa dh vko”;drk gksxh\ 
+(a) 36  
+ 
+(b) 40  
+ 
+ 
+(c) 30  
+ 
+(d) 24 
+103. 
+A can do a piece of work in 15 days working 6 hours per day and B can do it in 10 
+days working 5 hours per day. How long (in days) will they take to do it, working together 
+for 9 hours per day? 
+A एक काम को प्रनतदिन 6 घंटे काम करके 15 दिनों में कर सकता है और B इसे प्रनतदिन 5 घंटे काम करके 10 
+दिनों में कर सकता है। प्रनत दिन 9 घंटे एक साथ काम करते हुए, उन्हें ऐसा करने में ककतना समर् (दिनों में) 
+िगेगा? 
+A) 
+5
+𝟒
+𝟕 
+B) 
+3
+𝟒
+𝟕 
+C) 
+2
+𝟒
+𝟕 
+D) 
+6
+𝟒
+𝟕 
+104. 
+I can finish a work in 8
+𝟏
+𝟑  days working 18 hours a day. You can finish it in 16 days 
+working 15 hrs a day. Find, in how many hours we can finish 
+𝟏
+𝟑𝒓𝒅 work together, if we work 
+10 hrs a day? 
+मैं प्रनत दिन में 18  घंटे काम करके एक काम को 𝟖
+𝟏
+𝟑  दिनों में पूरा कर सकता हूं। आप इस काम को  प्रनतदिन 15 
+घंटे काम करके 16 दिनों में पूरा कर सकते हैं। र्दि हमिोग प्रनत दिन 10 घंटे काम करे, तो हम एक साथ लमिकर 
+एक – नतहाई  काम को ककतने घंटे में पूरा कर सकते हैं? 
+a) 𝟑
+𝟏
+𝟏𝟑    
+ 
+b) 2
+𝟗
+𝟏𝟑   
+  
+c) 4
+𝟖
+𝟏𝟑     
+ 
+d) 5
+𝟑
+𝟏𝟑 
+105. 
+If 100 cats kill 100 mice in 100 days. then 4 cats would kill 4 mice in how many 
+days? 
+यदि 100 दिदलिय ाँ 100 दिनों में 100 चूहों को म र िेती हैं। तो 4 दिदलिय ाँ 4 चूहों को दकतने दिनों में म र िेंगी? 
+a)4days.     B)6days    
+c)40days.D)100days 
+ 
+106. 
+If 12 carpenters working 6 hours a day can make 460 chairs in 240 days, then 
+number of chairis made by 18 carpenters in 360 days each working 8 hours a day. 
+अगर दिन में 6 घंटे काम करने वािे 12 बढ़ई 240 दिनों में 460 कुलसयर्ाँ बना सकते हैं, तो प्रत्र्ेक दिन 8 घंटे काम 
+करने वािे 18 बढ़ई द्वारा 360 दिनों में बनाई गई कुलसयर्ों  की संख्र्ा की संख्र्ा क्र्ा है । 
+a)1320 
+           
+ 
+b)1380 
+ 
+c)1260 
+ 
+ 
+d)920 
+107. 
+If 6 burners burn 6 hours daily, the cost of gas for 8 days comes to Rs 450, then how 
+many burners can be burned up to 5 hours a day for 10 days in 625 rupees? 
+ 
+BY:-GAGAN PRATAP 
+र्दि 6 बनयरों को 6 घंटे प्रनतदिन जिाने पर 8 दिन का गैस का व्र्र् 450 रूपर्े आता है, तो 625 रूपर्े में 10 दिन 
+तक 5 घंटे प्रनतदिन ककतने बनयर जिार्े जा सकते है? 
+a) 12 
+ 
+ 
+b) 16 
+ 
+ 
+c) 4 
+ 
+ 
+d) 8 
+108. 
+If 56 workers earn ₹4,050 in 5 days, how much will 48 workers earn in 14 days? 
+र्दि 56 श्रलमक 5 दिनों में ₹4,050 कमाते हैं, तो 48 श्रलमक 14 दिनों में ककतना कमाएंगे? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(DP CONSTABLE 2023) 
+A) 
+Rs 6128 
+B) 
+Rs 9720 
+C) 
+Rs 5968 
+D) 
+Rs 9980 
+109. 
+If x men working x hours per day can do x units of work in x days, then y men 
+working y hours per day in y days would be able to do k units of work. What is the value of 
+K? 
+;fn x vkneh x ?kaVs izfrfnu dke djds x fnuksa esa x bdkbZ dke dj ldrs gS] rks y vkneh] y ?kaVsa izfrfnu dke djds y fnuksa esa k bdkbZ dke 
+dj ldsaxasA k dk eku D;k gS\ 
+(A) x2y3 
+ 
+(B) x3y-2 
+ 
+ 
+(C) y2x-3 
+ 
+(D) y3x-2 
+110. 
+14 persons can complete 5/12 part of a work in 18 days, working 7 hours daily. How 
+many hours working daily will 21 persons complete the rest of the work in 15 days? 
+14 O;fDr çfrfnu 7 ?kaVs dk;Z djrs gq, fdlh dk;Z dks 5/12 Hkkx 18 fnuksa esa iwjk dj ldrs gSaA 21 O;fDr izfrfnu fdrus ?kaVs dk;Z djds 'ks"k 
+dk;Z dks 15 fnuksa esa iwjk djsaxs\ 
+(a) 
+7 
+𝟐𝟏
+𝟐𝟓 hours 
+(b) 
+3 
+𝟐𝟏
+𝟐𝟓 hours 
+(c) 
+11 
+𝟑
+𝟐𝟓 hours 
+(d) 
+9 
+𝟏𝟔
+𝟐𝟓 hours 
+111. 
+(N+18) persons, each working for 7.5 hours a day, can complete 48% of a work in 20 
+days. (N+12) persons can complete the remaining work in 30 days, if each of them works 
+for 6.5 hours per day. Determine the value of N? 
+(N+18) व्र्र्क्त, प्रत्र्ेक व्र्र्क्त प्रनतदिन 7.5 घंटे काम करके, 20 दिनों में 48% काम पूरा कर सकता है। (N+12) 
+व्र्र्क्त शेष कार्य 30 दिनों में पूरा कर सकते हैं, र्दि उनमें से प्रत्र्ेक प्रनतदिन 6.5 घंटे काम करता है। N का मान 
+ज्ञात करें? (SSC CGL 2023) 
+A) 
+18 
+B) 
+16 
+C) 
+20 
+D) 
+22 
+112. 
+Food is available for 27 days for 35 students in a hostel. For how many days will this 
+food be sufficient for 45 students? 
+एक छात्रावास में 35 छात्र ं के दलए 27 दिन ं तक भ जन उपलब्ध है। यह भ जन 45 दवद्यादथधय ं के दलए दकतने दिन ं तक 
+पयाधप्त ह गा? 
+1. 25 
+2. 22 
+3. 23 
+4. 21 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+113. 
+A stock of food is enough for 315 men for 48 days. For how many days the same 
+stock of food is enough, if 45 more men join? 
+ 
+BY:-GAGAN PRATAP 
+315 iq#"kksa ds fy, 48 fnu dk Hkkstu dk HkaMkj i;kZIr gSA ;fn 45 vkSj iq#"k 'kkfey gks tkrs gSa rks ogha Hkkstu dk HkaMkj fdrus fnuksa ds fy, 
+i;kZIr gksxk\  
+SSC CHSL 2023 PRE
+ 
+(a) 
+46 
+(b) 
+42 
+(c) 
+48 
+(d) 
+44 
+114. 
+Sufficient food-supply was arranged to last for 30 days for 250 soldiers. If 50 soldiers 
+did not attend the camp, for how many extra days will the food-supply last ? 
+250 सैदनक ं के दलए 30 दिन के दलए पयाधप्त खाद्य आपूदतध की व्यवस्था की गई थी। यदि 50 सैदनक ं ने दशदवर में भाग 
+नहीं दलया, त  खाद्य आपूदतध दकतने अदधक दिन ं तक चलेगी? 
+RRB JE 24/05/2019 (Morning) 
+(a) 10 days  
+(b) 9 days  
+(c) 12 days 
+(d) 7.5days 
+115. 
+A fort had provision of food for 150 men for 85 days. After 15 days, 25 men left the 
+fort. Find the number of days for which the remaining food will last. 
+एक ककिे में 150 पुरूषों के लिए 85 दिनों के भोजन का प्रबंि था। 15 दिनों के बाि, 25 पुरूष ककिे से चिे गए। बचा 
+हुआ भोजन ककतने दिनों तक चिेगा? (SSC GD 2025) 
+1. 88 
+ 
+ 
+ 
+ 
+2. 84 
+3. 80 
+ 
+ 
+ 
+ 
+4. 82 
+116. 
+A fort had provision for 400 men for 60 days. After 35 days, 100 more men came. 
+For how many days would the provisions last, assuming all men consumed food equally? 
+fdlh fdys eas 400 O;fDr;ksa ds fy, 60 fnu dh [kk| lkexzh gSA 35 fnu ckn] 100 vkSj O;fDr vkrs gSaA [kk| lkexzh fdrus fnu rd pysxh] ;g 
+ekurs gq, fd lHkh iq:"k leku ek=k esa Hkkstu djrs gSa\ MTS 2020 
+(a) 30 
+(b) 35 
+(c) 20 
+(d) 28  
+ 
+ 
+ 
+117. 
+There is sufficient food for 2400 soldiers for 60 days and each soldier eats 750 
+grams everyday after 43 days 900 soldiers left the camp. Now for how many days rest of 
+the food lasted for the rest of the soldiers if each ate 850gram food everyday. 
+2400  सैननकों के लिए 60 दिनों के लिए पर्ायप्त भोजन है और प्रत्र्ेक सैननक प्रनतदिन 750 ग्राम भोजन खाता है   
+43 दिनों के बाि 900 सैननकों के लशपवर से बाहर ननकि जाते  है। अब बाकी जवानों के लिए खाना ककतने दिनों 
+तक रहता है र्दि अब प्रनतदिन हरेक सैननक 850 ग्राम खाना खाए। 
+a) 18 
+ 
+b)28 
+ 
+c)24 
+ 
+d)32 
+118. 
+A team of 30 men is supposed to complete a work in 41 days. After 25 days, 6 more 
+men are employed, and the work is finished one day earlier. By how many days would it 
+have been delayed, if 6 more men were not employed? 
+30 पुरुष ं वाली  एक टीम क  दकसी कायध क  41 दिन में पूरा करना है। 25 दिन बाि, 6 और पुरुष कायध के दलए दनय दजत 
+दकए जाते हैं, और कायध एक दिन पहले समाप्त ह  जाता है। यदि 6 और पुरुष कायध के दलए दनय दजत नहीं दकए जाते, त  
+इस कायध के पूरे ह ने में दकतने दिन की िेरी ह ती ? 
+Group D  09/09/2022 (Evening) 
+(a) 2 days 
+(b) 4 days 
+(c) 3 days 
+(d) 1 days 
+119. 
+A contractor undertook to finish a work in 92 days and employed 110 men. After 48 
+days, he found that he had already done 
+𝟑
+𝟓 part of the work, the number of men he can 
+withdraw so that his work may still be finished in time is: 
+ 
+BY:-GAGAN PRATAP 
+एक ठेकेिार 92 दिनों में ककसी काम को पूरा करने को ठेका िेता है और वह इसके लिए 110 िोगों को काम पर 
+िगाता है| 48 दिनों के बाि वह पाता है की उसने 
+𝟑
+𝟓भाग काम का ख़त्म कर दिर्ा है, तो काम समर् पर ख़त्म हो 
+इसके लिए वह ककतने िोगों को काम पर से हटा सकता है? 
+a) 45 
+ 
+b) 40 
+ 
+C) 35  
+D) 30 
+120. 
+A civil contractor planned to build an over bridge of 3 km distance in 600 days. For 
+this purpose, he employed 90 workers. After 200 days of work, it was observed that only 
+0.5 km of the bridge was completed. What is the number of extra workers required to 
+complete the work in time? 
+,d flfoy Bsdsnkjus 600 fnuksa esa 3 fdeh dh nwjh dk,d vksoj fczt cukus dh ;kstuk cukbZA bl mís'; ds fy,] mUgksaus 90 Jfedksa dks fu;qDr 
+fd;kA 200 fnuksa ds dke ds ckn] ;g ns[kk x;k fd iqy dk dsoy 0-5 fdeh Hkkx gh iwjk gqvk FkkA dk;Z dks le; ij iwjk djus ds fy, fdrus 
+vfrfjDr deZpkfj;ksa dh vko';drk gS\ 
+(a) 
+100 
+(b) 
+140 
+(c) 
+125 
+(d) 
+         135 
+ 
+121. 
+A contract is to be completed in 75 days and 187 men are to work 15vhours per day. 
+After 65 days,  
+𝟑
+𝟓 of the work is completed, how many additional men may be employed, so 
+that the work may be completed in time, each man now working 17 hours per day? 
+एक अनुबंध 75 दिनों में पूरा दकया जाना है और 187 पुरुषों को प्रदत दिन 15 घंटे काम करना है। 65 दिनों के बाि, 
+𝟑
+𝟓 काम पूरा हो गया है, दकतने अदतररि पुरुषों 
+को दनयुि दकया जाना चादहए , तादक काम समय पर पूरा हो सके, प्रत्येक आिमी अब प्रदत दिन 17 घंटे काम कर रहा है? 
+a) 514  
+b) 532  
+c) 528  
+d) 495 
+122. 
+A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is 
+joined by another person who also can complete the job in exactly 120 days. On Day 3, 
+they are joined by another person of equal efficiency. Like this, everyday a new person 
+with the same efficiency joins the work. How many days are required to complete the job? 
+एक व्र्र्क्त 120 दिनों में कोई काम कर सकता है। वह दिन  1 पर अकेिे काम करता है दिन 2, वह ककसी अन्र् 
+व्र्र्क्त के साथ  शालमि हो जाता है जो ठीक 120 दिनों में  काम पूरा कर सकता है।  तीसरे दिन पर, वे समान 
+ििता के एक अन्र् व्र्र्क्त द्वारा जुड़ जाते हैं। इस तरह, हर रोज एक ही ििता वािा नर्ा व्र्र्क्त काम में शालमि 
+होता है। काम पूरा करने के लिए ककतने दिन चादहए? 
+(a) 15  
+ 
+(b) 14  
+ 
+ 
+(c) 12  
+ 
+(d) 16 
+123. 
+60 men can complete a work in 40 days. They start work together but after every 10 
+day, 5 men leave the work. In how many days will the work be completed?  
+60 vkneh ,d dke dks 40 fnuksa esa iwjk dj ldrs gSaA os ,d lkFk dke djuk 'kq: djrs gSa ysfdu gj 10 fnu ckn 5 vkneh dke NksM+ nsrs gSaA 
+dke fdrus fnuksa esa iwjk gks ik,xk\ 
+(a) 47.5 
+(b) 49.5 
+(c)42.5 
+(d) 45.5 
+124. 
+A group of men decided to do a job in 11 days but 16 men left the work 
+after each day. The work, as a result, got completed in 15 days. How many 
+men were there initially in the group? 
+ 
+BY:-GAGAN PRATAP 
+ पुरुष ं के एक समूह ने 11 दिन ं में एक काम करने का फैसला दकया लेदकन प्रत्येक दिन के बाि 16 
+  ल ग ं ने काम छ ड़ दिया। पररर्ामस्वरूप, कायध 15 दिन ं में पूरा ह  गया। प्रारंभ में समूह में दकतने पुरुष थे? 
+a) 400 
+ 
+b) 480 
+ 
+c) 420 
+ 
+d) 450 
+125. 
+150 workers were engaged to finish a piece of work in a certain number of days. Four 
+workers dropped on the second day, four more workers dropped on third day and so on. It 
+takes 8 more days to finish the work now. Find the number of days in which the work was 
+completed? 
+150 कमयचारी एक ननर्श्चत दिनों में काम खत्म करने के लिए िगे हुए थे। िूसरे दिन चार मजिूर काम छोडकर चिे 
+गर्े, तीसरे दिन चार और मजिूर चिे गर्े इस प्रकार र्ह प्रकक्रर्ा चिती है । इसलिए अब काम खत्म होने में 8 दिन 
+और अधिक िगेंगे। उन दिनों की संख्र्ा ज्ञात कीर्जए र्जनमें कार्य पूरा होना था? 
+a) 28 
+ 
+b) 24 
+ 
+c) 25 
+ 
+d) 30 
+ 
+ 
+ 
+ 

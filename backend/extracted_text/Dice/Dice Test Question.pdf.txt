@@ -1,0 +1,625 @@
+1.
+Two different positions of a single dice are
+given, then find the number which is opposite
+to 3?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं, तब 3
+के चिपरीत कौन सी संख्या आएगी?
+(a) 1 
+(b) 2 
+(c) 4 
+(d) 6 
+2.
+Two different positions of a single dice are
+given, then find the number which is opposite
+to 4?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं चिर
+संख्या ज्ञात करें जो 4 के चिपरीत है?
+(a) 1 
+(b) 3 
+(c) 5 
+(d) 2 
+3.
+Two different positions of a single dice are
+given, then find the correct option which
+represents that dice given in question figure?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं, चिर
+सही चिकल्प खोंजें जो प्रश्न आकृचत में चदए गए पासे को
+दर्ााए।
+(a) 
+(b) 
+(c) 
+(d) 
+4.
+Two different positions of a single dice are
+given, then find the correct option which
+represents that dice given in question figure?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं, चिर
+सही चिकल्प खोंजें जो प्रश्न आकृचत में चदए गए पासे को
+दर्ााए।
+(a) 
+(b) 
+(c) 
+(d) 
+5.
+Two different positions of a single dice are
+given, then find the symbol which is opposite to
+$?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं तब $
+के चिपरीत क्या है?
+(a) % 
+(b) @ 
+(c) # 
+(d) * 
+6.
+Three different positions of a single dice are
+given, then what should come in place of
+question mark?
+एक ही पासा के तीन अलग-अलग चित्र चदए गए हैं तो प्रश्न
+चिन्ह के स्थान पर क्या आना िाचहए?
+(a) 2 
+(b) 3 
+(c) 5 
+(d) 6 
+7.
+Three different positions of a single dice are
+given, then what should come in place of
+question mark?
+एक ही पासा के तीन अलग-अलग चित्र चदए गए हैं तो प्रश्न
+चिन्ह के स्थान पर क्या आना िाचहए?
+(a) 1 
+(b) 3 
+(c) 4 
+(d) 6 
+8.
+Three different positions of a single dice are
+given, then what should come in place of ques-
+tion mark?
+एक ही पासा के तीन अलग-अलग चित्र चदए गए हैं तो प्रश्न
+चिन्ह के स्थान पर क्या आना िाचहए?
+(a) 1 
+(b) 3 
+(c) 5 
+(d) 6 
+9.
+Three different positions of a single dice are
+given, then what should come in place of ques-
+tion mark?
+एक ही पासा के तीन अलग-अलग चित्र चदए गए हैं तो प्रश्न
+चिन्ह के स्थान पर क्या आना िाचहए?
+(a) A 
+(b) C 
+(c) E 
+(d) C or F 
+10. Three different positions of a single dice are
+given, then what should come in place of ques-
+tion mark?
+एक ही पासा के तीन अलग-अलग चित्र चदए गए हैं तो प्रश्न
+चिन्ह के स्थान पर क्या आना िाचहए?
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 5 
+11. Two different positions of a single dice are
+given, then find the correct option which
+represents that dice given in question figure?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं, चिर
+सही चिकल्प खोजें जो प्रश्न आकृचत में चदए गए पासे को
+दर्ााए।
+(a) 
+(b) 
+(c) 
+(d) 
+12. Two different positions of a single dice are
+given, then find the number which is opposite
+to 5?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं चिर
+संख्या ज्ञात करें जो 5 के चिपरीत है?
+(a) 2 
+(b) 1 
+(c) 1/2 
+(d) 3/4/6 
+13. Two different positions of a single dice are
+given, then find the number which is opposite
+to 4?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं चिर
+संख्या ज्ञात करें जो 4 के चिपरीत है?
+(a) 2/3 
+(b) 3/5 
+(c) 2/5 
+(d) 1/5/6 
+14. Two different positions of a single dice are
+given, then find the number which is opposite
+to 4?
+एक ही पासा के दो अलग-अलग चित्र चदए गए हैं चिर
+संख्या ज्ञात करें जो 4 के चिपरीत है?
+(a) 1 
+(b) 2 
+(c) Cannot be Determined / चनर्ााररत नहीं चकया 
+जा सकता 
+(d) 3 
+15. The four different positions of a dice are given
+below:
+एक पासा के िार अलग-अलग चित्र नीिे चदए गए हैंैंः
+Which number is on the face opposite to 6? 
+6 के चिपरीत सतह पर कौन सी संख्या है? 
+(a) 1 
+(b) 2 
+(c) 3 
+(d) 4 
+16. How many dots are there on the face opposite
+the one with three dots?
+तीन डॉट्स िाले सतह के चिपरीत सतह पर चकतने डॉट
+होते हैं?
+(a) 2 
+(b) 4 
+(c) 5 
+(d) 6 
+17. Which number is opposite to 3, if four different
+positions of a dice are as shown below?
+यचद एक पासा के िार अलग-अलग चित्रें को नीिे
+चदखाया गया है, तो 3 के चिपरीत क्या होगा?
+(a) 6 
+(b) 4 
+(c) 3 
+(d) 2 
+18. Shown below are four different positions of the
+same dice. Find the number on the face
+opposite the face showing 6?
+नीिे चदखाए गए एक ही पासा के िार अलग-अलग चित्र
+हैं। तब 6 के चिपरीत क्या होगा?
+(a) 1 
+(b) 2 
+(c) 4 
+(d) 5 
+19. Which number is on the face opposite 4, if the
+four different positions of a dice are as shown in
+the figures given below?
+4 के चिपरीत सतह पर कौन सी संख्या है, यचद एक पासा
+के िार अलग-अलग स्स्थचतयों को नीिे चदए गए चित्रें में
+चदखाया गया है।
+(a) 5 
+(b) 3 
+(c) 2 
+(d) 1 
+20. A dice is thrown four times and its four different
+positions are shown below. Find the number on
+the face opposite the face showing 2?
+एक पासा िार बार िेंका जाता है और इसके िार अलग-
+अलग चित्र नीिे चदखाए गए हैं। तब 2 के चिपरीत क्या
+होगा?
+(a) 3 
+(b) 4 
+(c) 5 
+(d) 6 
+21. The symbol opposite the face having the
+symbol '
+' is?
+प्रतीक '
+' िाले सतह के चिपरीत प्रतीक है?
+(a) 
+(b) 
+(c) 
+(d) 
+22. The symbol opposite the face having the
+symbol '
+' is?
+प्रतीक '
+' िाले सतह के चिपरीत प्रतीक है?
+(a) 
+(b) 
+(c) 
+(d) 
+23. Three positions of a dice are given. Based on
+them, find out which number is found opposite
+the number 2 in the given cube?
+एक पासा के तीन स्स्थचतयााँ चदए गए हैं। उनके आर्ार पर,
+पता करें चक चदए गए घन में संख्या 2 के चिपरीत कौन सी
+संख्या है?
+(a) 6 
+(b) 5 
+(c) 3 
+(d) 1 
+24. Three different positions of a dice are shown
+below. How many dots lie opposite 2 dots?
+एक पासा के तीन अलग-अलग स्स्थचतयों को नीिे चदखाया
+गया है। 2 चबंदुओं के चिपरीत चकतने चबंदु हैं?
+(a) 1 
+(b) 3 
+(c) 5 
+(d) 6 
+25. Below are depicted the three different positions
+of a dice. Find the number of dots on the face
+opposite to the face with one dot?
+नीिे एक पासा के तीन अलग-अलग स्स्थचतयों को दर्ााया
+गया है। एक चबंदु िाले सतह के चिपरीत सतह पर चबंदुओं
+की संख्या का पता लगाएं।
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 6 
+26. What will be the number at the bottom, if 5 is at
+the top? The two positions of the dice being as
+given below?
+नीिे की तरफ
+ संख्या क्या होगी, अगर 5 ऊपरी सतह पर
+है?
+(a) 1 
+(b) 2 
+(c) 3 
+(d) 6 
+27. A dice is rolled twice and the two positions are
+shown in the figures below. What is the number
+of dots at the bottom face when the dice is in
+position (I)?
+एक पासे को दो बार घुमाया गया और नीिे दी गई दो
+स्स्थचतयां प्राप्त हुई। नीिे की सतह पर चबंदुओं की संख्या
+क्या होगी जब पासा स्स्थचत (i) में है? 
+(a) 1 
+(b) 5 
+(c) 6 
+(d) Cannot be Determined / चनर्ााररत नहीं चकया 
+जा सकता 
+28. Two positions of a dice are shown. When 4 is at
+the bottom, what number will be on the top?
+एक पासा के दो चित्र चदखाए गए हैं। जब 4 सबसे नीिे है,
+तो ऊपरी सतह पर कौन सी संख्या होगी?
+(a) 1 
+(b) 2 
+(c) 5 
+(d) 6 
+29. What number is opposite 3 in the figure shown
+below? The given two positions are of the same
+dice whose each surface bears a number
+among 1, 2, 3, 4, 5 and 6?
+नीिे चदखाए गए चित्र में संख्या 3 के चिपरीत क्या है? चदए
+गए दो स्स्थचतयााँ एक ही पासे की हैं चजनकी प्रत्येक सतह
+पर 1, 2, 3, 4, 5 और 6 चलखे है?
+(a) 2 
+(b) 4 
+(c) 5 
+(d) 6 
+30. Observe the dots on a dice (one to six dots) in
+the following figures. How many dots are
+contained on the face opposite to that
+containing four dots?
+चनम्नचलस्खत चित्र में एक पासा (1 से 6 चबंदु) पर चबंदुओं
+का चनरीक्षण करें। िार चबंदुओं िाले सतह के चिपरीत
+चकतने चबंदु चनचहत हैं? 
+(a) 2 
+(b) 3 
+(c) 6 
+(d) Cannot be Determined / चनर्ााररत नहीं चकया 
+जा सकता 
+31. Two positions of a dice are shown below.
+Identify the number at the bottom when the
+top is '3'?
+एक पासा के दो चित्र नीिे चदखाए गए हैं। तब चनिली
+सतह पर कौन सी संख्या होगी यचद ऊपरी सतह पर 3
+हो?
+(a) 2 
+(b) 4 
+(c) 5 
+(d) 6 
+32. Two positions of a cube are shown below. When
+the number 4 will be at the bottom, then which
+number will be at the top?
+एक घन की दो स्स्थचतयों को नीिे चदखाया गया है। जब
+संख्या 4 सबसे नीिे होगी, तो कौन सी संख्या सबसे ऊपर
+होगी?
+(a) 3 
+(b) 5 
+(c) 6 
+(d) Cannot be Determined / चनर्ााररत नहीं चकया 
+जा सकता 
+33. Two positions of a dice are shown below. When
+number 1 is on the top, what number will be at
+the bottom?
+एक पासा के दो चित्र नीिे चदखाए गए हैं। जब संख्या 1
+सबसे ऊपर हो, तो सबसे नीिे कौन सी संख्या होगी? 
+(a) 2 
+(b) 3 
+(c) 5 
+(d) Cannot be Determined / चनर्ााररत नहीं चकया 
+जा सकता 
+34. Two positions of a dice with 1 to 6 dots on its
+sides are shown below. If the dice is resting on
+the side with three dots, what will be the
+number of dots on the side at the top?
+एक पासे की 2 स्स्थचतयां दी गई है। यचद पासे की चनिली
+सतह पर 3 है, तो ऊपर सतह पर कौन सी संख्या होगी?
+(a) 1 or 5 
+(b) 2 
+(c) 3 
+(d) 5 
+35. Two positions of a block are given below. When
+1 is at the top, which number will be at the
+bottom?
+एक ब्लॉक के दो चित्र नीिे चदए गए हैं। जब 1 सबसे
+ऊपर हो, तो सबसे नीिे कौन सी संख्या होगी?
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 6 
+36. Three forms of a dice are shown below. In this
+dice which figure will be on the surface
+opposite to the figure 
+?
+एक पासा के तीन रूप नीिे चदखाए गए हैं। इस पासा में
+आकृचत 
+ के चिपरीत सतह पर कौन सी आकृचत होगी?
+(a) × 
+(b) + 
+(c) 0 
+(d) ÷ 
+37. Four forms of a dice are shown below. In this
+dice which colour will be on the surface
+opposite to the yellow colour?
+एक पासा के िार रूप नीिे चदखाए गए हैं। इस पासा में
+पीले रंग के चिपरीत सतह पर कौन सा रंग होगा?
+(a) Red/ लाल 
+(b) Blue/ नीला 
+(c) Pink/ गुलाबी 
+(d) Violet/ बैंगनी 
+38. Four forms of a dice are shown below. In this
+which dots will be on the surface opposite to
+the dot 1?
+एक पासा के िार रूप नीिे चदखाए गए हैं। इसमें अंक 1
+के चिपरीत सतह पर कौन सा अंक होगा?
+(a) 2 
+(b) 3 
+(c) 4 
+(d) 6 
+39. Four forms of a dice are shown below. In this
+dice which digit will be on the surface opposite
+to the digit 4?
+एक पासा के िार रूप नीिे चदखाए गए हैं। इस पासे में
+अंक 4 के चिपरीत सतह पर कौन सा अंक होगा?
+(a) 1 
+(b) 2 
+(c) 3 
+(d) 5 
+40. If in a dice its two opposite surface addition is
+7. Which is the right form of this dice shown
+below? 
+यचद एक पासे में दो चिपरीत सतहों का योग 7 हो तब नीिे 
+चदखाए गए इस पासे का सही रूप कौन सा है? 
+(a) 
+(b) 
+(c) 
+(d) 
+41. Four different positions of a dice are as shown
+below. What number is opposite to face 3?
+एक पासा के िार अलग-अलग चित्र नीिे चदए गए हैं।
+सतह 3 के चिपरीत कौन सी संख्या है?
+(a) 4 
+(b) 3 
+(c) 2 
+(d) 6 
+42. From the given blocks when 10 is at the
+bottom, which number will be at the top?
+चदए गए चित्र में से जब 10 सबसे नीिे होता है, तो कौन
+सी संख्या सबसे ऊपर होगी?
+(a) 8 
+(b) 12 
+(c) 6 
+(d) Cannot be Determined / चनर्ााररत नहीं चकया 
+जा सकता 
+43. Study the 3 different positions of a cube given
+below and answer what number comes oppo-
+site to 2?
+नीिे चदए गए घन के 3 अलग-अलग स्स्थचतयों का
+अध्ययन करें और उत्तर दें चक 2 के चिपरीत कौन सी
+संख्या आती है?
+(a) 4 
+(b) 5 
+(c) 3 
+(d) 1 
+44. Four positions of a dice are given below.
+Identify the number at the bottom when top is
+6?
+एक पासा के िार चित्र नीिे चदए गए हैं। र्ीर्ा पर 6 होने
+पर नीिे की संख्या को पहिानें।
+(a) 1 
+(b) 3 
+(c) 4 
+(d) 5 
+45. Four positions of a dice are given below.
+Identify the number at the bottom when the
+number on the top is 2?
+एक पासा के िार चित्र नीिे चदए गए हैं। र्ीर्ा पर संख्या 2
+होने पर नीिे की संख्या को पहिानें।
+(a) 3 
+(b) 5 
+(c) 4 
+(d) 6 
+46.  Which option is correct?
+कौन सा चिकल्प सही है?
+(a) Only 2/ केिल 2 
+(b) Only 3/ केिल 3 
+(c) All/ सभी 
+(d) None of these/ इनमें से कोई नहीं 
+47.  Which option is correct?
+कौन सा चिकल्प सही है?
+(a) 
+(b) 
+(c) 
+(d) 
+48.  Which option is correct?
+कौन सा चिकल्प सही है?
+(a) 
+(b) 
+(c) 
+(d) 
+49.  Which option is correct?
+कौन सा चिकल्प सही है?
+(a) 
+(b) 
+(c) 
+(d) 
+50.  If 4 is opposite to 5 then what is opposite to 6?
+यचद 4 के चिपरीत 5 है तब 6 के चिपरीत क्या होगा?
+(a) 1 
+(b) 3 
+(c) 5 
+(d) 6 
+1.
+d
+2.
+b
+3.
+d
+4.
+c
+5.
+b
+6.
+c
+7.
+b
+8.
+a
+9.
+d
+10. d
+1 
+(d) 
+2 
+(b) 
+3 
+(d) 
+4 
+(c) 
+5 
+(b) 
+6 
+(c) 
+7 
+(b) 
+8 
+(a) 
+9 
+(d) 
+10 
+(d) 
+11 
+(c) 
+12 
+(d) 
+13 
+(d) 
+14 
+(c) 
+15 
+(a) 
+16 
+(c) 
+17 
+(b) 
+18 
+(c) 
+19 
+(d) 
+20 
+(c) 
+21 
+(c) 
+22 
+(a) 
+23 
+(a) 
+24 
+(c) 
+25 
+(d) 
+26 
+(b) 
+27 
+(c) 
+28 
+(a) 
+29 
+(c) 
+30 
+(a) 
+31 
+(c) 
+32 
+(a) 
+33 
+(c) 
+34 
+(a) 
+35 
+(d) 
+36 
+(a) 
+37 
+(d) 
+38 
+(d) 
+39 
+(a) 
+40 
+(c) 
+41 
+(a) 
+42 
+(d) 
+43 
+(b) 
+44 
+(a) 
+45 
+(b) 
+46 
+(d) 
+47 
+(c) 
+48 
+(d) 
+49 
+(a) 
+50 
+(b) 
+Answer Key 
+SOLUTION 
+11. c
+12. d
+13. d
+14. c
+15. a
+16. c
+17. b
+18. c
+19. d
+20. c
+21. c
+22. a
+23. a
+24. c
+25. d
+26. b
+27. c
+28. a
+29. c
+30. a
+31. c
+32. a
+33. c
+34. a
+35. d
+36. a
+37. d
+38. d
+39. a
+40. c
+41. a
+42. d
+43. b
+44. a
+45. b
+46. d
+47. c
+48. d
+49. a
+50. b

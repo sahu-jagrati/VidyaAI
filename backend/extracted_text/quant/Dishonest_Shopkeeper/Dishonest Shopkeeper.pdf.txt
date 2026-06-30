@@ -1,0 +1,631 @@
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ 
+1. A  dishonest shopkeeper promises to sell his goods at its CP but he uses  
+40% less weight .find his profit % ? 
+एक बेईमान दुकानदार अपने माल को अपने CP पर बेचने का वादा करता है, लेककन वह 40% कम वजन 
+का उपयोग करता है। लाभ % ज्ञात करे ? 
+a)40%                  b)66.66%             c)50%         d)none 
+2. A  dishonest shopkeeper promises to sell his goods at its CP but he uses 840gm 
+weight instead of 1 kg  .find his profit % ?(approx.) 
+ एक बेईमान दुकानदार अपना माल अपने CP पर बेचने का वादा करता है लेककन वह 1kg  के बजाय 
+840gm वजन का उपयोग करता है। शुद्ध लाभ%(लगभग) ज्ञात करे ? 
+a)19%                  b)14.28%                c)20%           d)21% 
+3. A  dishonest shopkeeper promises to sell his goods at 30% profit  but he uses 800 
+gm weight instead of 1 kg  .find his actual profit % ? 
+एक बेईमान दुकानदार अपने माल को 30% लाभ पर बेचने का वादा करता है, लेककन वह 1 ककलो के बजाय 
+800 ग्राम वजन का उपयोग करता है। वास्तववक लाभ % ज्ञात करे? 
+a)58.33%                   b)62.5%                    c)66.66%                 d)60% 
+4. Ram sells almonds at the cost price but uses false weight and thus gains 20% profit. How many grams of 
+almonds does he give in 3.78 kilograms? 
+राम बादाम को क्रय मूल्य पर बेचता हैलेककन गलत वजन का उपयोग करता हैऔर इस प्रकार 20% लाभ 
+प्राप्त करता है। वह 3.78 ककलोग्राम मेंककतनेग्राम बादाम देता है? 
+a. 3150 
+b. 2700 
+c. 2800 
+d. 2640 
+5. A seller uses faulty weight in place of a 2 kg weight and earns a 25% profit. He claims that he is selling 
+on the cost price in front of the customers but uses a faulty weight. How much error is there in the 2 kg 
+weight to gain 25%? 
+,d foØsrk 2 fdxzk- otu ds LFkku ij xyr otu dk mi;ksx djrk gS vkSj 25% ykHk vftZr djrk gSA mldk nkok gS fd og 
+xzkgdksa dsk Ø; ij csp jgk gS ysfdu xyr otu dk mi;ksx djrk gSA 25% dk ykHk dekus ds fy, ls 2 fdxzk- esa fdruk otu de 
+djuk gksxk\ 
+(a) 250 g         (b) 400 g         (c) 500 g            (d) 300 g 
+6. A man marks up his goods by 15% but he gives 920gm instead of 1kg to his customer 
+.find his profit%? 
+एक व्यक्तत 15% अधधक मूल्य अंककत करता है और 1 ककग्रा के बजाय 920 ग्राम ही तोलता है । शुद्ध 
+लाभ % ज्ञात करे ? 
+a)20%             b)25%             c)40%              d)33.33% 
+7. A dishonest dealer sells the goods at 7% loss on cost price but uses 18% less weight. What is his 
+percentage of profit? (Correct to 2 decimal places)  
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+,d csbZeku Mhyj oLrqvksa dks Ø;&ewY; ij 7% dh gkfu ij csprk gS] ysfdu 18% de otu dk mi;ksx djrk gSA mlds ykHk dk 
+çfr'kr D;k gS\ ¼2 n'keyo LFkkuksa rd lgh½ 
+(a) 
+25.65% 
+(b) 
+12.82% 
+(c) 
+28.75% 
+(d) 
+13.41%  
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+8. A trader cheats both his supplier and his customer by using faulty weights. When he 
+buys from the supplier, he takes 20% more than the indicated weight. When he sells 
+to his customer, he gives 20% less than the indicated weight. If he sells his articles 
+at the cost price, what is his net profit%? 
+एक व्यापारी दोषपूर्ण भार का उपयोग करके अपने आपूर्तणकताण और उसके ग्राहक दोनों को धोखा देता है। जब 
+वह आपूर्तणकताण से खरीदता है, तो वह संकेर्तत भार से 20% अधधक लेता है। जब वह अपने ग्राहक को बेचता 
+है, तो वह संकेर्तत वजन से 20% कम देता है। यदद वह लागत मूल्य पर अपने सामान को  बेचता है, तो 
+उसका शुद्ध लाभ% तया है? 
+a) 50% 
+ 
+ 
+b) 66
+𝟐
+𝟑% 
+c) 44% 
+ 
+        d) 44
+𝟒
+𝟗% 
+9. A dishonest shopkeeper makes a cheating of 22.5% at time of buying the goods and 
+6.66% cheating at selling time of goods. He promise to sale his at 11.11% loss. Find 
+the profit % ? 
+एक बेईमान दुकानदार खरीदते वतत 22.5% की और बेचते वक़्त 6.66% की बेईमानी करता है।वह सामान 
+को 11.11% हार्न पर बेचने का दावा करता है। उसका लाभ % ज्ञात करे? 
+a)14.28%                   b)16.66%                    c)20%                         d)17.5% 
+10. A shopkeeper professes to sell his goods at the cost price, but he uses false weights with which he cheats 
+by 10% while buying and by 15% while selling. His overall percentage of profit or loss is: 
+,d nqdkunkj vius eky dks Ø; ewY; ij cspus dk nkok djrk gS] ysfdu og xyr otu dk mi;ksx djrk gS ftlls og [kjhnrs 
+le; 10% vkSj csprs le; 15% dh csbZekuh djrk gSA mlds ykHk ;k gkfu dk dqy çfr'kr fdruk gS\ 
+(a) 26.5%      (b) 27.7%           (c) 22.72%        (d) 25% 
+11. 
+A dishonest dealer defrauds to the extent of x% in buying as well as selling is goods 
+by using faulty weight. What will be the gain percent on his outlay? 
+,d csbZeku O;kikjh xyr ckVksa dk ç;ksx djds viuh oLrqvksa dks Ø; vkSj foØ; djrs le; nksuksa ckj x% rd csbZekuh djrk gSA mldh 
+ykxr ij izkIr ykHk izfrशr D;k gksxk\   
+   
+12. A grocer sells rice at 10% profit and uses weights which are 20% less than the market weight. The total 
+gain earned by him is: 
+,d fdjkuk O;kikjh 10% ykHk ij pkoy csprk gS vkSj ,sls ckVksa dk mi;ksx djrk gS] tks cktkj ds Hkkj ls 20% de gSaA mlds 
+}kjk vftZr dqy ykHk --------------------- gSA 
+(a) 𝟑𝟑
+𝟏
+𝟑% 
+(b)20% 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+(c) 40% 
+(d) 37.5% 
+13. A dishonest merchant sells goods at a 12.5% loss on the cost price, but uses 28 g weight instead of 36 g. 
+What is his percentage profit or loss? 
+,d csbZeku O;kikjh Ø; ewY; ij 12.5% dh gkfu ij eky csprk gS] ysfdu 36 g ds ctk; 28 g otu dk mi;ksx djrk gSA mldk 
+çfr'kkr ykHk ;k gkfu D;k gS\ 
+(a) 
+6.25% loss/dh gkfu 
+(b) 
+12.5% gain/dk ykHk 
+(c) 
+18.75% gain/dk ykHk 
+(d) 
+10.5% loss/dh gkfu 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+14. A vegetable seller sells potatoes at Rs 22/kg which he purchased at Rs 18/kg. But he gives only 850 grams 
+of potatoes instead of 1 kg while selling. What is the actual percentage profit earned by the seller? 
+,d lCth foØsrk vkyw 22 #- fdxzk- csprk gS ftls mlus 18 #- fdxzk- ij [kjhnk FkkA ijUrq og csprs le; 1 fdxzk- dh txg 850 
+xzke gh vkyw nsrk gSA foØsrk }kjk vftZr okLrfod ykHk çfr'kr fdruk gS\ 
+(a) 30.45% 
+(b)42.79% 
+(c) 45.29% 
+(d) 43.79% 
+15. 
+A dishonest trader marks his goods 50% more and then allows a discount of 
+20% on its marked price. Additionally he uses a faulty scale which shows 1 kg for 
+900 gm. What will be his net profit percentage (rounded off to the nearest integer)? 
+एक बेईमान ब्यापारी अपने माल पर 50%  अधधक मूल्य अंककत करता है और किर उसके अंककत मूल्य पर 
+20% की छूट देता है।  इसके अर्तररतत  वह एक दोषपूर्ण तराजू का उपयोग करता है जो 900 gm के ललए 
+1 kg ददखता है।  उसका शुद्ध लाभ प्रर्तशत (र्नकटम पूर्ाणक तक) तया होगा? 
+A) 33 
+B) 36 
+C) 27 
+D) 24 
+16. 
+A shopkeeper marks his goods 24% above the CP and gives 15% discount to 
+customer. while selling he gives  101gm less in each 1kg goods. find his profit% ? 
+एक दुकानदार अपने माल को CP से 24% ऊपर रखता है और ग्राहक को 15% की छूट देता है। बेचते 
+समय वह प्रत्येक 1 ककलो सामान में 101 ग्राम कम देता है। उसका लाभ% तया है? 
+a)17.24%                  b)16.66%                 c)18.75%                 d)18% 
+17. A shopkeeper sells his items using a faulty balance which measures 25% less. He then marks up his 
+items 15% above the cost price. If he also gives a discount of 10%, then find his net profit percentage 
+on 1 kg items. 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+,d nqdkunkj viuh oLrqvksa dks ,d nks"kiw.kZ rjktw dk mi;ksx djds csprk gS tks 25% de rkSyrk gSA fQj og viuh oLrqvksa ij 
+Ø; ewY; ls 15% vf/kd ewY; vafdr djrk gSA ;fn og 10% dh NwV Hkh nsrk gS] rks 1 kg oLrqvksa ij mldk 'kq) ykHk çfr'kr 
+Kkr dhft,A 
+(a) 32%          (b) 41%          (c)44%          (d) 38% 
+18. 
+A shopkeeper marks up his goods 35% above the CP and gives 23% discount 
+to the customer. at the time of buying he uses 1120 gm instead of 1kg and  At the 
+time of selling the goods he gives  880 gm weight instead of 1kg  .find his profit %? 
+एक दुकानदार अपने माल को CP से 35% ऊपर रखता है और ग्राहक को 23% छूट देता है। खरीदने के 
+समय वह 1 ककलो के बजाय 1120 ग्राम का उपयोग करता है और सामान बेचने के समय वह 1 ककलो के 
+बदले 880 ग्राम वजन देता है। उसका लाभ% तया है ? 
+a)35.6%                  b) 29.41%                 c) 33.33%                        d)32.3% 
+ 
+19. 
+Instead of a metre scale, a cloth merchant uses 120cm while 
+buying but uses an 80cm scale while selling same cloth if he offers a discount of 20% 
+on cash payment what is his overall profit %? 
+एक कपडा व्यापारी खरीदते समय 1 मीटर के स्थान पर 120 सेमी जबकक बेचते समय 1 मीटर की जगह 
+80 सेमी नापता है।इसके साथ वह 20% छूट भी देता है ,उसका लाभ % ज्ञात करे। 
+a)20%                  b)25%               c)40%            d)15% 
+20. 
+A trader sells his goods to a customer at a profit of K% over CP. 
+Besides it he gives 880gm instead of 1kg his overall profit is 25% find the value of 
+k? 
+एक व्यापारी k% लाभ पर सामान ग्राहक को बेचता है।इसके अलावा वह 1 ककग्रा के स्थान पर 880ग्राम ही 
+तोलता है यदद उसका लाभ 25% हो तो k का मान ज्ञात करे। 
+a)8.33                       b)10                      c)12.5                          d)15 
+21. A dishonest dealer professes to sell his goods at cost price but uses a false weight and thus gains 15%. 
+For a kilogram, he uses a weight of _________ (rounded off to one digit after decimal). 
+,d Bx Mhyj vius eky dks Ø; ewY; ij cspus dk [kqysvke nkok djrk gS] ysfdu ,d xyr ckV dk mi;ksx djds 15% ykHk ysrk 
+gSA ,d fdyksxzke ds fy,] og --------------------- ¼n'keyo ds ckn ,d vad rd iw.kkZafdr½ okys ckV dk mi;ksx djrk gSA 
+(a) 
+833.3 gm 
+(b) 
+876.7 cm 
+(c) 
+869.6 gm 
+(d) 
+898.33 gm 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+22. A merchant claim to make profit of 12.5% on his sales but actually makes 25% by using 
+false weight when he professes to sell 1kg, how much does he actually sale? 
+एक व्यापारी अपनी बबक्री पर 12.5%लाभ का दावा करता है लेककन वास्तव में 1 ककग्रा की जगह गलत 
+वजन तोल के 25% का लाभ कमाता है । ज्ञात कीक्जये उसने वास्तव में ककतना समान बेचा? 
+a)800gm                         b)900gm                        c)920gm                    d)950gm 
+ 
+23. A shopkeeper advertises for selling cloth at 7% loss. However, by using a false scale of length 1 metre 
+he actually gains 24%. What will be the actual length he uses instead of 1 metre ? 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+,d nqdkunkj 7% gkfu ij diM+k cspus dk foKkiu djrk gSA ysfdu okLro esa og 1 ehVj yackbZ ds xyr Ldsy dk mi;ksx djds 
+24% ykHk çkIr dekrk gSA 1 ehVj ds Ldsy ds LFkku ij og fdl yackbZ dk Ldsy mi;ksx dj jgk gS\ 
+(a) 
+75 cm 
+(b) 
+31 cm 
+(c) 
+76 cm 
+(d) 
+93 cm 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+24. A faulty weighing machine reads 1 kg when 900 gm is actually weighted on it. The shopkeeper marked 
+the price of his goods by 10%, but unfortunately he was caught by the metrology department and then 
+they ordered him to repair his weighing machine and gave punishment to sell the goods at 10% discount 
+on cost price for a month. If each customer is now paying Rs.20 for 1 kg, then before the raid _______ 
+amount theyhave paid for the same quantity. (Rounded off to two places of decimal) 
+,d nqdkunkj }kjk vius lkeku dks rkSyus ds fy, ,d nks"kiw.kZ rjktw dk mi;ksx fd;k tkrk gS] rks 900 xzke Hkkj dks 1 fdxzk- n'kkZrk 
+gS] lkFk gh nqdkunkj vius lkeku dk ewY; 10% c<+kdj vafdr djrk gS] ysfdu nqHkkZ; ls og ekfidh foHkkx }kjk idM+ fy;k tkrk 
+gS] ftlds ckn mls rjktw dks Bhd djokdj vkSj naMLo:i ,d eghus rd Ø; ewY; ij 10% dh NwV nsrs gq, lkeku cspus dk vkns'k 
+fn;k tkrk gSA ;fn çR;sd xzkgd vc 1 fdxzk- ds fy, 20 #- dk Hkqxrku dj jgk gS] rks Nkis ls igys os leku ek=k ds fy, fdruh 
+/kujkf'k dk Hkqxrku dj jgs Fks\ ¼n'keyo ds nks LFkku rd iw.kkZafdr½ 
+(a) Rs. 27.16      (b)Rs. 27.04        (c) Rs. 28.05          (d) Rs. 28.15 
+25. 
+A shopkeeper buy sells guava at Rs 22 per kg, one kg each to Anand and Sakshi 
+for Rs 25 each. He sold 950 gm to Anand instead of 1 kg. He sold ‘X’ gm instead of 1 
+kg to Sakshi using the defective weight. If he makes a total profit of Rs 7.76 by 
+selling both, then what is the value of ‘X’? 
+एक दुकानदार Rs 22  प्रति ककलो वाले अमरूद को, आनंद और साक्षी को एक-एक ककलो 25 रुपये प्रति ककलो बेचिा 
+है। उसने आनंद को एक ककलो के बदले 950 ग्राम बेच ददया। उसने दोषपूर्ण वजन का उपयोग करके साक्षी को 1 ककलो 
+के बजाय 'X' ग्राम बेचा। यदद वह दोनों को बेचकर 7.76 रुपये का कुल लाभ कमािा है, िो 'X' का मान क्या है? 
+A) 970 gm 
+B) 985 gm 
+C) 980 gm 
+D) 960 gm 
+26. 
+A person bought two articles for Rs2700 and sold the 1st at 17% profit and 
+the 2nd at 13% profit. If he sold the 1st at 13% profit and 2nd at 17% profit, he 
+would get Rs68 less. Find the difference between their CP? 
+ककसी व्यक्तत ने 2700 रु में 2 वस्तुये खरीदी। पहली वस्तु को 17% लाभ और दूसरी को 13% लाभ पर 
+बेचा । अगर पहले को 13% लाभ और दूसरे को 17% लाभ पर बेचा होता तो उसे 68 रु कम लाभ प्राप्त 
+होता।तो दोनो वस्तुओं के क्रय मूल्य का अंतर ज्ञात करे। 
+a)1700                     b)1800                          c)1900                    d)2000 
+27. 
+if sell a horse for Rs6200 and a cow for Rs2600 I will earn 10% profit. If I sell 
+a horse for Rs6000 and a cow at its CP and earn 12.5% profit. Find difference 
+between CP of each? 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+यदद मैं एक घोडा 6200 रु में और एक गाय 2600 रु में बेचता हूूँ तो दोनो की लागत पर 10% कमाता हूूँ 
+यदद मैं घोडा को 6000 रु में और गाय को उसके क्रय मूल्य पर बेचता हूूँ तो मुझे 12.5% का लाभ होता है। 
+प्रत्येक की लागत मूल्य का अंतर ज्ञात करे। 
+_a)Rs.2400           b)Rs.2000             c)Rs.2500              d)Rs.1600 
+28. 
+Marked price of A is Rs 1600 more than its cost price. When 
+discount on A is Rs 500, then a profit of 25% is obtained. At what price should A be 
+sold to obtain a 30% profit?   
+A की धचक्ननत कीमत इसकी लागत मूल्य से 1600 रुपये अधधक है। जब A पर छूट 500 रु है, तो 25% 
+का लाभ प्राप्त होता है। 30% लाभ प्राप्त करने के ललए A को ककस मूल्य पर बेचा जाना चादहए? 
+ 
+ 
+ (BANKING) 
+(a) 8580 
+ 
+(b) 5200     
+(c) 5500 
+ 
+(d) 5720 
+29. 
+A man sells his table at a profit of 25/2% and chair at a loss of 25/3% but on 
+whole he gains Rs.25. On the other hand, if he sells the table at a loss of 25/3% and 
+chair at a profit of 25/2%, then he neither gain nor loss. Find the cost price of chair. 
+एक आदमी एक मेज को 25/2% के लाभ पर बेचता है और कुर्सी को 25/3% की हानि पर बेचता है तो उर्से कुल 
+लाभ 25 रु. का होता है यनद वह मेज को 25/3% की हानि पर बेचता है और कुर्सी को 25/2% के लाभ पर बेचता 
+है तो ि उर्से लाभ होती है ि हानि . तो कुर्सी का क्रय मूल्य क्या है? 
+(a) 360Rs.                    
+(b) 240Rs.                    
+(c) 180Rs.                    
+(d) 320Rs.                  
+30. The cost prices of two articles A and B are in the ratio 4 : 5. While selling these articles, the shopkeeper 
+gains 10% on article A and 20% profit on article B, and the difference in their selling prices is `480. 
+Find 30% of the total cost price (in `) of both the articles. 
+nks oLrqvksa A vkSj B dk Ø; ewY; 4 : 5 ds vuqikr eas gSA bu oLrqvksa dks cspus ij] nqdkunkj dks oLrq A ij 10% vkSj oLrq B 
+ij 20% ykHk çkIr gksrk gS] vkSj muds foØ; ewY; eas varj `480 gSA nksuksa oLrqvksa ds dqy Ø; ewY; dk 30% (` esa) Kkr dhft,A 
+(a)1,250        (b)1,000                 (c)900           (d)810 
+31. 
+A dealer buys two articles A and B for Rs 800 each. He marks them at equal 
+value. He sells article A at a discount of 35% on its marked price and still makes a 
+profit of Rs.175. If he sells item B at a discount of 28%, then what will be the profit 
+on item B? 
+एक डीलर दो बस्िुओं A और B में से प्रत्येक को Rs 800  में खरीदिा है।  वह उन पर बराबर मूल्य अंककि करिा है।  
+वह वस्िु A को इसके अंककि मुल्य पर 35% की छूट देकर बेचिा है और किर भी 175  का लाभ प्रप्ि करिा है।  यदद 
+वह बस्िु B को 28% की छूट पर बेचिा है, िो बस्िु B पर प्राप्ि लाभ ककिना होगा? (ICAR Technician 2022) 
+A) 35% 
+B) 25% 
+C) 21% 
+D) 30% 
+32. 
+A man buys a machine for Rs 5000. After one year, he sold it for Rs 6000. After 
+two years, he again buys the same machine for Rs 8000 and sells it for Rs 10000. Find 
+his overall profit percentage for both the transactions? 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+एक आदमी Rs 5000 में एक मशीन खरीदता है।  एक वषण के बाद, वह इसे Rs 6000 में बेचता है।  दो वषण 
+बाद, वह किर उसी मशीन को Rs 8000  में खरीदता है और 10000 में बेचता है।  दोनों लेन-देन के ललए उसका 
+समग्र लाभ प्रर्तशत ज्ञात कीक्जये? 
+A) 18.75% 
+B) 15.23% 
+C) 20.23% 
+D) 23.08% 
+33. A man started off a business with a certain capital amount. In the first year, he earned 60% profit and 
+donated 50% of the total capital (initial amount + profit). He followed the same procedure with the 
+remaining capital after the second and the third year. If at the end of the three years, he is left with 
+`15,360, what was the initial amount (in `) with which the man started his business? 
+,d O;fDr us ,d fuf'pr iwath ds lkFk ,d O;olk; 'kq: fd;kA igys o"kZ esa] mlus 60% ykHk vftZr fd;k vkSj dqy iwath ¼çkjafHkd 
+jkf'k + ykHk½ dk 50% nku dj fn;kA mlus nwljs vkSj rhljs o"kZ ds ckn 'ks"k iwath ds lkFk Hkh ;gh çfØ;k viukbZA ;fn rhu o"kksZa ds 
+var esa] mlds ikl `15,360 'ks"k cprs gSa] rks ml O;fDr us viuk O;olk; fdruh çkjafHkd jkf'k (` esa) ds lkFk 'kq: fd;k Fkk\ 
+(a) 
+20,000 
+(b) 
+30,000 
+(c) 
+25,000 
+(d) 
+32,000 
+34. A shopkeeper selling apple offered a discount of 18.18% on his marked price. Further, owing to 
+persistent bargaining by a customer, he offered x mangoes free for every 60 mangoes purchased by the 
+customer and still made an overall profit of 6
+𝟐
+𝟑% in the transaction. Find the value of x, If the apples 
+were marked at 76% more than their cost price. 
+सेब बेचने वाले एक दुकानदार ने अपने धचक्ननत मूल्य पर 18.18% की छूट की पेशकश की। इसके अलावा, 
+एक ग्राहक द्वारा लगातार सौदेबाजी के कारर्, उसने ग्राहक द्वारा खरीदे गए हर 60 आमों के ललए मुफ्त में 
+x आम की पेशकश की और अभी भी लेनदेन में उसने 6
+𝟐
+𝟑% का समग्र लाभ कमाया। X का मान ज्ञात करें, 
+यदद सेब को उनकी लागत मूल्य से 76% अधधक पर धचक्ननत ककया गया था। 
+a)18 
+ 
+b)24 
+ 
+c)15 
+ 
+d)21 
+35. 
+A manufactured items is of cost of Rs 12500, sold at 10% profit. The supplier 
+sold the same at a 5.5% profit to the shopkeeper. The shopkeeper marks it at Rs 
+2393.75 higher than his cost price and allowed at 10% discount to the customer. 
+Find the profit earned by the shopkeeper? 
+एक र्नलमणत वस्तु की कीमत 12500 रुपये है, क्जसे 10% लाभ पर बेचा जाता है। आपूर्तणकताण ने उसे 5.5% 
+लाभ पर दुकानदार को बेच ददया। दुकानदार इसे अपने लागत मूल्य से 2393.75 रुपये अधधक अंककत करता 
+है और ग्राहक को 10% की छूट देता है। दुकानदार द्वारा अक्जणत लाभ ज्ञात कीक्जये? 
+A) 653.75 
+B) 693.75 
+C) 703.75 
+D) 600.75 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+ 
+36. 
+Jane marked a dining set at 20% above cost and allowed a discount of 10% 
+while selling to Jessica. Jessica in turn marked it at 25% and allowed a discount of 
+x% and made a profit of 15% being ₹25,650 while selling it to Jonathan. Find x%.  
+जेन ने लागत से 20% अधधक पर एक डाइर्नंग सेट धचक्ननत ककया और जेलसका को बेचते समय 10% की 
+छूट दी। बदले में जेलसका ने इसे 25% पर धचक्ननत ककया और x% की छूट दी और इसे जोनाथन को बेचते 
+समय ₹25,650 का 15% का लाभ कमाया। x% ज्ञात कीक्जये 
+A)  7 
+B)  8 
+C)  5 
+ 
+D)  6 
+ 
+37. 
+A shopkeeper sold two items. The selling price of the first item equals the cost 
+price of the second item. He sold the first item at a profit of 25% and the second 
+item at a loss of 12%. What is the overall profit or loss percentage? 
+एक दुकानदार ने दो वस्तुएूँ बेचीं। पहली वस्तु का ववक्रय मूल्य दूसरी वस्तु के क्रय मूल्य के बराबर है। उसने 
+पहली वस्तु को 25% के लाभ पर और दूसरी वस्तु को 12% की हार्न पर बेचा। कुल लाभ या हार्न प्रर्तशत 
+तया है? 
+A) Loss 3
+𝟑
+𝟗 
+B) Profit 4
+𝟒
+𝟗 
+C) Loss 4
+𝟒
+𝟗 
+D) Profit 3
+𝟑
+𝟗 
+38. Amit brought two cars. He then sold the 1st car at 10% profit and 2nd one at 25% profit. The 
+selling price of the 2nd car is 25% more than the SP of the 1st car. What is the approx. profit 
+% 
+in 
+both 
+the 
+cars 
+together? 
+अलमत ने दो कार खरीदी ।उसने बाद में पहली कार 10% लाभ और दूसरी कार को 25% लाभ पर बेच ददया । 
+दूसरी कार का ववक्रयमूल्य पहली कार के ववक्रयमूल्य से 25% अधधक है । तो उसका कुल लाभ % ज्ञात करे। 
+a)17.85%       b)18.36%        c)16.19%        d)C.N.D 
+39. An article costs Rs.4,000 to a shopkeeper, who marks its price at Rs.8,400. The shopkeeper sells it to a 
+customer at a discount of 25%. The customer gets a further discount of 15% on the discounted price if 
+the customer redeems a coupon issued by the store previously. What is the profit percentage (to the 
+nearest integer) earned by the shopkeeper in this transaction? 
+,d nqdkunkj ds fy, ,d oLrq dh dher `4,000 gS] tks bldh dher `8,400 vafdr djrk gSA nqdkunkj bls xzkgd dks 25% ds 
+NwV ij csprk gSA ;fn xzkgd LVksj }kjk igys ls tkjh fd, x, dwiu dks Hkqukrk gS] rks xzkgd dks fj;k;rh ewY; ij 15% dk vkSj 
+NwV izkIr gksrk gSA bl lkSns esa nqdkunkj }kjk vftZr ykHk çfr'kr ¼fudVre iw.kkZad rd½ fdruk gS\ 
+(a) 
+34% 
+(b) 
+51% 
+(c) 
+42% 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+(d) 
+36% 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+40. The ratio of SP of 3 article A, B and Cis 8:9:5 and the ratio of % profit is 8:7:14 respectively. 
+If profit % of A is 14.28% and the CP of B is Rs400, what is the overall % gain? 
+तीन वस्तुओ A,B और C के ववक्रयमूल्य का अनुपात क्रमशः 8:9:5 और उनके लाभ % का अनुपात क्रमशः 
+8:7:14 है।यदद A का लाभ 14.28% है और B का क्रय मूल्य 400रु है। तो कुल लाभ % ज्ञात करे? 
+a)14.28%   b)14.87%   c)16.66%   d)None 
+41. P buys an article for Rs.280 and sells it to Q at a profit of 25%. Q sells it to R at some profit. R sells it 
+to S for Rs.560 making a profit of 40%. What percentage profit (rounded off to the nearest integer) did 
+Q make? 
+P एक वस्तु को Rs.280 मेंखरीदता हैऔर उसे Q को 25% के लाभ पर बेचता है। Q ककसी लाभ परइसे R को 
+बेचता है। R इसे S को Rs.560 मेंबेचता हैऔर 40% का लाभ प्राप्त करता है। Q नेककतनाप्रर्तशत लाभ 
+(र्नकटतम पूर्ाांक तक पूर्ाांककत) अक्जणत ककया?   
+(a)32 Percent 
+(b)20 Percent 
+(c)26 Percent 
+(d)14 Percent 
+42. 
+James sells headsets at a profit of 25%.later, he identifies a wholesaler who is 
+ready to supply the headsets for 10% lower than the cost price. James also reduces 
+the selling price by Rs 54, but still makes a profit of 30%. Find the original cost 
+price? 
+जेम्स 25% के लाभ पर हेडसेट बेचता है। बाद में, वह एक थोक व्यापारी की पहचान करता है जो लागत मूल्य 
+से 10% कम कीमत पर हेडसेट की आपूर्तण करने के ललए तैयार है। जेम्स भी ववक्रय मूल्य को 54 रुपये कम 
+कर देता है, लेककन किर भी 30% का लाभ कमाता है। मूल लागत मूल्य ज्ञात कीक्जये? 
+A) 650 
+B) 675 
+C) 725 
+D) 700 
+ 
+43. 
+P purchased a specs at 12.5% discount from Q. the specs have been marked 
+60% above its cost price such that Q earned a profit of Rs 180. Find the discount (in 
+Rs) offered by Q? 
+P ने Q से 12.5% छूट पर एक चश्मा खरीदा। चश्मे को इसकी लागत मूल्य से 60% अधधक अंककत ककया 
+गया है, क्जससे Q ने 180 रुपये का लाभ अक्जणत ककया। Q द्वारा दी गई छूट (रु में) ज्ञात करें? 
+A) 110 
+B) 85 
+C) 90 
+D) 100 
+44. 2 tables and 3 chairs together cost Rs.12000. When the cost of a table is decreased by 10% and that of a 
+chair is increased by20%, then 3 tables and 4 chairs together cost Rs. 17100. What is the total original 
+cost of 1 table and 2 chairs? 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+2 estksa vkSj 3 dqflZ;ksa dks feykdj dher #- 12000 gSA tc ,d est dh dher esa 10% dh deh dh tkrh gS vkSj ,d dqlhZ dh dher 
+eas 20% dh o`f) dh tkrh gS] rks 3 estksa vkSj 4 dqflZ;ksa dh feykdj dher #- 17100 gksrh gSA 1 est vkSj 2 dqflZ;ksa dh dqy ewy 
+dher D;k gS\ 
+(a) Rs.6500 
+(b) Rs.6300 
+(c) Rs.6800 
+(d) Rs.6600 
+45. A Microwave oven is sold in Hyderabad for Rs.M. A retailer, Elahi from Hyderabad went to Madras 
+and bought it for 25% less (when compared to the price in Hyderabad). He spends Rs.1,000 on transport 
+to bring it from Madras to Hyderabad. He sold it in Hyderabad for Rs.M making a profit of 10%. Find 
+the value of M (in Rs.). 
+gSnjkckn esa ,d ekbØksoso vkso Rs.M esa cspk tkrk gSA ,d [kqnjk foØsrk] bykgh gSnjkckn ls eækl x;k vkSj bls 25% de esa 
+[kjhnk ¼tc gSnjkckn dh dher ls rqyuk dh tkrh gS½A og bls eækl ls gSnjkckn ykus ds fy, ifjogu ij Rs.1,000 [kpZ djrk 
+gSA mlus bls gSnjkckn esa Rs.M esa csp fn;k vkSj 10% dk ykHk vftZr fd;kA M dk eku (Rs. esa) Kkr dhft,A 
+(a)6,305.8        (b)6,258.8             (c)6,285.7        (d)6,527.9 
+46. 
+Raghaw went to a shopping mall is purchase clothes. He had two coupons with 
+him, but only one can be used on a single day. Using the first coupon, a total 
+discount of 30% could be obtained on the total amount. Using the second coupon, he 
+will get 80% off on the price of the costliest shirt if he buys at least 3 shirts. What is 
+the price at which Raghaw can purchase 3 shirts at a minimum price if the prices of 
+the three shirts are Rs 1250, Rs 1540 and Rs 1375? 
+राघव कपडे खरीदने के ललए एक शॉवपंग मॉल गया। उसके पास दो कूपन थे, लेककन एक ददन में केवल एक ही 
+इस्तेमाल ककया जा सकता था। पहले कूपन का उपयोग करके कुल रालश पर 30% की कुल छूट प्राप्त की जा 
+सकती है। यदद वह कम से कम 3 शटण खरीदता है तो दूसरे कूपन का उपयोग करके उसे सबसे महंगी शटण की 
+कीमत पर 80% की छूट लमलेगी। राघव न्यूनतम मूल्य पर 3 शटण ककस कीमत पर खरीद सकता है यदद तीन 
+शटण की कीमत 1250 रुपये, 1540 रुपये और 1375 रुपये है? 
+A) Rs 2760 
+B) Rs 2775 
+C) Rs 2915.50 
+D) Rs 2933 
+47. 
+ 
+The cost of a shirt is 20% less than the cost of a trouser. The cost of 3 shirts and 5 
+trousers is Rs 1260 more than the cost of 5 shirts and 2 trousers. What is the cost of 
+4 shirts and 3 trousers? 
+एक कमीज का मूल्य एक पिलून के मूल्य से 20% कम है। 3 कमीजों और 5 पिलूनों का मूल्य 5 कमीजों और 2 
+पिलूनों के मूल्य से 1260 रुपये अधिक है। 4 कमीजों और 3 पिलूनों की कीमि क्या है? 
+A) Rs 4940 
+B) Rs 4480 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+C) Rs 4840 
+D) Rs 5580 
+ 
+48. 
+The cost of 16 pens is equal to the cost of 21 pencils. If the cost of a pen is 
+decreased by 33
+𝟏
+𝟑% and the cost of a pencil remains the same, then the cost of 9 
+pens and 5 pens is Rs 103. What is the total (original) cost of 2 pens and 3 pencils? 
+16 कलमों का मूल्य 21 पेंससलों के मूल्य के बराबर है। यदद एक पेन की कीमि में 33
+𝟏
+𝟑% की कमी की जािी है और 
+एक पेंससल की कीमि समान रहिी है, िो 9 पेन और 5 पेन की कीमि 103 रुपये है। 2 पेन और 3 पेंससल की कुल 
+(मूल) लागि क्या है? ? 
+A) Rs 48                            C) Rs 42 
+B) Rs 45                            D) Rs 52 
+49. 
+The cost of 5 notebooks is Rs 6 more than the cost of 8 pens. The cost of 3 
+notebooks is 25% more than the cost of 4 pens. What is the cost of 2 notebooks and 
+5 pens? 
+5 नोटबुक की कीमि 8 पेन की कीमि से 6 रुपये अधिक है। 3 नोटबुक का मूल्य 4 पेन के मूल्य से 25% अधिक है। 
+2 नोटबुक और 5 पेन की कीमि क्या है? (ICAR Technician 2022) 
+ 
+A) Rs 132 
+B) Rs 150 
+C) Rs 180 
+D) Rs 160 
+50. The cost of 3 shirts and 2 pants is Rs.950, while the cost of 2 shirts and 3 pants is 
+Rs.1,050. What is the cost of 4 pants and 5 shirts? 
+3 dehtksa vkSj 2 irywuksa dh dher #- 950 gS] tcfd 2 dehtksa vkSj 3 irywuksa dh dher #- 1]050 gSA 4 irywuksa vkSj 5 dehtksa dh 
+dher D;k gksxh\ 
+(a) Rs. 1,850 
+(b) Rs. 1,685 
+(c) Rs. 1,750 
+(d) Rs. 1780 
+51. 
+The total cost of 11 books and opens is Rs897 then find the cost of 6 books 
+and 5pens if the cost of 6 books and 11pens is Rs582. 
+11 ककताबो और 6 कलमों की कुल कीमत 897 रु है।6 ककताबों और 5 कलमों की कीमत ज्ञात करे यदद 6 
+ककताबों और 11 कलमों की कुल कीमत 582 रु है। 
+a)Rs420                   b)Rs510                   c)Rs650                    d)Rs780 
+52. 
+The cost of 5 pens and 8 pencils is Rs. 131. If the cost of a pen is 
+increased by Rs. 2.50 and that of a pencil is decreased by 50 paise, then the 
+cost of 6 pens and 7 pencils becomes Rs.157. What is the original cost (in Rs.) 
+of 7 pens and 2 pencils? 
+5 पेन और 8 पेंससल का मूल्य 131 रु. है। यदद एक पेन की कीमि में  2.50 रु बढ़ायी जाती है और एक 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+पेंससल की कीमि 50 पैसे कम कर दी जािी है, िो 6 पेन और 7 पेंससल का मूल्य 157 रुपये हो जािा है। 
+7 पेन और 2 पेंससल का मूल मूल्य (रु. में) क्या है? (ICAR Assistant 2022) 
+A)  130 
+ 
+B) 142 
+C) 135 
+D) 132 
+ 
+53. A farmer sold a cow and a calf for Rs.1810 and got a profit of 10% on the cow and 25% on the calf. If 
+he sells the cow and the calf for Rs1832.50 and gets a profit of 25% on the cow and 10% on the calf, find 
+the difference between cost price of the cow and the calf. 
+एक ककसान एक बछडे और गाय को 1810 रुपये मे बेचता है और गाय पर 10% एवं बछडे पर 25% लाभ 
+कमाता है यदद वह उन्हे 1832.5 रुपये मे बेचता तो गाय पर 25% लाभ कमाता और बछडे पर 10% लाभ 
+कमाता | गाय और बछडे के क्रयमूल्य का अंतर ज्ञात करो? 
+a)150Rs.        b)125Rs.           c)200Rs.           d)175Rs. 
+54. 
+A man sold a radio and a tv set together for Rs 30400, there by making a profit 
+of 25% on the radio and 10% on the tv set. By selling them together for Rs 30700, he 
+would have made a 10% profit on the radio and 25% on the TV set. The cost price of 
+the radio is? 
+एक आदमी ने एक रेडडयो और एक टीवी सेट को लमलाकर 30400 रुपये में बेचा, वहाूँ रेडडयो पर 25% और 
+टीवी सेट पर 10% का लाभ हुआ। उन्हें एक साथ 30700 रुपये में बेचकर, वह रेडडयो पर 10% और टीवी सेट 
+पर 25% लाभ कमाता। रेडडयो का क्रय मूल्य है ? 
+A) 10000 
+ 
+ 
+ 
+C) 12000 
+B) 9000  
+ 
+ 
+ 
+D) 12500 
+ 
+ 

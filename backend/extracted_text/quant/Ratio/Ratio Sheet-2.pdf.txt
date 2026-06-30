@@ -1,0 +1,643 @@
+ 
+                                                      BY Gagan Pratap  
+1. There are officer and Assistant in an office. If 14 
+Assistant went . on leave then every Assistant has 
+two officers, after that 45 officers went on leave 
+now every officer has 5 Assistants. Then find out 
+how many Assistant were there initially.  
+एक ऑफिस में अस्ससटेंट और ऑफिसर है। 14 अस्ससटेंट अगर चले 
+जाते हैं तो प्रत्येक अस्ससटेंट के ललये 2 ऑफिसर होते है। इसके बाद 
+45 ऑफिसर चले जाते है और अब प्रत्येक ऑफिसर के ललये 5 
+अस्ससटेंट हैं, तो शुरूआत में फकतने अस्ससटेंट थे ? 
+a)42                  b)39                    
+c)36                  d)40 
+2. In a school there were 1554 students and the ratio 
+of the number of the boys and girls was 
+ 4 : 3. After a few days, 30 girls joined the school 
+but a few boys left; as a result the ratio of the boys 
+and girls became 7 : 6. The number of boys who left 
+the school is : 
+एक सकूल में 1554 छात्र थे स्जसमे  लड़कों और लड़फकयों की संख्या का 
+अनुपात 4: 3. था। कुछ ददनों के बाद, 30 लड़फकयां सकूल में शालमल हो 
+गईं, लेफकन कुछ लड़के छोड़ गए; पररणामसवरूप लड़कों और लड़फकयों का 
+अनुपात 7:6 हो गया. सकूल छोड़ने वाले लड़कों की संख्या है: 
+a) 76 
+         b) 74          c) 84 
+         d) 86 
+3. 600 are divided among Aman, Bhuj and Chopra such 
+that 40 more than 2/5th of Aman’s share, 20 more 
+than 2/7th of Bhuj’s share and Rs 10 more than 
+9/17th of Chopra’s share, all are equal. What is 
+Bhuj’s share? 
+600 को अमन, भुज और चोपड़ा के बीच इस प्रकार ववभास्जत 
+फकया गया है फक अमन के दहससे के 2/5वें दहससे से 40 रुपये 
+अधिक, भुज के दहससे के 2/7वें दहससे से 20 रुपये अधिक और 
+चोपड़ा के दहससे के 9/17वें दहससे से 10 रुपये अधिक, सभी 
+बराबर हैं। भुज का दहससा क्या है?  (DDS ASO 2023) 
+A) 280 
+B) 300 
+C) 250 
+D) 290 
+4. A gold broke into three parts, the ratio of weight of 
+three part is 3:4:5. The price of gold is directly 
+proportional to its square weight. If there is loss of 
+Rs23500 after breaking gold then what was the 
+starting 
+price 
+of 
+gold? 
+. 
+एक 
+सोना 
+तीन 
+दहससे 
+में 
+टूट 
+गया। 
+इन 
+तीनो 
+दहससे 
+के 
+वजन 
+का 
+अनुपात 
+3:4:5 
+है। 
+सोने 
+की 
+कीमत 
+इसके वजन के वगग के अनुक्रमानुपाती है।यदद ये सोना टूटने पर 
+₹23500 का नुकसान हुआ। सोने की मूल कीमत क्या थी? 
+a) 30,000      b) 36,000      c) 40,000      d) 46,000 
+5. A dog takes 5 leaps for every 6 leaps of a hare, but 4 
+leaps of the dog are equal to 5 leaps of the hare. 
+The ratio of the speed of dog and hare is? 
+,d dqÙkk] [kjxks'k dh çR;sd 6 Nykax ds fy, 5 Nykax ysrk gS] ysfdu dqÙks dh 
+4 Nykax [kjxks'k dh 5 Nykax ds cjkcj gksrh gSaA dqÙks vkSj [kjxks'k dh pky dk 
+vuqikr D;k gS\ 
+(a) 
+16 : 24 
+(b) 
+24 : 16 
+(c) 
+25 : 24 
+(d) 
+24 : 25 
+ 
+6. A dog takes 8 jumps for every 12 jumps of the lion and a fox takes 
+15jumps for every 12 jumps of the lion, and the distance covered 
+by dog in 8 jumps, distance covered by lion in 16 jumps and the 
+distance covered by fox in 24 jumps is equal. Find ratio of their 
+speeds 
+एक 
+कुत्ता 
+स्जतनी 
+देर 
+में 
+8 
+छलााँग 
+लगाता 
+है। 
+उतनी 
+देर 
+में 
+एक 
+शेर 
+12 
+छलााँग 
+लगाता 
+है। 
+तथा 
+स्जतनी 
+देर 
+में 
+शेर 
+12 
+छलांग 
+लगाता 
+है 
+उतनी 
+देर 
+में 
+एक 
+लोमड़ी 
+15 
+छलााँग 
+लगाती 
+है। 
+कुत्ते 
+द्वारा 
+8 
+छलांग 
+में 
+तय 
+की 
+गई 
+दूरी, 
+शेर 
+द्वारा 
+16 
+छलांग 
+में 
+तय 
+की 
+दूरी, 
+तथा 
+लोमड़ी 
+द्वारा 
+24 
+छलांग 
+में 
+तय 
+की 
+गई 
+दूरी 
+बराबर 
+है। 
+उनकी 
+चालो 
+का 
+अनुपात 
+ज्ञात 
+करे? 
+a) 8:12:15        b) 6:8:5        c) 8:6:5          d) 5:8:6 
+7. A bag contains 1 rupee, 50 p, and 25p coins in the 
+ratio 5:6:7. If the total amount is Rs390. Find the 
+no. of coins of each kind?  
+एक बैग में 1 रु,50 पैसे और 25 पैसे के लसक्के 5:6:7 के अनुपात 
+में है यदद बैग में कुल 390 रुपये है |प्रत्येक प्रकार के कुल लसक्कों 
+की कुल संख्या ज्ञात कीस्जये? 
+a) 240,270,290             b) 200,240,280 
+c) 200,220,280             d) 180,250,290 
+8. A bag contains 50 paise, 25 paise and 10 paise coins 
+in the ratio 9 : 5 : 6 amounting to Rs. 317.5. Find 
+the number of coins of 25 paise. 
+एक बैग में 50 पैसे, 25 पैसे और 10 पैसे के ससक्के 9 : 5 : 6 के 
+अनुपात में हैं, सिसकी रासि 317.5 है। 25 पैसे के ससक्ककों की सोंख्या 
+ज्ञात कीसिए। RRB NTPC 03/04/2021 (Morning) 
+(a) 300 
+(b) 450 
+       
+(c) 250        
+(d) 600 
+9. The number of coins of 25 paise, 50 paise, Rs 2 and 
+Rs 5 are in the ratio 5:4:3:1 respectively. If the 
+total amount of coins is Rs 285, then what will be 
+the difference between the number of 25 paise and 
+Rs 5 coins? 
+25 पैसे, 50 पैसे, Rs 2 और Rs 5 के लसक्को की संख्याओं का 
+अनुपात क्रमशः 5:4:3:1 है।  यदद लसक्को की कुल रालश Rs 
+285 है, तो 25 पैसे और Rs 5 के लसक्को की संख्या के बबच का 
+अंतर क्या होगा? 
+A) 60 
+B) 30 
+C) 80 
+D) 40 
+10. A box containing the denominations of one rupee 
+coins, two rupee coins and ten rupee coins amount 
+to Rs.1560. There are equal number of coins in all 
+denominations. Find the total number of ten rupee 
+coins in the box. 
+एक बॉक्स में एक रुपये के लसक्के, दो रुपये के लसक्के और दस 
+रुपये के लसक्कों का मूल्य 1560 रुपये है। सभी मूल्यवगग के लसक्कों 
+की संख्या समान है। बक्से में दस रुपये के लसक्कों की कुल संख्या 
+ज्ञात कीस्जए। (UP POLICE SI 2021 ) 
+(A) 118  
+(B) 120  
+ 
+                                                      BY Gagan Pratap  
+(C) 124  
+(D) 122 
+11. A bag contains old coins of different types in the ratio 12 
+: 13 : 11, whose values are ₹ 3, ₹ 4 and ₹ 5 respectively. If 
+the total value of coins is ₹572, then what is the total 
+number of coins of value ₹3 ? 
+एक थैले में 12 : 13 : 11 के अनुपात में सिन्न प्रकार के पुराने ससक्के 
+हैं, सिनके मूल्य क्रमिः 3 रू, 4 रू और 5 रू हैं। यसि ससक्ककों का 
+कुल मूल्य 572 रू हक, तक 3 रु. के मूल्य वाले ससक्ककों की कुल सोंख्या 
+सकतनी हकगी? RPF S.I. 19/12/2018 (Morning) 
+(a) 48 
+ (b) 38 
+ 
+(c) 56 
+ (d) 26 
+12. 615 coins consist of one rupee, 50 paise and 25 
+paise coins.Their values are in the ratio of 3 : 5 : 7, 
+respectively.Find the number of 50 paise coins. 
+615 flDdksa esa ,d #i;k] 50 iSls vkSj 25 iSls ds flDds 'kkfey gSaA muds ewY; 
+Øe'k% 3 : 5 : 7 ds vuqikr esa gSaA 50 iSls ds flDdksa dh la[;k Kkr dhft,A 
+(a) 
+150 
+(b) 
+180 
+(c) 
+160 
+(d) 
+170 
+13. P pays Q a sum of ₹150 using coins of ₹2, ₹5 and 
+₹10. He uses a total of 50 coins. If the ratio of ₹2 
+and ₹5 coins used is 5 : 2, then how many coins of 
+₹10 are used in the payment? 
+ 
+P, Q को ₹2, ₹5 और ₹10 के लसक्कों का उपयोग करके ₹150 का 
+भुगतान करता है। वह कुल 50 लसक्कों का उपयोग करता है। यदद 
+उपयोग फकए गए ₹2 और ₹5 के लसक्कों का अनुपात 5 : 2 है, तो 
+भुगतान में ₹10 के फकतने लसक्के उपयोग फकए गए हैं?  
+ 
+   SSC CHSL PRE 2024 
+ 
+[A]1 
+ 
+[B]4 
+  
+  
+ 
+[C]5      
+[D] 2 
+14. A payment of ₹120 is made with ₹10, ₹5 and ₹2 
+coins. A total of 25 coins are used. Which of the 
+following is the number of ₹10 coins used in the 
+payment?  
+₹120 का भुगतान ₹10, ₹5 और ₹2 के लसक्कों से फकया जाता 
+है। कुल 25 लसक्कों का उपयोग फकया जाता है। भुगतान में उपयोग 
+फकए गए ₹10 के लसक्कों की संख्या ननम्नललखित में से कौन सी 
+है? (SSC CGL 2024 Pre) 
+A) 6      B) 4         C) 10       D) 8 
+15. R pays ₹100 to P with ₹5, ₹2 and ₹1 coins. The total 
+number of coins used for paying are 40. What is the 
+number of coins of denomination ₹5 in the 
+payment?  
+R, P को ₹5, ₹2 और ₹1 के लसक्कों के साथ ₹100 का भुगतान 
+करता है। भुगतान के ललए उपयोग फकए गए लसक्कों की कुल 
+संख्या 40 है। भुगतान में ₹5 मूल्यवगग के लसक्कों की संख्या 
+फकतनी है? (SSC CGL 2024 Pre) 
+A) 16  
+B) 17  
+C) 18  
+D) 13 
+16. Aman has certain number of notes of denomination 
+₹20 and ₹10 which amount to ₹390. If the numbers 
+of notes of each kind are interchanged, then the 
+new amount is ₹90 less than before. Find the 
+number of notes of ₹20 denomination.  
+अमन के पास ननस्चचत संख्या में ₹20 और ₹10 मूल्य के नोट हैं 
+स्जनकी कीमत ₹390 है। अगर हर तरह के नोटों के नंबर आपस 
+में बदल ददए जाएं तो नई रकम पहले से 90 रुपए कम हो जाती 
+है। ₹20 मूल्यवगग के नोटों की संख्या ज्ञात कीस्जए। 
+(SSC CGL 2024 Pre) 
+A) 16   
+B) 12   
+C) 15   
+D) 14 
+MISCELLANEOUS :- 
+17. A teacher distributes some sweets among his four 
+students in the ratio of 
+𝟏
+𝟑:
+𝟏
+𝟓:
+𝟏
+𝟔:
+𝟏
+𝟒. What is the 
+minimum number of sweets that the teacher 
+should have, so that no sweet needs to be broken 
+into parts to be shared? 
+एक लशक्षक अपने चार छात्रों के बीच 
+𝟏
+𝟑:
+𝟏
+𝟓:
+𝟏
+𝟔:
+𝟏
+𝟒 के अनुपात में कुछ 
+लमठाइयााँ बााँटता है। लशक्षक के पास लमठाइयों की न्यूनतम संख्या 
+फकतनी होनी चादहए, ताफक फकसी भी लमठाई को बांटने के ललए 
+टुकड़ों में तोड़ने की जरूरत न पड़े? 
+A) 77 
+B) 57 
+C) 76 
+D) 71 
+ 
+18. The salaries of a father, mother and daughter are 
+in the ratio 2 : 3 : 5. What will be the ratio of their 
+salaries if there was an increase of 15%, 10% and 
+20%., respectively? 
+सपता, माता और पुत्री के वेतन का अनुपात 2: 3:5 है। यसि इसमें 
+क्रमि: 15%, 10% और 20% की वृद्धि हकती है, तक उनके वेतन का 
+अनुपात क्या हक िाएगा? 
+(a) 19 : 13 : 15 
+(b) 23 : 33 : 60 
+ 
+(c) 17 : 37 : 50 
+(d) 17 : 18 : 25 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+19. A, B and C divide an amount of `10,500 amongst 
+themselves in the ratio 5 : 7 : 9, respectively. If 
+each one gets `500 more, then what will be the 
+ratio of the amounts with A, B and C? 
+A, B vkSj C rhuksa `10,500 dh jkf'k dks vkil esa Øe'k% 5 : 7 : 9 ds vuqikr 
+esa foHkkftr djrs gSaA ;fn çR;sd dks `500 vf/kd feyrs gSa] rks A, B vkSj C dh 
+jkf'k;ksa dk vuqikr D;k gksxk\ 
+(a) 
+5 : 7 : 9 
+(b) 
+3 : 4 : 5 
+(c) 
+7 : 9 : 11 
+(d) 
+5 : 6 : 7 
+20. 360 toffees are distributed among Pushkal, Quadir 
+and Rustam in the ratio 2 : 3 : 4. After distribution, 
+Quadir gives 20% of his toffees to Pushkal and 
+Rustam gives 25% of his toffees to Pushkal. What 
+is the new ratio of toffees with Pushkal, Quadir and 
+Rustam?  
+ 
+                                                      BY Gagan Pratap  
+360 टॉफी पुष्कल, कादिर और रुसतम के बीच 2: 3: 4 के अनुपात 
+में ववतररत की जाती हैं। ववतरण के बाद, कादिर अपनी टॉफी का 
+20% पुष्कल को देता है और रुसतम अपनी टॉफी का 25% पुष्कल 
+को देता है। पुष्कल, कादिर और रुसतम के साथ टॉफी का नया 
+अनुपात क्या है?    (SSC MTS 2024) 
+ A) 5 : 4 : 6              B) 7 : 3 : 5  
+ C) 6 : 4 : 5             D) 3 : 5 : 7 
+21. Raju and Lalitha originally had marbles in the ratio 
+4 : 9. Then, Lalitha gave some of her marbles to 
+Raju. As a result, the ratio of the number of marbles 
+with Raju to that with Lalitha became 5 : 6. What 
+fraction of her original number of marbles was 
+given by Lalitha to Raju? 
+ राजू और लदलता के पास मूल रूप से 4:9 के अनुपात में कंचे थे। दिर, लदलता ने 
+अपने कुछ कंचे राजू को िे दिए। पररणामस्वरूप, राजू और लदलता के कंचों की संख्या 
+का अनुपात 5 : 6 हो गया। लदलता ने राजू को अपने कंचों की मूल संख्या का दकतना 
+अंश दिया? 
+(a) 
+𝟏
+𝟒 
+ 
+(b) 
+𝟕
+𝟑𝟑 
+ 
+ 
+(c) 
+𝟏
+𝟓 
+ 
+(d) 
+𝟔
+𝟏𝟗 
+22. The expenditure in a hostel is partly variable, and 
+directly proportional to the number of students, 
+rest being a fixed amount. If the expenditure were 
+Rs.8400 for 120 students and Rs.10000 for Rs.150 
+students, what would be the expenditure  
+for 330 students? 
+फकसी होसटेल का िचग आंलशक रूप से चर है जो छात्रों की संख्या के 
+अनुक्रमानुपाती है। तथा बाकी भाग ननस्चचत है। यदद 120 छात्रों का िचग 
+रु 8400 है। तथा 150 छात्रों का िचग 10000रु है। 330 छात्रों का िचग ज्ञात 
+कीस्जये? 
+a) Rs.22400                    b) Rs.19600  
+c) Rs.18000                    d) Rs.21500 
+23. One part of a farm's electricity bill remains fixed 
+and the other part changes depending on the 
+number of new units of electricity consumed. When 
+480 units of electricity were consumed in a month, 
+the bill was Rs. 1620. In the second month, the bill 
+was Rs. 2250 when 690 units of electricity were 
+consumed. If 500 units of electricity is consumed 
+in the next month, what will be the bill for that 
+month? 
+एक िामग के बबजली बबल का एक भाग ननयत रहता है और दूसरा 
+भाग िपत की नयी बबजली की युननटो की संख्या के आिार पर 
+पररवनतगत होता है। फकसी माह में 480 यूननट बबजली की िपत 
+होने पर बबल रु 1620 था। दूसरे माह में 690 यूननट बबजली 
+िपत होने पर बबल रु 2250 था। यदद अगले माह में 500 यूननट 
+बबजली की िपत हुई हो, तो उस माह का बबल फकतना होगा? 
+RRB NTPC 2021 
+A) 1950 
+B) 1560 
+C) 1680 
+D) 1840 
+25. A train starts from station P with ‘n’ number of passengers. At 
+station Q, 20% of the passengers get down and 50 passengers 
+get in. At station R, 40% of the passengers get down and 10 
+passengers get in. If a total of 520 passengers are left on the 
+train, find the value of ‘n’. 
+एक ट्रेन सटेजन P से याबत्रयों की संख्या ‘n’ के साथ चलना शुरू 
+होती है। सटेशन Q पर] 20% यात्री उतर जाते हैं और 50 यात्री चढ़ 
+जाते हैं। सटेजन R पर, 40% यात्री उतर जाते हैं और 10 यात्री चढ़ 
+जाते हैं। यदद ट्रेन में कुल 520 यात्री बचे हैं] तो ‘n’ का मान ज्ञात 
+करें। [SSC Selection Post (Phase-XII)] 
+[A]1000 
+[B]855 
+ 
+[C]750 
+[D]975 
+26. If it takes 42 days for a pond to get filled with rain 
+water. If the level of water doubled each day. Then 
+how long would it take to fill 1/16 of pond? 
+यदद फकसी तालाब को वर्ाग के जल से भरने में 42 ददन लगते हैं। 
+यदद पानी का सतर हर ददन दोगुना हो जाता है। तो 1/16 तालाब 
+को भरने में फकतना समय लगेगा? 
+A) 38 days 
+B) 39 days 
+C) 40 days 
+D) 8 days 
+27. A gentleman decided to treat a few children in the 
+following manner. He gives half of his total stock 
+of toffees and one extra to the first child, and the 
+then the half of the remaining stock along with one 
+extra to the second and continues giving away in 
+this fashion. His total stock exhausts after he takes 
+care of 5 children. How many toffees were there in 
+his stock initially? 
+एक सज्जन ने कुछ बच्चों का दावत ननम्न तरीके से करने का 
+िैसला फकया। वह टॉफियों के अपने कुल सटॉक का आिा दहससा 
+और एक अनतररक्त टॉफी पहले बच्चे को देता है, और शेर् सटॉक 
+का आिा दहससा एक अनतररक्त के साथ दूसरे को देता है और इस 
+िैशन को जारी रिता है। 5 बच्चों की दावत करने के बाद उनका 
+कुल सटॉक समाप्त हो गया। शुरू में उनके सटॉक में फकतने टॉफी 
+थे? 
+a)60               b)64                    c)62                  d)59 
+28. Mr. Ankit is on tour to Siachen and he has Rs.900 
+for his expenditure. If he exceeds his tour by 4 
+days, he must trim down his daily expenditure by 
+Rs2.5. For how many days is Mr. Ankit is on tour? 
+feLVj vafdr fl;kfpu ds nkSjs ij gSa vkSj muds ikl vius O;; ds fy, 900 
+:Ik;s gSaA ;fn og vius nkSjs ls pkj fnu vfèkd :drs gSa] rks mUgsa vius nSfud 
+O;; dks  2.5: rd de djuk pkfg,A feLVj vafdr fdrus fnuksa ds fy, nkSjs 
+ij gSa\ 
+(a) 36  
+ 
+(b) 30  
+ 
+ 
+(c) 45  
+ 
+(d) 25 
+29. A certain number of balls were purchased for ₹ 840. 
+3 more balls could have been purchased for the 
+same amount if each ball was cheaper by ₹ 5. Find 
+the number of balls purchased. 
+गेंिकों की एक सनसित सोंख्या  840रुपये में  खरीिी गई थी। प्रत्येक गेंि 
+के 5 रुपये सस्ता हकने पर 3 और गेंिकों कक उसी धनरासि  में खरीिा 
+िा सकता था। खरीिी गई गेंिकों की सोंख्या का पता लगाएों? 
+(a) 15  
+ 
+ 
+ 
+(b) 28  
+(c) 24  
+ 
+ 
+ 
+(d) 21 
+30. A number 37 is divided into two parts in such a way 
+that 5 times one part and 11 times the other part 
+is equal to 227.  Find the value of 9 times the 
+smaller number? 
+एक संख्या 37  को दो भागो में इस प्रकार ववभास्जत फकया जाता 
+है की एक भाग का 5 गुना और दूसरे भाग का 11  गुना लमलकर 
+ 
+                                                      BY Gagan Pratap  
+227  के बराबर है।  छोटी संख्या के 9 गुने का मान ज्ञात 
+कीस्जये? (SSC CHSL MAINS 2024) 
+A) 63 
+B) 60 
+C) 61 
+D) 62 
+31. Let x, y, z be fractions such that x < y < z. If z is 
+divided by x, the result is 
+𝟓
+𝟐, which exceeds y by
+𝟕
+𝟒 If 
+x + y + z = 1
+𝟏𝟏
+𝟏𝟐, then the ratio of (z – x): (y – X) is: 
+माना x, y, z ऐसे भिन्न हैं भि x < y <z है। यभि z िो x से भििाभित भिया िाए तो 
+परिणाम 
+𝟓
+𝟐 प्राप्त होता है, िो y से 
+𝟕
+𝟒अभिि है। यभि x +y +z = 1
+𝟏𝟏
+𝟏𝟐 है तो  
+(z - x): (y - x) िा अनुपात क्या होगा? 
+(a) 6:5 
+ 
+(b) 9:5 
+ 
+ 
+(c) 5:6 
+ 
+(d) 5:9 
+32. Vikas gave 3 examinations. The respective ratio 
+of marks scored by him in the 3 examinations is 
+ 3 : 5 : 6. The respective ratio of maximum marks 
+of the 3 examination is 5 : 7 : 8. If he scored 50 
+percent marks in total, then in how many 
+examination has he scored marks more than 50 
+percent? 
+ववकास ने तीन परीक्षाएं दीं। तीनों परीक्षाओं में उसके द्वारा प्राप्त 
+अंकों का संबंधित अनुपात 3: 5: 6 है। तीन परीक्षा के अधिकतम 
+अंकों का संबंधित अनुपात 5: 7: 8 है। यदद उसने कुल लमलाकर 
+50 प्रनतशत अंक प्राप्त फकए हैं, तो फकतनी परीक्षाओं में  उसने 50 
+प्रनतशत से अधिक अंक प्राप्त फकये हैं? 
+a) 
+1 
+b) 
+2  
+c) 
+0 
+d) 3 
+33. In a room, there are some boys and some benches. 
+If 5 boys sit on each bench, then 2 boys will have 
+no bench to sit on. If 6 boys sit on each bench, then 
+2 benches remain unoccupied. What is the sum of 
+the number of benches and the number of boys? 
+एक कमरे में कुछ लड़के और कुछ बेंच हैं। यदद प्रत्येक बेंच पर 5 
+लड़के बैठते हैं, तो 2 लड़कों के पास बैठने के ललए कोई बेंच नहीं 
+होगी। यदद प्रत्येक बेंच पर 6 लड़के बैठते हैं, तो 2 बेंच िाली रहती 
+हैं। बेंचों की संख्या और लड़कों की संख्या का योग क्या है? 
+A) 85 
+B) 83 
+C) 86 
+D) 84 
+34. Each of Ravi and Kavita had some marbles. Kavita 
+had 12 more marbles than Ravi had. If each of them 
+had one more marble, then three times the number 
+of marbles Kavita would then have had would have 
+been equal to four times the number of marbles 
+Ravi would then have had. How many marbles did 
+Kavita actually have?  
+रवव और कववता में से प्रत्येक के पास कुछ कंचे थे। कववता के 
+पास रवव से 12 कंचे अधिक थे। यदद उनमें से प्रत्येक के पास एक 
+और कंचा होता, तो कववता के पास स्जतने कंचे होते, उससे तीन 
+गुना, रवव के पास उतने कंचों की संख्या के चार गुना के बराबर 
+होता। कववता के पास वासतव में फकतने कंचे थे? 
+(SSC CGL 2024 Pre) 
+A) 43          B) 47       C) 51        D) 48 
+35. Raju has ₹11,000 and starts saving ₹5,000 each 
+week towards buying a new laptop. At the same 
+time, Ramesh has ₹60,000 and begins spending 
+₹2,000 per week on supplies for his art class. Will 
+there be a week when they have the same amount 
+of money? 
+राजू के पास ₹11,000 हैं और वह नया लैपटॉप िरीदने के ललए 
+हर हफ्ते ₹5,000 की बचत करना शुरू कर देता है। उसी समय, 
+रमेश के पास ₹60,000 हैं और वह अपनी कला कक्षा के ललए 
+आपूनतग पर प्रनत सप्ताह ₹2,000 िचग करना शुरू कर देता है। 
+क्या कोई ऐसा सप्ताह होगा जब उनके पास समान िनरालश होगी?   
+SSC CHSL 2024 
+A) Yes, after 7 weeks 
+B) Yes after 6 weeks 
+C) No, they will never Have the same amount 
+D) Yes. After 5 weeks 
+36. A man can type 20 lines in 10 minutes but he leaves 8% margin 
+on each line. In how much time he will type 23 pages with 40 
+lines on each page on which he leaves 25% more margins than 
+before? 
+एक आदमी 10 लमनट में 20 लाइनें टाइप कर सकता है लेफकन वह प्रत्येक 
+लाइन पर 8% मास्जगन छोड़ देता है। फकतने समय में वह प्रत्येक पृष्ठ पर 
+40 लाइनों वाले 23 पृष्ठ टाइप करेगा, स्जस पर वह पहले की तुलना में 
+25% अधिक मास्जगन छोड़ता है? 
+a)7hr 30min                                      b)7hr20min      
+c)8hr40min                                       d)7hr15min 
+37. In a class, the ratio of the number of boys to that 
+of girls is 3:5. The number of students who passed 
+to that of who failed is 7:3. Among boys, the 
+number of those who passed to those who failed is 
+in the ratio 2:1. Among girls, what is the ratio of 
+the number of girls who passed to those who failed? 
+एक कक्षा में लड़कों की संख्या का लड़फकयों की संख्या से अनुपात 
+3:5 है। उत्तीणग होने वाले छात्रों की संख्या अनुत्तीणग होने वाले छात्रों 
+की संख्या 7:3 है। लड़कों में उत्तीणग होने वालों की संख्या अनुत्तीणग 
+होने वालों से अनुपात 2:1 है। लड़फकयों में, उत्तीणग होने वाली 
+लड़फकयों की संख्या का अनुत्तीणग होने वाली लड़फकयों की संख्या से 
+अनुपात क्या है? ( IB ACIO 2023) 
+A) 15:8 
+B) 9:4 
+C) 18:7 
+D) 12:5 
+38. Two candles with same length light up at same 
+time 1st candle end in 8 hour and 2nd end in 6hr. 
+rate of burning is different for both candles, after 
+start of burning after how much time ratio of their 
+length will be 3:1. 
+दो मोमबत्ती ,स्जनकी समान लंबाई है उन्हें एक साथ जलाया गया। 
+पहली मोमबत्ती 8 घंटे में समाप्त हो गयी। तथा दूसरी मोमबत्ती 6 
+घंटे में समाप्त हो गयी।यह मानते हुए की प्रत्येक मोमबत्ती अलग 
+अलग दर से जलती है।जलने के फकतने देर बाद पहली तथा दूसरी 
+मोमबत्ती की लंबाई का अनुपात 3:1 होगा? 
+a) 4hr40min                 b) 5hr40min  
+c) 5hr20min                 d) 5hr 
+ 
+ 
+ 

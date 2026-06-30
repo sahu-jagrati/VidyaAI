@@ -1,0 +1,894 @@
+ 
+ 
+                                              BY Gagan Pratap 
+ 
+1. In a class the ratio of rural to urban 
+students is 4:7. In an examination the 
+average percentage marks of the rural 
+and 
+the 
+urban 
+students 
+are 
+respectively 65 and 63. What is the 
+overall average percentage marks of 
+the class (correct to two decimal 
+places)? 
+fdlh d{k eas] xzkeh.k Nk=ksa vkSj 'kgjh Nk=ksa dk vuqikr 4 : 7 
+gSA fdlh ijh{kk esa] xzkeh.k Nk=ksa vkSj 'kgjh Nk=ksa ds vkSlr 
+çfr'kr vad Øe'k% 65 vkSj 63 gSaA d{kk dk lEiw.kZ vkSlr 
+çfr'kr ¼Bhd nks n'keyo LFkku rd½ Kkr djsaA 
+(a) 
+65.87% 
+(b) 
+73.63% 
+(c) 
+63.73% 
+(d) 
+64.37% 
+2. A class of 42 students took a Physics 
+test. 18 students had an average score 
+of 95. The other students had an 
+average score of 73. What is the 
+average score (rounded off to one 
+decimal place) of the whole class? 
+42 छात्रों की एक कक्षा ने भौतिकी की परीक्षा दी। 
+18 छात्रों का औसि स्कोर 95 था। अन्य छात्रों का 
+औसि स्कोर 73 था। पूरी कक्षा का औसि स्कोर 
+(एक दशमलव स्थान िक पूर्ाांककि) क्या है? 
+(SSC MTS 2024) 
+ A) 79.6  
+ B) 86.1 
+ C) 90.7  
+ D) 82.4 
+3. There are 147 workers in a factory 
+whose average weight is 65 kg. The 
+ratio of the number of male workers 
+and female workers in the factory is 13 
+: 8. If the average weight of male and 
+female workers is 72 kg and x kg 
+respectively, then find the value of x- 
+ 
+एक फैक्री मे 147 मजदूर है जजनका औसि भार 
+65 ककग्रा है। फैक्री मे पुरुष मजदूर और महहला 
+मजदूरो की संख्या मे 13 : 8 का अनुपाि है। यहद 
+पुरुष और महहला मजदूरो का औसि भार क्रमशः 
+72 ककग्रा और x ककग्रा हो िो x का मान ज्ञाि करे-  
+ 
+[A] 54.125 kg 
+ 
+ 
+[B] 53.625 kg 
+ 
+[C] 58.375 kg 
+ 
+ 
+[D] 57.625 kg 
+4. In a class of 240 students, 37.5% are 
+boys and the remaining are girls. The 
+average of the boys’ marks is 67.1 and 
+that of the girls is 85.5. What are the 
+average marks of the whole class? 
+ 
+240 छात्रों की कक्षा में, 37.5% लड़के हैं और शेष 
+लड़ककयां हैं। लड़कों के अंकों का औसि 67.1 और 
+लड़ककयों के अंकों का औसि 85.5 है। पूरी कक्षा 
+के औसि अंक क्या हैं? 
+a) 80.2  
+b) 79.4 
+ 
+c) 77.5  
+d) 78.6 
+5. The average score of 42 students in a 
+test is 69. The ratio of the number of 
+boys to that of girls is 10 : 11. The 
+average score of the boys is 20% more 
+than that of the girls. The average 
+score of the boys is: 
+,d ijh{kk esa 42 fo|kfFkZ;ksa ds vkSlr çkIrkad 69 gSaA yM+dksa dh 
+la[;k dk yM+fd;ksa dh la[;k ls vuqikr 10 % 11 gSA yM+dksa ds 
+vkSlr çkIrkad yM+fd;ksa ds izkIrkadksa dh rqyuk esa 20% vfèkd 
+gSA yM+dksa ds vkSlr çkIrkad Kkr dhft,A 
+(a) 73.5 
+ 
+(b) 75.2 
+ 
+ 
+(c) 82.8 
+ 
+(d) 75.6 
+6. The average age of 120 students in a 
+group is 13.56 years. 35% of the 
+number of students are girls and the 
+rest are boys. If the ratio of the average 
+age of boys and girls is 6:5, then what 
+ 
+ 
+                                              BY Gagan Pratap 
+is the average age (in years) of the 
+girls? 
+एक समूह में 120 छात्रों की औसि आयु 13.56 
+वषष है। छात्रों की संख्या का 35% लड़ककयां हैं और 
+बाकी लड़के हैं। यहद लड़के और लड़ककयों की औसि 
+आयु का अनुपाि 6: 5 है, िो लड़ककयों की औसि 
+आयु (वषों में) क्या है? 
+a) 10 
+b) 12 
+c) 11.6 
+d) 14.4 
+7. In a test consisting of 80 questions, 
+Anita answered 60% of the first 55 
+questions correctly. What per cent of 
+the remaining questions should she 
+answer correctly to obtain 70% in the 
+entire exam? 
+,d ijh{kk esa 80 ç'u gS] ftleas vuhrk us igys 55 ç'uksa esa 
+ls 60% ds lgh mÙkj fn,A iwjh ijh{kk esa 70% ikus ds fy,] 
+mls 'ks"k ç'uksa esa ls fdrus çfr'kr ç'uksa ds lgh mÙkj nsus gksaxs\ 
+(a) 
+85% 
+(b) 
+92% 
+(c) 
+80% 
+(d) 
+78% 
+8. In a certain year, the population of a 
+city was 18000. If in the next year, the 
+population of males increased by 5% 
+and that of females increased by 7%, 
+and the total population increased to 
+19200, then what was the ratio of the 
+populations of males and females in 
+that given year? 
+एक निनित वर्ष में, एक शहर की जिसंख्या 18000 
+थी। यनि अगले वर्ष, पुरुर् ं की जिसंख्या में 5% की 
+वृद्धि हुई और मनहलाओं की जिसंख्या में 7% की 
+वृद्धि हुई, और कुल जिसंख्या बढ़कर 19200 ह  
+गई, त  उस निए गए वर्ष में पुरुर् ं और मनहलाओं की 
+जिसंख्या का अिुपात क्या था ? 
+(a) 2:5 
+      (b) 1:5 
+ 
+(c) 4:3                        (d) 3:5 
+ 
+ 
+9. In a company with 600 employees, the 
+average age of the male employees is 
+42 years and that of the female 
+employees is 41 years. If the average 
+age of all the employees in the 
+company is 41 years 9 months, then 
+the number of female employees is: 
+600 कमषचाररयों वाली कंपनी में, पुरुष कमषचाररयों की 
+औसि आयु 42 वषष है और महहला कमेचाररयों की 
+औसि आयु 41 वषष है। यहद सभी कमषचाररयों की 
+औसि आयु 41 वषष और 9 माह है, िो महहला 
+कमषचाररयों की संख्या बिाइए। 
+(a) 150 
+ 
+(b) 250 
+ 
+ 
+(c) 450  
+ 
+(d) 350 
+ 
+10. 
+During a school excursion each 
+student of junior school was charged Rs 
+325 and each students of senior school 
+was charged Rs 400. If there were 80 
+students from junior school and the 
+combined average amount charged per 
+student was Rs 352, then how many 
+students from senior school went for 
+the excursion? 
+एक स्कूल भ्रमण के िौराि जूनियर स्कूल के प्रत्येक 
+छात्र से ₹325 शुल्क नलया गया और सीनियर स्कूल 
+के प्रत्येक छात्र से ₹400 शुल्क नलया गया। यनि 
+जूनियर स्कूल के 80 छात्र थे और प्रनत छात्र संयुक्त 
+औसत शुल्क ₹352 था, त  सीनियर स्कूल के नकतिे 
+छात्र भ्रमण के नलए गए थे? 
+(a) 55 
+   (b) 45 
+  
+(c)  50 
+  (d) 40 
+ 
+SSC CGL 2023 PRE 
+11. 
+An army of 12,000 consists of 
+Europeans and Indians. The average 
+height of Europeans is 70 inches and 
+that of an indian is 69  inches. The 
+average height of the whole army is  
+𝟔𝟗
+𝟑
+𝟒 inches. Find the number of Indians 
+in the army? 
+एक सेना में यूरोपियन और भारतीय सैननक है 
+जिनकी कुल संख्या 12000 है।यूरोपियन सैननकों 
+की औसत लंबाई 70इंच िबकक भारतीय सैननकों की 
+ 
+ 
+                                              BY Gagan Pratap 
+औसत लंबाई  69 इंच है।िूरी सेना की औसत 𝟔𝟗
+𝟑
+𝟒 
+लंबाई है । ज्ञात कीजिये सेना में ककतने भारतीय 
+सैननक है। 
+a) 9000  
+ 
+b) 3000  
+c) 6000  
+ 
+d) 8000 
+12. 
+The average salary of a group of 12 
+employees in an institution is ₹3,950 
+per month and that of another group of 
+employees is ₹1,850. If the average 
+salary of all employees is ₹2,150, then 
+the total number of employees is: 
+ 
+एक संस्थान में 12 कमषचाररयों के समूह का औसि 
+वेिन ₹3,950 प्रति माह और कमषचाररयों के एक 
+दूसरे समूह का औसि वेिन ₹1,850 प्रति माह है। 
+यहद सभी कमषचाररयों का औसि वेिन ₹2,150 है, 
+िो कमषचाररयों की कुल संख्या ज्ञाि कीजजए।  
+ 
+ SSC CHSL PRE 2024 
+ 
+[A] 100 
+ [B] 88 
+ 
+[C] 84   
+[D]  72 
+13. 
+The total income of two persons 
+A and B is Rs 42,000. If the income of 
+A and B is increased by 8 % and 3 % 
+respectively, then the total income of 
+both of them is increased by Rs 2800. 
+What is the income (in Rs) of B? 
+दो व्यजक्ियों A और B की कुल आय 42,000 
+रुपये है। यहद A और B की आय क्रमशः 8% और 
+3% बढ़ जािी है, िो उन दोनों की कुल आय 2800 
+रुपये बढ़ जािी है। B की आय (रुपये में) क्या है? 
+DSSSB HEAD CLERK 2022 
+A) Rs 29900 
+B) Rs 11200 
+C) Rs 30800 
+D) Rs 12100 
+14. 
+Tickets for one show cost Rs. 
+7.50 for parents and Rs. 3 for children. 
+If an amount of Rs. 5925 was collected 
+from the sale of 952 tickets, then find 
+the number of tickets sold? 
+एक शो के हिकि का मूल्य अभभभावकों के भलए रु 
+7.50 और बच्चों के भलए रु 3 है। यहद कुल 952 
+हिकिों की बबक्री से रु 5925 की राभश एकत्र की 
+गयी हो िो बेचे गए बच्चों की हिकिों की संख्या 
+ज्ञाि कीजजये?  
+RRB GROUP D 2022 
+A) 270 
+B) 300 
+C) 500 
+D) 682 
+15. 
+A person buys two types of rice 
+costing 325 Rs/kg and 195 Rs/kg 
+respectively. The quantity he bought 
+are 720 kg and 675 kg respectively. He 
+wants to earn 22% profit on 1st kind of 
+rice but wants to gain 40% overall 
+profit.  At what price, he should sell 
+second kind of rice? 
+एक व्यक्ति दो प्रकार के चावल खरीदता है। जिनके 
+मूल्य क्रमशः 325 रु/जकग्रा और 195 रु/जकग्रा है। 
+और उसने क्रमशः 720 जकग्रा और 675 जकग्रा 
+चावल खरीदा। अगर उसे पहले प्रकार के चावल 
+बेचने पर 22% का लाभ होता है। तो ज्ञात कीजिये 
+दूसरे प्रकार के चावल को जकस दाम पर बेचा िाए  
+की कुल लाभ 40% हो। 
+(a) 331.5 Rs/kg     
+(b) 341.25 Rs/kg      
+(c) 315.9 Rs/kg   
+(d) 335.4 Rs/kg 
+16. 
+Rishu saves x% of her income. If 
+her income increases by 26% and the 
+expenditure increases by 20%, then her 
+savings increase by 50%. What is the 
+value of x? 
+ररशु, अपनी आय का x% बचािी है। यहद उसकी 
+आय में 26% की वृद्धि होिी है और व्यय में 20% 
+की वृद्धि होिी है, िो उसकी बचि में 50% की 
+वृद्धि होिी है। x का मान ज्ञाि कीजजए। 
+(a) 30  
+ 
+(b) 20  
+ 
+ 
+(c) 10  
+ 
+(d) 25 
+ 
+ 
+                                              BY Gagan Pratap 
+17. 
+A saves 35% of his income. His 
+income is increased by 20.1% and 
+expenditure is increased by 25%. By 
+what 
+percentage 
+does 
+his 
+saving 
+increase or decrease? 
+A viuh vk; esa ls 35% cpr djrk gSA mldh vk; esa 
+20.1% dh o`f) gksrh gS vkSj O;; 25% c<+ tkrk gSA mldh 
+cpr eas çfr'kr o`f) ;k deh dh x.kuk djsaA 
+(a) 
+11% increase/o`f) 
+(b) 
+9% decrease/deh 
+(c) 
+13% increase/o`f) 
+(d) 
+14% decrease/deh 
+18. 
+Expenditure of a person is 50% 
+more than his savings. If the income 
+increases by 15% and his expenditure 
+also increases by 21%. If his savings 
+increases by Rs 240. Find his initial 
+income. 
+एक व्यजतत का व्यय उसके बचत से 50% अधिक 
+है।यदि आय में 15% की वृद्धि होती है तो खचच में 
+21 % की वृद्धि होती है। यदि उसके बचत 240 
+रु बढ़ िाती है तो उसकी प्रारंभभक आय ज्ञात करे। 
+a) 5000  
+ 
+b) 4000  
+c) 8000  
+ 
+d) 10000 
+ 
+19. 
+There are two types of milk. The 
+price of one type of milk is `70/litre 
+and the price of other type of milk is 
+`50/litre. If the two types of milk are 
+mixed, the price of new mixture will be 
+`55/litre. Find the ratio of the two 
+types of milk in this new mixture. 
+nks çdkj dk nw/k gSA ,d çdkj ds nw/k dh dher `70/yhVj gS 
+vkSj nwljs çdkj ds nw/k dh dher `50/yhVj gSA ;fn nksuksa 
+çdkj ds nw/k dks feyk;k tkrk gS] rks u, feJ.k dk ewY; 
+`55/yhVj gksxkA bl u, feJ.k esa nks çdkj ds nw/k dk vuqikr 
+Kkr dhft,A 
+(a) 
+1 : 1 
+(b) 
+1 : 2 
+(c) 
+1 : 4 
+(d) 
+1 : 3 
+20. 
+How much water should be added 
+to 60 liter of milk at 1
+𝟏
+𝟐 liters a rupee so 
+as to have a mixture worth 1
+𝟕
+𝟖 liters a 
+rupee? 
+1
+𝟏
+𝟐 लीिर प्रति रुपये की दर से 60 लीिर दूि में 
+ककिना पानी भमलाया जाना चाहहए िाकक भमश्रर् 
+1
+𝟕
+𝟖 लीिर प्रति रुपये के बराबर हो जाए? 
+ SSC CHSL PRE 2024 
+A) 15 L 
+B) 12 L 
+C) 27 L 
+D) 20 L 
+21. 
+A milkman sells the milk by 
+adding some water in it at 45 Rs./litre 
+with no profit no loss . If he had 48 ltr 
+of mixture milk and water with him 
+then find quantity of water in it(pure 
+milk costs 54 Rs./ltr)? 
+,d nwfèk;k nwèk eas ikuh feykdj mls 45 :@yh न लाभ न हानन 
+ds ewY; ij csprk gSA ;fn mlds ikl 48 yh feJ.k gS rks feJ.k 
+esa ikuh dh ek=k Kkr djsA ¼;fn “kq) nwèk dk ewY; 54 :@yh- 
+gS½ 
+(a) 6  
+ 
+(b) 12 
+(c) 8  
+ 
+(d) 9 
+22. 
+A sum of Rs 41 was divided 
+among 50 students. If each boy got 90 
+p and each girl got 65 p. find the 
+number of boys? 
+50 छात्रों के बीच 41 रुपये की राभश बांिी गई। 
+यहद प्रत्येक लड़के को 90 पैसे भमलिे हैं और प्रत्येक 
+लड़की को 65 पैसे भमलिे हैं। लड़कों की संख्या 
+ज्ञाि करें? 
+A) 43 
+B) 33 
+C) 44 
+D) 34 
+ 
+ 
+                                              BY Gagan Pratap 
+23. 
+There are 2 types coins in a box 
+25p and 50p the total money in box is 
+Rs.36 and the total number of coins is 
+90. 
+If 
+the 
+number 
+of 
+coins 
+is 
+interchanged 
+then 
+find 
+the 
+total 
+money. 
+fdlh ckWDl esa 25 iSls vkSj 50 iSls ds nks çdkj ds 
+flDds gS ckWDl esa dqy èku 36 :- gS vkSj flDdks dh 
+dqy la[;k 90 gSA ;fn flDdksa dh la[;k dks vkil esa 
+cny fn;k tk, rks vc dqy èku fdruk gksxkA 
+(a) Rs.30 
+ 
+(b) Rs.35 
+ 
+(c) Rs.31.5  
+(d) Rs.40 
+24. 
+If the length of a rectangle is 
+increased by 13% and the breadth of 
+the rectangle is decreased by 8%, then 
+percentage change in the perimeter of 
+the rectangle will be: 
+यजद नकसी आयत की लंबाई 13% बढ़ िाती है और 
+आयत की चौडाई 8% कम हो िाती है, तो आयत के 
+पररमाप में प्रजतशत पररवततन होगा? 
+(a) 5.4% decreased  
+ 
+(b) can not be determine  
+(c) 3.96% increased     
+(d) 4.06% increased  
+25. 
+Length and breadth of a rectangle 
+66.5cm and 39.9cm respectively .   If 
+the length of  rectangle is increased by 
+40% and the breadth of the rectangle is 
+decreased by 23 %, then percentage 
+change 
+in 
+the 
+perimeter 
+of 
+the 
+rectangle will be: 
+एक आयत की लंबाई और चौडाई क्रमशः 66.5 सेमी और 39.9 
+सेमी है। यनि आयत की लंबाई में 40% की वृनि की जाती है और 
+आयत की चौडाई में 23% की कमी की जाती है, तो आयत की 
+पररनि में प्रनतशत पररवततन होगा:  
+(a) 15.625% increased   
+(b) can not be determine  
+ (c) 16.375% increased     
+(d) 7.8% increased  
+ 
+26. 
+A gold biscuit weighing 11 kg 
+contained only 82% gold and the rest 
+copper. If it was alloyed with another 
+gold biscuit and the resulting alloy had 
+a mass of 28 kg and contained 90% 
+gold, then find the percentage of gold 
+in the second biscuit? 
+11 ककलो विन वाले सोने के बबस्कुट में केवल 82% 
+सोना और बाकी तांबा होता है। यदि इसे ककसी अन्य 
+सोने के बबस्कुट के साथ भमधित ककया गया था और 
+िररणामी भमि िातु में 28 ककलो का द्रव्यमान था और 
+इसमें 90% सोना था, तो िूसरे बबस्कुट में सोने का 
+प्रनतशत ज्ञात कीजिये? 
+A) 93.2% 
+B) 94.5% 
+C) 95.2% 
+D) 96% 
+27. 
+In an alloy 80% copper and rest 
+is tin in another alloy copper 85% and 
+13% tin. Both alloys are mixed in which 
+ratio such that % of tin becomes 15% 
+in resultant mixture. 
+,d feJ èkkrq esa 80% rkack vkSj “ks’k fVu gSA nwljh feJ èkkrq 
+esa rkack 85% o fVu 13% gSA bu feJ èkkrqvksa dks fdl 
+vuqikr esa feyk;k tk, rkfd u, feJ.k esa 15% fVu gksA  
+(a) 5 : 2 
+ 
+(b) 2 : 3 
+ 
+(c) 2 : 5 
+ 
+(d) 3 : 2 
+28. 
+An Alloy A of gold and silver 
+contains 89% gold and 11% silver a 
+second alloy B of gold and silver 
+contains 75% gold and 9% silver and 
+rest part is impurities, an alloy C is 
+made by mixing alloy A and alloy B and 
+it contains 10
+𝟑
+𝟕% silver find the % of 
+gold in alloy C? 
+,d v;Ld A esa 89% lksuk vkSj 11% pkanh gSA ,d nwljs 
+v;Ld B esa 75% lksuk vkSj 9% pkanh vkSj ckdh v”kqf);ka 
+gSA bu nksuksa feJ.k dks feyk dj ,d rhljk v;Ld C cuk;k 
+x;k gS ftles pkanh 10
+𝟑
+𝟕%  gSA feJ.k esa lksus dh ek=k Kkr 
+dhft;sA 
+(a) 84% 
+ 
+(b) 85% 
+ 
+(c) 85.5% 
+ 
+(d) 86% 
+29. 
+Brass is an alloy of copper and 
+zinc. Bronze is an alloy containing 80% 
+copper. 4% zinc and 16% tin. A fused 
+mass of both alloy is made to contain 
+74% copper, 16% zinc & 10% tin. The 
+ratio of copper to zinc in brass is? 
+ 
+ 
+                                              BY Gagan Pratap 
+पीतल एक नमश्र धातु है ज  नक केवल तााँबा और 
+जस्ता से नमलकर बिा है । कांस्य एक नमश्रधातु 
+है नजसमे 80% तांबा ,4% जस्ता     और 16% 
+निि ह ता है।पीतल और कांस्य के एक नमनश्रत 
+द्रव्यमाि में 74 % तांबा ,16% जस्ता और 10% 
+निि शानमल है । पीतल में तांबे और जस्ता का 
+अिुपात ज्ञात करे। 
+a) 12:16  
+ 
+b) 16:9  
+c) 3:4  
+ 
+d) 12:5 
+ 
+30. 
+In a school, 
+𝟒
+𝟗 of the number of 
+students are girls and the rest are boys. 
+𝟑
+𝟓 of the number of boys are below 12 
+years of age and 
+𝟓
+𝟏𝟐 of the number of 
+girls are 12 years or above 12 yeas of 
+age. If the number of students below 12 
+years of age is 480, then 
+𝟓
+𝟏𝟖 of the total 
+number of students in the school will 
+be equal to: 
+          एक स्कूल में, छात्ों की संख्या में 
+𝟒
+𝟗  लडजकयां हैं 
+और बाकी लडके हैं। लडकों की संख्या का 
+𝟑
+𝟓 ,12 
+वर्त से कम है और लडजकयों की संख्या का 
+𝟓
+𝟏𝟐 , 12 
+वर्त या 12 वर्त से अजिक है। यजद 12 वर्त से कम 
+आयु के छात्ों की संख्या 480 है, तो स्कूल में कुल 
+छात्ों की संख्या का  
+𝟓
+𝟏𝟖  के बराबर होगा: 
+        (a) 240 
+ 
+(b) 315 
+ 
+(c) 225 
+ 
+(d) 270 
+31. 
+Two-third of the number of 
+employees of a company are males and 
+the rest are females. If 
+𝟑
+𝟖 of the male 
+employees 
+and 
+𝟐
+𝟓
+ of 
+the 
+female 
+employee are temporary employees 
+and the total number of permanent 
+employees is 740, the 
+𝟕
+𝟏𝟓 of the total 
+number of the employees exceeds the 
+number 
+of 
+temporary 
+female 
+employees by: 
+एक कंपनी के कर्मचारियों की संख्या का दो-तिहाई पुरुष हैं औि बाकी 
+र्तहलाएं हैं। यतद पुरुष कर्मचारियों का 
+𝟑
+𝟖 औि र्तहला कर्मचािी का 
+𝟐
+𝟓 
+अस्थायी कर्मचािी हैं औि स्थायी कर्मचारियों की कुल संख्या 740 है िो 
+कर्मचारियों की कुल संख्या का 
+𝟕
+𝟏𝟓 अस्थायी र्तहला कर्मचारियों की 
+संख्या से तकिना अतिक है: 
+a) 320 
+ 
+b) 308 
+ 
+c) 400 
+ 
+d) 340 
+32. 
+A certain company employed234 
+women and 198 men and their average 
+wage was Rs 30.25 per day. If a man got 
+Rs 6 more than a woman, then what is 
+the daily wage of a man? 
+एक तनजचचि कंपनी ने 234 महहलाओं और 198 
+पुरुषों को रोजगार हदया और उनका औसि वेिन 
+30.25 रुपये प्रति हदन था। यहद एक पुरुष को एक 
+महहला से 6 रुपये अधिक भमलिे हैं, िो एक पुरुष 
+का दैतनक वेिन ककिना है? 
+A) Rs 33.5 
+B) Rs 33.25 
+C) Rs 22.75 
+D) Rs 34.25 
+33. 
+The average height of girls in a 
+group is 154 cm and the average height 
+of boys in the group is 3cm more than 
+the average height of all the boys and 
+girls in the group. If the number of girls 
+is 25% less than the number of boys, 
+then what is the average height (in cm) 
+of the boys? 
+,d lewg esa yM+fd;ksa dh vkSlr Å¡pkbZ 154 cm gS] vkSj lewg 
+esa yM+dksa dh vkSlr Å¡pkbZ] lewg ds lHkh yM+dksa vkSj yM+fd;ksa 
+dh vkSlr Å¡pkbZ ls 3 cm vf/kd gSA ;fn yM+fd;ksa dh la[;k] 
+yM+dksa dh la[;k ls 25% de gks] rks yM+dksa dh vkSlr Å¡pkbZ 
+¼cm esa½ fdruh gS\ 
+1. 159  
+2. 158 
+ 
+3. 161 
+4. 160 
+ 
+( ICAR Technician 2023) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                              BY Gagan Pratap 
+34. 
+2 varities of sugar are mixed in 
+the proportion of 3:2 and the mixture 
+is sold at Rs48/kg at a profit of 20%. If 
+the 2nd variety of sugar cost Rs15 more 
+than the 1st variety of sugar, then find 
+the cost price of 1st variety of sugar? 
+चीनी की िो ककस्मो को आिस मे  3:2 में अनुिात 
+में भमलाकर रु48/ककग्रा के दहसाब से बेचने िर 20% 
+का लाभ भमलता है।यदि िूसरी ककस्म की चीनी 
+िहले ककस्म से 15रु/ककग्रा महंगा है तो िहले ककस्म 
+के चीनी की क्रय मूल्य बताए? 
+a) Rs24/kg  
+ 
+b) Rs25/kg  
+c) Rs34/kg  
+ 
+d) Rs49/kg 
+35. 
+Train X crosses a man standing 
+on the platform in 24 seconds and train 
+Y crosses a man standing on the 
+platform in 18 seconds. They cross 
+each other while running in opposite 
+directions in 20 seconds. What is the 
+ratio of speed of X to speed of Y? 
+ ट्रेन X प्लेटफॉमत पर खडे एक व्यनि को 24 सेकंड में पार करती 
+है और ट्रेन Y प्लेटफॉमत पर खडे एक व्यनि को 18 सेकंड में पार 
+करती है। वे नवपरीत निशाओं में िौडते हुए 20 सेकंड में एक िूसरे 
+को पार करते हैं। X की गनत का Y की गनत से अनुपात क्या है? 
+ (UPSC CDS-2  2024) 
+A) 1:2 
+B) 2:3 
+C) 1:3 
+D) 3:4 
+36. 
+A person travels 615 km in 12 
+hours in two stages. In the first part of 
+the journey, he travels by bus at the 
+speed of 40 km per hours. In the 
+seconed part of the journey, he travels 
+by train at the speed of 55 km per hr. 
+How much distance did he travels by 
+bus? 
+,d O;fDr nks Hkkxksa esa 615 fdeh 12 ?kaVsa esa r; djrk 
+gSA ;k=k ds igys Hkkx esa og 40 fdeh izfr ?kaVk dh 
+xfr ls cl }kjk r; djrk gS rFkk nwljs Hkkx esa og 
+55 fdeh izfr ?kaVk dh xfr ls Vªsu }kjk r; djrk gSA 
+raks  cl }kjk mlus fdruh nwjh r; dh \ 
+ 
+(A) 142.5 km  
+(B) 180 km 
+ 
+(C) 165 km 
+ 
+(D) 120 km 
+ 
+37. 
+In a race, there are 100 bikes, 
+consisting of yellow and green bikes. 
+The average speed of all the bikes is 35 
+km/hr. The average speed of the yellow 
+bikes is 55 km/hr, and the average 
+speed of the green bikes is 30 km/hr. 
+How many of the bikes are green?  
+एक रेस में 100 बाइकें भाग लेिी हैं, जजनमें पीली 
+और हरी बाइक शाभमल हैं। सभी बाइकों की औसि 
+चाल 35 km/hr है। पीली बाइकों की औसि चाल 
+55 km/hr है, िथा हरी बाइकों की औसि चाल 30 
+km/hr है। ककिनी बाइकें हरी हैं? (SSC GD 2025) 
+1. 50  
+ 
+ 
+ 
+ 
+ 
+2. 80 
+3. 65  
+4.85 
+ 
+38. 
+If a man sells a packet at 21% 
+profit and pencil at 48% profit, he 
+earns Rs.1890 as profit. But if he sells 
+the pen at 
+𝟐𝟏
+𝟒% profit and pencil at 15% 
+loss then he bears no profit no loss. 
+Find the cost price of the pen and the 
+pencil. 
+;fn ,d O;fDr 1 isu को  21% ykHk ij csprk gS और 
+पेंभसल को 48%  लाभ पर बेचिा है rks :- 1890 dk 
+ykHk dekrk gSA ysfdu ;fn og isu dks 21/4% ykHk vkSj 
+isafly dks 15% gkfu ij csps rks mls u rks ykHk  होिा न 
+हातन होिी A isu vkSj isafly dk Ø; ewY; Kkr djsA 
+(a) 10000, 4200 (b) 4000, 1400 
+ 
+(c) 5000, 1750  
+(d) 6000, 2100 
+39. 
+Three classes: X, Y and Z, take a 
+test. The average score in class X is 83 
+The average score in class Y is 76 
+The average score in class Z is 85 The 
+average score of all students in classes 
+X and Y together is 79. The average 
+score of all students in classes Y and Z 
+together is 81. 
+What is the average score for all the 
+three classes, taken together? 
+rhu Dykl X, Y vkSj Z esa ,d VsLV gqvkA Dykl X dk 
+vkSlr çkIrkad 83 gSA Dykl Y dk vkSlr izkIrkad 76 gSA 
+ 
+ 
+                                              BY Gagan Pratap 
+Dykl Z dk vkSlr izkIrkad 85 gSA Dykl X vkSj Y ds lHkh 
+Nk=ksa dks feykdj vkSlr izkIrkad 79 gSA Dykl Y vkSj Z ds 
+lHkh Nk=ksa dks feykdj vkSlr izkIrkad 81 gSA rhuks Dyklks dk 
+feykdj dqy vkSlr izkIrkad Kkr dhft;sA 
+(a) 80.2 
+ 
+(b) 81.8 
+ 
+(c) 80.5 
+ 
+(d) 81.5 
+ 
+40. 
+A shopkeeper sells 3 items X, Y 
+and Z and incurs a loss of 24%, 13% 
+and 8% respectively. The overall loss % 
+on selling X and Y items is 19
+𝟐
+𝟕% and 
+that of Y and Z items is 10
+𝟕
+𝟗%. Find the 
+overall loss % on selling the 3 items. 
+एक िुकाििार तीि वस्तुओं X,Y और Z क  
+बेचता है और उन्हें  क्रमशः 24%,13% और 8% 
+नक हानि ह ती है।यनि X और Y पर कुल 19
+𝟐
+𝟕%  
+तथा Y और Z पर कुल 10
+𝟕
+𝟗% की हानि हुई ह  
+त  तीि वस्तुओ पर हुई कुल हानि प्रनतशत ज्ञात 
+करे। 
+a) 13.8%  
+ 
+b) 15.18%  
+c) 16.40%   
+d) 17.27% 
+ 
+41. 
+In a village consisting of p 
+persons, x% can read and write. Of the 
+males alone y% and of the females 
+alone z% can read and write. Find the 
+number of males in the village in terms 
+of p,x ,y and z if z<y. 
+एक गांव में p व्यजतत है,जिसमे x% लोग िढ़ और 
+भलख सकता है। y% िुरुष और z% मदहलाएं िढ़ 
+और भलख सकती है।गााँव मे िुरुषों की संख्या p, x, 
+y और z के ििों में ज्ञात कीजिए(z<y)। 
+a) 
+𝒑(𝒙−𝒛)
+(𝒚+𝒙−𝒛)  
+ 
+b) 
+𝒑(𝒙−𝒛)
+(𝒚+𝒙−𝟐𝒛)  
+c) 
+𝒑(𝒚−𝒛)
+(𝒙−𝒛)   
+ 
+d) 
+𝒑(𝒙−𝒛)
+(𝒚−𝒛)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,367 @@
+ 
+                                               BY Gagan Pratap 
+1. A trader owes a merchant ₹9,810 due in 1 year, but the trader wants to settle the account after 6 
+months. If the rate of simple interest is 9% per annum, how much cash (in ₹) should he pay? 
+एक व्यापारी पर 1 वर्ष का ₹9,810 बकाया है, लेककन व्यापारी 6 महीने के बाद हहसाब चुकाना चाहता है। यहद साधारण ब्याज की दर 
+9% प्रतत वर्ष है, तो उसे ककतना नकद (₹ में) भुगतान करना चाहहए? 
+(SSC CGL 2024 Pre) 
+ A) 9,550  
+ B) 9,450  
+ C) 9,540  
+ D) 9,405 
+2. A borrows a sum of `90,000 for 4 years at 5% simple interest. He lends it to B at 7% for 4 years at simple interest. 
+What is his gain (in `)? 
+A, `90,000 dh jkf'k 5% dh lk/kkj.k C;kt ij 4 o"kksZa ds fy, m/kkj ysrk gSA og bls 7% dh lk/kkj.k C;kt ij 4 o"kksZa ds fy, B dks m/kkj ns nsrk gSA mldks çkIr 
+gksus okyk ykHk (` esa) Kkr dhft,\ 
+(a) 
+7,200 
+(b) 
+9,000 
+(c) 
+8,000 
+(d) 
+7,500 
+3. Giri borrow a sum of Rs.7800 from Gaurav at the rate of 16% per annum for 4 years. He added some more 
+money in it and lent it to Azam at 19% per annum for 4 years in this process he earns a total profit of Rs. 
+1601. Find how much amount does he added? 
+गगरी ने गौरव से 4 वर्ष के ललए 16% की दर से 7800 रू उधार ललए| उसने इसमें कुछ धन लमलाया व 19% की दर से 4 वर्ष के ललए 
+आजम को उधार दे हदया | इसमें उसको 1601 रू का लाभ हुआ| ज्ञात करो उसने ककतना पैसा लमलाया था? 
+a) Rs.840         b) Rs.1125  
+c) Rs.875 
+ 
+d) Rs.855 
+4. In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock 
+market and is able to earn ₹30,000 for every ₹3,00,000. How much money is the bank earning finally if 
+the total amount deposited in the bank is ₹60,00,000?  
+एक बैंक में जमा रालि पर 6% ब्याज हदया जाता है। किर बैंक उस पैसे को िेयर बाजार में तनवेि करता है और प्रत्येक ₹3,00,000 पर 
+₹30,000 कमाने में सक्षम होता है। यहद बैंक में जमा कुल रालि ₹60,00,000 है तो बैंक अंततः ककतना पैसा कमा रहा है? 
+(SSC CGL 2024 Pre) 
+A) ₹3,00,000  
+B) ₹6,40,000  
+C) ₹2,40,000  
+D) ₹3,60,000 
+5. The interest accrued on a sum of ₹16,000 lent at a simple interest rate of 14% p.a. for the time in those 
+many years, which gives a simple interest of three-fifths of a certain sum at 10% p.a., is:  
+14% प्रतत वर्ष की साधारण ब्याज दर पर उधार दी गई ₹16,000 की रालि पर अर्जषत ब्याज, उस समय के कई वर्ों  के ललए, जो 
+10% प्रतत वर्ष की दर से एक तनर्चचत रालि का तीन-पााँचवााँ हहस्सा साधारण ब्याज देता है: 
+(SSC CGL 2024 Pre) 
+ A) ₹13,440 
+ B) ₹12,970 
+ C) ₹15,360 
+ D) ₹14,280 
+6. 
+The monthly income of Mr. Roy is Rs.18,000. He took a loan of Rs.30,000 on simple interest for 3 years at the rate of 5% per annum. 
+The amount that he will be paying as simple interest in 3 years is what percent of his monthly salary? 
+jkW; dh ekfld vk; Rs 18,000 gSA mlus 5% dh okf"kZd nj ls 3 o"kZ ds fy, lk/kkj.k C;kt ij Rs 30,000 dk _.k fy;kA og 3 o"kksZa esa lk/kkj.k C;kt ds :i esa 
+ftl jkf'k dk Hkqxrku djsxk] ;g mlds ekfld osru dh fdruh izfr'kr gS\ 
+(a) 
+30% 
+(b) 
+35% 
+(c) 
+20% 
+(d) 
+25% 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+7. A person invested a total amount of Rs15 lakh. A part of its was invested in a fixed deposit earning 6% 
+annual interest, and the remaining amount was invested in two other deposits in the ratio 2 : 1, earning 
+annual interest at the rates of 4% and 3%, respectively. If the total annual interest income is Rs.76000 
+then the amount (in Rs lakh) invested in the fixed deposit was 
+ 
+                                               BY Gagan Pratap 
+,d O;fDr us dqy 15 yk[k :Ik;s dk fuosश fd;kA bldk ,d fgLlk lkofèk tek esa 6% okÆ’kd C;kt nj Iks fuosश fd;k x;k Fkk] vkSj िेर्  jkfश 2 : 1 ds vuqikr esa 
+nks vU; tekvksa esa fuosश dh xbZ Fkh] Øeश% 4% vkSj 3% dh nj ls okf’kZd C;kt dek jgh FkhA ;fn dqy okf’kZd C;kt vk; 76000 :Ik;s gS rks lkofèk tek esa fuosश 
+dh xbZ jkfश ¼yk[k :Ik;s esa½ Fkh     
+A)10       B)6        C)8          D)9 
+8. A person invests some money in two banks in the ratio 11:9. The rate of simple interest on first investment 
+is 19%, but overall annual interest on total investment is 23.5%, if simple interest received in second 
+investment is Rs.1305. Then find his total investment? 
+कोई व्यर्तत कुछ धनरालि दो बैंकों में 11:9 के अनुपात में तनवेि करता है | पहले बैंक से उसे 19% ब्याज की दर प्राप्त होती है जबकक 
+कुल तनवेि पर उसे 23.5% ब्याज दर प्राप्त होती है अगर दूसरा बैंक उसे 1305 रू ब्याज देता है तो उसने बैंकों में कुल ककतना तनवेि 
+ककया? 
+a) Rs.8000 
+        b) Rs.10000 
+       c) Rs.12000 
+  
+ 
+d) Rs.9600 
+9. A person invested a sum of 10,500 at x% per annum at simple interest and a  
+sum of 13,500 at (x+2)% p.a. at simple interest. If the total interest earned on both                                       
+the investment for 3 years is 7,650, then the rate of interest on the first investment is: 
+,d O;fDr us 10]500 dh धनरालि  x% okf’kZd lk/kkj.k C;kt nj ij vkSj 13]500 dh /kujkfि (x+2)%  okf’kZd lk/kkj.k C;kt nj ij तनवेि dh A ;fn nksuksa fuosिksa 
+ij 3 o’kksZa esa vftZr dqy C;kt 7]650 gS] rks igys तनवेि ij C;kt dh nj Kkr dhft,A 
+(a) 8% 
+ 
+ 
+(b) 9.5%  
+ 
+(c) 9% 
+ 
+ 
+ 
+(d) 8.5% 
+10. Two equal sums are lent at 10% and 8% simple interest p.a. respectively, at the same time. The first sum 
+is received 2 years earlier than the second one and the amount received in each case was Rs 36,900. Each 
+sum was …… 
+nks cjkcj èkujkfि;ksa dks Øeि% 10% vkSj 8% okÆ’kd lkèkkj.k C;kt nj ij ,d gh le; ij mèkkj fn;k tkrk gSA igyh धनरालि  nwljh धनरालि  ls 2 o’kZ igys 
+gh çkIr gks tkrh gS vkSj izR;sd ekeys esa izkIr धनरालि  :-36]900 gSA izR;sd धनरालि  ______ FkhA 
+(a) Rs 20,500 
+ 
+(b) Rs 20,200     (c) Rs 18,100     
+(d) Rs 21,500 
+ 
+11. The simple interest on a sum of money for 10 year is Rs. 3130. If the principal becomes 5 times after 5 
+years, then what will be the total interest (in Rs.) obtained after 10 years? 
+ 
+एक रालि पर 10 वर्ष का साधारण ब्याज 3130 रुपये है। यहद 5 वर्ष बाद मूलधन 5 गुना हो जाता है, तो 10 वर्ष के बाद कुल ककतना 
+ब्याज (रु. में) प्राप्त होगा? 
+      (a)6260               (b) 7825 
+  (c) 9390               (d) 15650 
+12. A person has invested some amount for a specific period of time. If the rate of simple interest is 15% per 
+annum then amount becomes Rs.44000. If the rate of simple interest is 6%then amount becomes Rs.22400. 
+find the sum? 
+एक व्यर्तत ने कुछ रालि एक तनर्चचत अवगध के ललए तनवेि की है। यहद साधारण ब्याज की दर 15% वार्र्षक है तो लमश्रधन 44000 रु 
+हो जाती है। यहद साधारण ब्याज की दर 6% है तो रालि 22400 रु हो जाती है। तो धनरालि ज्ञात करें? 
+a) Rs.6000 
+b) Rs.8000 
+     c) Rs.9000 
+           d) Rs.7500 
+13. A part of Rs.48,500 is invested at a simple interest of 15% per annum. The rest of the money is invested at the rate of 10% 
+simple interest per annum after 2 years of the first investment. The ratio of interest after 5 years from the time when the 
+first amount was invested is 5 : 3. How much is the second part that was invested (in Rs.) at the rate of 10% simple interest? 
+ 
+Rs. 48,500 का एक हहस्सा 15% प्रतत वर्ष के साधारण ब्याज पर तनवेि ककया जाता है। पहले तनवेि के 2 वर्ष बाद, िेर् धनरालि 10% वार्र्षक 
+साधारण ब्याज की दर से तनवेि की जाती है। पहली धनरालि के तनवेि के समय से 5 वर्ष बाद, ब्याज का अनुपात 5 : 3 है। 10% साधारण 
+ब्याज की दर पर तनवेि ककया गया दूसरा हहस्सा (रु. में) ककतना है?             SSC CPO Pre 2024 
+ 
+[A]20,940 [B]29,100 
+ 
+ 
+[C]24,900 [D]19,400 
+14. A sum of Rs. 14000 is lent out in two parts in such a way that first part is given at 5% per annum and 
+second part at 8% per annum. If the simple interest received on sum given at 5% is Rs.92.25 more than 
+the simple interest on sum given at 8% in one year. Find the sum lend at 8% per annum? 
+14000 रुपये की धनरालि को दो भागों में इस प्रकार बांटा गया है कक पहले भाग पर 5% वार्र्षक साधारण व्याज की दर और दूसरे भाग 
+पर 8% वार्र्षक साधारण व्याज की दर से ब्याज लमलता है एक वर्ष के बाद 5% कक दर वाले भाग पर प्राप्त ब्याज, 8% की दर वाले भाग 
+पर प्राप्त ब्याज से 92.25 रुपए अगधक है तब 8% वार्र्षक दर वाला भाग ककतना था? 
+a) Rs. 4675       
+b) Rs. 5125 
+c) Rs.4450 
+ 
+d) Rs.4265 
+15. A person took a loan at 5% per annum simple interest during the first year and with an increases of 0.5% 
+simple interest every year from the second year onwards. After 4 years, he paid Rs 4,600 as a total interest 
+to settle the loan completely. How much was the loan? 
+एक व्यक्ति ने पहले वर्ष के दौरान 5% प्रति वर्ष साधारण ब्याज पर ऋण तलया तजसमे दूसरे वर्ष से आगे के प्रत्येक वर्ष में 0.5% साधारण ब्याज 
+की वृक्ति की जािी है। 4 साल के बाद उसने ऋण को पूरी िरह से चुकाने के तलए कुल ब्याज के रूप में 4,600 रुपये का भुगिान तकया। कुल 
+तकिना ऋण था?  
+(a) Rs 20,000         (b) Rs 19,000 
+(c) Rs 18,000 
+(d)Rs 21,000 
+ 
+ 
+  
+SSC CGL 2023 PRE 
+ 
+                                               BY Gagan Pratap 
+16. A person took loan at 5% per annum simple interest during the first year and with an increase of 0.5% 
+simple interest every year from the second year onwards. After 4 years, he paid Rs 4600 as a total interest 
+to settle the loan completely. How much was the loan? 
+एक व्यर्तत ने पहले वर्ष के दौरान 5% प्रतत वर्ष साधारण ब्याज पर ऋण ललया और दूसरे वर्ष से हर वर्ष 0.5% साधारण ब्याज की वृद्गध 
+के साथ ऋण ललया। 4 साल बाद, उसने ऋण को पूरी तरह चुकाने के ललए कुल ब्याज के रूप में 4600 रुपये का भुगतान ककया। लोन 
+ककतना था           (SSC CGL 2023) 
+A) Rs 20000 
+B) Rs 19000 
+C) Rs 18000 
+D) Rs 21000 
+17. R lends some money to S on which S pays Rs 17000 more to R. S lends the same money to T, on which T 
+pays 8.5% more to S. What should be the minimum borrow so that he does not incur any loss in the 
+process? 
+R, S को कुछ पैसे उधार देता है र्जस पर S, R को 17000 रुपये अगधक देता है। S, T को वही पैसा उधार देता है, र्जस पर T, S को 
+8.5% अगधक देता है। प्रकिया में न्यूनतम उधार ककतना होना चाहहए ताकक उसे कोई नुकसान न हो ?   (SSC CGL 2023) 
+A) Rs 200000 
+B) Rs 225000 
+C) Rs 180000 
+D) Rs 170000 
+18. Rs. 50,000 is deposited in a bank account. There was already some money in the account. Now the bank 
+gives Rs. 7,500 as simple interest in a year. The rate of simple interest is 4.5% per annum. How much 
+money (in Rs.) was already there in the account? 
+बैंक खाते में ₹50,000 रुपये जमा हैं। खाते में पहले से ही कुछ धनरालि थी। अब बैंक एक साल में साधारण ब्याज के रूप में ₹7,500 देता 
+है। साधारण ब्याज की दर 4.5% वार्र्षक है। तो बताइए कक खाते में पहले से ककतनी धनरालि (₹ में) थी? 
+ 
+[SSC Selection Post (Phase-XII)] 
+[A]1,16,666.67 
+[B] 1,66,666.67 
+ 
+[C]1,33,333.33 
+[D] 1,13,333.33 
+19. The simple interest earned on ₹2,800 at a rate of 10% per annum for 3 years is ₹x and ₹1,736 is the simple 
+interest earned on ₹6,200 at a rate of 14% for y years, then the value of x/y is: 
+यतद ₹2,800 पर 10% की वातर्षक दर से 3 वर्ों में प्राप्त साधारण ब्याज ₹x है और ₹6,200 पर 14% की दर से y वर्ों में प्राप्त साधारण 
+ब्याज ₹1,736 है, िो x/y का मान क्या होगा? (MAINS  2023) 
+(a) 550          (b) 380 
+   (c) 420  
+(d) 140 
+20. In ‘t’ years, the simple interest earned on a certain amount at the rate of 10% per annum is 5/8th of the 
+principal amount. If the rate of interest is made three-fourth of 10% and the simple interest remains the 
+same, which of the following statement is true about the changed value? 
+'t' वर्ों में, एक तनर्चचत रालि पर 10% प्रतत वर्ष की दर से अर्जषत साधारण ब्याज मूल रालि का 5/8वां हहस्सा है। यहद ब्याज की दर 
+10% की तीन-चौथाई कर दी जाए और साधारण ब्याज वही रहे, तो बदले हुए मूल्य के बारे में तनम्नललखखत में से कौन सा कथन सत्य 
+है? (CHSL 2023 PRE) 
+A) It remains the same as ‘t’ 
+B) It becomes three –fourth of the time ‘t’ 
+C) It increases to 8
+𝟏
+𝟑𝒚𝒆𝒂𝒓𝒔 
+D) It decreases to 5
+𝟏
+𝟐𝒚𝒆𝒂𝒓𝒔 
+21. A person invest a sum of 80000 at 24% and sum of 91000 at 20%. In how many years the amount 
+becomes equal? 
+एक व्यक्ति 80000 की राशि को 24% पर और 91000 की राशि को 20% पर निवेि करिा है। राशि ककििे वर्षों में बराबर हो जािी है? 
+A) 10 years 
+B) 11 years 
+C) 12 years 
+D) 13 years 
+22. A sum is deposited in a bank which gives simple interest. The sum becomes 1.25 times in 3 years. If there is a requirement of Rs 
+7,60,000 after seven years, how much amount (in `) should one deposit to fulfil the requirement? 
+,d jkf'k ,d cSad esa tek dh tkrh gS tks lk/kkj.k C;kt nsrk gSA jkf'k 3 o"kksZa eas 1.25 xquk gks tkrh gSA ;fn lkr o"kksZa ds ckn Rs 7,60,000 dh vko';drk gks] rks ml 
+vko';drk dks iwjk djus ds fy, fdlh dks fdruh jkf'k ¼` esa½ tek djuh pkfg,\ 
+(a) 
+5,20,000 
+(b) 
+5,70,000 
+(c) 
+4,80,000 
+ 
+                                               BY Gagan Pratap 
+(d) 
+6,00,000 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+23. A person invested a certain amount at a rate of 12% simple interest and another at a rate of 10% simple 
+interest. He received an annual interest of 130. However, if he had interchanged the amounts invested, he 
+would have received 4 more as interest. How much did he invest at the rate of 12% simple interest originally? 
+,d O;fä ,d fuf'pr /kujkf'k dks 12% lk/kkj.k C;kt dh nj ij vkSj nwljh /kujkf'k dks 10% lk/kkj.k C;kt dh nj ij fuos'k djrk gSaA mls ₹130 dk okf"kZd C;kt 
+çkIr gksrk gSA gkykafd] ;fn mlus fuos'k dh xbZ /kujkf'k dks vkil esa cny fn;k gksrk] rks mls C;kt ds :i esa ₹4 vf/kd çkIr gksrsA mlus ewy :i ls 12% lk/kkj.k 
+C;kt dh nj ij fdruk fuos'k fd;k Fkk\ 
+(a) 500  (b) 650 
+          (c) 560 
+(d) 600 
+24. A person invested some amount at 15% simple interest and some at 20% simple interest. He received 
+yearly interest of Rs. 250.50. But if he had interchanged the amounts invested he would have received 
+Rs. 10 more as interest. How much did he invest at 15% simple interest ?  
+एक व्यर्तत ने कुछ रालि 15% साधारण ब्याज पर और कुछ 20% साधारण ब्याज पर तनवेि की। उन्होंने 250.50 रुपये का वार्र्षक 
+ब्याज प्राप्त ककया। लेककन अगर उसने तनवेि की गई रालियों को आपस में बदल हदया होता  तो उसे 10रु ब्याज के रूप में  अगधक 
+लमलते । उसने 15% साधारण ब्याज पर ककतना तनवेि ककया ?                                
+a) Rs.630        b) Rs. 830        
+c) Rs.770       d) Rs 940  
+ 
+ 
+ 
+25. A money lender claims to lend money at the rate of 10% per annum simple interest. However, he takes the 
+interest in advance when he lends a sum   for one year. At what interest rate does he lend the money 
+actually? 
+एक साहूकार 10 प्रततित प्रततवर्ष साधारण ब्याज की दर से धन उधार देता है| हालांकक, यहद वह एक वर्ष के ललए धन उधार देता है, तो 
+ब्याज अगिम रूप से लेता है| वास्तव में वह ककतने ब्याज दर पर उधार देता है?  
+a)10%  
+b)10
+𝟏
+𝟗% 
+c)𝟗
+𝟏
+𝟏𝟏% 
+d)11
+𝟏
+𝟗% 
+26. S borrowed some amount from R and promised to pay him 8% interest. Then S invested the borrowed 
+amount in a scheme, upon which he earned a profit of 5% after paying R, the principal amount with 
+interest. How much percentage R would have gained, if he would have invested in the scheme directly?  
+S ने R से कुछ रालि उधार ली और उसे 8% ब्याज देने का वादा ककया। किर S ने उधार ली गई रालि को एक योजना में तनवेि ककया, 
+र्जस पर उसने ब्याज के साथ मूल रालि R का भुगतान करने के बाद 5% का लाभ कमाया। यहद R ने सीधे योजना में तनवेि ककया होता 
+तो उसे ककतना प्रततित लाभ होता? 
+(SSC CGL 2024 Pre) 
+A) 13.4%  
+B) 13%  
+C) 14.4% 
+ D) 14% 
+27. Aman buys a refrigerator priced at Rs.68,500. He pays Rs.18,500 at once and the rest after 22 months on which he is charged simple 
+interest at the rate of 15% per annum. The total amount he pays for the refrigerator is: 
+veu 68]500 #- ewY; okyk ,d jsfÝtjsVj [kjhnrk gSA og ,deq'r 18]500 dk Hkqxrku djrk gS vkSj 'ks"k dk Hkqxrku 22 eghus ckn djrk gS] ftl ij 15% çfr o"kZ dh 
+nj ls lk/kkj.k C;kt yxk;k tkrk gSA jsfÝtjsVj ds fy, mlds }kjk Hkqxrku dh xbZ dqy jkf'k -------------------- gSA 
+(a) Rs. 82,200 
+(b) Rs. 82,250 
+(c) Rs. 82,550 
+(d) Rs. 63,750 
+28. A clock is sold for ₹550 cash or in the instalment scheme, for ₹250 cash down payment and ₹310 after 
+one month. Find the rate of interest charged in the instalment scheme. 
+एक घडी ₹550 नकद या ककस्त योजना में, ₹250 नकद अगिम भुगतान और एक महीने के बाद ₹310 पर बेची जाती है। ककस्त योजना 
+में लगने वाली ब्याज दर ज्ञात कीर्जये। 
+(SSC CHSL 2024) 
+A) 40% 
+B) 20% 
+C) 35% 
+D) 45% 
+ 
+                                               BY Gagan Pratap 
+29. Rachel borrowed ₹10,000 at 10% simple interest per annum. She paid back ₹3,000 after Year 1, ₹ 2,800  after year 2 and 
+the remaining amount due after Year 3. If interest was charged on reducing balance, what was the amount Rachel paid 
+as the final installment ? 
+रेचल, 10% वातर्षक साधारण ब्याज की दर पर ₹10,000 उधार लेिी है। वह 1 वर्ष बाद ₹3,000 का, 2 वर्ष बाद ₹2,800 का  और 3 वर्ष बाद 
+शेर् धनरातश का भुगिान कर देिी है।यतद ब्याज घटिे हुए शेर् पर लगाया गया था, िो  रेचल ने अंतिम तकस्त के रूप में तकिनी रातश का 
+भुगिान तकया था ?                                                 NTPC CBT II Level 5 (15/06/2022) Shift 2 
+(a) ₹7,200 
+(b) ₹6,600 
+(c) ₹4,620 
+(d) ₹5,850 
+30. Meena took a car loan of Rs 275000 from the bank.  He paid interest at the rate of 8% per annum and 
+made the full payment in 3 years.  While making the payment he paid his old scooter and Rs 335000 to 
+the bank.  Tell the total price of the scooter? 
+मीणा ने बैंक से रु 275000  का कार लोन ललया।  उसने 8% की वालषिक दर से ब्याज का भुगतान लकया और 3 वषि में पूरा भुगतान लकया।  भुगतान करते समय उसने अपना पुराना स्कूटर 
+तथा रु 335000  बैंक को अदा लकये।  स्कूटर का कुल मूल्य बताये? 
+( RRB RPF CONSTABLE 2019 ) 
+A) Rs 5000 
+B) Rs 6000 
+C) Rs 6400 
+D) Rs 6600 
+ 
+31. Mohan borrows a sum of ₹4,22,092 at the rate of 20% per annum simple interest. At the end of the first 
+year, he repays ₹21,679 towards return of principal amount borrowed. If Mohan clears all pending dues at 
+the end of the second year, including interest payment that accrued during the first year, how much does 
+he pay (in ₹) at the end of the second year?  
+मोहन ने 20% प्रतत वर्ष साधारण ब्याज की दर से ₹4,22,092 की रालि उधार ली। पहले वर्ष के अंत में, वह उधार ली गई मूल रालि 
+की वापसी के ललए ₹21,679 चुकाता है। यहद मोहन दूसरे वर्ष के अंत में सभी लंबबत बकाया रालि का भुगतान करता है, र्जसमें पहले 
+वर्ष के दौरान अर्जषत ब्याज भुगतान भी िालमल है, तो वह दूसरे वर्ष के अंत में ककतना भुगतान (₹ में) करेगा? 
+(SSC CGL PRE 2024) 
+A) 556367  
+B) 558380  
+C) 561347  
+D) 564914 
+ 
+32. If the rate increases by 2% the simple interest received on a sum of money increase by 108. If the time 
+period is increased by 2 years, the simple interest on the same sum increases by ₹ 180. The sum is?  
+यहद दर 2% बढ़ जाती है तो ककसी धनरालि पर प्राप्त साधारण ब्याज ₹108 अगधक आता है। यहद समयावगध को 2 वर्ष बढ़ा हदया जाये तो उसी 
+धनरालि पर प्राप्त साधारण ब्याज ₹ 180 अगधक आता है। तो मूलधन ज्ञात कीर्जए: 
+(a) ₹ 540             
+(b) ₹415           
+(c) ₹404             
+(d) Data is not sufficient  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

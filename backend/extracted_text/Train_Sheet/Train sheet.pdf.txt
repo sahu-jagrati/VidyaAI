@@ -1,0 +1,799 @@
+ 
+            BY:-GAGAN PRATAP  
+ 
+1. Length of a train is 330 meters and it is moving 
+at the speed of 72 km/h. in how much time will 
+it takes cross a platform of length 710 meters? 
+एक ट्रेन की लंबाई 330 मीटर है और यह 72 ककमी/घंटा की गति 
+से चल रही है। यह 710 मीटर लम्बे प्लेटफामम को पार करने में 
+ककिना समय लेगा? 
+A) 64 seconds 
+B) 52 seconds 
+C) 56 seconds 
+D) 72 seconds 
+2. A train is running at a speed of 99 km/h. If the 
+train is 565 m long, then what will be the time 
+(in seconds) taken by it to cross a 975 m long 
+tunnel? 
+,d Vªsu 99 km/h dh pky ls py jgh gSA ;fn Vªsu 565 m yach gS] rks 
+975 m yach lqjax dks ikj djus eas bls fdruk le; yxsxk ¼lsdaM eas½\ 
+(a) 
+54 
+(b) 
+56 
+(c) 
+40 
+(d) 
+42 
+3. The platform of station 400 m long starts 
+exactly where the last span of a bridge 1.2 km 
+long ends. how long will a train 200 m long and 
+travelling at the speed of 72 km/h to take to 
+cover the distance between the starting point of 
+the span of the bridge and the far end of the 
+platform? 
+ककसी स्टेशन का 400 m लंबा प्लेटफॉमम ठीक उसी जगह से शुरू होिा 
+है जहां 1.2 km लंबा कोई पुल खत्म होिा है| 72 km/h की गति से चल 
+रही 200 m लंबी ककसी ट्रेन को पुल के आरंभिक बबंदु और प्लेटफॉमम के 
+आखखरी छोर के बीच की दूरी को िय करने में ककिना समय लगेगा? 
+A)1.6 min 
+B) 1.5 min 
+ 
+C) 1.8 min 
+D) 1.2 min 
+4. A train of length 350 m crosses a bridge of length 
+250 m in 20 seconds. What is the speed of the 
+train (in km/h)? 
+350 m लंबी रेलगाडी, 250 m लंबे पुल को 20 सेकंड में पार करती 
+है। रेलगाडी की चाल km/h में) क्या है? 
+(a) 95 
+ 
+ 
+(b) 72 
+ 
+ 
+(c) 108 
+ 
+ 
+(d) 88 
+5. A train 348 m long is running at a speed of 36 
+km/h. it crosses a bridge in 50 seconds. What is 
+the length of the bridge? 
+348 मीटर लंबी एक ट्रेन 36 ककमी/घंटा की गतत से चल रही 
+है। यह एक पुल को 50 सेकंड में पार करती है। पुल की लंबाई 
+ककतनी है? 
+ ( IB ACIO 2023) 
+A) 152 m 
+B) 146 m 
+C) 176 m 
+D) 103 m 
+6. The speed of a train is 42 km/h. it crosses an 
+electric pole in 27 seconds and a platform in 51 
+seconds. What is the length (in m) of the 
+platform? 
+एक ट्रेन की गति 42 ककमी/घंटा है। यह एक बबजली के खंिे को 
+27 सेकंड में और एक प्लेटफॉमम को 51 सेकंड में पार करिी है। 
+प्लेटफॉमम की लंबाई (मीटर में) क्या है?  
+(ICAR Technician 2022) 
+A) 280 
+B) 300 
+C) 250 
+D) 315 
+7. A 360 m long train running at uniform speed, 
+crosses a platform in 55 seconds and a man 
+standing on the platform in 24 seconds. what is 
+the length (in meters) of the platform? 
+एक समान गति से चलने वाली 360 m लंबी ट्रेन ककसी प्लेटफॉमम को 
+55 सेकंड में और प्लेटफॉमम पर खडे ककसी व्यक्क्ि को 24 सेकंड में पार 
+कर जािी है| प्लेटफॉमम की लंबाई (cm में) ककिनी है? 
+A)480 
+     
+      B) 445 
+ 
+ 
+C) 410 
+                    D) 465 
+8. A train crosses a platform 180m long in 60 sec 
+at a speed of 72 km/h. the time taken by the 
+train to cross an electric pole is: 
+एक ट्रैन 72 km/h की चाल से 60 सेकंड में 180 मीटर लम्बे 
+प्लेटफामम  को पार करती है। एक बबजली के खम्भे को पार 
+करने में ट्रैन द्वारा  ललया गया समय समय है? 
+a) 54 sec  
+ 
+b) 51 sec  
+ 
+c)  0.54min. 
+ 
+d) 0.51 min. 
+ 
+9. If a 1952 m long train crosses a pole in 122 
+seconds, then find the time (in seconds) taken 
+by the train to cross a 160 m long platform.  
+यदि 1952 मीटर लंबी ट्रेन एक खंभे को 122 सेकंड में पार 
+करती है, तो 160 मीटर लंबे प्लेटफॉमम को पार करने में ट्रेन 
+द्वारा ललया गया समय (सेकंड में) ज्ञात करें। 
+(RRB RPF SI 2024) 
+ A) 128  
+ B) 132 
+ C) 137  
+ D) 135 
+10. A train running at 40
+𝟏
+𝟐 km\h takes 24 secound 
+to cross a pole. How much time (in secound) will 
+it take to pass a 450 m long bridge? 
+40
+𝟏
+𝟐 km\h की चाल से चलने वाली एक रेलगाडी एक खम्भे को 
+पार करने में 24 सेकंड का समय लेती है। 450 मीटर लंबे पुल 
+को पार करने में ककतना समय (सेकंड में) लगेगा? 
+(a)56 
+(b)52 
+  (c)60 
+        (d)64 
+11. A train crosses a pole in 12 sec, and a bridge of 
+length 170m in 36 sec. Then, the speed of the 
+train is:- 
+कोई रेलगाडी एक खंभे को 12 sec में और 170m लंबे एक 
+पुल को 36 sec में पार कर लेती है, तो उस रेलगाडी की चाल 
+......... है। 
+a) 30.75 km/h     
+b) 10.8 km/h 
+ 
+c) 25.5 km/h     
+d) 32.45 km/h 
+ 
+ 
+            BY:-GAGAN PRATAP  
+12. A train crosses two platform having length 293 
+m and 425 m in 35 sec. and 47 sec. respectively. 
+Find the length of train. 
+एक रेलगाडी िो प् लेटफामम को जजनकी लम् बाई 293 मी
+ .
+और
+ 
+425 म
+ .
+को क्रमश
+ :
+35 सेकंड और 47 सेकंड में पार करती है। 
+रेलगाडी की लम् बाई ज्ञात कीजजए  
+(a)92 m 
+(b)78m 
+(c)85 m 
+(d)99 m 
+13. A 629 m long train crosses a man walking at a 
+speed of 10.4 km/h in the opposite direction in 
+12 seconds. What is the speed (in km/h) of the 
+train? 
+एक 629 m लंबी रेलगाडी विपरीत विशा में 10.4 km/h की चाल से चल रहे एक 
+व्यवि को 12 सेकंड में पार करती है। रेलगाडी की चाल (km/h में) ज्ञात कीविए। 
+A.183.1 
+B.178.3 
+C.176.6 
+D. 177.4 
+14. A 315mlong train is moving at a speed of 24 
+km/h. It will cross a man coming from the 
+opposite direction at a speed of 3 km/h in 
+__________. 
+315 m लंबी एक ट्रेन 24 km/h की चाल सेचल रही है। यह 
+ववपरीत दिशा से 3 km/h की चाल सेआ रहेव्यजक्त को 
+_________ मेंपार करेगी। 
+(a) 38 sec 
+(b) 36 sec 
+(c) 42 sec 
+(d) 40 sec 
+15. A 252 m long train is running at a speed of 125 
+km/h. What is the time (in seconds) in which it 
+will pass a man who starts from the engine 
+running at the speed of 17 km/h in the same 
+direction as that of the train? 
+एक 252 मीटर लंबी टरेन 125 ककमी/घंटा की चाल से चल रही 
+है। एक व्यक्ति जो इंजन के पास से 17 ककमी/घंटा की चाल से 
+टरेन के समान किशा में िौड़ना आरम्भ करता है, उसको टरेन 
+ककतने समय (सेकंड में) में पार करेगी? 
+1. 7.6 
+2. 8 
+3. 8.4 
+4. 6.4 
+16. A 234 m long train passes a person running at 9 
+km/h in the opposite direction, in 6 seconds. In 
+how much time (in seconds) will it pass another 
+person who is moving at 23.4 km/h, in the same 
+direction? 
+234 मीटर लंबी एक ट्रेन ववपरीत दिशा में 9 ककमी/घंटा की 
+गतत से चल रहे एक व्यजक्त को 6 सेकंड में पार कर जाती है। 
+यह उसी दिशा में 23.4 ककमी/घंटा की गतत से चल रहे िूसरे 
+व्यजक्त को ककतने समय में (सेकंड में) पार कर लेगी? SSC 
+CPO 2024 
+A) 8 
+B) 7.8 
+C) 7.2 
+D) 8.4 
+ 
+ 
+17. A 240 m long train overtakes a man walking at 
+6 km/h, in the same direction, in 9 seconds. 
+How much time (in seconds) will it take to pass 
+a 372 m long tunnel with the same speed? 
+240 m yEch jsyxkM+h] leku fn'kk esa 6 km/h dh pky ls pyus okys O;fDr 
+dks 9 lsd.M esa ikj dj tkrh gSA mlh pky ls ;g jsyxkM+h] 372 m yEch 
+lqjax dks fdrus le; esa ¼lsdaM esa½ ikj djsx\ 
+(a) 
+21.6 
+(b) 
+20 
+(c) 
+18 
+(d) 
+20.4 
+18. A train, 500 m long, passes a railway platform 
+400 m long, in one minute with uniform speed. 
+What is time (in seconds) taken by the train to 
+pass a man riding a motorbike, travelling 
+opposite to the direction of the train, at a speed 
+of 18 km/h? 
+500 m yach Vªsu ,d 400 m yacs IysVQkWeZ dks ,dleku pky ls ,d feuV 
+esa ikj djrh gSA 18 km/h dh pky ls Vªsu dh fn'kk ds foijhr ;k=k djrs 
+gq,] ,d eksVjlkbfdy lokj O;fDr dks ikj djus esa Vªsu }kjk fy;k x;k le; 
+¼lsd.M esa½ fdruk gksxk\ 
+ 
+(a) 
+30 
+ 
+(b) 
+48 
+ 
+(c) 
+54 
+(d) 
+25 
+19. The speed of a train is 78 km/h. It crosses a 
+tunnel in 45 s and overtakes a person walking at 
+a speed of 6 km/h, in the same direction, in 15 
+s. The length (in m) of the tunnel is: 
+fdlh jsyxkM+h dh pky 78 km/h gSA ;g fdlh lqjax dh 45 s eas ikj djrh 
+gS vkSj mlh fn'kk eas 6 km/h dh pky ls pyus okys O;fDr dks 15 s eas 
+vksojVsd djrh gSA lqjax dh yackbZ ¼ehVj eas½ Kkr djsaA 
+(a)675 
+(b)650 
+(c)975 
+    (d)780 
+20. Trains A and B of lengths 329 m and 296 m, 
+respectively, are running in opposite directions 
+on parallel tracks, at the speeds of 85 km/h and 
+65 km/h, respectively. In what time (in seconds) 
+will they cross each other? 
+jsyxkM+h A vkSj B dh yackbZ Øe'k% 329 m vkSj 296 m gS] tks foijhr 
+fn'kkvksa eas Øe'k% 85 km/h vkSj 65 km/h dh pky ls lekukarj iVfj;ksa ij 
+py jgh gSaA fdrus le; ¼lsdaM eas½ eas] os ,d nwljs dks ikj djsaxh\ 
+ 
+(a)15 
+(b)15.5       (c)14         
+(d)16.5 
+21. A 320 m long train completely crosses a 240 m 
+long train, coming from the opposite direction, 
+in y seconds. If the first train is travelling at the 
+speed of 44 km/h and the second train is 
+travelling at 56.8 km/h, then what is the value 
+of y? 
+ 
+            BY:-GAGAN PRATAP  
+320 मीटर लंबी एक ट्रेन ववपरीत दिशा से आ रही 240 मीटर 
+लंबी ट्रेन को y सेकंड में पूरी तरह से पार कर जाती है। यदि 
+पहली ट्रेन 44 ककमी/घंटा की गतत से यात्रा कर रही है और 
+िूसरी ट्रेन 56.8 ककमी/घंटा की गतत से यात्रा कर रही है, तो y 
+का मान क्या है? SSC CPO 2024 
+A) 21 
+B) 18 
+C) 20 
+D) 22 
+22. Two trains Mumbai Rajdhani and Kissan Express 
+of lengths 850 m and 700 m are 1050 m apart, 
+and are running on parallel tracks towards each 
+other. Mumbai Rajdhani is running at 62 km/h 
+and Kissan Express is running at 55 km/h. In 
+how much time (in sec) will the trains cross each 
+other? 
+850m और 700 m लंबी िो रेलगाकड़यााँ - म ंबई राजधानी और 
+ककसान एक्सप्रेस एक िूसरे से 1050m िूर हैं, और एक िूसरे की 
+ओर समानांतर पटररयों पर चल रही हैं। म ंबई राजधानी 62 
+km/h की रफ्तार से चल रही है, और ककसान एक्सप्रेस 55 km/h 
+की रफ्तार से चल रही है। ककतने समय (सेकंड में) में रेलगाकड़यााँ 
+एक िूसरे को पार करेंगी?  
+(a) 80  
+(b) 70  
+(c) 75  
+(d) 45 
+23. Two trains are moving in opposite directions at 
+speeds of 50 km/h and 80 km/h. The length of 
+one train is 480 m. The time taken by them to 
+cross each other is 28 seconds. The length (in m) 
+of the other train, correct to 2 decimal places, 
+is: 
+िो ट्रेनें 50 km/h और 80 km/h की चाल से ववपरीत दिशाओं 
+से आ रही हैं। एक ट्रेन की लंबाई 480 m है। उन्हें एक िूसरे 
+को पार करने में 28 सेकंड का समय लगता है। िूसरी ट्रेन की 
+लंबाई (m में) िशमलव के 2 स्थानों तक ज्ञात कीजजए। 
+(SSC GD 2025) 
+1. 533.51 
+ 
+2. 530.12 
+3. 529.39 
+ 
+4. 531.11 
+24. A train of 220 m length moving at the speed of 
+72 km/h crosses another train of 230 m length 
+coming from the opposite direction in 9 seconds. 
+The speed of the train (in km/h) is: 
+220 m yach ,d jsyxkM+h 72 km/h dh pky ls py jgh gS vkSj foijhr 
+fn'kk ls vk jgh 230 m yach jsyxkM+h dks 9 lsds.M esa ikj djrh gSA jsyxkM+h 
+dh pky (Km/h) esa fdruh gS\ 
+1. 108  
+2. 120  
+3. 90  
+4. 126 
+( ICAR Technician 2023) 
+25. A train of length 287 m, running at 80 km/h, 
+crosses another train moving in the opposite 
+direction at 37 km/h in 18 seconds. What is the 
+length of the other train? 
+80 km/h की चाल से चलने वाली 287 m लंबी रेलगाडी, ववपरीत 
+दिशा में 37 km/h की चाल से चल रही िूसरी रेलगाडी को 18 
+सेकंड में पार करती है। िूसरी रेलगाडी की लंबाई ज्ञात कीजजए। 
+(a) 300 m 
+(b) 298 m 
+ 
+(c) 285 m 
+(d) 289 m 
+26. A train running at a speed of 74 km/h x, crosses 
+the Bali train y at a speed of 52 km/h in the 
+opposite direction in 12 seconds. If the length 
+of the train y is two-thirds of the length of the 
+train x, find the length (in m) of the train x. 
+74 km/h की चाल से चलने वाली रेलगाड़ी x, कवपरीत किशा में 
+52 km/h की चाल से चलने बाली रेलगाड़ी y को 12 सेकंड में 
+पार करती है। यकि रेलगाड़ी y की लंबाई, रेलगाड़ी x की लंबाई 
+की िो-कतहाई है, तो रेलगाड़ी x की लंबाई (m में) ज्ञात करें। 
+(a) 168  
+(b) 210  
+ 
+(c) 200  
+(d) 252 
+27. A train takes 18 seconds to pass through a 
+tunnel of length 240 m long and 12 seconds to 
+cross another train of length 270 m long which 
+is moving in the opposite direction at a speed of 
+54 km/h. The length (in m) of the train is:  
+एक रेलगाड़ी को 240 मीटर लंबी स रंग को पार करने में 18 
+सेकंड का समय लेती है और कवपरीत किशा में 54 ककमी/घंटा 
+की चाल से चल रही 270 मीटर लंबी िूसरी टरेन को पार करने में 
+12 सेकंड का समय लेती है। रेलगाड़ी की लंबाई (मीटर में) 
+ककतनी है: 
+1. 160  
+2. 220  
+3. 210  
+4. 180 
+ 
+ ( ICAR Technician 2023) 
+28. The speeds of train A and train B are 46.8 km/h 
+and 61.2 km/h, respectively. The lengths of A 
+and B are in the ratio 3:5. When running in the 
+opposite direction. They cross each other 
+completely in 12 seconds. How much time (in 
+seconds) will train B take to cross a 336 m long 
+tunnel? 
+ट्रेन A और ट्रेन B की गति क्रमशः 46.8 ककमी/घंटा और 61.2 
+ककमी/घंटा है। A और B की लंबाई का अनुपाि 3:5 है। ववपरीि 
+ददशा में दौडिे समय, वे एक दूसरे को पूरी िरह से 12 सेकंड में 
+पार करिे हैं। 336 मीटर लंबी सुरंग को पार करने में ट्रेन B को 
+ककिना समय (सेकंड में) लगेगा? (ICAR Assistant 2022) 
+A) 30 
+B) 35 
+C) 28 
+D) 33 
+29. Two trains cross each other in 14 seconds when 
+running in opposite direction along parallel 
+tracks. The faster train is 160 m long and 
+crosses a lamp post in 12 seconds. If the speed 
+of the other train is 6 km/h less than the faster 
+one, its length in m, is? 
+समानांतर पटररयों के साथ ववपरीत दिशा में चलने पर िो ट्रेनें 
+14 सेकंड में एक िूसरे को पार करती हैं। तेज़ ट्रेन 160 मीटर 
+लंबी है और एक बबजली के खंभे को 12 सेकंड में पार करती 
+है। यदि िूसरी ट्रेन की गतत तेज गतत से 6 ककमी/घंटा कम है, 
+तो इसकी लंबाई मीटर में है? 
+A) 150 
+B) 175 
+C) 190 
+D) 180 
+30. A 280 m long train A passes a pole in 21 seconds 
+and passes completely train B running in the 
+opposite direction at 90 km/h in 15 seconds. If 
+train B overtakes train C running at 58 km/h in 
+the same direction in 54 seconds, then the 
+length of train C (in m) is: 
+ 
+            BY:-GAGAN PRATAP  
+एक 280 मीटर लंबी ट्रेन A एक खंभे को 21 सेकंड में पार 
+करती है और 90 ककमी/घंटा की गतत से ववपरीत दिशा में चल 
+रही ट्रेन B को पूरी तरह से 15 सेकंड में पार कर जाती है। 
+यदि ट्रेन B समान दिशा में 58 ककमी/घंटा की गतत से चल रही 
+ट्रेन C को 54 सेकंड में ओवरटेक करती है, तो ट्रेन C की लंबाई 
+(मीटर में) है: 
+A)  190 
+B)  180 
+C)  195 
+D)  185 
+31. Two trains X and Y of lengths 450 meters and 
+550 meters, respectively, are running in the 
+same direction on parallel tracks. If the speeds 
+of X and Y are 58 km/h and 86 km/h, 
+respectively, then what will be the time taken by 
+them to cross each other? (correct to one 
+decimal place) 
+Øe'k% 450 m vkSj 550 m dh yackbZ okyh nks jsyxkfM+;ka X vkSj Y, nks 
+lekukarj iVfj;ksa ij ,d gh fn'kk eas py jgh gSaA ;fn X vkSj Y dh pky 
+Øe'k% 58 km/h vkSj 86 km/h gS] rks mUgsa ,d nwljs dks ikj djus eas fdruk 
+le; yxsxk\ 
+(a) 
+122.6 seconds 
+(b) 
+128.6 seconds 
+(c) 
+126.6 seconds 
+(d) 
+124.6 seconds 
+(SSC CPO 2023) 
+32. Train X of length 350 m crosses an 850-m long 
+bridge in 1
+𝟏
+𝟑 minutes. How much time (in 
+minutes) will it take to completely cross a 250-
+m long train Y, running at a speed of 42 km/h in 
+the same direction? 
+350 m yach jsyxkM+h X, ,d 850 m yacs iqy dks feuV esa ikj dj tkrh 
+gSA leku fn'kk esa 42 km/h dh pky ls pyrh gqbZ 250 m yach jsyxkM+h 
+Y dks iwjh rjg ikj djus esa bls fdruk le; ¼feuVksa esa½ yxsxk\ 
+1.4    
+2.3
+𝟏
+𝟐 
+3.3  
+4.2
+𝟐
+𝟑 
+ 
+( ICAR Technician 2023) 
+33. Train A, running at a speed of 48 km/h. passes a 
+pole in 24 seconds and completely passes a 280-
+m long train B in 18 seconds. Train B is running 
+in the opposite direction of train A. In how much 
+time (in minutes) will train B completely cross 
+train C of length 220 m, running at a speed of 52 
+km/h in the same direction? 
+48 km/h dh pky ls pyrh gqbZ ,d jsyxkM+h A] ,d [kaHks dks 24 lsds.M esa 
+ikj djrh gS] vkSj 280 m yach jsyxkM+h B dks 18 lsds.M esa iwjh rjg ls ikj 
+djrh gSA jsyxkM+h B] jsyxkM+h A ds foijhr fn'kk esa py jgh gSA jsyxkM+h 
+B] leku fn'kk esa 52 km/h dh pky ls py jgh 220 m yach jsyxkM+h C 
+dks fdrus le; esa ¼feuVksa esa½ ikj dj ysxh\ 
+1. 2  
+2.1  
+3. 1
+𝟏
+𝟒  
+4. 1
+𝟏
+𝟐 
+( ICAR Technician 2023) 
+ 
+ 
+34. A 250 m long train overtakes a man moving at a 
+speed of 7 km/h (in same direction) in 36 
+seconds. How much time (in seconds) will it take 
+this train to completely cross another 415 m 
+long train, moving in the opposite direction at a 
+speed of 82 km/h? 
+250 m लंबी एक ट्रेन, 7 km/h की चाल से चल रहे (समान विशा में) एक व्यवि को 
+36 सेकंड में पार करती है। यह ट्रेन 82 km/h की चाल से विपरीत विशा से आ रही एक 
+अन्य 415 m लंबी ट्रेन को पूरी तरह से पार करने में वकतना समय (सेकंड में) लेगी? 
+(a) 17 
+(b) 30 
+(c) 21 
+(d) 31 
+35. There are two trains 150 m and 100 m long. If 
+both trains travel in the opposite direction, they 
+cross each other after 25 seconds and take 50 
+seconds to cross each other when they travel in 
+the same direction. The speed of both the train 
+is: 
+150 मीटर और 100 मीटर लंबी िो ट्रेनें हैं। यदि िोनों ट्रेनें 
+ववपरीत दिशा में चलती हैं, तो वे 25 सेकंड के बाि एक िूसरे 
+को पार करती हैं और एक ही दिशा में यात्रा करने पर एक िूसरे 
+को पार करने में 50 सेकंड का समय लेती हैं। िोनों ट्रेन की 
+गतत है: 
+A)  8.5 m/s and 2.5 m/s 
+B)  5.5 m/s and 3.5 m/s 
+C)  7.5 m/s and 2.5 m/s 
+D)  7.5 m/s and 3.5m/s 
+36. Two trains of equal length take 10 s and 16 s, 
+respectively, to cross a pole. If these trains are 
+moving in the same direction, then how long 
+will they take to cross each other? 
+समान लंबाई की िो रेलगाडडयााँ एक खम्भे को पार करने में 
+क्रमशः 10 s और 16 s लेती हैं। यदि ये रेलगाडडयााँ एक ही 
+दिशा में चल रही हों, तो उन्हें एक-िूसरे को पार करने में ककतना 
+समय लगेगा? 
+(SSC SELECTION POST XII MATRICULATION LEVEL) 
+A) 26.66 sec 
+B) 30 sec 
+C) 40 sec 
+D) 26 sec 
+37. Two trains having same length cross an electric 
+pole in 27 sec. and 24 sec. respectively. Then in 
+how much time they will cross each other if they 
+are moving in opposite direction. 
+समान लम् बाई की िो रेलगाडी बबजली के एक खम्भे  को क्रमश : 
+27 सकेंड और 24 सकेंड में पार करती है। तो ककतने समय में 
+वे एक िूसरे को पार करेंगी यदि वे ववपरीत दिशा में चल रही 
+है।  
+a)22.6 sec 
+(b)28.2sec 
+(c)25.4 sec 
+(d)30.8 sec 
+38. A train takes 7 seconds to pass man standing on 
+a platform and another train whose length is 
+double that of the first train, and moving in the 
+opposite direction, takes 10 seconds to pass 
+him. The time taken (in seconds, to the nearest 
+integer) by the trains to pass each other will be: 
+ 
+            BY:-GAGAN PRATAP  
+एक टरेन को प्लेटफामम पर खड़े आिमी को पार करने में 7 सेकंड 
+लगते हैं और िूसरी टरेन, कजसकी लंबाई पहली टरेन की लंबाई से 
+िोग नी है, और कवपरीत किशा में चलती है, उसे पार करने में 10 
+सेकंड लेती है। टरेनों द्वारा एक िूसरे को पार करने में कलया गया 
+समय (सेकेंड में, कनकटतम पूर्ाांक तक) होगा: 
+1. 8  
+2. 9 
+3. 10 
+4. 12 
+(SSC SELECTION POST XI 2023) 
+39. A train travelling at the speed of x km/h crossed 
+a 300 m long platform in 30 seconds, and 
+overtook a man walking in the same direction at 
+6 km/h in 20 seconds. What is the value of x? 
+x km/h की चाल से चलने वाली रेलगाडी, 300 m लंबे 
+प्लेटफॉमम को 30 सेकंड में पार करती है और उसी दिशा में 6 
+km/h की चाल से चल रहे व्यजक्त को 20 सेकंड में ओवरटेक 
+करती है। x का मान ज्ञात करें। 
+(a) 60  
+ 
+(b) 96  
+ 
+(c) 48  
+ 
+(d) 102 
+40. A train overtakes two persons walking along a railway 
+track. The first one walks at 5.4 km/h. The other one walks 
+at 10.8 km/h. The train needs 5.1 and 6.8 seconds 
+respectively to overtake them. What is the speed of the train 
+if both the persons are walking in the same direction as the 
+train? 
+एक रेलगाडी रेलिे ट्रैक के वकनारे चल रहे िो व्यवियों को पार करती है। पहला व्यवि 
+5.4 km/h की चाल से, और िूसरा व्यवि 10.8 km/h की चाल से चल रहा है। इन 
+व्यवियों को पार करने में रेलगाडी को क्रमशः 5.1 और 6.8 सेकंड लगते हैं। यवि िोनों 
+व्यवि रेलगाडी के समान विशा में चल रहे हैं, तो रेलगाडी की चाल वकतनी है? 
+A.36km/h 
+B.34km/h 
+C.18km/h 
+D. 27 km/h 
+41. A train is completely overtakes two persons, 
+walking in the same direction with speeds 3 
+km/h and 4 km/h in 9 seconds and 75/8 
+seconds respectively. What is the length of the 
+train? 
+एक ट्रेन समान दिशा में 3 ककमी/घंटा और 4 ककमी/घंटा की 
+गतत से चलते हुए िो व्यजक्तयों को क्रमशः 9 सेकंड और 75/8 
+सेकंड में पूरी तरह से पार कर लेती है। ट्रेन की लंबाई ककतनी 
+है? (CDS 2023) 
+A) 60 m 
+B) 62.5 m 
+C) 55 m 
+D) 67.5 m 
+42. Two persons are walking beside a railway track 
+at respective speeds of 2 and 4 km per hour in 
+the same direction. A train came from behind 
+them and crossed them in 90 and 100 seconds, 
+respectively. The time, in seconds, taken by the 
+train to cross an electric post is nearest to  
+िो व्यजक्त एक ही दिशा में 2 और 4 ककमी प्रतत घंटे की गतत से रेलवे 
+ट्रैक के पास चल रहे हैं। एक ट्रेन उनके पीछे से आई और उन्हें क्रमशः 
+90 और 100 सेकंड में पार ककया। एक इलेजक्ट्रक पोस्ट को पार करने 
+के ललए ट्रेन द्वारा ललया गया सेकंड, समय, तनकटतम है 
+(A) 78  
+(B)82 
+(C) 85  
+(D) 73 
+43. The ratio of speeds of two trains is 10:9. The 
+time taken by them to cross a pole is in the ratio 
+4:3. If the difference between their lengths is 
+156 metres then find the length of the smaller 
+train? 
+िो ट्रेनों की गतत का अनुपात 10: 9 है। एक पोल को पार करने 
+के ललए उनके द्वारा ललया गया समय 4: 3 के अनुपात में है। 
+यदि उनकी लंबाई का अंतर 156 मीटर है तो छोटी ट्रेन की 
+लंबाई ज्ञात कीजजए? 
+a)324 metres 
+ 
+b)378 metres 
+ 
+ 
+c)293 metres 
+ 
+d)351 metres 
+44. A train crosses a tunnel one and half of its length 
+with a speed of 45 km/hr in 2 min, then find in 
+how much time it will cross another train of 
+length 20% more than the first train which is 
+standing on platform with 80% of its speed? 
+एक ट्रेन अपनी से 1
+𝟏
+𝟐  लम्बाई की सुरंग को 45 ककमी/घंटे की 
+रफ़्तार से 2 लमनट में पार करती है तो ज्ञात करो की अपने से 
+20% ज्यािा लम्बाई की जस्थर ट्रेन को अपनी 80% चाल से 
+ककतनी िेर में पार करेगी? 
+a)2 min 16 sec 
+ 
+b) 2 min 18 sec 
+ 
+c) 2 min 04 sec 
+           d) 2 min 12 sec 
+45. Two trains are moving in the same direction at 
+60 km/h and 42 km/h. The faster train crosses 
+a man in the slower train in 36 seconds. Find the 
+length of the faster train. 
+िो रेलगाडडयााँ 60 ककमी/घंटा और 42 ककमी/घंटा की गतत से 
+एक ही दिशा में चल रही हैं। तेज़ ट्रेन धीमी ट्रेन में एक व्यजक्त 
+को 36 सेकंड में पार करती है। तेज़ ट्रेन की लंबाई ज्ञात कीजजए। 
+SSC CPO 2024 
+A) 185 m 
+B) 180 m 
+C) 195 m 
+D) 175 m 
+46. Two trains are moving in the opposite directions 
+at speed of 43 km/h and 51 km/h respectively. 
+The time taken by the slower train to cross a 
+man sitting in the faster train is 9 seconds. What 
+is the length (in metres) of the slower train? 
+ 
+nks jsyxkfM+;k¡ Øe”k% 43 fd-eh- izfr ?kaVk rFkk 51 fd-eh- izfr ?kaVk ls foijhr 
+fn”kk esa py jgh gSaA èkheh xfr okyh jsyxkM+h] dks rst xfr okyh jsyxkM+h esa 
+cSBs O;fDr dks ikj djus esa 9 lsdaM yxrs gSaA èkheh xfr okyh jsyxkM+h dh 
+yEckbZ ¼ehVj esa½ fdruh gS\ 
+ 
+(a)235           (b)338.4  
+ 
+           (c)470  
+(d)940 
+47. Renu was sitting inside train A, which was 
+travelling 50 km/h. Another train, B, whose 
+length was three times the length of A crossed 
+her in the opposite direction in 15 seconds. If 
+the speed of train B was 58 km/h, then the 
+length of train A (in m) is: 
+ट्रेन A के अंिर रेनू बैठी थी, िो 50 वकमी / घंटा की गवत से यात्रा कर रही थी। एक अन्य 
+ट्रेन, B, विसकी लंबाई A की लंबाई तीन गुना थी, उसे 15 सेकंड में विपरीत विशा में 
+पार वकया। यवि ट्रेन B की गवत 58 वकमी / घंटा थी, तो ट्रेन A (m में) की लंबाई है: 
+(a) 210 
+ 
+ 
+ 
+(b) 150 
+(c) 180 
+ 
+ 
+ 
+(d) 160 
+48. The ratio of speeds of a goods and passenger 
+train is 9:14 in same direction. If the passenger 
+train crosses the goods train in 1 minute 25 sec 
+while a passenger in passenger train observes 
+that he crosses the goods train in 35 sec. If the 
+sum of lengths goods and passenger train is 
+1326 metres then find difference between their 
+length?  
+ 
+            BY:-GAGAN PRATAP  
+मालगाडी और सवारी गाडी की चालों का अनुपात 9:14 है| 
+सवारी गाडी 1 लमनट 25 सेकंड में मालगाडी को पार कर लेती 
+है जबकक सवारी गाडी का एक यात्री ये िेखता है कक उसने 
+मालगाडी को 35 सेकंड में पार ककया है| मालगाडी और सवारी 
+गाडी की लम्बाईयों का योग 1326 मीटर है तो उनकी लम्बाईयों 
+का अंतर ज्ञात करें? 
+a)260 metres 
+ 
+b)208 metres 
+ 
+ 
+c)314 metres  
+ 
+d) 234 metres 
+49. A passenger train and a goods train are running 
+in the same direction  
+on parallel railway tracks. If the passenger train 
+now takes four times as long to pass the goods 
+train, as when they are running in opposite 
+directions, then what is the ratio of the speed of 
+the passenger train to that of the goods train? 
+(Assume that the trains run at uniform speeds) 
+एक यात्री ट्रेन और एक मालगाडी समानांतर रेलवे ट्रैक पर एक ही दिशा 
+में चल रही है | 
+यदि यात्री ट्रेन मालगाडी को पार करने में चार गुना समय लेती है,  जब 
+वे ववपरीत दिशाओं में चल रही होती हैं, तो यात्री ट्रेन का मालगाडी की 
+गतत से अनुपात क्या है? (मान लें कक ट्रेनें समान गतत से चलती हैं) 
+(a) 2 : 1  
+                           (b) 3 : 2 
+ 
+ 
+(c) 5 : 3  
+                           (d) 4 : 1 
+50. Two trains whose length difference is 170 m, 
+crosses each other in 16 sec when moves in 
+opposite direction but crosses each other in 36 
+sec when move in the same direction. Find the 
+speed of faster train if speed of slower train is 35 
+km/hr. 
+िो रेलगाडी में से एक की लम्बाई िूसरी रेलगाडी की लम्बाई से 
+170 मीटर अधधक है ववपरीत दिशाओं में चलती हुई ये एक 
+िूसरी को 16 सेकंड में और समान दिशा में चलती हुई 36 
+सेकंड में पार कर जाती है यदि धीमी गतत से चलने वाली 
+रेलगाडी की चाल 35 ककमी/घंटा हो तो तेज गतत से चलने वाली 
+रेलगाडी की चाल क्या होगी? 
+a)98 km/hr 
+b)70 km/hr 
+d)91 km/hr 
+d)65 km/hr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51. An engine can move at the speed of 20/3 m/s 
+without any wagon attached. Reduction in the 
+speed of the train is directly proportional to the 
+square root of the number of wagons attached to 
+the engine. When there are only 4 wagons 
+attached its speed is (50/9) m/s. The greatest 
+number of wagons with which the engine can 
+move is? 
+एक इंजन बबना ककसी डब्बे के 20/3 मी/से की चाल से चलता 
+है।ट्रैन की गतत में कमी इंजन से जुडे डब्बो की संख्या के वगमूल 
+के अनुक्रमनुपती है।यदि केवल 4 डडब्बे इंजन से जुडता है तो 
+इसकी चाल 50/9 मी/से है। ज्ञात कीजजये एक इंजन अधधकतम 
+ककतने डब्बे खींच सकता है ? 
+a) 144        b) 143       c) 12       d) 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,32 @@
+[
+  {
+    "question_number": 51,
+    "question_en": "If  47.2506 = 4A + 𝐵 + 2C + 𝐷 + 6E then 5A + 3B + 6C + D + 3E = ?",
+    "question_hi": null,
+    "option_a": "53.6003",
+    "option_b": "53.6012",
+    "option_c": "153.6003",
+    "option_d": "213.003",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Simplification",
+    "source_pdf": "Simplification Sheet -1.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 85,
+    "question_en": "If a = 0.4039 then √4𝑎2 −4𝑎+ 1 + 5a = ?",
+    "question_hi": null,
+    "option_a": "2.2117",
+    "option_b": "2 = 4ab",
+    "option_c": "2.8078",
+    "option_d": "1.8273 (a +",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Simplification",
+    "source_pdf": "Simplification Sheet -1.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

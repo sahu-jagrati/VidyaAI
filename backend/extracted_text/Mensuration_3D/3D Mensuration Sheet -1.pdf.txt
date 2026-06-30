@@ -1,0 +1,1151 @@
+ 
+ 
+                                                      BY Gagan Pratap 
+Cube ( घन ) 
+1. Two cubes have their volumes in the ratio 
+27:64. Find the ratio of their Surface areas? 
+दो घनों के आयतन का अनुपात 27:64 है। उनके पृष्ठीय 
+क्षेत्रफलों का अनुपात ज्ञात कीजिये? 
+DSSSB HEAD CLERK 2022 
+A) 16:7 
+B) 9:16 
+C) 16:9 
+D) 9:15 
+2. Find the surface area of a cube whose edge is 
+11 cm.  
+,d ,sls ?ku dk i`"Bh; {ks=Qy Kkr djsa ftldh dksj 11 lseh- gSA 
+(a) 66 cm²        (b) 726 cm² 
+(c) 121 cm²       (d) 11 cm² 
+3. What is the volume of a cube whose side is 2.7 
+m long? 
+उस घन का आयतन क्या होगा जिसकी भुिा 2.7 m लंबी है?  
+(a) 22.483 m3 
+(b) 24.743 m3 
+(c) 16.693 m3 
+(d) 19.683 m3 
+4. If the total surface area of a cube is 3456 cm2, 
+then its lateral surface area is: 
+;fn ,d ?ku dk dqy i`"Bh; {ks=Qy 3456 cm² gS] rks bldk ik'oZ i`"Bh; 
+{ks=Qy fdruk gS\ 
+(a) 1152 cm²           (b)2525 cm² 
+(c) 2304 cm²           (d) 2012 cm² 
+5. If the numerical value of total  surface area is 
+equal to the volume of the cube, then find the 
+diagonal of cube? 
+यदद ककसी घन का सम्पूर्ण पृष्ठ क्षेत्रफल और आयतन का 
+संख्यात्मक मान बराबर है तो घन  के विकर्ण की लंबाई क्या होगी? 
+a)6√3cm     b)12√3     c)9√3    d)8√3 
+6. The length of the longest stick that can be 
+fitted in a cubical vessel having an edge of 
+length 20 cm, is _______. 
+20 lseh- dksj okys ,d ?kukdkj ik= eas fQV dh tk ldus okyh lcls yach 
+MaMh dh yackbZ D;k gksxh\ 
+(a) 
+20 cm 
+(b) 
+𝟐𝟎 √𝟐 cm 
+(c) 
+𝟏𝟎 √𝟑 cm 
+(d) 
+𝟐𝟎 √𝟑 cm 
+7. What is the side of a cube (in metres) in which 
+an iron rod of maximum length 10 metres can 
+be put? 
+एक घन की वह भुजा (मीटर में) क्या है जजसमें अजिकतम 10 
+मीटर लंबाई की लोहे की छड़ रखी जा सकती है?  
+1. 5.77 
+2. 7.57 
+3. 5.57 
+4. 7.75 
+(SSC SELECTION POST XI 2023) 
+8. Find the length of diagonal (in cm) of a cube if 
+the volume of the cube is 1331 cm³. 
+;fn ?ku dk vk;ru 1331 cm³ gS] rks mlds fod.kZ dh yackbZ ¼lseh- esa½ 
+D;k gksxh\ 
+(a) 
+𝟑𝟑𝟏√𝟑 
+(b) 
+2𝟏√𝟑 
+(c) 
+𝟏𝟏√𝟑 
+(d) 
+𝟐𝟐√𝟑 
+9. The diagonal of a cube is 24 cm. Find its total 
+surface area. 
+,d ?ku dk fod.kZ 24 lseh- gSA bldk lEiw.kZ i`"Bh; {ks=Qy Kkr djsaA 
+(a) 
+1152 cm² 
+(b) 
+1252 cm² 
+(c) 
+1100 cm² 
+(d) 
+1366 cm² 
+10. If the diagonal of a cube is of length ‘l’, then 
+the total surface area of the cube is? 
+यदद घन का विकर्ण की लम्बाई ‘l’, तो घन का सम्पूर्ण पृष्ठ क्षेत्रफल 
+क्या है?  
+a)3 l2    b)√3 l2      c)√2 l2     d)2 l2 
+11. The diagonal of a cubical block of wood is 192 
+cm. Find its volume. 
+ 
+लकड़ी के एक घनीय ब्लॉक का विकर्ण 192 cm है। इसका 
+आयतन ज्ञात कीजिए। 
+ 
+SSC Selection Post (Phase-XII)  
+ 
+[A] 
+776432√𝟑 cm3 
+ 
+ 
+[B] 
+766432√𝟑 cm3 
+ 
+ 
+[C] 
+786432√𝟑 cm3 
+ 
+ 
+[D] 
+796432√𝟑 cm3 
+12. The total surface area of a cube is 1536 m2.Find 
+its volume. 
+,d ?ku dk dqy i`"Bh; {ks=Qy 1536 m² gSA bldk vk;ru Kkr dhft,A 
+(a) 
+216 m³ 
+(b) 
+125 m³ 
+(c) 
+4096 m³ 
+(d) 
+729 m³ 
+ 
+ 
+ 
+ 
+  
+(SSC CGL 2022 
+ 
+ 
+                                                      BY Gagan Pratap 
+13. The surface area of a cube is 1728 square cm.  
+Find its volume? 
+एक घन का पृष्ठीय क्षेत्रफल 1728  िगण cm है।  इसका 
+आयतन ज्ञात कीजिये? 
+(SSC CHSL MAINS 2024) 
+A) 3456√𝟐𝒄𝒎𝟑 
+B) 4356√𝟐𝒄𝒎𝟑 
+C) 5436√𝟐𝒄𝒎𝟑 
+D) 6453√𝟐𝒄𝒎𝟑 
+14. A hollow cube is made of paper to have a 
+volume of 512 cubic units. How much paper in 
+square units will be required to make the cube? 
+एक खोखला घन कागि से बना है जिसका आयतन 512 घन 
+इकाई है। घन बनाने के ललए ककतने िगण इकाई कागि की 
+आिश्यकता होगी? 
+  (CHSL MAINS 2023)   
+ 
+[a]328 
+ 
+[b]348 
+ 
+ 
+[c]288 
+ 
+[d]384 
+15. If the volume of a cube is given as 12167 cm3, 
+then the surface area of the cube will be: 
+यजि एक घन का आयतन 12167 सेमी3 जिया गया है, तो घन 
+का पृष्ठीय क्षेत्रफल होगा: 
+1. 3475 cm2 
+2. 4574 cm2 
+3. 3174 cm2 
+4. 5413 cm2 
+(SSC SELECTION POST XI 2023) 
+16. A solid cube, whose each edge is of length 48 
+cm, is melted. Identical solid cubes, each of 
+volume 64 cm3, are made out of this molten 
+cube, without any wastage. How many such 
+small cubes are obtained? 
+एक ठोस घन, जजसके प्रत्येक कोर की लंबाई 48 cm है, को 
+जपघलाया जाता है। इस जपघले हुए घन से जबना जकसी अपव्यय 
+के एक समान ठोस घन, जजनमें से प्रत्येक का आयतन 64 
+cm3 है, बनाए जाते हैं। ऐसे जकतने छोटे घन प्राप्त होंगे होंगे? 
+(CGL MAINS  2023) 
+(a) 1738 
+(b) 1728 
+(c) 1718 
+(d) 1748 
+17. Three solid iron cubes of edges 4 cm, 5 cm and 
+6 cm are melted together to make a new cube. 
+62cm3 of the melted material is lost due to 
+improper handling. The area (in cm2) of the 
+whole surface of the newly formed cube is 
+4 सेमी, 5 सेमी और 6 सेमी ककनारों के तीन ठोस लोहे के घन एक 
+नया घन बनाने के ललए एक साथ वपघलाए िाते हैं। वपघली सामग्री 
+का 62 सेमी3  अनुचित हैंडललंग के कारर् ख़राब िाता है। निगदठत 
+घन की पूरी सतह का क्षेत्र (सेमी2 में) है 
+           ( a) 294            (b) 343 
+           (c) 125             (d) 216 
+18. Three solid metallic cubes having sides 2 cm, 
+12 cm and 16 cm, respectively, are melted and 
+recast into a single cube. What is the length of 
+the side (in cm) of the cubes obtained? 
+rhu Bksl /kkrq ds ?ku ftudh Hkqtk,¡ Øe'k% 2 lseh-] 12 lseh- vkSj 16 lseh- 
+gSa] mUgsa fi?kyk;k tkrk gS vkSj ,d gh ?ku eas <kyk tkrk gSA bl çdkj çkIr 
+?ku dh Hkqtk dh yackbZ ¼lseh- esa½ D;k gksxh\ 
+(a) 14       (b)20         (c) 18         (d) 17 
+19. Three cubes with sides in the ratio of 3:4:5 are 
+melted to form a single cube whose diagonal is 
+𝟏𝟖√𝟑 cm. The sides of the three cubes are: 
+3:4:5 के अनुपात में भुजाओं वाले तीन घनों को जपघलाकर एक 
+ऐसा घन बनाया जाता है जजसका जवकर्ण 18√3 cm है। तीन 
+घनों की भुजाएं__________ हैं। 
+(a) 21 cm, 28 cm and 35 cm   
+ 
+(b) 9 cm, 12 cm and 15 cm   
+(c) 18 cm, 24 cm and 30 cm   
+ 
+(d) 12 cm, 16 cm and 20 cm 
+ 
+ 
+SSC CGL 2023 PRE   
+20. A metallic cube has each of its side of length 
+12 cm. It is melted and recast into three small 
+cubes. Out of these cubes, two have their sides 
+as 6 cm and 8 cm, respectively. The length of 
+each side of the third cube is: 
+िातु के एक घन की प्रत्येक भुजा की लंबाई 12 cm है। इसे 
+जपघलाकर तीन छोटे घन बनाए जाते हैं। इन िनों में से िो की 
+भुजाएं क्रमशः 6 cm और 8 cm हैं। तीसरे घन की प्रत्येक भुजा 
+की लंबाई क्या होगी? 
+(a) 7 cm 
+2. 9 cm 
+3. 10 cm 
+4. 5 cm 
+SSC CGL 2023 PRE 
+21. Three solid iron cubes of edges 8 cm, 10 cm 
+and 12 cm are melted together to make a new 
+cube. It is observed that 496 cm3 of the melted 
+material is lost due to improper handling. The 
+area (in cm2) of the whole surface of the newly 
+formed cube is: 
+8 cm, 10 cm और 12 cm ककनारों िाले लोहे के तीन ठोस घनों 
+को एक साथ वपघलाकर एक नया घन बनाया िाता है। यह 
+देखा गया है कक अनुचित संिालन के कारर् वपघली हुई सामग्री 
+का 496 cm3 नष्ट हो िाता है। नए बने घन के संपूर्ण पृष्ठ का 
+क्षेत्रफल ककतना (cm2 में) है? 
+ 
+      
+SSC Selection Post (Phase-XII)  
+[A]3375 
+[B]1176 
+ 
+[C]2197 
+[D]1331 
+22. A cube is having surface area of 5400 square 
+units. Its volume would increase approximately 
+________ if the side is increased by 5 units. 
+एक घन का पृष्ठीय क्षेत्रफल 5400 िगण इकाई है। यदद इसकी 
+भुिा को 5 इकाई बढा ददया िाए तो इसका आयतन लगभग 
+_________ बढ िाएगा।  SSC Selection Post (Phase-XII)  
+[A]45% 
+[B]59% 
+[C]55% 
+[D]50% 
+ 
+ 
+                                                      BY Gagan Pratap 
+23. A solid cube is cut into 64 identical cubes. 
+What is the  percentage increase in the total 
+surface area? 
+एक ठोस घन को 64  समरूप घनों में काटा िाता है। कुल पृष्ठीय 
+क्षेत्रफल में ककतने प्रततशत की िृद्चि हुई है ? 
+a)150          b)200            c)300             d)250 
+24. A solid cube of volume 13824 cm3 is cut into 8 
+cubes of equal volumes. The ratio of the surface 
+area of the original cube to the sum of the 
+surface areas of three of the smaller cubes is : 
+13824 सेमी3 आयतन का एक ठोस घन बराबर   आयतनों के 8   छोटे 
+घनो में काटा िाता है। मूल घन के सतह क्षेत्र का तीन छोटे घनो के 
+सतह क्षेत्रों के योग से क्या अनुपात है ? 
+ 
+(a)2 : 3  
+(b)4 : 3 
+ 
+(c )8 : 3                   (d)2 : 1 
+25. A string when wound on the exterior four walls 
+of a cube of side a cm starting at point C. and 
+ending at point d. Find the length of string in 
+cm. 
+एक घन के बाहरी िार दीिारों पर एक िागा लपेटा िाता है। िहााँ घन 
+की भुिा a सेमी है। यदद िागा के प्रारंलभक लसरा बबंदु C पर और 
+अंततम लसरा D पर है  तब िागे की लंबाई क्या होगी? 
+ 
+a)√19a       b) √26 a       c)√17 a     d)√13 a 
+26. A cube of metal, with each edge of length 7 cm, 
+weighs 150 kg. What is the edge length (in cm) 
+of a cube of the same metal that weighs 4050 
+kg? 
+िातु का एक घन, जजसके प्रत्येक कोर की लंबाई 7 सेमी है, 
+का भार 150 जकलोग्राम है। उसी िातु के एक घन की कोर की 
+लंबाई (सेमी में) जकतनी है, जजसका भार 4050 जकलोग्राम है? 
+1. 15  
+2. 24  
+ 
+3. 21  
+4. 18 
+ 
+( ICAR Technician 2023) 
+27. A cube of side 5 cm is made using 125 cubes, 
+each of side 1 cm. One cube is removed from 
+the middle of each of the faces of the cube. 
+What will be the surface area (in cm2) of the 
+remaining solid? 
+5 cm भुजा वाले एक घन को 125 घनों का प्रयोग करके बनाया 
+गया है, जजनमें से प्रत्येक की भुजा 1 cm है। घन के प्रत्येक 
+फलकों के बीच से एक घन हटा जिया जाता है। शेष ठोस का 
+पृष्ठीय क्षेत्रफल (cm2 में) क्या होगा? 
+(a) 150 
+(b) 174 
+(c) 155 
+(d) 144 
+Cuboid ( घनाभ ) 
+28. If the volume of a cuboid is 3x2 – 27, then its 
+possible dimensions are: 
+यदद ककसी घनाभ का आयतन 3x2-27 है,तो इसके संभावित 
+आयाम क्या हैं?  
+(RRB TECHNICIAN GRADE-3  2024) 
+ 
+[A]3, x2,– 27x            [B]3, 3, 3 
+ 
+[C]3, x – 3, x + 3       [D]3,x2, 27x 
+29. Let x, y, z be the length, breadth, height of a 
+cuboid. If its volume is 400 cubic cm and total 
+surface area is 340 square cm, then what is 
+𝒙−𝟏+ 𝒚−𝟏+ 𝒛−𝟏 equal to? 
+माना x, y, z एक घनाभ की लंबाई, चौडाई, ऊंचाई है। यदि 
+इसका आयतन 400 घन सेमी है और कुल सतह क्षेत्र 340 वर्ग 
+सेमी है, तो 𝒙−𝟏+ 𝒚−𝟏+ 𝒛−𝟏 ककसके बराबर है? 
+A) 17/20 
+B) 17/40 
+C) 7/10 
+D) 9/1 
+30. Volume of a cuboid is 4800 cm3. If the height 
+of this cuboid is 20 cm, then what will be the 
+area of the base of cuboid?  
+,d ?kukHk dk vk;ru 4800cm3 gSA ;fn bl ?kukHk dh Å¡pkbZ 20cm gks] rks 
+?kukHk ds vk/kkj dk {ks=Qy fdruk gksxk \ 
+(a)120cm2     (b) 150 cm2  
+(c)240cm2      (d) 480 cm2  
+ 
+31. If the length of cuboid is 44 cm, breadth is 5 
+cm and the volume of cuboid is 1980 cm3, then 
+find the height of cuboid (in cm). 
+यदद एक घनाभ की लंबाई 44 cm, िौड़ाई 5 cm और 
+आयतन 1980 cm3 है, तो घनाभ की ऊंिाई (cm में) ज्ञात 
+करें।(RPF CONSTABLE 2025) 
+ 
+A. 2 
+B. 9 
+C. 14 
+D. 4 
+32. To pack a set of books, Gautam got cartons of 
+a certain height that were 48 inches long and 
+27 inches wide. If the volume of such a carton 
+was 22.5 cubic feet, what was the height of 
+each carton? [Use 1 to foot = 12 inches]. 
+iqLrdksa ds ,d lsV dks iSd djus ds fy,] xkSre ,d fuf'pr Å¡pkbZ ds 
+dkVZu yk;k tks 48 bap yacs vkSj 27 bap pkSM+s FksA ;fn ,sls dkVZu dk vk;ru 
+22-5 ?ku QhV ¼D;wfcd QhV½ Fkk] rks çR;sd dkVZu dh Å¡pkbZ D;k Fkh\ ¼1 
+QqV ¾ 12 bap ysa½ 
+(a) 
+36 inches 
+ 
+ 
+                                                      BY Gagan Pratap 
+(b) 
+32.5 inches 
+(c) 
+30 inches 
+(d) 
+32 inches 
+33. If the length, breadth and height of a cuboid 
+are 7.5 m, 22 m and 13 m, respectively , then 
+find the volume of the cuboid 
+;fn ,d ?kukHk dh yackbZ] pkSM+kbZ vkSj Å¡pkbZ Øe'k% 7.5m, 22m vkSj 13m 
+gS] rks ?kukHk dk vk;ru Kkr dhft,A 
+(a) 
+2145 m³ 
+(b) 
+1245 m³ 
+(c) 
+4215 m³ 
+(d) 
+2154 m³ 
+34. A cuboidal water tank is 12 m long, 9 m wide 
+and 7.5 m deep. How many litres of water can 
+it hold? 
+एक घनाकार पानी की टंकी 12 मीटर लंबी, 9 मीटर िौड़ी 
+और 7.5 मीटर गहरी है। इसमें ककतने लीटर पानी समा सकता 
+है? 
+(a) 840000 
+(b) 810000 
+ 
+(c) 805000 
+(d) 780000 
+35. The total surface area of a cuboid of length 90 
+cm, breadth 50 cm and height 4 m is: 
+yackbZ 90 lseh-] pkSM+kbZ 50 lseh- vkSj ÅapkbZ 4 ehVj okys ?kukHk dk dqy 
+i`"Bh; {ks=Qy fdruk gksxk\ 
+(a) 
+18.15 m² 
+(b) 
+1.21 m² 
+(c) 
+6.05 m² 
+(d) 
+12.1 m² 
+36. The length, the breadth and the height of a 
+closed cuboidal box are 2.5 m, 2 m and 90 cm, 
+respectively. What would be the cost of a 
+canvas needed to cover this box completely, if 
+the cost of the value of the canvas is Rs 70 
+per sq m? 
+एक बंद घनाकार बक्से की लंबाई, िौड़ाई और ऊंिाई क्रमशः 
+2.5 मीटर, 2 मीटर और 90 सेमी है। इस बॉक्स को पूरी तरह 
+से ढकने के ललए आिश्यक कैनिास की लागत क्या होगी, 
+यदद कैनिास का मूल्य 70 रुपये प्रतत िगण मीटर है? 
+(RRB ALP 2024) 
+ 
+A) Rs 1507 
+B) Rs 1267 
+C) Rs 1448 
+D) Rs 1348 
+ 
+37. The dimensions of the floor of an office are 5m 
+× 3m. The cost of painting its walls and ceiling 
+at the rate of ₹60/m2 is ₹7,440. Find the height 
+of the room (in m). (Round off to one decimal 
+place.)  
+एक कायाणलय के फशण की विमाएाँ 5m × 3m हैं। ₹60/m2 
+की दर से इसकी दीिारों और छत को पेंट करने की लागत 
+₹7,440 है। कमरे की ऊाँिाई (m में) ज्ञात कीजिए। (एक 
+दंशमलि स्थान तक पूर्ाांककत कीजिए।)  
+[RRB Group D - 2022] 
+[A]6.8 
+ 
+[B]5.6
+ 
+ 
+[C]3.5 
+ 
+[D]4.5 
+ 
+38. What is the height of a cuboid whose total 
+surface area is 650 cm2? The cuboid is 10cm 
+long and 7 cm wide. 
+10 cm लंबेऔर 7 cm िौड़े घनाभ की ऊाँिाई क् या होगी जिसका 
+संपूर्णपृष्ठीय क्षेत्रफल 650 cm2 है?  
+a)  14 cm 
+b)  12 cm 
+c)  18 cm 
+d)  15 cm 
+ 
+39. The volume of a wall that is 5 times as high as 
+it is broad and 8 times as long as it is high is 
+12.8 cubic meters. Find the breadth of the 
+wall? 
+एक दीिार िो जितनी िौड़ी है उससे 5 गुना ऊंिी और जितनी 
+ऊंिी है उससे 8 गुना लंबी दीिार का आयतन 12.8 घन 
+मीटर है। दीिार की िौड़ाई ज्ञात कीजिये?   
+(RRB ALP 2024) 
+A) 0.004 m 
+B) 40 cm 
+C) 400 cm 
+D) 0.04 m 
+40. Find the length of longest pole that can be 
+placed in a room 16m long, 8m broad, 11m 
+high? 
+16m लम्बे, 8m िौड़े और 11m ऊंिे कमरे में रखे िाने िाले पोल की 
+अचिकतम लम्बाई क्या होगी? 
+a)20    b)21     c)18     d)19 
+41. What will be the length of longest diagonal of 
+the cuboid having length 13 cm ,breadth 
+11cm and height 20 cm? 
+घनाभ के सबसे लंबे विकर्ण की लंबाई क्या होगी जिसकी 
+लंबाई 13 सेमी , चौड़ाई 11 सेमी और ऊंिाई 20 सेमी है? 
+A) 23.45 cm 
+B) 26.27 cm 
+ 
+ 
+                                                      BY Gagan Pratap 
+C) 34.65 cm 
+D) 22.65 cm 
+42. The breadth 'b' of a room is twice its height 
+and half its length. Find the length of the 
+longest diagonal of the room? 
+एक कमरे की िौड़ाई 'b' उसकी ऊंिाई की दोगुनी और उसकी 
+लम्बाई की आिी है।  कमरे के सबसे लम्बे विकर्ण की लम्बाई 
+ज्ञात कीजिये? 
+A) 
+√𝟐𝟏𝒃
+𝟐 
+B) 
+𝒃
+𝟐 
+C) 
+√𝟏𝟗𝒃
+𝟐 
+D) 
+√𝟐𝟎𝒃
+𝟐 
+43. The length and breath of a room are 21 cm 
+and 16 m respectively. If the length of the 
+longest rod that can be placed in the room is 
+29 m, then what is the height of the room? 
+एक कमरे की लंबाई और चौड़ाई क्रमशः 21 सेमी और 16 
+मीटर है। यदि कमरे में रखी जा सकने वाली सबसे लंबी छड़ 
+की लंबाई 29 मीटर है, तो कमरे की ऊंचाई क्या है? 
+A) 10 m  
+ 
+ 
+ 
+C) 11 m 
+B) 12 m  
+ 
+ 
+ 
+D) 13 m 
+44. If the areas of three adjacent faces of a cuboid 
+are 5 cm2 , 15 cm2 , 27 cm2 , respectively, the 
+surface area of the cuboid is: 
+यदद एक घनाभ के तीन आसन्न फलकों का क्षेत्रफल क्रमशः 
+5 cm , 15 cm , 27 cm है, तो घनाभ का पृष्ठीय क्षेत्रफल क्या 
+होगा?                                                                                                                                             
+SSC CHSL Pre 2024 
+[A] 
+45 cm2      [B]75 cm2 
+[C]  
+47 cm2       [D]94 cm2 
+45. A cistern 6m long and 4 m wide contains water 
+up to a depth of 1 m 25 cm. The total area of 
+the wet surface is: 
+6 m लंबी और 4 m िौड़ी एक टंकी में 1 m 25 cm की 
+गहराई तक पानी भरा है। गीले पृष्ठ का कुल क्षेत्रफल ककतना 
+है? (RRB TECHNICIAN GRADE-3  2024) 
+[A] 
+50 m2        [B]   53.5 m2 
+[C] 
+55 m2          [D]  52.5 m2 
+46. The length of a diagonal of a cuboid is 11 cm. 
+the surface area is 240 square cm. what is the 
+sum of its length, breadth and height? 
+एक घनाभ के विकर्ण की लंबाई 11 सेमी है। सतह का क्षेत्रफल 
+240 िगण सेमी है। इसकी लंबाई, िौड़ाई और ऊंिाई का योग 
+ककतना है? 
+A) 16 cm 
+B) 17 cm 
+C) 18 cm 
+D) 19 cm 
+47. The sum of the length, the breadth and the 
+height of a cuboid is 38 cm and the length 
+diagonal is 22 cm. find the total surface area 
+of the cuboid? 
+एक घनाभ की लंबाई, िौड़ाई और ऊंिाई का योग 38 सेमी 
+है और लंबाई विकर्ण 22 सेमी है। घनाभ का कुल पृष्ठीय 
+क्षेत्रफल ज्ञात कीजिए? 
+(RRB ALP 2024) 
+A) 480 𝒄𝒎𝟐 
+B) 432 𝒄𝒎𝟐 
+C) 960 𝒄𝒎𝟐 
+D) 864 𝒄𝒎𝟐 
+48. The sum of the length, breadth and height of a 
+cuboid box is 20 cm and the total surface area 
+of cuboid is 256 sq. cm. What is the maximum 
+length (in approximate) of a stick that can be 
+placed inside the cuboid box? 
+,d ?kukdkj cDls dh yackbZ] pkSM+kbZ vkSj ÅapkbZ dk ;ksx 20 lseh- gS vkSj 
+?kukHk dk dqy i`"Bh; {ks=Qy 256 sq. cm gSA ?kukdkj cDl ds vanj j[kh 
+tk ldus okyh NM+h dh vf/kdre yackbZ ¼vuqekfur½ fdruh gks ldrh gS\ 
+(a)16 cm       (b)24 cm 
+(c)32 cm       (d)12 cm 
+SSC CHSL TIER – I 2022 
+49. If the areas of 3 adjacent faces of a cuboid are 
+x, y, z respectively, then the volume of the 
+cuboid is  
+यदद एक घनाभ के 3 समीपिती फलको  का क्षेत्रफल  क्रमशः x, y, 
+z हैं, तो घनाभ का आयतन है- 
+a)x+y+z     b)√𝒙𝒚𝒛    c)3xyz    d)√𝒙𝟑+ 𝒚𝟑+ 𝒛𝟑 
+ 
+50. The areas of three adjacent faces of a cuboidal 
+tank are 3m2, 12m2 and 16m2. The capacity of 
+the tank, in litres, is:  
+ककसी घनाभ आक्रार (आयतफलकी) की टंकी के तीन आसल्न 
+फलकों का क्षेत्रफल 3m2, 12m2 और  16m2 है। टंकी की क्षमता 
+लीटर में ज्ञात कीजिए। 
+(a) 48000 
+ 
+(b) 24000 
+ 
+ 
+(c) 72000 
+ 
+(d) 36000 
+ 
+51. The areas of three adjacent faces of a solid 
+cuboid are 66 cm2, 192 cm2 and 198 cm2. What 
+is the volume (in cm3) of the cuboid? 
+ 
+एक ठोस घनाभ के तीन आसन्न फलकों के क्षेत्रफल 
+66 cm2, 192 cm2 और 198 cm2 हैं। घनाभ का आयतन 
+(cm3 में) ज्ञात कीजिए। 
+(RRB TECHNICIAN GRADE-3  2024) 
+ 
+ 
+                                                      BY Gagan Pratap 
+ 
+[A] 
+1782 
+ 
+ 
+[B] 
+1792 
+ 
+[C] 
+1584 
+ 
+ 
+[D] 
+1594 
+52. The volume of a cuboid is 3600 cubic cm. the 
+areas of two adjacent faces are 225 square cm 
+and 144 cm square cm. what is the area of the 
+other adjacent face? 
+एक घनाभ का आयतन 3600 घन सेमी है। दो आसन्न 
+फलकों का क्षेत्रफल 225 िगण सेमी और 144 सेमी िगण सेमी 
+है। दूसरे आसन्न फलक का क्षेत्रफल क्या है? 
+A) 400 square cm 
+B) 360 square cm 
+C) 320 square cm 
+D) 300 square cm 
+53. The ratio of the length, width and height of a 
+closed cuboid is given as 6 : 3 : 2. The total 
+surface area of this cuboid is given as 1800 
+cm2. Find the volume (in cm3) of this cuboid. 
+एक संवृत घनाभ की लंबाई, चौड़ाई और ऊँचाई का अनुपात 
+6 : 3 : 2 जिया गया है। इस घनाभ का संपूर्ण पृष्ठीय क्षेत्रफल 
+1800 cm2 जिया गया है। इस घनाभ का आयतन (cm3 में) 
+ज्ञात कीजजए। (MAINS  2023) 
+(a) 4650 
+(b) 4500 
+(c) 4200 
+(d) 4800 
+54. The length, breadth and height of a cuboid are 
+in the ratio of 6:4:3. If the total surface area 
+of the cuboid is 972 𝒄𝒎𝟐, what is the length 
+(in cm) of the diagonal of the cuboid? 
+एक घनाभ की लंबाई, मोटाई  और ऊंिाई का अनुपात 6:4:3 
+है। यदद घनाभ का कुल सतह क्षेत्रफल 972 𝒄𝒎𝟐 है, तो घनाभ 
+के विकर्ण की लंबाई (सेमी में) क्या है? ? (MTS 2023) 
+A) 5√𝟔𝟓 
+B) 3√𝟔𝟏 
+C) 3√𝟔𝟓 
+D) 5√𝟔𝟏 
+55. The volume of rectangular block is 12288 m3. 
+Its dimension are in the ratio of 4:3: 2. If the 
+entire surface is polished at the rate 2 paise per 
+m2, then find the total cost of polishing  
+एक आयताकार खंड का आयतन 12288m3 है। इसके आयाम 
+4 : 3 : 2 के अनुपात में है। यदद संपूर्ण पृष् ठ को 2 पैसे/m की 
+दर से पॉललश ककया िाए, तो पॉललश करने की कुल लागत 
+ज्ञात कीजिए।              
+ SSC CHSL Pre 2024 
+[A] 
+Rs. 33.28 
+ 
+[B] 
+Rs.44.42  
+[C]  
+Rs.66.56 
+ 
+ 
+[D] 
+Rs.11.14 
+56. The length, width and height of a room are in 
+the ratio 5 : 4 : 2. If in a new room, the length 
+is increased by 40% and the width by 25%, how 
+will the volume of the room change for the 
+total area of the four walls of the room to stay 
+the same as before ? 
+एक कमरे की लंबाई, चौड़ाई और ऊंचाई का अनुपात 5 : 4 : 2 
+है। यजि एक नए कमरे में लंबाई को 40% से और चौड़ाई को 
+25% से बढाया जाता है, कमरे के चारों िीवारों के कुल क्षेत्रफल 
+को एक समान रखने हेतु कमरे के आयतन में क्या बिलाव 
+जकया जाएगा? 
+UP Constable 18/06/2018  (2nd Shift) 
+(a) Remain the same / पहले जैसे ही होगा 
+(b) Increase by 31.25% / 31.25% बढोत्तरी होगी 
+(c) Increase by 20.25% /  20.25% बढोत्तरी होगी 
+(d) Increase by 10% / 10% बढोत्तरी होगी 
+57. The length, breadth and height of a hall are 10 
+m, 20 m and 15m respectively. Find the cost of 
+whitewashing the walls of the inside of the hall 
+and ceiling at the rate of ₹10.20/m2 
+एक हॉल की लंबाई, चौड़ाई और ऊंचाई क्रमश :10m 20m 
+और 15m है। हॉल के अंिर की िीवारों और भीतरी छत को 
+₹10.20/m2 की िर से सफेिी करने का खचण ज्ञात कीजजए ।  
+1. ₹13,394 
+2. ₹11,220 
+3. ₹15,320  
+4. ₹16,542 
+SSC CGL 2023 PRE 
+58. A room has length 15 feet, width 12 feet and 
+height 10 feet. It has one door of dimensions 8 
+ft and 3.5 ft, and 2 windows of size 5 ft × 3 ft. 
+Find the cost of painting the four walls and the 
+ceiling at `50 per ft.². 
+fdlh dejs dh yackbZ 15 QhV] pkSM+kbZ 12 QhV vkSj ÅapkbZ 10 QhV gsA bleas 
+8 QhV vkSj 3-5 QhV Hkqtkvksa okyk ,d njoktk gS vkSj 5 QhV × 3 QhV 
+vkdkj dh nks f[kM+fd;ka gSaA `50 çfr ft² dh nj ls pkjksa nhokjksa vkSj Nr 
+dks isaV djus dh ykxr Kkr djsaA 
+(a)`19,600 
+ (b) `21,200 
+ 
+(c) `24,100 
+ (d) `33,100 
+59. 6 cubes, each of edge 4 cm, are7 joined end to 
+end. What is the total surface area of the 
+resulting cuboid? 
+ 6  घन जिसके, प्रत्येक ककनारे 4 सेमी, अंत से अंत तक        िोड़े  
+िाते हैं। पररर्ामी घनाभ का कुल क्षेत्रफल क्या है? 
+(a)416 cm2 
+(b)496 cm2 
+(c )576 cm2 
+(d)208 cm2 
+ 
+ 
+                                                      BY Gagan Pratap 
+60. Three cubes of equal volume are joined end to 
+end. Find the surface area of the resulting 
+cuboid if the diagonal of the cube is 𝟔√𝟑 cm. 
+cjkcj vk;ru okys rhu ?kuksa dks fljs ls fljs lVkdj vkil esa tksM+k tkrk 
+gSA ;fn ?ku dk fod.k 𝟔√𝟑 𝒄𝒎 gSa] rks ifj.kkeh ?kukHk dk i`"Bh; {ks=Qy 
+Kkr dhft,A 
+(a) 
+509 cm² 
+(b) 
+504 cm² 
+(c) 
+516 cm² 
+(d) 
+512 cm² 
+ 
+ 
+ 
+ 
+  
+(SSC CGL 2022) 
+61. The sides of the three cubes of metal are 15 
+cm, 18 cm and 25 cm, respectively. Find the 
+side (in cm) of the new cube formed by 
+meeting these cubes together? 
+िातु के तीन घनों की भुिाएाँ क्रमशः 15 सेमी, 18 सेमी और 
+25 सेमी हैं। इन घनों के आपस में लमलने से बने नए घन 
+की भुिा (सेमी में) ज्ञात कीजिए? 
+A) 9√𝟑𝟖𝟖
+𝟑
+ 
+B) 6√𝟑𝟖𝟖
+𝟑
+ 
+C) 7√𝟑𝟖𝟖
+𝟑
+ 
+D) 4√𝟑𝟖𝟖
+𝟑
+ 
+ 
+62. 125 identical cubes are cut from a big cube and 
+all the smaller cubes are arranged in a row to 
+form a long cuboid. What is the percentage 
+increase in the total surface area of the cuboid 
+over the total surface area of the cube? 
+एक बड़े घन से 125 छोटे एक समान घन काटे गए है। इन घनो को 
+लमलाकर रखने पर एक घनाभ बनता है। ज्ञात करे  बड़े घन के 
+मुकाबले घनाभ के सम्पूर्ण पृष्ठ क्षेत्रफल में ककतने % की िृद्चि हुई? 
+a)234
+𝟐
+𝟑%     b)235
+𝟏
+𝟑%     c)134
+𝟐
+𝟑%    d)NOT 
+63. The volume of a wall whose height is 10 times 
+its width and whose length is 8 times its height 
+is 51.2 m³. What is the cost (in `) of painting 
+the walls on one side at the rate of `100/m²? 
+ml nhokj dk vk;ru 51.2 m³ gS] ftldh ÅapkbZ] mldh pkSM+kbZ ls 10 
+xquh gS vkSj ftldh yackbZ] mldh ÅapkbZ ls 8 xquh gSA `100/m² dh nj 
+ls ,d rjQ dh nhokjksa dks isaV djus dh ykxr ¼` eas½ Kkr djsaA 
+(a) 
+25500 
+(b) 
+25000 
+(c) 
+25600 
+(d) 
+25920 
+ 
+ 
+64. The ice compartment in a refrigerator is 36 cm 
+deep, 16 cm high and 12 cm wide. How many 
+ice cubes will it hold, if each cube is 4 cm as its 
+edge? 
+एक रेकििरेटर में आइस कंपाटणमेंट 36 cm गहरा, 16 cm ऊंिा 
+और 12 cm िौड़ा है। यदद प्रत्येक आइस क्यूब का कोर 4 
+cm है, तो इसमें ककतने आइस क् यूब समादहत हो सकेंगे?  
+(SSC GD 2025) 
+1. 216  
+ 
+2. 54 
+3. 108  
+ 
+4. 27 
+65. A right rectangular box’s measurement are 1.6 
+m long, 90 cm wide, 60 cm in height. Soap 
+cakes of measurement 6 cm × 5 cm × 40 mm 
+are to be packed in the box, so that no space is 
+left. How many cakes can be packed in the box? 
+ 
+एक लंब आयताकार डडब्बे की माप, लंबाई - 1.6 m, िौड़ाई - 
+90 cm, ऊंिाई - 60 cm है। 6 cm × 5 cm × 40 mm आयामों िाले 
+साबुन के केकों को डडब्बे में इस प्रकार पैक ककया िाना कक 
+डडब्बे में कोई खाली िगह न बिे। डडब्बे में ककतने केक पैक 
+ककए िा सकते हैं? (CHSL MAINS 2023)   
+ 
+[a]6000 
+ 
+[b]5600 
+ 
+[c]6500 
+ 
+[d]7200 
+66. A wall is constructed with dimension 22m 
+long, 9m high and 72 cm thick. If 20% of the 
+wall is filled with mortar and each brick 
+measures 22cm*12cm*9cm, then find the 
+number of bricks required to construct the 
+wall? 
+एक दीिार 22 मीटर लंबी, 9 मीटर ऊंिी और 72 सेमी मोटी 
+बनाई गई है। यदद दीिार का 20% दहस्सा गारे से भरा है 
+और प्रत्येक ईंट का माप 22 सेमी * 12 सेमी * 9 सेमी है, 
+तो दीिार बनाने के ललए आिश्यक ईंटों की संख्या ज्ञात 
+कीजिए? 
+A) 42000 
+B) 28000 
+C) 15400 
+D) 48000 
+67. A cuboid of length 36 m, breadth 18 m and 
+height 9 m is melted and recast into a cube. 
+Find the length of the diagonal of the cube. 
+36 m  yackbZ] 18 m pkSM+kbZ vkSj 9 m ÅapkbZ okys ,d ?kukHk dks fi?kykdj 
+,d ?ku esa cny fn;k tkrk gSA ?ku ds fod.kZ dh yackbZ Kkr dhft,A 
+(a) 
+𝟏𝟖 √𝟑 𝒎 
+(b) 
+𝟏𝟓 √𝟑 𝒎 
+(c) 
+𝟏𝟐 √𝟑 𝒎 
+(d) 
+𝟏𝟕 √𝟑 𝒎  
+ 
+ 
+ 
+ (SSC CGL 2022) 
+ 
+ 
+                                                      BY Gagan Pratap 
+68. A cuboid of dimensions 50 cm, 150 cm, 175 cm 
+can be divided into how many identical largest 
+cubes? 
+ 
+50 cm, 150 cm, 175 cm विमाओं िाले एक घनाभ को एक िैसे 
+ककतने विशालतम घनों में विभाजित ककया िा सकता है 
+ 
+(SSC CGL PRE 2024)  
+ 
+[A] 
+75           [B]84 
+ 
+[C] 
+85          [D]90 
+69. A rectangular block of length 20 cm, breadth 
+15 cm and height 10 cm is cut up into exact 
+number of equal cubes. The least possible 
+number of cubes will be 
+लंबाई 20 सेमी, िौड़ाई 15 सेमी और ऊंिाई 10 सेमी के 
+आयताकार ब्लॉक को बराबर क्यूब्स की सटीक संख्या में काट 
+ददया िाता है। क्यूब्स की कम से कम संभि संख्या होगी 
+(CDS 2018) 
+(a) 12  
+(b) 16  
+ 
+(c) 20  
+(d) 24 
+70. Identical cubes of largest possible size are cut 
+from a solid cuboid of size 65cm×26cm× 3.9cm 
+. What is the total surface area of all the small 
+cubes taken together? 
+एक ठोस घनाभ  माप 65cm×26cm× 3.9cm  है। इस घनाभ 
+में से अचिकतम भुिा िाले  समान घन काटे गए है। इन 
+घनो का सम्पूर्ण पृष्ठ क्षेत्रफल क्या होगा? 
+a)30420     b)15210        c)20280 
+d)16440 
+71. A cuboid has dimensions 8cm×10cm×12cm. It 
+is cut into small cubes of side 2cm. What is the 
+percentage increase in the total surface area? 
+एक घनाभ की आयाम 8cm×10cm×12cm है। इसको 2cm भुिा 
+िाले छोटे घनो में काटा गया है। तब सम्पूर्ण पृष्ठ क्षेत्रफल में िृद्चि 
+% ज्ञात करे? 
+a)286.2     b)314.32    c)250.64      d)386.5 
+72. A cuboid whose sides are 8 cm, 27 cm and 64 
+cm is melted to form a new cube. What is the 
+respective ratio of the total surface area of 
+the cuboid and cube? 
+एक घनाभ जिसकी भुिाएाँ 8 सेमी, 27 सेमी और 64 सेमी 
+हैं, को वपघलाकर एक नया घन बनाया गया है। घनाभ और 
+घन के कुल सतह क्षेत्रफल का संबंचित अनुपात क्या है? 
+A) 307:216 
+B) 291:203 
+C) 349:248 
+D) 329:237 
+73. If a cuboid of dimensions 32 cm × 12 cm × 9 
+cm is melted  into two cubes of same size, what 
+will be the ratio of the surface area of the 
+cuboid to the total surface area of the two 
+cubes? 
+यदि एक घनाभ 32 सेमी × 12 सेमी × 9 सेमी को एक ही आकार 
+के िो घन में वपघलाकर बदल  दिया जाता है, तो घनाभ के सतह 
+क्षेत्रफल और िो घन के कुल सतह क्षेत्रफल का अनुपात क्या 
+होगा? 
+(a) 32 : 39 
+ 
+ 
+(b) 37 : 48 
+(c) 24 : 35 
+ 
+ 
+(d) 65 : 72 
+74. A solid metallic cuboid of dimensions 12 cm x 
+54 cm x 72 cm is melted and converted into 8 
+cubes of the same size. What is the sum of the 
+lateral surface areas (in cm2) of 2 such cubes? 
+12 cm x 54 cm x 72 cm आयामों िाले िातु के एक ठोस घनाभ 
+को वपघलाया िाता है और इससे समान आकार के 8 घन 
+तनलमणत ककए िाते हैं। ऐसे 2 घनों के पाश्िण पृष्ठीय क्षेत्रफलों 
+(cm2 में) का योग ककतना होगा? 
+(a)1944  
+(b)2592  
+(c)2268  
+(d)3888 
+75. The sides of a cuboid are in the ratio 3:4:5 and 
+its surface area is equal to the surface area of 
+the cube with side 6 units. What is the 
+approximate volume of the cuboid? 
+ 
+एक घनाभ की भुिाओं का अनुपात 3:4:5 है और इसका 
+पृष्ठीय क्षेत्रफल 6 इकाई भुिा िाले घन के पृष्ठीय क्षेत्रफल 
+के बराबर है। घनाभ का अनुमातनत आयतन ककतना है? 
+ 
+                                        SSC CHSL Pre 2024 
+ 
+[A]210 
+       [B]150 
+ 
+[C]240 
+       [D]180 
+76. A solid cube is cut into three cuboids of same 
+volumes. What is the ratio of the surface area 
+of the cube to the sum of the surface areas of 
+any two of the cuboids so formed? 
+एक ठोस घन को एक ही आयतन के तीन घनाभ में काट दिया जाता है। घन का क्षेत्रफल 
+और दकसी भी िो घनाभ के भाग के सतह क्षेत्रों के योग के अनुपात का दकतना है? 
+(a) 27:16 
+ 
+ 
+(b) 9:8 
+(c) 9:10  
+     
+             (d) 27:10 
+77. A cuboid of size 50cm×40cm×30cm is cut into 
+8 identical parts by 3 cut. What is the total 
+surface area of 8 parts? 
+एक 50cm×40cm×30cm माप िाले घनाभ को 3 बार काटकर 8 
+बराबर भागो में बांट ददया गया है। अब इस प्रकार कुल 8 भागो का 
+सम्पूर्ण पृष्ठ क्षेत्रफल क्या होगा? 
+a)18800cm2       b)24400cm2      
+c)36600cm2        d)12640 cm2 
+78. A field is in the shape of a rectangle of length 
+90 m and breadth 75 m. In one corner of the 
+field, a pit, which is 18 m long 15 m broad and 
+6 m deep, has been dug out. The earth taken 
+out of it is evenly spread over the remaining 
+ 
+ 
+                                                      BY Gagan Pratap 
+part of the field. Find the rise in the level of 
+the field? 
+,d [ksr ,d vk;r ds vkdkj dk gS ftldh yackbZ 90 ehVj vkSj pkSM+kbZ 75 
+ehVj gSA [ksr ds ,d dksus esa 18 ehVj yack 15 ehVj pkSM+k vkSj 6 ehVj 
+xgjk ,d xïk [kksnk x;k gSA blesa ls fudkyh xbZ feV~Vh [ksr ds 'ks"k Hkkx 
+esa leku :i ls QSyh gqbZ gSA [ksr ds Lrj esa o`f) dk irk yxk,aA 
+(a) 27 cm      (b) 25 cm 
+(c) 28 cm       (d) 24 cm 
+79. A tank is in the form of a cuboid with length 
+12m. If 18kilolitre of water is removed from it, 
+the water level goes down by 30cm. What is the 
+width (in m) of the tank? 
+घनाभ ds vkdkj okys ,d VSad dh yackbZ 12 ehVj gSA ;fn blls 18 
+fdyksyhVj ikuh fudky fy;k tkrk gS rks bldk ty Lrj 30 lseh uhps 
+pyk tkrk gSA VSad dh pkSM+kbZ ¼ehVj esa½ fdruh gS\ 
+(a) 4.5  
+ 
+ 
+(b) 4 
+(c) 5 
+ 
+ 
+ 
+(d) 5.5 
+80. 50 men took a dip in a water tank 40 m long 
+and 20 m broad on a religious day. If the 
+average displacement of water by a man is 4 
+m3, then the rise in the water level in the tank 
+will be: 
+एक िालमणक ददन पर 50 पुरुषों ने 40 m लंबी और 20 m 
+िौड़ी पानी की टंकी में डुबकी लगाई। यदद एक पुरुष द्िारा 
+पानी का ओसत विस्थापन 4 m3 है, तो टकी में पानी के स्तर 
+में ककतनी िृद्चि होगी?  
+(RRB TECHNICIAN GRADE-3  2024) 
+ 
+[A]25 cm      [B]20 cm 
+ 
+[C]35 cm       [D]50 cm 
+81. Water flows into a tank which is 200m long and 
+150m wide, through a pipe of cross-section 
+0.3m x 0.2m at 20 km/hour. Then the time (in 
+hours) for the water level in the tank to reach 
+8m is 
+पानी एक टैंक में िो 200 मीटर लंबा और 150 मीटर िौड़ा  है, 20 
+ककमी / घंटा पर क्रॉस-सेक्शन 0.3 मीटर x 0.2 मीटर के पाइप के 
+माध्यम से बहता है । कफर 8 मी तक पहुंिने के ललए टैंक में पानी के 
+स्तर के ललए समय (घंटों में) है 
+(1) 50           (2) 120 
+(3) 150         (4) 200 
+82. Water flows into a tank 200 m x 150 m through 
+a rectangular pipe 1.5m x 1.2 m at the rate 15 
+km/h in what time (in minutes) will the water 
+rise 3 metres? 
+200 मीटर x 150 मीटर के एक टैंक में 1.5 मीटर x 1.2 मीटर 
+के आयताकार पाइप के माध्यम से पानी 15 जकमी/घंटा की िर 
+से प्रवाजहत होता है, जकतने समय में (जमनट में) पानी 3 मीटर 
+तक ऊपर उठेगा? 
+1. 160 
+2.150 
+3.180 
+4. 200 
+ 
+( ICAR Technician 2023) 
+ 
+83. Water flows into a tank 180 m times 140 m 
+through a rectangular pipe of 1.2 m × 0.75 m 
+at a rate of 15 km/h. In what time will the 
+water rise by 4 m? 
+1.2 m × 0.75 m के आयताकार पाइप से पानी 15 km / h की 
+दर से 180 m × 140 m के एक टैंक में प्रिादहत होता है। 
+ककतने समय में पानी 4 m की ऊंिाई तक भर िाएगा? 
+(a) 6 hours 42 minutes  (b) 7 hours 28 minutes 
+(c) 5 hours 46 minutes  (d) 8 hours 12 minutes 
+84. The diagonals of three faces of a cuboid are 13, 
+√𝟐𝟖𝟏 and 20 linear units. Then the total surface 
+area of the cuboid is  
+एक घनाभ के तीन सतहों के विकर्ण 13, √𝟐𝟖𝟏 और 20 यूतनट हैं। 
+तो घनाभ का कुल सतह क्षेत्रफल है- 
+a)650 square units       b)658 square units      
+c)664 square units         d)672 square units  
+85. If the areas of the adjacent faces of a 
+rectangular block are in the ratio 2:3:4 and its 
+volume is 9000cm3 then the length of the 
+shortest side is: 
+यदद आयताकार ब्लॉक के तनकटिती सतहों के क्षेत्रफल 2: 3: 4 के 
+अनुपात में हैं और इसकी आयतन 9000cm3 है तो सबसे छोटी भुिा 
+की लंबाई है? 
+a)30cm    b)20cm     c)15cm       d)10cm  
+86. An iron box with external dimensions 60 cm, 
+40 cm, and 20 cm is made of 1 cm thick sheet. 
+If 1 cm3 of iron weighs 50 gm, the weight of the 
+empty box is: 
+ 
+60cm, 40 cm और 20 cm बाहरी आयामों िाला एक लोहे 
+का बक्सा 1 cm मोटी िादर से बना है। यदद 1 cm3 लोहे 
+का भार 50 gm है, तो खाली बक्से का भार ककतना होगा?           
+SSC CHSL Pre 2024 
+ 
+ 
+[A] 
+214.05 kg       [B]240 kg 
+ 
+[C] 
+400 kg            [D] 416.40 kg 
+ 
+[D] 
+49 m2   
+87. The internal length, breadth and height of a 
+closed box are 10 cm, 8 cm and 6 cm 
+respectively. The total outer surface area of the 
+box is 592 cm2 . If the walls of the box are of 
+uniform thickness x cm, then x equals _______ .  
+एक बंि बॉक्स की आंतररक लंबाई, चौड़ाई और ऊंचाई क्रमश: 
+10 सेंटीमीटर 8 सेंटीमीटर और 6 सेंटीमीटर है। बॉक्स की 
+बाहरी सतह का कुल क्षेत्रफल 592 cm2 है। यजि बॉक्स की 
+िीवारें एक समान मोटाई x सेंटीमीटर की हैं, तो x का मान है 
+? 
+UP Constable 19/06/2018  (1st Shift) 
+(a) 1.5 cm  
+(b) 1.25 cm  
+(c) 1 cm  
+(d) 0.5 cm 
+ 
+ 
+ 
+ 
+                                                      BY Gagan Pratap 
+88. An open  water tank has 8360 litres of capacity. 
+It is made up of  a material and the thickness 
+of  material for all four  walls is5 cm. Find the 
+thickness of material in the bottom of  that 
+tank. The dimension of water tank is  3.3m 
+×2.6m× 1.1m. 
+एक खुला  पानी के टैंक की क्षमता 8360ltr है, यह ऐसे िातु से बना 
+है जिसकी िारो दीिारों की  मोटाई 5 cm है, तब इस टैंक के फशण की 
+मोटाई क्या होगी, यदद टैंक की माप  3.3m ×2.6m× 1.1m.है। 
+a)4.5 cm   b)5.5cm   c)6.5 cm   d)7.5 cm 
+ 
+89. A rectangular sheet of  metal is 40cm by 15cm. 
+Equal squares of side  4cm are cut off at the 
+corners and the  remainder is folded up to form 
+an  open rectangular box. The  volume of the 
+box is: 
+एक आयताकार िातु की शीट का आयाम 40 cm ×15 cm है, इस 
+शीट के प्रत्येक ककनारे से 4 cm भुिा के िगण काटे गए है, बिे भाग को 
+मोड़कर एक आयताकार बॉक्स बनाया गया है, इस बॉक्स का 
+आयतन क्या होगा? 
+a)896 cm3     b)986 cm3     c)600 cm3    d)916cm3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

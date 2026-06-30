@@ -1,0 +1,1053 @@
+1.
+A cube is coloured red on all faces. It is cut into
+64 smaller cubes of equal size. Now, answer the
+following questions based on this statement:
+एक घन की सभी सतह लाल रंग से रंगी हुई है। इसे
+समान आकार के 64 छोटे घनों में काटा जाता है। अब
+इस कथन के आधार पर ननम्ननलखित प्रश्ों के उत्तर
+दीनजएः
+How many cubes have no face coloured?
+नकतने घनों की कोई सतह रंगी नहीं होगी?
+(a) 8
+(b) 0 
+(c) 24
+(d) 16 
+2.
+A cube is coloured red on all faces. It is cut into
+64 smaller cubes of equal size. Now, answer the
+following questions based on this statement:
+एक घन की सभी सतह लाल रंग से रंगी हुई है। इसे
+समान आकार के 64 छोटे घनों में काटा जाता है। अब
+इस कथन के आधार पर ननम्ननलखित प्रश्ों के उत्तर
+दीनजएः
+How many cubes have four red faces?
+नकतने घन हैं नजनकी चार सतह लाल रंग से रंगी हुई हैं?
+(a) 16
+(b) 24 
+(c) 0
+(d) 8 
+3.
+A solid cube's two adjacent sides are coloured
+with Red colour and Just opposite of these sides
+are coloured with black colour and rest of the
+sides are coloured with green colour. After that
+this is changed into 64 small cubes.
+एक ठोस घन की दो समीपवती भुजाएँ लाल रंग से रंगी
+होती हैं और इन भुजाओं के ठीक नवपरीत काले रंग से
+रंगी होती है और शेष भुजाएँ हरे रंग से रंगी होती है।
+उसके बाद इसे 64 छोटे घनों में बदल नदया जाता है।
+How many such cubes are there of which one or
+two sides are coloured but not three sides are
+coloured?
+ऐसे नकतने घन है नजनकी एक या दो सतह रंगी है लेनकन
+तीन सतह रंगी नहीं हैं?
+(a) 3 
+(b) 48
+(c) 8 
+(d) 24 
+4.
+A solid cube's two adjacent sides are coloured
+with Red colour and Just opposite of these sides
+are coloured with black colour and rest of the
+sides are coloured with green colour. After that
+this is changed into 64 small cubes.
+एक ठोस घन की दो समीपवती भुजाएँ लाल रंग से रंगी
+होती हैं और इन भुजाओं के ठीक नवपरीत काले रंग से
+रंगी होती है और शेष भुजाएँ हरे रंग से रंगी होती है।
+उसके बाद इसे 64 छोटे घनों में बदल नदया जाता है।
+How many cubes are there of which no side is
+coloured?
+ऐसे नकतने घन हैं नजनकी कोई सतह रंगी नहीं हैं?
+(a) 8
+(b) 16 
+(c) 0
+(d) 4 
+5.
+A solid cube's two adjacent sides are coloured
+with Red colour and Just opposite of these sides
+are coloured with black colour and rest of the
+sides are coloured with green colour. After that
+this is changed into 64 small cubes.
+एक ठोस घन की दो समीपवती भुजाएँ लाल रंग से रंगी
+होती हैं और इन भुजाओं के ठीक नवपरीत काले रंग से
+रंगी होती है और शेष भुजाएँ हरे रंग से रंगी होती है।
+उसके बाद इसे 64 छोटे घनों में बदल नदया जाता है।
+How many cubes are there of which at least one
+side is coloured with red colour?
+ऐसे नकतने घन हैं नजनकी कम से कम एक सतह लाल रंग
+से रंगी है?
+(a) 4
+(b) 16 
+(c) 28
+(d) 48 
+6.
+A cube of 8×8×8 cm. side is coloured opposite
+surface with red, green and yellow. After that it
+is cut into 2 cm small cubes.
+एक 8 × 8 × 8 सेमी का घन है। नजसकी नवपरीत  सतहे
+लाल, हरे और पीले रंग से रंगी है। उसके बाद घन को 2
+सेमी छोटे घनों में काट नदया जाता है।
+ 
+ 
+The number of small cubes which have three 
+surfaces coloured with red, green and yellow? 
+ 
+छोटे घनों की संख्या नजनमें तीन सतह लाल,हरे और पीले 
+रंग के साथ रंगीन है? 
+ 
+(a) 32 
+(b) 56 
+ 
+(c) 64 
+(d) 8 
+ 
+7. 
+A cube of 8×8×8 cm. side is coloured opposite 
+surface with red, green and yellow. After that it 
+is cut into 2 cm small cubes. 
+ 
+एक 8 × 8 × 8 सेमी का घन है। नजसकी नवपरीत  सतहे 
+लाल, हरे और पीले रंग से रंगी है। उसके बाद घन को 2 
+सेमी छोटे घनों में काट नदया जाता है। 
+ 
+Number of small cubes which have at least one 
+surface green? 
+ 
+छोटे घनों की संख्या नजनमें कम से कम एक सतह हरे रंग 
+की होती है? 
+ 
+(a) 32 
+(b) 56 
+ 
+(c) 64 
+(d) 8 
+ 
+8. 
+A bigger cube of 9×9×9 cm size is coloured all 
+surface with green. After that it is cut into three 
+cm small cubes. Give the following answer? 
+ 
+एक 9 × 9 × 9 सेमी आकार का एक बड़ा घन हरे रंग के 
+साथ सभी सतह पर रंगा हुआ है। उसके बाद इसे 3 सेमी 
+छोटे घनों में काटा जाता है। ननम्ननलखित प्रश्ों का उत्तर 
+दें? 
+ 
+The number of small cubes that have three 
+surfaces painted? 
+ 
+छोटे घनों की संख्या नजसमें तीन सतहों को रंगीन नकया 
+गया हैं? 
+ 
+(a) 8 
+(b) 27 
+ 
+(c) 9 
+(d) 3 
+ 
+9. 
+A cuboid shaped wooden block has 6 cm 
+length, 4 cm breadth and 1 cm height. 
+ 
+एक घनाभ के आकार के लकड़ी के ब्लॉक की 6 सेमी 
+लंबाई, 4 सेमी चौड़ाई और 1 सेमी ऊंचाई होती है। 
+ 
+Two faces measuring 4 cm × 1 cm are coloured 
+in black. 
+ 
+4 सेमी ×1 सेमी मापने वाले दो सतह काले रंग के होते हैं। 
+ 
+Two faces measuring 6 cm × 1 cm are coloured 
+in red. 
+ 
+6 सेमी ×1 सेमी मापने वाले दो सतह लाल रंग के होते हैं। 
+ 
+Two faces measuring 6 cm × 4 cm are coloured 
+in green. 
+ 
+6 सेमी ×4 सेमी मापने वाले दो सतह हरे रंग के होतें है। 
+ 
+The block is divided into 6 equal cubes of side 1 
+cm (from 6 cm side), 4 equal cubes of side 1 
+cm(from 4 cm side). 
+ 
+ब्लॉक को 1 सेमी (6 सेमी भुजा से) के 6 बराबर घन में 
+बांटा गया है, 4 बराबर घनों में बांटा गया है (4 सेमी भुजा 
+से)। 
+ 
+How many cubes having red, green and black 
+colours on at least one side of the cube will be 
+formed? 
+ 
+ऐसे नकतने घन होंगे नजनकी कम से कम एक सतह लाल, 
+हरे और काले रंग की है? 
+ 
+(a) 16 
+(b) 12 
+ 
+(c) 10 
+(d) 4 
+ 
+10. Two adjacent portions of a big cube are 
+varnished in green and other two adjacent 
+portions are varnished in white and the rest of 
+the two portions are varnished in blue. The 
+cube is segmented into 125 tiny and equal 
+cubes. 
+ 
+एक बड़े घन के दो आसन्न नहस्से हरे रंग में रंगे गए है और 
+अन्य दो आसन्न नहस्से सफेद रंग के होते हैं और बाकी के 
+दो नहस्से नीले रंग में रंगे होते हैं। घन को 125 छोटे और 
+बराबर घनों में नवभानजत नकया जाता है 
+ 
+How many tiny cubes will be formed having all 
+the three colours? 
+ 
+ऐसे नकतने छोटे घन बनेंगे नजनमें सभी तीन रंग हो? 
+ 
+(a) 7 
+(b) 9 
+ 
+(c) 10 
+(d) 2 
+ 
+11. Two adjacent portions of a big cube are 
+varnished in black and other two adjacent 
+portions are varnished in maroon and the rest 
+of the two portions are varnished in pink. The 
+ 
+cube is segmented into 27 tiny and equal 
+cubes. 
+ 
+एक बड़े घन के दो आसन्न नहस्से काले रंग से रंगे गए हैं 
+और अन्य दो आसन्न नहस्से मैरून रंग से रंगे हैं और बाकी 
+के दो नहस्से गुलाबी रंग से रंगे हुए है। घन को 27 छोटे 
+और बराबर घनों में नवभानजत नकया गया है। 
+ 
+How many tiny cubes will be formed having 
+one portion maroon and one portion black 
+only? 
+ 
+केवल एक सतह मैरून और दूसरी सतह काले रंग के 
+नकतने छोटे घन बनेंगे? 
+ 
+(a) 3 
+(b) 20 
+ 
+(c) 16 
+(d) 24 
+ 
+12. A bigger cube of 9×9×9 cm size is coloured all 
+surface with green. After that it is cut into three 
+cm small cubes. Give the following answer? 
+ 
+एक 9 × 9 × 9 सेमी आकार का एक बड़ा घन हरे रंग के 
+साथ सभी सतह पर रंगा हुआ है। उसके बाद इसे तीन 
+सेमी छोटे घनों में काटा जाता है। ननम्ननलखित प्रश्ों का 
+उत्तर दें? 
+ 
+Number of small cubes which have only one 
+side coloured– 
+ 
+छोटे घनों की संख्या नजनकी केवल एक सतह रंगीन हैं– 
+ 
+(a) 6 
+(b) 26 
+ 
+(c) 8 
+(d) 12 
+ 
+13. A bigger cube of 9×9×9 cm size is coloured all 
+surface with green. After that it is cut into three 
+cm small cubes. Give the following answer? 
+ 
+एक 9 × 9 × 9 सेमी आकार का एक बड़ा घन हरे रंग के 
+साथ सभी सतह पर रंगा हुआ है। उसके बाद इसे तीन 
+सेमी छोटे घनों में काटा जाता है। ननम्ननलखित प्रश्ों का 
+उत्तर दें? 
+ 
+The number of small cubes with at least two 
+surfaces coloured? 
+ 
+कम से कम दो रंगीन सतहों वाले छोटे घनों की संख्या? 
+ 
+(a) 27 
+(b) 8 
+ 
+(c) 20 
+(d) 12 
+ 
+14. A cube of 4×4×4 cm. side colored with yellow. 
+After that it is cut into 1 cm small side cubes. 
+Then answer the following questions? 
+ 
+एक 4 × 4 × 4 सेमी का घन पीले रंग से रंगा है। उसके 
+बाद यह 1 सेमी भुजा वाले छोटे घनों में काटा जाता है। 
+नफर ननम्ननलखित प्रश् का उत्तर दें? 
+ 
+How many total numbers of small cubes are 
+there? 
+ 
+छोटे घनों की कुल संख्या नकतनी हैं? 
+ 
+(a) 16 
+(b) 64 
+ 
+(c) 8 
+(d) 27 
+ 
+15. A cube of 4×4×4 cm. side colored with yellow. 
+After that it is cut into 1 cm small side cubes. 
+Then answer the following questions? 
+ 
+एक 4 × 4 × 4 सेमी का घन पीले रंग से रंगा है। उसके 
+बाद यह 1 सेमी भुजा वाले छोटे घनों में काटा जाता है। 
+नफर ननम्ननलखित प्रश् का उत्तर दें? 
+ 
+The total number of small cubes of which three 
+surfaces coloured? 
+ 
+छोटे घनों की कुल संख्या नजनमें तीन सतह रंगीन हैं? 
+ 
+(a) 16 
+(b) 25 
+ 
+(c) 64 
+(d) 8 
+ 
+16. A cube of 4×4×4 cm. side colored with yellow. 
+After that it is cut into 1 cm small side cubes. 
+Then answer the following questions? 
+ 
+एक 4 × 4 × 4 सेमी का घन पीले रंग से रंगा है। उसके 
+बाद यह 1 सेमी भुजा वाले छोटे घनों में काटा जाता है। 
+नफर ननम्ननलखित प्रश् का उत्तर दें? 
+ 
+The number of colourless cubes are? 
+ 
+रंगहीन घनों की संख्या क्या हैं? 
+ 
+(a) 25 
+(b) 4 
+ 
+(c) 8 
+(d) 27 
+ 
+17. A cube of 4×4×4 cm. side colored with yellow. 
+After that it is cut into 1 cm small side cubes. 
+Then answer the following questions? 
+ 
+एक 4 × 4 × 4 सेमी का घन पीले रंग से रंगा है। उसके 
+बाद यह 1 सेमी भुजा वाले छोटे घनों में काटा जाता है। 
+नफर ननम्ननलखित प्रश् का उत्तर दें? 
+ 
+ 
+How many small cubes we have which are at 
+least two surfaces painted? 
+ 
+हमारे पास कुल नकतने छोटे घन हैं नजनकी कम से कम 
+दो सतह रंगीन हैं? 
+ 
+(a) 32 
+(b) 1 
+ 
+(c) 64 
+(d) 36 
+ 
+18. There is a cuboid whose dimensions are 4×3×3 
+cm. 
+ 
+एक घनाभ है नजसका पररमाण 4 × 3 × 3 सेमी है। 
+ 
+The opposite faces of dimensions 4×3 are 
+coloured yellow. 
+ 
+पररमाण 4 × 3 के नवपरीत चेहरे पीले रंग के होते हैं। 
+ 
+The opposite faces of other dimensions 4×3 are 
+coloured red. 
+ 
+अन्य पररमाण 4 × 3 के नवपरीत चेहरे लाल रंग के होते 
+हैं। 
+ 
+The opposite faces of dimensions 3×3 are 
+coloured green. 
+ 
+पररमाण 3 × 3 के नवपरीत चेहरे हरे रंग के होते है। 
+ 
+Now the cuboid is cut into small cubes of side 1 
+cm. 
+ 
+अब घनाभ को 1 सेमी भुजा के छोटे घनों में काट नदया 
+जाता है। 
+ 
+How many small cubes will have only two faces 
+coloured? 
+ 
+नकतने छोटे घनों में केवल दो सतह रंगी होगी? 
+ 
+(a) 12 
+(b) 24 
+ 
+(c) 16 
+(d) 21 
+ 
+19. All the six faces of a cube are coloured with six 
+different colours– black, brown, green, red, 
+white and blue. 
+ 
+एक घन के सभी छः सतह छः अलग–अलग रंगों से रंगे 
+हैं– काले, भूरे, हरे, लाल, सफेद और नीले। 
+ 
+Red face is opposite to the black face. 
+ 
+लाल सतह काले सतह के नवपरीत है। 
+ 
+Green face is between red and black faces. 
+ 
+हरी सतह लाल और काले सतह के बीच हैं। 
+ 
+Blue face is adjacent to white face. 
+ 
+नीली सतह सफेद सतह से सटी होती है। 
+ 
+Brown face is adjacent to blue face. 
+ 
+भूरी सतह नीले सतह से सटी होती है। 
+ 
+Red face is in the bottom. 
+ 
+लाल सतह सबसे नीचे है। 
+ 
+The upper face is _________ 
+ 
+ऊपरी सतह ____ है 
+ 
+(a) White/ सफेद 
+(b) Black/ काला 
+ 
+(c) Brown/ भूरा 
+ 
+(d) None of these/ इनमें से कोई नहीं 
+ 
+20. All the six faces of a cube are coloured with six 
+different colours – black, brown, green, red, 
+white and blue. 
+ 
+एक घन के सभी छः सतह छः अलग–अलग रंगों से रंगे 
+हैं– काले, भूरे, हरे, लाल, सफेद और नीले। 
+ 
+Red face is opposite to the black face. 
+ 
+लाल सतह काले सतह के नवपरीत है। 
+ 
+Green face is between red and black faces. 
+ 
+हरी सतह लाल और काले सतह के बीच हैं। 
+ 
+Blue face is adjacent to white face. 
+ 
+नीली सतह सफेद सतह से सटी होती है। 
+ 
+Brown face is adjacent to blue face. 
+ 
+भूरी सतह नीले सतह से सटी होती है। 
+ 
+Red face is in the bottom. 
+ 
+लाल सतह सबसे नीचे है। 
+ 
+Which face is opposite to green? 
+ 
+कौन सी सतह हरे रंग के नवपरीत है? 
+ 
+(a) Red/ लाल 
+(b) White/ सफेद 
+ 
+(c) Blue/ नीला 
+(d) Brown/ भूरा 
+ 
+21. All the opposite faces of a big cube are 
+coloured with red, black and green colours. 
+After that it is cut into 64 small equal cubes. 
+ 
+एक बड़े घन के सभी नवपरीत सतह लाल, काले और हरे 
+रंगों से रंगे होते हैं। उसके बाद इसे 64 छोटे बराबर घनों 
+में काटा जाता है। 
+ 
+How many small cubes are there whose no 
+faces are coloured? 
+ 
+नकतने छोटे–छोटे घन हैं नजनकी कोई सतह रंगी हुई नहीं 
+हैं? 
+ 
+(a) 10 
+(b) 40 
+ 
+ 
+(c) 4 
+(d) 18 
+ 
+22. All the opposite faces of a big cube are 
+coloured with red, black and green colours. 
+After that it is cut into 64 small equal cubes. 
+ 
+एक बड़े घन के सभी नवपरीत सतह लाल, काले और हरे 
+रंगों से रंगे होते हैं। उसके बाद इसे 64 छोटे बराबर घनों 
+में काटा जाता है। 
+ 
+How many small cubes are there whose 3 faces 
+are coloured? 
+ 
+ऐसे नकतने छोटे घन हैं नजनकी 3 सतह रंगीन हैं? 
+ 
+(a) 14 
+(b) 8 
+ 
+(c) 16 
+(d) 24 
+ 
+23. All the opposite faces of a big cube are 
+coloured with red, black and green colours. 
+After that it is cut into 64 small equal cubes. 
+ 
+एक बड़े घन के सभी नवपरीत सतह लाल, काले और हरे 
+रंगों से रंगे होते हैं। उसके बाद इसे 64 छोटे बराबर घनों 
+में काटा जाता है। 
+ 
+How many small cubes are there whose at most 
+two faces are coloured? 
+ 
+ऐसे नकतने छोटे घन हैं नजनकी अनधक से अनधक दो 
+सतह रंगीन हैं? 
+ 
+(a) 48 
+(b) 56 
+ 
+(c) 28 
+(d) 24 
+ 
+24. The following questions are based on the 
+information given below: 
+ 
+ननम्ननलखित प्रश् नीचे दी गई जानकारी पर आधाररत हैः 
+ 
+A cuboid shaped wooden block has 4 cm 
+length, 3 cm breadth and 5 cm height. 
+ 
+एक घनाभ आकार के लकड़ी के ब्लॉक की 4 सेमी 
+लंबाई, 3 सेमी चौड़ाई और 5 सेमी ऊँचाई होती है। 
+ 
+Two faces measuring 5 cm × 4 cm are coloured 
+in red. 
+ 
+5 सेमी ×4 सेमी मापने वाले दो सतह लाल रंग के होते है। 
+ 
+Two faces measuring 4 cm × 3 cm are coloured 
+in blue. 
+ 
+4 सेमी ×3 सेमी मापने वाले दो सतह नीले रंग के होते है। 
+ 
+Two faces measuring 5 cm × 3 cm are coloured 
+in green. 
+ 
+5 सेमी ×3 सेमी मापने वाले दो सतह हरे रंग के होते है। 
+ 
+Now the block is divided into small cubes of 
+side 1 cm each. 
+ 
+अब ब्लॉक को एक 1 सेमी भुजा के छोटे घनों में काट 
+नदया जाता है। 
+ 
+How many small cubes will have three faces 
+coloured? 
+ 
+नकतने छोटे घनों में तीन सतह रंगीन हैं? 
+ 
+(a) 14 
+(b) 8 
+ 
+(c) 10 
+(d) 12 
+ 
+25. The following questions are based on the 
+information given below: 
+ 
+ननम्ननलखित प्रश् नीचे दी गई जानकारी पर आधाररत हैः 
+ 
+A cuboid shaped wooden block has 4 cm 
+length, 3 cm breadth and 5 cm height. 
+ 
+एक घनाभ आकार के लकड़ी के ब्लॉक की 4 सेमी 
+लंबाई, 3 सेमी चौड़ाई और 5 सेमी ऊँचाई होती है। 
+ 
+Two faces measuring 5 cm × 4 cm are coloured 
+in red. 
+ 
+5 सेमी ×4 सेमी मापने वाले दो सतह लाल रंग के होते है। 
+ 
+Two faces measuring 4 cm × 3 cm are coloured 
+in blue. 
+ 
+4 सेमी ×3 सेमी मापने वाले दो सतह नीले रंग के होते है। 
+ 
+Two faces measuring 5 cm × 3 cm are coloured 
+in green. 
+ 
+5 सेमी ×3 सेमी मापने वाले दो सतह हरे रंग के होते है। 
+ 
+Now the block is divided into small cubes of 
+side 1 cm each. 
+ 
+अब ब्लॉक को एक 1 सेमी भुजा के छोटे घनों में काट 
+नदया जाता है। 
+ 
+How many small cubes will have only two faces 
+coloured with red and green colours? 
+ 
+नकतने छोटे घनों की केवल दो सतह लाल और हरे रंग से 
+रंगी होगी? 
+ 
+(a) 12 
+(b) 8 
+ 
+(c) 16 
+(d) 20 
+ 
+ 
+26. A cube is cut in two equal parts along a plane 
+parallel to one of its faces. One piece is then 
+coloured red on the two larger faces and green 
+on the remaining, while the other is coloured 
+green on two smaller adjacent faces and red on 
+the remaining. Each is then cut into 32 cubes of 
+same size and mixed up. 
+ 
+एक घन को उसके सतह के समानांतर एक समतल के 
+साथ दो बराबर भागों में काटा जाता है। नफर एक टुकडेे़ 
+की दो बड़ी सतह पर लाल और शेष पर हरा रंग नकया 
+जाता है, जबनक दूसरे टुकड़े की दो छोटी सतह पर हरा 
+रंग और शेष पर लाल रंग नकया जाता है। प्रत्येक को नफर 
+एक ही आकार के 32 घनों में काटकर नमलाया जाता है। 
+ 
+How many cubes have only one coloured face 
+each? 
+ 
+नकतने घनों में केवल एक रंगीन सतह होगी? 
+ 
+(a) 32 
+(b) 8 
+ 
+(c) 16 
+(d) 0 
+ 
+27. A cube is cut in two equal parts along a plane 
+parallel to one of its faces. One piece is then 
+coloured red on the two larger faces and green 
+on the remaining, while the other is coloured 
+green on two smaller adjacent faces and red on 
+the remaining. Each is then cut into 32 cubes of 
+same size and mixed up. 
+ 
+एक घन को उसके सतह के समानांतर एक समतल के 
+साथ दो बराबर भागों में काटा जाता है। नफर एक टुकडेे़ 
+की दो बड़ी सतह पर लाल और शेष पर हरा रंग नकया 
+जाता है, जबनक दूसरे टुकड़े की दो छोटी सतह पर हरा 
+रंग और शेष पर लाल रंग नकया जाता है। प्रत्येक को नफर 
+एक ही आकार के 32 घनों में काटकर नमलाया जाता है। 
+ 
+How many cubes have two red and one green 
+face on each? 
+ 
+नकतने घनों में प्रत्येक पर दो लाल और एक हरी सतह 
+होगी? 
+ 
+(a) 0 
+(b) 8 
+ 
+(c) 16 
+(d) 4 
+ 
+28. A cube is cut in two equal parts along a plane 
+parallel to one of its faces. One piece is then 
+coloured red on the two larger faces and green 
+on the remaining, while the other is coloured 
+green on two smaller adjacent faces and red on 
+the remaining. Each is then cut into 32 cubes of 
+same size and mixed up. 
+ 
+एक घन को उसके सतह के समानांतर एक समतल के 
+साथ दो बराबर भागों में काटा जाता है। नफर एक टुकडेे़ 
+की दो बड़ी सतह पर लाल और शेष पर हरा रंग नकया 
+जाता है, जबनक दूसरे टुकड़े की दो छोटी सतह पर हरा 
+रंग और शेष पर लाल रंग नकया जाता है। प्रत्येक को नफर 
+एक ही आकार के 32 घनों में काटकर नमलाया जाता है। 
+ 
+How many cubes have no coloured face at all? 
+ 
+नकतने घनों में कोई रंगीन सतह नहीं होगी? 
+ 
+(a) 32 
+(b) 8 
+ 
+(c) 16 
+(d) None/ कोई नहीं 
+ 
+29. There is a cuboid whose dimensions are 4×3×3 
+cm. The opposite faces of dimensions 4×3 are 
+coloured yellow. The opposite faces of other 
+dimensions 4×3 are coloured red. The opposite 
+faces of dimensions 3×3 are coloured green. 
+Now the cuboid is cut into small cubes of side 1 
+cm. 
+ 
+एक घनाभ है नजसका पररमाण 4 × 3 × 3 सेमी है। 
+पररमाण 4 × 3 के नवपरीत सतह पीले रंग के होते है। 
+अन्य पररमाण 4 × 3 के नवपरीत सतह लाल रंग के होते 
+है। पररमाण 3 × 3 के नवपरीत सतह हरे रंग के होते है। 
+अब घनाभ को 1 सेमी भुजा के छोटे घनों में काट नदया 
+जाता है। 
+ 
+How many small cubes will have only two faces 
+coloured? 
+ 
+नकतने छोटे घनों में केवल दो सतह रंगी होगी? 
+ 
+(a) 8 
+(b) 24 
+ 
+(c) 16 
+(d) 12 
+ 
+30. There is a cuboid whose dimensions are 4×3×3 
+cm. The opposite faces of dimensions 4×3 are 
+coloured yellow. The opposite faces of other 
+dimensions 4×3 are coloured red. The opposite 
+faces of dimensions 3×3 are coloured green. 
+ 
+Now the cuboid is cut into small cubes of side 1 
+cm. 
+ 
+एक घनाभ है नजसका पररमाण 4 × 3 × 3 सेमी है। 
+पररमाण 4 × 3 के नवपरीत सतह पीले रंग के होते है। 
+अन्य पररमाण 4 × 3 के नवपरीत सतह लाल रंग के होते 
+है। पररमाण 3 × 3 के नवपरीत सतह हरे रंग के होते है। 
+अब घनाभ को 1 सेमी भुजा के छोटे घनों में काट नदया 
+जाता है। 
+ 
+How many small cubes will have no face 
+coloured? 
+ 
+नकतने छोटे घनों में कोई सतह रंगी नहीं होगी? 
+ 
+(a) 1 
+(b) 2 
+ 
+(c) 4 
+(d) 8 
+ 
+  
+ 
+1. n = 
+ 
+ 
+रंगहीन घनों की संख्या = (n – 2)3 = (4 – 2)3 = 8 
+ 
+2. ऐसा कोई घन नहीं बनेगा। 
+ 
+3. n = 
+ 
+ 
+ 
+ 
+एक सतह रंगे घन +2 सतह रंगे घन 
+ 
+= 6 (n – 2)² + 12 (n – 2)  
+ 
+= 6 (4 – 2)² + 12 (4 – 2)   
+ 
+= 24 + 24 = 48 
+ 
+4. n = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+रंगहीन घन = (n – 2)³ = (4 – 2)³ = 8 
+ 
+5. केवल 1 सतह रंगे घन (लाल) = 2 (n – 2)² 
+ 
+= 2 (4 – 2)² = 8 
+ 
+केवल 2 सतह रंगे घन नजनकी कम से कम एक सतह 
+लाल हैः 
+ 
+7 (n – 2) = 7 (4 – 2) = 14 
+ 
+(केवल सात नकनारे ऐसे है जो लाल रंग के है।) 
+ 
+केवल 3 सतह रंगे घन नजनकी कम से कम एक सतह 
+लाल हैः 6 
+ 
+कुल: = 8 + 14 + 6 = 28 
+ 
+6. n = 8 ÷ 2 = 4 
+1 
+(a) 
+2 
+(c) 
+3 
+(b) 
+4 
+(a) 
+5 
+(c) 
+6 
+(d) 
+7 
+(a) 
+8 
+(a) 
+9 
+(d) 
+10 
+(d) 
+11. 
+(a) 
+12. 
+(a) 
+13 
+(c) 
+14 
+(b) 
+15 
+(d) 
+16 
+(c) 
+17 
+(a) 
+18 
+(c) 
+19 
+(b) 
+20 
+(c) 
+21. 
+(c) 
+22 
+(b) 
+23 
+(b) 
+24 
+(b) 
+25 
+(a) 
+26 
+(c) 
+27 
+(d) 
+28 
+(d) 
+29 
+(c) 
+30 
+(b) 
+Answer Key 
+SOLUTION 
+ 
+ 
+ 
+ 
+3 नवनभन्न रंगों से रंगे घन = 8 
+ 
+7. n = 8 ÷ 2 = 4 
+ 
+ 
+ 
+1 सतह रंगे घन (हरा) = 2 (n – 2)² 
+ 
+(केवल 2 सतह हरे रंग की है।) 
+ 
+= 2 (4 – 2)² = 8 
+ 
+2 सतह रंगे घन नजनमें कम से कम एक सतह हरे रंग से 
+रंगी है– 
+ 
+2 सतह रंगे घन (हरा व पीला) = 4(n – 2) (केवल 4 
+नकनारे हरे व पीले है।) 
+ 
+= 4 (4 – 2) = 8  
+ 
+2 सतह रंगे घन (हरा व लाल) = 4 (n – 2) 
+ 
+(केवल 4 नकनारे हरे व लाल है।) 
+ 
+= 4 (4 – 2) = 8 
+ 
+3 सतह रंगे घन नजनमें कम से कम एक सतह हरे रंग से 
+रंगी है = 8 
+ 
+कुल घन = 8 + 8 + 8 + 8 = 32 
+ 
+8. n = 
+9
+3 = 3 
+ 
+तीन सतह रंगे हुए घन = 8 
+ 
+9. 
+ 
+ 
+ 
+ 
+लाल, हरे व काले रंग से रंगे घन = 4 
+ 
+(केवल शीषष घन ही इन रंगों से रंगे होगे) 
+ 
+10. 
+ 
+ 
+ 
+ 
+3 रंगों से रंगे घन = 2 (केवल 2 ही ऐसे शीषष घन हैं।) 
+ 
+11. 
+ 
+ 
+ 
+ 
+केवल 2 सतह रंगे घन (मैरुन व काला) = 3 (n – 2) 
+ 
+= 3 (3 – 2) = 3 
+ 
+(केवल 3 नकनारे मैरून व काले है।) 
+ 
+12. 
+ 
+ 
+एक सतह रंगे हुए घन = 6 (n – 2)² 
+ 
+= 6 (3 – 2)² = 6 
+ 
+13. 
+ 
+ 
+ 
+ 
+= 12 (3 – 2) +8 = 20 
+ 
+14. 
+ 
+ 
+कुल छोटे घन = n3 = 43 = 64 
+ 
+15. 
+ 
+ 
+तीन सतह रंगे हुए घन = 8 
+ 
+ 
+16. 
+ 
+ 
+रंगहीन घन = (n – 2)3 = (4 – 2)3 = 8 
+ 
+17. 
+ 
+ 
+ 
+ 
+= 12 (4 – 2) + 8 = 32 
+ 
+18. 
+ 
+ 
+ 
+ 
+दो सतह रंगे हुए घन 
+ 
+= 4 (n1 – 2) + 4 (n2 – 2) + 4 (n3 – 2) 
+ 
+= 4 (4 – 2) + 4 (3 – 2) + 4 (3 – 2) = 16 
+ 
+19. 
+ 
+ 
+ऊपरी सतह  काली 
+ 
+20. 
+ 
+ 
+हरा  नीला 
+ 
+21. 
+ 
+ 
+ 
+ 
+रंगहीन घन = (n – 2)³ = (4 – 2)³ = 8 
+ 
+22. 
+ 
+ 
+ 
+ 
+तीन सतह रंगे हुए घन = 8 
+ 
+23. 
+ 
+ 
+ 
+ 
+ज्यादा से ज्यादा दो सतह रंगे हुए घन =  
+ 
+(रंगहीन + एक + दो) सतह रंगे हुए घन  
+ 
+                         या 
+ 
+कुल घन – तीन सतह रंगे हुए = 64 – 8 = 56 
+ 
+24. n1 = 5, n2 = 4, n3 = 3 
+ 
+ 
+ 
+तीन सतह रंगे घन = 8 
+ 
+25. n1 = 5, n2 = 4, n3 = 3 
+लाल = (5 × 4) सेमी. 
+हरा = (5 × 3) सेमी. 
+उभयननष्ठ भुजा = 5 सेमी. 
+दो सतह रंगे हुए (लाल और हरा) = 4 (n1 – 2) 
+= 4 (5 – 2) = 12 
+26. कुल घन = 32 + 32 = 64
+केवल एक सतह रंगे हुए घन 
+= 2 [2(n1 – 2)(n2 – 2) + 2(n2 – 2)(n3 – 2) + 2(n3 – 
+2)(n1 – 2)] 
+= 2 [2(2 – 2)(4 – 2) + 2(4 – 2)(4 – 2) + 2(4 – 2)(2 – 
+2)] = 2 (0 + 8 + 0) = 2 × 8 = 16 
+27. कुल घन = 32 + 32 = 64
+दो सतह लाल और एक सतह हरी = 
+28. कुल घन = 32 + 32 = 64
+रंगहीन घन = 0 
+29. n1= 4, n2=3, n3 = 3
+केवल दो सतह रंगे हुए घन = 
+4 (n1 – 2) + 4 (n2 – 2) + 4 (n3 – 2) 
+= 4 (4 – 2) + 4 (3 – 2) + 4 (3 – 2) 
+= 8 + 4 + 4 = 16 
+30. n1= 4, n2=3, n3 = 3
+रंगहीन घन = (n1 – 2)(n2 – 2)(n3 – 2) 
+= (4 – 2)(3 – 2)(3 – 2) = 2 

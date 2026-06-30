@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 4,
+    "question_en": "A triangle ABC is and AD ⊥ BC, where D lies on BC. If AD = 16√3 cm, then what is the perimeter of a triangle of ABC?",
+    "question_hi": "∆ ABC एक समबाहु त्रिभुज है और AD ⊥ BC है, जहां त्रबन् दु D, BC पर स्थित है। यदद AD=16√𝟑 𝒄𝒎 है, तो ∆ABC का पररमाप (cm में) क् या है?",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Geometry",
+    "source_pdf": "Geometry 10.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 20,
+    "question_en": "An equilateral triangle ABC is inscribed in a circle as shown in figure. A square of largest possible area is made inside this triangle as shown. Another circle made inscribing the square. What is the ratio of area of  smaller circle and the larger circle?",
+    "question_hi": "एक समबाहु त्रिभुज ABC को एक वृत्त में अंककत ककया र्या है जैसा कक धचि में ददखाया र्या है। ददखाए र्ए अनुसार इस त्रिभुज के अंदर सबसे बडा संभव क्षेि का एक वर्ग बनाया र्या है। एक और अन्य वृत्त वर्ग के अंदर बनाया र्या है । छोटे वृत्त और बडे वृत्त के क्षेिफलों का अनुपात क्या है?",
+    "option_a": "(𝟏𝟓−𝟏𝟐√𝟑): 𝟏 𝒃)(𝟔𝟑−𝟑𝟔√𝟑): 𝟒",
+    "option_b": "",
+    "option_c": "(𝟕−𝟒√𝟑): 𝟐 𝒅)(𝟒−𝟐√𝟑): 𝟑 Isosceles Triangle",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Geometry",
+    "source_pdf": "Geometry 10.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_b; missing option_d"
+  },
+  {
+    "question_number": 25,
+    "question_en": "The length of each of the two equal sides of an isosceles triangle is 89 cm each and the length of its base is 78 cm. The area (in cm2) of the triangle is: [RRB JE 2024]",
+    "question_hi": "एक समद्ववबाहु त्रिभुज की दो समान भुजाओं में से प्रत्येक की लंबाई 89 cm है और इसके आिार की लंबाई 78 cm है। त्रिभुज का क्षेिफल (cm2 में) ज्ञात कीस्जए।",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Geometry",
+    "source_pdf": "Geometry 10.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  }
+]

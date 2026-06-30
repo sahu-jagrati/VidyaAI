@@ -1,0 +1,897 @@
+ 
+ 
+1. 
+If a map of a city was drawn on a scale of 0.2 cm to a km, what area would 
+represent a country if it has an area of 22500 km? 
+ 
+मदद किऴी लवय िा नक्शा 0.2 ऴेभी ऴे एि किभी िे ऩैभाने ऩय खींचा जाता वै, तॉ 22500 किभी 
+क्षेत्रपर ऱारे देल िा िॊन ऴा क्षेत्र प्रततननतधत्व ियेगा? 
+ 
+(CHSL PRE 2023) 
+ 
+[a] 250     
+[b] 2250     
+ 
+[c] 5625     
+[d] 900      
+ 
+ 
+ 
+ 
+ 
+2. 
+What is the area (in cm², correct to one decimal place) of a triangle whose base 
+is 21.4 cm and height is 15.5 cm? 
+ 
+21.4 cm आधाय ऒय 15.5 cm ऊंचाई ऱारे तत्रबुज िा क्षेत्रपर (cm2 भें, एि दलभरऱ स्थान ति        
+ऴवी) क्या वॉगा?  
+ 
+[a] 165.9 
+[b] 156.6 
+ 
+[c] 165.6 
+[d] 156.9 
+3. 
+Find the area of the triangle whose height is 35.7 cm and the base is 1/7th of the height? 
+ 
+उऴ तत्रबुज िा क्षेत्रपर ज्ञात िीनजए नजऴिी ऊंचाई 35.7 ऴेभी वै ऒय आधाय ऊंचाई िा 1/7ऱां हवस्सा वै? 
+ 
+SSC GD 2024 
+ 
+[a] 85.35    
+[b] 91.035    
+ 
+[c] 80.055    
+[d] 81.055    
+ 
+4. 
+Area of a triangle is 1470    . If base of this triangle is 3/5th of the height 
+corresponding to that base, then what will be the height of triangle? 
+ 
+एि तत्रबुज िा क्षेत्रपर 1470     वै। मदद इऴ तत्रबुज िा आधाय उऴ आधाय िे ऴंगत ऊँचाई िा 3/5 
+वै, तॉ तत्रबुज िी ऊँचाई क्या वॉगी? 
+ 
+[a] 72 cm 
+[b] 63 cm 
+ 
+[c] 69 cm 
+[d] 70 cm 
+5. 
+The area of a triangle is 182 cm2 and the length of one of its sides is 28 cm. What 
+is the length of the perpendicular line segment drawn to this side of the triangle 
+from the opposite vertex (in cm)? 
+ 
+एि तत्रबुज िा क्षेत्रपर 182 ऴेभी2 वै ऒय इऴिी एि बुजा िी रंफाई 28 ऴेभी वै। तत्रबुज िी इऴ बुजा 
+ऩय कऱऩयीत लीळष ऴे खींचे गए रंफ येखा खंड िी रंफाई (ऴेभी भें) क्या वै? 
+ 
+(DP CONSTABLE 2023) 
+ 
+[a] 12 
+[b] 13 
+ 
+[c] 14 
+[d] 15 
+6. 
+The length of the base of a triangle is 3 cm smaller than the length of its altitude. 
+Its area is 104 cm². What is the length of the base? 
+ 
+एि तत्रबुज िे आधाय िी रंफाई, इऴिी ऊंचाई ऴे 3 cm िभ वै। इऴिा क्षेत्रपर 104 cm2 वै। इऴिे 
+आधाय िी रंफाई ज्ञात िीनजए। 
+ 
+[a] 13 cm 
+[b] 12 cm 
+ 
+[c] 14 cm 
+[d] 11 cm 
+ 
+ 
+7. 
+The base of a triangular field is three times its altitudes. If the cost of cultivating 
+the field at Rs. 24.4/hec is Rs. 448.35, find its height (in meters)? 
+ 
+एि तत्रबुजािाय क्षेत्र िा आधाय इऴिी ऊंचाई िा तीन गुना वै। मदद खेत िॉ 24.4 रुऩमे/वेक्टेमय िी 
+दय ऴे जॉतने िी रागत 448.35 रुऩमे वै, तॉ इऴिी ऊंचाई (भीटय भें) ज्ञात ियें?  
+ 
+[a] 320 
+[b] 350 
+ 
+[c] 240 
+[d] 275 
+8. 
+Two sides of a triangle are 12.8 m and 9.6 m. If the height of the triangle is 12 m, 
+corresponding to 9.6 m. Then what is its height (in m) corresponding to 12.8 m? 
+ 
+एि तत्रबुज िी दॉ बुजाऐं 12.8m ऒय 9.6m वै। मदद तत्रबुज िी ऊंचाई 12m वै, जॉ कि 9.6 m ऱारे 
+बुजा िे ऴंगत वै, तॉ 12.8m ऱारे बुजा िे ऴंगत ऊंचाई (mभे) क्या वॉगी? 
+ 
+[a] 12 
+[b] 9 
+ 
+[c] 10 
+[d] 8 
+9. 
+The ratio of base of two triangles is x : y and that of their areas is a : b. Then the 
+ratio of their corresponding altitudes will be: 
+ 
+दॉ तत्रबुजों िे आधायों िा अनुऩात वै x : y ऒय उनिे क्षेत्रपरों िा a: b वै। तफ उनिी ऴंगत ऊंतचमों  
+िा अनुऩात वॉगा: 
+ 
+(SSC CGL 2020 PRE) 
+ 
+[a] 
+ 
+  : 
+ 
+  
+[b] ax : by 
+ 
+ 
+ 
+[c] ay : bx 
+[d] 
+ 
+  : 
+ 
+  
+10. 
+The sides of a triangle are 16 cm, 30 cm, and 34 cm. What is its area? (in cm2 )  
+ 
+एि तत्रबुज िी बुजाएँ 16 ऴेभी, 30 ऴेभी ऒय 34 ऴेभी वैं। इऴिा क्षेत्रपर क्या वै? (ऴेभी2 भें) 
+ 
+(RRB RPF SI 2024) 
+ 
+[a] 225 
+[b] 270  
+ 
+[c] 240 
+[d] 257 
+11. 
+The sides of a triangle are 28 cm, 45 cm, and 53 cm. What is its area? (in cm2) 
+ 
+एि तत्रबुज िी बुजाएँ 28 cm, 45 cm ऒय 53 cm वैं। इऴिा क्षेत्रपर (cm2 भें) ज्ञात िीनजए। 
+ 
+(RRB NTPC 12th LEVEL 2025)  
+ 
+[a] 658 
+[b] 664 
+ 
+[c] 665 
+[d] 630 
+12. 
+The sides of a triangle are 82 cm, 18 cm, and 80 cm. What is its area? (in cm2) 
+ 
+एि तत्रबुज िी बुजाएँ 82 cm, 18 cm ऒय 80 cm वैं। इऴिा क्षेत्रपर (cm2 भें) ज्ञात िीनजए। 
+ 
+(RRB NTPC 12th LEVEL 2025)  
+ 
+[a] 720 
+[b] 731 
+ 
+[c] 712 
+[d] 670 
+13. 
+A triangular land has sides          , and 29 m . A path is to be built along the 
+perimeter. Find the area of the land and the length of the path. 
+ 
+ 
+ 
+एि तत्रिॉणीम ज़भीन िी बुजाएँ 20 भीटय, 21 भीटय, ऒय 29 भीटय वैं। ऩहयतध िे ऴाथ एि यास्ता 
+फनाना वै। ज्ञभीन िा क्षेत्रपर ऒय यास्ते िी रंफाई ऩता ियें। 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+[a] The Length of the Path is 70 meters 
+ 
+ 
+The Area of the Land is        
+ 
+[b] The Length of the Path is 83 meters 
+ 
+ 
+The Area of the Land is      . 
+ 
+[c] The Length of the Path is 79 meters 
+ 
+ 
+The Area of the Land is      . 
+ 
+[d] The Length of the Path is 45.6 meters 
+14. 
+The edges of a triangular board are 12 m, 35 m and 37 m. Find the cost of 
+painting it at the rate of ₹ 8/m2. 
+ 
+एि तत्रिॉणीम फॉडष िे किनाये 12 भीटय, 35 भीटय ऒय 37 भीटय वैं। ₹ 8/m2 िी दय ऴे इऴे ऩेंट ियने 
+िी रागत ज्ञात िीनजए। 
+ 
+[a] Rs. 1575 
+[b] Rs. 1560 
+ 
+[c] Rs. 1680 
+[d] Rs. 1670  
+15. 
+In a right-angled triangle, if the hypotenuse is 101 cm and one of its sides is 
+equal to 20 cm, what is its area (in cm²)? 
+ 
+एि ऴभिॉण तत्रबुज भें, मदद िणष 101 cm वै ऒय इऴिी एि बुजा 20 cm िे फयाफय वै, तॉ इऴिा 
+क्षेत्रपर (cm2 भें) क्या वै? 
+ 
+[a] 2020 
+[b] 1010 
+ 
+[c] 1980 
+[d] 990 
+16. 
+If two sides of triangles are 28 cm, 45 cm with area 630   , then the length of 
+the third side is? 
+ 
+मदद तत्रबुज िी दॉ बुजाएँ 630    क्षेत्रपर िे ऴाथ 28 ऴेभी, 45 ऴेभी वैं, तॉ तीऴयी बुजा िी रंफाई 
+कितनी वै? 
+ 
+[a] 48 m 
+[b] 53 cm 
+ 
+[c] 60 cm 
+[d] 41 cm 
+17. 
+The lengths of three sides of a triangle are in the ratio 3 : 4 : 5. Among three 
+sides, the difference between the largest side and the smallest side of this 
+triangle is 3.6 cm. The area (in cm²) of the triangle is: 
+ 
+किऴी तत्रबुज िी तीनों बुजाऑं िी रंफाई िा अनुऩात 3 : 4 : 5 वै। तीनों बुजऑं भें ऴे, इऴ तत्रबुज िी ऴफऴे 
+फडी बुजा ऒय ऴफऴे छॉटी बुजा िे फीच अंतय 3.6 cm वै। तत्रबुज िा क्षेत्रपर (ऴेभी2 भें) ज्ञात ियें। 
+ 
+(a) 19.44 
+(b) 32.4 
+ 
+(c) 21.75 
+(d) 15.64 
+18. 
+The area of a triangle is 540 cm2 and the ratio of its sides is 8 : 15 : 17. What is the 
+perimeter of the triangle? 
+ 
+ 
+ 
+एि तत्रबुज िा क्षेत्रपार 540 cm2 वै तथा इऴिी बुजाऑं िा अनुऩात 8: 15: 17 वै। तत्रबुज िा 
+ऩहयभाऩ क्या वै? 
+ 
+[a] 120 cm 
+[b] 30 cm 
+ 
+[c] 150 cm 
+[d] 60 cm 
+19. 
+The perimeter of a right angle triangle us 120 cm and its two perpendicular sides 
+are in the ratio 5:12. Find the area of the triangle (in square cm)? 
+ 
+एि ऴभिॉण तत्रबुज िा ऩहयभाऩ 120 ऴेभी वै ऒय इऴिी दॉ रम्बऱत बुजाएँ 5:12 िे अनुऩात भें वैं। 
+तत्रबुज िा क्षेत्रपर ज्ञात िीनजए (ऱगष ऴेभी भें). 
+ 
+(SSC CGL 2023 PRE) 
+ 
+[a] 448 
+[b] 424 
+ 
+[c] 464 
+[d] 480 
+20. The sides (in cm) of a right triangle are (x − 18), (x − 25) and x. Its area (in cm2) is: 
+ 
+एि ऴभिॉण तत्रबुज िी बुजाएँ (cm भें) (x − 18), (x − 25) ऒय x वैं। इऴिा क्षेत्रपर (cm2 भें) ज्ञात िीनजए। 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[a] 1329 
+[b] 1314 
+ 
+[c] 1311 
+[d] 1320 
+21. 
+The hypotenuse of a right-angled triangle is 2.6 times its base. The height is 24 
+cm. What is the length of hypotenuse (in cm)? 
+ 
+एि ऴभिॉण तत्रबुज िा िणष उऴिे आधाय िा 2.6 गुना वै। ऊंचाई 24 ऴेभी वै. िणष िी रंफाई (ऴेभी 
+भें) क्या वै? 
+ 
+[a] 33.8 cm 
+[b] 26 cm 
+ 
+[c] 28.6 cm 
+[d] 31.2 cm 
+22. The sides of a triangle are in the ratio 
+ 
+  
+ 
+  
+ 
+  and its perimeter is 141 cm. The 
+difference between the greatest side and the smallest side is: 
+ 
+किऴी तत्रबुज िी बुजाऑं िा अनुऩात 
+ 
+  
+ 
+  
+ 
+  वै ऒय इऴिा ऩहयभाऩ 141 cm. वै। इऴिी ऴफऴे फडी 
+बुजा िी रंफाई ऒय ऴफऴे छॉटी बुजा िी रंफाई िे फीच अंतय ज्ञात ियें। 
+ 
+[a] 18 cm 
+[b] 15 cm 
+ 
+[c] 12 cm 
+[d] 24 cm 
+23. Find the area of triangle whose sides are 10 cm, 12 cm, and 18 cm.  
+ 
+उऴ तत्रबुज िा क्षेत्रपर ज्ञात िीनजए नजऴिी बुजाएँ 10 ऴेभी, 12 ऴेभी ऒय 18 ऴेभी वैं। 
+ 
+[a]   √      
+[b]   √      
+ 
+[c]   √      
+[d]   √      
+24. What is the area (rounded off to the nearest integer) of a triangle whose three 
+sides measure 11 cm, 15 cm and 16 cm? 
+ 
+11 cm, 15 cm ऒय 16 cm भाऩ ऱारी तीन बुजाऑं ऱारे तत्रबुज िा क्षेत्रपर (ननिटतभ ऩूणाांि ति 
+ऩूणाांकित) ज्ञात िीनजए।                   
+ 
+(RRB NTPC 12th LEVEL 2025) 
+ 
+ 
+ 
+[a] 87 cm2 
+[b] 84 cm2 
+ 
+[c] 82 cm2 
+[d] 79 cm2 
+25. The sides of a triangle are given by √      , √      and (b + c), where a, b, c are 
+positive. What is the area of the triangle? 
+ 
+तत्रबुज िी बुजाएँ √     , √      ऒय (b + c), जवाँ a, b, c ऴिायात्मि वैं। तत्रबुज िा क्षेत्रपर 
+कितना वै? 
+ 
+[a] 
+√        
+ 
+ 
+[b] 
+√              
+ 
+ 
+ 
+[c] 
+ (   )
+ 
+ 
+[d] 
+√ (              )
+ 
+ 
+26. The sides of a triangular park are 60m, 112 m and 164 m. The cost of leveling the 
+park at the rate of Rs.8.50/sq.m. is: 
+ 
+एि तत्रबुजािाय ऩाि िी बुजाएं 60 भी, 112 भी ऒय 164 भी वै। रूऩमे 8.5/भी2 िी दय ऴे ऩािष िॉ 
+ऴभतर ियने िी रागत ज्ञात िीनजए। 
+ 
+(a) 17,085 
+(b) 18,164 
+ 
+ 
+ 
+(c) 18,316 
+(d) 17,136 
+27. The sides of a triangular park are in the ratio of 12:17:25 and its perimeter is 1080 
+m. The area (in hectares) of the park is 
+ 
+एि तत्रबुजािाय ऩािष िी बुजाऑं िा अनुऩात 12 : 17: 25 वै ऒय इऴिा ऩहयभाऩ 1080 m वै। ऩािष िा 
+क्षेत्रपर (वेक्टेमय भें)____ वै। 
+ 
+(a) 3.6 
+(b) 4.2 
+ 
+ 
+ 
+(c) 4.5 
+(d) 4.8 
+28. Determine the approximate area of a triangle given that its 4:7:9. If the 
+perimeter is 160 cm. 
+ 
+एि तत्रबुज िा अनुभाननत क्षेत्रपर ज्ञात िीनजए, जॉ       वै। मदद ऩहयभाऩ 160 ऴेभी वै। 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+[a]           
+[b]           
+[c]           
+[d]           
+29. A triangular field has side lengths in the ratio       and perimeter 72 m. What is 
+the area? 
+ 
+एि तत्रबुजािाय भैदान िी बुजाऑं िी रंफाई िा अनुऩात       वै ऒय ऩहयभाऩ 72 भीटय वै। इऴिा 
+क्षेत्रपर क्या वै? 
+ 
+(SSC CGL 2025 PRE) 
+ 
+[a]        
+[b]        
+ 
+[c]        
+[d]        
+30. The differences between the semi-perimeter and the sides of triangle ΔPQR are 
+18 cm, 17 cm, and 25 cm respectively. Find the area of the triangle. 
+ 
+ΔPQR िे अधष-ऩहयभाऩ ऒय बुजाऑं िे फीच िा अंतय क्रभलः 18 cm, 17 cm ऒय 25 cm वै। तत्रबुज 
+िा क्षेत्रपर ज्ञात िीनजए 
+ 
+ 
+ 
+(SSC CPO 2022) 
+ 
+[a]    √        
+[b]   √        
+ 
+[c]    √        
+[d]    √        
+31. 
+The sides of a triangle are in the ratio 3:5:6. If the area is   √     , find the sum 
+of the sides (in cm)? 
+ 
+एि तत्रबुज िी बुजाएँ 3:5:6 िे अनुऩात भें वैं। मदद क्षेत्रपर   √      वै, तॉ बुजाऑं िा मॉग 
+(ऴेभी भें) ज्ञात ियें? 
+ 
+[a] 28 
+[b] 36 
+ 
+[c] 56 
+[d] 35 
+32. If one side of a triangle is 7 with its perimeter equal to 18, and area equal to 
+√     then the other two sides are: 
+ 
+मदद एि तत्रबुज िी एि बुजा 7 वै इऴिा ऩहयभाऩ 18 िे फयाय वै ऒय क्षेत्रपर √    िे फयाफय वै तॉ 
+अन्म दॉ बुजाऑं िे भान ज्ञात िीनजए।  
+ 
+[a] 6 and 5 
+[b] 3.5 and 7.5 
+ 
+ 
+ 
+[c] 7 and 4 
+[d] 3 and 8 
+33. A triangle has side length x cm, x+13 cm and x+26 cm. If its area is 126 square cm, 
+then what is the value of x? 
+ 
+एि तत्रबुज िी बुजाऑं िी रंफाई x ऴेभी, x+13 ऴेभी ऒय x+26 ऴेभी वै। मदद इऴिा क्षेत्रपर 126 
+ऱगष ऴेभी वै, तॉ x िा भान क्या वै? 
+ 
+[a] 18 
+[b] 17 
+ 
+[c] 16 
+[d] 15 
+34. A triangle has sides 13 cm, 14 cm and 15 cm long. What is the length of the 
+smallest altitude of the triangle? 
+ 
+एि तत्रबुज िी बुजाएँ 13 ऴेभी, 14 ऴेभी ऒय 15 ऴेभी रंफी वैं। तत्रबुज िी ऴफऴे छॉटी ऊंचाई िी रंफाई क्या वै? 
+ 
+(CDS 2023) (DELHI POLICE CONSTABLE Executive 2025) 
+  
+[a] 11 cm 
+[b] 11.2 cm 
+ 
+[c] 12 cm 
+[d] 12.2 cm 
+35. Two sides of a triangular field are 41 m and 28 m. If its perimeter is 84 m then 
+what is the length of the shortest altitude of the triangle? (Write your answer up 
+to two decimal places.)  
+ 
+एि तत्रबुजािाय भैदान िी दॉ बुजाएँ 41 m ऒय  28 m वै। मदद इऴिा ऩहयभाऩ 84 m वै तॉ तत्रबुज िे 
+ऴफऴे छॉटे लीळष रम्ब िी रंफाईं क्या वै? (अऩना उत्तय दलभरऱ िे दॉ स्थानों ति नरखें।) 
+ 
+[RRB Group D-2022] 
+ 
+[a] 6.12 m 
+[b] 7.15 m 
+ 
+ 
+[c] 6.15 m 
+[d] 7.12 m 
+36. The sides of a triangle are 109 cm, 171 cm, and 100 cm. What is the length (in cm) 
+of its altitude corresponding to the side with a length of 171 cm? 
+ 
+ 
+ 
+एि तत्रबुज िी बुजाएं 109 cm, 171 cm ऒय 100 cm वैं। 171 cm रंफाई ऱारी बुजा िे ऴभरूऩ 
+इऴिी ऊंचाई (altitude) िी रंफाई (cm भें) कितनी वॉगी? 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[a] 94 
+[b] 49 
+ 
+[c] 60 
+[d] 82 
+37. In a triangle ABC, AB=17cm, BC=12cm, AC=√241cm, AD⊥BC, then find the area of ∆ADC? 
+ 
+तत्रबुज ABC भें, AB=17cm, BC=12cm, AC=√241cm, AD⊥BC तॉ ∆ADC िा क्षेत्रपर ज्ञात ियें? 
+ 
+[a] 24cm2     
+[b] 36cm2      
+ 
+[c] 27cm2 
+[d] 30cm2 
+38. In a triangle ABC, AB = 21 cm, BC = 20 cm and CA = 13 cm. a perpendicular CD is 
+drawn upon the longest side. What is the area of the triangle BCD? 
+ 
+एि तत्रबुज ABC भें, AB = 21 ऴेभी, BC = 20 ऴेभी ऒय CA = 13 ऴेभी वै। ऴफऴे रंफी बुजा ऩय एि 
+रंफ CD खींची जाती वै। तत्रबुज BCD िा क्षेत्रपर कितना वै? 
+ 
+[a] 96 sq cm 
+[b] 84 sq cm 
+ 
+[c] 80 sq cm 
+[d] 72 sq cm 
+39. Consider the following for the next two items that follow: 
+अगरे दॉ प्रश्नॉ िे नरए ननम्ननरखखत ऩय कऱचाय ियें: 
+ 
+The perimeter of a triangle ABC is 105 cm. the altitude AD, BE and CF are in the ratio 
+3:5:6./एि तत्रबुज ABC िा ऩहयभाऩ 105 ऴेभी वै। ऊँचाई AD, BE ऒय CF 3:5:6 िे अनुऩात भें वैं। 
+What is AB : BC : CA equal to? 
+ 
+AB : BC : CA किऴिे फयाफय वै? 
+ 
+(UPSC CDS-1 2025) 
+ 
+[a] 10:6:5 
+[b] 5:10:6 
+ 
+[c] 6:5:3 
+[d] 3:5:6 
+ 
+What is the approximate area of the triangle ABC? 
+ 
+तत्रबुज ABC िा अनुभाननत क्षेत्रपर क्या वै? 
+ 
+(UPSC CDS-1 2025) 
+ 
+[a] 175 sq cm 
+[b] 190 sq cm 
+ 
+[c] 205 sq cm 
+[d] 285 sq cm 
+40. Three altitudes of a triangle are 2cm, 3cm and 4cm respectively, find the 
+perimeter of the triangle? 
+ 
+किऴी तत्रबुज िी ऊँचाई क्रभलः 2cm, 3cm  ऒय 4cm वै  तत्रबुज िा ऩहयभाऩ ज्ञात ियें ? 
+ 
+(a) 
+   
+√      
+(b) 
+   
+√             
+ 
+(c) 
+   
+√        
+(d) 
+   
+√       
+41. 
+The length of each side of an equilateral triangle is 22 cm. Find the   area (in cm2) 
+of this triangle. 
+ 
+ 
+ 
+एि ऴभफारृ तत्रबुज िी प्रत्येि बुजा िी रंफाई 22 cm वै। इऴ तत्रबुज िा क्षेत्रपर (cm2 भें) ज्ञात 
+िीनजए। 
+ 
+(a) 121 
+(b) 242 
+        
+ 
+(c) 121√  
+(d) 242√  
+ 
+42. Find the area of the equilateral triangle with a side 94 cm (in sq cm)? 
+ 
+94 ऴेभी बुजा ऱारे ऴभफारृ तत्रबुज िा क्षेत्रपर ज्ञात ियें (ऱगष ऴेभी भें)? 
+ 
+(RPF CONSTABLE 2019) 
+ 
+(a) 2229√  
+(b) 2209√  
+ 
+(c) 2219√  
+(d) 2239√   
+43. Find the area of an equilateral triangle whose side is 3.1 cm? 
+ 
+एि ऴभफारृ तत्रबुज िा क्षेत्रपर ज्ञात िीनजए नजऴिी बुजा 3.1 ऴेभी वै? 
+ 
+(a) (2.1025)√     
+(b) (4.4325) √     
+ 
+(c) (2.3025)√     
+(d) (2.4025) √     
+44. The perimeter of an equilateral triangle ABC is 22.2 cm. What is the area of 
+triangle (in cm2)? 
+ 
+एि ऴभफारृ तत्रबुज ABC िा ऩहयभाऩ 22.2 cm वै। तत्रबुज िा क्षेत्रपर (cm2 भें) कितना वै? 
+ 
+(a) 12.76√  
+(b) 11.36√  
+ 
+(c) 14.93√  
+(b) 13.69√  
+45. What is the perimeter (in cm) of an equilateral triangle whose height is 3.46 cm? 
+Take √  = 1.73 
+ 
+3.46m ऊंचाई ऱारे ऴभफारृ तत्रबुज िा ऩहयभाऩ (in cm) कितना वॉगा? √ = 1.73 भान रें। 
+ 
+(a) 10.4 
+(b) 9 
+ 
+(c) 6 
+(d) 12  
+46. If the height of an equilateral triangle is   √  cm, the area is: 
+ 
+मदद एि ऴभफारृ तत्रिॉण िी ऊंचाई   √  cm वै, क्षेत्रपर वै: 
+ 
+(a)    √ cm2 
+(b)   √ cm2 
+ 
+(c)   √ cm2 
+(d)    √ cm2 
+47. In an equilateral ∆ABC, area of triangle is 225√3cm2, then find the perimeter of 
+∆ABC? 
+ 
+ऴभफारृ ∆ABC भें, तत्रबुज िी क्षेत्रपर 225√3cm2 वै। तफ ∆ABC िा ऩहयभाऩ वॉगा- 
+ 
+(a) 90cm    
+(b) 60cm          
+ 
+(c) 75cm 
+(d) 120cm 
+48. The area of an equilateral triangle is 10.24 √   m². Its perimeter (in m) is: 
+ 
+किऴी ऴभफारृ तत्रबुज िा क्षेत्रपर 10.24 √   m2 वै। इऴिा ऩहयभाऩ (भीटय भें) ज्ञात ियें। 
+ 
+(a) 3.2 
+(b) 9.6 
+ 
+(c) 6.4 
+(d) 19.2 
+ 
+ 
+49. X, Y and Z are three equilateral triangles. The sum of the aera of X and Y is equal 
+to the area of Z. If the side length of X and Y are 6 cm and 8 cm respectively, then 
+what is the side length of Z? 
+ 
+X, Y ऒय Z तीन ऴभफारृ तत्रबुज वैं। X ऒय Y िे क्षेत्रपरों िा मॉग Z िे क्षेत्रपर िे फयाफय वै। मदद X 
+ऒय Y िी बुजा िी रंफाईमाँ क्रभलः 6 ऴेभी. ऒय 8 ऴेभी. वै, तॉ Z िी बुजा िी रंफाई कितनी वै? 
+ 
+(a) 10 cm 
+(b) 10.5 cm 
+ 
+(c) 9.5 cm 
+(d) 9 cm 
+ 
+50. O is a point in the interior of an equilateral triangle. The perpendicular distance 
+from ‘O’ to the sides are √     √     √   . The perimeter of the triangle is? 
+ 
+एि ऴभफारृ तत्रबुज िे अभ्यंतय भें एि कफिंदु वै। 'O' ऴे बुजाऑं िी रंफऱत दूयी √  ऴेभी,  √  ऴेभी, 
+ √  ऴेभी वै। तत्रबुज िा ऩहयभाऩ वै? 
+ 
+(a) 48 cm 
+(b) 64 cm 
+ 
+(c) 32 cm 
+(d) 24 cm 
+51. 
+From any point inside an equilateral triangle, the lengths of perpendiculars on 
+the sides are ‘a’ cm, ‘b’ cm and ‘c’ cm. Its area (in cm2) is- 
+ 
+किऴी ऴभफारृ तत्रबुज िे बीतय किऴी बी कफिंदु ऴे बुजाऑं ऩय रम्बों िी रम्बाई ‘a’ cm, ‘b’ cm तथा 
+‘c’ cm वै| तत्रबुज िा क्षेत्रपर (cm2 भें) वै| तत्रबुज िा क्षेत्रपर कितना वै? 
+ 
+(a) 
+√ 
+  (a+b+c)2 
+(b) 
+√ 
+  (a+b+c)2   
+ 
+(c)  
+ 
+√  (a+b+c)2     
+(d) 
+√ 
+  (a+b+c)2  
+52. The sides of a triangle are in the ratio          and the perimeter is 180 cm. Find 
+its area. 
+ 
+एि तत्रबुज िी बुजाएँ          िे अनुऩात भें वैं तथा ऩहयभाऩ 180 ऴेंटीभीटय वै। इऴिा क्षेत्रपर 
+ज्ञात िीनजए। 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+[a]             
+[b]             
+[c]              
+[d]             
+ 
+53. The perimeter of an isosceles triangle is 91 cm. If one of the equal sides 
+measures 28 cm, then what is the value of the other non-equal side? 
+ 
+एि ऴभदिफारृ तत्रबुज िा ऩहयभाऩ 91 cm वै। मदद ऴभान बुजाऑं भें ऴे एि िा भाऩ 28 cm वै, तॉ 
+अऴभान बुजा िा भान क्या वै? 
+ 
+(a) 56 cm 
+(b) 42 cm 
+ 
+(c) 14 cm 
+(d) 35 cm 
+ 
+54. The perimeter of an isosceles triangle is 120 cm. The base is 
+ 
+  times the length of 
+each of the equal sides. What is the approximate length of the base? 
+ 
+एि ऴभदिफारृ तत्रबुज िा ऩहयभाऩ 120 ऴेंटीभीटय वै। आधाय वय फयाफय बुजा िी रंफाई िा 
+ 
+  गुना वै। 
+आधाय िी अनुभाननत रंफाई क्या वै? 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+ 
+ 
+(a) 51.43 cm 
+(b) 41.40 cm 
+ 
+(c) 34.43 cm 
+(d) 54.9 cm 
+55. ∆ABC is an isosceles traingles with AB = AC = 13 cm, AD is the median on BC from 
+A such that AD = 12 cm. the length of BC is equal to: 
+ 
+∆ABC एि ऴभदिफारृ तत्रबुज वै नजऴभे AB = AC = 13 ऴेभी वै। AD, A ऴे BC ऩय इऴ प्रिाय खींची गई 
+भध्यििा वै कि AD =12 ऴेभी वै। BC िी रंफाई वै?  
+ 
+SSC CGL TIER – I 2021 
+ 
+(a) 5 cm 
+(b) 7.5 cm 
+ 
+ 
+ 
+(c) 10 cm 
+(d) 6 cm 
+ 
+ 
+ 
+ 
+ 
+ 
+56. In an isosceles triangle ABC, AB = AC and AD is perpendicular to BC. If AD = 28 cm 
+and the perimeter of ΔABC is 196. Find length of AC ? 
+ 
+ऴभदिफारृ तत्रबुज ABC भें, AB=AC ऒय AD, BC िे रंफऱत वै। मदद AD= 28 cm ऒय AABC िा 
+ऩहयभाऩ 196 cm वै, तॉ AC िी रंफाई (ऴेभी. भें) ज्ञात ियें।? 
+ 
+(a) 53 
+(b) 72 
+ 
+(c) 65 
+(d) 55 
+57. In an isosceles triangle ABC, AB=AC and AD is perpendicular to BC at D. If AD =8 
+cm and perimeter of ∆ABC is 64 cm, then the area of ∆ABC is: 
+ 
+एि ऴभदिफारृ तत्रबुज ABC भें AB = AC ऒय AD, BC ऩय रंफऱत वै। मदद AD = 8 ऴेभी ऒय ∆ABC 
+िी ऩहयतध 64 ऴेभी वै, तॉ ∆ABC िा क्षेत्रपर वै: 
+ 
+(a) 130     
+(b) 124      
+ 
+ 
+(c) 120     
+(d) 125     
+58. If the height of an isosceles triangle is 20cm and the perimeter is 100cm. Find the 
+area of the triangle? 
+ 
+किऴी ऴभदिफारृ तत्रबुज िे ऊंचाई 20cm वॉ ऒय ऩहयभाऩ 100cm वै। तत्रबुज िी क्षेत्रपर ज्ञात िये? 
+ 
+(a) 300 
+(b) 500    
+ 
+(c) 420 
+(d) 630 
+59. The perimeter of an isosceles triangle is 32 cm. The ratio of equal sides to the 
+base is    . Find the approximate area of the triangle is. 
+ 
+एि ऴभदिफारृ तत्रबुज िा ऩहयभाऩ 32 ऴेभी वै। फयाफय बुजाऑं िा आधाय ऴे अनुऩात     वै। तत्रबुज 
+िा अनुभाननत क्षेत्रपर ज्ञात िीनजए। 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+(a)          
+(b)          
+ 
+(c)        
+(d)           
+60. In a triangle ABC, AB=AC, and the perimeter of triangle 544cm, If equal sides are 
+5/6th of the non-equal side, then find the area of triangle? 
+ 
+तत्रबुज ABC भें AB=AC वै। तत्रबुज िा ऩहयभाऩ 544cm वै। मदद तत्रबुज िी फयाफय बुजाएं तीऴयी 
+अऴभान बुजा िा 5/6 गुना वै तफ तत्रबुज िा क्षेत्रपर वॉगा- 
+ 
+(a) 13872cm2  
+(b) 17340 cm2         
+ 
+ 
+ 
+(c) 15606 cm2 
+(d) 19507cm2 
+61. 
+The ratio  of an equal side to the base of  an isosceles triangle is 3 : 5 and  its area 
+is 80√       Then perimeter of the triangle is : 
+ 
+एि ऴभदिफारृ तत्रबुज िी प्रत्येि ऴभान बुजा ऒय आधाय िा अनुऩात 3:5 वै ऒय इऴिा क्षेत्रपर 
+80√         वै। तत्रबुज िा ऩहयभाऩ ज्ञात ियें?  
+ 
+(a) 88 cm 
+(b) 104cm             
+ 
+(c) 110 cm 
+(d) 99cm 
+62. Find the altitude (in cm) of side MT of triangle MNT with side MN = 36 cm, MT = 36 
+cm and NT = 48 cm. 
+ 
+ 
+MN = 36 cm, MT=36 cm ऒय NT = 48 cm बुजा ऱारे तत्रबुज MNT िी बुजा MT िा लीळष रंफ 
+(cm भें) ज्ञात िीनजए। 
+ 
+SSC CHSL Pre 2024 
+ 
+[a] 16√  
+[b] 18√  
+ 
+[c] 12√  
+[d] 24√  
+ 
+63. Three sides of a triangle are √      √(  )        √   (  )  units. What is 
+the area (in unit squares) of triangle? 
+ 
+एि तत्रबुज िी तीन बुजाएं√      √(  )     ऒय√   (  )   इिाई वैं। तत्रबुज िा क्षेत्रपर 
+(ऱगष इिाई भें) कितना वॉगा? 
+ 
+[a] 
+ 
+    
+[b] 3ab 
+ 
+ 
+ 
+[c] 4ab 
+[d] 
+ 
+    
+64. 53, 56, 53 are the three sides of the triangle, another triangle having equal area 
+is consist of sides 53, X and 53. Find X? (if X≠56) 
+ 
+53, 56, 53 तत्रबुज िी तीन बुजाएँ वैं, एि अन्य तत्रबुज नजऴिे क्षेत्रपर फयाफय वै, बुजाएँ 53, X ऒय 
+53 वैं। X=? (मदद X ≠ 56) 
+ 
+[a] 68 
+[b] 90         
+ 
+[c] 72 
+[d] 85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

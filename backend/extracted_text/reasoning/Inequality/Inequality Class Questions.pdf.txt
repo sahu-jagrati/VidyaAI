@@ -1,0 +1,567 @@
+ 
+1.
+Statement: A > B = C ≥ D
+Conclusions:
+I. A ≥ C
+II. B = D
+(a) Only I follows
+(b) Only II follows
+(c) Both I and II follow
+(d) Neither I nor II follows
+2.
+Statement: M ≥ R > T = U
+Conclusions:
+I. M >T
+II. R>U
+(a) Only I follows
+(b) Only II follows
+(c) Both I and II follow
+(d) Neither I nor II follows
+3.
+Statement: U < R = T ≤ P = S ≥ Q > U
+Conclusions:
+I. U < T
+II. R ≤ P
+III. S > U
+(a) Only I follows
+(b) Only II follows
+(c) Only III follows
+(d) All follow
+4.
+Statement: A = B < C ≤ D
+Conclusions:
+I. C > A
+II. C < A
+(a) Only I follows
+(b) Only II follows
+(c) Both I and II follow
+(d) Neither I nor II follows
+ 
+ 
+5.
+Statement: M < R = T > U ≥ S
+Conclusions:
+I. T > M
+II. T < M
+III. S < T
+IV. S > T
+(a) Only I and II follow
+(b) Only II and III follow
+(c) Only I and III follow
+(d) None follows.
+6.
+Statement: A > B < C
+Conclusions:
+I. A > C
+II. A ≥ C
+III. A = C
+(a) Only I follows
+(b) Only II follows
+(c) Only III follows
+(d) None follows
+7.
+Statements: A > B ; C ≥ D ; B = C
+Conclusions:
+I. A > C
+II. B ≥ D
+(a) Only I follows
+(b) Only II follows
+(c) Both I and II follow
+(d) None follows.
+8.
+Statements: R > T; U < T; U > P
+Conclusions:
+I. R > U
+II. T > P
+(a) Only I follows
+(b) Only II follows
+(c) Both I and II follow
+(d) None follows.
+Class Questions 
+Inequality
+Reasoning
+ 
+9.  Statements: M > N ≤ R ; P ≤ N > U 
+ 
+Conclusions:  
+ 
+I. M > U  
+ 
+II. M > P 
+ 
+III. R < U 
+ 
+(a) Only I and III follow 
+ 
+(b) Only I and II follow 
+ 
+(c) Only III follows 
+ 
+(d) None follows. 
+ 
+10.  Statements: M > N ≥ T; R < N ≤ P 
+ 
+Conclusions:  
+ 
+I. M > R  
+ 
+II. M > P 
+III. T ≤ P 
+ 
+(a) Only I and III follow 
+ 
+(b) Only I and II follow 
+ 
+(c) Only III follows 
+ 
+(d) None follows 
+ 
+11. Statements: R > P ≥ U = S; P < W = Y 
+ 
+Conclusions: 
+ 
+I. R > W 
+ 
+II. U < W 
+ 
+(a) Only I follows 
+ 
+(b) Only II follows 
+ 
+(c) Both I and II follow 
+ 
+(d) None follows. 
+ 
+12.  Statements: M ≯ N ≥ R; N ≯ T ≤ U 
+ 
+Conclusions: 
+ 
+I. M ≥ R  
+ 
+II. N ≤ U 
+ 
+(a) Only I follows 
+ 
+(b) Only II follows 
+ 
+(c) Both I and II follow 
+ 
+(d) None follows 
+ 
+13.  Statement: R ≯U ≱ P ≤ S ≯ T 
+ 
+Conclusions:  
+ 
+I. R < P 
+II. P ≤ T 
+ 
+III. P < T 
+ 
+(a) Only I and II follow 
+ 
+(b) Only II and III follow 
+ 
+(c) Only II follows 
+ 
+(d) None follows. 
+ 
+14.  M _ N _ U _ P _ Q _ R 
+ 
+Which of the following options makes 'M > P' 
+and 'U ≤ R' definitely true? 
+ 
+िनɻिलİखत मŐ से कौन सा िवकʙ 'M > P' और 'U ≤ R' 
+को िनिʮत ŝप से सȑ बनाता है? 
+ 
+(a) > > > > > 
+(b) ≤≤≤≤≤ 
+ 
+(c) ≤ = = > > 
+(d) > > = < ≤ 
+ 
+(e) > > = ≤ = 
+ 
+15. A_B_C_D_E_F 
+ 
+Which of the following options makes 'A > D' 
+and 'C ≤ F' definitely true? 
+ 
+िनɻिलİखत मŐ से कौन सा िवकʙ 'A > D' और 'C ≤ F' 
+को िनिʮत ŝप से सȑ बनाता है? 
+ 
+(a) > < = ≤ = 
+(b) ≥ > = < ≤ 
+ 
+(c) > ≥ = ≤ ≥ 
+(d) > < = ≤ ≤ 
+ 
+(e) > > = ≤ ≤ 
+ 
+16. Statements: A ≥ B = C;   B < D > F; D ≤ E 
+ 
+Conclusions: 
+ 
+I. A = C 
+II. B = F 
+ 
+III. D = E 
+IV. B < E 
+ 
+V. F > E 
+ 
+(i)  How many conclusions are 100% true? 
+ 
+(a) Only II follows 
+ 
+(b) Only III follows. 
+ 
+(c) Only IV follows 
+ 
+(d) Only II and IV follow 
+ 
+(ii)  How many conclusions are there that are likely 
+to be true?  
+ 
+(a) Only I and II a I and II are true 
+ 
+(b) Only I, II and III are true 
+ 
+(c) Only III, IV and V are true 
+ 
+(d) Only IV and V are true 
+ 
+(iii) How many conclusions are 100% false? 
+ 
+(a) Only I does not follow 
+ 
+(b) Only III does not follow 
+ 
+(c) Only V does not follow 
+ 
+(d) Only III and IV do not follow 
+ 
+17.  Statement: P ≥ R = T ≤ S 
+ 
+Conclusions: 
+ 
+I. P > T 
+ 
+II. P = T 
+ 
+III. S ≥ R 
+ 
+(a) Only III follows 
+ 
+(b) Either I or II follows 
+ 
+(c) Only II follows 
+ 
+(d) Only either I or II and III follow 
+ 
+18.  Statements: R ≥ U = P; S ≥ T = M; P > Y < W 
+ 
+Conclusions:  
+ 
+I. U > Y 
+ 
+II. R > P 
+ 
+III. R = P 
+ 
+(a) Only I follows 
+ 
+(b) Only II follows 
+ 
+(c) Either II or III follows 
+ 
+(d) Only I and Either II or III follow 
+ 
+19.  Statements:  
+ 
+R ≥ U = P; S ≥ T = M; P > Y < W  
+ 
+Conclusions:  
+ 
+I. U < W  
+ 
+II. R < P  
+ 
+III. R = P  
+ 
+(a) Only I follows  
+ 
+(b) Only II follows  
+ 
+(c) Either II or III follows  
+ 
+(d) None follows 
+ 
+20.  Statements: R ≥ U = P; S ≥ T = M; P > Y < W  
+ 
+Conclusions:  
+ 
+I. S > M  
+ 
+II. M = S  
+ 
+(a) Only I follows  
+(b) Only II follows  
+ 
+(c) Either I or II follows  (d) None follows 
+ 
+21. Statements: R ≥ U = P; S ≥ T = M; P > Y < W  
+ 
+Conclusions:  
+ 
+I. M < S  
+ 
+II. M = S  
+ 
+(a) Only I follows  
+ 
+(b) Only II follows  
+ 
+(c) Either I or II follows  
+ 
+(d) None follows 
+ 
+22. Statements: R ≥ U = P; S ≥ T = M; P > Y < W  
+ 
+Conclusions:  
+ 
+I. P < R  
+II. R = P  
+ 
+III. R > Y  
+ 
+(a) Only I follows  
+ 
+(b) Only II follows  
+ 
+(c) Either I or II follows  
+ 
+(d) Only III follows.  
+ 
+(e) Only Either I or II and III follow. 
+ 
+Directions(23-25): There are given some statements 
+and three questions related to those are asked. 
+Answer if:  
+िनदőश(23-25): कुछ कथन िदए गए हœ और उनसे संबंिधत तीन 
+प्रʲ पूछे गए हœ। उȅर दŐ यिद: 
+ 
+Statements: A ≥ B = C; E ≤ F = G; C > Z < D  
+23.  Conclusions:  
+ 
+I. C > D  
+ 
+II. C ≤ D  
+ 
+(a) Only I follows.  
+ 
+(b) Only II follows.  
+ 
+(c) Either I or II follows  
+ 
+(d) None follows.  
+ 
+24. Conclusions:  
+ 
+I. C ≥ D  
+ 
+II. C < D  
+ 
+(a) Only I follows.  
+(b) Only II follows.  
+ 
+(c) Either I or II follows  (d) None follows.  
+ 
+25. Conclusions:  
+ 
+I. C > D  
+ 
+II. D ≥ C  
+ 
+(a) Only I follows.  
+ 
+(b) Only II follows.  
+ 
+(c) Either I or II follows. 
+ 
+(d) None follows. 
+ 
+Directions (26-28): There are given some statements 
+and three questions related to those are asked. 
+Answer if:  
+िनदőश (26-28): कुछ कथन िदए गए हœ और उनसे संबंिधत 
+तीन प्रʲ पूछे गए हœ। उȅर दŐ यिद: 
+ 
+Statements: A ≥ B = C; E ≤ F = G; C > Z < D  
+26. Conclusions:  
+ 
+I. C > D  
+ 
+II. D ≤ C  
+ 
+(a) Only I follows.  
+(b) Only II follows.  
+ 
+(c) Either I or II  
+(d) None follows.  
+ 
+27.  Conclusions:  
+ 
+I. C = D  
+ 
+II. C ≠ D  
+ 
+(a) Only I follows.  
+(b) Only II follows.  
+ 
+(c) Either I or II follows  (d) None follows. 
+  
+28. Conclusions:  
+ 
+I. C > D  
+ 
+II. C < D  
+ 
+(a) Only I follows.  
+(b) Only II follows.  
+ 
+(c) Either I or II follows  (d) None follows. 
+ 
+29. Statement: P ≥ R = T ≥ S  
+ 
+Conclusions:  
+ 
+I. P > T  
+II. P = R  
+ 
+III. R ≥ S  
+ 
+(a) Only I follows  
+ 
+(b) Only II follows  
+ 
+(c) Either I or II follows  
+ 
+(d) Only III follows.  
+ 
+(e) Either I or II and III follow. 
+30.  Statements: M = N ≥ P; P = R ≥ S; R > U  
+ 
+Conclusions:  
+ 
+(a) Only I follows  
+(b) All follow  
+ 
+(c) Only II follows 
+(d) None follows  
+ 
+(e) None of these 
+ 
+Directions (31 to 33): In the following questions the 
+symbols $, ©, @, # and % are used with the 
+following meanings: 
+िनदőश (31 से 33): िनɻिलİखत प्रʲों मŐ प्रतीकों $, ©, @, # 
+और % का प्रयोग िनɻिलİखत अथŘ मŐ िकया गया है: 
+ 
+A$B means A is not less than B. 
+ 
+A$B का अथŊ है A, B से छोटा नहीं है। 
+ 
+A©B means A is greater than B. 
+ 
+A©B का अथŊ है A, B से बड़ा है। 
+ 
+A@B means A is equal to B. 
+ 
+A@B का अथŊ है A, B के बराबर है। 
+ 
+A#B means A is not greater than B. 
+ 
+A#B का अथŊ है A, B से बड़ा नहीं है। 
+ 
+A%B means A is less than B. 
+ 
+A%B का अथŊ है A, B से छोटा है। 
+ 
+ 
+(a) Only I follows 
+ 
+(b) Only II follows 
+ 
+(c) Either I or II follows 
+ 
+(d) Neither I nor II follows 
+ 
+(e) Both I and II follow 
+ 
+31. Statements: M$N; N©T; T@U 
+ 
+Conclusions:  
+ 
+I. M©T  
+ 
+II. N@U 
+ 
+32. Statements: R%U©T ; U#P 
+ 
+Conclusions:  
+ 
+I. R©T  
+ 
+II. R%P 
+ 
+33. Statements: M©N; R%N 
+ 
+Conclusions:  
+ 
+I. M©R  
+ 
+II. M%R 
+Directions (34 to 35): In the following questions the 
+symbols ÷, +, –, × and $ are used with the following 
+meanings: 
+िनदőश (34 से 35): िनɻिलİखत प्रʲों मŐ प्रतीकों ÷, +, –, × और 
+$ का प्रयोग िनɻिलİखत अथŘ मŐ िकया गया है: 
+P ÷ Q means P is equal to Q. 
+P ÷ Q का अथŊ है P, Q के बराबर है। 
+P + Q means P is less than Q. 
+P + Q का अथŊ है P, Q से छोटा है। 
+P – Q means P is greater than Q. 
+P – Q का अथŊ है P, Q से बड़ा है। 
+P × Q means P is not less than Q. 
+P × Q का अथŊ है P, Q से छोटा नहीं है। 
+P $ Q means P is not greater than Q. 
+P $ Q का अथŊ है P, Q से बड़ा नहीं है। 
+34. Statements: M+N ; R×N ; R$U
+Conclusions:
+I. M + R
+II. U × N
+(a) Only I follows  
+(b) Only II follows 
+(c) Both I and II follow 
+(d) None follows 
+35. Statements: P × Q ÷ R; R × T
+Conclusions:
+I. P – T
+II. P ÷ T
+III. Q × T
+(a) Only II follows 
+(b) Either I or II follows 
+(c) Only either I or II and III follow 
+(d) Only I follows  
+(e) Only III follows 
+36. Statements: M – N + T; R × U ÷ N
+Conclusions:
+I. M – R
+II. M $ R
+III. R – N
+IV. R ÷ N
+(a) Only I follows 
+(b) Only IV follows 
+(c) Only either I or II follows 
+(d) Only either III or IV follows 
+(e) None of these 

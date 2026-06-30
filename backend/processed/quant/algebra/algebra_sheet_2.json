@@ -1,0 +1,62 @@
+[
+  {
+    "question_number": 1,
+    "question_en": "If 3x = 4y = 12z, then z is equal to? ;fn 3x = 4y = 12z gS] rks z fdlds cjkcj gS\\",
+    "question_hi": null,
+    "option_a": "xy",
+    "option_b": "x + y",
+    "option_c": "𝒙𝒚 𝒙+𝒚",
+    "option_d": "4x + 3",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Algebra",
+    "source_pdf": "Algebra Sheet-2.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 2,
+    "question_en": "If 2x = 3y = 18-z, then  which option is correct?",
+    "question_hi": ";fn 2x = 3y = 18-z gS] rks कौन सा विकल्प सही है \\",
+    "option_a": "𝒙+ 𝒚+ 𝒛=0",
+    "option_b": "𝒙+ 𝒚+ 𝒛=0",
+    "option_c": "𝒙+ 𝒚− 𝒛=0",
+    "option_d": "𝒙− 𝒚+ 𝒛=0",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Algebra",
+    "source_pdf": "Algebra Sheet-2.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 10,
+    "question_en": "If √𝟕𝟓 𝒙 = √𝟒𝟓 𝒚 = √𝟏𝟓 𝒛 , then which of the following statement is true? 𝒙 = √𝟒𝟓 𝒚 = √𝟏𝟓 𝒛",
+    "question_hi": "यदि √𝟕𝟓 है, तो दिम्नदिखित में से कौि सा कथि सत्य है?",
+    "option_a": "x + y = 2z",
+    "option_b": "x – y = 3z",
+    "option_c": "x + y = 3z",
+    "option_d": "2x + 3y = 4z Telegram Channel : https://t.me/mathsbygaganpratap",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Algebra",
+    "source_pdf": "Algebra Sheet-2.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 15,
+    "question_en": "Let a, b, x, y be real numbers such that a2 + b2 = 25, x2 + y2 = 169, and ax + by = 65. If k = ay – bx, then k = ay − bx, तो",
+    "question_hi": "a, b, x, y वास्तववक संख्या हो यदि a2 + b2 = 25, x2 + y2 = 169 और ax + by = 65. यदि",
+    "option_a": "k = 0",
+    "option_b": "0 < k <",
+    "option_c": "k >",
+    "option_d": "k =",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Algebra",
+    "source_pdf": "Algebra Sheet-2.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

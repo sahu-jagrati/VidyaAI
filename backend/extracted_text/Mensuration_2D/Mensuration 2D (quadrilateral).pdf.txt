@@ -1,0 +1,926 @@
+ 
+                                         BY Gagan Pratap 
+1. 
+ABCD is a quadilateral in which diagonal BD = 70 cm, AL ⊥ BD and CM ⊥ BD such 
+that AL = 18 cm and CM = 20. Find the area (in cm2) of the quadilateral ABCD. 
+ 
+ABCD एक चतुर्ुज है, जजसमें विकर्ु BD = 70 cm है, AL ⊥ BD और CM ⊥ BD इस प्रकार हैं वक AL 
+= 18 cm और CM = 20 है। चतुर्ुज ABCD का क्षेत्रफल (cm2 में) ज्ञात कीजजए। 
+ 
+(SSC CGL MAINS 2024) 
+ 
+[a] 1310 
+[b] 1300 
+ 
+[c] 1330 
+[d] 1320 
+2. 
+The area of quadrilateral is 336 m2 and the perpendiculars drawn to one 
+diagonal from the opposite vertices are 16 m and 12 m long. Find the length of 
+this diagonal 
+ 
+चतुर्ुज का क्षेत्रफल 336 m2 है और सम्मुख शीषों से एक विकर्ु पर खींचे गए लंब 16 m और 12 m 
+हैं। विकर्ु की लंबाई क्या है? 
+ 
+[a] 28 cm 
+[b] 26 cm 
+ 
+[c] 21 cm 
+[d] 24 cm 
+3. 
+Two sides of a plot measure 32m and 24m and the angle between them is a 
+perfect right angle. The other two sides measure 25 m each and the other three 
+angles are not right angles. What is the area of the plot? 
+ 
+वकसी प्लाट की दो र्ुजाएँ 32 m और 24 m  है और उनके मध्य समकोर् है। दो अन्य र्ुजाएँ में से 
+प्रत्येक की लंबाई 25m  है। और अन्य तीन कोर्, समकोर् नही है।तब प्लाट का क्षेत्रफल ज्ञात करे। 
+ 
+    
+ 
+[a] 768 m2    
+[b] 534m2    
+ 
+[c] 696.5m2     
+[d] 684m2 
+4. 
+In quadrilateral ABCD, AB = 17 cm, BC = 8 cm, CD = 9 cm, AD = 12 cm, and AC = 15 
+cm. What is the area (in cm2) of the quadrilateral? 
+ 
+चतुर्ुज ABCD में, AB = 17 cm, BC = 8 cm, CD = 9 cm, AD = 12 cm, और AC = 15 cm है। 
+चतुर्ुज का क्षेत्रफल (cm2 में) क्या है? 
+ 
+[a] 105 
+[b] 114 
+ 
+[c] 118 
+[d] 121 
+5. 
+A quadrilateral ABCD has a sides AB=5 units, BC = 12 units, CD=DA and ∠𝑨𝑩𝑪=
+∠𝑨𝑫𝑪= 𝟗𝟎°, What is the area of the quadrilateral (in sq units)? 
+ 
+एक चतुर्ुज ABCD की र्ुजाएँ AB=5 इकाई, BC = 12 इकाई, CD=DA और ∠ABC=∠ADC=90° 
+है, चतुर्ुज का क्षेत्रफल (िगु इकाई में) क्या है? 
+ 
+                                         BY Gagan Pratap 
+ 
+(SSC MTS 2024) 
+ 
+[a] 72.75 
+[b] 74.75 
+ 
+[c] 74.25 
+[d] 72.25 
+6. 
+The perimeter of a square is 336 m. Its area (in m2) is: 
+ 
+वकसी िगु का पररमाप 336 m है। इसका क्षेत्रफल (m2 में) ज्ञात कीजजए। 
+ 
+(RRB NTPC 12th LEVEL 2025)  
+ 
+[a] 7036 
+[b] 7056 
+ 
+[c] 7057 
+[d] 7052 
+7. 
+If the diagonal of a square is 18.4 cm, then the area of that square is? 
+ 
+यदद वकसी िगु का विकर्ु 18.4 सेमी है, तो उस िगु का क्षेत्रफल है?   
+ 
+(MTS 2022) 
+ 
+[a] 84.64 𝒄𝒎𝟐 
+[b] 338.56𝒄𝒎𝟐 
+ 
+[c] 324.42 𝒄𝒎𝟐 
+[d] 169.28 𝒄𝒎𝟐 
+ 
+8. 
+The area of a square field is 7200 m2. What is the length of its diagonal?  
+ 
+एक िगाुकार मैदान का क्षेत्रफल 7200m2  है। इसके विकर्ु की लंबाई क्या होगी?  
+ 
+[a] 60 m 
+[b] 1800 m  
+ 
+ 
+[c] 180 m 
+[d] 120 m 
+9. 
+The area of a square field is 4489 𝒎𝟐. Find the perimeter of the field (in cm)? 
+ 
+एक िगाुकार मैदान का क्षेत्रफल 4489 मी2 है। खेत का पररमाप (सेमी में) ज्ञात करें? 
+ 
+[a] 290 
+[b] 272 
+ 
+[c] 268 
+[d] 284 
+10. If the area of a square is 2401x4 + 196x2 + 4, then what is its side length? 
+ 
+यदद एक िगु का क्षेत्रफल 2401x4+196x2+4 है, तो उसकी लम्बाई वकतनी है? 
+ 
+[a] 49x2 + 3x + 2 
+[b] 49x2 – 3x + 2 
+ 
+ 
+[c] 49x2 + 2  
+[d] 59x2 + 2 
+11. 
+The area of a square field is 24200 square meters. At the rate of 6.6 km/h, how 
+much time will a lady take to cross the field diagonally? 
+ 
+एक िगाुकार मैदान का क्षेत्रफल 24200 िगु मीटर है. 6.6 वकमी/घंटा की गतत से, एक मरहला को 
+खेत को विकर्ु रूप से पार करने में वकतना समय लगेगा? 
+ 
+[a] 3 minutes 
+[b] 2 minutes 
+ 
+[c] 2.4 minutes 
+[d] None of the above 
+12. 
+A man walking at a speed of 3 km/h crosses a square field diagonally in 5 
+minutes. What is the area of the field (in m²)? 
+ 
+3 km/h की चाल से चलने िाला एक व्यक्ति, वकसी िगाुकार मैदान को विकर्ुतः 5 जमनट में पार 
+करता है। मैदान का क्षेत्रफल (m2 में) ज्ञात करें। 
+ 
+[a] 37500 
+[b] 31250 
+ 
+[c] 15625 
+[d] 25000 
+ 
+                                         BY Gagan Pratap 
+13. 
+The sides of a triangular park are 60 m, 297 m and 303 m. its area is equal to the 
+area of a square shaped garden. What is the perimeter (in m) of the garden? 
+ 
+एक तत्रकोर्ीय पाकु की र्ुजाएँ 60 मीटर, 297 मीटर और 303 मीटर हैं। इसका क्षेत्रफल एक 
+िगाुकार बगीचे के क्षेत्रफल के बराबर है। बगीचे की पररति (मीटर में) क्या है? 
+ 
+(SSC GD 2021) 
+ 
+[a] 36√𝟏𝟏𝟎 
+[b] 18√𝟏𝟏𝟎 
+ 
+[c] 9√𝟑𝟑𝟎 
+[d] 18√𝟑𝟑𝟎 
+14. A triangle has sides 25, 39, 34 units. If the area of a square exceeds the area of 
+this triangle by 21 units, then the side of the square is: 
+ 
+एक तत्रर्ुज की र्ुजाएँ 25, 39, 34 इकाई हैं। अगर िगु का क्षेत्रफल इस तत्रर्ुज के क्षेत्रफल से 21 
+इकाई अतिक है तो िगु की र्ुजा क्या है? 
+ 
+(SSC CGL 2021 PRE ) 
+ 
+[a] 22 units / इकाई 
+[b] 21 units / इकाई 
+ 
+[c] 18 units / इकाई 
+[d] 25 units / इकाई  
+15. ABCD is a square, E is a point on AB such that BE=17 cm. The area of triangle ADE 
+is 84cm2. What is the area of square? 
+ 
+एक िगु ABCD  है। वबिंदु E, र्ुजा AB पर इस प्रकार स्थित है वक BE=17cm. तत्रर्ुज ADE का क्षेत्रफल 
+84cm2 है। तब िगु का क्षेत्रफल होगा- 
+ 
+ 
+ 
+[a] 400 cm2 
+[b] 625 cm2    
+ 
+[c] 729 cm2  
+[d] 576 cm2  
+16. The diagonal of the square is 8√𝟐 cm. Find the diagonal of another square 
+whose area is triple that of the first square. 
+ 
+िगु का विकर्ु 8√𝟐 सेमी है। एक दूसरे ऐसे िगु का विकर्ु ज्ञात कीजजए जजसका क्षेत्रफल पहले िगु 
+के क्षेत्रफल का ततगुना है। 
+ 
+(SSC CGL 2022) 
+ 
+[a] 𝟖√𝟓 𝒄𝒎 
+[b] 𝟖√𝟑 𝒄𝒎 
+ 
+[c] 𝟖√𝟐 𝒄𝒎 
+[d] 𝟖√𝟔 𝒄𝒎  
+ 
+ 
+ 
+ 
+ 
+17. 
+The base of triangle is equal to the perimeter of a square whose diagonal is 7√𝟐 
+cm and its height is equal to the side of a square whose area is 169 cm². The 
+area (in cm²) of the triangle is: 
+ 
+                                         BY Gagan Pratap 
+ 
+एक तत्रर्ुज का आिार एक ऐसे िगु के पररमाप के बराबर है जजसका विकर्ु 7√𝟐 cm है और इसकी 
+ऊंचाई एक ऐसे िगु की र्ुजा के बराबर है जजसका क्षेत्रफल 169 cm2 है। इस तत्रर्ुज का क्षेत्रफल 
+(cm2 में) ज्ञात कीजजए। 
+ 
+[a] 182 
+[b] 175 
+ 
+[c] 156 
+[d] 130 
+18. 
+What is the area of the square (in cm²) whose vertices lie on a circle of radius 5 cm? 
+ 
+उस िगु का क्षेत्रफल (cm2 में) ज्ञात करें, जजसके शीषु 5 सेमी. की तत्रज्या िाले िृत्त पर स्थित हैं। 
+ 
+[a] 100 
+[b] 80 
+ 
+[c] 50 
+[d] 75 
+19. 
+The area (in cm²) of biggest circle that could be drawn in a square of side 18 cm is: 
+ 
+18 m र्ुजा िाले वकसी िगु में खींचे जा सकने िाले सबसे बडे िृत्त का क्षेत्रफल (cm2 में) होगा- 
+ 
+SSC CHSL TIER – I 2022 
+ 
+[a] 91 π 
+[b] 81 π 
+ 
+[c] 49 π 
+[d] 168 π 
+ 
+20. Let the area of the largest possible square inscribed in a circle of unit radius be 
+x. Let the area of the largest possible circle inscribed in a square of unit side 
+length be y. What is the relation between x and y? 
+ 
+इकाई तत्रज्या िाले िृत्त में अंवकत सबसे बडे संर्ि िगु का क्षेत्रफल x हो। इकाई र्ुजा िाले िगु में 
+अंवकत सबसे बडे संर्ि िृत्त का क्षेत्रफल y हो। x और y के बीच क्या संबंि है? 
+ 
+(UPSC CDS -II 2025) 
+ 
+[a] πx = 2y 
+[b] 2πx = y 
+ 
+[c] πx = 4y 
+[d] πx = 8y 
+21. 
+Find area of the shaded region? If side of the square ABCD is 10. 
+ 
+छायांवकत क्षेत्र का क्षेत्रफल ज्ञात कीजजए? यदद िगु ABCD की र्ुजा 10 है। 
+ 
+ 
+[a] 100 
+[b] 50     
+ 
+ 
+[c] 75 
+[d] 120 
+22. Length and breadth of rectangular field are in the ratio 5: 2. If the perimeter of 
+the field is 238 m. Find the length of the field. 
+ 
+                                         BY Gagan Pratap 
+ 
+वकसी आयताकार मैदान की लंबाई और चौडाई के मध्य 5 : 2 का अनुपात है। यंदद उस मैदान का 
+पररमाप 238 m है, तो मैदान की लंबाई ज्ञात कीजजए। 
+ 
+[a] 85 m 
+[b] 83 m 
+ 
+ 
+ 
+[c] 82 m 
+[d] 84 m 
+23. A field is 150 m long and 80 wide. How many times (rounded off to 1 decimal 
+place) is its perimeter to the length of its diagonal? 
+ 
+एक मैदान 150m लंबा और 80 m चौडा है। इसका पररमाप इसके विकर्ु की लंबाई का वकतना 
+गुना (1 दशमलि िान तक पूर्ाुवकत) है? 
+ 
+[a] 2.3 
+[b] 2.5 
+ 
+[c] 2.7 
+[d] 3.1 
+24. The ratio of the length and the perimeter of a rectangle is 2:7. What is the ratio 
+of the length and breadth of the rectangle? 
+ 
+एक आयत की लंबाई और पररमाप का अनुपात 2:7 है। आयत की लंबाई और चौडाई का अनुपात क्या है?  
+ 
+SSC GD 2023 
+ 
+[a] 4 : 3 
+[b] 4 : 5 
+ 
+ 
+ 
+ 
+[c] 5 : 4 
+[d] 5 : 3 
+25. The ratio of length and breadth of a rectangle is 21 : 20 and its perimeter is 164 
+cm. What is the length of its diagonal (in cm)? 
+ 
+एक आयत की लंबाई और चौडाई का अनुपात 21 : 20 है और इसका पररमाप 164 cm है। इसके 
+विकर्ु की लंबाई (cm में) ज्ञात करें। 
+ 
+[a] 58 
+[b] 57 
+ 
+[c] 56 
+[d] 55 
+26. Half of the perimeter of a rectangle is 30 cm. If the length of the rectangle is 6 
+cm more than its breadth, then what is the area of the rectangle? 
+ 
+एक आयत के पररमाप का आिा र्ाग 30 cm है। यदद आयत की लंबाई इसकी चौडाई से 6 cm 
+अतिक है, तो आयत का क्षेत्रफल क्या है? 
+ 
+SSC CHSL TIER – I 2022 
+ 
+[a] 216 cm² 
+[b] 250 cm² 
+ 
+[c] 185 cm² 
+[d] 195 cm² 
+27. What is the area (in cm2) of a rectangle if its diagonal is 39cm and one of its side 
+is 15cm? 
+ 
+एक आयत का क्षेत्रफल (सेमी2 में) क्या है यदद इसका विकर्ु 39 सेमी है और इसकी  एक र्ुजा  15 
+सेमी है? 
+ 
+[a] 480 cm2 
+[b] 540 cm2         
+ 
+[c] 720 cm2   
+[d] 585 cm2 
+28. The width of a rectangle is 260 cm and its diagonal is 676 cm. describe its 
+perimeter (in cm)? 
+ 
+                                         BY Gagan Pratap 
+ 
+एक आयत की चौडाई 260 सेमी है और इसका विकर्ु 676 सेमी है। इसकी पररति (सेमी में) का िर्ुन करें?  
+ 
+(RPF CONSTABLE 2019) 
+ 
+[a] 1668 
+[b] 1768 
+ 
+ 
+ 
+[c] 1568 
+[d] 1468 
+29. The perimeter of a rectangles is 80 cm and its area is 375 sq.cm. What is the 
+difference between the length and the breadth of the rectangle? 
+ 
+एक आयत का पररमाप 80 सेमी है और इसका क्षेत्रफल 375 िगु सेमी है तो आयत की लंबाई और 
+चौडाई मे क्या अंतर है? 
+ 
+[a] 12 cm 
+[b] 20 cm 
+ 
+ 
+ 
+[c] 10 cm 
+[d] 16 cm 
+30. The perimeter and area of a rectangular sheet are 94 m and 420 m² 
+respectively. The length of the diagonal will be : 
+ 
+वकसी आयताकार शीट का पररमाप और क्षेत्रफल क्रमशः 94 m और 420 m2 है। विकर्ु की लंबाई 
+ज्ञात करें। 
+ 
+[a] 32 m 
+[b] 36 m 
+ 
+ 
+[c] 35 m 
+[d] 37 m 
+31. 
+The perimeter of a rectangle is 206 cm and its area is 2640 cm2, then find the 
+diagonal. 
+ 
+एक आयत का पररमाप 206 सेमी हैं तथा उसका क्षेत्रफल 2640 सेमी2 हैं, तो विकर्ु ज्ञात करें। 
+ 
+[a] 79 
+[b] 67 
+ 
+[c] 73 
+[d] 83 
+32. The diagonal of a rectangle is 53 cm and its area is 1260 cm2. What is the 
+perimeter (in cm) of the rectangle? 
+ 
+एक आयत का विकर्ु 53 सेमी है और इसका क्षेत्रफल 1260 सेमी2 है। आयत का पररमाप (सेमी में) 
+क्या है? 
+ 
+[RRB NTPC CBT – 2   2022] 
+ 
+[a] 144 
+[b] 152 
+ 
+[c] 148 
+[d] 146 
+33. The diagonal of a rectangle is 17 cm long and its perimeter is 46 cm. The area of 
+the rectangle is: 
+ 
+एक आयत का विकर्ु 17 cm लंबा है और इसका पररमाप 46 cm है। आयत का क्षेत्रफल वकतना है? 
+ 
+[a] 120 cm² 
+[b] 125 cm² 
+ 
+[c] 115 cm²  
+[d] 130 cm² 
+34. If the diagonal of a rectangle is 16 cm long and its perimeter is 48 cm long, find 
+the area of the rectangle. 
+ 
+यदद वकसी आयत का विकर्ु 16 सेमी लंबा है और उसका पररमाप 48 सेमी लंबा है, तो आयत का 
+क्षेत्रफल ज्ञात करें। 
+ 
+                                         BY Gagan Pratap 
+ 
+(SSC MTS 2024) 
+ 
+[a] 148 cm2 
+[b] 120 cm2  
+ 
+[c] 160 cm2  
+[d] 140 cm2 
+35. Dipesh takes 50sec to cross a rectangular field diagonally, walking at a rate of 
+90 m/min. Kalpana crosses the same field in 45sec, walking along its sides at a 
+rate of 124m/min. What is the area of the field? (in square meter) 
+ 
+दीपेश को 90 मीटर/जमनट की चाल से चलने पर, एक आयताकार मैदान को ततरछे (विकर्ुित) 
+पार करने में 50 सेकंड लगते हैं। कल्पना 124 मीटर/जमनट की चाल से चलते हुए 45 सेकंड में उसी 
+क्षेत्र को र्ुजाओं से होते हुए पार करती है। आयताकार मैदान का क्षेत्रफल क्या है? (िगु मीटर में) 
+ 
+(SSC MTS 2024) 
+ 
+[a] 1584 
+[b] 1560 
+ 
+[c] 1350  
+[d] 1512 
+36. The area of a rectangle is 1287 cm2 and its length and breadth are in the ratio of 
+13 : 11 respectively. Find its perimeter.  
+ 
+एक आयत का क्षेत्रफल 1287 cm2 है और इसकी लंबाई और चौडाई क्रमशः 13 : 11 के अनुपात में है। 
+इसका पररमाप ज्ञात कीजजए। 
+ 
+[RRB NTPC - 2021] 
+ 
+[a] 144 cm 
+[b] 142 cm  
+ 
+[c] 140 cm 
+[d] 138 cm 
+37. The area of a rectangular field is 480 m2. If the length is 20% more than the 
+breadth, then the length of the rectangular field is: 
+ 
+एक आयताकार मैदान का क्षेत्रफल 480 m2 है। यदद इसकी लंबाई, चौडाई से 20% अतिक हो, तो 
+आयताकार मैदान की लंबाई ज्ञात कीजजए ।  
+ 
+[a] 24 m 
+[b] 20 m  
+ 
+ 
+[c] 27 m 
+[d] 30 m 
+38. The length of a rectangular plot is three times its breadth. If the area of the 
+rectangular plot is 2700 m2, then what is the breadth of the rectangular plot? 
+ 
+एक आयताकार र्ूखंड की लम्बाई उसकी चौडाई की तीन गुनी है। यदद आयताकार र्ूखंड का 
+क्षेत्रफल 2700 m2 है, तो आयताकार र्ूखंड की चौडाई वकतनी है? 
+ 
+SSC CHSL MAINS 2022 
+ 
+[a] 12 m 
+[b] 28 m 
+ 
+[c] 30m 
+[d] 20m 
+39. The ratio of the length and breadth of a rectangle is 5 : 6 and its area is 6,750 
+cm2 Find the ratio of the length to the area of the rectangle. 
+ 
+वकसी आयत की लंबाई तथा चौडाई का अनुपात 5 : 6 है तथा इसका क्षेत्रफल 6,750 cm2 है। आयत 
+की लंबाई तथा क्षेत्रफल का अनुपात ज्ञात करें। 
+ 
+UP Constable 27/01/2019  (1st Shift) 
+ 
+                                         BY Gagan Pratap 
+ 
+[a] 1 : 80 
+[b] 1 : 84    
+ 
+[c] 1 : 100    
+[d] 1 : 90 
+40. The length and breadth of a rectangle are in the ratio 3: 2. If its perimeter is 730 
+cm, what is the area of the rectangle?  
+ 
+एक आयत की लंबाई और चौडाई का अनुपात 3 : 2 है। यदद इसका पररमाप 730 cm है, तो आयत का 
+क्षेत्रफल ज्ञात करें। 
+ 
+(SSC CGL MAINS 2024) 
+ 
+[a] 31,974 cm2 
+[b] 24,452 cm2 
+ 
+ 
+ 
+[c] 20,567 cm2 
+[d] 28,976 cm2  
+41. The perimeter and length of a rectangle are in the ratio of 8: 1, and the area of 
+the rectangle is 1323 cm2. Find the length of the rectangle.  
+ 
+एक आयत की पररमाप और लंबाई का अनुपात 8: 1 है और इसका क्षेत्रफल 1323 cm2 है। इसकी 
+लंबाई ज्ञात करें। 
+ 
+(SSC CGL MAINS 2024) 
+ 
+[a] 22 cm 
+[b] 23 cm 
+ 
+ 
+ 
+[c] 25 cm 
+[d] 21 cm 
+42. To make two triangles, a rectangular paper cuts along one of the diagonals. If 
+every diagonal of the rectangle is 8√13 cm and length is 1.5 times compared to 
+the width, what is the area of the rectangle? 
+ 
+दो तत्रर्ुज बनाने के जलए एक आयताकार कागज को ततरछा काटा जाता है.यदद आयत का प्रत्येक 
+विकर्ु 8√13 सेमी है .और चौडाई की तुलना में लम्बाई 1.5 गुनी है तो आयत का  क्षेत्रफल क्या है ? 
+ 
+[a] 324 
+[b] 384               
+ 
+[c] 352 
+[d] 480 
+43. The length and the breadth of a rectangular field are in the ratio 3 : 2. If the area 
+of the field is 3456 m2, then what is the cost of fencing the field at the rate of 
+Rs.3.50 per m? 
+ 
+एक आयताकार खेत की लंबाई और चौडाई का अनुपात 3:2 है। यदद खेत का क्षेत्रफल 3456 m2 है, 
+तो Rs.3.50 प्रतत मीटर की दर से खेत में बाड लगाने की लागत क्या होगी? 
+ 
+[a] Rs. 240 
+[b] Rs. 840 
+ 
+[c] Rs. 480 
+[d] Rs. 420 
+44. The cost of tilling the floor of a rectangular room is `9100 at `65 per m². The ratio 
+of the length and breadth of the floor is 7 : 5. The perimeter (in m) of the floor of 
+the room is: 
+ 
+₹65 प्रतत m2 की दर से, वकसी आयताकार कमरे की फशु पर टाइल्स लगाने की लागत ₹9,100 है। 
+कमरे की लंबाई और चौडाई का अनुपात 7 : 5 है। कमरे के फशु का पररमाप (m में) ज्ञात करें। 
+ 
+[a] 48 
+[b] 24 
+ 
+[c] 36 
+[d] 28.8 
+ 
+                                         BY Gagan Pratap 
+45. A boy walked along two adjacent sides of a rectangular field. If he had walked 
+along the diagonal, then he would have saved a distance equal to one-fourth of 
+the larger side. The ratio of the larger to the smaller side is: 
+ 
+एक लडका एक आयताकार मैदान की दो सन्निकट र्ुजाओं के समानांतर टहलता है। यदद िह 
+विकर्ु के समानांतर टहला होता, तो उसे उस मैदान की बडी र्ुजा की एक-चौथाई दूरी के बराबर दूरी 
+कम तय करनी पडती। बडी िाली र्ुजा का, छोटी िाली र्ुजा से अनुपात ज्ञात कीजजए। 
+ 
+[a] 7 : 24 
+[b] 11 : 18 
+ 
+[c] 24 : 7 
+[d] 18 : 11 
+46. A rectangle has an area of 𝟏𝟓𝟎 𝒄𝒎𝟐, and its sides are in the ratio 𝟐: 𝟑. A triangle is 
+formed using: one side equal to the smaller side of the rectangle, one side equal 
+to the square root of the area, and one side equal to half of the larger side of the 
+rectangle. What is the perimeter of the triangle? 
+ 
+एक आयत का एररया 150 सेंटीमीटर  𝟐 है, और इसकी र्ुजाओं का अनुपात 𝟐: 𝟑 है। एक तत्रर्ुज इस 
+तरह बनाया जाता है: एक र्ुजा आयत की छोटी र्ुजा के बराबर, एक र्ुजा क्षेत्रफल के िगुमूल के 
+बराबर, और एक र्ुजा आयत की बडी र्ुजा के आिे के बराबर। तत्रर्ुज का पररमाप क्या है? 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+[a] 𝟏𝟕. 𝟓+ 𝟓√𝟔 𝒄𝒎 
+[b] 𝟒. 𝟓+ 𝟓√𝟕 𝒄𝒎 
+ 
+[c] 𝟓+ √𝟗 𝒄𝒎 
+[d] 𝟐𝟎+ 𝟓√𝟔 𝒄𝒎 
+47. The area of a triangular field whose sides are 65 m, 72 m, and 97 m is equal to 
+the area of a rectangular park whose sides are in the ratio of 5 : 13. What is the 
+perimeter (in m) of the rectangular park? 
+ 
+65m, 72m, और 97m र्ुजा िाले तत्रर्ुजाकार मैदान का क्षेत्रफल, उस आयताकार पाकु के 
+क्षेत्रफल के बराबर है, जजसकी र्ुजाओं का अनुपात 5 : 13 है। आयताकार पाकु का पररमाप (मीटर 
+में) ज्ञात करें। 
+ 
+[a] 108 
+[b] 180 
+ 
+[c] 216 
+[d] 144 
+48. The area of a triangular field whose sides are 96 m, 110 m, and 146 m is equal to 
+the area of a rectangular park whose sides are in the ratio 3 : 2. What is the 
+perimeter (in m) of the rectangular park? 
+ 
+एक तत्रर्ुजाकार खेत का क्षेत्रफल, जजसकी र्ुजाएँ 96 मीटर, 110 मीटर और 146 मीटर हैं, एक 
+आयताकार पाकु के क्षेत्रफल के बराबर है, जजसकी र्ुजाओं का अनुपात 3 : 2 है। आयताकार पाकु 
+का पररमाप (मीटर में) क्या है? 
+ 
+[a] 80 √𝟓 
+[b] 40 √𝟓𝟓  
+ 
+[c] 20 √𝟓𝟓 
+[d] 40 √𝟏𝟏 
+49. The area of a square is 1156 cm². What is the respective ratio between the length 
+and the breadth of a rectangle whose length is twice the side of the square and 
+whose breadth is 14 cm less than the side of the square? 
+ 
+                                         BY Gagan Pratap 
+ 
+एक िगु का क्षेत्रफल 1156 cm2 है। उस आयत की लंबाई और चौडाई के बीच क्रमशः अनुपात क्या है 
+जजसकी लंबाई िगु की र्ुजा से दोगुनी है और जजसकी चौडाई िगु की र्ुजा से 14 सेमी. कम है? 
+ 
+SSC CHSL TIER – I 2022 
+ 
+[a] 16 : 7 
+[b] 19 : 5 
+ 
+[c] 17 : 5 
+[d] 21 : 19 
+50. The perimeter of a rectangle is equal to the perimeter of a square. If the length 
+and the breadth of the rectangle are 10 cm and 8 cm, respectively, then what 
+will be the area of the square? 
+ 
+एक आयत का पररमाप, एक िगु के पररमाप के बराबर है। यदद आयत की लंबाई 10 cm और चौडाई 
+8 cm है, तो िगु का क्षेत्रफल क्या होगा? 
+ 
+[a] 72 cm² 
+[b] 98 cm² 
+ 
+[c] 81 cm² 
+[d] 64 cm² 
+51. The length of a rectangle is 4m more than side of a square and the breadth of 
+the rectangle is 4 m less than the side of the same square. If the area of this 
+square is 567 sq.m, what is the area of the rectangle? 
+ 
+वकसी आयत की लंबाई एक िगु के र्ुजा से 4m अतिक है और चौडाई िगु की र्ुजा से 4m कम है। 
+यदद  िगु का क्षेत्रफल 567 sq. m है।तब आयत का क्षेत्रफल क्या होगा? 
+ 
+[a] 549 
+[b] 545           
+ 
+[c] 557 
+[d] 551 
+52. The perimeter of a rectangle and a square are 160 m each. The area of the 
+rectangle is less than that of the square by 100 m2The length of the rectangle is 
+_________. 
+ 
+एक आयत और एक िगु में से प्रत्येक का पररमाप 160 m है। आयत का क्षेत्रफल, िगु के क्षेत्रफल से 
+100 m2 कम है। आयत की लंबाई _________ है। 
+ 
+[a] 60 m 
+[b] 65 m 
+ 
+[c] 55 m 
+[d] 50 m 
+53. The area of a rectangle increases by 7 m2 if its length is increased by 6 m and 
+breadth is decreased by 5 m. If the length is decreased by 6 m and breadth is 
+increased by 7 m, then its area increases by 31 m2. What is the perimeter of the 
+original rectangle (in m)? 
+ 
+यदद एक आयत की लंबाई 6 m बढा दी जाए और चौडाई 5 m घटा दी जाए, तो इसका क्षेत्रफल 7 
+m2 बढ जाता है। यदद लंबाई 6 m घटा दी जाए और चौडाई 7 m बढा दी जाए, तो इसका क्षेत्रफल 31 
+m2 जाता है। मूल आयत का पररमाप (m में) वकतना है? 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[a] 217 
+[b] 215 
+ 
+[c] 216 
+[d] 214 
+ 
+                                         BY Gagan Pratap 
+54. If length of a rectangle is decreased by 6 cm, we get a square and the area of 
+the square so formed is 252 square cm less than the area of the square formed, 
+when breadth of the original rectangle is increased by 6 cm. find the perimeter 
+of the rectangle? 
+ 
+यदद एक आयत की लंबाई में 6 सेमी की कमी की जाती है, तो हमें एक िगु जमलता है और इस प्रकार 
+बने िगु का क्षेत्रफल उस िगु के क्षेत्रफल से 252 िगु सेमी कम होता है, जब मूल आयत की चौडाई में 
+6 सेमी की िृद्धि की जाती है। आयत का पररमाप ज्ञात कीजजए? 
+ 
+[a] 42 cm                           [b] 
+88 cm 
+ 
+[c] 80 cm                           [d] 
+84 cm 
+55. The area of the square formed on the diagonal of a rectangle as its side is 108
+𝟏
+𝟑% 
+more than the area of the rectangle. If the perimeter of the rectangle is 28 units, 
+find the difference between the sides of the rectangle? 
+ 
+एक आयत के विकर्ु को र्ुजा मानते हुए उस पर बने िगु का क्षेत्रफल आयत के क्षेत्रफल से 108
+𝟏
+𝟑% 
+अतिक है। यदद आयत का पररमाप 28 इकाई है, तो आयत की र्ुजाओं के बीच का अंतर ज्ञात 
+कीजजए? (RRB TECHNICIAN GRADE-3  2024) 
+ 
+[a] 4 
+[b] 6 
+ 
+[c] 2 
+[d] 8 
+56. A rectangular tile having a perimeter of 224 cm has been used to pave a floor of 
+length and breadth 25.6 m and 14.4 m, respectively. If the ratio of length to 
+breadth of each tile is 4 : 3, then find the number of tiles required to pave the 
+floor completely. 
+ 
+224 सेमी पररमाप िाली एक आयताकार टाइल का उपयोग क्रमशः 25.6 मीटर लंबाई और 14.4 
+मीटर चौडाई िाले फशु को बनाने के जलए वकया गया है। यदद प्रत्येक टाइल की लंबाई और चौडाई का 
+अनुपात 4 : 3 है, तो फशु को पूरी तरह से बनाने के जलए आिश्यक टाइलों की संख्या ज्ञात कीजजए। 
+ 
+SSC CHSL PRE 2025 
+ 
+[a] 1800 
+[b] 1500 
+[c] 1600 
+[d] 1200 
+57. A rectangular park which is 105 m long and 75 m wide has a grassy walking 
+path 2.5 m wide all around it on the inside. Find the cost of trimming the grass 
+path at ₹18 per sq. m. 
+ 
+एक आयताकार पाकु जो 105 m लंबा और 75 m चौडा है, इसके चारों ओर अंदर की तरफ 2.5 m 
+चौडा, घास से बना पैदल रास्ता है। ₹18 प्रतत िगु मीटर की दर से इस घास पथ को रिम करने की 
+लागत ज्ञात कीजजए। 
+ 
+[a] ₹7,875 
+ 
+[b] 
+₹18,250 
+[c]  ₹7,000 
+ 
+[d] 
+₹15,750 
+ 
+                                         BY Gagan Pratap 
+58. A rectangular lawn 60×40 m2 has two roads each 5m wide running between the 
+park. One is parallel to width. Cost of gravelling is 60 paise /m2. Find the total 
+cost of gravelling. 
+ 
+एक आयताकार पाकु जजसकी माप 60×40 m2 है ।पाकु के मध्य से 5m चौडाई के दो रास्ते जाते है। 
+जो पाकु की लंबाई और चौडाई के समान्तर है। 60 paise /m2 की दर से पत्थर वबछाने पर कुल 
+लागत क्या होगी। 
+ 
+[a] Rs. 285 
+[b] Rs. 300      
+ 
+[c] Rs. 275 
+[d] Rs. 270 
+59. A rectangular plot, 55m long and 45m broad, has two concrete crossroads (of 
+equal width) running in the middle of it one parallel to the length and the other 
+parallel to the breadth. The rest of the plot is used as a lawn. If the area of the 
+lawn is 1911m2, what is the width of each of the crossroads (in m)? 
+ 
+एक आयातकार पाकु की माप 55m×45m है। पाकु के बीच से होकर दो रास्ते जाते है जो पाकु की 
+लंबाई और चौडाई के समान्तर है। रास्ते के अलािा शेष र्ाग में लॉन है।यदद लॉन का क्षेत्रफल 1911 
+m2 है।तब रास्ते की चौडाई क्या होगी? 
+ 
+[a] 5 
+[b] 5.5           
+ 
+[c] 6 
+[d] 4 
+60. A rectangular ground 90m long and 42 m wide has two cross roads in its centre. 
+The road parallel to the length is 7 m wide and the other road is 3 m wide, both 
+roads are perpendicular to each other. The cost of laying the bricks at the rate 
+of Rs.25 per m , on the roads, will be: 
+ 
+90 मीटर लंबे और 42 मीटर चौडे एक आयताकार मैदान के केंद्र में दो चौराहे हैं। लंबाई के समानांतर 
+सडक 7 मीटर चौडी है और दूसरी सडक 3 मीटर चौडी है, दोनों सडकें एक दूसरे के लंबित हैं। सडकों 
+पर 25 रुपये प्रतत मीटर की दर से ईंटें वबछाने की लागत होगी: 
+ 
+(SSC GD 2022) 
+ 
+[a] Rs.18375 
+[b] Rs.18575 
+ 
+[c] Rs.16375 
+[d] Rs.18308 
+61. A farmer's land is in the shape of a trapezium which has its parallel sides 
+measuring 6.32 yards and 7.68 yards and the distance between the parallel 
+sides is 5.50 yards. The cost of ploughing the land is Rs. 1200 per square yard. 
+What amount have to be spent in order to plough the entire land? 
+ 
+एक वकसान की र्ूजम एक समलंब के आकार की है जजस की समानांतर र्ुजाएँ 6.32 गज (yards) 
+और 7.68 गज हैं और समानांतर र्ुजाओं के बीच की दूरी  5.50 गज है। र्ूजम की जुताई की लागत 
+Rs. 1200 प्रतत िगु गज है। पूरी र्ूजम को जोतने के जलए वकतनी राजश खचु करनी होगी ? 
+ 
+(MTS 2022) 
+ 
+[a] Rs.36600 
+[b] Rs.46200 
+ 
+ 
+ 
+[c] Rs.32500 
+[d] Rs.55400 
+ 
+                                         BY Gagan Pratap 
+62. Parallel sides of a trapezium are 21 cm and 14 cm and its area is 875 cm². What 
+is the distance between parallel sides? 
+ 
+एक समलंबी की समांतर र्ुजाएँ 21 cm और 14 cm है और इसका क्षेत्रफल 875 cm2 है। समांतर 
+र्ुजाओं के बीच की दूरी वकतनी है? 
+ 
+[SSC CHSL TIER – I 2022] 
+ 
+[a] 45 cm 
+[b] 50 cm 
+ 
+[c] 60 cm 
+[d] 65 cm 
+63. The area of a trapezoidal field is 1,785 ft². The distance between its two parallel 
+sides is 35 ft, and the length of one of the parallel sides is 42 ft. What is the 
+length of the other parallel side? 
+ 
+एक समलंब के आकार के मैदान का क्षेत्रफल 1,785 ft2 है। इसकी दो समानांतर र्ुजाओं के बीच की 
+दूरी 35ft है और समानांतर र्ुजाओं में से एक की लंबाई 42ft है। दूसरी समानांतर र्ुजा की लंबाई 
+वकतनी है? 
+ 
+[a] 40 feet 
+[b] 60 feet 
+ 
+[c] 35 feet 
+[d] 65 feet 
+64. Area of a field in the shape of a trapezium is 1440cm2. The perpendicular 
+distance between its parallel sides is 24cm and the ratio of parallel sides is 5:3. 
+Then find the longer parallel sides? 
+ 
+समलम्ब चतुर्ुज आकृतत के एक मैदान का क्षेत्रफल 1440cm2 है।समान्तर र्ुजाओ के  बीच की 
+लम्बित दूरी 24cm है और समान्तर र्ुजाओ का अनुपात 5:3 है।तब  समान्तर र्ुजाओ में से बडी 
+र्ुजा का मान ज्ञात करे। 
+ 
+[a] 65 
+[b] 70 
+ 
+[c] 75 
+[d] 80 
+65. The difference between the lengths of two parallel sides of a trapezium is 12 cm. 
+The perpendicular distance between these two parallel sides is 60 cm. If the 
+area of the trapezium is 1380 𝒄𝒎𝟐, then find the length (in cm) of each parallel 
+side? 
+ 
+एक समलम्ब की दो समान्तर र्ुजाओं की लम्बाई के वबच का अंतर 12 cm है।  इन दोनों समान्तर 
+र्ुजाओं के वबच की लंबित दूरी 60 cm है।  यदद समलम्ब का क्षेत्रफल 1380 𝒄𝒎𝟐 है, तो प्रत्येक 
+समान्तर र्ुजा की लम्बाई (cm में) ज्ञात कीजजये? 
+ 
+[a] 31, 19 
+[b] 24, 12 
+ 
+[c] 27, 15 
+[d] 29, 17 
+66. The diagonal of a rhombus are 10 cm and 30 cm respectively. What is the area 
+of the rhombus? 
+ 
+एक समचतुर्ुज के विकर्ु क्रमशः 10 सेमी और 30 सेमी हैं। समचतुर्ुज का क्षेत्रफल वकतना है? 
+ 
+SSC GD TIER I 2024 
+[a] 75 𝒄𝒎𝟐 
+[b] 100 𝒄𝒎𝟐 
+ 
+                                         BY Gagan Pratap 
+[c] 105 𝒄𝒎𝟐 
+[d] 150 𝒄𝒎𝟐 
+67. The lengths of the diagonals of a rhombus shaped field are 32m and 126m. Find 
+the perimeter (in m) of the field.  
+एक समचतुर्ुजाकार मैदान के विकर्ों की लंबाइयाँ 32m और 126m है। मैदान का पररमाप (m में ) जात 
+कीजजए। 
+ 
+[RRB Group D-2022] 
+[A] 296 
+[B] 260  
+[C] 288 
+[D] 300 
+68. Length of each side of a rhombus is 25 cm and one of the diagonals is 48 cm . 
+What is the area of the rhombus? 
+ 
+एक समचतुर्ुज की हर र्ुजा की लंबाई 25 सेंटीमीटर है और एक विकर्ु 48 सेंटीमीटर है। 
+समचतुर्ुज का क्षेत्रफल क्या है? 
+ 
+(DELHI POLICE CONSTABLE Executive 2025) 
+ 
+[a] 𝟑𝟑𝟏 𝒄𝒎𝟐 
+[b] 𝟑𝟑𝟎 𝒄𝒎𝟐 
+[c]  𝟑𝟑𝟑 𝒄𝒎𝟐 
+[d] 𝟑𝟑𝟔 𝒄𝒎𝟐 
+69. The perimeter of a rhombus is 146 cm and one of its diagonals is 55 cm. Find the 
+area of the rhombus?  
+एक समचतुर्ुज का पररमाप 146 cm है और इसका एक विकर्ु 55 cm है। समचतुर्ुज का क्षेत्रफल 
+ज्ञात कीजजए? 
+[A] 1325 cm2 
+[B] 1320 cm2 
+[C] 2460 cm2 
+[D] 2640 cm2 

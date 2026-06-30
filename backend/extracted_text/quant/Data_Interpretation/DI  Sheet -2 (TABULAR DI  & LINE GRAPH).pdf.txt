@@ -1,0 +1,1102 @@
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+1. Study the given table and answer the question that follows. 
+The table shows the classification of 100 students based on the marks obtained by them in History 
+and Geography in an examination. 
+दी गई तालिका का अध्ययन करें और लनम्नलिखित प्रश्न का उत्तर दें। 
+तालिका एक परीक्षा में इलतहास और भूगोि में उनके द्वारा प्राप्त अंकों के आधार पर 100 छात्ों का वगीकरण दर्ााती है। 
+Subject 
+Marks out of 50 
+40 and 
+above 
+30 and 
+above 
+20 and 
+above 
+10 and 
+above 
+0 and 
+above 
+History 
+9 
+32 
+80 
+92 
+100 
+Geography 
+4 
+21 
+66 
+81 
+100 
+Average 
+(Aggregate) 
+7 
+27 
+73 
+87 
+100 
+ 
+Based on the table, what is the number of students scoring less than 20% marks in aggregate? 
+तालिका के आधार पर, कुि 20% से कम अंक प्राप्त करने वािे छात्ों की कुि संख्या लकतनी है?  
+a) (13 
+b) 11 
+c) 10 
+d) 12 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+2. The given table shows marks obtained by four students in four subjects. 
+दी गई तालिका चार छात्ों द्वारा चार लवषयों में प्राप्त अंकों को दर्ााती है। 
+Subjects → 
+Students ↓ 
+Maths 
+(100) 
+English 
+(100) 
+Science 
+(100) 
+Hindi 
+(100) 
+A 
+75 
+80 
+75 
+85 
+B 
+80 
+70 
+70 
+80 
+C 
+70 
+85 
+85 
+75 
+D 
+85 
+75 
+80 
+70 
+The average percentage of marks obtained by all students in Hindi is: 
+सभी छात्ों द्वारा लहंदी में प्राप्त अंकों का औसत प्रलतर्त लकतना है?  
+(a) 77.6%  
+(b) 77.5%  
+ 
+(c) 77.0%    
+ (d) 77.8%              (SSC CPO 2023) 
+3. Study the given table carefully and number the following question.  
+The table shows the percentage of students of four departments-Mechanical, Civil, Computer Science 
+and Applied with each student being in only one department. The table also shows the number of 
+students of these four departments in five different colleges, with the total nof students being 2080. 
+दी गई तालिका का ध्यानपूर्वक अध्ययन करें और ननम्नलिखित प्रश्नों को क्रमाांककत करें।  
+तालिका चार वर्भागों-मैकेननकि, लिवर्ि, कांप्यूटर िाइांि और एप्िाइड के छात्रों का प्रनतशत दशावती है, जििमें प्रत्येक छात्र केर्ि एक वर्भाग 
+में है। तालिका में वर्द्यार्थवयों की कुि िांख्या 2080 होने के िाथ पाांच अिग-अिग कॉिेिों में इन चार वर्भागों के वर्द्यार्थवयों की िांख्या भी 
+दशावती है। 
+College 
+Number of 
+Studnets 
+Mechanical 
+Civil 
+Computer 
+Science 
+Applid 
+IIT Delhi 
+430 
+- 
+20% 
+- 
+10% 
+IIT Kanpur 
+350 
+20% 
+- 
+25% 
+- 
+IIT Bomay 
+- 
+20% 
+18% 
+- 
+32% 
+IIT Madras 
+- 
+- 
+25% 
+18% 
+35% 
+IIT 
+Guwhati 
+400 
+20% 
+22% 
+- 
+20% 
+If the number of students in IIT Bombay is 20% less than the number of students in IIT Madras, then 
+the number of students in IIT Bombay is: 
+यदद आईआईटी बॉम्बे में वर्द्यार्थवयों की िांख्या आईआईटी मद्राि में वर्द्यार्थवयों की िांख्या िे 20% कम है, तो आईआईटी बॉम्बे में 
+वर्द्यार्थवयों की िांख्या ककतनी है? 
+(a) 300  
+(b) 500  
+(c) 200 
+(d) 400 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+4. Study the given table and answer the question that follows. 
+The table shows the production of five types of cars P, Q, R, S and T by a company from the year 1989 to 1994. 
+दी गई तालिका का अध्ययन कीलिए, और नीचे लदए गए प्रश्न का उत्तर दीलिए । दी गई तालिका एक कंपनी द्वारा वषा 1989 से 1994 
+तक पााँच प्रकार की कारों P, Q, R, S और T के उत्पादन को दर्ााती है। 
+Type of 
+Car 
+1989 
+1990 
+1991 
+1992 
+1993 
+1994 
+Total 
+P 
+8 
+20 
+16 
+17 
+21 
+6 
+88 
+Q 
+16 
+10 
+14 
+12 
+12 
+14 
+78 
+R 
+21 
+17 
+16 
+15 
+13 
+8 
+90 
+S 
+4 
+6 
+10 
+16 
+20 
+31 
+ 
+87 
+T 
+25 
+18 
+19 
+30 
+14 
+27 
+133 
+TOTAL 
+74 
+71 
+75 
+90 
+80 
+86 
+476 
+ 
+During the period 1989-94, which type of car featured a continuous decrease in production? 
+1989-94 की अवलध के दौरान लकस प्रकार की कार के उत्पादन में िगातार कमी देिी गई?  
+(a) R  
+(b) T  
+(c) Q  
+(d) S 
+(SSC CPO 2023) 
+5. The following table shows the percentage of students passing out of four colleges (A,B,C and D) over four years. Study the 
+table and answer the question that follows. 
+लनम्न तालिका चार वषों में चार कॉिेिों (A, B, C और D) से उत्तीणा होने वािे लवद्यालथायों का प्रलतर्त दर्ााती है तालिका का अध्ययन 
+कीलिए और लदए गए प्रश्न का उत्तर दीलिए। 
+Years 
+College A 
+College B 
+College C 
+College D 
+2019 
+68 
+78 
+56 
+74 
+2020 
+72 
+86 
+78 
+82 
+2021 
+78 
+91 
+82 
+85 
+2022 
+80 
+87 
+84 
+87 
+ 
+In which college is the average percentage of passing students over the given four years the least? 
+लदए गए चार वषों में लकस कॉिेि में उत्तीणा लवद्यालथायों का औसत प्रलतर्त सबसे कम है?  
+(a) College D  
+(b) College A  
+(c) College B     
+(d) College C 
+(SSC CPO 2023) 
+6. The given table shows the number of students from 4 school during 2022-2023. 
+दी गई तालिका 2022-2023 के दौरान 4 स्कूिों के लवद्यालथायों की संख्या को दर्ााती है। 
+School/ स्कूि 
+Total no. of students/ 
+लवद्यालथायों की संख्या 
+Boys/ िड़के 
+Girls/ िड़लकयााँ 
+A 
+2060 
+1339 
+721 
+B 
+1880 
+1034 
+846 
+C 
+2200 
+990 
+1210 
+D 
+1680 
+924 
+756 
+What is the percentage of girls in school B? 
+स्कूि B में िड़लकयों का प्रलतर्त लकतना है?  
+(a) 60%  
+(b) 55%  
+(c) 45%     
+(d) 65% 
+(SSC CPO 2023) 
+7. The following table shows the number of sweets manufactured by six factories. 
+ननम्नलिखितिारणी छह कारिानों द्र्ारा ननलमवत लमठाइयों की िांख्या प्रदलशवत करती है। 
+Year/ 
+र्र्व 
+Factory/कारिाने 
+P 
+Q 
+R 
+S 
+T 
+U 
+1996 
+196 
+145 
+254 
+169 
+291 
+220 
+1997 
+172 
+233 
+141 
+125 
+167 
+189 
+1998 
+178 
+240 
+150 
+130 
+177 
+192 
+1999 
+180 
+260 
+160 
+140 
+188 
+195 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+What is the respective ratio of sweets manufactured factories P, Q and R together in the year 1998 
+to the sweets manufactured by factories S, T and U together in the same year? 
+र्र्व 1998 में कारिानों P, Q और R में ननलमवत लमठाइयोंऔर उिी र्र्व कारिानों S, T और U में ननलमवत लमठाइयों िे िांबांर्ित अनुपात 
+क्या है?    
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+(a) 568 : 499 
+(b) 61 : 72 
+(c) 61 : 42 
+(d) 40 : 51 
+8. Study the given table and answer the question that follows. 
+The table shows the number of candidates who appeared (App). qualified (Qual) and selected (sel) in a 
+competitive examination from four states Delhi, Goa, Karnataka & Maharastra over the years 2012 
+to 2016. 
+दी गई तालिका का अध्ययन करें और ननम्नलिखित प्रश्न का उत्तर दें। 
+यह तालिका र्र्व 2012 िे 2016 तक चार राज्यों ददल्िी, गोर्ा, कनावटक और महाराष्ट्र िे एक प्रनतयोगी परीक्षा में उत्तीणव और चयननत 
+उम्मीदर्ारों की िांख्या दशावती है।  
+Years 
+Delhi 
+Goa 
+Karnataka 
+Maharastra 
+ 
+App 
+Qual Sel 
+App 
+Qual Sel App Qual Sel 
+App 
+Qual Sel 
+2012 
+8000 
+850 
+94 
+7800 
+810 
+82 
+8200 
+680 
+85 
+2013 
+4800 
+500 
+48 
+7500 
+800 
+65 
+6800 
+600 
+70 
+2014 
+9500 
+850 
+90 
+8800 
+920 
+86 
+7800 
+720 
+84 
+2015 
+9000 
+800 
+70 
+7200 
+50 
+75 
+5700 
+485 
+60 
+2016 
+7500 
+640 
+82 
+7400 
+560 
+70 
+6500 
+525 
+65 
+ 
+The number of candidates selected from Maharashtra during the period under review is approximately 
+what percentage of the number selected from Delhi during this period? 
+िमीक्षािीन अर्र्ि के दौरान महाराष्ट्र िे चयननत उम्मीदर्ारों की िांख्या, इि अर्र्ि के दौरान ददल्िी िे चयननत उम्मीदर्ारों की िांख्या का 
+िगभग ककतना प्रनतशत है?  
+(a) 96.79% 
+(b) 92.79% 
+(c) 93.39% 
+(d) 94.79% 
+ 
+ 
+  
+SSC CGL 2023 PRE 
+9. The following table gives the information of the number of students (in thousands) placed in five 
+different companies during six different years. 
+लनम्नलिखित तालिका छह अिग-अिग वषों के दौरान पांच अिग-अिग कंपलनयों में रिे गए छात्ों की संख्या (हिारों में( की िानकारी 
+देती है। 
+Year 
+ 
+ 
+ 
+ 
+Company 
+A 
+G 
+Y 
+T 
+F 
+2010 
+9.6 
+10.4 
+9.3 
+9.8 
+8.7 
+2011 
+10.4 
+12.6 
+7.2 
+13.8 
+6.2 
+2012 
+12.6 
+9.8 
+10.4 
+14.9 
+9.8 
+2013 
+16.8 
+15.4 
+11.4 
+16.3 
+11.3 
+2014 
+19.3 
+13.4 
+13.4 
+11.8 
+7.8 
+2015 
+18.7 
+16.7 
+12.7 
+15.7 
+13.7 
+ 
+What is the difference (in thousands) between the students placed in all companies in the year 2014 
+and 2012. 
+वषा 2014 और 2012 में सभी कंपलनयों में नौकरी पानी वािे छात्ों की संख्या के बीच अंतर (हिारों में( लकतना है? 
+(a) 9000 
+(b)  7800 
+(c)   8200 
+(d)   7500  
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+10. Study the following table and answer the question below. 
+fuEufyf[kr rkfydk dk v/;;u djsa vkSj uhps fn, x, iz”u dk mRrj nsaA 
+School name 
+Total 
+number 
+of 
+students enrolled 
+Percentage of enrolled 
+students who opted 
+for Biology 
+Ratio 
+of 
+male 
+of 
+female students who 
+opted for Biology 
+A 
+900 
+30% 
+7:8 
+B 
+400 
+38% 
+9:10 
+C 
+1000 
+24% 
+5:19 
+D 
+800 
+18% 
+5:7 
+What is the ratio of the total number of male students to that of female students who opted for 
+Biology n schools A and D together? 
+LdwYk A vkSj D dks lkFk feykdj muesa thofoKku dk p;u djus okys dqy Nk=ksa vkSj dqy Nk=kvksa dk vuqikr D;k gS\ 
+(a) 38:31 
+(b) 21:38 
+(c) 31:28 
+(d) 31:38 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+11. Quantity of various food items used by a restaurant during 4 months of a year (in kg). 
+,d jsLrjka }kjk o’kZ ds 4 eghuksa ds nkSjku mi;ksx dh tkus okyh fofHkUu [kkn~; inkFkksZa dh ek=k ¼fdyk esa½A 
+ 
+Month 
+March 
+April 
+May 
+June 
+Food Item 
+A 
+220 
+180 
+270 
+320 
+B 
+255 
+320 
+390 
+420 
+C 
+280 
+295 
+280 
+315 
+D 
+350 
+310 
+250 
+280 
+E 
+308 
+340 
+350 
+365 
+ 
+What is the average quantity of food item C used during all the 4 months together? 
+,d lkFk lHkh 4 eghuksa ds nkSjku mi;ksx fd, x, [kkn~; inkFkZ V dh vkSlr ek=k fdruh gS\ 
+(a) 303.7 kg 
+(b)  292.5 kg 
+ (c)  211.8 kg  
+(d)  253.6 kg 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+12. Study the table and answer the question that follows. 
+दी गई तालिका का अध्ययन करें और नीचे लदए गए प्रश्न का उत्तर दें।  
+The table shows the number of students studying in six different classes of six different schools. 
+तालिका छह अिग-अिग स्कूिों की छह अिग-अिग कक्षाओं में पढ़ने वािे छात्ों की संख्या दर्ााती है। 
+ 
+What is the respective ratio of students studying in class IX of schools Q and R together to those 
+studying in class VI of schools S and T together? 
+स्कूि Q और R को लमिाकर कक्षा IX में पढ़ने वािे छात्ों और स्कूि S और को लमिाकर कक्षा VI में पढ़ने वािे छात्ों का संबंलधत 
+अनुपात क्या है? 
+ (a) 181 : 127         (b) 143:150           (c) 150:143         (d) 127:181 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+13. Study the given data and answer the question that follows. 
+लदए गए डेटा का अध्ययन करें और लनम्नलिखित प्रश्न का उत्तर दें। 
+Data regarding population of different states in the year 2015 is shown in the pie-chart and table. 
+वषा 2015 में लवलभन्न राज्ों की िनसंख्या से संबंलधत डेटा पाई-चाटा और तालिका में लदिाया गया है। 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+ 
+States 
+Sex and Literacy-wise Population Ratio 
+Sex 
+Literacy 
+M 
+F 
+Literate 
+Illiterate 
+A.P. 
+5 
+3 
+2 
+7 
+M.P. 
+3 
+1 
+1 
+4 
+Delhi 
+2 
+3 
+2 
+1 
+Goa 
+3 
+5 
+3 
+2 
+Bohar 
+3 
+4 
+4 
+1 
+U.P. 
+3 
+2 
+7 
+2 
+T.N. 
+3 
+4 
+9 
+4 
+ 
+If the total population of the given states is 31,5000, then what was the total number of illiterate 
+people in Goa and M.P.? 
+यलद लदए गए राज्ों की कुि िनसंख्या 31,5000 है, तो गोवा और मध्य प्रदेर् में लनरक्षर िोगों की कुि संख्या लकतनी थी? 
+(a) 65,520 
+(b)  81,900 
+ (c)  1,20,500 
+(d)  90,870 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+ 
+14. The given table represents the monthly income of 100 families of a locality. 
+दी गई तालिका एक इिाके के 100 पररवारों की मालसक आय को दर्ााती है। 
+Monthly income range (in ₹)/ मालसक आय सीमा (₹ में( 
+Number of families / 
+पररवारों की संख्या 
+Income more than ₹10,000/₹10,000 से अलधक आय 
+100 
+Income more than ₹13,000/₹13,000 से अलधक आय 
+85 
+Income more than ₹16,000/₹16,000 से अलधक आय 
+69 
+Income more than ₹19,000/₹19,000 से अलधक आय 
+50 
+Income more than ₹22,000/₹22,000 से अलधक आय 
+33 
+Income more than ₹25,000/₹25,000 से अलधक आय 
+15 
+ The number of families having income range (in ) 19000 - 22000 is: 
+19000-22000 आय (₹ में( सीमा वािे पररवारों की संख्या ___________ है।  
+1. 17 
+2. 19 
+3. 22 
+4. 24 
+ 
+ 
+SSC CGL 2023 PRE 
+15. The following table presents the number of candidates trained by a training centre over 6 years (2001 
+to 2006).  
+लनम्नलिखित तालिका 6 वषों (2001 से 2006) में एक प्रलर्क्षण केंद्र द्वारा प्रलर्लक्षत उम्मीदवारों की संख्या प्रस्तुत करती है। 
+The number of candidates trained in Batch 2 in 2001 was what percentage more than the number of candidates 
+trained in Batch 5 in 2005? 
+TN
+9%
+AP
+25%
+MP
+20%
+Delhi
+8%
+Goa
+12%
+Bihar
+11%
+UP
+15%
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+2001 में बैच 2 में प्रलर्लक्षत उम्मीदवारों की संख्या, 2005 में बैच 5 में प्रलर्लक्षत उम्मीदवारों की संख्या से लकतने प्रलतर्त अलधक थी? 
+Level 6 (09/05/2022) Shift 2 
+(a) 32%  
+(b) 20%  
+(c) 60%  
+(d) 85%  
+16. The following table depicts the number of people in 4 different villages (A, B C and D), and the ratio of literate 
+to illiterate people in those villages. 
+लनम्न तालिका 4 अिग अिग गांवों (A, B, C और D) में व्यखियों की संख्या और उन गांवों में साक्षर और - लनरक्षर व्यखियों के अनुपात 
+को दर्ााती है। 
+ 
+What is the percentage of literate people in all the four villages together? 
+सभी चार गांवों में कुि लमिाकर साक्षर व्यखियों का प्रलतर्त लकतना है? 
+Level 5 (15/06/2022) Shift 1 
+(a) 67% 
+(b) 65%  
+(c) 72% 
+(d) 70% 
+17. The following table shows the percentage of population of four states below poverty line and the 
+proportion of males and females below and above poverty line.  
+लनम्न तालिका चार राज्ों की गरीबी रेिा से नीचे की िनसंख्या का प्रलतर्त तथा गरीबी रेिा से नीचे और ऊपर पुरुषों और मलहिाओं 
+के अनुपात को दर्ााती है। 
+ 
+If the total population of State B is 7,200, then what is the number of females below poverty line in 
+that state? 
+यलद राज् B की कुि िनसंख्या 7, 200 है, तो उस राज् में गरीबी रेिा से नीचे की मलहिाओं लकतनी है? 
+1. 1,025 
+2. 1,125 
+3. 1,075 
+4. 1,250 
+ 
+ 
+SSC CGL 2023 PRE 
+18. Study the given table and answer the question that follows. 
+The table shows the percentage population of four states below poverty line and proportion of male to female. 
+दी गई तालिका का अध्ययन कीलिए और नीचे लदए गए प्रश्न का उत्तर दीलिए । 
+तालिका गरीबी रेिा से नीचे चार राज्ों की प्रलतर्त िनसंख्या तथा पुरुष और मलहिा का अनुपात दर्ााती है। 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+Town/ 
+र्हर 
+Percentage of population 
+below poverty line/ 
+गरीबी रेिा से नीचे वािी 
+िनसंख्या का प्रलतर्त 
+Below poverty line/ गरीबी 
+रेिा से नीचे 
+Above poverty line/ गरीबी 
+रेिा से ऊपर 
+Male : Female/  
+पुरुष : मलहिा 
+Male : Female/  
+पुरुष : मलहिा 
+P 
+28 
+3:2 
+7:3 
+Q 
+15 
+4:7 
+6:5 
+R 
+24 
+5:3 
+3:3 
+S  
+13 
+2:5 
+1:3 
+If the total population of state R is 26,000, then what is the number of females above poverty line in state R? 
+यलद राज् R की कुि िनसंख्या 26,000 है, तो राज् R में गरीबी रेिा से ऊपर मलहिाओं की संख्या लकतनी है?  
+(a) 9,560  
+(b) 9,950  
+(c) 9,880  (d) 9,780 
+(SSC CPO 2023) 
+19. The table gives the number of students in each class and the percentage of students in the class who 
+like Hockey, Tennis, Chess and Golf. 
+uEu rkfydk esa çR;sd d{kk esa Nk=ksa dh la[;k vkSj d{kk esa g‚dh] Vsful] 'krjat vkSj xksYQ ilan djus okys Nk=ksa dk çfr'kr n'kkZ;k x;k gSA  
+ 
+Class 
+Number of 
+Students 
+Hockey 
+Tennis 
+ 
+Chess 
+Golf 
+A 
+260 
+70% 
+65% 
+ 
+70% 
+60% 
+B 
+180 
+90% 
+52% 
+ 
+85% 
+40% 
+C 
+240 
+90% 
+80% 
+ 
+60% 
+80% 
+D 
+60 
+80% 
+70% 
+ 
+50% 
+30% 
+ 
+How many students in all the given classes like Hockey? 
+ nh xbZ lHkh d{kkvksa esa fdrus Nk= gkWdh ilan djrs gSa\ 
+(a) 608  
+ (b) 740 
+(c) 614 
+           (d) 596 
+20. The following table shows the month-wise temperature of four cities from January to May 2022 
+(in degree Celsius). 
+fuEufyf[kr rkfydk 2022 esa tuojh ls ebZ rd ¼fMxzh lsfYl;lesa½ pkj “kgjksa ds eghus&okj rkieku dks n”kkZrh gSA 
+ 
+Months 
+Hyderabad Bangalore Pune Kolkata 
+January 
+26° 
+22° 
+24° 
+25° 
+February 
+27° 
+24° 
+25° 
+26° 
+March 
+34° 
+30° 
+32° 
+32° 
+April 
+37° 
+32° 
+35° 
+34° 
+May 
+42° 
+36° 
+40° 
+40° 
+Which city recorded the maximum temperature in all five months compared with the other cities? 
+    fdl “kgj us vU; “kgjksa dh raqyuk esa lHkh ikap eghuksa esa vf/kdre rkieku ntZ fd;k\ 
+(a) Pune 
+(b) Bangalore       (c) Hyderabad 
+      (d) Kolkata 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+21. Study the given table and answer the question that follows.  
+दी गई तालिका का अध्ययन कीलिए और नीचे लदए गए प्रश्न का उत्तर दीलिए। 
+The table represents the expenditure of a company (in thousand rupees) per annum over the gien 
+year. 
+तालिका लदए गए वषों में प्रलत वषा एक कंपनी के व्यय (हिार रुपये में( को दर्ााती है। 
+Year 
+Expenditure 
+Salary 
+Transport 
+Interest 
+Tax 
+2018 
+200 
+90 
+3 
+80 
+2019 
+250 
+100 
+2.5 
+100 
+2020 
+300 
+120 
+3 
+70 
+2021 
+350 
+130 
+3.5 
+80 
+What is the average amount of salary per year, which the company has to pay during these four 
+years? 
+प्रलत वषा वेतन की औसत रालर् क्या है, िो कंपनी को इन चार वषों के दौरान देनी पड़ती है? 
+1. ₹2,80,000 
+2. ₹3,00,000 
+3. ₹2,00,000 
+4. ₹2,75,000 
+ 
+ 
+SSC CGL 2023 PRE 
+22. Refer to the pie chart and table carefully and answer the given questions. The Pie chart shows 
+the percentage distributions of total number so laptops (both Dell and HP) sold by six stores 
+in March Total number = 11200 
+o`Ùk vkys[k vkSj rkfydk dk v/;;u dhft, vkSj uhps fn, x, ç'u dk mÙkj nhft,   
+o`Ùk vkys[k ekpZ esa N: LVksjksa }kjk csps x, ySiV‚i ¼Msy vkSj ,pih nksuksa½ dh dqy la[;k dk çfr'kr forj.k n'kkZrk gSA 
+dqy la[;k = 11200 
+ 
+A=18%
+B=26%
+C=20%
+E=14%
+F=10%
+D=12%
+ 
+ 
+What is the average of Dell laptops sold by stores A, C, D and E together?  
+ LVksj A,C,D vkSj E }kjk feykdj csps x, Msy ySiVkWi dk vkSle fdrulk gS\ 
+(a) 792 
+(b) 280 
+          (c) 896 
+     (d) 448 
+23. The line chart given below shows the number of male teacher and female teacher in 5 schools. 
+uhps fn, x, js[kk vkys[k esa 5 Ldwyksa esa iq#"k f'k{kdksa vkSj efgyk f'k{kdksa dh la[;k dks n'kkZ;kx ;k gSA 
+Ratio of the number of Dell and HP sold 
+Stores 
+Ratio 
+A 
+5 : 4 
+B 
+7 : 6 
+C 
+1 : 4 
+D 
+11 : 10 
+E 
+4 : 3 
+F 
+3 : 1 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+J1 = Total number of male and female teachers in school P. 
+J1 = Ldwy P esa iq#"k vkSj efgyk f'k{kdksa dh dqy la[;kA 
+J2 = The difference between the total number of male and the total number of female teachers in all the 5 schools. 
+J2 = lHkh 5 Ldwyksa esa iq#"k vkSj efgyk f'k{kdksa dh dqy la[;k ds chp dk varjA 
+What is the value of (J1 : J2)? 
+(J1 : J2) dk eku D;k gS\ 
+(a) 
+4 : 7 
+(b) 
+9 : 7 
+(c) 
+5 : 7 
+(d) 
+7 : 4 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+24. The line chart given below shows production of sugar by two companies A and B in 5 years. 
+uhps fn, x, js[kk vkys[k eas 5 o"kksZa esa nks daifu;k¡ A vkSj B }kjk phuh ds mRiknu dks n'kkZ;k x;k gSA 
+ 
+Which of the following statement is correct? 
+fuEufyf[kr esa ls dkSulk dFku lgh gS\ 
+I. The production of sugar by A in years J and K together is 7.69 percent more the production of sugar by B in year L and 
+M together. 
+I. o"kZ J vkSj K esa feykdj A }kjk fd;k x;k phuh dk mRiknu o"kZ L vkSj M esa feykdj B }kjk fd, x, phuh ds mRiknu ls 7.69 çfr'kr vf/kd gSA 
+II. The ratio of combined production of sugar by B in years M and N to the combined production of sugar by A in years K 
+and L is 21 : 16. 
+II. o"kZ M vkSj N esa B }kjk phuh ds la;qDr mRiknu vkSj o"kZ K vkSj L esa A }kjk phuh ds la;qDr mRiknu dk vuqikr 21 : 16 gSA 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+(a) 
+Only II 
+(b) 
+Neither I nor II 
+(c) 
+Both I and II 
+(d) 
+Only I 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+25. The following line graph shows the annual profit percentage earned by a car manufacturing company during the 
+period 2007-2012. 
+लनम्नलिखित िाइन ग्राफ 2007-2012 की अवलध के दौरान एक कार लनमााण कंपनी द्वारा अलिात वालषाक िाभ प्रलतर्त को दर्ााता है। 
+ 
+In which of the following years was the annual profit percentage closest to the average of the annual profit 
+percentage in all the years given in the graph? 
+लनम्नलिखित में से लकस वषा में वालषाक िाभ प्रलतर्त ग्राफ में लदए गए सभी वषों में वालषाक िाभ प्रलतर्त के औसत के लनकटतम था? 
+Level 6 (09/05/2022) Shift 1 
+(a) 2008 
+(b) 2009  
+(c) 2007 
+(d) 2011 
+26. The following graph represents the number of students enrolled and the number of students qualified in five 
+colleges during a particular year. 
+लनम्नांलकत ग्राफ एक लवलर्ष्ट वषा के दौरान पांच कॉिेिों में पंिीकृत छात्ों की संख्या और उत्तीणा छात्ों की संख्या को दर्ााता है। 
+ 
+What is the ratio of enrolled to qualified students across all colleges? 
+सभी कॉिेिों (colleges) में कुि लमिाकर पंिीकृत ( enrolled) और उत्तीणा (qualified) छात्ों का अनुपात लकतना है? 
+Level 2 (16/06/2022) Shift 3 
+(a) 6 : 7 
+(b) 13 : 3  
+(c) 3 : 7 
+(d) 6 : 5 
+27. The following bar graph shows the number of web series released by a subscription service mobile application 
+in various years from 2014-2018 and the line graph shows the number of web series with a rating of less than 5 
+stars.  
+लनम्नलिखित दंड आिेि  2014-2018 से लवलभन्न वषों में एक सदस्यता सेवा मोबाइि एखिकेर्न द्वारा िारी की गई वेब सीररि की 
+संख्या को दर्ााता है और रेिीय आिेि  5 स्टार से कम रेलटंग वािी वेब सीररि की संख्या को दर्ााता है। 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+Find the approximated total percentage of web series with a rating 5 star and above from 2014 - 2018. 
+2014 - 2018 से 5 स्टार और उससे अलधक रेलटंग वािी वेब सीरीज़ का अनुमालनत कुि प्रलतर्त ज्ञात करें। 
+RRB NTPC 29/12/2020 (Morning) 
+(a) 74 
+(b) 71 
+ 
+(c) 75 
+(d) 72 
+28. Observe the graph and answer the question below. 
+The graph represents the number of males and female workers in four different companies.  
+आिेि का लनरीक्षण कीलिये और लनम्नलिखित प्रश्नों के उत्तर दीलिये। 
+आिेि चार अिग-अिग कंपलनयों में पुरुषों और मलहिा श्रलमकों की संख्या को दर्ााता है। 
+ 
+Which company has the maximum difference in the number of male and female employees? 
+पुरुष और मलहिा कमाचाररयों की संख्या में सबसे अलधक अंतर लकस कंपनी में है? 
+RRB NTPC 04/01/2021 (Evening) 
+(a) D 
+(b) C 
+ 
+(c) A 
+(d) B 
+29. Note : The following lines show the percentage of the number of eligible candidates in the examination 
+compared to the total number of candidates present during the six-year period 2001 to 2006. 
+Which pair of below given years had a lesser percentage difference in the percentage of candidates who were 
+eligible? 
+नोट : लनम्नलिखित पंखियााँ छह साि की अवलध 2001 से 2006 के दौरान उपखित उम्मीदवारों की कुि संख्या की तुिना में परीक्षा में 
+योग्य उम्मीदवारों की संख्या का प्रलतर्त दर्ााती हैं।  
+नीचे लदए गए वषों की लकस िोड़ी में योग्य उम्मीदवारों के प्रलतर्त में कम अंतर था? 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+ 
+ 
+RPF Constable 17/01/2019 (Morning) 
+(a) 2003 - 2004 
+(b) 2004 - 2005 
+(c) 2002 - 2003 
+(d) 2001 – 2002 
+ 
+30. The following graph and table show the marks obtained by three persons- A, B and C in three exams Exam 1 
+Exam 2 and Exam 3. Study the graph and table, and answer the question asked. 
+लनम्नांलकत ग्राफ और तालिका तीन परीक्षाओं परीक्षा 1 परीक्षा 2 और परीक्षा 3 में तीन व्यखियों- A, B और C द्वारा प्राप्त अंकों को 
+दर्ााते हैं। ग्राफ एवं तालिका का अध्ययन करें, और पूछे गए प्रश्न का उत्तर दें। 
+(Context- Test Exam) 
+ 
+If the marks for both test 1 and test 2 are 80 each, and for test 3 the rounding is 100, then considering the 
+performance of all the three tests, A got what percent more marks than C? 
+(संदभा- Test परीक्षा( 
+यलद परीक्षा 1 और परीक्षा 2, दोनों के लिए पूणाांक 80 हैं, और परीक्षा 3 के लिए पूणाांक 100 हैं, तो सभी तीनों परीक्षाओं के प्रदर्ान को 
+देिते हुए, A ने C से लकतने प्रलतर्त अलधक अंक प्राप्त लकए? 
+Group D  17/08/2022 ( Afternoon ) 
+(a)  5.56%  
+(b) 6.92%    
+(c) 8.2%    
+(d)7.69% 
+ 
+ 

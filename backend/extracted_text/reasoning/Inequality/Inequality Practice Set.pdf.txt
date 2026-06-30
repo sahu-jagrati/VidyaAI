@@ -1,0 +1,2101 @@
+ 
+1.
+A statement is followed by four conclusions.
+Which of the conclusions is/are true based on
+the given statement?
+एक कथन के बाद चार िनʺषŊ िदए गए हœ। िदए गए
+कथन के आधार पर कौन सा िनʺषŊ सȑ है?
+Statement: I < M < F ≤ D ≤ S = J
+Conclusions:
+I) S < M
+II) F = S
+III) I > J
+IV) M < D
+[CGL Tier 2 - 26 Oct 2023] 
+1.
+Only conclusion IV is true.
+केवल िनʺषŊ IV सȑ है।
+2.
+Conclusions I and III are true
+िनʺषŊ I और III सȑ हœ
+3.
+Only conclusion II is true.
+केवल िनʺषŊ II सȑ है।
+4.
+Conclusions IV and II are true.
+िनʺषŊ IV और II सȑ हœ।
+2.
+In the given question, the statement is followed
+by two conclusions. Which of the two
+conclusions is/are true?
+िदए गए प्रʲ मŐ, कथन के बाद दो िनʺषŊ िदए गए हœ।
+दोनों मŐ से कौन सा/से िनʺषŊ सȑ है/हœ?
+Statement: Z = E ≥ R > G < Y > Q = F
+Conclusions:
+I. R < F
+II. R ≥ Z
+    [CGL Tier 2 - 7 March 2023] 
+1.
+Both conclusions I and II are true
+िनʺषŊ I और II दोनों सȑ हœ
+2.
+Only conclusion II is true
+केवल िनʺषŊ II सȑ है
+3.
+Only conclusion I is true
+केवल िनʺषŊ I सȑ है
+4.
+Neither conclusion I nor II is true
+न तो िनʺषŊ I और न ही II सȑ है
+ 
+ 
+ 
+3.
+In this question, the statement is followed by
+two conclusions. Which of the two conclusion(s)
+is/are true?
+इस प्रʲ मŐ, कथन के बाद दो िनʺषŊ हœ। दोनों मŐ से कौन
+सा/से िनʺषŊ सȑ है/हœ?
+Statement: Z > F ≥ A = B = G > S < E
+Conclusions:
+I. Z < A
+II. G < F
+    [CGL Tier 2 - 6 March 2023] 
+1.
+Only conclusion I is true.
+केवल िनʺषŊ Iसȑ है।
+2.
+Only conclusion II is true.
+केवल िनʺषŊ II सȑ है।
+3.
+Both conclusions I and II are true.
+िनʺषŊ I और II दोनों सȑ हœ।
+4.
+Neither conclusion I nor II is true.
+न तो िनʺषŊ I और न ही II सȑ है।
+4.
+In this question, the statement is followed by
+two conclusions. Which of the two conclusion(s)
+is/are true?
+इस प्रʲ मŐ, कथन के बाद दो िनʺषŊ िदए गए हœ। दोनों 
+िनʺषŘ मŐ से कौन सा/से िनʺषŊ सȑ है/हœ?
+Statement: A = B ≥ C ≤ D > G < E < F
+Conclusions:
+I. B > F
+II. C < A
+    [CGL Tier 2 - 3 March 2023] 
+1.
+Only conclusion I is true
+केवल िनʺषŊ I सȑ है
+2.
+Only conclusion II is true
+केवल िनʺषŊ II सȑ है
+3.
+Neither conclusion I nor II is true.
+न तो िनʺषŊ I और न ही II सȑ है।
+4.
+Both conclusions I and II are true.
+िनʺषŊ I और II दोनों सȑ हœ।
+Practice Sheet
+Inequality
+Reasoning
+ 
+5. 
+In the following question, the statement is 
+followed by two conclusions. Which of the two 
+conclusions is/are true? 
+ 
+िनɻिलİखत प्रʲ मŐ, कथन के बाद दो िनʺषŊ िदए गए हœ। 
+दोनों िनʺषŘ मŐ से कौन सा/से सȑ है/हœ? 
+ 
+Statement: M < K > I < J > H = G ≤ F 
+ 
+Conclusions: 
+ 
+I. H = F 
+ 
+II. J > G 
+                          [CGL Tier 2 - 2 March 2023] 
+ 
+1. 
+Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+2. 
+Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+3. 
+Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+4. 
+Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+6. 
+A statement is followed by two conclusions, 
+numbered I and II. Find out which of the 
+following conclusion(s) is/are true based on the 
+given statements. 
+ 
+एक कथन के बाद दो िनʺषŊ िदए गए हœ, िजɎŐ I और II 
+से क्रमांिकत िकया गया है। िदए गए कथनों के आधार पर 
+ǒात कीिजए िक िनɻिलİखत मŐ से कौन सा िनʺषŊ सȑ 
+है। 
+ 
+Statement: P ≤ L ≥ M ≥ N = U < V < G 
+ 
+Conclusions: 
+ 
+I. P > V 
+ 
+II. G ≤ L 
+                          [CHSL Tier 2 - 10 Jan 2024] 
+ 
+1. 
+Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+2.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3.  Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+4.  Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+7. 
+A statement is followed by two conclusions, 
+numbered I and II. Find out which of the 
+following conclusion(s) is/are true based on the 
+given statements. 
+ 
+एक कथन के बाद दो िनʺषŊ I और II िदए गए हœ। िदए 
+गए कथनों के आधार पर ǒात कीिजए िक िनɻिलİखत मŐ 
+से कौन सा/से िनʺषŊ सȑ है/हœ। 
+ 
+Statement: T ≥ M < W = P ≥ Q > R ≤ S 
+ 
+Conclusions: 
+ 
+I. P ≤ M 
+ 
+II. Q > T 
+                          [CHSL Tier 2 - 10 Jan 2024] 
+ 
+1. 
+Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+2.  Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+3.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+4.  Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+8. 
+A statement is followed by two conclusions, 
+numbered I and II. Find out which of the 
+following conclusion(s) is/are true based on the 
+given statements. 
+ 
+एक कथन के बाद दो िनʺषŊ I और II िदए गए हœ। िदए 
+गए कथनों के आधार पर ǒात कीिजए िक िनɻिलİखत मŐ 
+से कौन-सा/से िनʺषŊ सȑ है/हœ। 
+ 
+Statement: Z < Y = J ≥ G ≥ P ≥ C ≥ R 
+ 
+Conclusions: 
+ 
+I. Z ≥ R 
+ 
+II. J = C 
+                          [CHSL Tier 2 - 2 Nov 2023] 
+ 
+1. 
+Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+2.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3.  Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+4.  Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+9. 
+A statement is followed by two conclusions, 
+numbered I and II. Find out which of the 
+following conclusion(s) is/are true based on the 
+given statements. 
+ 
+एक कथन के बाद दो िनʺषŊ I और II िदए गए हœ। िदए 
+गए कथनों के आधार पर ǒात कीिजए िक िनɻिलİखत मŐ 
+से कौन-सा/से िनʺषŊ सȑ है/हœ। 
+ 
+Statement: G < H > K ≤ S ≥ L = M < Q 
+ 
+Conclusions: 
+ 
+I. G > L 
+ 
+II. H = Q 
+                          [CHSL Tier 2 - 2 Nov 2023] 
+ 
+1. 
+Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+2.  Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ Iसȑ है 
+ 
+3.  Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+4.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+10. Read the given statement and conclusions 
+carefully. Decide which of the given conclusions 
+is/are definitely true from the statement. 
+ 
+िदए गए कथन और िनʺषŊ को ȯानपूवŊक पिढ़ए। िनणŊय 
+लीिजए िक कथन से कौन सा/से िनʺषŊ िनिʮत ŝप से 
+सȑ है/हœ। 
+ 
+Statement: F > B < E ≤ C = D ≥ A > G 
+ 
+Conclusion I: G < F 
+ 
+Conclusion II: C > G 
+                          [CHSL Tier 2 - 26 June 2023] 
+ 
+1. 
+Only Conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+2.  Both Conclusion I and Conclusion II are 
+true  
+ 
+ 
+िनʺषŊ I और िनʺषŊ II दोनों सȑ हœ 
+ 
+3.  Only Conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+4.  Neither Conclusion I nor Conclusion II is 
+true  
+ 
+ 
+न तो िनʺषŊ I और न ही िनʺषŊ II सȑ है 
+11. Read the given statement and conclusions 
+carefully. Decide which of the given conclusions 
+is/are definitely true from the statement. 
+ 
+िदए गए कथन और िनʺषŊ को ȯानपूवŊक पिढ़ए। िनणŊय 
+लीिजए िक कथन से कौन सा/से िनʺषŊ िनिʮत ŝप से 
+सȑ है/हœ। 
+ 
+Statement: M < K ≤ N > P = J > O ≥ L 
+ 
+Conclusion I: N > L 
+ 
+Conclusion II: O = M 
+                          [CHSL Tier 2 - 26 June 2023] 
+ 
+1. 
+Only Conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+2.  Neither Conclusion I nor Conclusion II is 
+true  
+ 
+ 
+न तो िनʺषŊ I और न ही िनʺषŊ II सȑ है 
+ 
+3.  Only Conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+4.  Both Conclusion I and Conclusion II are 
+true  
+ 
+ 
+िनʺषŊ I और िनʺषŊ II दोनों सȑ हœ 
+ 
+12. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ िविभɄ तȕों के बीच संबंध 
+दशाŊया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: 11>10 = 9; 11<12 ≤ 13; 12>14=15 
+ 
+Conclusions: 
+ 
+I. 14 > 10 
+ 
+II. 15 ≤ 10 
+ 
+1.  Only ConclusionIfollows  
+ 
+ 
+केवल िनʺषŊ Iअनुसरण करता है 
+ 
+2.  Only ConclusionII follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Either Conclusion I or II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4.  Neither Conclusion I nor II follows  
+ 
+ 
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+13. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ िविभɄ तȕों के बीच संबंध 
+दशाŊया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: A = B > C, E ≤ D < C, E ≥ F > G = H 
+ 
+Conclusions: 
+ 
+I. A > E 
+ 
+II. D ≥ F 
+ 
+1. 
+Only Conclusion I follows  
+ 
+ 
+केवल िनʺषŊ Iअनुसरण करता है 
+ 
+2.  Only Conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Either Conclusion I or II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4.  Both Conclusions I and II follow  
+ 
+ 
+िनʺषŊ I और II दोनों अनुसरण करते हœ 
+ 
+14. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और उसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: J > I = H; J < K ≤ L; L = M ≥ N > O 
+ 
+Conclusions: 
+ 
+I. K > H 
+ 
+II. L > O 
+ 
+1. 
+Only ConclusionIfollows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+2.  Only Conclusion IIfollows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Either I or II follows  
+ 
+ 
+या तो I या II अनुसरण करता है 
+ 
+4.  Both I and II follow  
+ 
+ 
+I और II दोनों अनुसरण करते हœ 
+15. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and three conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और उसके बाद तीन िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: D = E > F, H ≤ G < F, H ≥ I > J = K  
+ 
+Conclusions: 
+ 
+I. D > H 
+ 
+II. G ≥ I 
+ 
+III. F < K 
+ 
+1. 
+Only Conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+2.  All Conclusions follow  
+ 
+ 
+सभी िनʺषŊ अनुसरण करते हœ 
+ 
+3.  Either Conclusion I or II and Conclusion III 
+follow  
+ 
+ 
+या तो िनʺषŊ I या II और िनʺषŊ III अनुसरण करते 
+हœ 
+ 
+4.  Both Conclusions I and II follow  
+ 
+ 
+िनʺषŊ I और II दोनों अनुसरण करते हœ 
+ 
+16. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and it is followed by two conclusions. 
+Choose the correct answer based on the 
+information given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: A > B; B = C; D = M > E < C 
+ 
+Conclusions: 
+ 
+I. A > E 
+ 
+II. E < B 
+ 
+1. 
+Only I follows/केवल I अनुसरण करता है 
+ 
+2. 
+Only II follows/केवल II अनुसरण करता है 
+ 
+3. 
+Neither I nor II follows 
+ 
+ 
+न तो I और न ही II अनुसरण करता है 
+ 
+4. 
+Both I and II follow  
+ 
+ 
+I और II दोनों अनुसरण करते हœ 
+ 
+17. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and it is followed by two conclusions. 
+Choose the correct answer based on the 
+information given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: L > M, M ≤ O = N, L = Q < K 
+ 
+Conclusion: 
+ 
+I. K > M 
+ 
+II. O ≤ K 
+ 
+1. 
+Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+2. 
+Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+3. 
+Both conclusions I and II follow  
+ 
+ 
+दोनों िनʺषŊ I और II अनुसरण करते हœ 
+ 
+4. 
+Either conclusion I or II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+18. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements:  M ≥ S, K < A, S = T, A > Y, K > 
+M, Y ≤ O, T ≥ E 
+ 
+Conclusions: 
+ 
+I. A > M 
+ 
+II. T = K 
+ 
+1.  Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+2.  Both conclusions I and IIfollow  
+ 
+ 
+िनʺषŊ I और II दोनों अनुसरण करते हœ 
+ 
+3.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+4.  Either conclusion I or II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+19. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: Y < O ≤ G ≤ K = U > L > P 
+ 
+Conclusion:  
+ 
+I. O = U 
+ 
+II. U > O 
+ 
+1. 
+Neither conclusion I nor conclusion II 
+follows 
+ 
+ 
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+2.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+4.  Either conclusion I or conclusion II follows  
+ 
+ 
+या तो िनʺषŊ I यािनʺषŊ II अनुसरण करता है 
+ 
+20. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: B > A ≥ T > F = Y ≤ S < D 
+ 
+Conclusion:  
+ 
+I. F < D 
+ 
+II. A > S  
+ 
+1.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+2.  Neither conclusion I nor conclusion II 
+follows  
+ 
+ 
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+3.  Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+4.  Either conclusion I or conclusion II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+21. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and it is followed by two conclusions. 
+Choose the correct answer based on the 
+information given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: H > S ≥ F = B ≤ U ≤ T; E ≤ B ≤ K  
+ 
+Conclusions: 
+ 
+I. U ≥ E               
+ 
+II. S > T 
+ 
+1. 
+Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+2.  Either conclusion I or II is true  
+ 
+ 
+या तो िनʺषŊ I या II सȑ है 
+ 
+3.  Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+4.  Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सही है 
+ 
+22. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: B ≥ C > D ≤ E ≤ F < G = L<M≥T>Q  
+ 
+Conclusion: 
+ 
+I. B ≥ F                  
+ 
+II. D < G 
+ 
+1. 
+Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सही है 
+ 
+2. 
+Neither conclusion I nor II istrue  
+ 
+ 
+न तो िनʺषŊ I और न ही II सही है 
+ 
+3. 
+Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सही है 
+ 
+4. 
+Either conclusion I or II is true  
+ 
+ 
+या तो िनʺषŊ I या II सही है 
+23. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: Y < O ≤ G ≤ K = U > L > P 
+ 
+Conclusions:  
+ 
+I. O = U  
+ 
+II. U > O 
+ 
+1. 
+Neither conclusion I nor conclusion II 
+follows  
+ 
+ 
+न तो िनʺषŊ I और न ही िनʺषŊ II अनुसरण करता 
+है 
+ 
+2.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Either conclusion I or conclusion II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4.  Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+24. Directions: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: P ≥ Q ≤ R = S; Q ≥ T > N; P = L ≤ M 
+ 
+Conclusions:   
+ 
+I. M = T 
+ 
+II. M > T 
+ 
+1. 
+If only conclusion I follows.  
+ 
+ 
+यिद केवल िनʺषŊ I अनुसरण करता है। 
+ 
+2.  If only conclusion II follows.  
+ 
+ 
+यिद केवल िनʺषŊ II अनुसरण करता है। 
+ 
+3. 
+If either conclusion I or II follows.  
+ 
+ 
+यिद या तो िनʺषŊ I या II अनुसरण करता है। 
+ 
+4.  If neither conclusion I nor II follows.  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II अनुसरण करता है। 
+ 
+25. Directions: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: A > O = H ≥ U > I, I ≤ Y 
+ 
+Conclusions: 
+ 
+I: A > U 
+ 
+II: U > Y 
+ 
+1.  If only conclusion I follows.  
+ 
+ 
+यिद केवल िनʺषŊ I अनुसरण करता है। 
+ 
+2.  If only conclusion II follows.  
+ 
+ 
+यिद केवल िनʺषŊ II अनुसरण करता है। 
+ 
+3.  If either conclusion I or II follows.  
+ 
+ 
+यिद या तो िनʺषŊ I या II अनुसरण करता है। 
+ 
+4.  If neither conclusion I nor II follows.  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II अनुसरण करता है। 
+ 
+26. Directions: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: E = G ≥ H = N; C > F ≥ M = N 
+ 
+Conclusions:  
+ 
+I. E ≥ M 
+ 
+II. C > H 
+ 
+1. 
+If neither conclusion I nor II is true  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II सȑ है 
+ 
+2. 
+If only conclusion I is true  
+ 
+ 
+यिद केवल िनʺषŊ I सȑ है 
+ 
+3. 
+If both conclusions I and II are true  
+ 
+ 
+यिद िनʺषŊ I और II दोनों सȑ हœ 
+ 
+4. 
+If either conclusion I or II is true  
+ 
+ 
+यिद या तो िनʺषŊ I या II सȑ है 
+27. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: M ≤ N < L ≥ Q; R > T ≥ Q 
+ 
+Conclusions:  
+ 
+I. L > M 
+ 
+II. R ≥ M 
+ 
+1. 
+If either conclusion I or II is true  
+ 
+ 
+ यिद या तो िनʺषŊ I या II सȑ है 
+ 
+2.  If only conclusion I is true  
+ 
+ 
+यिद केवल िनʺषŊ I सȑ है 
+ 
+3.  If both conclusions I and II are true  
+ 
+ 
+यिद िनʺषŊ I और II दोनों सȑ हœ 
+ 
+4.  If neither conclusion I nor II is true  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II सȑ है 
+ 
+28. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: M ≥ P < H; V > T = M 
+ 
+Conclusions:  
+ 
+I. V > P   
+ 
+II. T ≥ H 
+ 
+1. 
+If only conclusion I is true  
+ 
+ 
+यिद केवल िनʺषŊ I सȑ है 
+ 
+2.  If only conclusion II is true  
+ 
+ 
+यिद केवल िनʺषŊ II सȑ है 
+ 
+3.  If either conclusion I or II is true  
+ 
+ 
+यिद या तो िनʺषŊ I या II सȑ है 
+ 
+4.  If neither conclusion I nor II is true  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II सȑ है 
+ 
+29. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: Q > R < S; K = Q > L > M; A =N>M  
+ 
+Conclusion: 
+ 
+I. M < K 
+ 
+II. S > K 
+ 
+1. 
+Only I is true/केवल I सȑ है 
+ 
+2. 
+Only II is true/केवल II सȑ है 
+ 
+3. 
+Both I and II are true/I और II दोनों सȑ हœ 
+ 
+4. 
+Either I or II is true/या तो I या II सȑ है 
+ 
+30. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: E > F > G; K > L < M = G; P>Q<R=E 
+ 
+Conclusion: 
+ 
+I. Q > F 
+ 
+II. G > K 
+ 
+1. 
+Only I is true/केवल I सȑ है 
+ 
+2. 
+Only II is true/केवल II सȑ है 
+ 
+3. 
+Both I and II are true/I और II दोनों सȑ हœ 
+ 
+4. 
+Neither I nor II is true  
+ 
+ 
+न तो I और न ही II सȑ है 
+ 
+31. Directions: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and three conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद तीन िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: B > Q < Z; Z = K; K < A < T 
+ 
+Conclusions: 
+ 
+I. Z < B 
+ 
+II. T > Q 
+ 
+III. K < T 
+ 
+1. 
+All conclusions are true/सभी िनʺषŊ सȑ हœ 
+ 
+2. 
+OnlyconclusionII is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3.  Only conclusionI is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+4.  Only conclusions II and III are true  
+ 
+ 
+केवल िनʺषŊ II औरIII सȑ है 
+ 
+32. Direction: In the following question assuming 
+the given statements to be true, find which of 
+the conclusion(s) among given conclusions is/ 
+are definitely true, and then give your answers 
+accordingly. 
+ 
+िनदőश: िनɻिलİखत प्रʲों मŐ िदए गए कथनों को सȑ 
+मानते Šए, यह ǒात करŐ िक िदए गए िनʺषŘ मŐ से कौन 
+सा/कौन से िनʺषŊ िनिʮत ŝप से सȑ है/हœ और िफर 
+उसी के अनुसार अपने उȅर दŐ। 
+ 
+Statements: P > Q < R; R = S; S < T < U 
+ 
+Conclusions: 
+ 
+I. Q < U 
+ 
+II. U > S 
+ 
+1. 
+Either I or II follow/या तो I या II सȑ है 
+ 
+2. 
+Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3. 
+Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊI सȑ है 
+ 
+4. 
+Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+33. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: J < T ≥ P = B, D ≤ F ≤ P = G 
+ 
+Conclusions: 
+ 
+I. D ≤ T 
+ 
+II. G = B 
+ 
+1.  Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+2.  Either conclusion I or II is true  
+ 
+ 
+या तो िनʺषŊ I या II सȑ है 
+ 
+3.  Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+4.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+34. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: Q > M ≤ N, Q = S > A < O 
+ 
+Conclusions: 
+ 
+I. N > A      
+ 
+II. M < S 
+ 
+1.  Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+2.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3.  Either conclusion I or II is true  
+ 
+ 
+या तो िनʺषŊ I या II सȑ है 
+ 
+4.  Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+35. Directions: In these questions, a relationship 
+between different elements is shown in the 
+statements. The statements are followed by 
+two conclusions. Read the given statement very 
+carefully and decide which conclusion definitely 
+follows the given statement.  
+ 
+िनदőश: इन प्रʲों मŐ, कथनों मŐ िविभɄ तȕों के बीच संबंध 
+िदखाया गया है। कथनों के बाद दो िनʺषŊ िदए गए हœ। 
+िदए गए कथन को बŠत ȯान से पिढ़ए और तय कीिजए 
+िक कौन सा िनʺषŊ िनिʮत ŝप से िदए गए कथन का 
+अनुसरण करता है। 
+ 
+Statements: P ≤ Q > M ≤ N, Q = S > A < O 
+ 
+Conclusions: 
+ 
+I. S > P      
+ 
+II. N < S 
+ 
+1. 
+Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+2.  Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3.  Either conclusion I or II is true  
+ 
+ 
+या तो िनʺषŊ I या II सȑ है 
+ 
+4.  Neither conclusion I nor II is true  
+ 
+ 
+न तो िनʺषŊ I और न ही II सȑ है 
+ 
+36. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: A > B > C < D, C = E > G > P = R 
+ 
+Conclusions: 
+ 
+ I. D > G 
+ 
+II. B > E 
+ 
+1. 
+Only conclusion I is true  
+ 
+ 
+केवल िनʺषŊ I सȑ है 
+ 
+2. 
+Only conclusion II is true  
+ 
+ 
+केवल िनʺषŊ II सȑ है 
+ 
+3. 
+Either conclusion I or II is true  
+ 
+ 
+या तो िनʺषŊ I या II सȑ है 
+ 
+4. 
+Both conclusions I and II are true  
+ 
+ 
+िनʺषŊ I और II दोनों सȑ हœ 
+ 
+ 
+37. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: P=Q ≤ R > W, S=T ≥ R, A > L > G=R 
+ 
+Conclusion: 
+ 
+I. P > S 
+ 
+II. A > P 
+ 
+1. 
+If only conclusion I follows  
+ 
+ 
+यिद केवल िनʺषŊ I अनुसरण करता है 
+ 
+2.  If only conclusion II follows  
+ 
+ 
+यिद केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  If either conclusion I or II follows  
+ 
+ 
+यिद या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4.  If neither conclusion I nor II follows  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+38. Directions: In these questions, a relationship 
+between different elements is shown in the 
+statements. The statements are followed by two 
+conclusions. Read the given statement very 
+carefully and decide which conclusion definitely 
+follows the given statement. 
+ 
+िनदőश: इन प्रʲों मŐ, कथनों मŐ िविभɄ तȕों के बीच संबंध 
+िदखाया गया है। कथनों के बाद दो िनʺषŊ िदए गए हœ। 
+िदए गए कथन को बŠत ȯान से पिढ़ए और तय कीिजए 
+िक कौन सा िनʺषŊ िनिʮत ŝप से िदए गए कथन का 
+अनुसरण करता है। 
+ 
+Statements: L > M ≤ N > O, O = Q > R  
+ 
+Conclusions: 
+ 
+I. L > R 
+ 
+II. M = O 
+ 
+1. 
+If only conclusion I follows  
+ 
+ 
+यिद केवल िनʺषŊ I अनुसरण करता है 
+ 
+2. 
+If only conclusion II follows  
+ 
+ 
+यिद केवल िनʺषŊ II अनुसरण करता है 
+ 
+3. 
+If either conclusion I or II follows  
+ 
+ 
+यिद या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4. 
+If neither conclusion I nor II follows  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II अनुसरण करता है 
+39. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: P > Q, X ≤ R < S, S > P 
+ 
+Conclusions: 
+ 
+I. P ≤ R 
+ 
+II. X > S 
+ 
+1. 
+Only conclusion I follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+2.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Either conclusion I or II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4.  Neither conclusion I nor II follows  
+ 
+ 
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+  
+40. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: A < B ≤ E > F, F = G ≥ H > I 
+ 
+Conclusions: 
+ 
+I. A < F 
+ 
+II. E > I 
+ 
+1. 
+If only conclusion I follows  
+ 
+ 
+यिद केवल िनʺषŊ I अनुसरण करता है 
+ 
+2. 
+If only conclusion II follows  
+ 
+ 
+यिद केवल िनʺषŊ II अनुसरण करता है 
+ 
+3. 
+If either conclusion I or II follows  
+ 
+ 
+यिद या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4. 
+If neither conclusion I nor II follows  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+41. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: K ≥ J = L, L < M ≤ N, N > O = P 
+ 
+Conclusions: 
+ 
+I. M < P 
+ 
+II. J > O 
+ 
+1. 
+If only conclusion I follows  
+ 
+ 
+यिद केवल िनʺषŊ I अनुसरण करता है 
+ 
+2.  If only conclusion II follows  
+ 
+ 
+यिद केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  If either conclusion I or II follows  
+ 
+ 
+यिद या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4.  If neither conclusion I nor II follows  
+ 
+ 
+यिद न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+42. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statements: A ≥ B < D ≤ E, A ≥ G > H = F, G = I 
+ 
+Conclusions: 
+ 
+I. I > F 
+ 
+II. E ≥ I 
+ 
+1. 
+Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+2. 
+Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3. 
+Either conclusion I or II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+4. 
+Neither conclusion I nor II follows  
+ 
+ 
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+43. Direction: In the following question assuming 
+the given statements to be true, find which of 
+the conclusions among the given conclusions 
+is/are definitely true, and then give your 
+answers accordingly. 
+ 
+िनदőश: िनɻिलİखत प्रʲ मŐ िदए गए कथनों को सȑ मानते 
+Šए, ǒात कीिजये िक िदए गए िनʺषŘ मŐ से कौन-
+सा/कौन-से िनʺषŊ िनिʮत ŝप से सȑ है/हœ और उसके 
+अनुसार अपने उȅर दीिजये। 
+ 
+Statements: A < B, C = D, E < F, B > D, G ≥ C, A 
+> F, H = E 
+ 
+Conclusions:  
+ 
+I. G > B     
+ 
+II. C = H 
+ 
+1.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+2.  Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ Iअनुसरण करता है 
+ 
+3.  Both conclusions I and II follow  
+ 
+ 
+िनʺषŊ I और II दोनों अनुसरण करतेहœ 
+ 
+4.  Neither conclusion I nor II follows  
+ 
+ 
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+ 
+44. Direction: 
+In 
+the 
+given 
+statement, 
+the 
+relationship between different elements is 
+shown and two conclusions follow it. Choose 
+the correct answer based on the information 
+given below. 
+ 
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध 
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ। 
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ। 
+ 
+Statement: M < T < G ≤ J = U > Y > R 
+ 
+Conclusion: 
+ 
+I. G < U   
+ 
+II. J > R 
+ 
+1. 
+Either conclusion I or conclusion II follows  
+ 
+ 
+या तो िनʺषŊ I या II अनुसरण करता है 
+ 
+2.  Only conclusion II follows  
+ 
+ 
+केवल िनʺषŊ II अनुसरण करता है 
+ 
+3.  Only conclusion I follows  
+ 
+ 
+केवल िनʺषŊ I अनुसरण करता है 
+ 
+4.  Both conclusions I and II follow  
+ 
+ 
+दोनों िनʺषŊ I और II अनुसरण करते हœ 
+45. Direction: 
+In 
+the 
+given 
+statement, 
+the
+relationship between different elements is
+shown and two conclusions follow it. Choose
+the correct answer based on the information
+given below.
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ।
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ।
+Statements: X > Y, M = X < Z, T < S, G ≥ T
+Conclusions:
+I. Z > M
+II. Y < Z
+1.
+Both conclusions I and II are true
+I और II दोनों िनʺषŊसȑ हœ
+2.
+Only conclusion I is true
+केवल िनʺषŊ I सȑ है
+3.
+Only conclusionII is true
+केवल िनʺषŊ II सȑ है
+4.
+Neither conclusion I nor II is true
+न तो िनʺषŊ I और न ही िनʺषŊ II सȑ है
+46. Direction: 
+In 
+the 
+given 
+statement, 
+the
+relationship between different elements is
+shown and two conclusions follow it. Choose
+the correct answer based on the information
+given below.
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ।
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ।
+Statement: W < K, Z < M ≤ W, B > Z, R ≤ K
+Conclusion:
+I. W < B
+II. R > W
+1.
+Only conclusion I follows
+केवल िनʺषŊ Iअनुसरण करता है 
+2.
+Only conclusion II follows
+केवल िनʺषŊ II अनुसरण करता है 
+3.
+Both conclusions I and II follow
+I और II दोनों िनʺषŊ अनुसरण करते हœ
+4.
+Neither conclusion I nor II follows
+न तो िनʺषŊ I और न ही िनʺषŊ II अनुसरण करता
+है
+47. Directions: 
+In 
+the 
+given 
+statement, 
+the
+relationship between different elements is
+shown and two conclusions follow it. Choose
+the correct answer based on the information
+given below.
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ।
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ।
+Statements:  F < G < D, D < H > C, F < A
+Conclusions:
+I. G < C
+II. H = A
+1.
+Both conclusions I and II follow
+दोनों िनʺषŊ I और II अनुसरण करते हœ
+2.
+Only conclusion I follows
+केवल िनʺषŊ Iअनुसरण करता है 
+3.
+Neither conclusion I nor II follows
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+4.
+Only conclusion II follows
+केवल िनʺषŊ II अनुसरण करता है 
+48. Directions: 
+In 
+the 
+given 
+statement, 
+the
+relationship between different elements is
+shown and two conclusions follow it. Choose
+the correct answer based on the information
+given below.
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ।
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ।
+Statements:  B ≥ P = M, X > B < T, Y = H ≤ X, R
+> Y > N
+Conclusions:
+I. P > H
+II. R > X
+1.
+Only conclusion II follows
+केवल िनʺषŊ II अनुसरण करता है 
+2.
+Only conclusion I follows
+केवल िनʺषŊ I अनुसरण करता है 
+3.
+Either conclusion I or II follows
+या तो िनʺषŊ I या II अनुसरण करता है 
+4.
+Neither conclusion I nor II follows
+न तो िनʺषŊ I और न ही II अनुसरण करता है 
+49. Direction: 
+In 
+the 
+given 
+statement, 
+the
+relationship between different elements is
+shown and it is followed by two conclusions.
+Choose the correct answer based on the
+information given below.
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ।
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ।
+Statements: R > I = N > P, Y ≥ R > K, N ≤ E < Z
+Conclusions:
+I. K > I
+II. I < Z
+1.
+Both conclusions I and II follow
+िनʺषŊ I और II दोनों अनुसरण करते हœ
+2.
+Only conclusion II follows
+केवल िनʺषŊ II अनुसरण करता है 
+3.
+Only conclusion I follows
+केवल िनʺषŊ I अनुसरण करता है
+4.
+Neither conclusion I nor conclusion II
+follows
+न तो िनʺषŊ I और न ही िनʺषŊ II अनुसरण करता
+है
+50. Direction: 
+In 
+the 
+given 
+statement, 
+the
+relationship between different elements is
+shown and it is followed by two conclusions.
+Choose the correct answer based on the
+information given below.
+िनदőश: िदए गए कथन मŐ, िविभɄ तȕों के बीच संबंध
+िदखाया गया है और इसके बाद दो िनʺषŊ िदए गए हœ।
+नीचे दी गई जानकारी के आधार पर सही उȅर चुनŐ।
+Statements: S ≤ D > Q > V; M ≤ N < Q = W
+Conclusions:
+I. D ≥ M
+II. N < D
+1.
+Only conclusion II follows
+केवल िनʺषŊ II अनुसरण करता है 
+2.
+Only conclusion I follows
+केवल िनʺषŊ Iअनुसरण करता है 
+3.
+Either conclusion I or conclusion II follows
+या तो िनʺषŊ I या िनʺषŊ II अनुसरण करता है
+4.
+Both conclusions I and II follow
+िनʺषŊ I औरII दोनों अनुसरण करते हœ
+ 
+1 
+(1) 
+2 
+(4) 
+3 
+(4) 
+4 
+(3) 
+5
+(3) 
+6
+(4) 
+7
+(1) 
+8
+(3) 
+9
+(3) 
+10
+(1) 
+11. 
+(3) 
+12. 
+(3) 
+13 
+(4) 
+14 
+(4) 
+15
+(4) 
+16
+(4) 
+17
+(2) 
+18
+(1) 
+19
+(4) 
+20 
+(3) 
+21. 
+(4) 
+22 
+(3) 
+23 
+(3) 
+24 
+(3) 
+25
+(1) 
+26
+(3) 
+27
+(2) 
+28
+(1) 
+29
+(1) 
+30 
+(4) 
+31 
+(4) 
+32 
+(4) 
+33 
+(1) 
+34 
+(2) 
+35
+(4) 
+36
+(4) 
+37
+(2) 
+38
+(4) 
+39
+(4) 
+40 
+(2) 
+41 
+(4) 
+42 
+(1) 
+43 
+(4) 
+44 
+(2) 
+45
+(1) 
+46
+(4) 
+47
+(3) 
+48
+(4) 
+49
+(2) 
+50 
+(1) 
+Answer Key 

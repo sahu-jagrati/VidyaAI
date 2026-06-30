@@ -1,0 +1,2766 @@
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+1. 
+If sin B = 
+𝟗
+𝟒𝟏 , then what is the value of cot B, where 0° < B < 90° ? 
+;fn sin B = 
+𝟗
+𝟒𝟏 gS] rks cot B dk eku D;k gksxk] tgk¡ 0° < B < 90° gS\ 
+(a) 
+𝟒𝟏
+𝟗 
+(b) 
+𝟒𝟎
+𝟗 
+(c) 
+𝟗
+𝟒𝟏 
+(d) 
+𝟗
+𝟒𝟎 
+2. 
+If 𝛉 is an acute angle and sin 𝛉 = 43
+47
+, what is the value of cos 𝛉?  
+;fn 𝜽 ,d U;wudks.k gS vkSj sin 𝛉=
+𝟒𝟑
+𝟒𝟕 , rks cos𝛉 dk eku D;k gS\ 
+(a) 
+43
+6 10
+ 
+(b) 
+47
+6 10
+ 
+(c) 6 10
+43
+ 
+(d) 6 10
+47
+ 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+3. If 𝒕 is an acute angle and 𝒕𝒂𝒏(𝒕) =
+𝟑
+𝟕, then what is the value of 𝒄𝒐𝒔𝒆𝒄(𝒕)? 
+यदि t एक न्यूनकोण है और 𝒕𝒂𝒏(𝒕) =
+𝟑
+𝟕 है, तो cosec(t) का मान क्या है? SSC CHSL PRE 2024 
+A) 
+√𝟓𝟑
+𝟕 
+B) 
+√𝟓𝟑
+𝟑 
+C) 
+𝟕
+√𝟓𝟖 
+D) 
+√𝟓𝟖
+𝟑 
+4. 
+If cos A = 
+𝟏
+𝟏𝟏, then find the value of cot A. 
+यदि cos A = 
+𝟏
+𝟏𝟏 है, तो cotA का मान ज्ञात कीदिए । 
+(a) 
+𝟐√𝟑𝟎
+𝟏𝟏                       (b) 2√30  
+(c)
+𝟏𝟏
+𝟐√𝟑𝟎                         (d) 
+𝟏
+𝟐√𝟑𝟎      (SSC CPO 2023) 
+5. 
+If 5cosθ=4sinθ,0𝒐≤𝜽≤90𝒐, then what will be the value of secθ . 
+;fn 
+o
+o
+5cosθ=4sinθ,0
+θ
+90
+
+
+gS] rks secθ dk eku Kkr djsaA 
+ (a) 
+41
+5
+ 
+(b) 
+3
+5
+ 
+(c) 
+41
+16
+ 
+(d) 
+41
+4
+ 
+6. 
+If Sin A = 
+𝟖
+𝟏𝟕, then what is the value of Cot A + Sec A? 
+यदि Sin A = 
+𝟖
+𝟏𝟕 है, तो Cot A + Sec A का मान क्या है? 
+(a) 4
+𝟏
+𝟏𝟐𝟎 
+(b) 2
+𝟏
+𝟏𝟐𝟎 
+(c) 5
+𝟏
+𝟏𝟐𝟎 
+(d) 3
+𝟏
+𝟏𝟐𝟎 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+7. The sides of a right-angled triangle, right-angled at B, are 6, 8 and 10 units. C is the vertex opposite to the side 
+with length 8 units. What is the value of tan2 A + cos2 C? 
+एक समकोण त्रिभुज की भुजाएँ, B पर समकोण हैं, 6, 8 और 10 इकाइयाँ हैं। C भुजा के विपरीत शीर्ष है जजसकी लंबाई 8 इकाई है। tan2 A + 
+cos2 C का मान क्या है?       (SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 125/400 
+B) 321/400 
+C) 325/400 
+D) 369/400 
+8. 
+If 4cot A = 5, then what is the value of 6 sec A tan A? 
+;fn 4cot A = 5, rks 6 sec A tan A dk eku D;k gS\ 
+(a) 
+𝟐𝟎√𝟒𝟏
+𝟐𝟏 
+(b) 
+𝟐𝟓√𝟒𝟏
+𝟐𝟒 
+(c) 
+𝟐𝟒√𝟒𝟏
+𝟐𝟓 
+(d) 
+3/2 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+9. 
+If cos 𝜽=
+𝟕
+𝟑√𝟔 and 𝜽 is an acute angle , then the value of 27 sin2𝜽 - 
+𝟑
+𝟐 is: 
+;fn cos 𝜽=
+𝟕
+𝟑√𝟔 gS vkSj 𝜽 U;w.k dks.k gS] rks 27 sin2𝜽 - 
+𝟑
+𝟐dk eku Kkr djsaA 
+(a) 
+12 
+(b) 
+15 
+(c) 
+1 
+(d) 
+9 
+10. If tan 𝜽 = 
+8
+19, find the value of sec2 𝜽. 
+;fn 𝐭𝐚𝐧𝜽=
+𝟖
+𝟏𝟗 , rks 𝒔𝒆𝒄𝟐𝜽 dk eku Kkr dhft,A 
+(a) 297
+361
+  
+(b) 11
+19
+      (c) 
+8
+119
+ 
+(d) 
+64
+1361  
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+11.  
+If 𝒔𝒆𝒄𝜽= 𝟐
+𝟒
+𝟐𝟑 ,, find the value of 𝒕𝒂𝒏𝟐𝜽. 
+;fn 𝒔𝒆𝒄𝜽= 𝟐
+𝟒
+𝟐𝟑 ,  rks 𝒕𝒂𝒏𝟐𝜽 dk eku Kkr dhft,A 
+ 
+(a) 
+177
+3 529  
+(b) 
+16
+2 529  
+(c) 200
+1529  
+(d) 
+384
+3 529  
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+12. If 𝒕𝒂𝒏𝑨=
+𝟐
+𝟓, then find 
+𝒔𝒆𝒄𝟐𝑨
+𝒄𝒐𝒔𝒆𝒄𝟐𝑨? 
+यदि 𝒕𝒂𝒏𝑨=
+𝟐
+𝟓, तो 
+𝒔𝒆𝒄𝟐𝑨
+𝒄𝒐𝒔𝒆𝒄𝟐𝑨ज्ञात कीजजए? (CPO 2023) 
+A) 3/5 
+B) 4/25 
+C) 2/5 
+D) 9/25 
+13. If 𝒄𝒐𝒔𝒆𝒄𝜽=
+𝟓
+𝟑, then evaluate (𝒔𝒆𝒄𝟐𝜽−𝟏) × 𝒄𝒐𝒕𝟐𝜽× (𝟏+ 𝒄𝒐𝒕𝟐𝜽)? 
+यदि cosecθ=5/3, तो (𝒔𝒆𝒄𝟐𝜽−𝟏) × 𝒄𝒐𝒕𝟐𝜽× (𝟏+ 𝒄𝒐𝒕𝟐𝜽) मूलयांकन करें 
+SSC CGL Pre 2024 
+A) 25/16 
+B) 9/16 
+C) 25/9 
+D) 4/5 
+14. If 𝒔𝒊𝒏𝜽=
+𝟏𝟏
+𝟏𝟐, then find 𝒕𝒂𝒏𝜽+ 𝒔𝒆𝒄𝜽? 
+यदि 𝒔𝒊𝒏𝜽=
+𝟏𝟏
+𝟏𝟐, तो 𝒕𝒂𝒏𝜽+ 𝒔𝒆𝒄𝜽 ज्ञात कीजजए? SSC CHSL PRE 2024 
+A) √𝟐𝟑 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+B) 11/√𝟐𝟑 
+C) 12/√𝟐𝟑 
+D) 23 
+15. IF cos A = 63
+65 , then find the value of tan A + cot A (up to two places of decimal). 
+;fn cos A = 
+𝟔𝟑
+𝟔𝟓 , rks tan A + cot A dk eku Kkr dhft, ¼ n”keyo ds nks LFkkuksa rd½A 
+ 
+(a) 3.19            (b) 5.23 
+(c) 4.19 
+     (d) 2.76 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+16. If sin A= 
+𝟐
+𝟑, then find the value of (7 - tan A) (3 + cos A). 
+यदि sin A= 
+𝟐
+𝟑  है
+ ,
+तो (7 - tan A) (3 + cos A) का मान ज्ञात कीदिए ।  
+(a) 
+𝟔𝟏
+𝟑+
+𝟏𝟕
+√𝟓                    (b) 
+𝟔𝟏
+𝟑−
+𝟏𝟕
+𝟑√𝟓        (c) 
+𝟔𝟏
+𝟑+
+𝟏𝟕
+𝟑√𝟓                    (d) 
+𝟔𝟏
+𝟑√𝟓+
+𝟏𝟕
+𝟑 
+(SSC CPO 2023) 
+17. If 𝒔𝒊𝒏∅= 𝟓𝟔,
+⁄ , the value of 𝑪𝒐𝒕∅. 𝑺𝒊𝒏∅. 𝑪𝒐𝒔∅ is _______ . 
+;fn 𝒔𝒊𝒏∅= 𝟓𝟔,
+⁄  rks 𝑪𝒐𝒕∅. 𝑺𝒊𝒏∅. 𝑪𝒐𝒔∅ dk eku --------------gSA 
+(a) 
+6
+5 
+     (b) 
+25
+36 
+ 
+    (c) 
+5
+6 
+          (d) 
+11
+36 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+18. If cosecx = 5/4, then the value of 
+𝟓𝒔𝒊𝒏𝟐𝒙+𝟖𝒄𝒐𝒕𝟐𝒙
+𝟐𝟕𝒕𝒂𝒏𝟐𝒙−𝟏𝟐𝟓𝒄𝒐𝒔𝟐𝒙 is? 
+यदि cosecx = 5/4 है, तो 
+𝟓𝒔𝒊𝒏𝟐𝒙+𝟖𝒄𝒐𝒕𝟐𝒙
+𝟐𝟕𝒕𝒂𝒏𝟐𝒙−𝟏𝟐𝟓𝒄𝒐𝒔𝟐𝒙 का मान क्या है? 
+SSC CGL Pre 2024 
+A) 33/91 
+B) 77/30 
+C) 55/87 
+D) 99/47 
+19. If cos𝜽 = 
+𝟏𝟐
+𝟏𝟑, 𝒕𝒉𝒆𝒏 𝒕𝒉𝒆 𝒗𝒂𝒍𝒖𝒆 𝒐𝒇 
+𝒔𝒊𝒏𝜽(𝟏−𝒕𝒂𝒏𝜽)
+𝒕𝒂𝒏𝜽(𝟏+𝒄𝒐𝒔𝒆𝒄𝜽) is: 
+यदि cos𝜽 = 
+𝟏𝟐
+𝟏𝟑 है तो 
+𝒔𝒊𝒏𝜽(𝟏−𝒕𝒂𝒏𝜽)
+𝒕𝒂𝒏𝜽(𝟏+𝒄𝒐𝒔𝒆𝒄𝜽) का मान क्या होगा? 
+(a) 
+𝟐𝟓
+𝟕𝟖 
+ 
+(b) 
+𝟑𝟓
+𝟐𝟑𝟒 
+ 
+(c) 
+𝟑𝟓
+𝟏𝟎𝟖 
+ 
+(d) 
+𝟐𝟓
+𝟏𝟓𝟔 
+20. Given that 𝒔𝒊𝒏𝜽=
+𝟏𝟓
+𝟏𝟕. Evaluate 
+𝟏𝟓𝒄𝒐𝒕𝜽+𝟏𝟕𝒔𝒊𝒏𝜽
+𝟖𝒕𝒂𝒏𝜽+𝟏𝟔𝒔𝒆𝒄𝜽, 𝒘𝒉𝒆𝒓𝒆 𝟎° < 𝜽< 𝟗𝟎°? 
+यह दिया गया है कक 𝒔𝒊𝒏𝜽=
+𝟏𝟓
+𝟏𝟕 जहाँ 0°<θ<90°,  
+𝟏𝟓𝒄𝒐𝒕𝜽+𝟏𝟕𝒔𝒊𝒏𝜽
+𝟖𝒕𝒂𝒏𝜽+𝟏𝟔𝒔𝒆𝒄𝜽  का मूलयांकन करें ? SSC CHSL PRE 2024 
+A) 23/49 
+B) 49/23 
+C) 49/26 
+D) 26/23 
+21. If cot = 
+𝟏𝟓
+𝟖 ,  is an acute angle, then find the value of  (
+)(
+)
+(
+)(
+)
+1-cosθ
+2+2cosθ
+2-2sinθ 1+sinθ
+. 
+;fn cot = 
+𝟏𝟓
+𝟖  gS]  U;wu dks.k gS] rks (
+)(
+)
+(
+)(
+)
+1-cosθ
+2+2cosθ
+2-2sinθ 1+sinθ
+ dk eku Kkr djsaA 
+(a) 
+𝟏𝟔
+𝟏𝟓 
+(b) 
+𝟔𝟒
+𝟐𝟐𝟓 
+(c) 
+𝟐𝟐𝟓
+𝟔𝟒 
+(d) 
+𝟖
+𝟏𝟓 
+22. If 𝒄𝒐𝒔𝒆𝒄𝜽= 𝐛/𝐚, then √𝟑𝐜𝐨𝐭𝜽+𝟏
+𝐭𝐚𝐧𝜽+√𝟑 is equal to:  
+यदि 𝒄𝒐𝒔𝒆𝒄𝜽= 𝐛/𝐚, है, तो √𝟑𝐜𝐨𝐭𝜽+𝟏
+𝐭𝐚𝐧𝜽+√𝟑 ________ के बराबर है।  
+(a) 
+√𝒃𝟐−𝒂𝟐
+𝒂
+ 
+ 
+(b) 
+√𝒃𝟐+𝒂𝟐
+𝒂
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(c) 
+√𝒂𝟐+𝒃𝟐
+𝒃
+ 
+ 
+(d) 
+√𝒃𝟐−𝒂𝟐
+𝒃
+ 
+23. If 𝒄𝒐𝒔𝑨= √𝟏𝟎
+√𝟏𝟓, then the value of 
+𝒄𝒐𝒔𝒆𝒄𝟐𝑨+𝐭𝐚𝐧𝟐𝑨
+𝐬𝐢𝐧𝟐𝑨+𝐜𝐨𝐭𝟐𝑨 is:  
+अगर 𝒄𝒐𝒔𝐀= √𝟏𝟎
+√𝟏𝟓 है, तो 
+𝒄𝒐𝒔𝒆𝒄𝟐𝐀+𝐓𝐚𝐧𝟐𝐀
+𝐬𝐢𝐧𝟐𝐀+𝑪𝒐𝒕𝟐𝐀 का मान ज्ञात कीजजए।  
+(a) 
+𝟗
+𝟒 
+ 
+ 
+(b) 
+𝟒
+𝟗 
+ 
+ 
+ 
+(c) 
+𝟑
+𝟐 
+ 
+ 
+(d) 
+𝟐
+𝟑 
+24. If 3tan = 2√𝟑 sin 0° <  < 90°, then the value of 
+𝟑
+𝟒 (𝒄𝒐𝒔𝒆𝒄²𝟐𝜽+𝒄𝒐𝒕²𝟐𝜽
+𝒔𝒊𝒏²𝜽+𝒕𝒂𝒏²𝟐𝜽) 
+;fn 3tan = 2√𝟑 sin 0° <  < 90° gS] rks 
+𝟑
+𝟒 (𝒄𝒐𝒔𝒆𝒄²𝟐𝜽+𝒄𝒐𝒕²𝟐𝜽
+𝒔𝒊𝒏²𝜽+𝒕𝒂𝒏²𝟐𝜽) dk eku Kkr djsaA 
+(a) 
+𝟓
+𝟏𝟑 
+(b) 
+𝟑
+𝟏𝟑 
+(c) 
+𝟕
+𝟏𝟑 
+(d) 
+𝟏
+𝟏𝟑 
+25. If sin = 
+𝒂
+√𝒂𝟐+𝒃𝟐 , 00 <  < 900, then the value of sec + tan is: 
+यदि sin = 
+𝒂
+√𝒂𝟐+𝒃𝟐 , 00 <  < 900  तो sec + tan dk eku Kkr djsaA 
+a) 
+√𝒂𝟐+ 𝒃𝟐+𝒂
+𝒃
+  
+ b) 
+√𝒂𝟐+ 𝒃𝟐+𝒃
+𝟐𝒂
+ 
+  c) 
+√𝒂𝟐+ 𝒃𝟐+𝒂
+𝟐𝒃
+ 
+     d) 
+√𝒂𝟐+ 𝒃𝟐+𝒃
+𝒂
+ 
+26. If 𝒔𝒊𝒏𝜽=
+𝟐𝒙𝒚
+𝒙𝟐+𝒚𝟐, then find tan𝜽? 
+यदि 𝒔𝒊𝒏𝜽=
+𝟐𝒙𝒚
+𝒙𝟐+𝒚𝟐, तो tan𝜽 ज्ञात कीजजए? 
+(SSC CHSL 2024) 
+ 
+A) 
+𝒙𝟐+𝒚𝟐
+𝒙𝟐−𝒚𝟐 
+B) 
+𝟐𝒙𝒚
+𝒙𝟐−𝒚𝟐 
+C) 
+𝒙𝟐−𝒚𝟐
+𝟐𝒙𝒚 
+D) 
+𝒙𝟐−𝒚𝟐
+𝒙𝟐+𝒚𝟐 
+27. If 
+4x
+cos
+2
+1+4x
+=
+ then what is the value of sin ? 
+ 
+;fn 
+4x
+cos
+2
+1+4x
+=
+ rks sin  dk eku D;k gksxk\ 
+ 
+(a) 
+2
+1+4x
+2
+1- 4x
+ 
+ 
+(b) 
+2
+1+4x
+2
+4x
+ 
+ 
+(c) 
+2
+1-4x
+2
+1+4x
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(d) 
+2
+1-4x
+4x
+ 
+28. If sin = 2 ab
+a+b
+, a > b > 0, then the value of cosθ+1
+cosθ-1
+ will be: 
+;fn sin = 2 ab
+a+b
+gS] a > b > 0 gS] rks cosθ+1
+cosθ-1
+ dk eku Kkr djsaA 
+(a) 
+b
+- a
+ 
+(b) 
+a
+b
+−
+ 
+(c) 
+𝒂
+𝒃 
+(d) 
+𝒃
+𝒂 
+29. In ∆ABC, ∠C=90° and AB=c, BC=a, CA=b, then find the value of (cosecB-cosA)? 
+a)
+𝒄𝟐
+𝒂𝒃                    b) 
+𝒃𝟐
+𝒄𝒂                 c) 
+𝒂𝟐
+𝒃𝒄              d) 
+𝒃𝒄
+𝒂𝟐     
+ 
+30. In ABC, AB = 20 cm, BC = 21 cm and AC = 29 cm. What is the value of cot C + cosec C – 2 tanA? 
+ABC eas] AB = 20 cm, BC = 21 cm vkSj AC = 29 cm gSA  cot C + cosec C – 2 tanA dk eku Kkr djsaA 
+(a) 
+𝟗
+𝟐𝟎 
+(b) 
+𝟕
+𝟐𝟎 
+(c) 
+𝟐
+𝟓 
+(d) 
+𝟑
+𝟓 
+31. If tan x = 7/5, then the value of 
+𝟗𝒔𝒊𝒏𝒙−𝟒𝟐
+𝟓𝒄𝒐𝒔𝒙
+𝟏𝟓𝒔𝒊𝒏𝒙+𝟐𝟏𝒄𝒐𝒔𝒙 is? 
+यदि tan x = 7/5 है, तो 
+𝟗𝒔𝒊𝒏𝒙−𝟒𝟐
+𝟓𝒄𝒐𝒔𝒙
+𝟏𝟓𝒔𝒊𝒏𝒙+𝟐𝟏𝒄𝒐𝒔𝒙 का मान क्या है? 
+A) 0 
+B) 0.1 
+C) 1 
+D) 0.5 
+32. If Sinθ=√𝟏
+𝟔√𝟏
+𝟔√𝟏
+𝟔−−−−−−−−−−−−−∞ Then, tanθ+cotθ=? 
+a)
+𝟑𝟔
+√𝟑𝟓                  b)
+𝟑𝟔
+𝟑𝟓             c)√𝟑𝟓
+𝟑𝟔                 d)√𝟑𝟓
+𝟑𝟔  
+ 
+33. Sin𝛉 = 
+𝟖
+𝟏𝟕, tan𝛂 = 
+𝟏𝟓
+𝟖, then find cos(𝛉+𝛂) = ? 
+ a)0                b)1                 c)
+𝟐𝟑
+𝟏𝟕                  d)
+𝟏𝟓
+𝟏𝟕 
+34. If 4 sin²(2x–10)° = 3, 0  (2x–10)  90, then find the value of 
+4
+4
+2
+2
+sin (
+5)
+(
+5)
+1 2sin (3
+15) cos (3
+15)
+x
+cos
+x
+x
+x
+−
++
+−
+
+−
+−
+
+−
+
+. 
+;fn 4 sin²(2x–10)° = 3, 0  (2x–10)  90gS] rks 
+4
+4
+2
+2
+sin (
+5)
+(
+5)
+1 2sin (3
+15) cos (3
+15)
+x
+cos
+x
+x
+x
+−
++
+−
+
+−
+−
+
+−
+
+ dk eku Kkr djsaA 
+(a) 
+1 
+(b) 
+𝟓
+𝟖 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(c) 
+−
+𝟓
+𝟖 
+(d) 
+–1 
+35. If 
+𝟕𝐬𝐢𝐧𝛉+𝟒𝐜𝐨𝐬𝛉
+𝟗𝐬𝐢𝐧𝛉−𝟐𝐜𝐨𝐬𝛉=
+𝟓
+𝟒 then the value of 
+𝐭𝐚𝐧𝟐𝛉+𝟓
+𝐭𝐚𝐧𝟐𝛉−𝟓 is: 
+यदि 
+𝟕𝐬𝐢𝐧𝛉+𝟒𝐜𝐨𝐬𝛉
+𝟗𝐬𝐢𝐧𝛉−𝟐𝐜𝐨𝐬𝛉=
+𝟓
+𝟒 है, तो 
+𝐭𝐚𝐧𝟐𝛉+𝟓
+𝐭𝐚𝐧𝟐𝛉−𝟓 का मान ज्ञात कीदिए। 
+(a) 2121/769 
+(b) -2121/769 
+ 
+(c) 769/2121 
+(d) -769/2121 
+36. If cot = 3 + 2 2  , then cosec sec = ? 
+;fn cot =  3 + 2 2  gS] rks cosec sec dk eku Kkr djsaA 
+(a) 
+6 
+(b) 
+4 2  
+(c) 
+none 
+(d) 
+2 2  
+37. If 𝒕𝒂𝒏𝑨= √𝟐−𝟏, then find sinAcosA+tanA? 
+यदि tanA=√𝟐−1, तो sinAcosA+tanA ज्ञात कीजजए? SSC CHSL PRE 2024 
+A) 
+𝟐𝟒√𝟐+𝟏𝟓
+𝟒
+ 
+B) 
+𝟓√𝟐−𝟒
+𝟒
+ 
+C) 
+𝟐𝟒√𝟐−𝟏𝟓
+𝟒
+ 
+D) 
+𝟓√𝟐+𝟒
+𝟒
+ 
+38. If 𝒕𝒂𝒏𝜽=
+𝟓
+𝟗, then 
+𝟏𝟖𝒔𝒊𝒏𝜽−𝟕𝒄𝒐𝒔𝜽
+𝟗𝒔𝒊𝒏𝜽+𝟏𝟏𝒄𝒐𝒔𝜽 is eqaul to: 
+;fn 𝒕𝒂𝒏𝜽=
+𝟓
+𝟗, gks rks 
+𝟏𝟖𝒔𝒊𝒏𝜽−𝟕𝒄𝒐𝒔𝜽
+𝟗𝒔𝒊𝒏𝜽+𝟏𝟏𝒄𝒐𝒔𝜽  dk eku gksxk\ 
+ 
+a) 
+𝟓
+𝟏𝟒 
+   b)
+𝟑
+𝟏𝟔 
+     c) 
+𝟐
+𝟓          d) 
+𝟒
+𝟏𝟏 
+39. If 5 cot θ = 3, find the value of 
+6 sin θ – 3 cos θ
+7 sin θ + 3 cos θ 
+यदि 5 cotθ = 3 है, तो 
+𝟔𝒔𝒊𝒏𝜽−𝟑𝒄𝒐𝒔𝜽
+𝟕𝒔𝒊𝒏𝜽+𝟑𝒄𝒐𝒔𝜽 का मान ज्ञात कीजजए। 
+(A) 
+𝟐𝟎
+𝟒𝟏 
+ 
+(B) 
+𝟒𝟒
+𝟐𝟏 
+ 
+(C) 
+𝟏𝟏
+𝟒𝟎 
+ 
+(D) 
+𝟐𝟏
+𝟒𝟒 
+40. If tanθ = 
+𝟐
+√𝟏𝟑, then the value of 
+𝟑𝒄𝒐𝒔𝒆𝒄𝟐𝜽 +  𝟐𝒔𝒆𝒄𝟐𝜽
+𝟓𝒄𝒐𝒔𝒆𝒄𝟐𝜽  −  𝟒𝒔𝒆𝒄𝟐𝜽 will be: 
+यदि tanθ = 
+𝟐
+√𝟏𝟑, तो 
+𝟑𝒄𝒐𝒔𝒆𝒄𝟐𝜽 +  𝟐𝒔𝒆𝒄𝟐𝜽
+𝟓𝒄𝒐𝒔𝒆𝒄𝟐𝜽  −  𝟒𝒔𝒆𝒄𝟐𝜽 का मान होगा: 
+(a) 
+𝟒𝟏
+𝟒𝟓                  
+(b) 
+𝟒𝟕
+𝟒𝟗                  
+(c) 
+𝟒𝟔
+𝟓𝟑                          (d) 
+𝟓
+𝟕 
+41. If 𝒄𝒐𝒕𝜽= √𝟏𝟏, then the value of 
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽−𝒔𝒆𝒄𝟐𝜽
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽+𝒔𝒆𝒄𝟐𝜽 is? 
+यदि cotθ=√11, तो
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽−𝒔𝒆𝒄𝟐𝜽
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽+𝒔𝒆𝒄𝟐𝜽 का मान क्या है? 
+SSC CGL Pre 2024 
+A) 3/5 
+B) 5/6 
+C) 4/5 
+D) 6/7 
+42. If 𝒄𝒐𝒕𝜶=
+𝑷
+𝑸, then find 
+𝑷𝒄𝒐𝒔𝜶−𝑸𝒔𝒊𝒏𝜶
+𝑷𝒄𝒐𝒔𝜶+𝑸𝒔𝒊𝒏𝜶−
+𝑷𝟐−𝑸𝟐
+𝑷𝟐+𝑸𝟐+ 𝟑? 
+यदि 𝒄𝒐𝒕𝜶=
+𝑷
+𝑸, तो 
+𝑷𝒄𝒐𝒔𝜶−𝑸𝒔𝒊𝒏𝜶
+𝑷𝒄𝒐𝒔𝜶+𝑸𝒔𝒊𝒏𝜶−
+𝑷𝟐−𝑸𝟐
+𝑷𝟐+𝑸𝟐+ 𝟑 ज्ञात कीजजए? SSC CHSL PRE 2024 
+A) 
+𝑷𝟐
+𝑷𝟐+𝑸𝟐 
+B) 
+𝑷
+𝑸 
+C) 0 
+D) 3 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+43. If cotA = 
+𝟓
+𝟏𝟐, then find the value of √𝒔𝒆𝒄𝑨 –𝒄𝒐𝒔𝒆𝒄𝑨
+√𝒔𝒆𝒄𝑨+𝒄𝒐𝒔𝒆𝒄𝑨– √𝟏𝟕
+𝟕. 
+यदि cotA=
+𝟓
+𝟏𝟐 है, तो √𝒔𝒆𝒄𝑨 –𝒄𝒐𝒔𝒆𝒄𝑨
+√𝒔𝒆𝒄𝑨+𝒄𝒐𝒔𝒆𝒄𝑨– √𝟏𝟕
+𝟕 का मान ज्ञात कीजजए।                              
+SSC CHSL PRE 2024 
+ [A] 
+𝟐𝟓
+√𝟏𝟏𝟗  
+[B] 0 
+[C]  
+– 
+𝟏𝟎
+√𝟏𝟏𝟗 
+[D] 
+𝟏𝟎
+√𝟏𝟏𝟗 
+44. If 
+𝒔𝒊𝒏𝒙−𝒄𝒐𝒔𝒙
+𝒔𝒊𝒏𝒙+𝒄𝒐𝒔𝒙=
+𝟐
+𝟓, then the value of 
+𝟏+𝒄𝒐𝒕𝟐𝒙
+𝟏−𝒄𝒐𝒕𝟐𝒙? 
+यदि 
+𝒔𝒊𝒏𝒙−𝒄𝒐𝒔𝒙
+𝒔𝒊𝒏𝒙+𝒄𝒐𝒔𝒙=
+𝟐
+𝟓, तो 
+𝟏+𝒄𝒐𝒕𝟐𝒙
+𝟏−𝒄𝒐𝒕𝟐𝒙 का मान क्या होगा? 
+A) 2.25 
+B) 1.45 
+C) 3.75 
+D) 5.25 
+45. If cosecθ+cotθ
+cosecθ-cotθ
+ = 7, then the value of 
+2
+2
+4sin θ+5
+4sin θ-1
+ is: 
+;fn cosecθ+cotθ
+cosecθ-cotθ
+ = 7 gS] rks 
+2
+2
+4sin θ+5
+4sin θ-1
+ dk eku Kkr djsaA 
+(a) 
+15 
+(b) 
+3 
+(c) 
+9 
+(d) 
+12 
+46. If 
+𝒔𝒆𝒄𝜽−𝒕𝒂𝒏𝜽
+𝒔𝒆𝒄𝜽+𝒕𝒂𝒏𝜽=
+𝟑
+𝟓, then the value of 
+𝒄𝒐𝒔𝒆𝒄𝜽+𝒄𝒐𝒕𝜽
+𝒄𝒐𝒔𝒆𝒄𝜽−𝒄𝒐𝒕𝜽𝒊𝒔: − 
+यदि 
+𝒔𝒆𝒄𝜽 − 𝒕𝒂𝒏𝜽
+𝒔𝒆𝒄𝜽+  𝒕𝒂𝒏𝜽=
+𝟑
+𝟓  है, तो 
+𝒄𝒐𝒔𝒆𝒄𝜽+𝒄𝒐𝒕𝜽
+𝒄𝒐𝒔𝒆𝒄𝜽 −𝒄𝒐𝒕𝜽 का मान बताइए।   
+a) 31+8√15                      
+b) 33+4√15 
+c) 27+√15                        
+d) 24+√15 
+ 
+47. If cotA=7, then find 
+𝟓 𝒄𝒐𝒔𝑨+𝟒 𝒔𝒊𝒏𝑨
+𝒄𝒐𝒔𝟑𝑨+𝟕𝒔𝒊𝒏𝟑𝑨+𝟔𝒔𝒊𝒏𝑨? 
+यदि cotA=7, तो
+𝟓 𝒄𝒐𝒔𝑨+𝟒 𝒔𝒊𝒏𝑨
+𝒄𝒐𝒔𝟑𝑨+𝟕𝒔𝒊𝒏𝟑𝑨+𝟔 𝒔𝒊𝒏𝑨ज्ञात कीजजए? SSC CHSL PRE 2024 
+A) 3 
+B) 2 
+C) 1 
+D) 0 
+48. If sinA + cosA = 
+𝟏
+𝟐√𝟐, then find the value of sin4A+cos4A. 
+यदि sinA + cosA = 
+𝟏
+𝟐√𝟐, तो sin4A+cos4A का मान ज्ञात कीदिए।  
+(a) 79/128 
+(b) 7/13 
+(c) 79/126 
+(d) 5/13 
+49. If 𝒔𝒊𝒏𝜽 𝒄𝒐𝒔𝜽= √𝟐
+𝟑,  , then the value of (𝒔𝒊𝒏𝟔𝜽+ 𝒄𝒐𝒔𝟔𝜽)  
+;fn 𝒔𝒊𝒏𝜽 𝒄𝒐𝒔𝜽= √𝟐
+𝟑, rks (𝒔𝒊𝒏𝟔𝜽+ 𝒄𝒐𝒔𝟔𝜽) dk eku D;k gS\ 
+(a) 1
+3
+  
+(b) 2
+3
+     
+(c) 5
+3
+ 
+(d) 4
+3  
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+50. If sin6  + cos6  = 
+𝟏
+𝟑, 0° <  < 90°, then what is the value of sin cos ? 
+;fn sin6  + cos6  = 
+𝟏
+𝟑 , 0° <  < 90° gS] rks sin cos dk eku Kkr djsaA 
+(a) 
+6
+6
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(b) 
+2
+3
+ 
+(c) 
+2
+3
+ 
+(d) 
+𝟐
+𝟐 
+51. If sin2𝜽=
+𝟐
+𝟓 then what is 𝐬𝐢𝐧𝟔𝜽+ 𝐬𝐢𝐧𝟒𝜽+ 𝐜𝐨𝐬𝟔𝜽+ 𝐜𝐨𝐬𝟒𝜽 equal to? 
+;fn sin2𝜽 =  
+𝟐
+𝟓 gS rks 𝐬𝐢𝐧𝟔𝜽+ 𝐬𝐢𝐧𝟒𝜽+ 𝐜𝐨𝐬𝟔𝜽+ 𝐜𝐨𝐬𝟒𝜽 fdlds cjkcj gS\ 
+(a)1.8              (b)𝟏. 𝟔  (c) 1.4  
+ 
+(d) 1.8 
+52. In a triangle ABC, right angled at B,AB= 7 and(AC-BC)= 1cm. The value of (secA+cotC) is: 
+∆ABC esa B ij ledks.k gS] AB=7cm vkSj (AC-BC)=1cm gSA (secA+cotC)  dk eku gS: 
+a) 
+𝟒
+𝟑  
+ 
+b) 
+𝟑
+𝟒  
+ 
+c) 
+𝟏𝟕𝟓
+𝟐𝟒  
+ 
+d) 7 
+53. If secx + cosx = 3, then tan2x – sin2x =? 
+a) 5           b) 13          c) 9             d) 4 
+ 
+54. If 𝒔𝒊𝒏𝜽+ 𝒄𝒐𝒔𝒆𝒄𝜽= 𝒌 , then what is the value of 𝐜𝐨𝐬𝟐𝜽−𝐜𝐨𝐭𝟐𝜽? 
+;fn 𝒔𝒊𝒏𝜽+ 𝒄𝒐𝒔𝒆𝒄𝜽= 𝒌 gS rks 𝐜𝐨𝐬𝟐𝜽−𝐜𝐨𝐭𝟐𝜽 dk eku D;k gS\ 
+(a) 3– 𝒌𝟐 
+ 
+(b) 4 – k2 
+ 
+(c) k2 – 4 
+ 
+(d) k2 + 2 
+ 
+55. If sin + cosec = 7, then what is the value of sin³ + cosec³  ?  
+;fn If sin + cosec = 7 gS, rks sin³ + cosec³  dk eku Kkr dhft,A 
+(a) 
+350 
+(b) 
+382 
+(c) 
+322 
+(d) 
+367 
+56. If 𝟕𝒔𝒊𝒏𝟐𝜽+ 𝟒𝒄𝒐𝒔𝟐𝜽= 𝟓 and 𝜽 lies in the first quadrant, then what is the value of √𝟑𝒔𝒆𝒄𝜽+𝒕𝒂𝒏𝜽
+√𝟐𝒄𝒐𝒕𝜽−√𝟑𝒄𝒐𝒔𝜽? 
+यदि 𝟕𝒔𝒊𝒏𝟐𝜽+ 𝟒𝒄𝒐𝒔𝟐𝜽= 𝟓 और 𝜽 पहले चतुर्ाांश में जथर्त है, तो √𝟑𝒔𝒆𝒄𝜽+𝒕𝒂𝒏𝜽
+√𝟐𝒄𝒐𝒕𝜽−√𝟑𝒄𝒐𝒔𝜽 का मान क्या है? 
+(a) 𝟐(𝟏+ √𝟐) 
+(b)𝟑√𝟐  
+(c) 𝟐(√𝟐−𝟏) 
+(d) 𝟒√𝟐  
+57. If 
+𝒔𝒊𝒏²𝜽
+𝒕𝒂𝒏²𝜽–𝒔𝒊𝒏²𝜽 = 5,  is an acute angle, then the value of 
+𝟐𝟒𝒔𝒊𝒏²𝜽−𝟏𝟓𝒔𝒆𝒄²𝜽
+𝟔𝒄𝒐𝒔𝒆𝒄²𝜽−𝟕𝒄𝒐𝒕²𝜽  is: 
+;fn 
+𝒔𝒊𝒏²𝜽
+𝒕𝒂𝒏²𝜽–𝒔𝒊𝒏²𝜽 = 5 gS]  U;wu dks.k gS] rks  
+𝟐𝟒𝒔𝒊𝒏²𝜽−𝟏𝟓𝒔𝒆𝒄²𝜽
+𝟔𝒄𝒐𝒔𝒆𝒄²𝜽−𝟕𝒄𝒐𝒕²𝜽  dk eku Kkr djsaA 
+(a) 
+2 
+(b) 
+–14 
+(c) 
+14 
+(d) 
+–2 
+58. If 3cos = sin2     then what is the value of (tan2+ sec2− cosec2)  
+;fn 3cos = sin2      gS] rks  (tan2+ sec2− cosec2) dk eku Kkr djsaA 
+(a) 
+𝟏𝟕
+𝟑 
+(b) 
+−
+𝟕
+𝟑 
+(c) 
+−
+𝟏𝟕
+𝟑 
+(d) 
+𝟕
+𝟑 
+59. If 5sin² = 3(1 + cos), 0° <  < 90°, then the value of cosec + cot is: 
+;fn 5sin² = 3(1 + cos), 0° <  < 90° gS] rks cosec + cot dk eku Kkr djsaA 
+(a) 
+7
+3
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(b) 
+5
+21
+ 
+(c) 
+4
+21
+ 
+(d) 
+3
+7
+ 
+60. If 𝟒𝒕𝒂𝒏𝟐𝜽= 𝟑(𝟏+ 𝒔𝒆𝒄𝜽), 𝟎° < 𝜽< 𝟗𝟎°, then find (√𝟔𝟓𝒄𝒐𝒕𝜽+
+𝟗
+√𝟔𝟓𝒔𝒊𝒏𝜽+ 𝟗𝒄𝒐𝒔𝜽)? 
+यदि 𝟒𝒕𝒂𝒏𝟐𝜽= 𝟑(𝟏+ 𝒔𝒆𝒄𝜽), 𝟎° < 𝜽< 𝟗𝟎°, तो (√𝟔𝟓𝒄𝒐𝒕𝜽+
+𝟗
+√𝟔𝟓𝒔𝒊𝒏𝜽+ 𝟗𝒄𝒐𝒔𝜽) ज्ञात कीजजए? 
+A) 9 
+B) 4√𝟔𝟓−𝟑 
+C) 5 
+D) 2√𝟔𝟓+ 𝟏 
+61. If 𝟑−𝟐𝒔𝒊𝒏𝟐𝜽−𝟑𝒄𝒐𝒔𝜽= 𝟎, 𝟎° ≤𝜽≤𝟗𝟎°, then the value of (2cosec𝜽+tan𝜽): 
+ यदि 𝟑−𝟐𝒔𝒊𝒏𝟐𝜽−𝟑𝒄𝒐𝒔𝜽= 𝟎, 𝟎° ≤𝜽≤𝟗𝟎° है तो (2cosec𝜽+tan𝜽) का मान है: 
+𝒂)𝟕√𝟑       b)𝟓√𝟑             c)
+𝟓√𝟑
+𝟑          d)
+𝟕√𝟑
+𝟑 
+62. If 
+𝒔𝒊𝒏𝟐𝜽
+𝒄𝒐𝒔𝟐𝜽−𝟑𝒄𝒐𝒔𝜽+𝟐=1 , θ lies in the first quadrant, then the value of 
+𝒕𝒂𝒏𝟐𝜽
+𝟐+𝒔𝒊𝒏𝟐𝜽
+𝟐
+𝒕𝒂𝒏𝜽+𝒔𝒊𝒏𝜽 is 
+यदि 
+𝒔𝒊𝒏𝟐𝜽
+𝒄𝒐𝒔𝟐𝜽−𝟑𝒄𝒐𝒔𝜽+𝟐=1, θ पहले चतुर्ाांश में है, तो 
+𝒕𝒂𝒏𝟐𝜽
+𝟐+𝒔𝒊𝒏𝟐𝜽
+𝟐
+𝒕𝒂𝒏𝜽+𝒔𝒊𝒏𝜽 का मान है? 
+(a)
+𝟐√𝟑
+𝟐𝟕 
+ 
+(b)
+𝟓√𝟑
+𝟐𝟕 
+ 
+(c)
+𝟐√𝟑
+𝟗 
+ 
+(d)
+𝟕√𝟑
+𝟓𝟒 
+63. If 11𝒔𝒊𝒏𝟐𝜽−𝒄𝒐𝒔𝟐𝜽+ 𝟒𝒔𝒊𝒏𝜽−𝟒= 𝟎, 𝟎° < 𝜽< 𝟗𝟎°, then what is the value of 
+𝒄𝒐𝒕𝟐𝜽+𝒄𝒐𝒔𝟐𝜽
+𝒔𝒆𝒄𝟐𝜽−𝒕𝒂𝒏𝟐𝜽? 
+यदि 11𝒔𝒊𝒏𝟐𝜽−𝒄𝒐𝒔𝟐𝜽+ 𝟒𝒔𝒊𝒏𝜽−𝟒= 𝟎, 𝟎° < 𝜽< 𝟗𝟎°, तो  
+𝒄𝒐𝒕𝟐𝜽+𝒄𝒐𝒔𝟐𝜽
+𝒔𝒆𝒄𝟐𝜽−𝒕𝒂𝒏𝟐𝜽 का मान क्या है? 
+a) 
+𝟏𝟐+𝟕√𝟑
+𝟔
+  
+b) 
+𝟏𝟐+𝟓√𝟑
+𝟑
+  
+ 
+c) 
+𝟏𝟎+𝟓√𝟑
+𝟑
+  
+d) 
+𝟏𝟎+𝟕√𝟑
+𝟔
+  
+64. If  
+𝟏
+𝟏+𝒕𝒂𝒏𝜽+
+𝟏
+𝟏−𝒕𝒂𝒏𝜽 = 4, 0° <  < 90°, then what is the value of cosec + sec + sin ? 
+;fn 
+𝟏
+𝟏+𝒕𝒂𝒏𝜽+
+𝟏
+𝟏−𝒕𝒂𝒏𝜽 = 4, 0° <  < 90°, rks cosec + sec + sin dk eku D;k gS\ 
+(a) 
+𝟑+𝟒√𝟐
+√𝟔 
+(b) 
+𝟖√𝟑
+𝟑 
+(c) 
+𝟑√𝟑
+𝟐 
+(d) 
+𝟒+𝟑√𝟐
+√𝟔 
+65. If tan2 − 3sec + 3 = 0, 00 <  < 900, then the value of sin + cot is: 
+66. Find the value of 𝜽,if sec2𝜽 + (𝟏−√𝟑) tan 𝜽 -(𝟏+ √𝟑) =  0, where𝜽 is an acute angle. 
+𝜽,dk eku Kkr djsa] ;fn sec2𝜽 + (𝟏−√𝟑) tan 𝜽 -(𝟏+ √𝟑) =  0, tgka 𝜽 U;wu dks.k gSA 
+(a) 
+600 
+(b) 
+300 
+(c) 
+450 
+(d) 
+150 
+67. If 3 + cos2 = 3(cot2 + sin2), 0 <  <900, then what is tha value of 
+ (cos + 2sin)? 
+;fn 3 + cos2 = 3(cot2 + sin2), 0 <  <900 gS] rks (cos + 2sin)  dk eku Kkr dhft,A 
+ (a) 3√𝟐              (b) √𝟑+𝟐
+𝟐            (c) 
+𝟐√𝟑+𝟏
+𝟐
+              (d) 
+𝟑√𝟑+𝟏
+𝟐
+ 
+ 
+ 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+68. If 5 𝒔𝒊𝒏𝟐𝜽+ 𝟏𝟒𝒄𝒐𝒔𝜽= 𝟏𝟑, 𝟎° < 𝜽< 𝟗𝟎°, then what is the value of  
+𝒔𝒆𝒄𝜽+𝒄𝒐𝒕𝜽
+𝒄𝒐𝒔𝒆𝒄𝜽+𝒕𝒂𝒏𝜽? 
+यदि 5sin2 𝜽 + 14cos 𝜽 = 13, 0o < 𝜽 < 90o है, तो 
+sec𝜽 + cot𝜽
+cosec𝜽 + tan𝜽का मान क् या होगा? 
+a) 
+𝟗
+𝟖                  
+ 
+b) 
+𝟑𝟏
+𝟐𝟗 
+ 
+ 
+c) 
+𝟐𝟏
+𝟐𝟖                     
+d) 
+𝟑𝟐
+𝟐𝟕 
+69. If 2 sin θ + 15 𝒄𝒐𝒔𝟐𝜽= 𝟕, 𝟎° < 𝜽< 𝟗𝟎°, 𝒕𝒉𝒆𝒏 𝒕𝒂𝒏𝜽+ 𝒄𝒐𝒔𝜽+ 𝒔𝒆𝒄𝜽=? 
+यदि 2sin𝜽 + 15 cos2 𝜽 = 7, 𝟎o < 𝜽 < 90o है, तो tan 𝜽 + cos 𝜽 + sec 𝜽 का मान ज्ञात कीजजए। 
+a) 3
+𝟒
+𝟓                
+ 
+b) 3                    
+ 
+c) 3
+𝟑
+𝟓                   
+ 
+d) 4 
+70. If 4 − 6cos2 −  sin = 0, 00 <  < 900, then the value of cot + tan: 
+यदि 4 − 6cos2 −  sin = 0, 00 <  < 900,  ° है तो cot + tan का मान होगा? 
+a) 92/5                   b) 9/25                 c) 32/5        d) 3/25  
+71. If 𝟏𝟐𝒄𝒐𝒕𝟐𝜽−𝟑𝟏𝒄𝒐𝒔𝒆𝒄𝜽+ 𝟑𝟐= 𝟎, 𝟎° < 𝜽< 𝟗𝟎°, then the values of sin𝜽will be: 
+ यदि 𝟏𝟐𝒄𝒐𝒕𝟐𝜽−𝟑𝟏𝒄𝒐𝒔𝒆𝒄𝜽+ 𝟑𝟐= 𝟎, 𝟎° < 𝜽< 𝟗𝟎° है तो sin𝜽 का मान होगा? 
+𝒂)
+𝟓
+𝟒,
+𝟒
+𝟑               b)
+𝟐
+𝟑,
+𝟏
+𝟒              c)
+𝟒
+𝟓,
+𝟑
+𝟒               d)
+𝟏
+𝟑,
+𝟑
+𝟐 
+72. If 𝜽 is an acute angle and 𝒔𝒊𝒏𝜽𝒄𝒐𝒔𝜽= 𝟐𝒄𝒐𝒔𝟑𝜽−
+𝟏
+𝟒𝒄𝒐𝒔𝜽, then the value of 𝒔𝒊𝒏𝜽 is? 
+यदि θ एक न्यूनकोण है और 𝒔𝒊𝒏𝜽𝒄𝒐𝒔𝜽= 𝟐𝒄𝒐𝒔𝟑𝜽−
+𝟏
+𝟒𝒄𝒐𝒔𝜽 है, तो 𝒔𝒊𝒏𝜽 का मान क्या है? 
+A) 
+√𝟏𝟓−𝟏
+𝟖
+ 
+B) 
+√𝟏𝟓+𝟏
+𝟒
+ 
+C) 
+√𝟏𝟓−𝟏
+𝟒
+ 
+D) 
+√𝟏𝟓−𝟏
+𝟐
+ 
+73. If 3sec4θ + 8 = 10 sec2θ, then the value of tanθ can be: 
+ 
+यदि 3sec4θ + 8 = 10 sec2θ है , तो tanθ  का मान क्या होगा? 
+          
+ 
+SSC Selection Post (Phase-XII)  
+ 
+[A]1,√𝟑 
+ 
+[B] 1,
+𝟏
+√𝟑 
+ 
+[C]2, √𝟑 
+ 
+[D] 2,
+𝟏
+√𝟑 
+74. If A is an acute angle, which of the following is equal to 
+𝒔𝒊𝒏𝑨
+𝟏+𝒄𝒐𝒔𝑨? 
+यदि A एक न्यून कोण है, तो ननम्नललखित में से कौन सा
+𝒔𝒊𝒏𝑨
+𝟏+𝒄𝒐𝒔𝑨 के बराबर है? 
+SSC CGL Pre 2024 
+A) 
+𝟏−𝒄𝒐𝒔𝑨
+𝒔𝒊𝒏𝑨 
+B) 
+𝟏+𝒄𝒐𝒔𝑨
+𝒔𝒊𝒏𝑨 
+C) 
+𝟏−𝒔𝒊𝒏𝑨
+𝒄𝒐𝒔𝑨 
+D) 
+𝟏+𝒔𝒊𝒏𝑨
+𝒄𝒐𝒔𝑨 
+75. The value of [
+𝒄𝒐𝒔𝟓𝟎°
+𝟏+𝒔𝒊𝒏𝟓𝟎°] + [
+𝟏+𝒔𝒊𝒏𝟓𝟎°
+𝒄𝒐𝒔𝟓𝟎° ] is: 
+[
+𝒄𝒐𝒔𝟓𝟎°
+𝟏+𝒔𝒊𝒏𝟓𝟎°] + [
+𝟏+𝒔𝒊𝒏𝟓𝟎°
+𝒄𝒐𝒔𝟓𝟎° ] का मान ज्ञात कीजजए। (RRB TECHNICIAN GRADE-3  2024) 
+ 
+[A] 
+2 tan50° 
+[B] 2 sec50° 
+[C] 
+2 cot50° 
+[D] 2 cosec50° 
+ 
+76. The value of (
+𝒔𝒊𝒏𝜽
+𝟏+𝒄𝒐𝒔𝜽+
+𝟏+𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽)(
+𝟏
+𝒕𝒂𝒏𝜽+𝒄𝒐𝒕𝜽) is equal to? 
+( 𝒔𝒊𝒏𝜽
+𝟏+𝒄𝒐𝒔𝜽+
+𝟏+𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽) (
+𝟏
+𝒕𝒂𝒏𝜽+𝒄𝒐𝒕𝜽) का मान ककसके बराबर है? 
+(SSC CHSL 2024) 
+A) Tan𝜽 
+B) 1 
+C) 2cos𝜽 
+D) 2sin𝜽 
+77. If 
+𝒔𝒊𝒏𝜽
+𝟏 + 𝒄𝒐𝒔𝜽 + 
+𝟏 + 𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽 = 
+𝟒
+√𝟑, 0⁰ < θ < 90⁰, then the value of (tanθ + secθ)-1 is : 
+यदि 
+𝒔𝒊𝒏𝜽
+𝟏 + 𝒄𝒐𝒔𝜽 + 
+𝟏 + 𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽 = 
+𝟒
+√𝟑, 0⁰ < θ < 90⁰, तो (tanθ + secθ)-1  का मान है : 
+a) 2 + √𝟑                b) 2 - √𝟑                   c) 3 - √𝟐                 d) 3 + √𝟐 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+78. If (
+𝟏
+𝟏+𝒄𝒐𝒔𝒆𝒄𝜽−
+𝟏
+𝟏−𝒄𝒐𝒔𝒆𝒄𝜽) cos𝜽= 2, 0°<𝜽< 𝟗𝟎°, then the value of 𝒔𝒊𝒏𝟐𝜽+ 𝒄𝒐𝒕𝟐𝜽+ 𝒔𝒆𝒄𝟐𝜽 is: 
+यदि (
+𝟏
+𝟏+𝒄𝒐𝒔𝒆𝒄𝜽−
+𝟏
+𝟏−𝒄𝒐𝒔𝒆𝒄𝜽) cos𝜽= 2, 0°<𝜽< 𝟗𝟎° है , तो  𝒔𝒊𝒏𝟐𝜽+ 𝒄𝒐𝒕𝟐𝜽+ 𝒔𝒆𝒄𝟐𝜽 का मान है: 
+a)1     𝒃)𝟐
+𝟏
+𝟐        C) 𝟑
+𝟏
+𝟐       d)2 
+79. The value of 
+𝟑𝟐
+𝒔𝒆𝒄²𝛉−
+𝟐𝟎
+𝟏+𝒕𝒂𝒏²𝛉+ 𝟏𝟐𝐬𝐢𝐧²𝛉 is: 
+𝟑𝟐
+𝒔𝒆𝒄²𝛉−
+𝟐𝟎
+𝟏+𝒕𝒂𝒏²𝛉+ 𝟏𝟐𝐬𝐢𝐧²𝛉 का मान है: 
+1. 20 
+2. 32 
+3. 24 
+4. 12 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+80. 
+𝟔
+𝟏+𝒕𝒂𝒏𝟐𝜶+
+𝟐
+𝟏+𝒄𝒐𝒕𝟐𝜶+ 𝟒𝒔𝒊𝒏𝟐𝜶−𝟏=? 
+a)2                     b)3                      c)4                     d)5 
+81. Simplify sec² (𝟏+
+𝟏
+𝐜𝐨𝐬𝐞𝐜𝛂) (𝟏−
+𝟏
+𝐜𝐨𝐬𝐞𝐜𝛂). 
+sec² (𝟏+
+𝟏
+𝐜𝐨𝐬𝐞𝐜𝛂) (𝟏−
+𝟏
+𝐜𝐨𝐬𝐞𝐜𝛂) dk eku Kkr djsaA 
+(a) 
+tan4 
+(b) 
+–1 
+(c) 
+1 
+(d) 
+sin² 
+82. The value of (1+ sin4 A - cos4 A) cosec2 A is: 
+(1+ sin4 A - cos4 A) cosec2 A का मान क्या होगा?  
+(a) −1  
+(b) 1  
+ 
+(c) −2  
+(d) 2 
+ 
+ 
+(SSC CPO 2023) 
+83. ( 𝟏
+𝐜𝐨𝐬𝜽−
+𝟏
+𝐬𝐢𝐧𝜽) +
+𝟏
+𝒄𝒐𝒔𝒆𝒄𝜽−𝐜𝐨𝐭𝜽−
+𝟏
+𝐬𝐞𝐜𝜽+𝐭𝐚𝐧𝜽=?  
+(a) secθ cosecθ 
+(b) sinθ tanθ 
+(c) cosecθ cotθ 
+(d) sinθ cosθ 
+ 
+84. A simplified value of (
+𝒔𝒊𝒏𝜽
+𝟏+𝒄𝒐𝒔𝜽
++
+𝟏+𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽)(
+𝟏
+𝒕𝒂𝒏𝜽+𝒄𝒐𝒕𝜽)is: 
+(
+𝒔𝒊𝒏𝜽
+𝟏+𝒄𝒐𝒔𝜽
++
+𝟏+𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽)(
+𝟏
+𝒕𝒂𝒏𝜽+𝒄𝒐𝒕𝜽) का सरलीकृत मान है: 
+a)cos𝜽    b)2sin𝜽     c)sin𝜽      d)2cos𝜽 
+ 
+85. The value of 
+( 𝒔𝒊𝒏𝜽 − 𝒄𝒐𝒔 𝜽 ) ( 𝟏 + 𝒕𝒂𝒏𝜽 + 𝒄𝒐𝒕𝜽 )
+𝟏 + 𝒔𝒊𝒏𝜽𝒄𝒐𝒔𝜽
+ =? 
+( 𝒔𝒊𝒏𝜽 − 𝒄𝒐𝒔 𝜽 ) ( 𝟏 + 𝒕𝒂𝒏𝜽 + 𝒄𝒐𝒕𝜽 )
+𝟏 + 𝒔𝒊𝒏𝜽𝒄𝒐𝒔𝜽
+  का मान है : 
+a) secθ – cosecθ           b) cosecθ – secθ 
+c) sinθ + cosθ                d) tanθ – cotθ 
+ 
+86. If 
+(𝒔𝒊𝒏𝜽−𝒄𝒐𝒔𝒆𝒄𝜽)(𝒄𝒐𝒔𝜽−𝒔𝒆𝒄𝜽)
+𝒕𝒂𝒏𝟐𝜽−𝒔𝒊𝒏𝟐𝜽
+ = r3, then r=? 
+यदि 
+(𝒔𝒊𝒏𝜽−𝒄𝒐𝒔𝒆𝒄𝜽)(𝒄𝒐𝒔𝜽−𝒔𝒆𝒄𝜽)
+𝒕𝒂𝒏𝟐𝜽−𝒔𝒊𝒏𝟐𝜽
+=r3  है तो r बराबर है: 
+a)sin𝜽cos𝜽     b)tan𝜽      c)cot𝜽     d)cosec𝜽sec𝜽 
+87. Simplify the given expression.  
+1
+cosP
+1
+cosP
++
+−
+ 
+fn, x, O;atd dks ljy dhft,A 
+√𝟏+𝒄𝒐𝒔𝑷
+𝟏−𝒄𝒐𝒔𝑷  
+(a) cosec P + cot P       (b) tan P + tan P   
+(c) sec P – tan P 
+       (d) cosec P – cot P  
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+88. If √𝟏−𝒄𝒐𝒔𝜽
+𝟏+𝒄𝒐𝒔𝜽× √𝒄𝒐𝒔𝒆𝒄𝜽−𝒄𝒐𝒕𝜽
+𝒄𝒐𝒔𝒆𝒄𝜽+𝒄𝒐𝒕𝜽=
+𝟏−𝒓
+𝟏+𝒓, then the value of r is: 
+ यदि √𝟏−𝒄𝒐𝒔𝜽
+𝟏+𝒄𝒐𝒔𝜽× √𝒄𝒐𝒔𝒆𝒄𝜽−𝒄𝒐𝒕𝜽
+𝒄𝒐𝒔𝒆𝒄𝜽+𝒄𝒐𝒕𝜽=
+𝟏−𝒓
+𝟏+𝒓 है तो r का मान है: 
+a) sin𝜽     b) cosec𝜽     c) sec𝜽      d) cos𝜽 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+89. If (1 + tan2) + (1 +(tan2)−1) = k, then √𝒌 = ? 
+यदि (1 + tan2) + (1 +(tan2)−1) = k  है तो √𝒌 = ?  
+(a) cosec sec 
+(b) cosec cos 
+ 
+(c) sin cos 
+             (d) sin sec 
+90. The value of 𝒕𝒂𝒏𝟐Ø + 𝒄𝒐𝒕𝟐Ø −𝒔𝒆𝒄𝟐Ø𝒄𝒐𝒔𝒆𝒄𝟐Ø is equal to: 
+𝒕𝒂𝒏𝟐Ø + 𝒄𝒐𝒕𝟐Ø −𝒔𝒆𝒄𝟐Ø𝒄𝒐𝒔𝒆𝒄𝟐Ø का मान बराबर है : 
+a) – 1 
+ 
+b) – 2 
+ 
+c) 1 
+ 
+d) 0 
+91. The value of 
+𝒔𝒆𝒄𝟐𝜽
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽 + 
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽
+𝒔𝒆𝒄𝟐𝜽 – ( 𝒔𝒆𝒄𝟐𝜽 + 𝒄𝒐𝒔𝒆𝒄𝟐𝜽 ) is: 
+𝒔𝒆𝒄𝟐𝜽
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽 + 
+𝒄𝒐𝒔𝒆𝒄𝟐𝜽
+𝒔𝒆𝒄𝟐𝜽 – ( 𝒔𝒆𝒄𝟐𝜽 + 𝒄𝒐𝒔𝒆𝒄𝟐𝜽 ) का मान बराबर है: 
+a) 1                            b) – 2                           c) 0                            d) 2 
+92. If 0° <  < 90°, √sec²θ+cosec²θ
+tan²θ-sin²θ  is equal to: 
+;fn 0° <  < 90° gS] rks √sec²θ+cosec²θ
+tan²θ-sin²θ  dk eku Kkr djsaA 
+(a) 
+sec³  
+(b) 
+sin²  
+(c) 
+cosec³  
+(d) 
+sec²  
+93. The value of 
+𝒔𝒆𝒄𝜽𝒄𝒐𝒔𝒆𝒄𝜽
+𝟐+𝒕𝒂𝒏𝟐𝜽+𝒄𝒐𝒕𝟐𝜽 is equal to:  
+𝒔𝒆𝒄𝜽𝒄𝒐𝒔𝒆𝒄𝜽
+𝟐+𝒕𝒂𝒏𝟐𝜽+𝒄𝒐𝒕𝟐𝜽  dk eku Kkr djsaA 
+(a) 
+sec cosec 
+(b) 
+sec sin 
+(c) 
+sin cos 
+(d) 
+cos cosec 
+94. 
+𝟏+𝒄𝒐𝒔𝜽−𝒔𝒊𝒏𝟐𝜽
+𝒔𝒊𝒏𝜽(𝟏+𝒄𝒐𝒔𝜽) ×
+√𝒔𝒆𝒄𝟐𝜽+𝒄𝒐𝒔𝒆𝒄𝟐𝜽
+𝒕𝒂𝒏𝜽+𝒄𝒐𝒕𝜽
+, 𝟎𝟎< 𝜽< 𝟗𝟎𝟎, is equal to: 
+𝟏+𝒄𝒐𝒔𝜽−𝒔𝒊𝒏𝟐𝜽
+𝒔𝒊𝒏𝜽(𝟏+𝒄𝒐𝒔𝜽) ×
+√𝒔𝒆𝒄𝟐𝜽+𝒄𝒐𝒔𝒆𝒄𝟐𝜽
+𝒕𝒂𝒏𝜽+𝒄𝒐𝒕𝜽
+=? , 𝟎𝟎< 𝜽< 𝟗𝟎𝟎  
+(a) 𝒕𝒂𝒏𝜽 (b) 𝒔𝒆𝒄𝜽  (c) 𝒄𝒐𝒔𝒆𝒄𝜽 
+(d) 𝒄𝒐𝒕𝜽 
+95. What will be the value of 𝒄𝒐𝒔 𝒙 𝒄𝒐𝒔𝒆𝒄 𝒙−𝒔𝒊𝒏 𝒙 𝒔𝒆𝒄 𝒙? 
+𝒄𝒐𝒔 𝒙 𝒄𝒐𝒔𝒆𝒄 𝒙−𝒔𝒊𝒏 𝒙 𝒔𝒆𝒄 𝒙 का मान क्या होगा? 
+A) cot
+𝟐𝒙
+𝟐 
+B) tan 2x 
+C) cot 2x 
+D) 2cot 2x 
+96. If 𝑷𝒔𝒊𝒏𝟔𝟎° = 𝑸𝒄𝒐𝒔𝒆𝒄𝟒𝟓°, then find 
+𝑷𝟐+𝑸𝟐
+𝑷𝟐−𝑸𝟐? 
+यदि Psin60°=Qcosec45°, तो 
+𝑷𝟐+𝑸𝟐
+𝑷𝟐−𝑸𝟐 ज्ञात कीजजए? 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 11/7 
+B) 11/5 
+C) 5/11 
+D) 7/11 
+97. If A = 22.5°, then what is the value of 𝟏𝟎√𝟐𝒔𝒊𝒏𝟐𝑨−𝟕√𝟐𝒄𝒐𝒔𝟐𝑨+ 𝟗 𝒕𝒂𝒏𝟐𝑨? 
+यदि A = 22.5° है, तो 𝟏𝟎√𝟐𝒔𝒊𝒏𝟐𝑨−𝟕√𝟐𝒄𝒐𝒔𝟐𝑨+ 𝟗 𝒕𝒂𝒏𝟐𝑨? का मान क्या है? 
+a)12 
+b)15 
+c)10 
+d)6 
+98. Evaluate: 8sec245° + 20sin230° + 15tan 45° 
+8 𝒔𝒆𝒄𝟐𝟒𝟓𝒐+ 𝟐𝟎𝒔𝒊𝒏𝟐𝟑𝟎+ 𝟏𝟓𝒕𝒂𝒏𝟒𝟓𝒐 dk eku Kkr dhft,A 
+(a) 43 
+ 
+(b) 28  
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(c) 36 
+ 
+(d) 42 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+99. The value of 
+𝟒 𝒕𝒂𝒏𝟐𝟑𝟎°+𝟏
+𝟒𝒔𝒊𝒏𝟐𝟗𝟎°+𝟏
+𝟖𝒄𝒐𝒕𝟐𝟔𝟎°+𝒔𝒊𝒏𝟐𝟑𝟎° 𝒄𝒐𝒔𝟐𝟒𝟓°
+𝒔𝒊𝒏𝟔𝟎°𝒄𝒐𝒔𝟑𝟎°−𝒄𝒐𝒔𝟔𝟎°𝒔𝒊𝒏𝟑𝟎°
+ is : 
+𝟒 𝒕𝒂𝒏𝟐𝟑𝟎°+𝟏
+𝟒𝒔𝒊𝒏𝟐𝟗𝟎°+𝟏
+𝟖𝒄𝒐𝒕𝟐𝟔𝟎°+𝒔𝒊𝒏𝟐𝟑𝟎° 𝒄𝒐𝒔𝟐𝟒𝟓°
+𝒔𝒊𝒏𝟔𝟎°𝒄𝒐𝒔𝟑𝟎°−𝒄𝒐𝒔𝟔𝟎°𝒔𝒊𝒏𝟑𝟎°
+  का मान है: 
+𝒂)𝟏
+𝟑
+𝟒         b)4             c)𝟐
+𝟏
+𝟐            d)𝟑
+𝟏
+𝟐 
+ 
+100. The value of 
+2
+2
+2
+2
+2
+tan 30
+sin 90
+cot 60
+sin 30 cos 45
+sin60  cos30° – cos60° sin30°
++
++
++
+
+
+
+ is: 
+2
+2
+2
+2
+2
+tan 30
+sin 90
+cot 60
+sin 30 cos 45
+sin60  cos30° – cos60° sin30°
++
++
++
+
+
+
+ dk eku Kkr djsaA 
+(a) 
+𝟐𝟓
+𝟏𝟐 
+(b) 
+𝟒𝟑
+𝟏𝟐 
+(c) 
+𝟑𝟕
+𝟏𝟐 
+(d) 
+𝟒𝟕
+𝟏𝟐 
+101. 
+If 
+𝒌−𝒌𝒄𝒐𝒕𝟐𝟑𝟎°
+𝟏+𝒄𝒐𝒕𝟐𝟑𝟎° = 𝒔𝒊𝒏𝟐𝟔𝟎° + 𝟒𝒕𝒂𝒏𝟐𝟒𝟓° −𝒄𝒐𝒔𝒆𝒄𝟐𝟔𝟎°, then the value of k  
+(correct to two decimal places)  is? 
+यदि 
+𝒌−𝒌𝒄𝒐𝒕𝟐𝟑𝟎°
+𝟏+𝒄𝒐𝒕𝟐𝟑𝟎° = 𝒔𝒊𝒏𝟐𝟔𝟎° + 𝟒𝒕𝒂𝒏𝟐𝟒𝟓° −𝒄𝒐𝒔𝒆𝒄𝟐𝟔𝟎° है, तो k का मान (िो िशमलि थर्ानों तक सही) है? 
+A) 5.55 
+B) -6.83 
+C) -5.58 
+D) 6.83 
+102. The value of m[sin + 2cos² + 3sin + 4cos²  + ... ... ... ... ... ... ... + 18cos² ] is a perfect square of an integer,  = 30°,  = 45° and 150  
+m  180. Find the value of m. 
+;fn m[sin + 2cos² + 3sin + 4cos²  + ... ... ... ... ... ... ... + 18cos² ] dk eku ,d iw.kkZad dk ,d iw.kZ oxZ gS]  = 30°,  = 45° vkSj 150  m  180, rks 
+m dk eku Kkr djsaA 
+(a) 161 
+(b) 152 
+(c) 168 
+(d) 176 
+103. If sec 
+3
+90
+2
+2
+
+
+
+−
+=
+
+
+
+
+, 0° <  < 90°, then the value of 2 sin + 4cos 2 will be : 
+;fn sec 
+3
+90
+2
+2
+
+
+
+−
+=
+
+
+
+
+, 0° <  < 90° gS] rks 2 sin + 4cos 2 dk eku Kkr djsaA 
+(a) 
+4 
+(b) 
+2 
+(c) 
+3 
+(d) 
+6 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+ 
+104. 
+What is the value of 𝒕𝒂𝒏𝟓𝟕𝟎°? SSC CHSL PRE 2024 
+𝒕𝒂𝒏𝟓𝟕𝟎° का मान ज्ञात कीजजये? 
+A) -1/√𝟑 
+B) -√𝟑 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+C) 1/√𝟑 
+D) √𝟑 
+105. If A is an acute angle, the simplified form of 
+𝐜𝐨𝐬(𝝅−𝑨).𝒄𝒐𝒕(𝝅
+𝟐+𝑨)𝐜𝐨𝐬 (−𝑨)
+𝐭𝐚𝐧 (𝝅+𝑨)𝒕𝒂𝒏(𝟑𝝅
+𝟐+𝑨)𝐬𝐢𝐧 (𝟐𝝅−𝑨) is 
+;fn A ,d U;wu dks.k gS]rks fuEu dk ljyhÑr :i D;k gksxk\ 
+(a) 
+cos²A 
+(b) 
+sinA 
+(c) 
+sin²A 
+(d) 
+cosA 
+106. 
+𝟒
+𝟑 cot2𝝅
+𝟔   +  3 cos2150°  - 4cosec245°+8sin
+𝝅
+𝟐? 
+a)
+𝟐𝟓
+𝟒            b) 
+𝟏𝟑
+𝟐                   c) -1                   d) - 
+𝟕
+𝟐 
+107. 
+If A is an acute angle, then the simplified form of 
+𝒄𝒐𝒔(𝝅−𝑨).𝒄𝒐𝒕(𝝅
+𝟐+𝑨)𝒄𝒐𝒔(−𝑨)
+𝒕𝒂𝒏(𝝅+𝑨)𝒕𝒂𝒏(𝟑𝝅
+𝟐+𝑨).𝒔𝒊𝒏(𝟐𝝅−𝑨) is? 
+यदि A एक न्यून कोण है, तो इसका 
+𝒄𝒐𝒔(𝝅−𝑨).𝒄𝒐𝒕(𝝅
+𝟐+𝑨)𝒄𝒐𝒔(−𝑨)
+𝒕𝒂𝒏(𝝅+𝑨)𝒕𝒂𝒏(𝟑𝝅
+𝟐+𝑨).𝒔𝒊𝒏(𝟐𝝅−𝑨) सरलीकृत रूप (है? 
+A) 𝒄𝒐𝒔𝟐 𝑨 
+B) Sin A 
+C) 𝒔𝒊𝒏𝟐𝑨 
+D) CosA 
+108. 
+𝒄𝒐𝒔𝒆𝒄𝟐𝟗𝟏𝟎° + 𝒔𝒆𝒄𝟒𝟐𝟔𝟎° + 𝒕𝒂𝒏𝟐𝟓𝟔𝟓° + 𝒄𝒐𝒕𝟏𝟕𝟓𝟓° =? 
+A) 3 
+B) 1 
+C) 4 
+D) 0 
+109. 
+𝒕𝒂𝒏𝟒𝟑𝟖𝟒° + 𝒄𝒐𝒕𝟔𝟖𝟏𝟒° =? 
+A) -1 
+B) 0 
+C) 2 
+D) 1 
+110. 
+If cos27° = x, then the value of tan63° is: 
+यदि cos27° = x है, तो tan63° का मान है: 
+(a) 
+√𝟏+𝒙𝟐
+𝒙
+  
+ 
+(b) 
+𝒙
+√𝟏+𝒙𝟐  
+(c) 
+√𝟏+𝒙𝟐
+𝒙
+  
+ 
+(d) 
+𝒙
+√𝟏−𝒙𝟐  
+111. 𝒄𝒐𝒔𝟏𝟗° =
+𝒂
+𝒃 then 𝒄𝒐𝒔𝒆𝒄𝟏𝟗° −𝒄𝒐𝒔𝟕𝟏° =? 
+a) 
+𝒃𝟐
+𝒂√𝒂𝟐−𝒃𝟐          b) 
+𝒂𝟐
+𝒃√𝒃𝟐−𝒂𝟐            c) 
+𝒂𝟐𝒃𝟐
+√𝒂𝟐−𝒃𝟐  
+ 
+d) 
+𝒂𝒃
+√𝒃𝟐−𝒂𝟐 
+ 
+112. 
+If 𝜽 be acute angle and cos 𝜽=
+𝟐𝟒
+𝟐𝟓, then find cot(90− 𝜽)? 
+यदि θ न्यून कोण है और cos θ=
+𝟐𝟒
+𝟐𝟓  तो cot(90− θ) ज्ञात कीजजए? SSC CHSL PRE 2024 
+A) 5/24 
+B) 7/24 
+C) 7/25 
+D) 6/25 
+ 
+113. If sin 31° = 𝜶, then the value of cot 59° is: 
+यदि sin 31° = α है, तो cot 59° का मान ज्ञात कीदिए।   
+(a) 
+√𝟏−𝜶𝟐
+𝟐𝜶 
+(b) 
+𝜶
+√𝟏−𝜶𝟐 
+(c) 
+√𝟏+𝜶𝟐
+𝜶
+ 
+(d) 
+𝜶
+√𝟏+𝜶𝟐 
+ 
+114. 
+If 𝒕𝒂𝒏𝟒𝟎° = 𝜶, then find 
+𝒕𝒂𝒏𝟑𝟐𝟎°−𝒕𝒂𝒏𝟑𝟏𝟎°
+𝟏+𝒕𝒂𝒏𝟑𝟐𝟎°.𝒕𝒂𝒏𝟑𝟏𝟎°? 
+यदि 𝒕𝒂𝒏𝟒𝟎° = 𝜶 है, तो 
+𝒕𝒂𝒏𝟑𝟐𝟎°−𝒕𝒂𝒏𝟑𝟏𝟎°
+𝟏+𝒕𝒂𝒏𝟑𝟐𝟎°.𝒕𝒂𝒏𝟑𝟏𝟎° का मान ज्ञात कीजजए? 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+A) 
+𝟏−𝜶𝟐
+𝜶 
+B) 
+𝟏+𝜶𝟐
+𝟐𝜶 
+C) 
+𝟏−𝜶𝟐
+𝟐𝜶 
+D) 
+𝟏+𝜶𝟐
+𝜶 
+115. 
+Find the value of the following expression 𝒔𝒊𝒏(𝟑𝟎+ 𝜽) −𝒄𝒐𝒔(𝟔𝟎−𝜽)? 
+ननम्नललखित ब्यंजक 𝒔𝒊𝒏(𝟑𝟎+ 𝜽) −𝒄𝒐𝒔(𝟔𝟎−𝜽) का मान ज्ञात कीजजए ? SSC CHSL PRE 2024 
+A) 2sin(30+ 𝜽) 
+B) 1 
+C) 
+√𝟑
+𝟐 
+D) 0 
+116. PQR is a right angled triangle. Q = 90 degree, PQ = 12 cm, QR = 5cm. What is the value of cot P – tan R? 
+PQR ,d ledks.k f=Hkqt gSA Q = 90 fMxzh] PQ = 12 cm, QR = 5 cm gSA cot P – tan R dk eku D;k gS\ 
+(a) 
+5/24 
+(b) 
+5/6 
+(c) 
+5/13 
+(d) 
+0  
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+117. 
+Triangle ABC is a right-angle triangle at B.  If 𝒕𝒂𝒏𝑨=
+𝟓
+𝟏𝟐, then sinA + sin B + sin C will be equal to? 
+त्रिभुज ABC, B पर एक समकोण त्रिभुज है। यदि tanA=5/12, तो sinA + sin B + sin C ककसके बराबर होगा? 
+A) 2
+𝟏
+𝟏𝟑 
+B) 1
+𝟓
+𝟏𝟑 
+C) 3
+𝟏
+𝟏𝟑 
+D) 2
+𝟒
+𝟏𝟑 
+118. If A, B and C be the angles of a triangle, then out of the following, the incorrect relation is: 
+a)cos
+𝑨+𝑩
+𝟐 = sin
+𝑪
+𝟐   b) tan
+𝑨+𝑩
+𝟐 =  sec
+𝑪
+𝟐    c) cot
+𝑨+𝑩
+𝟐 = tan
+𝑪
+𝟐    d) sin
+𝑨+𝑩
+𝟐 = cos
+𝑪
+𝟐 
+119. 
+If A, B and C are in the interior angles of ABC, then what is the value of 
+ {tan
+𝑨
+𝟐 +cosec
+𝑩+𝑪
+𝟐} {tan
+𝑨
+𝟐 – cosec
+𝑩+𝑪
+𝟐}? 
+यदि A, B और C, ABC के आंतररक कोण हैं, तो {tan
+𝑨
+𝟐 +cosec
+𝑩+𝑪
+𝟐} {tan
+𝑨
+𝟐 – cosec
+𝑩+𝑪
+𝟐} का मान क्या है? 
+ 
+ 
+ 
+SSC CPO Pre 2024  
+[A]2 
+[B]–1 
+ 
+[C]–2 
+[D]1 
+120. In ∆ABC, right angled at B, if tanA = 
+𝟏
+𝟐, then the value of 
+𝐬𝐢𝐧𝑨(𝐜𝐨𝐬𝑪+𝐜𝐨𝐬𝑨)
+𝐜𝐨𝐬𝑪(𝐬𝐢𝐧𝑪−𝐬𝐢𝐧𝑨) is:  
+∆ABC में, जो B पर समकोण है, यदि tanA = 
+𝟏
+𝟐 है, तो 
+𝐬𝐢𝐧𝑨(𝐜𝐨𝐬𝑪+𝐜𝐨𝐬𝑨)
+𝐜𝐨𝐬𝑪(𝐬𝐢𝐧𝑪−𝐬𝐢𝐧𝑨) का मान ज्ञात कीजजए।   
+(a) 2√𝟓  
+(b) 3 
+ 
+ 
+(c) 2 
+ 
+ 
+(d) 1 
+121. What is the value of 
+𝟒
+𝟑 (sin² 35° + sin² 55°)? 
+𝟒
+𝟑 (sin² 35° + sin² 55°) dk eku D;k gS\ 
+(a) 
+8/9 
+(b) 
+4/3 
+(c) 
+3/4 
+(d) 
+2/3 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+122. 
+Evaluate 𝟐
+𝒕𝒂𝒏𝟓𝟒°
+𝒄𝒐𝒕𝟑𝟔° −
+𝒄𝒐𝒕𝟒𝟏°
+𝒕𝒂𝒏𝟒𝟗°? 
+𝟐
+𝒕𝒂𝒏𝟓𝟒°
+𝒄𝒐𝒕𝟑𝟔° −
+𝒄𝒐𝒕𝟒𝟏°
+𝒕𝒂𝒏𝟒𝟗° का मूलयांकन करें? 
+SSC CGL Pre 2024 
+A) -1 
+B) 1 
+C) 0 
+D) 2 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+123. 
+What is the value of √𝟗𝒔𝒊𝒏𝟐𝟐𝟔°+𝟗𝒔𝒊𝒏𝟐𝟔𝟒°+𝟑𝟔
+𝟑𝟐−𝟕𝒄𝒐𝒔𝟐𝟑𝟐°−𝟕𝒄𝒐𝒔𝟐𝟓𝟖°? 
+√𝟗𝒔𝒊𝒏𝟐𝟐𝟔°+𝟗𝒔𝒊𝒏𝟐𝟔𝟒°+𝟑𝟔
+𝟑𝟐−𝟕𝒄𝒐𝒔𝟐𝟑𝟐°−𝟕𝒄𝒐𝒔𝟐𝟓𝟖° का मान क्या है 
+SSC CGL Pre 2024 
+A) 
+𝟑√𝟓
+𝟓 
+B) 
+𝟓√𝟑
+𝟑 
+C) 
+𝟓√𝟓
+𝟑 
+D) 
+𝟑√𝟑
+𝟓 
+124. 
+Simplify [𝟏−𝒔𝒊𝒏𝟐𝟑𝟐° +
+𝟏
+𝟏+𝒕𝒂𝒏𝟐𝟓𝟖°]? 
+[𝟏−𝒔𝒊𝒏𝟐𝟑𝟐° +
+𝟏
+𝟏+𝒕𝒂𝒏𝟐𝟓𝟖°] को सरल बनाएं? 
+SSC CGL Pre 2024 
+A) ½  
+B) Sin32° 
+C) 1 
+D) √𝟑 
+125. What is the value of 
+𝟑𝒄𝒐𝒔𝒆𝒄𝟒𝟐°
+𝒔𝒆𝒄𝟒𝟖°
+−
+𝟓𝒄𝒐𝒔𝟑𝟐°
+𝒔𝒊𝒏𝟓𝟖°  
+𝟑𝒄𝒐𝒔𝒆𝒄𝟒𝟐°
+𝒔𝒆𝒄𝟒𝟖°
+−
+𝟓𝒄𝒐𝒔𝟑𝟐°
+𝒔𝒊𝒏𝟓𝟖°  dk eku D;k gS\ 
+(a) 
+–1 
+(b) 
+5 
+(c) 
+0 
+(d) 
+–2 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+126. What is the value of 
+𝟓
+𝟐{
+𝒄𝒐𝒔𝟑𝟕°
+𝒔𝒊𝒏𝟓𝟑°} −
+𝟏
+𝟐 (sin²39° + sin²51°)? 
+𝟓
+𝟐{
+𝒄𝒐𝒔𝟑𝟕°
+𝒔𝒊𝒏𝟓𝟑°} −
+𝟏
+𝟐 (sin²39° + sin²51°)dk eku D;k gS\ 
+(a) sin²51° – sin53° 
+(b)sin53° + tan51° 
+(c) 2 
+(d) 1 
+127. Find the value of 
+𝒄𝒐𝒔 𝟔𝟓𝟎
+𝒔𝒊𝒏 𝟐𝟓𝟎+
+𝟓 𝒔𝒊𝒏 𝟏𝟗
+𝒄𝒐𝒔 𝟕𝟏𝟎−
+𝟑 𝒄𝒐𝒔 𝟐𝟖𝟎
+𝒔𝒊𝒏 𝟔𝟐𝟎 
+𝒄𝒐𝒔 𝟔𝟓𝟎
+𝒔𝒊𝒏 𝟐𝟓𝟎+
+𝟓 𝒔𝒊𝒏 𝟏𝟗
+𝒄𝒐𝒔 𝟕𝟏𝟎−
+𝟑 𝒄𝒐𝒔 𝟐𝟖𝟎
+𝒔𝒊𝒏 𝟔𝟐𝟎 का मान ज्ञात कीदिए।  
+(a) 3  
+(b) 2  
+ 
+(c) 1  
+(d) 0 
+ 
+ 
+(SSC CPO 2023) 
+128. The value of 
+𝟑𝒄𝒐𝒔²𝟐𝟕°–𝟓+𝟑𝒄𝒐𝒔²𝟔𝟑°
+𝒕𝒂𝒏²𝟑𝟐°+𝟒–𝒄𝒐𝒔𝒆𝒄²𝟓𝟖° + sin35°cos55° + cos35°sin55° is: 
+𝟑𝒄𝒐𝒔²𝟐𝟕°–𝟓+𝟑𝒄𝒐𝒔²𝟔𝟑°
+𝒕𝒂𝒏²𝟑𝟐°+𝟒–𝒄𝒐𝒔𝒆𝒄²𝟓𝟖° + sin35°cos55° + cos35°sin55° is: dk eku Kkr djsaA 
+(a) 
+−
+𝟏
+𝟒 
+(b) 
+−
+𝟏
+𝟑 
+(c) 
+𝟏
+𝟑 
+(d) 
+1 
+𝟐
+𝟑 
+129. What is the value of sin33 cos57
+sec62 sin28
+cos33 sin57
+cos
+62 cos28
+tan15 tan35 tan60 tan55 tan75
+ec
+
++
+
++
+
++
+
+
+
+
+
+
+
+? 
+sin33 cos57
+sec62 sin28
+cos33 sin57
+cos
+62 cos28
+tan15 tan35 tan60 tan55 tan75
+ec
+
++
+
++
+
++
+
+
+
+
+
+
+
+ dk eku Kkr djsaA 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(a) 
+3
+3
+ 
+(b) 
+2 
+(c) 
+2
+3  
+(d) 
+3  
+130. Find the value of 2cosec²23° cot²67° – sin²23° – sin²67° – cot²67°. 
+2cosec²23° cot²67° – sin²23° – sin²67° – cot²67°dk eku Kkr dhft,A 
+(a) sec² 23° 
+(b) 1 
+(c) tan²23° 
+(d) 0 
+131. The value of cosec (58o+) - sec (32o -) + sin 15o sin35osec55osin30osec75o is: 
+cosec (58o+) - sec (32o -) + sin 15o sin35osec55osin30osec75o dk eku Kkr djsaA 
+(a) 
+1 
+(b) 
+2 
+(c) 
+1
+2
+ 
+(d) 
+0 
+132. If cosec 31°=x, then 𝒔𝒊𝒏𝟐𝟓𝟗° +
+𝟏
+𝒄𝒐𝒔𝒆𝒄𝟐𝟑𝟏° + 𝒕𝒂𝒏𝟐𝟓𝟗° −
+𝟏
+𝒔𝒊𝒏𝟐𝟓𝟗° 𝒄𝒐𝒔𝒆𝒄𝟐𝟓𝟗° is equal to: 
+ अगर cosec 31°=x,  है ,तो 𝒔𝒊𝒏𝟐𝟓𝟗° +
+𝟏
+𝒄𝒐𝒔𝒆𝒄𝟐𝟑𝟏° + 𝒕𝒂𝒏𝟐𝟓𝟗° −
+𝟏
+𝒔𝒊𝒏𝟐𝟓𝟗° 𝒄𝒐𝒔𝒆𝒄𝟐𝟓𝟗°  बराबर है: 
+a)√𝐗 +  𝟏   b) √𝒙𝟐−𝟏   c)√𝐗 –  𝟏    d) √𝒙𝟐+ 𝟏  
+133. If x = sec57°, then 𝐜𝐨𝐭𝟐𝟑𝟑° + 𝐬𝐢𝐧𝟐𝟓𝟕° + 𝐬𝐢𝐧𝟐𝟑𝟑° + 𝒄𝒐𝒔𝒆𝒄𝟐𝟓𝟕°𝐜𝐨𝐬𝟐𝟑𝟑° + 𝐬𝐞𝐜𝟐𝟑𝟑°𝐬𝐢𝐧𝟐𝟓𝟕° is equal to: 
+यदि x = sec57° है, तो 𝐜𝐨𝐭𝟐𝟑𝟑° + 𝐬𝐢𝐧𝟐𝟓𝟕° + 𝐬𝐢𝐧𝟐𝟑𝟑° + 𝒄𝒐𝒔𝒆𝒄𝟐𝟓𝟕°𝐜𝐨𝐬𝟐𝟑𝟑° + 𝐬𝐞𝐜𝟐𝟑𝟑°𝐬𝐢𝐧𝟐𝟓𝟕° बराबर है।  
+(a) x2 + 2  
+(b) 2x2 + 1 
+ 
+(c) x2 + 1  
+ 
+(d) 
+𝟏
+𝒙𝟐+𝟏 
+134. 𝒔𝒊𝒏𝟐𝝅
+𝟑𝟐 + 𝒔𝒊𝒏𝟐𝟕𝝅
+𝟑𝟐 +𝒔𝒊𝒏𝟐𝟗𝝅
+𝟑𝟐 + 𝒔𝒊𝒏𝟐𝟏𝟓𝝅
+𝟑𝟐 
+a)
+𝟖
+𝟑               b)2                   c)
+𝟕
+𝟒                 d)
+𝟓
+𝟏𝟔 
+ 
+135. The value of sin²5° + sin²10° + sin²15° + ... sin²85° + sin²90° is equal to: 
+sin²5° + sin²10° + sin²15° + ... sin²85° + sin²90°dk eku ------------------------ ds cjkcj gSA 
+(a) 9
+𝟏
+𝟐 
+(b)9 
+(c) 𝟖
+𝟏
+𝟐 
+(d) 8 
+136. The value of (𝒕𝒂𝒏𝟐𝟗°𝒄𝒐𝒕𝟔𝟏° −𝒄𝒐𝒔𝒆𝒄𝟐𝟔𝟏°) + 𝒄𝒐𝒕𝟐𝟓𝟒° −𝒔𝒆𝒄𝟐𝟑𝟔° + (𝒔𝒊𝒏𝟐𝟏° + 𝒔𝒊𝒏𝟐𝟑° + 𝒔𝒊𝒏𝟐𝟓°+. . . . +𝒔𝒊𝒏𝟐𝟖𝟗°) is: 
+(𝒕𝒂𝒏𝟐𝟗°𝒄𝒐𝒕𝟔𝟏° −𝒄𝒐𝒔𝒆𝒄𝟐𝟔𝟏°) + 𝒄𝒐𝒕𝟐𝟓𝟒° −𝒔𝒆𝒄𝟐𝟑𝟔° + (𝒔𝒊𝒏𝟐𝟏° + 𝒔𝒊𝒏𝟐𝟑° + 𝒔𝒊𝒏𝟐𝟓°+. . . . +𝒔𝒊𝒏𝟐𝟖𝟗°) का मान है : 
+a) 𝟐𝟐
+𝟏
+𝟐 
+ 
+b) 21 
+ 
+c) 𝟐𝟎
+𝟏
+𝟐 
+ 
+d) 22 
+137. The value of  
+(𝒕𝒂𝒏𝟐𝟓°𝒄𝒐𝒕𝟔𝟓°−𝒄𝒐𝒔𝒆𝒄𝟐𝟔𝟓°)+𝒄𝒐𝒕²𝟔𝟏°−𝒔𝒆𝒄²𝟐𝟗°
+𝒔𝒊𝒏²𝟓°+𝒔𝒊𝒏²𝟕°+𝒔𝒊𝒏²𝟗°+⋯+𝒔𝒊𝒏²𝟖𝟓°
+ is: 
+(𝒕𝒂𝒏𝟐𝟓°𝒄𝒐𝒕𝟔𝟓°−𝒄𝒐𝒔𝒆𝒄𝟐𝟔𝟓°)+𝒄𝒐𝒕²𝟔𝟏°−𝒔𝒆𝒄²𝟐𝟗°
+𝒔𝒊𝒏²𝟓°+𝒔𝒊𝒏²𝟕°+𝒔𝒊𝒏²𝟗°+⋯+𝒔𝒊𝒏²𝟖𝟓°
+ dk eku Kkr djsaA 
+(a) 
+𝟐
+𝟒𝟓 
+(b) 
+𝟒
+𝟒𝟓 
+(c) 
+−𝟐
+𝟒𝟏 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+(d) 
+−𝟒
+𝟒𝟏 
+138. 𝒄𝒐𝒔𝟐𝟏+ 𝒄𝒐𝒔𝟐𝟐+ 𝒄𝒐𝒔𝟐𝟑+. . . . . 𝒄𝒐𝒔𝟐𝟗𝟎° =? 
+ 
+139. Find the value of   
+𝒕𝒂𝒏𝟏°
+𝟏+𝒕𝒂𝒏𝟏° + 
+𝒕𝒂𝒏𝟐°
+𝟏+𝒕𝒂𝒏𝟐°+…………….+
+𝒕𝒂𝒏𝟖𝟗°
+𝟏+𝒕𝒂𝒏𝟖𝟗°? 
+a)44.5              b)45                      c)44                      d)89 
+140. 𝒕𝒂𝒏𝟕° ⋅𝒕𝒂𝒏𝟏𝟏° ⋅𝒕𝒂𝒏𝟐𝟑° ⋅𝒕𝒂𝒏𝟑𝟎° 𝒕𝒂𝒏𝟒𝟓° ⋅𝒕𝒂𝒏𝟔𝟕° ⋅𝒕𝒂𝒏𝟕𝟗° ⋅𝒕𝒂𝒏𝟖𝟑° =? 
+a) √𝟑                b) 
+𝟏
+√𝟑                   c) 𝟐√𝟑                  d)2 
+141. 
+The value of cot 13° cot 27° cot 60° cot 63° cot 77° is: 
+Cot 13o cot27 o cot 60o cot 63o  cot 77o dk eku Kkr dhft,A 
+ 
+(a) 
+3  
+(b) 1 
+ 
+(c) 0 
+(d) 1
+3  
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+142. 
+What is the value of cos1° . cos2° . cos3°………. cos177°. cos178°. cos179° 
+cos1° cos2° . cos3°………. cos177°. cos178°. cos179°का मान क्या है?  
+1. 0 2. 1 
+3. 
+𝟏
+√𝟐 
+4. 
+𝟏
+𝟐 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+143. 
+𝐬𝐢𝐧𝟑𝟕°
+𝒄𝒐𝒔𝟓𝟑°+
+𝟐𝐭𝐚𝐧 𝟒𝟗°
+𝒄𝒐𝒕𝟒𝟏°   - 5(cot11.cot31.cot45.cot59.cot79) + 3(sin276.5+sin2𝟑𝝅
+𝟒𝟎) 
+a)1                     b)0                         c)-1                      d)2 
+ 
+144. The value of tan50
+sec50
+cot 40
+cos
+40
+ec
++
+
++
+
++ cos²65° + sin65°cos25° + tan30° is: 
+tan50
+sec50
+cot 40
+cos
+40
+ec
++
+
++
+
++ cos²65° + sin65°cos25° + tan30° dk eku Kkr djsaA 
+(a) 
+(
+)
+3
+3
+1
+3
++
+ 
+(b) 
+2 + 3  
+(c) 
+6
+3
+3
++
+ 
+(d) 
+1 + 3  
+145. The value of 
+(𝒔𝒊𝒏𝟏𝟕°+𝒄𝒐𝒔𝟕𝟑°)(𝒔𝒆𝒄𝟕𝟑°+𝒄𝒐𝒔𝒆𝒄𝟏𝟕°)
+𝒄𝒐𝒔𝒆𝒄𝟐𝟕𝟏°+𝒄𝒐𝒔𝟐𝟏𝟓°−𝒕𝒂𝒏𝟐𝟏𝟗°+𝒄𝒐𝒔𝟐𝟕𝟓° is: 
+(𝒔𝒊𝒏𝟏𝟕°+𝒄𝒐𝒔𝟕𝟕°)(𝒔𝒆𝒄𝟕𝟑°+𝒄𝒐𝒔𝒆𝒄𝟏𝟕°)
+𝒄𝒐𝒔𝒆𝒄𝟐𝟕𝟏°+𝒄𝒐𝒔𝟐𝟏𝟓°−𝒕𝒂𝒏𝟐𝟏𝟗°+𝒄𝒐𝒔𝟐𝟕𝟓° =?  
+(a)1 
+ 
+(b)4 
+ 
+(c)-3 
+ 
+(d)2 
+ 
+146. The value of tan(45
+)
+(cos19
+sin71 )(sec19
+cos
+71 )
+–
+cot(45
+)
+tan12 tan 24 tan66 tan78
+ec
+
+
+−
++
+
++
+
++
+
+
+
+
+is: 
+tan(45
+)
+(cos19
+sin71 )(sec19
+cos
+71 )
+–
+cot(45
+)
+tan12 tan 24 tan66 tan78
+ec
+
+
+−
++
+
++
+
++
+
+
+
+
+dk eku Kkr djksaA 
+(a) 
+-3 
+(b) 
+0 
+(c) 
+-2 
+(d) 
+2 
+ 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+147. 2(sin 1° × sec 89°) + 3 (cos 11° × cosec 79°) + 5 (tan 21° × tan 69°) = ? 
+(a) 20  
+(b) 12  
+(c) 11  
+(d) 10 
+(SSC CPO 2023) 
+148. If A+B = 900, then the expression 
+𝐜𝐨𝐭𝐀
+𝐜𝐨𝐭𝐁+ cos2A + cos2B is equal to: 
+यदि A + B = 90° है, तो व्यंिक 
+𝐜𝐨𝐭𝐀
+𝐜𝐨𝐭𝐁+ cos2A + cos2B दकसके बराबर है?  
+(a) cot2B 
+(b) cosec2A 
+ (c) cosec2B    (d) cot2A 
+(SSC CPO 2023) 
+ 
+149. The value of 
+2
+2
+2tan(60°-θ)tan(30°+θ)
+sin (45°+θ)+sin (45°-θ)
+ is 
+2
+2
+2tan(60°-θ)tan(30°+θ)
+sin (45°+θ)+sin (45°-θ)
+dk eku Kkr djsaA 
+(a) 
+1
+2
+ 
+(b) 
+1 
+(c) 
+2 
+(d) 
+2  
+ 
+150. Evaluate the following expression. 
+fn, x, O;atd dk eku Kkr djsaA  
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3(cot 46
+sec 44)
+2 cos 60 tan 33 tan 57
+2 (sin 28
+sin 62 )
+sin (90
+)
+cot
+o
+o
+o
+o
+o
+o
+o
+o
+
+
+−
++
++
+−
+−
+   
+ (a) 
+-1 
+(b) 
+1 
+(c) 
+-2 
+(d) 
+2 
+151. The value of 
+𝟑(𝒄𝒐𝒔𝒆𝒄𝟐𝟐𝟔𝟎−𝒕𝒂𝒏𝟐𝟔𝟒𝟎)+(𝒄𝒐𝒕𝟐𝟒𝟐𝟎−𝒔𝒆𝒄𝟐𝟒𝟖𝟎)
+𝐜𝐨𝐭(𝟐𝟐𝟎−∅)−𝒄𝒐𝒔𝒆𝒄𝟐(𝟔𝟐𝟎+∅)−𝐭𝐚𝐧(∅+𝟔𝟖𝟎)+𝒕𝒂𝒏𝟐(𝟐𝟖𝟎−∅) is: 
+𝟑(𝒄𝒐𝒔𝒆𝒄𝟐𝟐𝟔𝟎−𝒕𝒂𝒏𝟐𝟔𝟒𝟎)+(𝒄𝒐𝒕𝟐𝟒𝟐𝟎−𝒔𝒆𝒄𝟐𝟒𝟖𝟎)
+𝐜𝐨𝐭(𝟐𝟐𝟎−∅)−𝒄𝒐𝒔𝒆𝒄𝟐(𝟔𝟐𝟎+∅)−𝐭𝐚𝐧(∅+𝟔𝟖𝟎)+𝒕𝒂𝒏𝟐(𝟐𝟖𝟎−∅) का मान है। 
+(a)3 
+ 
+(b)4 
+ 
+(c)−𝟏 
+ 
+(d) −𝟐 
+152. 
+Evaluate 𝟕(𝒄𝒐𝒔𝒆𝒄𝟐𝟒º
+𝒔𝒆𝒄𝟔𝟔º )
+𝟑
++ 𝟖(𝒄𝒐𝒕𝟑𝟕º
+𝒕𝒂𝒏𝟓𝟑º)
+𝟒
+–(𝟐
+𝒄𝒐𝒔𝒆𝒄𝟐𝟒º
+𝒔𝒆𝒄𝟔𝟔º )
+𝟐
++ (– 𝟑
+𝒕𝒂𝒏𝟖𝟐º
+𝒄𝒐𝒕𝟖º )
+𝟑
+. 
+ 
+ 𝟕(𝒄𝒐𝒔𝒆𝒄𝟐𝟒º
+𝒔𝒆𝒄𝟔𝟔º )
+𝟑
++ 𝟖(𝒄𝒐𝒕𝟑𝟕º
+𝒕𝒂𝒏𝟓𝟑º)
+𝟒
+–(𝟐
+𝒄𝒐𝒔𝒆𝒄𝟐𝟒º
+𝒔𝒆𝒄𝟔𝟔º )
+𝟐
++ (– 𝟑
+𝒕𝒂𝒏𝟖𝟐º
+𝒄𝒐𝒕𝟖º )
+𝟑
+.का मान ज्ञात करें। 
+ 
+SSC Selection Post (Phase-XII)  
+ 
+[A]–16 
+[B]40 
+ 
+ 
+[C]2 
+[D]10 
+153. If 6(𝒔𝒆𝒄𝟐𝟓𝟗°-𝒄𝒐𝒕𝟐𝟑𝟏°) - 
+𝟐
+𝟑𝒔𝒊𝒏𝟐𝟗𝟎° - 3𝒕𝒂𝒏𝟐𝟓𝟔°y𝒕𝒂𝒏𝟐𝟑𝟒° = 
+𝒚
+𝟑, then the value of y is: 
+यदि 6(𝒔𝒆𝒄𝟐𝟓𝟗°-𝒄𝒐𝒕𝟐𝟑𝟏°) - 
+𝟐
+𝟑𝒔𝒊𝒏𝟐𝟗𝟎° - 3𝒕𝒂𝒏𝟐𝟓𝟔°y𝒕𝒂𝒏𝟐𝟑𝟒° = 
+𝒚
+𝟑 है तो y का मान है: 
+a) 
+𝟖
+𝟓                   b) – 
+𝟖
+𝟓                c) 
+𝟐
+𝟑                  d) 
+−𝟐
+𝟑 
+154. If 𝐜𝐨𝐬(𝟐𝜽+ 𝟓𝟒°) = 𝐬𝐢𝐧𝜽, 𝟎° < (𝟐𝜽+ 𝟓𝟒°) < 𝟗𝟎°, then what is the value of
+𝟏
+𝐭𝐚𝐧𝟓𝜽+𝒄𝒐𝒔𝒆𝒄𝟓𝜽
+𝟐
+?  
+यदि 𝐜𝐨𝐬(𝟐𝜽+ 𝟓𝟒°) = 𝐬𝐢𝐧𝜽, 𝟎° < (𝟐𝜽+ 𝟓𝟒°) < 𝟗𝟎° है, तो 
+𝟏
+𝐭𝐚𝐧𝟓𝜽+𝒄𝒐𝒔𝒆𝒄𝟓𝜽
+𝟐
+ का मान ज्ञात कीजजए।  
+(a) 2 + √𝟑 
+ 
+(b) 3√𝟐  
+(c) 2√𝟑  
+(d) 2 – √𝟑 
+ 
+155. tan(8θ-11°). tan(11θ-13°)=1, then find the value of sin10θ+cos5θ? 
+a)√3                 b)
+𝟐
+√𝟑                    c)
+√𝟑
+𝟐                      d)
+𝟑√𝟑
+𝟒 
+ 
+ 
+ 
+Telegram channel By Gagan Pratap Sir- https://t.me/mathsbygaganpratap 
+156. If tanx = cot(48°+2x), and 0° <x <90°, then what is the value of x? 
+;fn tanx = cot(48°+2x), vkSj 0° <x <90° gS] rks x dk eku Kkr djsa? 
+(a) 
+12° 
+(b) 
+14° 
+(c) 
+16° 
+(d) 
+21° 
+157. 
+If tan (5𝛉-𝟏𝟎𝐨) = cot (𝟓𝛟+𝟐𝟎𝒐) , then the value of 𝛉+ 𝛟  is: 
+;fn tan (5𝛉-𝟏𝟎𝐨) = cot (𝟓𝛟+𝟐𝟎𝒐) gS] rks 𝛉+ 𝛟 dk eku D;k gS\ 
+(a) 16°          (b) 20°      (c) 18°  
+(d) 15° 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+158. 
+If tan𝟐𝛉= 𝐜𝐨𝐭(𝛉−𝟑𝟔𝐨), where 2 𝛉 is an acute angle, then the value of 𝛉 is: 
+;fn tan𝟐𝛉= 𝐜𝐨𝐭(𝛉−𝟑𝟔𝐨), tgka 2 𝛉  ,d dks.k gS] rks 𝛉  dk eku Kkr dhft,A 
+(a) 18°           (b) 30°          (c) 36° 
+(d) 42° 
+159. If sin3θ.sec2θ = 1, then what is the value of [3tan2(5θ/2) -1]? 
+यदि sin3θ.sec2θ = 1, तो [3tan2(5θ/2) -1] का मान क्या होगा? 
+a) 0 
+ 
+b) 3 
+ 
+c) 1 
+ 
+d) 2 
+160. If 𝒄𝒐𝒔𝒆𝒄𝟐𝜽= 𝐬𝐞𝐜 (𝟑𝜽−𝟏𝟓°), then  is equal to: 
+;fn 𝒄𝒐𝒔𝒆𝒄𝟐𝜽= 𝐬𝐞𝐜 (𝟑𝜽−𝟏𝟓°) gS] rks  ) dk eku Kkr djsaA 
+(a) 220 
+         (b) 200 
+     (c) 250  (d) 210 
+161. If sec(5–15°) = cosec(15°–2), then the value of cos + sin2 + tan(1.5) is: 
+;fn sec(5–15°) = cosec(15°–2) gS] rks cos + sin2 + tan(1.5) dk eku Kkr djsaA 
+(a) 
+2  + 1 
+(b) 
+2  – 1 
+(c) 
+3  – 1 
+(d) 
+3  + 1 
+162. If 2sec2θ = tan φ + cot φ , then one of the values of θ +φ =? 
+  यदि 2sec2θ = tan φ + cot φ , तो θ +φ का एक मान होना चादहए =?  
+(a)π/2      (b) π/4    (c) π/3    (d) π/6  
+ 
+163. 
+For what relation between a and b is the equation 𝒔𝒊𝒏𝜽=
+𝒂+𝒃
+𝟐√𝒂𝒃  possible? 
+a और b के बीच ककस संबंध के ललए समीकरण 𝒔𝒊𝒏𝜽=
+𝒂+𝒃
+𝟐√𝒂𝒃 संभि है? (CDS 2023) 
+A) a=b 
+B) a>b 
+C) 𝒂≤𝒃 
+D) 𝒂≥𝒃 
+ 
+ 
+ 

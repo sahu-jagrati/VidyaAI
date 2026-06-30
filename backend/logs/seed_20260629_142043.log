@@ -1,0 +1,124 @@
+2026-06-29 14:20:43,205  INFO      Found 176 JSON file(s) in C:\Users\BIT\Desktop\vidyaAi\backend\processed
+2026-06-29 14:20:43,206  INFO      Loading existing question fingerprints from DB...
+2026-06-29 14:20:47,106  INFO        1454 questions already in DB
+2026-06-29 14:20:47,572  ERROR     Fatal error: (psycopg2.errors.NotNullViolation) null value in column "question_text" of relation "questions" violates not-null constraint
+DETAIL:  Failing row contains (2194, Quant, null, Algebra, null, null, null, x² + 11, x² – 121, x² + 121, x² – 11 SSC CHSL TIER – I 2022, null, null, 2026-06-29 08:50:47.197334+00, null, null, null, null, null, null, null, SSC CGL, 1, What is the expansion of (x+11) (x–11)? (x+11) (x–11) dk çl..., null, Algebra  Sheet -1.pdf).
+
+[SQL: INSERT INTO questions (exam, subject, topic, question_number, question_en, option_a, option_b, option_c, option_d, source_pdf, created_at) VALUES (%(exam__0)s, %(subject__0)s, %(topic__0)s, %(question_number__0)s, %(question_en__0)s, %(option_a__0)s, ... 379 characters truncated ... ion_a__2)s, %(option_b__2)s, %(option_c__2)s, %(option_d__2)s, %(source_pdf__2)s, %(created_at__2)s)]
+[parameters: {'question_en__0': 'What is the expansion of (x+11) (x–11)? (x+11) (x–11) dk çlkj D;k gS\\', 'question_number__0': 1, 'exam__0': 'SSC CGL', 'option_a__0': 'x² + 11', 'option_b__0': 'x² – 121', 'created_at__0': datetime.datetime(2026, 6, 29, 8, 50, 47, 197334, tzinfo=datetime.timezone.utc), 'option_d__0': 'x² – 11 SSC CHSL TIER – I 2022', 'source_pdf__0': 'Algebra  Sheet -1.pdf', 'option_c__0': 'x² + 121', 'topic__0': 'Algebra', 'subject__0': 'Quant', 'question_en__1': 'gS] rks k dk eku D;k gS\\', 'question_number__1': 2, 'exam__1': 'SSC CGL', 'option_a__1': '9/4', 'option_b__1': '11/4', 'created_at__1': datetime.datetime(2026, 6, 29, 8, 50, 47, 197340, tzinfo=datetime.timezone.utc), 'option_d__1': '7/4', 'source_pdf__1': 'Algebra  Sheet -1.pdf', 'option_c__1': '6/4', 'topic__1': 'Algebra', 'subject__1': 'Quant', 'question_en__2': 'Simiplify 36a 49b 6a 7b - + . 𝟑𝟔𝒂𝟐−𝟒𝟗𝒃𝟐 𝟔𝒂+𝟕𝒃 dks ljy dhft,A', 'question_number__2': 5, 'exam__2': 'SSC CGL', 'option_a__2': '6a – 7b', 'option_b__2': '6a 7b -', 'created_at__2': datetime.datetime(2026, 6, 29, 8, 50, 47, 197342, tzinfo=datetime.timezone.utc), 'option_d__2': '7b – 6a', 'source_pdf__2': 'Algebra  Sheet -1.pdf', 'option_c__2': '6a + 7b', 'topic__2': 'Algebra', 'subject__2': 'Quant'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2125, in _exec_insertmany_context
+    dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.NotNullViolation: null value in column "question_text" of relation "questions" violates not-null constraint
+DETAIL:  Failing row contains (2194, Quant, null, Algebra, null, null, null, x² + 11, x² – 121, x² + 121, x² – 11 SSC CHSL TIER – I 2022, null, null, 2026-06-29 08:50:47.197334+00, null, null, null, null, null, null, null, SSC CGL, 1, What is the expansion of (x+11) (x–11)? (x+11) (x–11) dk çl..., null, Algebra  Sheet -1.pdf).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\scripts\seed_from_json.py", line 163, in run
+    ins, skp, inv = seed_file(jf, existing, db, log)
+                    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\scripts\seed_from_json.py", line 125, in seed_file
+    db.bulk_save_objects(objs)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4564, in bulk_save_objects
+    self._bulk_save_mappings(
+    ~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<5 lines>...
+        render_nulls=False,
+        ^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4741, in _bulk_save_mappings
+    with util.safe_reraise():
+         ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 121, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 4730, in _bulk_save_mappings
+    bulk_persistence._bulk_insert(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        mapper,
+        ^^^^^^^
+    ...<4 lines>...
+        render_nulls=render_nulls,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\bulk_persistence.py", line 222, in _bulk_insert
+    result = persistence._emit_insert_statements(
+        base_mapper,
+    ...<6 lines>...
+        execution_options=execution_options,
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+        statement, multiparams, execution_options=execution_options
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1844, in _execute_context
+    return self._exec_insertmany_context(dialect, context)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2133, in _exec_insertmany_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e,
+        ^^
+    ...<4 lines>...
+        is_sub_exec=True,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2363, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2125, in _exec_insertmany_context
+    dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~^
+        cursor,
+        ^^^^^^^
+    ...<2 lines>...
+        context,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\BIT\Desktop\vidyaAi\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+sqlalchemy.exc.IntegrityError: (psycopg2.errors.NotNullViolation) null value in column "question_text" of relation "questions" violates not-null constraint
+DETAIL:  Failing row contains (2194, Quant, null, Algebra, null, null, null, x² + 11, x² – 121, x² + 121, x² – 11 SSC CHSL TIER – I 2022, null, null, 2026-06-29 08:50:47.197334+00, null, null, null, null, null, null, null, SSC CGL, 1, What is the expansion of (x+11) (x–11)? (x+11) (x–11) dk çl..., null, Algebra  Sheet -1.pdf).
+
+[SQL: INSERT INTO questions (exam, subject, topic, question_number, question_en, option_a, option_b, option_c, option_d, source_pdf, created_at) VALUES (%(exam__0)s, %(subject__0)s, %(topic__0)s, %(question_number__0)s, %(question_en__0)s, %(option_a__0)s, ... 379 characters truncated ... ion_a__2)s, %(option_b__2)s, %(option_c__2)s, %(option_d__2)s, %(source_pdf__2)s, %(created_at__2)s)]
+[parameters: {'question_en__0': 'What is the expansion of (x+11) (x–11)? (x+11) (x–11) dk çlkj D;k gS\\', 'question_number__0': 1, 'exam__0': 'SSC CGL', 'option_a__0': 'x² + 11', 'option_b__0': 'x² – 121', 'created_at__0': datetime.datetime(2026, 6, 29, 8, 50, 47, 197334, tzinfo=datetime.timezone.utc), 'option_d__0': 'x² – 11 SSC CHSL TIER – I 2022', 'source_pdf__0': 'Algebra  Sheet -1.pdf', 'option_c__0': 'x² + 121', 'topic__0': 'Algebra', 'subject__0': 'Quant', 'question_en__1': 'gS] rks k dk eku D;k gS\\', 'question_number__1': 2, 'exam__1': 'SSC CGL', 'option_a__1': '9/4', 'option_b__1': '11/4', 'created_at__1': datetime.datetime(2026, 6, 29, 8, 50, 47, 197340, tzinfo=datetime.timezone.utc), 'option_d__1': '7/4', 'source_pdf__1': 'Algebra  Sheet -1.pdf', 'option_c__1': '6/4', 'topic__1': 'Algebra', 'subject__1': 'Quant', 'question_en__2': 'Simiplify 36a 49b 6a 7b - + . 𝟑𝟔𝒂𝟐−𝟒𝟗𝒃𝟐 𝟔𝒂+𝟕𝒃 dks ljy dhft,A', 'question_number__2': 5, 'exam__2': 'SSC CGL', 'option_a__2': '6a – 7b', 'option_b__2': '6a 7b -', 'created_at__2': datetime.datetime(2026, 6, 29, 8, 50, 47, 197342, tzinfo=datetime.timezone.utc), 'option_d__2': '7b – 6a', 'source_pdf__2': 'Algebra  Sheet -1.pdf', 'option_c__2': '6a + 7b', 'topic__2': 'Algebra', 'subject__2': 'Quant'}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)

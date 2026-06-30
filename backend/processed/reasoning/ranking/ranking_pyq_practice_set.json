@@ -1,0 +1,17 @@
+[
+  {
+    "question_number": 21,
+    "question_en": "In this question, the relationship between different elements is shown in the statement. This statement is followed by two conclusions: Statement:/कथनः C > H  ≥  I = P< O ≤ T < L <  E Conclusion:/िनʺषŊः i) H > O ii) O < L Choose the appropriate one from the following options",
+    "question_hi": "इस प्रʲ मŐ कथन मŐ िविभɄ तȕों के बीच संबंध दशाŊया गया है। इस कथन के बाद दो िनʺषŊ िदए गए हœ: िनɻिलİखत िवकʙों मŐ से उपयुƅ िवकʙ का चयन कीिजए:",
+    "option_a": "Only conclusion i follows",
+    "option_b": "Only conclusion ii follows",
+    "option_c": "Either i or ii follows",
+    "option_d": "Neither i nor ii follows (E) Both i and ii follow [UP SI - 21 Nov 2021 - Shift 3]",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Ranking",
+    "source_pdf": "Ranking PYQ Practice Set.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

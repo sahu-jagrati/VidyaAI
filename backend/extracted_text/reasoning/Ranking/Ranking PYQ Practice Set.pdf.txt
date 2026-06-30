@@ -1,0 +1,1230 @@
+ 
+1.
+Each of the seven friends, Misha, Minshu, Mohi,
+Priya, Veer, Pari, and Krishi, has a different
+height. Krishi is taller than only three people.
+Pari is taller than only Veer. Misha is taller than
+Minshu but not Mohi. Priya is taller than Mohi.
+Who among the following is taller than Krishi?
+सात िमत्रों- िमशा, िमंशु, मोही, िप्रया, वीर, परी और कृिष
+मŐ से प्रȑेक की लंबाई अलग-अलग है। कृिष केवल तीन
+लोगों से लंबी है। परी केवल वीर से लंबी है। िमशा, िमंशु
+से लंबी है लेिकन मोही से नहीं। िप्रया, मोही से लɾी है।
+िनɻिलİखत मŐ से कौन कृिष से लंबा है?
+[CHSL - 3 June 2022 - Shift 2] 
+1. Minshu/िमंशु
+2. Mohi/मोही
+3. Pari/परी
+4. Veer/वीर
+2.
+Among five friends Aman, Baman, Chaman,
+Karan and Tapan, Chaman is older than only
+one friend. Tapan is older than Karan. Only two
+persons are older than Karan. Baman is older
+than Tapan. Who is the youngest among all the
+friends?
+पांच दोˑों अमन, बमन, चमन, करण और तपन के बीच,
+चमन केवल एक दोˑ से अिधक उम्र के हœ। तपन करण
+से बड़ा है। केवल दो ʩİƅ करण से बड़े हœ। बमन तपन
+से अिधक पुराना है। सभी दोˑों मŐ सबसे छोटा कौन है?
+[MTS - 19 July 2022 - Shift 3] 
+1. Aman/अमन
+2. Chaman/चमन
+3. Tapan/तपन
+4. Karan/करण
+3.
+Among seven friends P, Q, R, S, T, U and V; U is
+taller than only three other friends. R is tallest
+among all friends. T is taller than U. Q is taller
+than only one person. Only two persons are
+taller than P. V is taller than Q. Who is the
+shortest among all the friends?
+सात दोˑों के बीच P, Q, R, S, T, U और V; U केवल
+तीन अɊ दोˑों की तुलना मŐ लंबा है। R सभी दोˑों मŐ
+सबसे लंबा है। T केवल एक ʩİƅ की तुलना मŐ U. Q से
+ 
+ 
+लंबा है। केवल दो ʩİƅ PI V, Q से लंबा है। सभी दोˑों 
+मŐ सबसे छोटा कौन है?  
+[MTS - 19 July 2022 - Shift 3] 
+1. S
+2. U
+3. V
+4. P
+4.
+Six friends, Kushal, Keshav, Kishan, Kamal,
+Kanan, and Kishore, are of different heights.
+Keshav is taller than only three other friends.
+Kishore is taller than Kamal only. Kishan is
+shorter than Kushal only. Who is the third
+shortest among all the friends?
+छह दोˑ, कुशल, केशव, िकशन, कमल, कनन और
+िकशोर, अलग-अलग लंबाई के हœ। केशव, केवल तीन
+अɊ िमत्रों से लंबा है। िकशोर, केवल कमल से लंबा है।
+िकशन केवल कुशाल से छोटा है। सभी िमत्रों मŐ तीसरा
+सबसे छोटा कौन है?
+[MTS - 26 July 2022 - Shift 2] 
+1. Kanan/कनन
+2. Kishore/िकशोर
+3. Kushal/कुशल
+4. Keshav/केशव
+5.
+The areas of seven circles C1, C2, C3, C4, C5, C6
+and C7 are compared. The area of C2 is greater
+than C5 and less than C1. The area of C4 is
+greater than C7 and less than C6. The area of C5
+is more than C6. If the area of C7 is the lowest
+and C3 is the highest, then which of the
+following options is correct?
+सात वृȅों- C1, C2, C3, C4, C5, C6 और C7 के
+Ɨेत्रफलों की तुलना की जाती है। C2 का Ɨेत्रफल, C5 से
+अिधक और C1 से कम है। C4 का Ɨेत्रफल, C7 से
+अिधक और C6 से कम है। C5 का Ɨेत्रफल, C6 से
+अिधक है। यिद C7 का Ɨेत्रफल सबसे कम है और C3
+उǄतम है, तो िनɻ मŐ से कौन सा िवकʙ सही है?
+[MTS - 26 July 2022 - Shift 1] 
+1. C5 < C4
+2. C3 > C6
+3. C4 > C1
+4. C4 > C2
+Practice Sheet
+Atm Mcq
+Banking
+ 
+6. 
+Among five friends, Puneet, Qazir, Raman, 
+Suresh, and Tinku, Tinku is shorter than only 
+one friend. Raman is the tallest among all the 
+friends. Qazir is taller than only one person. 
+Only two persons are shorter than Puneet. Who 
+is the shortest among all the friends?  
+ 
+पांच िमत्र- पुनीत, काजीर, रमन, सुरेश और िटंकू मŐ, िटंकू 
+केवल एक िमत्र से छोटा है। रमन सभी िमत्रों मŐ सबसे 
+लंबा है। काजीर केवल एक ʩİƅ से लंबा है। केवल दो 
+ʩİƅ पुनीत से छोटे हœ। सभी िमत्रों मŐ सबसे छोटा कौन 
+है?  
+[MTS - 25 July 2022 - Shift 3]  
+ 
+1. Puneet/पुनीत  
+2. Suresh/सुरेश  
+ 
+3. Tinku/िटंकू  
+4. Qazir/काजीर 
+ 
+7. 
+Among five persons A, B, C, D, and E, who are of 
+different ages, A is younger than only D and E. E 
+is younger than D and older than B. C is the 
+youngest. Who is the fourth oldest?  
+ 
+पांच ʩİƅयों A, B, C, D, और E मŐ, िजनकी आयु अलग-
+अलग हœ, A केवल D और E से छोटा है। E, D से छोटा है 
+और B से बड़ा है। C सबसे छोटा है। चौथा सबसे बड़ा 
+कौन है?  
+[MTS - 21 July 2022 - Shift 3] 
+ 
+1. C  
+2. D  
+ 
+3. E  
+4. B  
+ 
+8. 
+Among five friends A, B, C, D, and E, C is older 
+than only one friend. E is older than D. Only two 
+persons are older than D. B is older than E. Who 
+is the youngest among all the friends?  
+ 
+पाँच िमत्रों- A, B, C, D और E मŐ से, C केवल एक िमत्र से 
+बड़ा है। E, D से बड़ा है। केवल दो ʩİƅ D से बड़े हœ। 
+B, E से बड़ा है। सभी िमत्रों मŐ से सबसे छोटा कौन है?  
+[MTS - 21 July 2022 - Shift 2]  
+ 
+1. D  
+2. E  
+ 
+3. C  
+4. A 
+ 
+9. 
+The ages of seven girls G1, G2, G3, G4, G5, G6 
+and G7 are compared. No two girls have the 
+same age. The age of G3 is less than only two 
+girls. The age of G1 is greater than G4 and G7. 
+The age of G6 is the lowest. The age of G5 is 
+not the highest and it is greater than G1. The 
+age of how many girls is greater than G5?  
+ 
+सात लड़िकयों G1, G2, G3, G4, G5, G6 और G7 की 
+आयु की तुलना की जाती है। कोई भी दो लड़िकयों की 
+आयु एक समान नहीं हœ। G3 की आयु केवल दो लड़िकयों 
+से कम है। G1 की आयु G4 और G7 से अिधक है। G6 
+की आयु सबसे कम है। G5 की आयु सबसे अिधक नहीं 
+है और यह G1 से अिधक है। िकतनी लड़िकयों की आयु 
+G5 से अिधक है? A  
+[MTS - 21 July 2022 - Shift 1]  
+ 
+1.1  
+2.4  
+ 
+3.2  
+4.3 
+ 
+10. In a basket there are seven different fruits M, N, 
+O, P, Q, R, and S, each having a different weight. 
+P is the heaviest. The weight of S is more than Q 
+but less than O. The weight of M is the third 
+lowest. R has the least weight. The weight of N 
+is less than Q. How many fruits have more 
+weight than S?  
+ 
+एक् टोकरी मŐ सात अलग-अलग फल M, N, O, P, Q, R 
+और S हœ, प्रȑेक का भार अलग-अलग है। P सबसे भारी 
+है। S का भार, Q से अिधक लेिकन 0 से कम है। M का 
+भार तीसरा सबसे कम है। R का भार सबसे कम है। N 
+का भार Q से कम है। िकतने फलों का भार S से अिधक 
+है?  
+[MTS - 20 July 2022 - Shift 1]  
+ 
+1. 2  
+2. 3  
+ 
+3. 0  
+4. 1 
+ 
+11. The height of five students, Aakriti, Kiran, Lisa, 
+Manisha and Rekha, are compared. The height 
+of Kiran is more than only two students. The 
+height of Manisha is immediately greater than 
+Rekha, and Rekha is immediately greater than 
+Kiran. How many students are taller than 
+Rekha?  
+ 
+पांच छात्रों- आकृित, िकरण, लीसा, मनीषा और रेखा की 
+लंबाई की तुलना की जाती है। िकरण की लंबाई िसफŊ  दो 
+छात्रों से अिधक है। मनीषा की लंबाई, रेखा से ठीक 
+ 
+अिधक है, और रेखा की लंबाई, िकरण से ठीक अिधक 
+है। िकतने छात्र रेखा से लंबे हœ?  
+[MTS - 19 July 2022 - Shift 1] 
+ 
+1. Four/चार  
+2. Two/दो  
+ 
+3. Three/तीन  
+4. One/एक  
+ 
+12. P, Q, R, S, T, U, and V are seven friends who 
+scored different marks on a test. Scores of only 
+two people lie between the scores of S and P 
+with a score of P greater than S. R scored the 
+highest marks. T scored more than Q. U and V 
+scored second least and the lowest marks 
+respectively. Who scored the fourth highest 
+marks?  
+ 
+P, Q, R, S, T, U, और V सात िमत्र हœ िजɎोंने एक परीƗा 
+मŐ अलग-अलग अंक प्राɑ िकए हœ। केवल दो ʩİƅयों 
+के अंक S और P के अंकों के बीच हœ, िजनमŐ P के अंक, 
+S से अिधक हœ। R ने सबसे अिधक अंक प्राɑ िकए हœ। T 
+ने Q से अिधक अंक प्राɑ िकए। U और V ने क्रमशः 
+दूसरे सबसे कम और सबसे कम अंक प्राɑ िकए। चौथे 
+सबसे अिधक अंक िकसने प्राɑ िकए हœ?  
+[MTS - 15 July 2022 - Shift 3]  
+ 
+1. P  
+2. Q  
+ 
+3. R  
+4. S 
+ 
+13. Among five friends P, Q, R, S, and T, T is taller 
+than only three other friends. R is the tallest 
+among all friends. Q is taller than only one 
+person. Only two persons are taller than P. Who 
+is the shortest among all the friends?  
+ 
+पांच िमत्रों P, Q, R, S, और T मŐ से केवल तीन अɊ िमत्रों 
+से लंबा है। R सभी िमत्रों मŐ सबसे लंबा है। Q केवल एक 
+ʩİƅ से लंबा है। केवल दो ʩİƅ P से लंबे हœ। सभी 
+िमत्रों मŐ सबसे छोटा कौन है?  
+[MTS - 18 July 2022 - Shift 1]  
+ 
+1. T  
+2. P  
+ 
+3. Q  
+4. S 
+ 
+14. Prakash, Qadir, Ramesh, Saurabh, and Tariq are 
+friends. Ramesh is taller than Qadir but shorter 
+than Saurabh. Prakash is the shortest, and Tariq 
+is taller than Saurabh. Who is the tallest among 
+them?  
+ 
+प्रकाश, कािदर, रमेश, सौरभ और ताįरक दोˑ हœ। रमेश 
+कािदर से लंबा है लेिकन सौरभ से छोटा है। प्रकाश सबसे 
+छोटा है और ताįरक, सौरभ से लंबा है। उनमŐ से सबसे 
+लंबा कौन है?  
+[CGL - 20 April 2022 - Shift 1]  
+ 
+1. Qadir/कािदर  
+2. Saurabh/सौरभ 
+ 
+3. Tariq/ताįरक  
+4. Ramesh/रमेश 
+ 
+15. Five friends, H, I, J, K, and L, are top-rank 
+holders of a school. The rank of H is just above 
+the rank of K and just below the rank of L. I is at 
+the top rank and J is not at the lowest rank. 
+Who among them is at the lowest rank?  
+ 
+पाँच िमत्र, H, I, J, K, और L, एक ˋूल के शीषŊ-रœक 
+धारक हœ। H का रœक K के रœक के ठीक ऊपर और L के 
+रœक के ठीक नीचे है।।, शीषŊ रœक पर है और J, सबसे 
+िनचले रœक पर नहीं है। उनमŐ से सबसे िनचले रœक पर 
+कौन है?  
+[CGL - 13 April 2022 - Shift 1]  
+ 
+1. M  
+2. L  
+ 
+3. Κ  
+4. J 
+ 
+16. Seven friends S, T, U, V, W, X, and Y, each scored 
+different marks in an examination. W scored 
+more than X but less than V. Only three people 
+scored more than V. T scored more than U but 
+less than S. Y scored the least among all. How 
+many persons scored between T and X?  
+ 
+सात िमत्रों- S, T, U, V, W, X और Y मŐ से, प्रȑेक ने एक 
+परीƗा मŐ अलग-अलग अंक प्राɑ िकए। W ने X से 
+अिधक लेिकन V से कम अंक प्राɑ िकए। केवल तीन 
+िमत्रों ने V से अिधक अंक प्राɑ िकए। T ने U से अिधक 
+लेिकन S से कम अंक प्राɑ िकए। Y ने सभी मŐ सबसे 
+कम अंक प्राɑ िकए। T और X के बीच मŐ िकतने 
+ʩİƅयों ने अंक प्राɑ िकए?  
+[CHSL - 3 June 2022 - Shift 3]  
+ 
+1.4  
+ 
+2.2  
+ 
+3.3  
+4.1 
+ 
+17. Seven friends A, B, C, D, E, F, and G, each has a 
+different height. A is shorter than B but taller 
+than C. B is taller than only four others. E is 
+taller than G but shorter than C. D is taller than 
+B but shorter than F. Who is the tallest among 
+all?  
+ 
+सात िमत्र A, B, C, D, E, F, और G, प्रȑेक की लंबाई िभɄ 
+है। A, B से छोटा है लेिकन C से लंबा है। B केवल चार 
+अɊ से लंबा है। E, G से लंबा है लेिकन C से छोटा है। D, 
+B से लंबा है लेिकन F से छोटा है। इनमŐ से सबसे लंबा 
+कौन है?  
+[CHSL - 27 May 2022 - Shift 3]  
+ 
+1. B  
+2. A  
+ 
+3. F  
+4. D 
+ 
+18. A stands in the 45th position from the front of 
+the queue and there are 3 persons between A 
+and B. B stands after A. If the first 10 persons 
+are removed from the queue then what is the 
+position of B from the front of the queue?  
+ 
+A कतार मŐ आगे से 45 वŐ स्थान पर खड़ा है और A और 
+B के बीच मŐ 3 ʩİƅ हœ। B, A के पीछे खड़ा है। यिद 
+पहले 10 ʩİƅयों को कतार से हटा िदया जाता है तो 
+कतार मŐ आगे से B का स्थान Ɛा है?  
+[UP SI - 13 Nov 2021 - Shift 3]  
+ 
+1.39  
+2.43  
+ 
+3.37  
+4.51 
+ 
+19. A stands in the 13th position from the front of 
+the queue and there are 2 persons between A 
+and B. B stands after A. If the first 8 persons are 
+removed from the queue then what is the 
+position of B from the front of the queue?  
+ 
+A एक कतार मŐ आगे से 13वŐ स्थान पर खड़ा है और A 
+और B के बीच 2 ʩİƅ हœ। B, A के पीछे खड़ा है। यिद 
+पहले 8 ʩİƅयों को कतार से हटा िदया जाता है, तो 
+कतार मŐ आगे से B का स्थान Ɛा है?  
+[UP SI - 2 Dec 2021 - Shift 1]  
+ 
+1. 5  
+2. 7  
+ 
+3. 8  
+ 
+4. 6 
+20. Person A is standing exactly in between P and Q 
+in a queue. P is 11th from the front of the 
+queue and Q is 12th from the end of the queue. 
+P and A have 2 persons between them. What is 
+the total number of people in the queue?  
+ 
+ʩİƅ A एक पंİƅ मŐ P और Q के ठीक बीच मŐ खड़ा 
+है। P पंİƅ के सामने से 11वŐ स्थान पर है और Q पंİƅ 
+के अंत से 12वŐ स्थान पर है। P और A के बीच मŐ 2 
+ʩİƅ हœ। पंİƅ मŐ लोगों की कुल संƥा िकतनी है?  
+[UP SI - 21 Nov 2021 - Shift 3]  
+ 
+1.26  
+2.28  
+ 
+3.23  
+4. 25 
+ 
+21. In this question, the relationship between 
+different elements is shown in the statement. 
+This statement is followed by two conclusions:  
+ 
+इस प्रʲ मŐ कथन मŐ िविभɄ तȕों के बीच संबंध दशाŊया 
+गया है। इस कथन के बाद दो िनʺषŊ िदए गए हœ: 
+ 
+Statement:/कथनः 
+ 
+C > H  ≥  I = P< O ≤ T < L <  E  
+ 
+Conclusion:/िनʺषŊः 
+ 
+i) H > O  
+ 
+ii) O < L  
+ 
+Choose the appropriate one from the following 
+options  
+ 
+िनɻिलİखत िवकʙों मŐ से उपयुƅ िवकʙ का चयन 
+कीिजए: 
+ 
+(A)  Only conclusion i follows  
+ 
+ 
+केवल िनʺषŊ । अनुसरण करता है 
+ 
+(B)  Only conclusion ii follows  
+ 
+ 
+केवल िनʺषŊ ii अनुसरण करता है 
+ 
+(C)  Either i or ii follows  
+ 
+ 
+या तो । या ii अनुसरण करता है 
+ 
+(D)  Neither i nor ii follows  
+ 
+ 
+न तो । और न ही ii अनुसरण करता है 
+ 
+(E)  Both i and ii follow  
+ 
+ 
+i और ii दोनों अनुसरण करते हœ  
+[UP SI - 21 Nov 2021 - Shift 3] 
+ 
+1. C  
+2. A  
+ 
+3. B  
+ 
+4. D  
+ 
+22. In a class of 40 students, a boy is ranked 12th 
+from the top. When 10 boys joined, his rank 
+was dropped by one. What is his new rank from 
+the last?  
+ 
+40 छात्रों की एक कƗा मŐ, एक लड़का शीषŊ से 12वŐ 
+स्थान पर है। जब 10 लड़के शािमल Šए, तो उसका स्थान 
+एक कम हो गया। अंत से उसका नया स्थान Ɛा है?  
+[UP SI - 1 Dec 2021 - Shift 1]  
+ 
+1.32  
+2.38  
+ 
+3. 30 
+4.24 
+ 
+23. Person A is standing exactly in between P and Q 
+in a queue. P is 13th from the front of the 
+queue and Q is 11th from the end of the queue. 
+P and A have persons between them. What is 
+the total number of people in the queue?  
+ 
+ʩİƅ A एक कतार मŐ P और Q के ठीक बीच मŐ खड़ा 
+है। P कतार के सामने से 13वŐ स्थान पर है और Q कतार 
+के अंत से 11वŐ स्थान पर है। P और A के बीच मŐ ʩİƅ 
+हœ। कतार मŐ लोगों की कुल संƥा िकतनी है?  
+[UP SI - 17 Nov 2021 - Shift 1]  
+ 
+1.29 
+2.31  
+ 
+3.30  
+4.28  
+ 
+24. If the right side is considered to be left side and 
+the left side is considered to be the right side, 
+then A's position is 18th from the left end who 
+is sitting to the immediate right of B. What is 
+the position of B from the left?  
+ 
+यिद दाईं ओर को बाईं ओर माना जाता है और बाईं ओर 
+को दाईं ओर माना जाता है, तो A का स्थान बाएं छोर से 
+18वां है जो B के ठीक दाईं ओर बैठा है। बाईं ओर से B 
+का स्थान Ɛा है?  
+[UP SI - 13 Nov 2021 - Shift 2]  
+ 
+1.17  
+2.37  
+ 
+3.47  
+4.27 
+ 
+25. Mukesh stands in the 4th position from the 
+front in a queue and there are 2 persons 
+between Mukesh and Rakesh. Rakesh stands 
+after Mukesh. If the first person is removed 
+from the queue then what is the position of 
+Rakesh from the front of the queue?  
+मुकेश एक कतार मŐ आगे से चौथे स्थान पर खड़ा है तथा 
+मुकेश और राकेश के बीच मŐ 2 ʩİƅ हœ। राकेश, मुकेश 
+के पीछे खड़ा है। यिद पहले ʩİƅ को कतार से हटा 
+िदया जाए, तो कतार मŐ आगे से राकेश का स्थान Ɛा है?  
+[UP SI - 13 Nov 2021 - Shift 2]  
+ 
+1.6  
+2.3  
+ 
+3.4  
+4.5 
+ 
+26. A stands in the 3rd position from the front of 
+the queue and there are 3 persons between A 
+and B. B stands after A. If the first two persons 
+are removed from the queue then what is the 
+position of B from the front of the queue?  
+ 
+A कतार मŐ आगे से तीसरे स्थान पर खड़ा है और A और 
+B के बीच मŐ 3 ʩİƅ हœ। B, A के बाद खड़ा है। यिद 
+पहले दो ʩİƅयों को कतार से हटा िदया जाता है तो 
+कतार मŐ आगे से B का स्थान Ɛा है?  
+[UP SI - 25 Nov 2021 - Shift 3]  
+ 
+1.3  
+2.4  
+ 
+3.6  
+4.5 
+ 
+27. All the persons in a row are facing North, A is 
+18th from right and B is 25th from the right. If A 
+and B exchange the positions, what is the 
+position of A from left if 40 persons are there in 
+the row?  
+ 
+एक पंİƅ मŐ सभी ʩİƅ उȅर िदशा की ओर उɉुख हœ, 
+A दाएं से 18वŐ स्थान पर है और B दाएं से 25वŐ स्थान पर 
+है। यिद A और B अपना स्थान बदल लेते हœ, तो पंİƅ मŐ 
+40 ʩİƅ होने पर बायीं ओर से A का स्थान Ɛा है?  
+[UP SI - 27 Nov 2021 - Shift 2]  
+ 
+1.19  
+2.17 
+ 
+3.18  
+4.16  
+ 
+28. Read the following set of information and 
+answer the question below,  
+ 
+जानकारी के िनɻिलİखत सेट को पढ़Ő और नीचे िदए गए 
+प्रʲ का उȅर दŐ, 
+ 
+ 
+i.  
+Rekha is younger than Sumitha but elder 
+than Reena.  
+ 
+ 
+रेखा, सुिमता से छोटी है लेिकन रीना से बड़ी है। 
+ 
+ii.  Reena is elder than Gayathri.  
+ 
+ 
+रीना, गायत्री से बड़ी है। 
+ 
+iii.  Sharmila is elder to Reena but younger 
+than Rekha.  
+ 
+ 
+शिमŊला, रीना से बड़ी है लेिकन रेखा से छोटी है।  
+ 
+Who is the youngest of all?  
+ 
+सबसे छोटा कौन है? 
+[NTPC CBT 2 - 2021]  
+ 
+1. Sumitha/सुिमता  
+2. Rekha/रेखा  
+ 
+3. Sharmila/शिमŊला  
+4. Gayathri/गायत्री 
+ 
+29. Rama is taller than Geetha. Vimala is taller than 
+Rama but shorter than Meenu. Bindu is taller 
+than Geetha but shorter than Rama.  
+ 
+रमा, गीता से लंबी हœ। िवमला, रमा से लंबी है, लेिकन मीनू 
+से छोटी है। िबंदू, गीता से लंबी है, लेिकन रमा से छोटी है।  
+ 
+Who among the given people is the shortest? 
+ 
+िदए गए ʩİƅयों मŐ से कौन सबसे छोटा है?  
+[NTPC CBT 2 - 2021]  
+ 
+1. Rama/रमा  
+ 
+2. Bindu/िबंदू  
+ 
+3. Vimala/िवमला  
+ 
+4. Geetha/गीता  
+ 
+30. Yogesh is taller than Alpesh but shorter than 
+Dharmesh. Suresh is shorter than Rajesh. Harish 
+is not as tall as Alpesh. Ramesh is taller than 
+Dharmesh but shorter than Suresh.  
+ 
+योगेश, अʙेश से लंबा है लेिकन धमőश से छोटा है। 
+सुरेश, राजेश से छोटा है। हरीश, अʙेश िजतना लंबा नहीं 
+है। रमेश, धमőश से लɾा है लेिकन सुरेश से छोटा है।  
+ 
+Who is the shortest at all? 
+ 
+सबसे छोटा कौन है?  
+[NTPC CBT 2 - 2021]  
+ 
+1. Harish/हरीश  
+ 
+2. Ramesh/रमेश  
+ 
+3. Alpesh/अʙेश 
+  
+4. Yogesh/योगेश 
+31. Study the given statement and answer the 
+appropriate question.  
+ 
+िदए गए कथनों का अȯयन कीिजये और उनके आधार 
+पर सही उȅर िवकʙ का चयन कीिजये। 
+ 
+Statements:/कथनः 
+ 
+I. V is not shorter than A./V, A से छोटा नहीं है। 
+ 
+II. D is shorter than V./D, V से छोटा है। 
+ 
+III. A is shorter than D./A, D से छोटा है। 
+[NTPC CBT 2 - 2021]  
+ 
+1.  D is shorter than A/D, A से छोटा है।  
+ 
+2.  A is shorter than V and D/A, V और D से छोटा 
+है।  
+ 
+3.  A is taller than V./A, V से लंबाहै।  
+ 
+4.  D is shorter than A and V/D, A और V से छोटा 
+है। 
+ 
+32. All the persons in a row are facing North, A is 
+20th from right and B is 19th from the right. If A 
+and B exchange the positions, what is the 
+position of A from left if 30 persons are there in 
+the row?  
+ 
+एक पंİƅ मŐ सभी ʩİƅ उȅर की ओर उɉुख हœ, A 
+दाएं से 20वŐ स्थान पर है और B दाएं से 19वŐ स्थान पर है। 
+यिद A और B अपना स्थान बदल लेते हœ, तो पंİƅ मŐ 30 
+ʩİƅ होने पर बायीं ओर से A का स्थान Ɛा है?  
+[UP SI - 20 Nov 2021 - Shift 2]  
+ 
+1.12  
+2.16 
+ 
+3.14  
+4.15 
+ 
+33. C is in the middle of a row where he is 9th from 
+the right. What is the total number of persons 
+in the row?  
+ 
+C एक पंİƅ के मȯ मŐ है जहां वह दाएं से 9वŐ स्थान पर 
+है। पंİƅ मŐ ʩİƅयों की कुल संƥा िकतनी है?  
+[UP SI - 20 Nov 2021 - Shift 2]  
+ 
+1.17  
+2.18  
+ 
+3.16  
+4. 13  
+ 
+34. In a class of 60 students, where the number of 
+girls is twice that of the boys, a boy, ranked 
+20th from the top. If there are 7 girls ahead of 
+the boy, then the number of boys in rank after 
+him is:  
+ 
+ 
+60 छात्रों की एक कƗा मŐ, जहाँ लड़िकयों की संƥा 
+लड़कों से दोगुनी है, एक लड़का शीषŊ से 20वŐ स्थान पर 
+है। यिद लड़के से आगे 7 लड़िकयाँ हœ, तो उसके बाद के 
+क्रम मŐ लड़कों की संƥा िकतनी है?  
+[UP SI - 29 Nov 2021 - Shift 2]  
+ 
+1.6  
+2.7  
+ 
+3.8  
+4.9 
+ 
+35. All 28 students in a class are standing in a row 
+facing north. Akshat is 10th from the right end 
+while Neha is 16th from the left end. How many 
+students are standing between Akshat and 
+Neha?  
+ 
+एक कƗा मŐ सभी 28 िवȨाथŎ उȅर की ओर मुख करके 
+एक पंİƅ मŐ खड़े हœ। अƗत दायŐ छोर से 10वŐ स्थान पर है 
+जबिक नेहा बायŐ छोर से 16वŐ स्थान पर है। अƗत और 
+नेहा के बीच िकतने िवȨाथŎ खड़े हœ?  
+[Practice] 
+ 
+1.1  
+2.2  
+ 
+3.3  
+4.4 
+ 
+36.  Amit ranked 7th from the top and 26th from the 
+bottom in his class. How many students are 
+there in the class?  
+ 
+अिमत अपनी कƗा मŐ शीषŊ से 7वŐ और नीचे से 26वŐ स्थान 
+पर है। कƗा मŐ िकतने छात्र हœ?  
+[CGL Tier 2 - 7 March 2023]  
+ 
+1. 31  
+2. 33  
+ 
+3. 27  
+4. 32 
+ 
+37.  All 32 students in a class are standing in a row 
+facing north. Akash is 12th from the right end 
+while Priya is 18th from the left end. How many 
+people are standing between Akash and Priya?  
+ 
+एक कƗा मŐ सभी 32 छात्र उȅर के सʃुख एक पंİƅ मŐ 
+खड़े हœ। आकाश दाएं छोर से 12वŐ स्थान पर है जबिक 
+िप्रया बाएं छोर से 18वŐ स्थान पर है। आकाश और िप्रया 
+के बीच मŐ िकतने ʩİƅ खड़े हœ?  
+[CGL Tier 2 - 2 March 2023]  
+ 
+1. Two/दो  
+2. Four/चार  
+ 
+3. Three/तीन  
+4. Five/पांच 
+38.  Sunita is ranked 10th from the top and 18th 
+from the bottom in her class. How many 
+students are there in the class?  
+ 
+सुनीता अपनी कƗा मŐ ऊपर से 10वŐ और नीचे से 18वŐ 
+स्थान पर है। कƗा मŐ िकतने छात्र हœ?  
+[CHSL Tier 2 - 2 Nov 2023]  
+ 
+1. 27  
+ 
+2. 28  
+ 
+2. 30  
+ 
+4. 29 
+ 
+39.  If you are the 27th person in a queue from one 
+end and 38th from the other end, what is the 
+total number of persons in the queue?  
+ 
+यिद आप एक पंİƅ मŐ एक छोर से 27वŐ और दूसरे छोर 
+से 38वŐ ʩİƅ हœ, तो पंİƅ मŐ ʩİƅयों की कुल संƥा 
+Ɛा है?  
+[CHSL Tier 2 - 26 June 2023]  
+ 
+1. 66  
+ 
+2. 65  
+ 
+3. 64  
+ 
+4. 63 
+ 
+40.  Six girls D, E, F, G, H and J are of different 
+heights and weights. The tallest girl is not the 
+heaviest and the shortest girl is not the lightest. 
+Only two people are taller than D and two 
+people are lighter than G. J is the heaviest 
+person. F is taller than only E and lighter than 
+only J. J is taller than H. E is lighter than H. Who 
+are the lightest and the tallest girls? 
+ 
+छह लड़िकयाँ D, E, F, G, H और J अलग-अलग ऊँचाई 
+और वजन की हœ। सबसे लंबी लड़की सबसे भारी नहीं है 
+और सबसे छोटी लड़की सबसे हʋी नहीं है। केवल दो 
+लोग D से लंबे हœ और दो लोग G से हʋे हœ। J सबसे 
+भारी ʩİƅ है। F केवल E से लंबा है और केवल J से 
+हʋा है। J H से लंबा है। E, H से हʋा है। सबसे हʋी 
+और सबसे लंबी लड़िकयाँ कौन हœ?  
+ 
+1. D, G  
+ 
+2. D, E  
+ 
+3. G, F  
+4. H, J 
+ 
+ 
+ 
+ 
+Solution 
+ 
+1. 
+The correct answer is option 2 i.e. Mohi.  
+ 
+Priya>Mohi>Misha>Krishi>Minshu>Pari>Veer  
+ 
+From the above arrangement, Mohi is taller 
+than Krishi.  
+ 
+2. 
+The correct answer is option 1 i.e Aman  
+ 
+Baman > Tapan > Karan > Chaman > Aman  
+ 
+Aman is the youngest among all.  
+ 
+3. 
+The correct answer is option 1 i.e S  
+ 
+R > T > P > U > V > Q > S  
+ 
+So, S is the shortest among all the friends.  
+ 
+4. 
+The correct answer is option 1 i.e. Kanan. 
+ 
+ 
+ 
+From the above arrangement, Kanan is the third 
+shortest among all the friends.  
+ 
+5. 
+The correct answer is Option 2 i.e. C3 > C6.  
+ 
+C3 > C1 > C2 > C5 > C6 > C4 > C7  
+ 
+Hence, C3 > C6 is the correct answer.  
+ 
+6. 
+The correct answer is option 2 i.e. Suresh 
+ 
+ 
+ 
+ 
+ 
+ 
+From the above arrangement, Suresh is the 
+shortest among all the friends. 
+ 
+7. 
+The correct answer is option 4 i.e. B 
+ 
+ 
+ 
+From the above arrangement, B is the fourth 
+oldest.  
+ 
+8. 
+The correct answer is option 4 i.e A  
+ 
+B > E > D > C > A  
+ 
+So, A is the youngest among all.  
+ 
+9. 
+The correct answer is option 1 i.e 1  
+ 
+G2 > G5 > G3 > G1 > G4 > G7 > G6  
+ 
+So, the age of only one girl is greater than G5.  
+ 
+10. The correct answer is option 1 i.e. 2  
+ 
+The final sequence will be: P > O > S > Q > M > 
+N > R  
+ 
+So, 2 fruits have more weight than S. 
+ 
+11. The correct answer is option 4 i.e. One. 
+ 
+Manisha > Rekha > Kiran > --- > ---  
+ 
+Only one girl i.e. Manisha is taller than Rekha.  
+ 
+12. The correct answer is option 2 i.e. Q. 
+ 
+ 
+1 
+(2) 
+2 
+(1) 
+3 
+(1) 
+4 
+(1) 
+5 
+(2) 
+6 
+(2) 
+7 
+(4) 
+8 
+(4) 
+9 
+(1) 
+10 
+(1) 
+11. 
+(4) 
+12. 
+(2) 
+13 
+(4) 
+14 
+(3) 
+15 
+(3) 
+16 
+(3) 
+17 
+(3) 
+18 
+(1) 
+19 
+(3) 
+20 
+(2) 
+21. 
+(3) 
+22 
+(2) 
+23 
+(2) 
+24 
+(1) 
+25 
+(1) 
+26 
+(4) 
+27 
+(4) 
+28 
+(4) 
+29 
+(4) 
+30 
+(1) 
+31 
+(2) 
+32 
+(1) 
+33 
+(1) 
+34 
+(2) 
+35 
+(2) 
+36 
+(4) 
+37 
+(*) 
+38 
+(1) 
+39 
+(3) 
+40 
+(1) 
+ 
+Answer Key 
+ 
+ 
+From the above arrangement, Q scored the 
+fourth highest marks.  
+ 
+13. The correct answer is option 4 i.e. S. 
+ 
+ 
+ 
+ 
+From the above arrangement, S is the shortest 
+among all the friends.  
+14. The correct answer is option 3 i.e. Tariq.  
+ 
+1. Tariq,  
+2. Saurabh,  
+ 
+3. Ramesh,  
+4. Qadir,  
+ 
+5. Prakash  
+ 
+From the above arrangement, Tariq is the tallest 
+among them.  
+ 
+15. The correct answer is option 3 i.e. K.  
+ 
+I > J > L > H > K  
+ 
+From the above arrangement, K is at the lowest 
+rank.  
+ 
+16. The correct answer is option 3 i.e. 3.  
+ 
+Y < X < W < V < U < T < S  
+ 
+From the above arrangement, three persons 
+scored between T and X. 
+ 
+17. The correct answer is option 3 i.e. F  
+ 
+The height sequence will be: F > D > B > A > C 
+> E > G F is the tallest among all.  
+ 
+18. The correct answer is option 1 i.e. 39.  
+ 
+ 
+ 
+From the above arrangement, there are 45 
+persons before A, and between A and B there 
+are 3 persons. So, the total number of persons 
+in the queue = 49 = Position of B in the queue 
+from the front  
+ 
+According to the question, the first 10 persons 
+are removed queue; 
+ 
+So, the position of B from the front of the 
+queue = 49 - 10 = 39th 
+ 
+19. The correct answer is option 3 i.e. 8. 
+ 
+ 
+ 
+From the above arrangement, there are 13 
+persons before A, and between A and B there 
+are 2 persons. So, the total number of persons 
+in the queue = 16 = Position of B in the queue 
+from the front  
+ 
+According to the question, the first 8 persons 
+are removed queue;  
+ 
+So, the position of B from the front of the 
+queue = 16 - 8 = 8th  
+ 
+20. The correct answer is option 2 i.e. 28. 
+ 
+ 
+ 
+ 
+Total number = Position of P from the front + 
+Position of Q from the end + Number of 
+persons between P and Q = 11 + 12 + 5 = 28  
+ 
+From the above arrangement, the total number 
+of people row is 28. 
+  
+21. The correct answer is option 3 i.e. B.  
+ 
+Conclusions:  
+ 
+i)  
+H > O ﬁ False ( H ≥ 1 = P < O so, two 
+opposite signs are present, so, there is no 
+relation between H and O) 
+ 
+ii)  O < L ﬁ True (O ≤ T < L so, O < L)  
+ 
+22. The correct answer is option 2 i.e. 38.  
+ 
+Initially, the boy's rank was 12th from the top 
+out of 40 students.  
+ 
+When 10 boys join, the total number of 
+students = 40 + 10 = 50.  
+ 
+After the new boys join, the boy's rank drops by 
+one, meaning he is now ranked 13th from the 
+top out of 50 students.  
+ 
+To find his new rank from the last, we subtract 
+his rank from the total number of students and 
+add 1, since his new rank is counted from the 
+last.  
+ 
+New rank from the last = Total students - Boy's 
+rank + 1 New rank from the last = 50 – 13 + 1 
+New rank from the last = 38 Therefore, his new 
+rank from the last is 38. 
+ 
+23. The correct answer is Option 2 i.e. 31  
+ 
+ 
+ 
+Here, the position of A from the left is 17 while 
+the position from the right is 15.  
+ 
+Now, the total number of persons in the queue 
+= Position of A from left + Position of A from 
+right - 1 = 17+15-1  
+ 
+= 31  
+ 
+Thus, there are a total of 31 persons in the 
+queue.  
+ 
+24. The correct answer is Option 1 i.e. 17. 
+ 
+If we consider the right side as the left side and 
+the left side as the right side, it means we are 
+reversing the direction of the queue.  
+ 
+So, if A's position is 18th from the left end 
+(which is now the right end), it means A is 
+sitting 18th from the right end.  
+ 
+Now, A is sitting to the immediate right of B. 
+Therefore, if A is 18th from the right end, B 
+must be sitting one position to the left of A, 
+which means B's position would be 18th - 1 = 
+17th from the right end.  
+ 
+So, the position of B from the left end 
+(considering the reversed direction) would be 
+the same as the position from the right end, 
+which is 17th.  
+ 
+Thus, the position of B from the left end is 17th. 
+ 
+25. The correct answer is Option 1 i.e. 6.  
+ 
+ 
+ 
+From the above arrangement, Rakesh is in the 
+6th position at the front of the queue. 
+ 
+26. The correct answer is option 4 i.e. 5.  
+ 
+ 
+According to the question, the first 2 persons 
+are removed from the queue;  
+So, the position of B from the front of the 
+queue = 7 - 2 = 5th 
+27. The correct answer is option 4 i.e. 16.
+Position of A from left = Total number of
+persons -Position of A from right + 1 = 40 - 25
++ 1 = 16
+28. The correct answer is option 4 i.e. Gayathri.
+Sumitha>Rekha>Sharmila>Reena>Gayathri
+Gayathri is the youngest.
+29. The correct answer is option 4 i.e. Geetha.
+Meenu > Vimala > Rama > Bindu > Geetha
+From the above arrangement, Geetha is the
+shortest.
+30. The correct answer is option 1 i.e. Harish.
+Rajesh>Suresh>Ramesh>Dharmesh>Yogesh>
+Alpesh > Harish
+From the above arrangement, Harish is the
+shortest among all.
+31. The correct answer is option 2 i.e. A is shorter
+than V and D.
+V > D > A
+From the above arrangement, A is shorter than
+V and D.
+32. The correct answer is option 1 i.e. 12.
+The position of A from the left after the
+exchange as 'x'. So, A is (30 – x + 1)th from the
+left, because there are 30 persons in total and
+A's position from the left is calculated by
+subtracting his position from the total number
+of persons and adding 1.
+Given that A is 19th from the right after the
+exchange, we can equate the positions:
+30 - x + 1 = 19
+Solving this equation for 'x':
+
+30 - x + 1 = 19
+
+30 - 19 = x - 1
+
+11 = x - 1
+
+x = 11 + 1
+
+x = 12
+So, after the exchange, A is 12th from the left. 
+Therefore, the position of A from the left after 
+the exchange is 12th.  
+33. The correct answer is Option 1 i.e. 17.
+From the above arrangement, the total number 
+of people row is 17.  
+34. The correct answer is Option 2 i.e. 7.
+Let's say the number of boys is B.
+Then the number of girls will be 2B.
+Total number of students = Number of boys +
+Number of girls
+60 = B + 2B
+60 = 3B
+B = 20
+So, there are 20 boys and 40 girls in the class.
+Now, the boy is ranked 20th from the top, and
+there are 7 girls ahead of him. This means there
+are 20 - 7 = 13 boys ahead of him in the rank.
+The number of boys after him in the rank would
+be the remaining boys after him, which is 20
+(total boys) - 13 (boys ahead of him) = 7 boys.
+So, there are 7 boys after him in the rank.
+35. The correct answer is option 2 i.e. 2.
+Akshat from the right end = 10th
+Neha from the left end = 16th Total students =
+28 So, students are standing between Akshat
+and Neha = 28 - (10 + 16) = 2
+Hence, the correct answer is 2.

@@ -1,0 +1,47 @@
+[
+  {
+    "question_number": 16,
+    "question_en": "A 15 cm. colored cube is cut into 125 smaller cubes, then what is the length of the smaller cube?",
+    "question_hi": null,
+    "option_a": "5cm",
+    "option_b": "3cm",
+    "option_c": "6cm",
+    "option_d": "8cm",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Cube & Cuboid",
+    "source_pdf": "Cube and Cuboid Class Question.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 17,
+    "question_en": "A bigger colored cube is cut into 125 smaller cubes of 8 cm³, then what is the length of the bigger cube?",
+    "question_hi": null,
+    "option_a": "40cm",
+    "option_b": "20cm",
+    "option_c": "5cm",
+    "option_d": "10 cm",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Cube & Cuboid",
+    "source_pdf": "Cube and Cuboid Class Question.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 2,
+    "question_en": "There are exactly 6 such small cubes with exactly two faces, one painted blue and the other green. Select the correct answer using the code given below:",
+    "question_hi": null,
+    "option_a": "Only 1/",
+    "option_b": "Only 2/",
+    "option_c": "Both 1 and 2/",
+    "option_d": "Neither 1, nor 2/",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Cube & Cuboid",
+    "source_pdf": "Cube and Cuboid Class Question.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

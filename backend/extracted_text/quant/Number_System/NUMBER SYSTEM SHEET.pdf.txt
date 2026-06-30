@@ -1,0 +1,367 @@
+ 
+ 
+ 
+                     
+                 BY:-GAGAN PRATAP  
+1. 
+Find the total no. of factors of 10500 
+ 
+10500 के कुर ककतने गुणनखंड वै?  
+     
+[A] 46 
+[B] 48       
+ 
+[C] 50 
+[D] 44 
+2. 
+x3 + x2 + 768 is exactly divisible by x, where x is a positive integer. The number of 
+all such possible values of x is: 
+ 
+x3 + x2 + 768 जव ं x एक धन त्मक ऩूण ांक वै, x ऴे ऩूणणतः कऱब ज्य वै। x के ऐऴे ऴबी ऴंबऱ भ नों की 
+ऴंख्य  वै। 
+ 
+ 
+[A] 20 
+[B] 16  
+ 
+ 
+ 
+[C] 18 
+[D] 15 
+3. 
+If                    then how many positive factors of N are there? 
+ 
+मदद                  , तॉ N के ककतने धन त्मक गुणनखंड वैं? 
+ 
+[A] 132 
+[B] 143 
+ 
+[C] 92 
+[D] 140 
+4. 
+Total number of factors of             is; 
+                      के  गुणनखंडो  की कुल संख्या  है; 
+[A] 144 
+[B] 96                 
+[C] 120 
+[D] 64 
+5. 
+Sum of all factors of 19600 is : 
+ 
+ऴंख्य  19600 के ऴबी गुणनखंड क  मॉग क्य  वै ? 
+            [A] 54776 
+[B] 77454       
+ 
+[C] 45770 
+[D] 54777 
+6. 
+Find the total no. of odd factors of 2520 is: 
+ 
+2520 के कुर ककतने कऱळभ गुणनखंड वै? 
+ 
+[A] 12 
+[B] 10 
+ 
+[C] 8 
+[D] 16 
+7. 
+Sum of all the odd  factors of 64800 is : 
+ 
+ऴंख्य  64800 के ऴबी कऱळभ गुणनखंड क  मॉग क्य  वै ? 
+           [A] 3750 
+[B] 3751         
+ 
+[C] 7502 
+[D] 7503 
+8. 
+Find the total no. of even factors of 4200 is : 
+ 
+4200 के कुर ककतने ऴभ गुणनखंड वै ? 
+           [A] 48 
+[B] 42      
+ 
+[C] 36 
+[D] 12  
+9. 
+How many factors of            are even? 
+ 
+           के ककतने गुणनखंड ऴभ वै?  
+ 
+RRB NTPC 2021  
+ 
+ 
+ 
+                     
+                 BY:-GAGAN PRATAP  
+ 
+[A] 40 
+[B] 280 
+ 
+[C] 320 
+[D] 84 
+10. 
+Consider the number            . Which of the following statements is/are 
+correct? 
+ 
+ऴंख्य              ऩय कऱच य कयें। ननम्ननरखखत भें ऴे कॊन ऴ /ऴे कथन ऴवी वै/वैं? 
+I. 
+The number of odd factors of N is 60./N के कऱळभ गुणनखंडों की ऴंख्य  60 वै। 
+II. 
+The number of even factors of N is 720./N के ऴभ गुणनखंडों की ऴंख्य  720 वै। 
+ 
+Select the correct answer using the code given below: 
+ 
+नीचे ददए गए कूट क  प्रमॉग कय ऴवी उत्तय चुननए: 
+ 
+[A] Only (i) 
+[B] Only (ii) 
+ 
+[C] Both (i) and (ii) 
+[D] Neither (i) nor (ii) 
+11. 
+What is the sum of reciprocal of all factors of number 360? 
+ 
+ऴंख्य  360 के ऴबी गुणनखंड के व्युत्क्रभॉ क  मॉग क्य  वै ? 
+           [A] 2.65 
+[B] 3.25 
+ 
+[C] 3.48 
+[D] 4.20 
+12. 
+How many factors of the number 21600 are perfect squares? 
+ 
+21600 की ऴंख्य  के ककतने गुणनखंड ऩूणण ऱगण वैं? 
+ 
+RRB NTPC 05/01/2021 (Morning) 
+ 
+[A] 12 
+[B] 6  
+ 
+[C] 15 
+[D] 10 
+13. 
+How many factors of 24 × 35 × 104 are perfect squares which are greater than 1? 
+           24 × 35 × 104 के ककतने गुडनखंड ऩूणण ऱगण वैं जॉ 1 ऴे अधधक वैं? 
+ 
+[A] 42 
+[B] 44                  
+ 
+[C] 45 
+[D] 43 
+14. 
+How many factors of 23 × 33 × 54 × 72 are divisible by 50 but not by 100? 
+ 
+23 × 33 × 54 × 72 के ककतने गुणनखंड 50 ऴे कऱब ज्य वैं रेककन 100 ऴे नवीं? 
+ 
+RRB NTPC 02/02/2021 (Evening) 
+ 
+[A] 42 
+[B] 40 
+ 
+[C] 36 
+[D] 38 
+15. 
+How many factors of 14,400 are divisible by 18 but not by 36? 
+ 
+14,400 के ककतने गुणनखंड 18 ऴे कऱब ज्य वैं रेककन 36 ऴे नवीं? 
+ 
+SSC CHSL PRE 2024 
+ 
+[A] 5 
+[B] 2 
+ 
+[C] 4 
+[D] 3 
+16. 
+A natural number n divides 732 and leaves 12 as a remainder. How many values 
+of n are possible? 
+ 
+एक प्र कृत ऴंख्य  n, 732 कॉ कऱब नजत कयती वै ऒय 12 लेळपर  देती वै। n के ककतने भ न ऴंबऱ वैं? 
+ 
+ 
+ 
+                     
+                 BY:-GAGAN PRATAP  
+ 
+SSC CHSL Pre 2024 
+ 
+[A] 18 
+[B] 20 
+ 
+[C] 16 
+[D] 22 
+17. 
+Which one of the following is correct in respect of the statements given below? 
+ 
+नीचे ददए गए कथनों के ऴंफंध भें ननम्ननरखखत भें ऴे कॊन ऴ  ऴवी वै? 
+ 
+Statement 1:     is the smallest natural number having exactly 11 factors. 
+ 
+कथन 1 :     ऴफऴे छॉटी प्र कृधतक ऴंख्य  वै नजऴभें ठीक 11 गुणनखंड वैं। 
+ 
+Statement 2:     is the smallest natural number having exactly 12 factors. 
+ 
+कथन 2 :    कफल्कुर 12 गुणनखंड ऱ री ऴफऴे छॉटी प्र कृधतक ऴंख्य  वै। 
+ 
+Statement 1 :     is the smallest natural number having exactly 13 factors. 
+ 
+कथन 1 :     कफल्कुर 13 गुणनखंड ऱ री ऴफऴे छॉटी प्र कृधतक ऴंख्य  वै। 
+ 
+(IB ACIO 2023) 
+ 
+[A] None of the three statement (1, 2, 3) given is true. 
+ 
+[B] Statements 1 and 2 are true, but statement 3 is false. 
+ 
+[C] Statements 1 and 3 are true, but statement 2 is false. 
+ 
+[D] All the three statements given above are true. 
+18. 
+'n' is a number, such that 2n has 28 factors and 3n has 30 factors. Then 6n has 
+how many factors? 
+ 
+'n' एक ऴंख्य  वै, जैऴे कक 2n भें 28 गुणनखंड वैं ऒय 3n भें 30 गुणनखंड वैं। तॉ कपय 6n भें ककतने 
+गुणनखंड वैं? 
+ 
+(UP POLICE HEAD OPERATOR 2024) 
+         [A] 28 
+[B] 35 
+          [C] 25 
+[D] 32 
+19. 
+What is the product of all the factors of 576? 
+ 
+576 के ऴबी गुणनखंडॉ क  गुणनपर ज्ञ त कये?  
+ 
+[A] 2421 
+[B] 2419 
+ 
+ 
+ 
+[C] 2417 
+[D] 2420  
+20. How many natural numbers less than 225 has odd number of factors? 
+ 
+225 से कम प्राकृतिक संख्याओं में ककिनी संख्याओं के विषम गुणनखंड हैं? 
+     
+[A] 12 
+[B] 11                    
+ 
+[C] 15 
+[D] 14 
+21. 
+If there are 14 factors of N between 1 and√  , then find total numbers of factors 
+of N? 
+ 
+मदद 1 ऒय √   के फीच N के 14 गुणनखंड वैं, तॉ N के गुणनखंडॉ की कुर ऴंख्य  ज्ञ त कीनजए? 
+ 
+[A] 28 
+[B] 30                   
+ 
+[C] 31 
+[D] 33 
+22. If N = 314 + 313 - 12, then what is the largest prime factor of N? 
+ 
+ 
+ 
+                     
+                 BY:-GAGAN PRATAP  
+ 
+मदद N = 314 + 313 - 12, तॉ N क  अधधकतभ अकऱब ज्य गुणनखण्ड ज्ञ त कयें? 
+            [A] 11 
+[B] 79  
+ 
+ 
+[C] 13 
+[D] 73 
+23. How many prime numbers are included in the factorization of            ? 
+ 
+            के गुणनखंड भें ककतनी अब ज्य ऴंख्य मे ल नभर वै?  
+ 
+RRB NTPC 2021  
+ 
+[A] 25 
+[B] 20 
+ 
+[C] 30 
+[D] 15 
+24. The total number of 3 digit numbers which have only 3 factors will be? 
+ 
+3 अंकीम ऴंख्य ऑं की कुर ऴंख्य  क्य  वॉगी, नजनके केऱर 3 गुणनखंड वोंगे?   
+            [A] 6 
+[B] 9            
+ 
+[C] 45 
+[D] 7  
+25. Let p, q, r and s be positive natural numbers having three exact factors 
+including 1 and the number itself If q> p and both are two-digit numbers, and r > 
+s and both are one-digit numbers, then the value of the expression 
+     
+    is 
+ 
+भ न  कक p, q, r ऒय धन त्मक प्र कृधतक ऴंख्य एँ वैं, नजनके तीन मथ तथ्य गुणनखंडों (exact 
+factors) भें 1 ऒय स्वमं ऴंख्य  बी वै मदद q> p वै ऒय दॉनों दॉ-अंकीम ऴंख्य एँ वैं, तथ  r > s वै, ऒय 
+दॉनों एक-अंकीम ऴंख्य एँ वैं, तॉ व्यंजक 
+     
+    क  भ न ककतन  वॉग ? 
+ 
+[A] –S – 1 
+[B] S – 1 
+ 
+ 
+[C] 1 – S 
+[D] S + 1 
+ 
+ 
+ 
+ 
+ 
+1. 
+(b) 
+2. 
+(c) 
+3. 
+(a) 
+4. 
+(b) 
+5. 
+(d) 
+6. 
+(a) 
+7. 
+(b) 
+8. 
+(c) 
+9. 
+(b) 
+10. 
+(c) 
+11. 
+(b) 
+12. 
+(a) 
+13. (b) 
+14. 
+(c) 
+15. 
+(d) 
+16. 
+(b) 
+17. 
+(c) 
+18. 
+(b) 
+19. (a) 
+20. 
+(d) 
+21. 
+(c) 
+22. 
+(d) 
+23. 
+(c) 
+24. 
+(d) 
+25. (a) 
+ 
+ 

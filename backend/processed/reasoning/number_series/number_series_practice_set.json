@@ -1,0 +1,32 @@
+[
+  {
+    "question_number": 65,
+    "question_en": "20,20,19,16,17,13,14,11,?,?",
+    "question_hi": null,
+    "option_a": "10,10",
+    "option_b": "10,11",
+    "option_c": "13,14",
+    "option_d": "13,16",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "source_pdf": "Number Series Practice Set.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  },
+  {
+    "question_number": 83,
+    "question_en": "(b) 10,  17,  24,  31,  38 +7 +7 +7 +7",
+    "question_hi": null,
+    "option_a": ": 48 = 10+(n-1)7 45 = 7n (n )",
+    "option_b": ":-",
+    "option_c": "(",
+    "option_d": "n",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "source_pdf": "Number Series Practice Set.pdf",
+    "correct_answer": null,
+    "difficulty": null
+  }
+]

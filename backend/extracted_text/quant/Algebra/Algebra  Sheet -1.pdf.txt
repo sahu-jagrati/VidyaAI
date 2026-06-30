@@ -1,0 +1,2408 @@
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+1. What is the expansion of (x+11) (x–11)? 
+(x+11) (x–11) dk çlkj D;k gS\ 
+(a) 
+x² + 11 
+(b) 
+x² – 121 
+(c) 
+x² + 121 
+(d) 
+x² – 11 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+2. The value of (x - y)(x + y) +( y - z)(y + z)+(z - x)(z + x) is? 
+(x - y)(x + y) + (y - z)(y + z) + (z - x)(z + x) का मान क्या है? 
+(RRB ALP 2024) 
+A) 𝒙𝟐+ 𝒚𝟐+ 𝒛𝟐 
+B) 𝒙+ 𝒚+ 𝒛 
+C) 0 
+D) xy+yz+zx 
+3. If 16y² – k = (𝟒𝒚+
+𝟑
+𝟐) (𝟒𝒚−
+𝟑
+𝟐), then the value of k is: (CPO 2022) 
+;fn 16y² – k = (𝟒𝒚+
+𝟑
+𝟐) (𝟒𝒚−
+𝟑
+𝟐) gS] rks k dk eku D;k gS\ 
+(a) 9/4 
+ (b)11/4 
+(c) 6/4 
+ (d) 7/4 
+4. If m² – n² = 21 and m – n = 3, find the value of m + n. 
+;fn m² – n² = 21 and m – n = 3, gS] rks m + n dk eku Kkr dhft,A 
+(a) 
+7 
+(b) 
+4 
+(c) 
+24 
+(d) 
+18 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+5. Simiplify 
+2
+2
+36a
+49b
+6a
+7b
+-
++
+. 
+𝟑𝟔𝒂𝟐−𝟒𝟗𝒃𝟐
+𝟔𝒂+𝟕𝒃
+ dks ljy dhft,A 
+(a) 6a – 7b 
+(b)
+1
+6a
+7b
+-
+ 
+(c) 6a + 7b 
+(d) 7b – 6a 
+6. If 
+𝟏
+𝒙𝟐+𝒂𝟐= 𝒙𝟐−𝒂𝟐, then the value of x is? 
+यदि 
+𝟏
+𝒙𝟐+𝒂𝟐= 𝒙𝟐−𝒂𝟐 है, तो x का मान क्या होगा? 
+A) (𝟏−𝒂𝟒)
+𝟏
+𝟒 
+B) 𝒂 
+C) (𝒂𝟒−𝟏)
+𝟏
+𝟒 
+D) (𝒂𝟒+ 𝟏)
+𝟏
+𝟒 
+7. Simplify the expression (CHSL 2021) 
+(36p² + 49q²) (6p + 7q) (6p – 7q) 
+Oa;td (36p² + 49q²) (6p + 7q) (6p – 7q) dk eku Kkr dhft,A 
+(a) 
+1296 p4 + 2401 q4 
+(b) 
+36p4 – 49 q4 
+(c) 
+1296p4 – 2401 q4 
+(d) 
+36p4 + 49q4 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+8. 
+Simplify : 
+𝟐𝟓𝟔𝒙𝟒−𝟏𝟔𝒚𝟒
+(𝟖𝟎𝒙𝟐−𝟐𝟎𝒚𝟐)(𝟏𝟔𝒙𝟐+𝟒𝒚𝟐)
+ 
+ 
+𝟐𝟓𝟔𝒙𝟒−𝟏𝟔𝒚𝟒
+(𝟖𝟎𝒙𝟐−𝟐𝟎𝒚𝟐)(𝟏𝟔𝒙𝟐+𝟒𝒚𝟐) को सरलीकृत कीजिए । 
+1. 5 
+2. 1/20 
+3. 1/5 
+4. 2/5 
+ 
+ 
+SSC CGL 2023 PRE 
+9. (𝒂+ 𝒃−𝒄+ 𝒅)𝟐−(𝒂−𝒃+ 𝒄−𝒅)𝟐=? 
+A) 4a(b+d-c) 
+B) 2a(a+b-c) 
+C) 2a(b+c-d) 
+D) 4a(b-d+c) 
+10. Simplify the following expression: (𝒂+ 𝒃+ 𝒄)𝟐−(𝒂−𝒃+ 𝒄)𝟐+ 𝟒𝒂𝒄? 
+ननम्नलिखित ब्यंजक  को सरि बनाएं: (𝒂+ 𝒃+ 𝒄)𝟐−(𝒂−𝒃+ 𝒄)𝟐+ 𝟒𝒂𝒄 
+A) 4(bc+ac) 
+B) 2(ab+bc+ca) 
+C) 4(ab+bc+ca) 
+D) 4(bc+ab) 
+11. Simplify the following expression. 
+2
+2
+2
+2
+2
+2 2
+2
+2
+(a
+b
+c )
+(a
+b
+c )
+b
+c
++
+−
+−
+−
++
+−
+? 
+fuEufyf[kr O;atd dks ljy dhft,A 
+(𝒂𝟐+𝒃𝟐−𝒄𝟐)
+𝟐−(𝒂𝟐−𝒃𝟐+𝒄𝟐)
+𝟐
+𝒃𝟐−𝒄𝟐
+  
+(a) 5a2  
+(b) 2a2  
+(c) 3a2 
+(d) 4a2 
+12. Simplify the following expression:  
+(𝒙+ 𝒚)(𝒙−𝒚)(𝒙𝟐+ 𝒚𝟐)(𝒙𝟒+ 𝒚𝟒)(𝒙𝟖+ 𝒚𝟖)(𝒙𝟏𝟔+ 𝒚𝟏𝟔)? 
+ननम्नलिखित अलिव्यक्क्त (𝒙+ 𝒚)(𝒙−𝒚)(𝒙𝟐+ 𝒚𝟐)(𝒙𝟒+ 𝒚𝟒)(𝒙𝟖+ 𝒚𝟖)(𝒙𝟏𝟔+ 𝒚𝟏𝟔) को सरि बनाएं: (SSC SELECTION 
+POST XII GRADUATE LEVEL) 
+A) 𝒙𝟏𝟐𝟖−𝒚𝟏𝟐𝟖 
+B) 𝒙𝟔𝟒−𝒚𝟔𝟒 
+C) 𝒙𝟐𝟓𝟔−𝒚𝟐𝟖 
+D) 𝒙𝟑𝟐−𝒚𝟑𝟐 
+13. Simplify the following expression. 
+जिम्नजलखित व्यंिक को सरल कीजिए।  
+[ (1+p)(1+p2)(1+p4)(1+p8)(1+p16)(1 − p) − 1] 
+(a)  −p32 
+ 
+       (b)  p32 
+ 
+(c)  (1 + p32) 
+                  
+       (d)  (1 − p32) 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+14. What is the value of 
+(𝒌−
+𝟏
+𝒌) (𝒌𝟐+
+𝟏
+𝒌²) (𝒌𝟒+
+𝟏
+𝒌𝟒) (𝒌𝟖+
+𝟏
+𝒌𝟖) (𝒌𝟏𝟔+
+𝟏
+𝒌𝟏𝟔) (𝒌𝟑𝟐+
+𝟏
+𝒌𝟑𝟐) ? SSC CHSL TIER – I 2022 
+dk eku D;k gS\ 
+(a) 
+𝒌𝟔𝟒−𝟏
+𝒌𝟔𝟒
+𝒌+𝟏
+𝒌
+ 
+(b) 
+𝒌𝟑𝟐−𝟏
+𝒌𝟑𝟐
+𝒌−𝟏
+𝒌
+ 
+(c) 
+𝒌𝟑𝟐−𝟏
+𝒌𝟑𝟐
+𝒌+𝟏
+𝒌
+ 
+(d) 
+𝒌𝟑𝟏−𝟏
+𝒌𝟑𝟏
+𝒌+𝟏
+𝒌
+ 
+15. Simplify the following expression 𝟒𝟗𝒂𝟐+ 𝟕𝟎𝒂𝒃+ 𝟐𝟓𝒃𝟐? 
+ननम्नलिखित अलिव्यक्क्त को सरि बनाएं 𝟒𝟗𝒂𝟐+ 𝟕𝟎𝒂𝒃+ 𝟐𝟓𝒃𝟐? 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+(SSC SELECTION POST XII HIGHER SECONDARY LEVEL) 
+A) (𝟕𝒂−𝟓𝒃)𝟐 
+B) (𝟕𝒂+ 𝟓𝒃)𝟐 
+C) (𝟓𝒂+ 𝟕𝒃)𝟐 
+D) (𝟓𝒂−𝟕𝒃)𝟐 
+16. What is the value of  
+𝟗𝒙𝟐+𝟏𝟐𝒙𝒚+𝟒𝒚²
+𝟑𝟔
+ ? 
+𝟗𝒙𝟐+𝟏𝟐𝒙𝒚+𝟒𝒚²
+𝟑𝟔
+  dk eku D;k gS\ 
+(a) 
+(
+𝒙
+𝟑+
+𝒚
+𝟐)
+𝟐
+ 
+(b) 
+(
+𝒙
+𝟐−
+𝒚
+𝟑)
+𝟐
+ 
+(c) 
+(
+𝒙
+𝟐+
+𝒚
+𝟑)
+𝟐
+ 
+(d) 
+(
+𝒙
+𝟒+
+𝒚
+𝟑)
+𝟐
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+17. Simplify √𝟑𝟔𝒙𝟐−𝟏𝟎𝟖𝒙+ 𝟖𝟏  
+√𝟑𝟔𝒙𝟐−𝟏𝟎𝟖𝒙+ 𝟖𝟏 dks ljy dhft,A 
+(a) 
+2x – 9 
+(b) 
+6x – 9 
+(c) 
+5x – 9 
+(d) 
+3x – 3 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+18. What will be the value of (𝟐𝒛−𝟓𝒚)𝟐+ (𝟓𝒛+ 𝟐𝒚)𝟐−𝟐𝟓𝒛𝟐? 
+(𝟐𝒛−𝟓𝒚)𝟐+ (𝟓𝒛+ 𝟐𝒚)𝟐−𝟐𝟓𝒛𝟐 का मान क्या होगा? 
+(SSC CHSL MAINS 2024) 
+A) 𝟐𝟗𝒚𝟐−𝟒𝒛𝟐 
+B) 𝟏𝟗𝒚𝟐−𝟒𝒛𝟐 
+C) 𝟏𝟗𝒚𝟐+ 𝟒𝒛𝟐 
+D) 𝟐𝟗𝒚𝟐+ 𝟒𝒛𝟐 
+19. Simplify (𝟓𝒙+ 𝟒𝒚)𝟐+ (𝟓𝒙−𝟒𝒚)𝟐? 
+(𝟓𝒙+ 𝟒𝒚)𝟐+ (𝟓𝒙−𝟒𝒚)𝟐 सरल कीजिये 
+A) 𝟑𝟐𝒙𝟐+ 𝟓𝟎𝒚𝟐 
+B) 𝟓𝟎𝒙𝟐+ 𝟑𝟐𝒚𝟐 
+C) – 𝟖𝟎𝒙𝒚 
+D) 𝟖𝟎𝒙𝒚 
+20. 
+ 
+यदि 
+ और 
+ है, तो 
+ का मान क्या है? (SSC CGL MAINS 2024) 
+ 
+A) 138 
+B) 143 
+C) 140 
+D) 124 
+21. If x = √𝟏𝟎+ √𝟏𝟏 , y = √𝟏𝟎−√𝟏𝟏, then value of 7x² – 50xy + 7y² = _______. 
+;fn x = √𝟏𝟎+ √𝟏𝟏 , y = √𝟏𝟎−√𝟏𝟏, rks 7x² – 50xy + 7y² dk eku Kkr dhft,A 
+(a)386 
+  
+ 
+(b)344 
+(c)704 
+  
+ 
+(d)1360 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+ 
+22. Find the value of (𝟐𝒂+ 𝟑𝒃)𝟐−(𝟐𝒂−𝟑𝒃)𝟐 ? 
+(𝟐𝒂+ 𝟑𝒃)𝟐−(𝟐𝒂−𝟑𝒃)𝟐 का मान ज्ञात कीजिए ? 
+a)12ab                 b)16ab             c)24ab            d)18ab 
+ 
+23. What is the simplied value of: 
+𝟏
+𝟖{(𝒙+
+𝟏
+𝒚)
+𝟐
+−(𝒙−
+𝟏
+𝒚)
+𝟐
+}? 
+𝟏
+𝟖{(𝒙+
+𝟏
+𝒚)
+𝟐
+−(𝒙−
+𝟏
+𝒚)
+𝟐
+} dks ljy dhft,A    (CPO 2019) 
+(a) 
+𝒙
+𝒚  
+ 
+(b) 
+𝟐𝒙
+𝒚          (c) 
+𝒙
+𝟐𝒚          (d) 
+𝟒𝒙
+𝒚 
+24. Simplify the expression 
+𝒔𝟐+𝒕𝟐+𝟐𝒔𝒕−𝒖𝟐
+𝒔𝟐−𝒕𝟐−𝟐𝒕𝒖−𝒖𝟐, 𝒑𝒓𝒐𝒗𝒊𝒅𝒆𝒅 (𝒔+ 𝒕+ 𝒖) ≠𝟎? 
+ब्यंजक 
+𝒔𝟐+𝒕𝟐+𝟐𝒔𝒕−𝒖𝟐
+𝒔𝟐−𝒕𝟐−𝟐𝒕𝒖−𝒖𝟐 को सरि बनाएं, यदि (𝒔+ 𝒕+ 𝒖) ≠𝟎? 
+A) 
+𝒔+𝒕−𝒖
+𝒔−𝒕−𝒖 
+B) 
+𝒔+𝒕+𝒖
+𝒔−𝒕+𝒖 
+C) 
+𝒔−𝒕−𝒖
+𝒔+𝒕−𝒖 
+D) 
+𝒔−𝒕+𝒖
+𝒔+𝒕+𝒖 
+25. If 𝒙𝟐+ 𝒚𝟐= 𝟒𝟐𝟕 & 𝒙𝒚= 𝟐𝟎𝟐, then find 
+𝒙+𝒚
+𝒙−𝒚? 
+यदि 𝒙𝟐+ 𝒚𝟐= 𝟒𝟐𝟕 & 𝒙𝒚= 𝟐𝟎𝟐, तो 
+𝒙+𝒚
+𝒙−𝒚 िोजें? SSC CGL Pre 2023 
+ 
+A) √
+𝟖𝟑𝟓
+𝟐𝟑 
+B) √
+𝟖𝟑𝟎
+𝟐𝟗 
+C) √
+𝟖𝟑𝟏
+𝟐𝟑 
+D) √
+𝟖𝟑𝟎
+𝟐𝟑 
+26. 
+ 
+यदि 
+ और 
+ है, तो 
+ जहां 
+ है, का मान ज्ञात कीक्जए।(RRB NTPC GRADUATION LEVEL 
+2025) 
+ 
+1. 
+ 
+            
+2. 
+ 
+            
+3. 
+ 
+             
+4. 
+ 
+           
+27. If (x + 1)² + (x + 2)² = 16, then what is the value of 4x² + 12x + 40? 
+;fn (x + 1)² + (x + 2)² = 16, rks 4x² + 12x + 40 dk eku D;k gS\ 
+(a) 
+52 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+(b) 
+62 
+(c) 
+56 
+(d) 
+74 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+28. If 𝒂+ 𝒃= 𝟏𝟏 and 𝒂𝒃= 𝟏𝟓, then 𝒂𝟐+ 𝒃𝟐 is equal to:  
+यदि 𝒂+ 𝒃= 𝟏𝟏 और 𝒂𝒃= 𝟏𝟓 है, तो 𝒂𝟐+ 𝒃𝟐 का मान बताइए।  
+(a) 90 
+ 
+ 
+(b) 91 
+ 
+ 
+(c) 93 
+ 
+ 
+(d) 92 
+29. If a + b = 24 and 8ab = 256, then what is the value of 3a² + 3b²? 
+;fn a + b = 24 and 8ab = 256, rks 3a² + 3b² gS\ 
+(a) 
+1536 
+(b) 
+1024 
+(c) 
+512 
+(d) 
+1636 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+30. If x–y = 25 and xy = 78, then what is the value of x² + y²?  
+;fn x–y = 25 vkSj xy = 78 gS] rks x² + y² dk eku D;k gksxk\ 
+(a) 
+625 
+(b) 
+781 
+(c) 
+103 
+(d) 
+756 
+31. The difference between two numbers is 43 and their product is 50. Find the sum of their squares. 
+िो संख्याओं के बीच का अंतर 43 और उनका गुणिफि 50 है। उनके वगों का योग ज्ञात कीक्जए। 
+(a) 1947  
+(b) 1946  
+(c) 1948  
+(d) 1949 
+32. If x+y = 18 and xy = 9, then find (
+𝒙
+𝒚+
+𝒚
+𝒙)? 
+यदि x+y = 18 और xy = 9 है, तो (
+𝒙
+𝒚+
+𝒚
+𝒙)ज्ञात कीक्जए? 
+(SSC SELECTION POST XII GRADUATE LEVEL 2024) 
+A) 38 
+B) 32 
+C) 36 
+D) 34 
+33. If 𝟑𝒙+ 𝟑𝒚= 𝟏𝟎 & 𝟑𝒙+𝒚= 𝟓, then find 𝟑𝒙−𝒚+ 𝟑𝒚−𝒙? 
+यदि 𝟑𝒙+ 𝟑𝒚= 𝟏𝟎 & 𝟑𝒙+𝒚= 𝟓 है, तो 𝟑𝒙−𝒚+ 𝟑𝒚−𝒙 ज्ञात कीक्जये? 
+A) 10 
+B) 18 
+C) 20 
+D) None 
+34. If p + q = 7 and p² + q² = 25, then find the value of pq. 
+;fn p + q = 7 and p² + q² = 25, rks pq dk eku Kkr dhft,A 
+(a) 
+12 
+(b) 
+24 
+(c) 
+36 
+(d) 
+18 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+35. The sum of two numbers is 28 and the sum of their squares is 528. Find the square root of the 
+product of both the numbers? 
+िो संख्याओं का योग 28 है और उनके वगों का योग 528 है। िोनों संख्याओं के गुणनफि का वगगमूि ज्ञात कीक्जए? 
+SSC CPO 2024 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+A) 8√𝟐 
+B) 2√𝟐 
+C) 4√𝟐 
+D) 6√𝟐 
+36. If a – b = 5 and a2 + b2 = 45, then what is the value of ab? 
+;fn a – b = 5 vkSj a2 + b2 = 45 gS] rks ab dk eku D;k gksxk\ 
+(a) 20  
+(b) 10  
+(c) 25  
+(d) 15 
+37. If 3a+2b = 49 and ab = 8, then the value of 9𝒂𝟐 + 4𝒃𝟐 will be: 
+यजि 3a+2b = 49 और ab = 8 है, तो 9𝒂𝟐 + 4𝒃𝟐 का मान होगा: 
+a)2305              b)2301         c)2497              d)2137 
+38. If 2p + 5q = 12 and pq = 3, find the value of 4p² + 25q². 
+;fn 2p + 5q = 12 vkSj pq = 3, rks 4p² + 25q² dk eku Kkr dhft,A 
+(a) 
+64 
+(b) 
+24 
+(c) 
+84 
+(d) 
+44 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+39. If (7x – 10y) = 8 and xy = 5, then what is the value of 49x² + 100y² ? 
+;fn (7x – 10y) = 8 vkSj xy = 5 gS] rks 49x² + 100y²  dk eku D;k gksxk\ 
+(a) 
+764 
+(b) 
+632 
+(c) 
+623 
+(d) 
+746 
+40. If 49a² + 25b² = 30 and ab = 1, a, b > 0, then the value of (7a + 5b) is: 
+;fn 49a² + 25b² = 30 vkSj ab = 1tgk¡ a, b > 0 gS] rks (7a + 5b) dk eku D;k gksxk\ 
+(a) 
+14 
+(b) 
+8 
+(c) 
+12 
+(d) 
+10 
+41. If 9𝒂𝟐 + 𝒃𝟐 = 25 and ab = 4, then the value of 3a+b will be: 
+यजि 9𝒂𝟐 + 𝒃𝟐 = 25 और ab = 4 है, तो 3a + b का मान होगा: 
+          a)6          b)7            c)7
+𝟐
+𝟓            d)6
+𝟏
+𝟒 
+42. If 𝒂𝟐+ 𝒃𝟐 = 𝟐𝟖𝟗, ab=120, (a>b), then (𝒂𝟐−𝒃𝟐 ) is equal to: 
+यदि 𝒂𝟐+ 𝒃𝟐 = 𝟐𝟖𝟗, ab=120, (a>b), तो (𝒂𝟐−𝒃𝟐 ) ककसके बराबर होगा? 
+A) 171           B) 187 
+ 
+ 
+C) 191            
+D) 161 
+43. If x – y = 13 and xy = 19, then the value of 𝒙𝟐−𝒚𝟐 is:  
+यजि x – y = 13 और xy = 19 है, तो 𝒙𝟐−𝒚𝟐 का मान है:  
+a) 13√𝟐𝟔𝟗            b)91√𝟓           c)39√𝟑𝟏                 d)26√𝟗𝟕 
+44. If a + 4b = 19 and 2ab = 17, then the value of |𝒂−𝟒𝒃| is: 
+यजि a + 4b = 19 और 2ab = 17, तो |𝒂−𝟒𝒃| का मान है: 
+a)13            b)15             c)16       d)14 
+45. If a + b = 11 and a – b = 8, then find the value of  'ab'. 
+;fn a + b = 11 vkSj a – b = 8 gS] rks 'ab' dk eku Kkr djsaA 
+(a) 
+16.5 
+(b) 
+13.25 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+(c) 
+15.45 
+(d) 
+14.25  
+46. If (3p – 5m) = 5 and pm = 6, then what is the value of (9p² – 25m²)? 
+;fn (3p – 5m) = 5 vkSj pm = 6 gS] rks (9p² – 25m²) dk eku D;k gksxk\ 
+(a) 
+5 385   
+(b) 
+30 10  
+(c) 
+5 385  
+(d) 
+10  
+47. If x + y = √𝟏𝟑 and x - y = √𝟏𝟏, then the value of xy (x2 + y2) is: 
+यजि x + y = √13 और x - y = √11, तो xy (x2 + y2) का माि ज्ञात कीजिये: 
+1. 10 
+2. 6 
+3. √6 
+4. √10 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+48. If x + y = 10 and xy = 4, then what is the value of x4 + y4?   
+(Mains 2017) 
+;fn x + y = 10 vkSj xy = 4 gS] rks x4 + y4 dk eku D;k gS\   
+(a) 8464 
+ 
+(b) 8432 
+ (c) 7478 
+(d) 6218   
+49. If 𝒂+ 𝒃= √𝟏𝟐 & 𝒂−𝒃= √𝟖, then find 𝒂𝟒+ 𝒃𝟒? 
+यदि 𝒂+ 𝒃= √𝟏𝟐 & 𝒂−𝒃= √𝟖 है, तो 𝒂𝟒+ 𝒃𝟒 ज्ञात कीक्जये? 
+A) 94 
+B) 96 
+C) 95 
+D) 98 
+50. If 𝒙= 𝟏−𝒚 & 𝒙𝟐= 𝟐−𝒚𝟐 , 𝒕𝒉𝒆𝒏 𝒙𝟒+ 𝒚𝟒=? 
+(a) 𝟗𝟐
+⁄   
+(b) 𝟑𝟐
+⁄  
+(c) 𝟕𝟐
+⁄   
+(d) 𝟓𝟐
+⁄  
+51. If 𝒙+ 𝒚= 𝟏𝟗, 𝒙𝒚= 𝟗, then find 𝒙√𝒚+ 𝒚√𝒙? 
+यदि 𝒙+ 𝒚= 𝟏𝟗, 𝒙𝒚= 𝟗, तो 𝒙√𝒚+ 𝒚√𝒙 ज्ञात कीक्जए? 
+A) 10 
+B) 12 
+C) 15 
+D) 21 
+52. If 𝒙𝟐−𝒚𝟐= 𝟗, 𝒙𝒚= 𝟑, then find x+y? 
+A) ±√𝟔+ 𝟑√𝟏𝟑                          C) ±√𝟓+ 𝟏𝟑√𝟑 
+B) ±√𝟒+ 𝟑√𝟏𝟑                         D) ±𝟏𝟗 
+53. If a + b = 24 and a2 + b2 = 306, where a > b, then the value of 4a - 5b is: 
+;fn a + b = 24 vkSj a2 + b2 = 306 gS] tgka] a > b gS] rks  4a - 5b dk eku Kkr djsaA 
+(a)18 
+ (b)20 
+ 
+(c)12 
+ 
+(d)15 
+54. If x+y = 27 and x²+y² = 425, then the value of (x-y)² will be: 
+;fn x+y = 27 vkSj x²+y² = 425, gS] rks (x-y)² dk eku Kkr djsaA 
+(a) 
+225 
+(b) 
+169 
+(c) 
+121 
+(d) 
+144 
+55. If x–2y=3 and 2xy = 5, then find the value of (x+2y)². 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+;fn x–2y=3 vkSj 2xy = 5 gS] rks (x+2y)² dk eku Kkr djsaA 
+(a) 
+29 
+(b) 
+27 
+(c) 
+30 
+(d) 
+28 
+56. If a3+b3=5824 and a+b=28, then(a-b)2+ab is equal to:     
+(CPO 2019) 
+a) 208          b) 152            c) 180             d)236 
+57. If a3+b3=432 and a+b=12, then(a+b)2-3ab is equal to:      (2018 PRE) 
+a) 42        b) 52         c) 36            d) 38 
+     
+58. If a³ = b³ + 988 and a – b = 4, then what is the value of 2a² + 2ab + 2b²? 
+;fn a³ = b³ + 988 vkSj a – b = 4, rks 2a² + 2ab + 2b² dk eku D;k gS\ 
+(a)516 
+ (b)494  
+(c)500 
+ 
+(d)247  
+ 
+SSC CHSL TIER – I 2022 
+59. If 𝒂𝟑−𝒃𝟑= 𝟖𝟗𝟗 and 𝒂−𝒃= 𝟑𝟏, then (𝒂−𝒃)𝟐+ 𝟑𝒂𝒃 is equal to: 
+यदि 𝒂𝟑−𝒃𝟑= 𝟖𝟗𝟗 तथा 𝒂−𝒃= 𝟑𝟏, तो (𝒂−𝒃)𝟐+ 𝟑𝒂𝒃 का माना है: 
+A) 35  
+B) 31  
+C) 16  
+D) 29 
+60. 𝟎. 𝟎𝟎𝟖𝑿𝟑+ 𝟎. 𝟎𝟐𝟕𝒀𝟑= 𝟏𝟐𝟓 & 𝟎. 𝟐𝑿+ 𝟎. 𝟑𝒀= 𝟐𝟓, then  
+find (𝟎. 𝟐𝑿+ 𝟎. 𝟑𝒀)𝟐−𝟎. 𝟏𝟖𝑿𝒀? 
+यदि 𝟎. 𝟎𝟎𝟖𝑿𝟑+ 𝟎. 𝟎𝟐𝟕𝒀𝟑= 𝟏𝟐𝟓 & 𝟎. 𝟐𝑿+ 𝟎. 𝟑𝒀= 𝟐𝟓 है, तो (𝟎. 𝟐𝑿+ 𝟎. 𝟑𝒀)𝟐−𝟎. 𝟏𝟖𝑿𝒀 ज्ञात कीक्जये? 
+A) 5                           C) 125 
+B) 25                         D) 10 
+61. What is the value of (a–b)³ – a³ + b³? 
+(a–b)³ – a³ + b³ dk eku D;k gS\ 
+(a) 
+3ab(a–b) 
+(b) 
+–3ab(a+b) 
+(c) 
+–3ab(a–b) 
+(d) 
+3ab(a+b)  
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+62. (
+𝒙
+𝟑+
+𝒚
+𝟓)  𝟑    (2019 PRE) 
+a) 
+𝒙𝟑
+𝟐𝟕+
+𝒙𝟐𝒚
+𝟐𝟓+
+𝒙𝒚𝟐
+𝟐𝟓+
+𝒚𝟑
+𝟏𝟐𝟓   
+b) 
+𝒙𝟑
+𝟐𝟕+
+𝒙𝟐𝒚
+𝟏𝟓+
+𝒙𝒚𝟐
+𝟐𝟓+
+𝒚𝟑
+𝟏𝟐𝟓  
+c) 
+𝒙𝟑
+𝟐𝟓+
+𝒙𝟐𝒚
+𝟐𝟓+
+𝒙𝒚𝟐
+𝟐𝟓+
+𝒚𝟑
+𝟏𝟐𝟓   
+d) 
+𝒙𝟑
+𝟏𝟕+
+𝒙𝟐𝒚
+𝟏𝟓+
+𝒙𝒚𝟐
+𝟐𝟓+
+𝒚𝟑
+𝟏𝟐𝟓  
+ 
+63. (𝟑𝒂−𝟒𝒃)𝟑 is equal to? 
+(𝟑𝒂−𝟒𝒃)𝟑 ककसके बराबर है? 
+A) 𝟐𝟕𝒂𝟑−𝟔𝟒𝒃𝟑 
+B) 𝟐𝟕𝒂𝟑−𝟔𝟒𝒃𝟑−𝟏𝟎𝟖𝒂𝟐𝒃+ 𝟏𝟒𝟒𝒂𝒃𝟐 
+C) 𝟗𝒂𝟐−𝟏𝟔𝒃𝟐 
+D) 𝟗𝒂𝟐−𝟐𝟒𝒂𝒃+ 𝟏𝟔𝒃𝟐 
+64. Simplify the given expression/fn, x, O;atd dks ljy dhft,A 
+(5x + 8y) (25x² + 64y² – 40xy) 
+(a) 
+125x³ – 51y³ 
+(b) 
+25x³ + 64y³ 
+(c) 
+125x³ + 512y³ 
+(d) 
+25x³ – 64y³ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+65. The product (a + b) (a – b) (a2 – ab + b2) (a2 + ab + b2) is equal to: 
+गुणनफि (a + b) (a- b) (a2 – ab + b2) (a2 + ab + b2) ननम्नलिखित में से ककसके बराबर है? (RRB TECHNICIAN 
+GRADE-3  2024) 
+[A] 
+a3 – b3 
+[B] a3 + b3 
+[C] 
+a6 + b6 
+[D] a6 – b6 
+66. The value of 27𝒂𝟑−𝟐√𝟐 𝒃𝟑𝒊𝒔  equal to:-    (2019 PRE) 
+27a3 - 2√𝟐𝒃𝟑 का मान ......के बराबर है। 
+a) (3a-√2b)(9𝒂𝟐−𝟐𝒃𝟐+ 𝟔√𝟐𝒂𝒃) 
+b) (3a-√2b)(9𝒂𝟐+ 𝟐𝒃𝟐+ 𝟔√𝟐𝒂𝒃) 
+c) (3a-√2b)(9𝒂𝟐+ 𝟐𝒃𝟐+ 𝟑√𝟐𝒂𝒃) 
+d) (3a-√2b)(9𝒂𝟐−𝟐𝒃𝟐−𝟑√𝟐𝒂𝒃) 
+67. Simplify the following. (𝒙−𝟑𝒚)𝟑+ 𝟐𝟕(𝒚𝟑−𝒙𝒚𝟐)? 
+ननम्नलिखित को सरि कीक्जये. (𝒙−𝟑𝒚)𝟑+ 𝟐𝟕(𝒚𝟑−𝒙𝒚𝟐) 
+(SSC SELECTION POST XII HIGHER SECONDARY LEVEL) 
+A) 𝒙𝟑−𝟑𝒙𝟐𝒚 
+B) 𝒙𝟑−𝟗𝒙𝟐𝒚 
+C) 𝒙𝟑−𝟐𝟕𝒚𝟑−𝟗𝒙𝟐𝒚 
+D) 𝒙𝟑−𝟐𝟕𝒚𝟑−𝟗𝒙𝟐𝒚+ 𝟐𝟕𝒙𝒚𝟐+ 𝟐𝟕𝒚𝟐−𝟐𝟕𝒚𝟐 
+68. If b=5, determine the value of an expression (
+𝟓
+𝒃+ 𝟓𝒃)(
+𝟐𝟓
+𝒃𝟐−𝟐𝟓+ 𝟐𝟓𝒃𝟐) using an identity? 
+यदि b=5, तो एक समानता  का उपयोग करके ब्यंजक (
+𝟓
+𝒃+ 𝟓𝒃)(
+𝟐𝟓
+𝒃𝟐−𝟐𝟓+ 𝟐𝟓𝒃𝟐) का मान ननर्ागररत करें? 
+A) 25726 
+B) 15625 
+C) 15438 
+D) 25636 
+ 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+69. If a = 17, b =13, then find the value of the expression 
+).
+3
+3
+(
+2
+2
+3
+3
+ab
+b
+a
+b
+a
++
+−
+−
+ 
+यदि a = 17, b = 13 है, तो व्यंजक 
+)
+3
+3
+(
+2
+2
+3
+3
+ab
+b
+a
+b
+a
++
+−
+−
+ का मान ज्ञात कीक्जए । 
+(a) –64  
+(b) –27000 
+(c) 27000 
+(d) 64 
+ 
+ 
+ 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+70. Simplify the given expression. fn, x, O;atd dks ljy dhft,A 
+      (
+)(
+)
+3
+3
+2
+2
+-
++
++
++
+x
+y
+x
+y
+x
+xy
+y
+ 
+(a) x2 – y2 
+(b) x + y 
+(c) x2 + y2 
+(d) x – y 
+71. What is the coefficient of x in the expansion of (3x–4)³ ? 
+(3x–4)³ ds foLrkj esa x dk xq.kkad Kkr djsaA 
+(a) 
+–144 
+(b) 
+–108 
+(c) 
+108 
+(d) 
+144 
+72. The coefficient of 𝒙𝟐 𝒊𝒏 (𝟐𝒙+ 𝒚)𝟑 𝒊𝒔: − 
+(𝟐𝒙+ 𝒚)𝟑, में 𝒙𝟐 का गुणांक है:- 
+a) 12𝒚𝟐 b) 12y 
+ 
+c) 8 
+ 
+d) 12 
+ 
+73. What is the constant term in the expansion of (𝟓𝒙𝟐−
+𝟏
+𝒙 )
+𝟑
+? 
+(𝟓𝒙𝟐−
+𝟏
+𝒙)
+𝟑
+ ds foLrkj eas vpj in (constant term) Kkr djsaA 
+(a) 
+5 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+(b) 
+–15 
+(c) 
+15 
+(d) 
+75 
+74. What is the coefficient of x² in the expansion of (𝟓–
+𝒙²
+𝟑) ³ ? 
+(𝟓–
+𝒙²
+𝟑) ³ ds foLrkj eas X² dk xq.kkad Kkr djsaA 
+(a) 
+−
+𝟐𝟓
+𝟑 
+(b) 
+–25 
+(c) 
+−
+𝟓
+𝟑 
+(d) 
+25 
+75. What is the coefficient of y2 in the expansion of (√𝟐𝒚𝟐−𝟓√𝟑)𝟑? 
+O;atd  (√𝟐𝒚𝟐−𝟓√𝟑)𝟑ds foLrkj esa y2 dk xq.kkad Kkr djsaA 
+(a) 
+−𝟐𝟐𝟓√𝟐 
+(b) 
+−𝟑𝟎√𝟑 
+(c) 
+𝟐𝟐𝟓√𝟐 
+(d) 
+𝟑𝟎√𝟑 
+76. If 8 + 2px² – 36x – 27x³ = (2 – 3x)³, then what is the value of p? 
+;fn 8 + 2px² – 36x – 27x³ = (2 – 3x)³ rks p dk eku Kkr djsaA 
+(a) 
+27 
+(b) 
+54 
+(c) 
+9 
+(d) 
+–27 
+77. The coefficient of x3y in (x–2y) × (5x + y)3 is: 
+(x–2y) × (5x + y)3 eas x3y dk xq.kkad (coefficient) Kkr djsaA 
+(a) 
+75 
+(b) 
+–150 
+(c) 
+250 
+(d) 
+–175 
+78. If x4 + y4 = x2y2, then the value of x6 + y6 is: 
+यजि x4 + y4 = x2y2 है, तो x6 + y6 का माि क्या होगा?  
+(a) 1            (b) 3          (c) 2  
+(d) 0 
+(SSC CPO 2023) 
+79. If A + B = 12 and AB = 17, what is the value of A3 + B3?           
+(2019 PRE) 
+यदि A + B = 12 और AB = 17 है, तो A³ + B³ का मान क्‍या होगा? 
+(A) 1116 
+ 
+(B) 1106 
+ 
+(C) 1166 
+ 
+(D) 1213 
+80. If a+b =4 and ab=-21, then what is the value of 𝒂𝟑+ 𝒃𝟑? 
+यदि a+b =4 और ab=-21, तो 𝒂𝟑+ 𝒃𝟑 का मान क्या है? 
+A) 370 
+B) 158 
+C) 185 
+D) 316 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+81. If 5x + y = 17 and xy = 6, then what is the value of 125x³ + y³? 
+;fn 5x + y = 17 vkSj xy = 6 rks 125x³ + y³ dk eku D;k gS\ 
+(a) 
+3383 
+(b) 
+1530 
+(c) 
+3183 
+(d) 
+4913 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+82. If (𝟐𝟐−𝒎)(𝒎−𝟏𝟗) = 𝟓, then find (𝒎−𝟏𝟗)𝟑+ (𝟐𝟐−𝒎)𝟑? 
+यदि (𝟐𝟐−𝒎)(𝒎−𝟏𝟗) = 𝟓 है, तो (𝒎−𝟏𝟗)𝟑+ (𝟐𝟐−𝒎)𝟑 ज्ञात कीक्जये? 
+A) -18 
+B) 18 
+C) 20 
+D) -20 
+83. If 𝒂𝟑+ 𝒃𝟑= 𝟑𝟓 & 𝒂𝒃= 𝟔, then find a+b? 
+यदि 𝒂𝟑+ 𝒃𝟑= 𝟑𝟓 & 𝒂𝒃= 𝟔, तो a+b ज्ञात कीक्जए? 
+A) 5 
+B) 8 
+C) -8 
+D) 2 
+84. If 𝒙𝒚= −𝟔 & 𝒙𝟑+ 𝒚𝟑= 𝟏𝟗 (x and y are integers), then  
+what is the value of 
+𝟏
+𝒙−𝟏+
+𝟏
+𝒚−𝟏? 
+यदि 𝒙𝒚= −𝟔 & 𝒙𝟑+ 𝒚𝟑= 𝟏𝟗 (x और y पूर्ाांक हैं), तो 
+𝟏
+𝒙−𝟏+
+𝟏
+𝒚−𝟏 का मान क्या है? 
+A) 2 
+B) 1 
+C) -1 
+D) -2 
+85. If x-y =4 and xy = 3, then what is the value of x³-y³ ? 
+;fn x–y = 4 vkSj xy = 3 gS] rks x³ – y³ dk eku Kkr djsaA 
+(a)88 
+ (b)28 
+(c)100 
+ (d)64 
+86. If x – y = 25 and xy = 444, compute the value of x3 – y3 . 
+यदि x - y = 25 और xy = 444 है, तो x3 - y3 के मान की गणना करें। 
+SSC CPO 2024 
+A) 48925 
+B) 42985 
+C) 28495 
+D) 26725 
+87. If x – y = 
+𝟕
+𝟒 and 
+𝟏
+𝒙−
+𝟏
+𝒚=
+𝟏𝟒
+𝟑 , then x³ – y³ is equal to : 
+;fn x – y = 
+𝟕
+𝟒 vkSj 
+𝟏
+𝒙−
+𝟏
+𝒚=
+𝟏𝟒
+𝟑 gS] rks x³ – y³ dk eku Kkr djsaA 
+(a) 
+𝟒𝟑𝟑
+𝟑𝟐 
+(b) 
+𝟒𝟑𝟑
+𝟔𝟒 
+(c) 
+𝟐𝟏𝟕
+𝟔𝟒 
+(d) 
+𝟐𝟏𝟕
+𝟑𝟐 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+88. If (a + b) = 16 and a³ + b³ = 1456, then what is the value of ab? 
+;fn (a + b) = 16 and a³ + b³ = 1456, rks ab dk eku D;k gS\ 
+(a) 
+50 
+(b) 
+48 
+(c) 
+64 
+(d) 
+55 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+89. If 3a + 2b = 27 and 27a3 + 8b3 = 1458, then find 2ab. 
+यदि 3a + 2b = 27 और 27a3 + 8b3 = 1458, तो 2ab का मान ज्ञात कीदिए।  
+(a) 72  
+(b) 70  
+(c) 77  
+(d) 75 
+90. If a− b = 27 and 𝒂𝟑−𝒃𝟑 = 5427, then the value of ab will be: 
+यजि a − b = 27 और 𝒂𝟑−𝒃𝟑 = 5427, तो ab का मान होगा: 
+a)-176        b)-110           c)-152        d)-140 
+91. If 
+𝟔𝟒
+𝟐𝟕𝒂𝟑−
+𝟏𝟐𝟓
+𝟔𝟒𝒃𝟑= 𝟑𝟖𝟕 & 
+𝟒
+𝟑𝒂−
+𝟓
+𝟒𝒃= 𝟑, then find 10ab? 
+यदि 
+𝟔𝟒
+𝟐𝟕𝒂𝟑−
+𝟏𝟐𝟓
+𝟔𝟒𝒃𝟑= 𝟑𝟖𝟕 & 
+𝟒
+𝟑𝒂−
+𝟓
+𝟒𝒃= 𝟑 है, तो 10ab ज्ञात कीक्जये? 
+A) 210 
+ 
+ 
+C) 220 
+B) 230 
+ 
+ 
+D) 240 
+92. If x + y = 13 and 𝒙𝟐+ 𝒚𝟐 = 101, then the value of 𝒙𝟑+ 𝒚𝟑 will be: 
+यजि x + y = 13 और 𝒙𝟐+ 𝒚𝟐 = 101, तो 𝒙𝟑+ 𝒚𝟑 का मान होगा: 
+(a) 767             
+ 
+(b) 949                  
+(c) 793            
+ 
+(d) 871 
+93. If a + b =
+𝟕
+𝟑,   𝒂𝟐+ 𝒃𝟐=
+𝟑𝟏
+𝟗,    then  find 27(𝒂𝟑+ 𝒃𝟑) =? 
+a)117                b)154              c)126                d)168 
+94. If 𝒂𝟐+ 𝒃𝟐= 𝟗𝟓and ab=13, (a>0, b>0) then the value of (𝒂𝟑+ 𝒃𝟑) is: 
+यदि𝒂𝟐+ 𝒃𝟐= 𝟗𝟓 और ab=13, (a>0, b>0) है तो (𝒂𝟑+ 𝒃𝟑) का मान है: 
+A) 861  
+B) 968  
+C) 1100  
+D) 902 
+95. If 16x² + y² = 48 and xy = 2, x, y > 0, then the value of (64x³ + y³) is: 
+;fn 16x² + y² = 48 vkSj xy = 2, x, y > 0 gS] rks (64x³ + y³) dk eku Kkr djsaA 
+(a) 
+320 
+(b) 
+340 
+(c) 
+300 
+(d) 
+240 
+96. If a2+b2=135 and ab=7, (a>0, b>0) then the value of  (a3-b3) is: 
+यदि a2+b2=135 और ab=7, (a>0, b>0)  है तो (a3-b3) का मान है: 
+A) 1562   
+B) 1408   
+C) 1420   
+D) 1350  
+ 
+97. If x² + y² = 45 and x – y = 5 then what is the value of x³ – y³? 
+;fn x² + y² = 45 vkSj x – y = 5 gS] rks x³ – y³ dk eku Kkr djsaA 
+(a) 
+150 
+(b) 
+250 
+(c) 
+–25 
+(d) 
+275 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+98. If a3 + b3 = 218 and a + b = 2, then the value of 
+𝟏
+𝒂 +
+𝟏
+𝒃 is :        
+(Mains 2018) 
+;fn  a3 + b3 = 218 और a + b = 2 है, तो 
+𝟏
+𝒂 +
+𝟏
+𝒃का मान है:      
+(a) 
+𝟐
+𝟑𝟓 
+ 
+(b) –
+𝟐
+𝟑𝟓  
+(c) 
+𝟏
+𝟏𝟕 
+ 
+(d) –
+𝟏
+𝟏𝟐 
+99. If x + y = 12 and xy = 27, x > y, then the value of (x3−y3) is: 
+;fn x + y = 12  vkSj xy  = 27, x > y,   gS] rks (x3−y3)  dk eku Kkr djsaA 
+(a) 720 
+ 
+(b) 702 
+ 
+(c) 724  
+ 
+(d) 710 
+100. 
+If x + y = 17 and xy = 25, x > y, then the value of (x3−y3) is: 
+  ;fn x + y = 17  vkSj xy = 25, x > y, gS]  rks  (x3−y3)  dk eku D;k gS\ 
+     (a) 792√𝟐𝟏 
+      (b) 702√𝟐𝟏 
+ 
+(c) 724√𝟐𝟑  
+    (d) none 
+101. 
+If 2x + 3y = 4 and 4x2 + 9y2 =64, then what is the value of 8x3 + 27y3. 
+;fn 2x+3y = 4 vkSj 4x2 + 9y2 = 64, rks 8x3+27y3 dk eku D;k gS\ 
+(a) 352  
+(b) 325 
+(c) 235 
+(d) 253 
+102. 
+If x² + 4y² = 53 and x – 2y = 5, then what is the value of x³ – 8y³? 
+;fn x² + 4y² = 53 vkSj x – 2y = 5 gS] rks  x³ – 8y³ dk eku Kkr djsaA 
+(a)–85 
+ (b)335 
+(c)155 
+ (d)85 
+103. 
+If x + y = 14 and 𝒙𝟑+ 𝒚𝟑 = 1064, then the value of 𝒙𝟐−𝒚𝟐 will be: (x > y) 
+यजि x + y = 14 और 𝒙𝟑+ 𝒚𝟑 = 1064 है, तो  𝒙𝟐−𝒚𝟐 का मान होगा: (x > y) 
+a)84             b)112           c)70            d)78 
+104. 
+If 𝒂𝟑−𝒃𝟑= 𝟔𝟎𝟐 & 𝒂−𝒃= 𝟐, then find the value of (𝒂𝟐+ 𝒃𝟐)? 
+यदि 𝒂𝟑−𝒃𝟑= 𝟔𝟎𝟐 & 𝒂−𝒃= 𝟐, तो (𝒂𝟐+ 𝒃𝟐) का मान ज्ञात कीक्जए? ( IB ACIO 2023) 
+A) 156 
+B) 240 
+C) 202 
+D) 260 
+105. 
+If 𝒂−𝒃= 𝟒 and 𝐚𝟑−𝐛𝟑= 𝟖𝟖, then find the value of 𝐚𝟐−𝐛𝟐. 
+यदि 𝒂−𝒃= 𝟒 और 𝐚𝟑−𝐛𝟑= 𝟖𝟖 है, तो 𝐚𝟐−𝐛𝟐 का मान क्या होगा?  
+(a) 𝟔 √𝟔 
+ 
+(b) 𝟗√𝟔  
+(c) 𝟕√𝟔  
+(d) 𝟖√𝟔 
+106. 
+If 2a – b = 3 and 8a3 – b3 = 999, then find the value of 4a2 – b2. 
+यदि 2a – b = 3 और 8a3 – b3 = 999 है, तो 4a2 – b2 का मान ज्ञात कीदिए।  
+(a) 63  
+(b) 65  
+(c) 61  
+(d) 67 
+107. 
+If p+r= 21, and pr = 38, then find the value of p3-r3. 
+;fn p + r = 21, vkSj pr = 38, rks p³ - r³ dk eku Kkr dhft,A 
+(a) 
+6538 
+(b) 
+6102 
+(c) 
+6113 
+(d) 
+6851 
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+108. 
+If x³ + y³ = 416 and x + y = 8, then find x4 + y4. 
+;fn x³ + y³ = 416 vkSj x + y = 8 gS] rks x4 + y4 dk eku Kkr dhft,A 
+(a) 
+3002 
+ 
+(b) 
+3204 
+(c) 
+3004 
+(d) 
+3104 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+109. 
+If a + b = p, ab = q, then (a4 + b4) is equal to : 
+;fn a + b = p, ab = q gS] rks (a4 + b4) dk eku Kkr dhft,A 
+(a) 
+p4 – 2p²q² + q² 
+(b) 
+p4 – 4p²q² + 2q² 
+(c) 
+p4 – 4p²q + q² 
+(d) 
+p4 – 4p²q + 2q² 
+110. 
+If 𝟖𝒂𝟑+ 𝟐𝟕𝒃𝟑= 𝟏𝟔 & 𝟐𝒂+ 𝟑𝒃= 𝟒, then find the value of 𝟏𝟔𝒂𝟒+ 𝟖𝟏𝒃𝟒? 
+यदि 𝟖𝒂𝟑+ 𝟐𝟕𝒃𝟑= 𝟏𝟔 & 𝟐𝒂+ 𝟑𝒃= 𝟒 है, तो 𝟏𝟔𝒂𝟒+ 𝟖𝟏𝒃𝟒 का मान ज्ञात कीक्जए? 
+A) 26 
+B) 30 
+C) 28 
+D) 32 
+111. 
+If x + y = 4 and 𝒙𝟑+ 𝒚𝟑 = 12, then the value of 𝒙𝟒+ 𝒚𝟒 will be: 
+यजि x + y = 4 और 𝒙𝟑+ 𝒚𝟑 = 12 है, तो 𝒙𝟒+ 𝒚𝟒 का मान होगा: 
+a)    
+𝟏𝟒𝟔
+𝟗            b) 
+𝟏𝟑𝟏
+𝟗                 c) 
+𝟏𝟒𝟑
+𝟗              d) 
+𝟏𝟐𝟕
+𝟗    
+112. 
+If 𝒂𝟑− 𝒃𝟑= 260 , a−b = 8 then  𝒂𝟒 + 𝒃𝟒= ? 
+a)1682.5       b)1628.5           c)1862.5             d)1268.5 
+113. 
+If 𝟐𝟓𝒂𝟐+ 4𝒃𝟐= 124 , ab =3 then  𝟏𝟐𝟓𝒂𝟑−8𝒃𝟑= ? 
+a)1322       b)1264           c)1232            d)1268 
+114. 
+If a2 + b2 = 69  and a4 + b4 = 3409, then the value of a3 + b3 is : 
+यजि a2 + b2 = 69  और a4 + b4 = 3409 है, तो  a3 + b3 का मान है:      
+(a) 506  
+(b) 407   (c) 429  
+(d) 473 
+115. 
+If 5x + 9y = 5 and 125𝒙𝟑+ 729𝒚𝟑= 120 then the value of the product of x and y? 
+यजि 5x + 9y = 5 तथा 125𝒙𝟑+ 729𝒚𝟑= 120 है तो x और y का गुणनफि होगा ? 
+A) 1/9                       B) 1/135               C) 1/45                    D) 1/75 
+116. 
+If x – y = 4 and x³ – y³ = 316, y > 0 then the value of x4 – y4 is : 
+;fn x – y = 4 vkSj x³ – y³ = 316 gS] y > 0 gS] rks x4 – y4 dk eku Kkr djsaA 
+(a) 
+2482 
+(b) 
+2320 
+(c) 
+2500 
+(d) 
+2401 
+117. 
+If 𝒙𝟑= 𝟏𝟏𝟔+ 𝒚𝟑  and x = 4 + y, then find ( x+ y)? 
+A) 
+𝟏𝟓
+√𝟔                           B) 
+𝟏𝟎√𝟑
+𝟕                   C) 10√𝟑                        D) 
+𝟏𝟎
+√𝟑 
+118. 
+If a + b = 2 and ab = 4, then find the value of a4 + b4 + ab3 + ba3. 
+;fn a + b = 2 rFkk ab = 4 gS] rks a4 + b4 + ab3 + ba3 dk eku Kkr dhft,A 
+(a) 
+18 
+(b) 
+–16 
+(c) 
+–32 
+(d) 
+24 
+119. 
+If 𝒙+ 𝒚= 𝟑, 𝒙𝟐+ 𝒚𝟐= 𝟕, 𝒕𝒉𝒆𝒏 𝒇𝒊𝒏𝒅 𝒕𝒉𝒆 𝒗𝒂𝒍𝒖𝒆 𝒐𝒇  𝒙𝟔+ 𝒚𝟔=? 
+यदि 𝒙+ 𝒚= 𝟑, 𝒙𝟐+ 𝒚𝟐= 𝟕 है, तो 𝒙𝟔+ 𝒚𝟔 का मान ज्ञात कीक्जये? 
+A) 322 
+ 
+                       C) 321 
+B) 342                                   D) 329 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+120. 
+If 16x² + y² = 
+𝟔𝟓
+𝟑𝟔 and xy = 
+𝟏
+𝟏𝟖 , x, y > 0, then what is the value of  (64x³ + y³)? 
+;fn 16x² + y² = 
+𝟔𝟓
+𝟑𝟔 vkSj xy = 
+𝟏
+𝟏𝟖 , x, y > 0 gS] rks (64x³ + y³) dk eku D;k gksxk\ 
+(a) 
+𝟏𝟗
+𝟒 
+(b) 
+𝟐𝟕
+𝟒 
+(c) 
+𝟐𝟕
+𝟖 
+(d) 
+𝟏𝟗
+𝟖 
+121. 
+If 3x + 2y = 15 & xy = 6, then find 
+𝟑
+𝟐𝒙𝟑+
+𝟒
+𝟗𝒚𝟑? 
+यदि 3x + 2y = 15 और xy = 6, तो 
+𝟑
+𝟐𝒙𝟑+
+𝟒
+𝟗𝒚𝟑 ज्ञात कीजिए? (ICAR Technician 2022) 
+A) 98.6 
+B) 97.5 
+C) 95.8 
+D) 92.5 
+122. 
+If 2x – y = 2 and xy = 
+𝟑
+𝟐 , then what is the value of 
+𝟏
+𝟐 (x³–
+𝒚³
+𝟖)? 
+;fn 2x – y = 2 vkSj  xy = 
+𝟑
+𝟐 gS] rks 
+𝟏
+𝟐 (x³–
+𝒚³
+𝟖) dk eku Kkr djsa\ 
+(a) 
+𝟏𝟑
+𝟐 
+(b) 
+𝟏𝟑
+𝟖 
+(c) 
+𝟏𝟑
+𝟒 
+(d) 
+𝟏𝟑
+𝟗 
+123. 
+If (4a–3b) = 1, ab = 
+𝟏
+𝟐, where a > 0 and b > 0,  
+what is the value of  (64a³ + 27b³)? 
+;fn (4a–3b) = 1, ab = 
+𝟏
+𝟐, tgk¡ a > 0 vkSj b > 0 gS] rks (64a³ + 27b³) dk eku D;k gS\ 
+(a)15 
+(b)25 
+  
+(c)30 
+ 
+(d)35 
+124. 
+If (𝒙𝟑+ 𝒚𝟑)
+𝟐
+𝟑 = (x²+y²), then the value of 
+𝒙²+𝒚²
+𝒙𝒚 x  0, y  0, is: 
+;fn (𝒙𝟑+ 𝒚𝟑)
+𝟐
+𝟑 = (x²+y²), rks  
+𝒙²+𝒚²
+𝒙𝒚 x  0, y  0 dk eku D;k gksxk\ 
+(a) 
+2/3 
+(b) 
+x²+y 
+(c) 
+1 
+(d) 
+x+y² 
+125. 
+If a³ + 3a² + 3a = 63, then the value of a² + 2a is: 
+;fn a³ + 3a² + 3a = 63, rks a² + 2a dk eku gS& 
+(a) 
+22 
+(b) 
+19 
+(c) 
+15 
+(d) 
+8  
+ 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+ 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+126. 
+x, y are two positive numbers such that x > y. If x4 + y4 = 706 and xy = 15, then the value of 
+2x + 3y is: 
+x,y nks ,slh /kukRed la[;k,¡ gSa fd x > y gSA ;fn x4 + y4 = 706 vkSj xy =15 gS] rks 2x + 2y dk eku Kkr djasA 
+(a)19 
+ (b)20 
+ 
+(c)18 
+ 
+(d)15 
+127. 
+The sum of two numbers is 59 and their product is 1150. Find the sum of their squares. 
+nks la[;kvksa dk ;ksx 59 gS vkSj mudk xq.kuQy 1150 gSA muds oxksZa dk ;ksx Kkr dhft,A 
+ (a) 
+1176 
+(b) 
+1181 
+(c) 
+1183 
+(d) 
+1178 
+128. 
+If the difference between two numbers is 5 and the difference their cubes is 1850, then the 
+difference between their squares is: 
+;fn nks la[;kvksa dk varj 5 gS vkSj muds ?kuksa dk varj 1850 gS] rks muds oxksZa ds e/; fdruk varj gksxk\ 
+ (a) 
+5 482   
+ (b) 
+5 483  
+ (c) 
+5 484  
+ (d) 
+5 485  
+129. 
+If a = 26 and b =  22, then the value of 
+𝒂𝟑−𝒃³
+𝒂𝟐−𝒃² −
+𝟑𝒂𝒃
+𝒂+𝒃 is _______. 
+;fn a = 26 vkSj b =  22 gS] rks 
+𝒂𝟑−𝒃³
+𝒂𝟐−𝒃² −
+𝟑𝒂𝒃
+𝒂+𝒃 dk eku -------------------- gSA 
+(a) 
+5/3 
+(b) 
+13/11 
+(c) 
+1/3  
+(d) 
+11/13 
+ 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+130. 
+On simplification,  
+ 
+𝒙𝟑−𝒚𝟑
+𝒙[(𝒙+𝒚)𝟐−𝟑𝒙𝒚] ÷
+𝒚[(𝒙−𝒚)𝟐+𝟑𝒙𝒚]
+𝒙𝟑+𝒚𝟑
+×
+(𝒙+𝒚)𝟐−(𝒙−𝒚)𝟐
+𝒙𝟐−𝒚𝟐
+ is equal to : 
+𝒙𝟑−𝒚𝟑
+𝒙[(𝒙+𝒚)𝟐−𝟑𝒙𝒚] ÷
+𝒚[(𝒙−𝒚)𝟐+𝟑𝒙𝒚]
+𝒙𝟑+𝒚𝟑
+×
+(𝒙+𝒚)𝟐−(𝒙−𝒚)𝟐
+𝒙𝟐−𝒚𝟐
+ का मान ज्ञात कीदिए । 
+a) 4                 b) 1                    c) 
+𝟏
+𝟐                      d)
+𝟏
+𝟒 
+131. 
+If P = 
+𝒙𝟑+𝒚𝟑
+(𝒙−𝒚)𝟐+𝟑𝒙𝒚, 𝑸=
+(𝒙+𝒚)𝟐−𝟑𝒙𝒚
+𝒙𝟑−𝒚𝟑
+ and R =
+(𝒙+𝒚)𝟐+(𝒙−𝒚)𝟐
+𝒙𝟐−𝒚𝟐
+, then what is the value of (P÷Q) ×R? (2019 PRE) 
+यदि P =    
+𝒙𝟑+𝒚𝟑
+(𝒙−𝒚)𝟐+𝟑𝒙𝒚, 𝑸=
+(𝒙+𝒚)𝟐−𝟑𝒙𝒚
+𝒙𝟑−𝒚𝟑
+ और R =
+(𝒙+𝒚)𝟐+(𝒙−𝒚)𝟐
+𝒙𝟐−𝒚𝟐
+,     है तो (P÷Q) ×R का मान क्या है? 
+a) 2xy 
+ 
+b) 2(𝒙𝟐+ 𝒚𝟐) 
+c) 𝒙𝟐+ 𝒚𝟐  
+ 
+d) 𝟒𝒙𝒚  
+132. 
+Simplify the given expression: 
+fn, x, O;atd dks ljyhÑr dhft,& 
+(
+(𝒂+𝒙)(𝒂𝒙𝟐−𝒙³)
+𝒂³+𝒙³
+×
+𝒂²−𝒂𝒙+𝒙²
+𝒂²𝒙²+𝒙𝟒) ÷  
+(𝒂𝟐−𝟐𝒂𝒙+𝒙𝟐)(𝒂–𝒙)
+(𝒂𝟒−𝒙𝟒)
+, a  x 
+(a) 
+𝒂+𝒙
+𝒂−𝒙 
+(b) 
+a²–x² 
+(c) 
+𝒂−𝒙
+𝒂+𝒙 
+(d) 
+a4 – x4 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+133. 
+If x = 3.5, then what is the value of 
+𝒙𝟐+𝟑𝒙+𝟗
+𝒙𝟐−𝟐𝟓÷
+𝒙𝟑−𝟐𝟕
+𝒙𝟐+𝟑𝒙−𝟏𝟎×
+(𝒙−𝟒)𝟐−𝟏
+𝒙𝟐−𝟒
+=? 
+;fn x = 3-5 gks] rks 
+𝒙𝟐+𝟑𝒙+𝟗
+𝒙𝟐−𝟐𝟓÷
+𝒙𝟑−𝟐𝟕
+𝒙𝟐+𝟑𝒙−𝟏𝟎×
+(𝒙−𝟒)𝟐−𝟏
+𝒙𝟐−𝟒 dk eku fdruk gksxk\ 
+1. 2/9 
+2. 2/11 
+3. 1/4 
+4. 1/5 
+ 
+ 
+( ICAR Technician 2023) 
+134. 
+The value of 
+{(𝒎𝟐+𝒏𝟐)(𝒎−𝒏)−(𝒎−𝒏)³}
+(𝒎𝟐𝒏−𝒎𝒏²)
+ is: 
+{(𝒎𝟐+𝒏𝟐)(𝒎−𝒏)−(𝒎−𝒏)³}
+(𝒎𝟐𝒏−𝒎𝒏²)
+dk eku D;k gS\ 
+(a) m + n 
+(b)m – n 
+(c) 2 
+(d) m/n 
+135. 
+If x (x – 4) = 2, then 𝒙𝟔 – 88𝒙𝟑 – 13 = ? 
+(a) – 6              
+(b) – 4                 
+ 
+(c) – 5               
+(d) – 2 
+136. 
+If 2𝒂𝟐 – a – 2 = 0, then find 8𝒂𝟔 – 13𝒂𝟑 – 3 =? 
+a)1             b)2                c)0               d)5 
+137. 
+𝑰𝒇 𝒙𝟐−𝟐𝒙+ 𝟒= 𝟎, 𝒕𝒉𝒆𝒏 𝒙𝟓−𝟐𝒙𝟒+ 𝟑𝟎=? 
+a) 62         b) 63        c) 64           d)60 
+138. 
+If x2+3x+9=0, then x5+3x4+260=?  
+यदि x2+3x+9=0 है तब x5+3x4+260 का मान ज्ञात करे? 
+a) 17 
+ 
+b) 23 
+ 
+c) 19 
+ 
+d) 14 
+139. 
+if 
+𝟏
+𝒙+
+𝟏
+𝟕=
+𝟏
+𝒙+𝟕, then 𝒙𝟒𝟗−𝟑𝟒𝟑𝒙𝟒𝟔+ 𝒙𝟑+ 𝟏𝟕=? 
+ 
+a)289  
+b)0        d)360 
+ 
+d)326 
+140. 
+If 
+𝟏
+𝒑+
+𝟏
+𝒒=
+𝟏
+𝒑+𝒒, then 𝒑𝟑−𝒒𝟑=? 
+a) p – q                  b) pq                   c) 0 
+                    d) 1 
+141. 
+If 𝟐𝟒√𝟑𝒙𝟑+ 𝟐√𝟐𝒚𝟑= (𝟐√𝟑𝒙+ √𝟐𝒚) (𝑨𝒙𝟐+ 𝑩𝒙𝒚+ 𝑪𝒚𝟐)then  
+(𝟐𝑨+ √𝟔𝑩−𝑪) is equal to: 
+अगर 𝟐𝟒√𝟑𝒙𝟑+ 𝟐√𝟐𝒚𝟑= (𝟐√𝟑𝒙+ √𝟐𝒚) (𝑨𝒙𝟐+ 𝑩𝒙𝒚+ 𝑪𝒚𝟐) है, तो (𝟐𝑨+ √𝟔𝑩−𝑪)  बराबर है:     (Mains 2018) 
+A) 10  
+B)  14  
+C)  6 
+ 
+D)  8 
+142. 
+If 𝟐𝟓𝟎√𝟐𝒙𝟑−𝟓√𝟓𝒚𝟑= (𝟓√𝟐𝒙−√𝟓𝒚) × (𝑨𝒙𝟐+ 𝑩𝒙𝒚+ 𝑪𝒚𝟐),  
+then the value of (A+C-√𝟏𝟎𝑩) is: 
+यदि 𝟐𝟓𝟎√𝟐𝒙𝟑−𝟓√𝟓𝒚𝟑= (𝟓√𝟐𝒙−√𝟓𝒚) × (𝑨𝒙𝟐+ 𝑩𝒙𝒚+ 𝑪𝒚𝟐),  है तो (A+C-√𝟏𝟎𝑩)  का मान है: 
+A) 10 
+B) 5 
+C 
+C) 𝟓√𝟐 D) 𝟐√𝟓 
+143. 
+If 𝟖𝒙𝟑−𝟐𝟕𝒚𝟑= (𝑨𝒙+ 𝑩𝒚)(𝑪𝒙𝟐−𝑫𝒚𝟐+ 𝟔𝒙𝒚), then (𝑨+ 𝑩+ 𝑪−𝑫)is equal to: 
+यदि 𝟖𝒙𝟑−𝟐𝟕𝒚𝟑= (𝑨𝒙+ 𝑩𝒚)(𝑪𝒙𝟐−𝑫𝒚𝟐+ 𝟔𝒙𝒚), तो 
+ (𝑨+ 𝑩+ 𝑪−𝑫)  बराबर है:          (2018 PRE) 
+(a) -12  
+(b) 12 
+ 
+(c) 9 
+ 
+(d) 15 
+144. 
+If 𝟔√𝟔 p³ + 2√𝟐q³ = (√𝟔p+√𝟐q)(Sp² + Mq² – Npq), then the positive value of √𝑺² + 𝑴² + 𝟐𝑵² is: 
+;fn 𝟔√𝟔 p³ + 2√𝟐q³ = (√𝟔p+√𝟐q)(Sp² + Mq² – Npq) gS] rks √𝑺² + 𝑴² + 𝟐𝑵² dk /kukRed eku D;k gS\ 
+(a) 
+10 
+(b) 
+8 
+(c) 
+9 
+(d) 
+12 
+ 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+145. 
+If 𝒙𝟔 − 𝟓𝟏𝟐𝒚𝟔 = (𝒙𝟐 +  𝑨𝒚𝟐)(𝒙𝟒 − 𝑩𝒙𝟐𝒚𝟐 +  𝑪𝒚𝟒), then what is the value of (A+B-C)?            
+ (CPO 2019) 
+;fn x6 – 512y6 = (x2 + Ay2) (x4 – Bx2y2 + Cy4) gS] rks (A + B – C) dk eku Kkr dhft,  
+(a) – 80 
+(b) – 72 
+(c) 72  
+(d) 48 
+146. 
+If 8(x + y)³ – 27(x–y)³ = (5y–x) (Ax² + By² + Cxy), then what is the value of (A + B – C)? 
+;fn 8(x + y)³ – 27(x–y)³ = (5y–x) (Ax² + By² + Cxy) gS] rks (A + B – C) dk eku Kkr djsaA 
+(a) 
+16 
+(b) 
+–26 
+(c) 
+36 
+(d) 
+–16 
+147. 
+If (x + y)³ + 27(x – y)³ = (Ax – 2y)(Bx² + Cxy + 13y²), then the value  of A – B – C is: 
+;fn (x + y)³ + 27(x – y)³ = (Ax – 2y)(Bx² + Cxy + 13y²) gS] rks A – B – C dk eku Kkr djsaA 
+(a) 
+27 
+(b) 
+20 
+(c) 
+15 
+(d) 
+13 
+148. 
+Given that  (2x+y)3-(x+2y)3 = (x-y) [A(x2+y2) + Bxy], the value of (2A-B) is: 
+fn;k x;k gS fd (2x+y)3-(x+2y)3 = (x-y) [A(x2+y2) + Bxy] gS] rks (2A-B) dk eku Kkr djsaA 
+(a) 
+7 
+(b) 
+6 
+(c) 
+0 
+(d) 
+1 
+149. 
+If (𝒙+ 𝟐𝒚)𝟑+ (𝟐𝒙−𝒚)𝟑= (𝟑𝒙+ 𝒚)[𝑨𝒙𝟐+ 𝑩𝒚𝟐+ 𝑪𝒙𝒚], then the value of  (3A-B-C):(A+B+C)? 
+यदि (𝒙+ 𝟐𝒚)𝟑+ (𝟐𝒙−𝒚)𝟑= (𝟑𝒙+ 𝒚)[𝑨𝒙𝟐+ 𝑩𝒚𝟐+ 𝑪𝒙𝒚] है, तो (3A-B-C):(A+B+C) का मान क्या है?  
+(ICAR Technician 2022) 
+A) 2:5 
+B) 1:7 
+C) 5:7 
+D) 3:4 
+150. 
+If 
+𝑿𝒂𝟑−𝒀𝒃𝟑
+𝒁𝒂−𝑻𝒃= (𝟎. 𝟑𝟔𝒂𝟐+ 𝟎. 𝟑𝟎𝒂𝒃+ 𝟎. 𝟐𝟓𝒃𝟐), then find 
+𝑿+𝒀
+𝒁−𝑻? 
+यदि 
+𝑿𝒂𝟑−𝒀𝒃𝟑
+𝒁𝒂−𝑻𝒃= (𝟎. 𝟑𝟔𝒂𝟐+ 𝟎. 𝟑𝟎𝒂𝒃+ 𝟎. 𝟐𝟓𝒃𝟐) है, तो 
+𝑿+𝒀
+𝒁−𝑻 ज्ञात कीक्जए? 
+A) 3.40                           C) 3.39 
+B) 3.41                           D) 12 
+151. 
+𝟑[𝒂−
+𝟏
+𝒂] + [𝒂−
+𝟏
+𝒂]
+𝟑
+=? 
+A) 𝒂𝟐−
+𝟏
+𝒂𝟑 
+B) 𝒂𝟑−
+𝟏
+𝒂𝟑 
+C) 𝒂𝟑+
+𝟏
+𝒂𝟑 
+D) 𝒂𝟐−
+𝟏
+𝒂𝟐 
+152. 
+What is the simplified form of the following expression? 
+fuEufyf[kr O;atd dk ljyhÑr :i D;k gS\ 
+(𝒙−𝟏
+𝒚)
+𝟑
++ (𝒙+ 𝟏
+𝒚)
+𝟑
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+(a) 
+𝒙 (𝒙² −
+𝟑
+𝒚²) 
+(b) 
+–2x(𝒙² +
+𝟑
+𝒚² ) 
+(c) 
+2x(𝒙² −
+𝟑
+𝒚²   ) 
+(d) 
+2x(𝒙² +
+𝟑
+𝒚² ) 
+153. 
+Simplify the given expression. 
+fn, x, O;atd dk eku Kkr djsaA 
+3
+3
+2
+2
+x
+x
+x
+x
+
+
+
+
+−
+−
++
+
+
+
+
+
+
+
+
+ 
+ (a) 
+3
+4
+4 3x
+x
+
+
+−
++
+
+
+
+
+ 
+(b) 
+3
+4
+4 3x
+x
+
+
+−
+−
+
+
+
+
+ 
+(c) 
+−𝟒(𝒙+
+𝟒
+𝒙𝟑) 
+(d) 
+3
+4
+2 x
+x
+
+
+−
+
+
+
+
+ 
+154. 
+Simplify the given expression: 
+(𝒙+𝟑)𝟑+(𝒙−𝟑)𝟑
+𝒙𝟐+𝟐𝟕
+? 
+दिए गए ब्यंजक 
+(𝒙+𝟑)𝟑+(𝒙−𝟑)𝟑
+𝒙𝟐+𝟐𝟕
+ को सरि बनाएं: 
+A) 3x 
+B) x 
+C) 4x 
+D) 2x 
+155. 
+      Find the square root of (𝟑+ √𝟓)𝟑+ (𝟑−√𝟓)𝟑? 
+(𝟑+ √𝟓)𝟑+ (𝟑−√𝟓)𝟑 का वगगमूि ज्ञात कीक्जये? 
+A) 9 
+B) 12 
+C) 14 
+D) 6 
+156. 
+If (3x + 2 y)3 + (3x-2y)3 =3kx (3x2+4y2), then the value of k will be: 
+;fn (3x + 2 y)3 + (3x-2y)3 =3kx (3x2+4y2), gS] rks k dk eku Kkr djsaA 
+(a) 
+18 
+(b) 
+9 
+(c) 
+3 
+(d) 
+6 
+157. 
+If (2x+3y)³ – (2x–3y)³ = 3y[Ax²+By²], then what is the value of (A–B)? 
+;fn (2x+3y)³ – (2x–3y)³ = 3y[Ax²+By²] gS] rks (A–B) dk eku D;k gksxk\ 
+(a) 
+12 
+(b) 
+9 
+(c) 
+3 
+(d) 
+6 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+158. 
+If (4x+2y)³ + (4x–2y)³ = 16(Ax³+Bxy²), then what is the value of 
+𝟏
+𝟐 (√𝑨² + 𝑩²)? 
+;fn (4x+2y)³ + (4x–2y)³ = 16(Ax³+Bxy²), rks 
+𝟏
+𝟐 (√𝑨² + 𝑩²) dk eku D;k gS\ 
+(a)8 
+ (b)3 
+ 
+(c)5 
+ 
+(d)7 
+159. 
+If (𝟑𝒙+ 𝟐𝒚)𝟑−(𝟐𝒙+ 𝟑𝒚)𝟑= 𝑴(𝒙𝟑−𝒚𝟑) + 𝑵𝒙𝒚(𝒙−𝒚), then find (M-N)? 
+यदि (𝟑𝒙+ 𝟐𝒚)𝟑−(𝟐𝒙+ 𝟑𝒚)𝟑= 𝑴(𝒙𝟑−𝒚𝟑) + 𝑵𝒙𝒚(𝒙−𝒚) है, तो (M-N) ज्ञात कीक्जये? 
+A) 1 
+B) 7 
+C) 4 
+D) 8 
+160. If 
+𝒙𝟑 + 𝟑𝒙
+𝟑𝒙𝟐 + 𝟏=
+𝟐𝟑𝟒
+𝟏𝟎𝟗  then 𝒙𝟐+5=? 
+a)31                      b)41                   c)38                 d)46 
+161. 
+If 
+𝟔𝟒𝒙𝟑 + 𝟏𝟎𝟖𝒙
+𝟏𝟒𝟒𝒙𝟐 + 𝟐𝟕=
+𝟏𝟒𝟔𝟑
+𝟕𝟑𝟒 then  (𝟖𝒙−𝟒𝟑)𝟐? 
+a)64                b)81                     c)100                  d)121 
+162. 
+If x = 2 + √𝟑, then find the value of x4 – 8x3 + 16x2. 
+यदि x = 2 + √𝟑 है, तो x4 – 8x3 + 16x2 का मान ज्ञात कीजिए। 
+(a) – 1 
+ 
+ 
+(b) 1 
+(c) 0 
+ 
+ 
+(d) 2 
+163. 
+If x = √𝟓
+𝟑
++ 𝟐, then the value of 𝒙𝟑−𝟔𝒙𝟐+ 𝟏𝟐𝒙−𝟏𝟐  is equal to: 
+यदि x = √𝟓
+𝟑
++ 𝟐 है, तो 𝒙𝟑−𝟔𝒙𝟐+ 𝟏𝟐𝒙−𝟏𝟐    का मान है ? 
+(a) 0 
+ 
+ 
+(b) 2 
+ 
+ 
+(c) 1 
+ 
+ 
+(d) – 1 
+164. 
+If √𝒙= √𝟑− √𝟓, then the value of 𝒙𝟐 – 16x +6 is: 
+यदि √𝒙= √𝟑− √𝟓,  है, तो 𝒙𝟐 – 16x +6 का मान है? 
+(a) 0 
+ 
+ 
+(b) 4 
+ 
+ 
+(c) 2 
+ 
+ 
+(d) – 2 
+165. 
+If x = 2 + 22/3 + 21/3, then what is the value of x3 – 6x2 + 6x+18? 
+(a) 30  
+(b) 20  
+(c) 10  
+(d) 22 
+166. 
+If x=𝟕+ 𝟕
+𝟐
+𝟑+ 𝟕
+𝟏
+𝟑, then which of the options below is correct? 
+यदि x=𝟕+ 𝟕
+𝟐
+𝟑+ 𝟕
+𝟏
+𝟑, तो नीचे दिए गए ववकल्पों में से कौन सा ववकल्प सही है?    ( IB ACIO 2023) 
+A) 𝒙𝟑+ 𝟐𝟏𝒙𝟐−𝟏𝟐𝟔𝒙−𝟐𝟓𝟐= 𝟎 
+B) 𝒙𝟑+ 𝟐𝟏𝒙𝟐−𝟏𝟐𝟔𝒙+ 𝟐𝟓𝟐= 𝟎 
+C) 𝒙𝟑−𝟐𝟏𝒙𝟐−𝟏𝟐𝟔𝒙+ 𝟐𝟓𝟐= 𝟎 
+D) 𝒙𝟑−𝟐𝟏𝒙𝟐+ 𝟏𝟐𝟔𝒙−𝟐𝟓𝟐= 𝟎 
+167. 
+If 𝒂= √𝟐
+𝟑
++ √𝟑
+𝟑
++ 𝟏, 𝒕𝒉𝒆𝒏 
+[(𝒂−𝟏)𝟑−𝟓]
+𝟑
+(𝒂−𝟏)𝟑
+=? 
+(a) 165  
+ 
+(b) 162 
+(c) 163 
+ 
+(d) 164 
+168. 
+If x + y = 1 and xy(xy – 2) = 16, then the value of 𝒙𝟒+ 𝒚𝟒=? 
+यदि x + y = 1 और  xy(xy – 2) = 16, तो 𝒙𝟒+ 𝒚𝟒 का मान है? 
+(a) 23  
+ 
+(b) 27  
+ 
+(c) 39  
+ 
+(d) 33 
+169. The term to be added  to 𝟏𝟔𝟗𝒂−𝟐+ 𝟏. 𝟒𝟒𝒃𝟐+ 𝟐𝟕
+𝒃
+𝒂  to make a perfect square? 
+ 𝟏𝟔𝟗𝒂−𝟐+ 𝟏. 𝟒𝟒𝒃𝟐+ 𝟐𝟕
+𝒃
+𝒂 को पूणग वगग बनाने के लिए इसमे कौन स पि जोड़ा जाना चादहए? 
+a) 1.2ab 
+b) 3.2b𝒂−𝟏 
+c) 4.5𝒂−𝟏𝒃 
+d) 4.2b𝒂−𝟏 
+ 
+ 
+ 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+170. 
+For what value(s) of k will the expression p + 
+𝟏
+𝟗√𝒑 + k² be a perfect square? 
+k ds fdl eku@fdu ekuksa ds fy, O;atd p + 
+𝟏
+𝟗√𝒑 + k² ,d iw.kZ oxZ gksxk\ 
+(a) 
+k = ± 
+𝟏
+𝟖 
+(b) 
+k = ± 
+𝟏
+𝟗 
+(c) 
+k = ± 
+𝟏
+𝟐𝟏 
+(d) 
+k = ± 
+𝟏
+𝟏𝟖 
+171. 
+If √𝒙𝟐+ 𝟑𝒙+ 𝟑𝟖  + √𝒙𝟐+ 𝟑𝒙−𝟏𝟕  = 11 then, 
+               Find √𝒙𝟐+ 𝟑𝒙+ 𝟑𝟖  − √𝒙𝟐+ 𝟑𝒙−𝟏𝟕  =? 
+a)4            b)5              c)6               d)7 
+172. 
+If √𝟖𝒙𝟑+ 𝟓𝟑𝒙𝟐−𝟕𝟏𝒙+ 𝟔𝟎 + √𝟖𝒙𝟑+ 𝟓𝟑𝒙𝟐−𝟕𝟏𝒙−𝟗𝟑 =17, then find  
+√𝟖𝒙𝟑+ 𝟓𝟑𝒙𝟐−𝟕𝟏𝒙+ 𝟔𝟎 −√𝟖𝒙𝟑+ 𝟓𝟑𝒙𝟐−𝟕𝟏𝒙−𝟗𝟑 =? 
+a) 8 
+                 b) 7 
+           c) 10 
+ 
+      d) 9 
+173. 
+If √𝒕+ 𝟒𝟎
+𝟑
+ − √𝒕−𝟐𝟎
+𝟑
+ = 5, then 
+ √(𝒕+ 𝟒𝟎)𝟐
+𝟑
+ + √(𝒕−𝟐𝟎)𝟐
+𝟑
+ +√(𝒕+ 𝟒𝟎)(𝒕−𝟐𝟎)
+𝟑
+ =?  
+(a) 14                  (b) 12                  (c) 10                 
+(d) 18 
+174. 
+If p=999, then the value of √𝒑(𝒑𝟐+ 𝟑𝒑+ 𝟑) + 𝟏
+𝟑
+ is  
+a) 1000               b) 999                  c) 998 
+                  d) 1002 
+175. 
+If p=101, then the value of √𝒑(𝒑𝟐−𝟑𝒑+ 𝟑) −𝟏
+𝟑
+ is  
+a) 100                 b) 101                c) 102 
+                   d) 1000 
+176. 
+If p=127, then the value of √𝒑(𝒑𝟐−𝟔𝒑+ 𝟏𝟐) −𝟖
+𝟑
+ is  
+a) 5               b) 125                  c) 129 
+                  d) 25 
+ 
+177. 
+Find the value of  
+𝒎(𝒎𝟐+𝟑𝒎+𝟑)+𝟏
+𝒎(𝒎+𝟐)+𝟏
+ when m = 87. 
+;fn m = 87 gS] rks 
+𝒎(𝒎𝟐+𝟑𝒎+𝟑)+𝟏
+𝒎(𝒎+𝟐)+𝟏
+ dk eku Kkr dhft,A 
+(a) 
+88 
+(b) 
+87 
+(c) 
+90 
+(d) 
+96 
+178. 
+What is the value of 64x3 + 38x2y + 20xy2 + y3, when x = 3 and y = -4? 
+x = 3 और y = -4 होिे पर 64x3 + 38x2y + 20xy2 + y3 का माि ज्ञात कीजिए: 
+(a) 1236 
+(b) 488 
+(c) 536 
+(d) 1256 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+179. 
+If x + y = 14, then the value of x³ + y³ + 42xy is: 
+;fn x + y = 14 gS] rks x³ + y³ + 42xy dk eku----------------- gSA 
+(a) 
+2744 
+(b) 
+2644 
+(c) 
+2742 
+(d) 
+2714 
+180. 
+If y = 2x + 1, then what is the value of (8x³ – y³ + 6xy)? 
+;fn y = 2x + 1 gS] rks (8x³ – y³ + 6xy) dk eku Kkr djsaA 
+(a)–15 
+ (b)1 
+ 
+(c)–1 
+ 
+(d)15 
+ 
+ 
+                                                                                     GAGAN PRATAP MATHS 
+181. 
+If x = √𝟐 + 1 and y = 
+√𝟐
+𝟑, then what is the value of  (x–2y–1) (x²+4y²+2xy–2x–2y+1)? 
+;fn x = √𝟐 + 1 vkSj y = 
+√𝟐
+𝟑 gS] rks (x–2y–1) (x²+4y²+2xy–2x–2y+1) dk eku D;k gS\ 
+(a) 
+𝟑𝟖√𝟐
+𝟐𝟕 
+(b) 
+𝟒√𝟐
+𝟑 
+(c) 
+𝟏𝟑√𝟐
+𝟗 
+(d) 
+𝟒𝟎√𝟐
+𝟐𝟕 
+182. 
+if 4x + 3a = 0 then what is the value of 
+𝒙𝟐+𝒂𝒙+𝒂𝟐
+𝒙𝟑−𝒂𝟑
+−
+(𝒙𝟐−𝒂𝒙+𝒂𝟐)
+𝒙𝟑+𝒂𝟑
+ 
+ 
+;fn 4x + 3a = 0  rks 
+𝒙𝟐+𝒂𝒙+𝒂𝟐
+𝒙𝟑−𝒂𝟑
+−
+(𝒙𝟐−𝒂𝒙+𝒂𝟐)
+𝒙𝟑+𝒂𝟑
+ dk eku D;k gksxk\ 
+               (A) −
+𝟑𝟐
+𝟕𝒂                (B) 
+𝟕
+𝒂                (C) −
+𝟒
+𝟕𝒂              (D) 
+𝟐𝟒
+𝟕𝒂 
+183. 
+If 𝒙𝟐= 𝟏𝟕𝒙+ 𝒚, 𝒚𝟐= 𝒙+ 𝟏𝟕𝒚 𝒂𝒏𝒅 𝒙≠𝒚, then find √𝒙𝟐+ 𝒚𝟐+ 𝟏? 
+यजि 𝒙𝟐= 𝟏𝟕𝒙+ 𝒚, 𝒚𝟐= 𝒙+ 𝟏𝟕𝒚 और 𝒙≠𝒚, तो √𝒙𝟐+ 𝒚𝟐+ 𝟏 ज्ञात कीजिये ? 
+A)15               B)16        C)17        D)18 
+184. 
+If  𝒂+ 𝒃= 𝟏 𝒂𝒏𝒅 𝒂𝟐+ 𝒃𝟐= 𝟐 𝒂𝒏𝒅 𝒕𝒉𝒆𝒏 𝒇𝒊𝒏𝒅  𝒂𝟓+ 𝒃𝟓 = ? 
+यजि 𝒂+ 𝒃= 𝟏  और 𝒂𝟐+ 𝒃𝟐= 𝟐 तो 𝒂𝟓+ 𝒃𝟓 ज्ञात कीजिए? 
+(a) 
+𝟏𝟕
+𝟒                  
+(b) 
+𝟏𝟗
+𝟒                 
+(c) 
+𝟑𝟕
+𝟖                   
+(d) 
+𝟕
+𝟐                    
+185. 
+If 𝒙+ 𝒚= 𝟏𝟗 & 𝒙𝒚= 𝟗, then find 𝒙√𝒙+ 𝒚√𝒚? 
+यदि 𝒙+ 𝒚= 𝟏𝟗 & 𝒙𝒚= 𝟗 है, तो 𝒙√𝒙+ 𝒚√𝒚 ज्ञात कीजिये? 
+A) 80 
+B) 100 
+C) 125 
+D) 110 
+186. 
+Let a and b be two positive real numbers such that a√𝒂+b√𝒃=32 and a√𝒃+b√𝒂=31. What is the 
+value of 
+𝟓(𝒂+𝒃)
+𝟕
+? 
+(CDS 2019) 
+a और b िो र्नात्मक वास्तववक संख्याएँ हैं, जैसे कक a√𝒂+b√𝒃=32 और  a√𝒃+b√𝒂=31| 
+𝟓(𝒂+𝒃)
+𝟕
+ का मान क्या है  
+(a) 5 
+ 
+(b) 7 
+ 
+(c) 9 
+ 
+(d) Cannot be determined 
+187. 
+What is the value of the following expression? 
+fuEufyf[kr O;atd dk eku D;k gksxk\ 
+2²(
+𝒙𝒂
+𝒙𝒃)
+(𝒂+𝒃)
+ × 3²(
+𝒙𝒃
+𝒙𝒄)
+(𝒃+𝒄)
+ × 6–2(
+𝒙𝒄
+𝒙𝒂)
+(𝒂+𝒄)
+ 
+(a) 
+1 
+(b) 
+0 
+(c) 
+4 
+(d) 
+9 
+ 
+ 
+ 

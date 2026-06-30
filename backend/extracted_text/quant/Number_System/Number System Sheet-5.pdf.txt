@@ -1,0 +1,579 @@
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+1. If 14331433 × 1422 × 1425 is divided by 10, then what is the remainder?  
+यदि 14331433 × 1422 × 1425 को 10 से दिभादित दकया िाता है, तो शेषफल क्या है? 
+(a) 3 
+ 
+ 
+(b) 9 
+ 
+ 
+(c) 0 
+ 
+ 
+(d) 8 
+2. What is the remainder when 𝟕𝟎× 𝟕𝟏× 𝟕𝟐× 𝟕𝟑× 𝟕𝟒× 𝟕𝟓× 𝟕𝟔× 𝟕𝟕× 𝟕𝟖× 𝟕𝟗 is divided by 1000? 
+जब 70×71×72×73×74×75×76×77×78×79 को 1000 से विभाजजत ककया जाता है तो शेषफल क्या होता है?  
+(UPSC CDS-2  2024) 
+A) 3 
+B) 2 
+C) 1 
+D) 0 
+3. What is the smallest natural number n such that 
+ (𝒏+ 𝟏) × 𝒏× (𝒏−𝟏) × (𝒏−𝟐) … … . 𝟑× 𝟐× 𝟏 is divisible by 910? 
+सबसे छोटी प्राकृततक संख्या n क्या है जजससे (n+1)×n×(n-1)×(n-2)…….3×2×1, 910 से विभाज्य हो? (CDS-1 2024) 
+A) 91 
+B) 90 
+C) 13 
+D) 12 
+4. The remainder when 75 × 73 × 78 × 76 is divided by 34 is: 
+75 × 73 × 78 × 76 को 34 से विभाजजत करने पर प्राप् त शेषफल ज्ञात करें- 
+(a) 15  
+ 
+(b) 18  
+ 
+(c) 22  
+ 
+(d) 12 
+5. What is the remainder when the product of 335, 608 and 853  
+is divided by 13? 
+335, 608 vkSj 853 ds xq.kuQy dks 13 ls foHkkftr djus ij çkIr 'ks"kQy D;k gksxk\ 
+(a) 
+11 
+(b) 
+12 
+(c) 
+6 
+(d) 
+7 
+6. Find the remainder: 
+𝟔𝟑𝟓∗𝟔𝟑𝟔∗𝟔𝟑𝟕∗𝟔𝟑𝟖
+𝟗
+ = ? 
+7. Find the remainder: 
+𝟏𝟗𝟗𝟖∗𝟏𝟗𝟗𝟗∗𝟐𝟎𝟎𝟎
+𝟕
+ = ? 
+8. Find the remainder: 
+𝟖𝟕∗𝟖𝟖∗𝟗𝟎∗𝟗𝟏∗𝟗𝟐∗𝟗𝟑
+𝟖𝟗
+ = ? 
+9. Find the remainder: 
+𝟖𝟏𝟔∗𝟖𝟐𝟓∗𝟖𝟐𝟑∗𝟖𝟐𝟕
+𝟖𝟏𝟗
+ = ? 
+10. Find the remainder: 
+𝟐𝟑𝟐∗𝟒𝟑∗𝟐𝟑𝟒𝟕∗𝟒𝟔𝟕𝟏∗𝟔𝟗𝟖𝟖
+𝟐𝟑
+ = ? 
+11. Find the remainder when 49 × 51 × 54 × 37 × 123 is divided by 24. 
+जब 49 × 51 × 54 × 37 × 123 को 24 से विभाजजत ककया जाता है तो शेषफल ज्ञात कीजजए। 
+(RRB RPF SI 2024) 
+ A) 8 
+ B) 4 
+ C) 10 
+ D) 6 
+12. What is the remainder when 𝟗𝟏× 𝟗𝟐× 𝟗𝟑… … … . 𝟗𝟗, is divided by 1261? 
+जब 91×92×93……….99 को 1261 से विभाजजत ककया जाता है, तो शेषफल क्या होगा ? 
+A) 0 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+B) 1 
+C) 2 
+D) 3 
+ 
+13. Find the last 2-digits of: 
+8991 * 3002 * 5989 * 6999 * 7007 = ? 
+ 
+14. Find the remainder: 
+𝟏!+𝟐!+𝟑!+−−−−−−+𝟖𝟖𝟎!
+𝟏𝟐𝟎
+ = ? 
+15. Find the remainder: 
+a)
+𝟑𝟖𝟏𝟎𝟐
+𝟏𝟎𝟑          b) 
+𝟔𝟒𝟑𝟎
+𝟑𝟏            
+16. What is the remainder when 𝟐𝟏𝟎𝟏 is divided by 101? 
+𝟐𝟏𝟎𝟏 को 101 से भाग देने पर शेषफल क्या होगा? 
+(UPSC CDS-1 2025) 
+A) 1 
+B) 2 
+C) 5 
+D) 7 
+17. The remainder when 321 is divided by 5 is : 
+321 को 5 से विभाजजत करने पर शेषफल क्या होगा: 
+a) 1                 b) 2                c) 3               d) 4 
+18. Find the remainder: 
+a)
+𝟕𝟐𝟖𝟓
+𝟐𝟗   c) 
+𝟓𝟒𝟐𝟓𝟑
+𝟒𝟑        e) 
+𝟗𝟏𝟏𝟏
+𝟏𝟑       
+19. Find the remainder of 
+𝟑𝟏𝟐𝟔𝟐𝟎𝟐𝟏𝟐𝟐𝟐𝟑¯ ¯ ¯
+𝟓
+ . 
+(a) 
+4 
+(b) 
+0 
+(c) 
+1 
+(d) 
+2 
+20. What will be the remainder when (265)4081+9 is divided by 266? 
+िब (265)4081+9 को 266 से दिभादित दकया िाए तो शेषफल ज्ञात कीदिये?  
+(a) 8 
+(b) 6 
+(c) 1 
+(d) 9 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+21. If 17200 is divided by 18, the remainder is: 
+यदद 17200 को 18 से विभाजजत ककया जाता है, तो शेषफल है: 
+a) 17             b) 16         c) 1       d) 2 
+22. What will be the remainder when 1112024 is divided by 112? 
+1112024 को 112 से विभाजजत करने पर शेषफल क्या होगा? 
+(RRB RPF SI 2024) 
+ A) 3  
+ B) 2  
+ C) 4  
+ D) 1 
+23. Find the remainder: 
+(a) 
+𝟓𝟗𝟔𝟑𝟕
+𝟓𝟖  
+ 
+(b) 
+𝟗𝟔𝟏𝟑𝟐
+𝟗𝟕 
+(c) 
+𝟏𝟖𝟏𝟕𝟓𝟑
+𝟏𝟖𝟐 
+(d) 
+𝟐𝟓𝟕𝟏𝟎𝟎𝟖
+𝟔𝟒
+ 
+ 
+(e) 
+𝟒𝟕𝟏𝟑𝟒𝟒
+𝟏𝟏𝟖 
+ 
+h) 
+784
+342 
+ 
+24. Find the remainder, if 19200 is divided by 20.  
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+यदद 19200 को 20 से विभाजजत ककया जाए तो शेषफल ज्ञात कीजजए। (SSC CGL 2024 Pre) 
+A) 2  
+B) −1  
+C) 1  
+D) 3 
+25. Find the remainder: शेषफल ज्ञात कीजजए: 
+ (1713 − 21) ÷ 18 
+ 
+(SSC CGL 2024 Pre) 
+A) 15  
+B) 17  
+C) 14  
+D) 21 
+26. If (7777 +77) is divided by 78, then the remainder will be: 
+यदद (7777 +77) को 78 से विभाजजत ककया जाए, तो शेषफल होगा: 
+(SSC CGL 2024 Pre) 
+ A) 76  
+ B) 77  
+ C) 78  
+ D) 1 
+27. If 7101 is divided by 48, the remainder is: 
+यदद 7101 को 48 से विभाजजत ककया जाता है, तो शेषफल है: 
+a) 7             b) 16         c) 18       d) 2 
+28. What is the remainder when (5)501 is divided by  126? 
+जब (5)501 को 126 से विभावजत वकया जाता है, तो शेषफल के रूप में क्या प्राप्त होगा? 
+29. What will be the remainder when (5)501 is divided by 126? 
+ALP 2019  
+(a) 𝟏𝟏𝟕  
+(b) 𝟖𝟗  
+(c) 𝟏𝟐𝟏  
+(d) 𝟏𝟐𝟓 
+30. If 𝟏𝟎𝟔𝟖 is divided by 13, the remainder is? 
+यदद 𝟏𝟎𝟔𝟖 को 13 से विभाजजत ककया जाए तो शेषफल क्या होगा? (CAT 2024) 
+A) 9 
+B) 8 
+C) 4 
+D) 5 
+31. 962 – 11 when divided by 8 would leave a remainder of: 
+962 – 11 जब 8 से विभाजजत ककया जाता है, तो तो शेषफल क्या होगा: 
+a) 5         b) 6        c) 2         d) 3 
+32. What is the sum of the last two digits of the number 𝟕𝟑𝟒𝟒? 
+संख्या  𝟕𝟑𝟒𝟒 के अंततम दो अंकों का योग क्या है? 
+A) 13 
+B) 11 
+C) 1 
+D) 7 
+ 
+33. Find the remainder: 
+(a) 
+𝟏𝟑𝟔𝟓𝟖
+𝟏𝟔𝟖  
+ 
+ 
+(c) 
+𝟕𝟔𝟓𝟔
+𝟒𝟎𝟎 
+ 
+(g)  
+𝟑𝟐𝟑𝟐
+𝟕  
+ 
+` 
+(h) 
+𝟏𝟒𝟑𝟏𝟏𝟑
+𝟐𝟖 
+ 
+ 
+ (j) 
+𝟐𝟔𝟖
+𝟑𝟑          
+ 
+  
+(m) 
+𝟖𝟖𝟖𝟗+𝟐𝟔
+𝟖𝟗
+           
+n) 
+6867−1
+68
+       
+ 
+ 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+34. If x is the remainder when 𝟑𝟔𝟏𝟐𝟖𝟒 is divided by 5 and y is the remainder when 𝟒𝟗𝟔 is divided by 6, 
+then what is the value of (2x-y)? 
+;fn 361284 dks 5 ls foHkkftr fd;k tkrk gS rks शेषफल  x cprk gS vkSj ;fn 496 dks 6 ls foHkkftr fd;k tkrk gS rks शेषफल y cprk gSA (2x – 
+y) dk eku D;k gS\ 
+(a) 4 
+ 
+(b) -2 
+ 
+(c) 2 
+ 
+(d) -4 
+35. What is the remainder when 𝟑𝟐𝟓𝟓 is divided by 28? 
+जब 𝟑𝟐𝟓𝟓  को 28 से विभाजजत ककया जाता है तो शेषफल क्या होता है?  (UPSC CDS-2 2024) 
+A) 1 
+B) 11 
+C) 24 
+D) 27 
+36. Let p be the remainder when 𝟕𝟖𝟒 is divided by 342 and q be the remainder when 𝟕𝟖𝟒 is divided by 
+344. What is (p-q) equal to? 
+मान लीजजए p शेष है जब 𝟕𝟖𝟒 को 342 से विभाजजत ककया जाता है और q शेष है जब 784 को 344 से विभाजजत ककया जाता 
+है। (p-q) ककसके बराबर है? 
+ 
+(UPSC CDS-1 2025) 
+A) 0 
+B) 1 
+C) 6 
+D) 2         
+37. Find the remainder: (Euler’s Remainder Theorem) 
+(a) 
+𝟏𝟑𝟏𝟐𝟕
+𝟒𝟗           
+(b) 
+𝟓𝟕𝟓
+𝟏𝟖  
+ 
+(c) 
+𝟑𝟕𝟏𝟒𝟐
+𝟐𝟓  
+ 
+(d) 
+𝟓𝟑𝟗𝟖
+𝟗𝟎   
+ 
+(f) 
+𝟑𝟐𝟑𝟐𝟑𝟐
+𝟕
+ 
+ 
+(i) 
+𝟑𝟓𝟑𝟑𝟑𝟏
+𝟏𝟔   
+  
+38. Find the remainder:  
+𝟐𝟏𝟎𝟎
+𝟏𝟎𝟐  
+ 
+39. Find the remainder: 
+ (b) 
+𝟐𝟎𝟏𝟎𝟖
+𝟑𝟓  
+ 
+ 
+(c) 
+𝟏𝟓𝟏𝟕𝟗
+𝟓𝟏 
+ 
+(d) 
+𝟖𝟏𝟑𝟎
+𝟒𝟎 
+ 
+40. Find the reminder: 
+𝟏𝟎𝟏+ 𝟏𝟎𝟐+ 𝟏𝟎𝟑+ 𝟏𝟎𝟒+ − − − − − + 𝟏𝟎𝟏𝟎𝟎
+𝟔
+ = ? 
+ 
+41. Find the remainder: 
+𝟏𝟗𝟑+ 𝟐𝟗𝟑+ 𝟑𝟗𝟑+−−−−−+ 𝟖𝟗𝟗𝟑
+𝟗𝟎
+ = ? 
+42. What is the remainder when 7+77+777+7777+....+(till 100 terms) is divided by 8? 
+7+77+777+7777+....+(100 पदो तक) को 8 से विभाजजत करने पर क्या शेषफल है ?  
+(a)6      (b)0      (c)1       (d)7  
+43. The remainder of the item 𝟗+ 𝟗𝟐+ ⋯… … . . +𝟗(𝟐𝒏+𝟏), when divided by 6 is? 
+𝟗+ 𝟗𝟐+ ⋯… … . . +𝟗(𝟐𝒏+𝟏) को 6 से विभाजजत करने पर शेषफल क्या है? 
+A) 4 
+B) 2 
+C) 3 
+D) 1 
+44. The remainder when 𝟑𝟎+ 𝟑𝟏+ 𝟑𝟐+ ⋯… … … . . +𝟑𝟐𝟎𝟎 is divided by 13 is? 
+जब 𝟑𝟎+ 𝟑𝟏+ 𝟑𝟐+ ⋯… … … . . +𝟑𝟐𝟎𝟎 को 13 से विभाजजत ककया जाता है, तो शेष क्या होगा? 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+A) 0 
+B) 3 
+C) 12 
+D) 8 
+45. What is the remainder when 93 + 94 + 95 + 96 + ….9100 is divided by 6? 
+ 
+93 + 94 + 95 + 96 + . . . + 9100 को 6 से भाग देने शेषफल क्या है ? (UPSC CSAT 2025) 
+ 
+(a) 
+0 
+ 
+(b) 
+1 
+ 
+(c) 
+2 
+ 
+(d) 
+3 
+46. A positive integer is said to be prime if it is not divisible by any positive integer other than itself 
+and one. Let K be a prime number strictly greater than 5. When K2+19 is divided by 12, the 
+remainder will be: 
+एक धनात्मक पूर्ाांक को अभाज्य पूर्ाांक कहा जाता है यदि यह स्वयं और एक के अलावा ककसी भी धनात्मक पूर्ाांक से 
+ववभाज्य नहीं है। मान लीजजए कक K एक अभाज्य संख्या है जो 5 से बडी है। जब K2+19 को 12 से ववभाजजत ककया जाता है, 
+तो शेषफल होगा:  
+ 
+ 
+(DP CONSTABLE 2023) 
+A) 7 
+B) 5 
+C) 8 
+D) 1 
+47. If ‘a’ is a natural number, then (7a2+7a right) is always divisible by:  
+यदद 'a' एक प्राकृत संख्या है, तो (7a2+7a) इनमें से ककस संख्या से सदैि विभाज्य है? 
+(a) 7 and 14 both / 7 और 14 दोनों   
+ 
+(b) 7 only / 7 केिल 
+(c) 14 only / 14 केिल 
+ 
+ 
+ 
+(d) 21 only / 21 केिल  
+48. If n is a natural number, then n³ - n is always divisible by _____. 
+यदि n एक प्राकृत संख्या है, तो n³ - n हमेशा _____ से दिभाज्य होता है। 
+RRB NTPC 05/04/2021 (Evening) 
+(a) 4  
+(b) 6 
+ 
+(c) 5  
+(d) 8 
+49. Find the largest number, which exactly divides every number of the form (𝒏𝟑 – n) (n – 2) where n is a 
+natural number greater than 2. 
+यदद  ‘n’ कोई प्राकृततक संख्या( 2से बड़ी)  है, तो ककस सबसे बड़ी संख्या के ललए (n3 – n) ) (n – 2)  हमेशा विभाज्य है 
+a) 6 
+ 
+b) 24 
+ 
+c) 12 
+ 
+d) 48 
+50. What is the largest value of the positive integer k such that k divides 𝒏𝟐(𝒏𝟐-1) (𝒏𝟐-n-2) for every 
+natural number n? 
+(a) 6                (b) 12             (c) 24              (d) 48 
+51. K being any odd number greater than 1, k33 – k is always divisible by: 
+ 
+K ,1 से बड़ी कोई भी विषम संख्या होने पर, k33 – k हमेशा _______ से विभाज्य होगा।         SSC CHSL Pre 2024 
+ 
+[A] 
+24  
+[B] 13 
+ 
+[C]  
+5 
+ 
+[D] 15 
+52. What is the remainder when 727272727272........till 999 terms is divided by 101?  
+727272727272........999 पदो तक को 101 से विभाजजत करने पर क्या शेषफल है ?  
+(a)0      (b)20     (c)27       (d)7  
+ 
+53. A number N is formed by writing 9 for 99 times. What is the remainder if N is divided by 13? 
+9 को 99 बार ललखने पर एक संख्या N बनती है। यदद N को 13 से विभाजजत ककया जाए तो शेषफल क्या होगा? 
+A) 11 
+B) 9 
+C) 7 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+D) 1 
+54. The expression 𝟓𝟓𝟓𝟕𝟕𝟕+ 𝟕𝟕𝟕𝟓𝟓𝟓 is divisible by which of the following? 
+ब्यंजक 𝟓𝟓𝟓𝟕𝟕𝟕+ 𝟕𝟕𝟕𝟓𝟓𝟓 तनम्नललखखत में से ककससे विभाज्य है? 
+I. 
+2 
+II. 
+3 
+III. 
+37 
+Select the correct answer using the code given below: 
+नीचे ददए गए कोड का उपयोग करके सही उत्तर चुनें: (CDS-1 2024) 
+ 
+A) I and II only 
+B) II and III only 
+C) I and III only 
+D) I, II and III 
+A) 6 
+55. If n is a positive number, then what is the sum of all the distinct remainders obtained by dividing 
+𝟒𝒏+ 𝟔𝒏+ 𝟗𝒏+ 𝟏𝟏𝒏 by 10, for different values of n? 
+यदद n एक धनात्मक संख्या है, तो n के विलभन्न मानों के ललए 𝟒𝒏+ 𝟔𝒏+ 𝟗𝒏+ 𝟏𝟏𝒏 को 10 से विभाजजत करने पर प्राप्त सभी 
+विलभन्न पररणामों का योग क्या है? (CDS-1 2024) 
+A) 3 
+B) 4 
+C) 6 
+D) 7 
+56. 64329 is divided by a number then there are 3 consecutive remainders 175, 114 and 213. Find the 
+sum of digits of that divisor. 
+64329 को एक संख्या से विभाजजत ककया जाता है कफर 3 लगातार शेषफल 175, 114 और 213 हैं। उस भाजक के अंकों का 
+योग ज्ञात कीजजए। 
+a) 7              b) 9             c) 8                  d) 11 
+57. Find the least number when divide successively by 5, 3, 7 leaves the remainder 2, 1, 2? 
+िह छोटी से छोटी संख्या ज्ञात कीजजए जब क्रमिक रूप से 5, 3, 7 से भाग देने पर 2, 1, 2 शेष बचे? 
+A) 37 
+B) 141 
+C) 46 
+D) 51 
+58. Find the number when successively divided by 3,5and 7 leaves remainder 2,1and 3, respectively, and 
+the last quotient is 3. 
+िह संख्या ज्ञात कीजजए जजसे क्रलमक रूप से 3, 5 और 7 से भाग देने पर क्रमशः 2, 1 और 3 शेषफल प्राप्त होता है, और अंततम भागफल 3  प्राप्त 
+होता है ?   SSC CHSL PRE 2024  
+        [A]360 
+[B] 362 
+ 
+[C]365 
+[D] 367 
+59. After the division of a number successively by 2,3 and 5, the remainders are 1,2 and 3, respectively. 
+What will be the remainder, if 13 divides the same number (if the last quotient is 1)? 
+ककसी संख्या को क्रमशः 2, 3 और 5 से भाग देने पर शेषफल क्रमशः 1, 2 और 3 प्राप्त होता है। यदद उसी संख्या को 13 से भाग ददया जाए, तो 
+शेषफल क्या प्राप्त होगा? ( यदद अंततम भागफल 1 है ) 
+ 
+             SSC CHSL PRE 2024 
+ 
+[A] 
+1 
+ 
+[B] 2 
+[C] 
+0 
+ 
+[D] 3 
+ 
+ 
+ 
+ 
+                                  
+                                   BY:-GAGAN PRATAP  
+60. A number divided by 13 leaves a remainder 1 and if the quotient, thus obtained, is divided by 5, we 
+get a remainder of 3. What will be the remainder if the number is divided by 65? 
+13 से विभाजजत एक संख्या शेष 1 छोड़ती है और यदद, इस प्रकार जो भागफल प्राप्त होता है, 5 से विभाजजत ककया जाता है, हमें शेष 
+3 लमलता है। संख्या 65 से विभाजजत होने पर शेषफल क्या होगा? 
+a) 28 
+ 
+b) 16 
+ 
+c) 18 
+ 
+d) 40 
+ 
+61. When a number is successively divided by 3, 4 and 7, the remainders obtained are 2, 3 and 5, 
+respectively. What will be the remainder when 84 divides the same number? 
+जब ककसी संख्या को क्रमशः 3, 4 और 7 से विभाजजत ककया जाता है, तो क्रमशः 2,3 और 5 शेषफल प्राप्त होता है। जब उसी 
+संख्या को 84 से विभाजजत ककया जाए, तो प्राप्त शेषफल ज्ञात करें। 
+(a) 71  
+ 
+(b) 30  
+ 
+(c) 48  
+ 
+(d) 53 
+ 
+62. If the number is successively divided by 7, 4 and 3 leaves remainder 5, 3 and 2 respectively. If the 
+order of divisor are reversed then what will be the remainder? 
+यदद एक संख्या क्रलमक रूप से 7, 4 और 3 से विभाजजत ककया जाता है तो क्रमशः 5, 3 और 2 शेष हैं। यदद विभाजक का क्रम 
+उलट जाता है तो क्रलमक शेष क्या होगा? 
+a) 1,3,6              b) 2,4,3            c) 0,2,6            d) 1,3,5 
+63. Successive division of a number by 2, 3, 5 and 7 gives remainders 1,4,0 and 5, respectively. What 
+will be the sum of the remainders if the same number is divided by 7, 5,3 and 2 successively? 
+ 
+ककसी संख्या को 2, 3, 5 और 7 से क्रलमक रूप से विभाजजत करने पर क्रमशः 1,4,0 और 5 शेषफल प्राप्त होता है। यदद उसी 
+संख्या को क्रमशः 7, 5,3 तथा 2 से विभाजजत ककया जाए तो शेषफल का योग क्या होगा? 
+ 
+ 
+ 
+ 
+SSC CHSL PRE 2024 
+ 
+[A] 
+8 
+ 
+[B]9 
+ 
+[C] 
+10  
+[D]17 
+ 
+64. How many numbers of three digits are possible which when divided successively by 4, 7 and 6 
+leaves remainder 1, 4 and 3 respectively? 
+तीन अंकों की ऐसी ककतनी संख्याएँ संभि हैं, जजन्हें क्रमिक रूप से 4, 7 और 6 से विभाजजत करने पर क्रिशः 1, 4 और 3 शेष बचता 
+है? 
+A) 4 
+B) 7 
+C) 5 
+D) 6 
+65. When a number ‘X’ is successively divided by  9 ,8 and 7 it gives remainder 4 ,5 and 3 respectively. 
+Find that value of X such that it lies between 5200 and 5400? 
+जब कोई संख्या 'X' क्रलमक रूप से 9, 8 और 7 से विभाजजत होती है तो यह क्रमशः 4, 5 और 3 शेष देती है। X का िह  मान 
+ज्ञात कीजजए  जो 5200 और 5400 के बीच है? 
+ a)5305               b)5314                  c)5286               d)none 
+ 
+ 
+ 

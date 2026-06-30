@@ -1,0 +1,387 @@
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+1. 𝟑𝟐𝟓+ 𝟐𝟐𝟕 is divisible by? 
+𝟑𝟐𝟓+ 𝟐𝟐𝟕 किससे विभाज्य है? (UPSC CSAT 2024) 
+A) 3 
+B) 7 
+C) 11 
+D) 10 
+2. Which of the following numbers will completely divide 412 + 413 + 414 + 415? 
+fuEufyf[kr esa ls dkSu&lh la[;k 412 + 413 + 414 + 415 dks iw.kZr% foHkkftr djsxh\  
+(a) 3 
+(b) 7 
+(c) 11 
+(d) 17 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+3. 𝟓𝟕𝟏+ 𝟓𝟕𝟐+ 𝟓𝟕𝟑+ 𝟓𝟕𝟒+ 𝟓𝟕𝟓 is divisible by which of the following number? 
+𝟓𝟕𝟏+ 𝟓𝟕𝟐+ 𝟓𝟕𝟑+ 𝟓𝟕𝟒+ 𝟓𝟕𝟓 दिए गए दिकल्पों में से दकस संख्या से दिभाज्य है? 
+(a)71 
+ 
+(b)69 
+ 
+(c)89 
+ 
+(d)73 
+ 
+4. If a number P is divisible by 2 and another number Q is divisible by 3, then which of the 
+following is true? 
+;fn la[;k P, 2 ls foHkkT; gS vkSj la[;k Q, 3 ls foHkkT; gS] rks fuEu eas ls dkSu lk dFku lR; gS\ 
+(a) 
+P × Q is divisible by 6/ P × Q 6 ls foHkkT; gSA 
+(b) 
+P + Q is divisible by 6/ P + Q 6 ls foHkkT; gSA 
+(c) 
+P + Q is divisible by 5/ P + Q 5 ls foHkkT; gSA 
+(d) 
+P × Q is divisible by 5/ P × Q 5 ls foHkkT; gSA 
+5. A seven-digit number is divisible by 77. If 91 is added to this number, the resulting number is always divisible by 
+which of the following numbers? 
+सात अंकों की एक संख्या 77 से दिभाज्य है। यदि इस संख्या में 91 जोड़ दिया जाए, तो परिणामी संख्या सिैि दिम्िदिदित में से दकस संख्या से दिभाज्य होगी ? 
+ (RPF CONSTABLE 2025 
+a)  7 
+b)  77 
+c)  13 
+d)  91 
+6. A number when divided by 78 gives the quotient 280 and the remainder 67. If the same number 
+is divided by 65, What will be the value of the remainder? 
+,d la[;k dks 78 ls Hkkx nsus ij HkkxQy 280 rFkk “ks’kQy 67 izkIr gksrk gSA ;fn mlh la[;k dks 65 ls Hkkx fn;k tk,] rks “ks’k Qy dk eku D;k 
+gksxk\ 
+(a) 0    
+(b) 2           (c) 1                     (d) 3 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE 
+7. On dividing 346024 by a certain number, the quotient is 2435 and the remainder is 254. 
+Find the divisor? 
+346024 िो एि निश्चित संख्या से विभाश्ित िरिे पर, भागफल 2435 है और शेष 254 है। भािि ज्ञात िरें? 
+A) 152 
+B) 142 
+C) 122 
+D) 132 
+8. The divisor is 10 times the quotient and 5 times the remainder in a division sum. What is the 
+dividend if the remainder is 46? 
+Hkkxkdkj ds ,d loky esa] Hkktd] HkkxQy dk 10 xquk vkSj “ks’kQy dk 5 xquk gSA ;fn “ks’kQy 46 gS rks HkkT; D;k gksxk\ 
+(a) 5336 
+(b) 4286 
+(c) 5972 
+(d) 4874 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+9. When a number x is divided by a divisor it is seen that the divisor = 4 times the quotient = 
+double the remainder. If the remainder is 80 then the value of x is  
+ 
+;fn fdlh संख्या x dks fdlh foHkktd ls foHkkftr fd;k tkrk gS rks foHkktd = HkkxQy dk 4 xq.kk = शेष dk nqxquk gksrk gSA ;fn शेष 80 gks 
+rks x dk eku crkb,\ 
+(a)6480 
+(b)9680 
+(c)8460 
+(d)4680 
+ 
+ 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+10. When the integer n is divided by 18, the quotient is x and the remainder is 6, When the 
+integer n is divided by 25, the quotient is y and the remainder is 15. Which of the following 
+is true? 
+िब पूर्ाांि n िो 18 से विभाश्ित किया िाता है, तो भागफल x होता है और शेषफल 6 होता है, िब पूर्ाांि n िो 25 
+से विभाश्ित किया िाता है, तो भागफल y होता है और शेषफल 15 होता है। निम्िललखित में से िौि सा सत्य है? 
+(SSC CHSL PRE 2024) 
+A) 25y+18x=9 
+B) 25y-18x=9 
+C) 18x+25y =9 
+D) 18x-25y =9 
+11. In a division sum, the divisor is 4 times the quotient and twice the remainder. If a and b are 
+respectively the divisor and the dividend, then 
+ 
+foHkktu ds ,d ç”u esa] Hkktd HkkxQy dk 4 xq.kk gS vkSj शेषफल dk nqxqukA ;fn a vkSj b Øe”k% Hkktd vkSj HkkT; gSa] rks  
+(𝒂) 
+𝟒𝒃−𝒂𝟐
+𝒂
+ = 3 
+ 
+          (b)
+𝟒𝒃−𝟐𝒂
+𝒂𝟐 = 2  
+ 
+(c)(a+1)2 = 4b  
+ 
+(d)
+𝒂(𝒂+𝟐)
+𝒃
+ = 4 
+12. Two positive numbers differ by 2001. When the large number is divided by the smaller number, 
+the quotient is 9 and the remainder is 41. The sum of the digits of the large number is: 
+nks èkukRed la[;kvksa esa 2001 dk varj gSA cM+h la[;k िो छोटी संख्या   ls foHkkftr djus ij HkkxQy 9 vkSj शेषफल 41 cprk gSA cM+h la[;k 
+ds vadksa dk ;ksx D;k gksxk\ 
+(a) 11 
+ 
+ 
+ 
+(b) 10 
+(c) 15 
+ 
+ 
+ 
+(d) 14 
+13. A number ‘y’ when divided by 225 leaves 33 as the remainder. The same number when divided 
+by 15 leaves ‘z’ as the remainder. The value of z is: 
+,d la[;k 'y' dks 225 ls foHkkftr djus ij 'ks"kQy 33 cprk gSA ogh la[;k tc 15 ls foHkkftr dh tkrh gS] rks 'ks"kQy 'z' cprk gSA z dk eku 
+---------------------- gSA 
+(a)1 
+(b)3 
+    (c)4  
+(d)2 
+14. A number when divided by 899 gives a remainder 63. If the same number is divided by 29, 
+the remainder will be : 
+एि संख्या िो 899 से विभाश्ित होिे पर शेषफल 63 देती है। यदद समाि संख्या िो 29 से विभाश्ित किया िाता है, तो 
+शेषफल क्या होगा : 
+a) 5       b) 3       c) 4      d) 8 
+15. If a number is divisible by 624, the remainder will be 53. If the same number is divisible by 
+16, then the remainder will be: 
+;fn fdlh la[;k dks 624 ls foHkftr fd;k tkrk gS rks 'ks"kQy 53 izkIr gksrk gSA ;fn mlh la[;k dks 16ls foHkkftr fd;k tk, rks 'ks"kQy D;k gksxk\ 
+ 
+(a)7 
+ (b)6 
+ 
+(c)4 
+ 
+(d)5 
+16. A number when divided by 442  gives a remainder of 49. Find the remainder when it is divided 
+by 39. 
+,d la[;k dks 442 ls Hkkx nsus ij 49 शेषफल आता gSA Kkr dhft, fd 39 ls foHkkftr djus ij fdruk शेषफल cpsxk \ 
+ 
+ 
+(A) 10 
+ 
+(B) 9 
+ 
+(C) 11 
+ 
+(D) Cannot be  determined 
+ 
+17. If a number is divided by 129 leaves remainder 27 if 4 times of this number is divided by 86 
+then what will be the remainder? 
+यदद किसी संख्या िो 129 से भाग ददया िाता है तो शेष 27 बिता है,  यदद इस संख्या िे 4 गुर्ा िो 86 से 
+विभाश्ित किया िाता है तो शेषफल क्या होगा? 
+a)19                   b)22                 c)23                      d)25 
+ 
+18. If 5 divided the integer n, the remainder is 2. What will be the remainder if 7n is divided by 
+5? 
+यदि पूर्णांक n को 5 से दिभणदित दकयण िणतण है, तो शेषफल 2 प्रणप् त होतण है। यदि 7n को 5 से दिभणदित दकयण िणए तो शेष 
+क् यण प्रणप् त होगण? 
+(A) 1 
+ 
+ 
+(B) 3 
+ 
+ 
+(C) 2 
+ 
+ 
+(D) 4 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+19. If 7 divides the integer n, then the remainder is 2. What will be the remainder if 9n is divided 
+by 7? 
+;fn 7 ls iw.kkZad n dks Hkkx nsrs gSa] rks “ks’kQy 2 cprk gSA ;fn 7 ls 9n dks Hkkx fn;k tkc rks “ks’kQy D;k gksxk\ 
+(a) 5 
+          (b) 3  
+       (c) 1                 (d) 4 
+ 
+ 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+20. When a number is divided by 14, the remainder is 9. If the square of the same number is divided by 14, then the 
+remainder will be: 
+िब किसी संख्या िो 14 से विभाश्ित किया िाता है, तो शेशफल 9 प्राप्त होता है। यदद उसी संख्या िे िगग िो 14 से विभाश्ित 
+किया िाए, तो शेशफल होगा? 
+(a) 11 
+ 
+ 
+(b) 9 
+ 
+ 
+(c) 10 
+ 
+ 
+(d) 8 
+21. If a number is divided by 21, it leaves remainder 13. If the thrice of square of this number is 
+divided by same divisor, then find the remainder. 
+यदद किसी संख्या िो 21 से विभाश्ित किया िाता है, तो  शेष 13  बिता है यदद इस संख्या िे िगग िे नतगुिे िो उसी 
+भािि से विभाश्ित किया िाता है, तो शेषफल ज्ञात िीश्िए। 
+a)1                     b)5                     c)4                        d)3 
+22. When a positive integer 'n' is divided by 12, the remainder is 5. What will be the remainder if 
+8n² + 7 is divided by 12? 
+tc /kukRed iw.kkZad 'n' dks 12 ls foHkkftr fd;k tkrk gS] 'ks"kQy 5 çkIr gksrk gSA ;fn 8n² + 7 dks 12 ls foHkkftr fd;k tkr gS] rks fdruk 'ks"kQy 
+çkIr gksxk\ 
+ (a)2               (b)5               (c)3            (d)4 
+23. A number 'n' when divided by 6 leaves remainder 2. What will be the remainder when  (n² + n + 2) is divided by 6? 
+,d la[;k 'n' dks 6 ls foHkkftr djus ij 2 'ks"kQy çkIr gksrk gSA (n²+n+2) dks 6 ls foHkkftr djus ij 'ks"kQy D;k çkIr gksxk\ 
+(a)4               (b)6             (c)0                  (d)2 
+24. If 7 divided a positive integer n, the remainder is 2. Which of the following numbers gives a 
+remainder of 0 when divided by 7? 
+यदि  धनणत्मक पूर्णांक n को 7 से दिभणदित दकयण िणतण है, तो  शेषफल 2 प्रणप्त होतण  है  दनम्न में से कौन सी संख्यण 7 से 
+दिभणदित होने पर  शेषफल  0 प्रणप्त होतण है? 
+a) n + 2       
+b) n +5 c) n -5  
+d) n + 1 
+25. When two numbers are separately divided by 44, the remainders are 11 and 38, respectively. 
+If the sum of the two numbers is divided by 44, then the remainder will be: 
+nks la[;kvksa dks 44 ls foHkkftr djus ij çkIr 'ks"kQy Øe'k% 11 vkSj 38 gSaA ;fn mu nksuksa la[;kvksa ds ;ksx dks 44 ls foHkkftr fd;k tk,] rks çkIr 
+'ks"kQy-------------gksxkA 
+(a)16             (b)44                (c)33              (d)5 
+26. There are two natural numbers x and y, where x>y. when x is divided by 6, it leaves the 
+remainder 2 and when y is divided by 6, it leaves the remainder 3. What is the remainder when 
+(x-y) is divided by 6? 
+दो प्राकृत संख्याएँ x और y हैं, जहाँ x>y है। जब x को 6 से विभाजजत ककया जाता है, तो शेष 2 बचता है और जब y को 6 से 
+विभाजजत ककया जाता है, तो शेष 3 बचता है। (x-y) को 6 से विभाजजत करने पर शेषफल क्या होता है? 
+A) 1 
+B) 3 
+C) 5 
+D) Remainder cannot be determined 
+27. There are two natural numbers m and n (m>n). when m is divided by 12, it leaves a 
+remainder 4. When n is divided by 12, it leaves a remainder 6. Which of the following 
+statement are correct? 
+I. 
+The remainder when (m+n) is divided by 12 is 10. 
+II. 
+The remainder when (m-n) is divided by 12 is 10. 
+Select the correct answer using the code given below: 
+दो प्रािृनति संख्याएँ m और n (m>n) हैं। िब m िो 12 से विभाश्ित किया िाता है, तो शेष 4 बिता है। िब n िो 
+12 से विभाश्ित किया िाता है, तो शेष 6 बिता है। निम्िललखित में से िौि सा िथि सही है? 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+I. 
+ (m+n) िो 12 से भाग देिे पर शेषफल 10 आता है। 
+II. 
+(m-n) िो 12 से भाग देिे पर शेषफल 10 आता है। 
+िीिे ददए गए िोड िा उपयोग िरिे सही उत्तर िुिें: 
+(UPSC CDS-1 2025) 
+A) I only 
+B) II only 
+C) Both I and II 
+D) Neither I nor II 
+28. The remainder on dividing given integers  a and b by 8 are respectively 5 and 7 .what is the 
+remainder when ab is divided by 8 ? 
+ददए गए पूर्ाांिों  a और b िो 8 से विभाश्ित िरिे पर शेष क्रमशः 5 और 7 है। िब ab िो 8 से विभाश्ित किया िाता है 
+तो शेष क्या होगा ? 
+a)3                     b)2                  c)1              d)4 
+29. When positive numbers x, y and z are divided by 31, the remainders are 17, 24 and 27, 
+respectively. When (4x – 2y + 3z) is divided by 31, the remainder will be: 
+िब धिात्मि संख्या x, y और z िो 31 से विभाश्ित् किया िाता है, तो क्रमशः 17, 24 और 27 शेषफल प्राप्त होता है। िब 
+(4x – 2y + 3z) िो 31 से विभाश्ित किया िाता है, तो प्राप्त शेषफल ज्ञात िीश्िए। 
+(a) 9 
+ 
+ 
+(b) 8 
+ 
+ 
+(c) 16 
+ 
+ 
+(d) 19 
+30. When positive numbers a, b and c are divided by 39, the remainders are 9, 7 and 10, 
+respectively. What will be the remainder when (a + 2b + 5c) is divided by 13? 
+िब धिात्मि संख्या a, b और c िो 39 से विभाश्ित किया िाता है, तो क्रमशः 9,7 और 10 शेषफल प्राप्त होता है। िब 
+(a+2b+5c) िो 13 से विभाश्ित किया िाता है, तो प्राप्त शेषफल ज्ञात िरें। 
+(a) 10 
+ 
+ 
+(b) 5 
+ 
+ 
+(c) 9 
+ 
+ 
+(d) 8 
+31. WHEN A POSITIVE INTEGER IS DIVIDED BY d, THE REMAINDER IS 15, WHEN TEN TIMES OF 
+THE SAME NUMBER IS DIVIDED BY d, THE REMAINDER IS 6. THE LEAST POSSIBLE VALUE 
+OF d IS? 
+िब किसी धि पूर्ागि िो d से विभाश्ित िरते है तो शेषफल 15 प्राप्त होता  है।  िब उसी संख्या िे दस गुिे िो d  
+से विभाश्ित िरते है तो शेषफल 6 प्राप्त होता है d िा न्यूितम सम्भि माि ज्ञात िीश्िये? 
+a) 9 
+ 
+b) 16 
+ 
+c) 18 
+ 
+d) 12 
+32. When a positive integer is divided by D, the remainder is 25. When 8 times the same number 
+is divided by D, the remainder is 8. Find the least possible value of D? 
+िब एि धिात्मि पूर्ाांि िो D से विभाश्ित किया िाता है, तो शेष 25 प्राप्त होता है। िब उसी संख्या िे 8 गुिे िो 
+D से विभाश्ित किया िाता है, तो शेषफल 8 प्राप्त होता है। D िा न्यूितम संभि माि ज्ञात िीश्िए? 
+A) 28 
+ 
+ 
+ 
+ 
+C) 24 
+B) 36 
+ 
+ 
+ 
+ 
+D) 32 
+33. A number when divided by 31 leaves a remainder of 3. If the same number when divided by 
+93 leaves a remainder of r, how many possible values can r assume? 
+ककसी संख्या को 31 से विभाजजत करने पर 3 शेष बचता है। यदद उसी संख्या को 93 से विभाजजत करने पर शेषफल r मिलता 
+है, तो r के ककतने संभावित िान हो सकता है? 
+A) 4 
+B) 2 
+C) 3 
+D) 5 
+34. A number when divided by 18 leaves a remainder 7. The same number when divided by 12 
+leaves a remainder N. How many values of N are possible? 
+एि संख्या िो 18 से विभाश्ित िरिे पर शेषफल 7 प्राप्त होता है। िही संख्या िब 12 से विभाश्ित होती है तो शेषफल 
+N प्राप्त होता है। N िे कितिे माि संभि हैं? 
+A) 2 
+ 
+ 
+ 
+ 
+C) 1 
+B) 0 
+ 
+ 
+ 
+ 
+D) 3 
+35. If a number ‘N’ is divided by a divisor ‘D’ of 2-digit gives a remainder 68. If 5N is divided by 
+D, it gives remainder 8, then, find value of D? 
+ 
+Join Our Telegram Channel - https://t.me/mathsbygaganpratap  
+ 
+ यदद संख्या ’N 'िो 2-अंिों िे भािि  D' से विभाश्ित किया िाता है, तो िह शेष 68  बिता है । यदद 5N िो D' से 
+विभाश्ित किया िाता है, तो  शेष 8 बिता है  | D िा माि ज्ञात िरो? 
+   a)83                 b)68                     c)76                 d)85 
+ 
+36. When a number is divided by divisor D, it leaves a remainder 10 and 𝑵𝟐 is divided by D 
+leaves remainder 4. How many values of D are possible? 
+िब किसी संख्या िो भािि D से विभाश्ित किया िाता है, तो  शेष 10 बिता है और 𝑵𝟐 िो D से भाग से विभाश्ित 
+किया िाता है तो  शेष 4  बिता है । D िे कितिे माि संभि हैं? 
+       a)5               b)4                  c)6                  d)7 
+37. When a number is divided by a certain divisor, the remainder is 46. If another number is 
+divided by same divisor, it leaves remainder 31. If the sum of both the numbers is divided by 
+the same divisor, it gives remainder 19. Find divisor. 
+िब किसी संख्या िो एि निश्चित भािि द्िारा विभाश्ित किया िाता है, तो शेष 46 होता है। यदद किसी अन्य संख्या 
+िो उसी भािि से विभाश्ित किया िाता है, तो िह शेष 31 छोड़ देता है। यदद दोिों संख्याओं िा योग उसी भािि से 
+विभाश्ित किया िाता है, तो यह शेष 19 देता है। भािि िा पता लगाएं। 
+a)56                       b)50                     
+c)58                       d)64 
+ 
+ 

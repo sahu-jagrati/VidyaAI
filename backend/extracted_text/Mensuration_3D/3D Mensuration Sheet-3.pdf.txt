@@ -1,0 +1,702 @@
+ 
+                                         BY Gagan Pratap 
+ 
+1. If the ratio of the volumes of two cones is 11 : 
+16 and the ratio of the radii of their bases is 
+3:4, then the ratio of their heights will be: 
+;fn nks 'kadqvksa ds vk;ruksa dk vuqikr 11 : 16 gS vkSj muds vk/kkjksa dh 
+f=T;kvksa dk vuqikr 3 : 4 gS] rks mudh Å¡pkbZ dk vuqikr gksxk& 
+(a) 
+11 : 9 
+(b) 
+4 : 11 
+(c) 
+3 : 16 
+(d) 
+9 : 11 
+(SSC CPO 2023) 
+2. If S denotes the area of the curved surface of a 
+right circular cone of height h and semivertical 
+angle α then S equals? 
+S किसी शंिु िे वक्र पृष्ठ क्षेत्रफल िो व्यक्त िरता है, h ऊंचाई िो 
+और α अर्ध शीर्ध िोण िो व्यक्त िरता है तब S िा मान होगा? 
+a)πh2tan2α              b)
+𝟏
+𝟑πh2tan2α      
+c)πh2secαtanα       d)
+𝟏
+𝟑πh2secαtanα 
+3. Find the curved surface area of a cone, if its 
+slant height is 54 cm and the radius of its 
+base is 21 cm? 
+एि शंिु िा वक्र पृष्ठीय क्षेत्रफल ज्ञात िीजिए, यदि 
+इसिी ततरछी ऊंचाई 54 सेमी है और इसिे आर्ार िी 
+त्रत्रज्या 21 सेमी है? 
+ 
+ 
+DSSB ASSISTANT GRADE-III 2024 
+A) 2060 𝒄𝒎𝟐 
+B) 3115 𝒄𝒎𝟐 
+C) 3564 𝒄𝒎𝟐 
+D) 3015 𝒄𝒎𝟐 
+4. The circumference of base of a right circular 
+cone is 88 cm. If the height of the cone is 28 
+cm, then what is the curved surface area of the 
+cone? 
+,d yEco`Ùkh; 'kadq ds vk/kkj dh ifjf/k 88 cm gSA ;fn 'kadq dh ÅapkbZ 
+28 cm gS] rks 'kadq dk oØ i`"Bh; {ks=Qy D;k gS\ 
+(a) 
+670 √𝟑 cm² 
+(b) 
+616 √𝟓 cm² 
+(c) 
+627 √𝟑 cm² 
+(d) 
+561 √𝟓 cm² 
+ 
+ 
+ 
+ SSC CHSL TIER – I 2022 
+5. If the diameter of the base of a cone is 32 cm 
+and its curved surface area is 3268
+𝟒
+𝟕 cm², then 
+its height is: 
+;fn ,d 'kadq ds vk/kkj dk O;kl 32 cm gS vkSj blds oØ i`"B dk {ks=Qy 
+3268
+𝟒
+𝟕 𝒄𝒎² gS] rks  bldh ÅapkbZ Kkr dhft,A ¼eku ysa  ¾ 
+𝟐𝟐
+𝟕½ 
+(a) 63 cm 
+(b) 58 cm 
+(c) 60 cm 
+(d) 64 cm 
+ 
+MTS 2020 
+6. The radius of a solid right circular cone is 65 cm 
+and its height is 72 cm. the total surface area (in 
+sq cm) of the cone is? 
+एि ठोस लम्ब वृत्तीय शंिु िी त्रत्रज्या 65 सेमी है और इसिी 
+ऊँचाई 72 सेमी है। शंिु िा िुल पृष्ठीय क्षेत्रफल (वगध सेमी में) 
+कितना है? 
+(SSC MTS 2024) 
+A) 38012
+𝟏
+𝟕𝒄𝒎 
+B) 43051
+𝟑
+𝟕𝒄𝒎 
+C) 33094
+𝟐
+𝟕𝒄𝒎 
+D) 43084
+𝟓
+𝟕𝒄𝒎 
+7. If the diameter of the base of cone 
+𝟕𝟓.𝟑𝟔
+𝝅  cm and its slant 
+height is 88cm,  then what is the total surface area( in 𝒄𝒎𝟐) 
+of the cone? 
+यदि किसी शंिु िे आर्ार िा व्यास 
+ cm है तथा उसिी 
+ततयधि ऊँचाई 88 cm है, तो शंिु िा िुल पृष्ठीय क्षेत्रफल 
+(cm2 में) ज्ञात िीजिए। (π = 3.14 िा उपयोग िीजिए) 
+A. 1884 
+B. 5763 
+C. 3768 
+D. 7536 
+8. The circumference of the base of a conical tent 
+is 66m. If the height of the tent is 36 m. What 
+is the area of the canvas used in making the 
+tent? 
+एि शंक् वािार तंबू िे आर्ार िी पररधर् 66m है। यदि तंबू 
+िी ऊँचाई 36m है, तो तंबू बनाने में उपयोग किए िाने वाले 
+िैनवास िा क्षेत्रफल (m2 में) क् या है? (𝝅=
+𝟐𝟐
+𝟕) 
+a) 1155           
+ 
+b) 1237.5                
+c) 1171.5                 
+d) 1254 
+ 
+ 
+9. Akshay wants to buy a 6 m wide cloth to make a 
+conical tent having a radius of 12 m and height 
+of 35 m. how many meters of cloth does he need 
+to buy? 
+ 
+                                         BY Gagan Pratap 
+Take 𝝅 =
+𝟐𝟐
+𝟕  Note : Round off the decimals to the 
+nearest whole number. 
+अक्षय 12 मीटर िी त्रत्रज्या और 35 मीटर िी ऊंचाई वाला एि 
+शंक्वािार तम्बू बनाने िे ललए 6 मीटर चौडा िपडा खरीिना 
+चाहता है। उसे कितने मीटर िपडा खरीिने िी आवश्यिता है? 
+𝝅 = 
+𝟐𝟐
+𝟕 लीजिए नोट : दशमलव को ननकटतम पूर्ण संख्या में पूर्ाांनकत करें। 
+(SSC MTS 2024) 
+A) 234 
+B) 239 
+C) 233 
+D) 231 
+10. What is the volume of a cone whose base 
+diameter is 12 cm and the height is 21.7 cm? 
+Take 𝝅 = 
+𝟐𝟐
+𝟕 
+उस शंिु िा आयतन कितना है जिसिे आर्ार िा व्यास 12 
+सेमी और ऊंचाई 21.7 सेमी है? 
+(𝝅=
+𝟐𝟐
+𝟕 लीजिए) 
+A) 626.3 𝒄𝒎𝟑 
+B) 548.6𝒄𝒎𝟑 
+C) 818.4𝒄𝒎𝟑 
+D) 334.5 𝒄𝒎𝟑 
+11. If the height and slant height of a cone are 21 
+cm and 29 cm, respectively. Find its volume. 
+(Use 𝝅 = 
+22
+7 ) 
+;fn ,d “kadq bldh ÅapkbZ vkSj fr;Zd ÅapkbZ Øe”k% 21 cm vkSj 29 
+cm gS] rks bldk vk;ru Kkr dhft,A (𝝅=
+𝟐𝟐
+𝟕dk iz;ksx djsa) 
+(a) 8708 cm3 
+(b) 8080 cm3  
+(c) 8800 cm3 
+(d) 8440 cm3 
+12. The volume of a right circular cone is 462 cm³. 
+If is height is 12 cm, then the area of its base 
+(in cm²) 
+,d yac o`Ùkh; 'kadq dk vk;ru 462 cm³ gSA ;fn bldh ÅapkbZ 12 cm 
+gS] rks blds vk/kkj ij {ks=Qy ¼cm² esa½ Kkr djsaA 
+(a) 
+124.5 
+(b) 
+103.5 
+(c) 
+115.5 
+(d) 
+98.5 
+13. The volume (in cm3) of a circular cone, whose 
+slant height is 28cm and base radius is 21cm, 
+is ........ (Take 𝝅=
+𝟐𝟐
+𝟕)  
+एि वृत्तािार शंिु िा आयतन (सेमी3 में), जिसिी ततरछी 
+ऊँचाई 28 सेमी और आर्ार िी त्रत्रज्या 21 सेमी. है, है ........ 
+(𝝅=
+𝟐𝟐
+𝟕 लीजिए) 
+[RRB Group D - 2022] 
+[A]30808     [B] 3234√𝟕 
+ 
+[C]1617√𝟕   [D]38808 
+14. If the diameter of the base of a cone is 56 cm 
+and its curved surface area is 3080 cm2, then 
+what will be its volume (in cm3)? (Use π = 
+22/7) 
+यदि किसी शंिु िा आर्ार-व्यास 56 cm है और इसिा वक्र 
+पृष्ठीय क्षेत्रफल 3080 cm2 है, तो इसिा आयतन (cm3 में) 
+कितना होगा? (π = 22/7 िा उपयोग िीजिए) 
+ (SSC CGL MAINS 2024) 
+A) 17248 
+B) 15391 
+C) 14670 
+D) 12250 
+15. A conical tent is set to accommodate 15 persons. 
+Each person must have 5 square meters of space 
+on the ground and 30 cubic meters of air 
+breathe. What is the height of the cone? 
+15 व्यजक्तयों िे रहने िे ललए एि शंक्वािार तम्बू लगाया गया 
+है। प्रत्येि व्यजक्त िे पास िमीन पर 5 वगध मीटर िगह होनी 
+कितनी है?   (MTS 2023) 
+A) 15 m 
+B) 13 m 
+C) 22 m 
+D) 18 m 
+16. The vertical height of a conical tent is 42 
+decimeter and the diameter of its base is 5.4 m. 
+find the number of persons it can accommodate 
+if each person is to be allowed 2673 cubic 
+decimeter of space? 
+एि शंक्वािार तंबू िी ऊर्धवाधर्र ऊंचाई 42 डेसीमीटर है और 
+इसिे आर्ार िा व्यास 5.4 मीटर है। यदि प्रत्येि व्यजक्त िो 
+2673 घन डेसीमीटर स्थान िी अनुमतत िी िाए तो इसमें कितने 
+व्यजक्तयों िो समायोजित किया िा सिता है, ज्ञात िीजिए? 
+ 
+(DP CONSTABLE 2023) 
+A) 12 
+B) 17 
+C) 13 
+D) 11 
+17. If the area of the base of a right circular cone 
+is 157 cm² and its slant height is √𝟒𝟗𝟕 cm, then 
+the volume of the cone is __________. (use 𝝅 = 
+3.14) 
+ 
+                                         BY Gagan Pratap 
+;fn ,d yEc o`Ùkh; 'kadq ds vk/kkj dk {ks=Qy 157 cm² gS vkSj bldh 
+fr;Zd ÅapkbZ √𝟒𝟗𝟏 𝒄𝒎 gS] rks 'akdq dk vk;ru ----------------------- gSA 
+(= dk mi;ksx djsa) 
+(a) 997 cm³ 
+(b) 1172 cm³ 
+(c) 1099 cm³ 
+(d) 986 cm³ 
+18. The curved surface are of a right circular cone 
+is 156π and the radius of its base is 12 cm. 
+What is the volume of the cone, in cm3? 
+,d yEc o`rh; “kadq ds odz i`’B dk {ks=Qy 156π vkSj blds vk/kkj dh 
+f=T;k 12 lseh gSA “kadq dk vk;ru fdruk gksxk\ 
+(a) 210π  
+ 
+(b) 240 π  
+ 
+(c) 180 π  
+ 
+(d) 192 π 
+19. The volume of a right circular cone is 308 𝒄𝒎𝟑 
+and the radius of its base is 7 cm. What is the 
+curved surface area (in 𝒄𝒎𝟐) of the cone? 
+(Take π =
+𝟐𝟐
+𝟕) 
+एक लंब वृत्तीय शंकु का आयतन 308 𝒄𝒎𝟑 है और इसके आधार की निज्या 7 cm 
+है। शंकु का वक्र पृष्ठीय क्षेिफल (𝒄𝒎𝟐में) नकतना है? (π =
+𝟐𝟐
+𝟕 लें) 
+(a)22√𝟐𝟏 
+(b)44 √𝟐𝟏 
+ 
+(c)22 √𝟖𝟓 
+(d)𝟏𝟏√𝟖𝟓 
+20. The radius and slant height of a cone are in the 
+ratio 5 : 7. If its curved surface area is 
+1347.5cm2, find its radius. 
+22
+(use
+)
+7
+=
+ 
+,d 'kadq dh f=T;k vkSj fr;Zd ÅapkbZ dk vuqikr 5 : 7 gSA ;fn bldk 
+oØ i`"Bh; {ks=Qy 1347-5 cm 2 gS] rks bldh f=T;k Kkr dhft,A ¼𝝅 ¾ 
+𝟐𝟐
+𝟕 dk ç;ksx djsa½ 
+(a) 17.5 cm 
+(b) 15cm 
+ 
+(c) 21cm 
+(d) 25.5cm 
+21. The slant height and radius of a right circular 
+cone are in the ratio 29 : 20. If its volume is 
+4838.4π cm3, then its radius is: 
+एि लंब वृत्तीय शंिु िी ततयधि ऊँचाई और त्रत्रज्या 29 : 20 िे 
+अनुपात में हैं। यदि इसिा आयतन 4838.4 𝝅 cm3 है, तो इसिी 
+त्रत्रज्या कितनी होगी? 
+(a) 20cm 
+(b) 24 cm 
+ 
+(c) 25 cm 
+(d) 28 cm 
+22. An ice cream cone is to be made to have volume 
+𝟏𝟐𝟖
+𝟑𝝅  and the height of the cone is double the 
+radius of the cone. What is the slant height of 
+the cone? 
+एि आइसक्रीम िोन िा आयतन 128/3 π बनाया िाना है और 
+शंिु िी ऊंचाई शंिु िी त्रत्रज्या से िोगुनी है। शंिु िी ततरछी 
+ऊंचाई कितनी है? 
+(DP CONSTABLE 2023) 
+ 
+ 
+A) √𝟔𝟎 
+B) √𝟒𝟎 
+C) √𝟗𝟎 
+D) √𝟖𝟎 
+23. The ratio of the radius and the height of a cone 
+is 5:18. If its volume is 161700 cube cm, find its 
+slant height (in cm)? 
+एि शंिु िी त्रत्रज्या और ऊंचाई िा अनुपात 5:18 है। यदि इसिा 
+आयतन 161700 घन सेमी है, तो इसिी ततरछी ऊँचाई (सेमी 
+में) ज्ञात िीजिए? 
+(DP CONSTABLE 2023) 
+A) √𝟐𝟕𝟏𝟎𝟖 
+B) √𝟏𝟕𝟏𝟎𝟏 
+C) √𝟐𝟕𝟏𝟎𝟏 
+D) √𝟏𝟕𝟏𝟎𝟖 
+24. The height of a cone is three times the radius 
+of its base and its total surface area is 36(√10 + 
+1)π m2. What is the volume (in cm3) of the cone?  
+,d 'kadq dh Å¡pkbZ] mlds vk/kkj dh f=T;k rhu xquh gS vkSj mldk laiw.kZ 
+i`"Bh; {ks=Qy 36(√10 + 1)π cm2 gSA 'kadq dk vk;ru ¼cm3 esa½ 
+fdruk gksxk\ ( ICAR Technician 2023) 
+1.288π 
+2. 125π 
+ 
+3. 216π 
+4. 144π 
+25. The radius and the height of a right circular 
+cone are in the ratio 5:12. Its curved surface 
+area is 816.4 cm2. What is the volume (in cm3) 
+of the cone? (Take 𝝅 = 3.14) 
+,d yaco`Rrh; “kadq dh f=T;k vkSj ÅapkbZ dk vuqikr 5 % 12 gSA bldk oØ 
+i`’B {ks= 816-4 oxZ lseh gSA शंिु dk vk;ru ¼lseh3 esa½ fdruk gS\ ( = 
+3.14 ekusa) 
+(a) 1256        (b) 2512 
+(c) 3140       (d) 628 
+26. The height of a right circular cone is 63 cm 
+and the area of its curved surface is five times 
+the area of its base. What is the volume (in 
+cm3) of the cone? (Use π = 22/7) 
+एि लंब वृत्तीय शंिु िी ऊंचाई 63 cm है और इसिे वक्र 
+पृष्ठ िा क्षेत्रफल, इसिे आर्ार िे क्षेत्रफल िा पांच गुना है। 
+शंिु िा आयतन (cm3 में) कितना होगा? (π = 22/7 िा 
+उपयोग िीजिए) (SSC CGL MAINS 2024) 
+A) 12589.10 
+B) 13540.25 
+C) 11234.65 
+D) 10914.75 
+ 
+ 
+27. A right circular conical vessel has a capacity of 
+9240 cube m. the radius of the cone is 21 m. 
+what will be the total cost (in Rs) of painting the 
+ 
+                                         BY Gagan Pratap 
+outer curved surface area of cone at the rate of 
+Rs 10/sq m? ( Take 𝝅 =
+𝟐𝟐
+𝟕  ) 
+एि लंब वृत्तािार शंक्वािार बतधन िी क्षमता 9240 घन मीटर 
+है। शंिु िी त्रत्रज्या 21 मीटर है। 10 रुपये/वगध मीटर िी िर से 
+शंिु िे बाहरी घुमाविार सतह क्षेत्र िो पेंट िरने िी िुल लागत 
+(रुपये में) क्या होगी? ( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए) 
+(SSC MTS 2024) 
+A) 19140 
+B) 33000 
+C) 18140 
+D) 92400 
+28. In a conical tent of diameter 13.2 m and vertical 
+height 14 m, how many full bags of wheat can be 
+emptied, if the shape required for the wheat in 
+each bag is 29.04 m3? ( Take 𝝅 =
+𝟐𝟐
+𝟕  ) 
+13.2 मीटर व्यास और 14 मीटर ऊर्धवाधर्र ऊंचाई वाले एि 
+शंक्वािार तंबू में, गेहूं िे कितने पूणध बैग खाली किए िा सिते 
+हैं, यदि प्रत्येि बैग में गेहूं िे ललए आवश्यि आिार 29.04 
+मीटर3 है? ( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए) (SSC MTS 2024) 
+A) 25 
+B) 28 
+C) 22 
+D) 21 
+29. What is the volume of the largest right circular 
+cone that can be cut out of a cube of edge 12 
+cm? 
+12 सेमी किनारे वाले घन से िाटे िा सिने वाले सबसे बडे लम्ब 
+वृत्तीय शंिु िा आयतन कितना है? (SSC GD 2021) 
+A) 282.30 𝒄𝒎𝟑 
+B) 452.57𝒄𝒎𝟑 
+C) 395.65𝒄𝒎𝟑 
+D) 290.90𝒄𝒎𝟑 
+30. A right circular coneof maximum possible size 
+is cut out from a solid wooden cube. The 
+remaining material of the cube is what 
+percentage of the original cube? 
+अधिकतम संभव आकार का एक लंब गोलाकार शंकु एक ठोस 
+लकड़ी के घन से काटा जाता है। घन की शेष सामग्ऱी मूल घन का 
+ककतना प्रततशत है? 
+a)70.4      b)73.8      c)81      d)64.7 
+31. From a solid cylindrical wooden block of height 
+18 cm and radius 7.5 cm, a conical cavity of 
+the same height and same radius is taken out. 
+What is total surface area (in cm2) of the 
+remaining solid? 
+18 cm ऊंचे और 7.5 cm त्रत्रज्या वाले ठोस बेलनािार लिडी िे 
+टुिडे से, समान ऊंचाई और समान त्रत्रज्या वाला शक्वािार 
+िोटर (cavity) तनिाला िाता है। शेर् ठोस िा िुल पृष्ठीय 
+क्षेत्रफल (cm2 में) ज्ञात िीजिए। 
+(a) 326.25 π 
+ 
+(b) 416.25 π 
+ 
+ 
+(c) 472.5 π 
+ 
+(d) 270 π 
+32. A right circular cylinder has radius 14 cm and 
+height 40 cm. One conical part is cut from each 
+bases of cylinder. Radius and height of each 
+conical part is 9cm and 12cm. Find TSA of 
+remaining solid? 
+एि लम्बवृत्तीय बेलन िी  त्रत्रज्या 14 सेमी और ऊंचाई 40 सेमी है। 
+बेलन िे प्रत्येि आर्ार से एि शंक्वािार भाग िाटा िाता है। 
+प्रत्येि शंक्वािार भाग िी त्रत्रज्या और ऊंचाई क्रमशः 9 सेमी और 
+12 सेमी है। शेर् ठोस िा TSA ज्ञात िीजिये? 
+a) 1620π     
+ 
+b) 1540π      
+c) 1780π       
+d) 1650π 
+33. Radius of base of a hollow cone is 8 cm and its 
+height is 15 cm. A sphere of largest radius is 
+put inside the cone. What is the ratio of radius 
+of base of cone to the radius of sphere? 
+एि खोखले शंिु िे आर्ार िी त्रत्रज्या 8 cm है , और इसिी ऊंचाई 
+15 cm है, अधर्ितम त्रत्रज्या िा एि गोला शंिु िे अंिर रखा िाता 
+है, तब शंिु िे आर्ार त्रत्रज्या और गोले िी त्रत्रज्या िा अनुपात क्या 
+होगा ? 
+a)5:3   b)4:1    c)2:1    d)7:9 
+34. A right circular solid cone of radius 3.2 cm 
+and height 7.2 cm is melted by recast into a 
+right circular cylinder of height 9.6 cm. What 
+is the diameter of the base of the cylinder? 
+निज्या 3.2 सेमी और ऊंचाई 7.2 सेमी का एक ठोस शंकु को नपघलाकर 9.6 सेमी 
+की ऊंचाई का एक बेलन बनाया जाता है। बेलन के आधार का व्यास क्या है? 
+(a) 3.2 cm 
+ 
+ 
+(b) 3.5 cm 
+(c) 4.2 cm 
+ 
+ 
+(d) 4.5 cm 
+35. The height of a solid metallic right cylinder 
+exceeds the radius of its base by 23 cm. its total 
+surface area is 1628 𝒄𝒎𝟐. It is melted and recast 
+into a cone of base radius 10.5 cm and height x 
+cm. what is the value of x? 
+एक ठोस िात्ववक लम्ब बेलन की ऊँचाई उसके आिार की त्रिज्या से 
+23 सेम़ी अधिक है। इसका कुल पृष्ठीय क्षेिफल 1628 𝒄𝒎𝟐 है। 
+इसे पपघलाया जाता है और आिार त्रिज्या 10.5 सेम़ी और ऊंचाई x 
+सेम़ी के शंकु में बदल ददया जाता है। x का मान क्या है?  
+(ICAR Technician 2022) 
+A) 35 
+B) 40 
+C) 42 
+D) 30 
+36. A sector containing an angle of 120° cut off 
+from a circle of radius 21 cm is folded into a 
+cone.  What is the curved surface area of the 
+cone? 
+ 
+                                         BY Gagan Pratap 
+120° कोर् वाले एक निज्यखंड को 21 सेमी निज्या वाले एक वृत्त से काटकर 
+एक शंकु के रूप में मोडा गया है। शंकु का वक्र पृष्ठीय क्षेिफल नकतना है?  
+(UP POLICE HEAD OPERATOR 2024) 
+A) 426 cm² 
+B) 462 cm² 
+C) 262 cm² 
+D) 432 cm² 
+37. A semicircular sheet of area 308 cm² is 
+folded into a cone. What is its slant height?  
+308 सेमी² क्षेत्रफल वाली एि अर्धवृत्तािार शीट िो एि 
+शंिु िे रूप में मोडा गया है। इसिी ततरछी ऊंचाई क्या 
+है?UP POLICE ASSISTANT OPERATOR 2024 
+A) 16 cm  
+ 
+ 
+B) 14 cm  
+C) 12 cm  
+ 
+ 
+D) 12.5 cm 
+38. The vertical height and base radius of 
+a cone are 12 cm and 5 cm, 
+respectively. If it is unfolded to form 
+a sector, then what is the angle of the 
+sector? 
+एक शंकु की ऊर्धवाणधर ऊंचाई और आधार निज्या क्रमशः 12 सेमी और 5 सेमी है। 
+यनद इसे एक निज्यखंड बनाने के नलए खोला जाए, तो निज्यखंड का कोर् क्या है? 
+ (UP POLICE HEAD OPERATOR 2024) 
+A) 140°      B) 150° 
+C) 126.5°   D) 138.5° 
+39. A sector of radius 10.5 cm with the central 
+angle 120⁰ is formed to form a cone by joining 
+the two bounding radii of the sector. What is 
+the volume (in cm3) of the cone so formed? 
+10.5 lseh f=T;k vkSj 120° dsaæh; dks.k okys ,d f=T;&[kaM ¼lsDVj½ 
+dks ,d “kadq cukus ds fy,] bldh nks lhed f=T;kvksa dks feykdj eksM+k 
+tkrk gSA cus gq, “kadq dk vk;ru D;k gS\ (cm3 esa) 
+(a) 
+𝟑𝟒𝟑√𝟑
+𝟏𝟐𝝅   (b) 
+𝟑𝟒𝟑√𝟑
+𝟔
+𝝅   (c) 
+𝟑𝟒𝟑√𝟐
+𝟏𝟐𝝅  (d) 
+𝟑𝟒𝟑√𝟐
+𝟔
+𝝅 
+ 
+ 
+40. A right triangle with sides 3 cm, 4 cm and 5 cm 
+is rotated about the sides of 3 cm to form a 
+cone. The volume of the cone so formed is: 
+ 
+3 cm, 4 cm और 5 cm भुिाओं वाले एि समिोण त्रत्रभुि िो 
+एि शंिु बनाने िे ललए 3 cm वाली भुिा िे पररतः घुमाया 
+िाता है। इस प्रिार बने शंिु िा आयतन क्या होगा?   
+ 
+(SSC CGL PRE 2024) 
+ 
+[A] 
+20𝝅 cm3 
+ 
+ 
+[B] 
+16𝝅 cm3 
+ 
+[C] 
+25𝝅 cm3 
+ 
+ 
+[D] 
+28𝝅 cm3 
+41. A cone is cut into 4 parts by 3 cuts parallel to 
+the base at equal height . What is the ratio of 
+volume of 4 parts? 
+एि लम्बवृत्तीय शंिु इसिे आर्ार पर रखा हुआ है, इसिो आर्ार िे 
+समांतर 3 बार िाटिर  , बराबर ऊंचाई वाले 4 भागों में बांटा गया है, 
+तब इन चारों भागो िे आयतन िा अनुपात क्या होगा? 
+a)1:8:27:70      b)1:7:29:47        
+c)1:7:19:37    d)1:8:27:64   
+42. a right circular cone has base radius 14 cm and 
+height 50 cm it is kept on its base. It is cut into 
+5 parts of equal parts by 4 cuts parallel to the 
+base. What is the ratio of CSA of 5 parts? 
+एि लम्बवृत्तीय शंिु िे आर्ार त्रत्रज्या 14सेमी और ऊंचाई 50 सेमी 
+है इसिे आर्ार पर रखा हुआ है, इसिो आर्ार िे समांतर 4  बार 
+िाटने से बराबर ऊंचाई वाले 5  भागों में बांटा गया है, तब इन  5 भागो 
+िे वक्र पृष्ठ क्षेत्रफल िा अनुपात क्या होगा? 
+a)1:3:5:7:9           b)1:4:9:16:25        
+c)1:7:19:37:61    d)1:8:27:64:125 
+43. A right circular cone of height h is cut by a 
+plane to the base and at a distance 3h/7 from 
+the base, then the volumes of the resulting 
+cone and the frustum are in the ratio? 
+h ऊंचाई वाले एि लम्बवृतीय शंिु िो इसिे आर्ार से 3h/7 
+िी ऊंचाई पर एि समतल द्वारा िाटा गया हैं, इस प्रिार 
+बने शंिु और तछन्नि िे आयतन िा अनुपात क्या होगा? 
+a)8:19    b)64:279      c)1:8      d)27:98 
+ 
+44. The height of a cone is 30 cm. The cone is cut 
+parallel to its base such volume of cone and 
+frustum so formed is in the ratio 13.5:49. Find 
+at which height from base cone is cut? 
+एि शंिु िी ऊंचाई 30 cm है , इस शंिु िो इसिे आर्ार िे 
+समांतर िाटने पर बने शंिु और तछन्नि और  िे आयतन 
+िा अनुपात 13.5:49 है, तब ज्ञात िीजिये शंिु िो इसिे 
+आर्ार से कितनी ऊंचाई से िाटा गया है? 
+      a)9cm   b)12cm   c)15cm   d)18cm 
+45. A right circular cone is sliced into a smaller 
+cone and a frustum of a cone by a plane 
+perpendicular to its axis. The volume of the 
+smaller cone and the frustum of the cone are 
+in the ratio 64 : 61. Then, their curved surface 
+areas are in the ratio  
+एि  शंिु िो िो उसिी अक्ष िे लंबवत एि िट िे द्वारा 
+एि छोटे शंिु और तछन्नि में  िाटा  िाता है |शंिु और 
+तछन्नि िे आयतन 64: 61 िे अनुपात मे है। कफर, उनिे 
+घुमाविार सतह क्षेत्र अनुपात में  हैं (CDS 2018) 
+(a) 4 : 1 
+ 
+(b) 16 : 9 
+ 
+ 
+(c) 64 : 61 
+ 
+(d) 81 : 64 
+ 
+ 
+ 
+ 
+                                         BY Gagan Pratap 
+46. The height of a cone is 45 cm. It is cut at a 
+height of 15 cm from its base by a plane parallel 
+to base. If the volume of frustum so formed is 
+cone is 43890 cm3 then what is the volume of 
+original cone?   
+एि शंिु िी ऊंचाई 45cm है, इस शंिु िो इसिे आर्ार से 15cm िी 
+ऊंचाई पर आर्ार िे समांतर िाटा  िाता है, यदि इस प्रिार बने 
+तछन्नि िा आयतन 43890 cm3 है , तब मूल शंिु िा 
+आयतन(cm3में) क्या होगा? 
+a)56133   b)65700   c)72765  d) 62370 
+ 
+47. A cone of radius 16 cm and height 12 cm is cut, 
+parallel to the base, at some height closer to the 
+top. If the ratio of the heights of the solids is 
+1∶3, then the ratio of the total surface areas of 
+the two solids formed is given by: 
+16 सेमी त्रत्रज्या और 12 सेमी ऊंचाई िा एि शंिु, आर्ार िे 
+समानांतर, शीर्ध िे िरीब िुछ ऊंचाई पर िाटा िाता है। यदि 
+ठोसों िी ऊंचाई िा अनुपात 1∶3 है, तो बने िो ठोसों िे िुल 
+सतह क्षेत्रों िा अनुपात इस प्रिार दिया िाता है: 
+(SSC MTS 2024) 
+ A) 9 : 143 
+ B) 1 : 8  
+ C) 2 : 15 
+ D) 7 : 180 
+ 
+48. A reservoir is in the shape of a frustum of a right 
+circular cone. It is 26m across at the top and 2 
+m across at the bottom. It is 5 m deep. Find the 
+area of its curved surface? ( Take 𝝅 =
+𝟐𝟐
+𝟕  ) 
+एि िलाशय एि लम्ब वृत्तीय शंिु िे तछन्नि िे आिार िा है। 
+यह शीर्ष पर 26 मीटर चौड़ा और नीचे 2 मीटर चौड़ा है यह 5 मीटर गहरा है. 
+इसिी घुमाविार सतह िा क्षेत्रफल ज्ञात िीजिये?( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए 
+(SSC MTS 2024) 
+A) 440 m2 
+B) 607 m2 
+C) 572 m2 
+D) 2157 m2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49. The radii of the two circular faces of the 
+frustrum of a cone are 5cm and 4cm. If the 
+height of the frustrum is 21cm, what is the 
+volume in cm3? 
+एि शंिु िे तछन्नि िे िो वृत्तािार आर्ारों िी त्रत्रज्याये क्रमश 5 
+सेमी और 4 सेमी हैं। यदि तछन्नि िी ऊंचाई 21 सेमी है, तो तछन्नि 
+िा आयतन (सेमी3 में) क्या है? 
+a) 902   b) 1056   c) 1342    d) 638 
+ 
+50. The height of a right circular cone and the 
+radius of its circular base are respectively 9cm 
+and 3cm. The cone is cut by a plane parallel to 
+its base so as to divide it into two parts. The 
+volume of the frustum( i.e, the lower part )of 
+the cone is 44cu cm. The radius of the upper 
+circular surface of the frustum is 
+एि शंिु िी ऊंचाई 9cm और त्रत्रज्या 3 cm  है , इस शंिु िो आर्ार 
+िे समांतर िाटा िाता है, यदि इस प्रिार बने  तछन्नि िा आयतन 
+44cu cm है, तब इस तछन्नि िे उपरी लसरे िी त्रत्रज्या क्या होगी ? 
+a) ∛12cm     b)∛13cm    c)∛6cm  
+d)∛20cm  
+ 
+ 
+ 

@@ -1,0 +1,470 @@
+ 
+ 
+Random Experiment (यादृच्छिक प्रयोग):-  
+An experiment in which all possible outcomes are known and the exact output cannot 
+be be predicted in advance- tossing coins, rolling dice. 
+एक प्रयोग च्िसमें सभी संभावित परिणाम ज्ञात होते हैं औि सटीक आउटपुट का पहले से अनुमान नहीं लगाया िा 
+सकता है- ससक्कों को उिालना, पासा पलटना। 
+ 
+ 
+Sample Space (प्रततदर्श समच्टट):- Set of all possible outcomes. 
+When we perform an experiment then the set S of all possible outcomes is called the 
+Sample space. 
+जब हम कोई प्रयोग करते हैं तो सभी संभावित पररणामों के समुच्चय S को प्रततदर्श समष्टि कहते हैं। 
+event:- Any subset of sample space is called event in tossing a coin then comes Tail it 
+is an event. 
+प्रततदर्श समष्टि के ककसी उपसमुच्चय को एक ससक्के को उछालने की घिना कहा जाता है, किर पि आता है यह 
+एक घिना है। 
+ 
+सभी संभावित पररणामों का सेि। 
+Example:-  
+ 
+        n(S) 
+1 coin {H, T} 
+2 
+2 coin {HH, TT, HT, TH} 
+4 
+1 dice {1, 2, 3, 4, 5, 6} 
+6 
+ 
+Some important points (कुि महत्िपूणश ब ंदु):- 
+i) 
+When we throw a coin then either a Head or Tail appears. 
+ि  हम एक ससक्का फेंकते हैं तो एक हेड या टेल ददखाई देता है। 
+ii) 
+Dice is a solid cube having 6 faces marked 1, 2, 3, 4, 5, 6. 
+पासा एक ठोस घन है च्िसके 6 फलक 1, 2, 3, 4, 5, 6 अंककत हैं। 
+iii) 
+When we throw a dice outcomes is that number appear on it upper face. 
+ि  हम एक पासे को फेंकते हैं तो परिणाम यह होता है कक संख्या उसके ऊपिी फलक पि ददखाई देती है। 
+Probability is a measure of the likelihood of an event to occur. Many events cannot be 
+predicted with total certainty. We can predict only the chance of an event to occur i.e., 
+how likely they are going to happen, using it. Probability can range from 0 to 1, where 0 
+means the event to be an impossible one and 1 indicates a certain event 
+𝑷(𝑬) = 𝒏(𝑬)
+𝒏(𝑺) = 𝒏𝒖𝒎𝒃𝒆𝒓 𝒐𝒇 𝒇𝒂𝒗𝒐𝒖𝒓𝒂𝒃𝒍𝒆 𝒐𝒖𝒕𝒄𝒐𝒎𝒆𝒔
+𝒕𝒐𝒕𝒂𝒍 𝒏𝒖𝒎𝒃𝒆𝒓 𝒐𝒇 𝒐𝒖𝒕𝒄𝒐𝒎𝒆𝒔
+ 
+ 
+ 
+1 coin toss {H, T}: n(S) =2 
+ 
+ 
+𝑷(𝑯) = 𝟏
+𝟐 & 𝑷(𝑻) = 𝟏
+𝟐 
+i) 
+Probability of sure event is 1. 
+तनष्चचत घिना की प्रातयकता 1 है. 
+Example:- Today is Monday, then tomorrow is Tuesday. 
+उदाहरण:- आज सोमिार है तो कल मंगलिार है। 
+ii) 
+Probability of impossible event is 0. 
+असंभि घिना की प्रातयकता 0 है. 
+Example:- Seven on the dice. 
+उदाहरण:- पासे पर सात। 
+iii) 
+Any event 𝟎≤𝑷≤𝟏. 
+कोई भी घिना 0≤P≤1. 
+A) The probability of any event varies from 0 to 1 
+ककसी भी घटना की प्रातयकता 0 से लेकि 1 तक  दलती है  
+           𝟎≤𝑷(𝑬) ≤𝟏 
+B) If P = 0, then event is impossible. 
+यदद P = 0 है, तो घटना असंभि है। 
+C) If P = 1, Then event is certain. 
+यदद P = 1, तो घटना तनच्चित है। 
+ 
+P(no event occur) = 1- P( at least one event occur) 
+P(कोई घटना न हो )    = 1 – (कम से कम एक  ाि) 
+ 
+Event:- Any subset of sample space. 
+घिना:- नमूना स्थान का कोई उपसमूह। 
+Example:- Card experiment. कार्श प्रयोग। 
+                Simple Event:- साधारण घिना:- 
+Example:- 4 comes on the dice once. {4} 
+उदाहरण:- पासे पर 4 एक बार आता है। {4} 
+ 
+Compound event:- संयुक्त घिना:- 
+Example:- Getting even number. {2, 4, 6} 
+उदाहरण:- सम संख्या प्राप्त करना। {2, 4, 6} 
+ 
+Equally  likely:- समान रूप से संभावित:- 
+{𝑯, 𝑻), 𝑷(𝑯) = 𝑷(𝑻) = 𝟏
+𝟐 
+1. In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is 
+the probability of getting a prize? 
+ 
+ 
+एक लॉिरी में 10 पुरस्कार और 25 ररक्त स्थान हैं। एक लॉिरी यादृष्च्छक रूप से तनकाली जाती है। पुरस्कार समलने 
+की संभािना क्या है? 
+A) 1/10 
+B) 2/5 
+C) 2/7 
+D) 5/ 
+2. A letter of the English alphabet is chosen at random. Probability of getting a vowel is? 
+अंग्रेजी िणशमाला का एक अक्षर यादृष्च्छक रूप से चुना जाता है। स्िर प्राप्त करने की प्रातयकता है? 
+A) 5/26 
+B) 6/25 
+C) ¼ 
+D) 5/21 
+3. A single letter is selected at random from the word ‘PROBABILITY’. The probability 
+that the selected letter is vowel is? 
+‘PROBABILITY’ र्ब्द से यादृष्च्छक रूप से एक अक्षर चुना जाता है। चयतनत अक्षर के स्िर होने की 
+प्रातयकता है? 
+A) 2/11 
+B) 3/11 
+C) 4/11 
+D) 5/11 
+4. The probability that an ordinary or a non-leap year has 53 Sunday, is? 
+एक सामान्य या गैर-लीप िर्श में 53 रवििार होने की प्रातयकता है? 
+A) 2/7 
+B) 1/7 
+C) 3/7 
+D) None 
+5. A bag contains balls numbered 1, 2, 3……. 30. One ball is drawn from the bag at 
+random. What is the probability that the number on the ball drawn is divisible by 4 or 
+6? 
+एक थैले में 1, 2, 3……. 30 संख्या िाली गेंदें हैं। थैले में से एक गेंद यादृच्छया तनकाली जाती है। क्या 
+संभािना है कक तनकाली गई गेंद पर संख्या 4 या 6 से विभाज्य है? 
+A) 1/5 
+B) 1/3 
+C) 3/10 
+D) 2/5 
+6. Two integers are selected at random from the first 11 natural numbers. If the sum of 
+the integers is even, then the probability that both the numbers are odd is? 
+पहली 11 प्राकृततक संख्याओं में से दो पूणाांक यादृष्च्छक रूप से चुने गए हैं। यदद पूणाांकों का योग सम है, तो 
+दोनों संख्याओं के विर्म होने की प्रातयकता है? 
+A) 13/121 
+B) 3/11 
+C) 4/9 
+ 
+ 
+D) 5/11 
+7. A bag contains cards numbered between 33 and 92. If one card is drawn from the bag, 
+the probability that the number on the drawn card is a perfect square is? 
+एक बैग में 33 और 92 के बीच संख्या िाले कार्श हैं। यदद बैग से एक कार्श तनकाला जाता है, तो तनकाले गए 
+कार्श पर संख्या एक पूणश िगश होने की प्रातयकता है? 
+A) 5/59 
+B) 4/59 
+C) 2/29 
+D) 1/12 
+8. 10 persons are seated at a round table. The probability that two particular persons sit 
+together is? 
+एक गोल मेज पर 10 व्यष्क्त बैठे हैं। संभािना क्या है कक दो विर्ेर् व्यष्क्त एक साथ बैठते हैं? 
+A) 1/5 
+B) 2/9 
+C) 3/7 
+D) 4/9 
+Mutually Exclusive Events (पिस्पि अपििी घटना):- 
+If two or more events have no point in common i.e. if they cannot occur 
+simultaneously the events are said to be mutually exclusive. 
+यदद दो या दो से अधिक घटनाओं में कोई समानता नहीं है अर्ाशत यदद िे एक सार् घदटत नहीं हो सकती हैं तो घटनाओं 
+को पिस्पि अपििी कहा िाता है। 
+Then probability of two events A & B is P(A) + P(B). 
+त  दो घटनाओं A औि B की प्रातयकता P(A) + P(B) है। 
+Independent Events (स्ितंत्र घटना):- 
+Two events are said to be independent if the occurrence or non- occurrence of one 
+event does not influence the occurrence or non occurrence of the other event. 
+Then probability of two events A & B is P(A)*P(B). 
+दो घटनाओं को स्ितंत्र कहा िाता है यदद एक घटना की घटना या गैि-घटना दूसिी घटना की घटना या गैि-घटना को 
+प्रभावित नहीं किती है। 
+त  दो घटनाओं A औि B की प्रातयकता P(A)*P(B) है। 
+ 
+Coin (ससक्के) 
+i) 
+For 1 coin- 
+Total ways = 𝒇𝒂𝒄𝒆𝟏= 𝟐𝟏 
+ 
+ii) 
+For 2 coin – 
+Total ways = 𝒇𝒂𝒄𝒆𝟐= 𝟐𝟐 
+iii) 
+Probability of getting at least one head when 2 coins are tossed = 
+𝟑
+𝟒 
+2 ससक्के उिलने पि कम से कम एक हेड आने की संभािना = 
+𝟑
+𝟒 
+ 
+ 
+ 
+iv) 
+For 3 coin – 
+Total ways = 𝒇𝒂𝒄𝒆𝟐= 𝟐𝟑 
+ 
+v) 
+Probability of getting 2 head when 3 coins are tossed = 
+𝟑
+𝟖 
+3 ससक्के उिलने पि 2 हेड आने की संभािना = 
+𝟑
+𝟖 
+ 
+vi) 
+Probability of getting at least 2 head when 3 coins are tossed = ½  
+3 ससक्के उिलने पि कम से कम 2 हेड आने की संभािना = ½  
+ 
+vii) 
+Probability of getting at least 1 tail  when 3 coins are tossed = 7/8  
+3 ससक्के उिलने पि कम से कम 1 टेल आने की संभािना = 7/8  
+ 
+ 
+viii) 
+Probability of getting at most  २ head  when 3 coins are tossed = 2/8  
+3 ससक्के उिलने पि अधिक से अधिक 2 हेड  आने की संभािना = 7/8  
+1. 2 COINS { 𝑪𝒂𝒔𝒆𝒔= 𝟐𝒏, [𝑯𝑯, 𝑯𝑻, 𝑻𝑯, 𝑻𝑻]. 
+A) 𝑷(𝟏𝑯) =
+𝟐
+𝟒 
+B) 𝑷(𝟐𝑯) =
+𝟏
+𝟒 
+C) 𝑷(𝟑𝑯) = 𝟎 
+D) 𝑷(𝒂𝒕𝒍𝒆𝒂𝒔𝒕 𝟏𝑯) =
+𝟑
+𝟒 
+E) 𝑷(𝒂𝒕𝒎𝒐𝒔𝒕 𝟏𝑯) =
+𝟑
+𝟒 
+F) 𝑷( 𝒏𝒐 𝑯) =
+𝟏
+𝟒 
+2. 3 COINS 𝟐𝟑= 𝟖 𝒄𝒂𝒔𝒆𝒔, [𝑯𝑯𝑯, 𝑯𝑯𝑻, 𝑯𝑻𝑯, 𝑯𝑻𝑻, 𝑯𝑻𝑻, 𝑻𝑯𝑯, 𝑻𝑯𝑻, 𝑻𝑻𝑯, 𝑻𝑻𝑻], 𝒏(𝑺) = 𝟖. 
+A) 𝑷(𝟏𝑯) =
+𝟑
+𝟖 
+B) 𝑷(𝟐𝑯) =
+𝟑
+𝟖 
+C) 𝑷(𝟑𝑯) =
+𝟏
+𝟖 
+D) 𝑷(𝟒𝑯) = 𝟎 
+E) 𝑷(𝟎𝑯) = 𝑷(𝒂𝒍𝒍 𝑻) =
+𝟏
+𝟖 
+F) 𝑷(𝒂𝒕𝒎𝒐𝒔𝒕 𝟏𝑯) =
+𝟒
+𝟖 
+G) 𝑷(𝒂𝒕𝒎𝒐𝒔𝒕 𝟐𝑯) =
+𝟕
+𝟖 
+H) 𝑷(𝒂𝒕𝒍𝒆𝒂𝒔𝒕 𝟏𝑯) =
+𝟕
+𝟖 
+I) 𝑷(𝒂𝒕𝒍𝒆𝒂𝒔𝒕 𝟐𝑯) =
+𝟒
+𝟖 
+PROBLEME BASED ON COINS:- 
+ 
+When we throw a coin then either a Head or Tail appears. 
+ 
+जब हम एक ससक्का िेंकते हैं तो एक हेर् या िेल ददखाई देता है। 
+ 
+ONE COIN  
+{H, T} 
+2 
+TWO COIN 
+{HH, HT, TH, TT} 
+4 
+ 
+ 
+THREE COIN 
+{HHH, TTT, HHT, TTH, HTH, 
+THT, THH, HTT} 
+8 
+FOUR COIN 
+{HHHH, HHHT, HHTH, HTHH, 
+THHH, HHTT, HTTH, TTHH, 
+TTTT, TTTH, TTHT, THTT, 
+HTTT, THHT, HTHT, THTH 
+16 
+9. Describe the sample space for the experiment in which a coin is tossed and a dice is 
+thrown. 
+उस प्रयोग के प्रततदर्श समष्टि का िणशन कीष्जए ष्जसमें एक ससक्का उछाला जाता है और एक पासा िेंका जाता 
+है। 
+A) 12 
+B) 14 
+C) 16 
+D) None 
+10. 
+A coin is tossed 3 times and the outcomes are recorded. How many possible 
+outcomes are there? 
+एक ससक्के को 3 बार उछाला जाता है और पररणाम ररकॉर्श ककए जाते हैं। ककतने संभावित पररणाम हैं? 
+A) 4 
+B) 6 
+C) 8 
+D) 10 
+ 
+11. 
+A coin is tossed 3 times. Find the probability of getting- 
+एक ससक्के को 3 बार उछाला जाता है। प्राप्त करने की प्रातयकता ज्ञात कीष्जए- 
+I) 
+Exactly one head 
+बबल्कुल एक हेर् 
+A) 1/8 
+B) 3/8 
+C) 7/8 
+D) 5/8 
+II) 
+No head 
+कोई हेर् नहीं 
+A) 1/8 
+B) 7/8 
+C) 1/6 
+D) None 
+ 
+III) 
+Atleast 2 heads 
+कम से कम 2 हेर् 
+A) ½ 
+B) 7/8 
+C) 1/8 
+D) None 
+ 
+ 
+ 
+12. 
+3 coins are tossed. Find the probability of no heads? 
+3 ससक्के उछाले गए। कोई चचत न आने की प्रातयकता ज्ञात कीष्जए? 
+A) 1/8 
+B) 2/8 
+C) 3/8 
+D) None 
+13. 
+The probability of getting 4 heads in 8 throws of a coin, is? 
+एक ससक्के को 8 बार उछालने पर 4 चचत आने की प्रातयकता क्या है? 
+A) ½  
+B) 1/64 
+C) 
+𝟑𝟓
+𝟏𝟐𝟖 
+D) 
+𝟓𝟏
+𝟐𝟖 
+14. 
+When two coins are tossed simultaneously, what are the chances of getting at 
+least one tail? 
+ि  दो ससक्कों को एक सार् उिाला िाता है, तो कम से कम एक पट आने की क्या प्रातयकता है? 
+A) ¾  
+B) 1/5 
+C) 4/5 
+D) ¼ 
+15. 
+A coin is tossed twice. The probability of getting head both the times is? 
+एक ससक्के को दो बार उछाला जाता है। दोनों बार ससर आने की प्रातयकता क्या है? 
+A) ½ 
+B) ¼ 
+C) ¾ 
+D) 1 
+16. 
+The probability of getting at least one tail in 4 throws of a coin is? 
+एक ससक्के को चार बार उछालने पर कम से कम एक पि आने की प्रातयकता क्या है? 
+A) 15/16 
+B) 1/16 
+C) ¼ 
+D) None of these 
+17. 
+A coin is tossed 5 times one after the other. Find the probability of getting at 
+least 3 heads? 
+एक ससक्के को एक के बाद एक 5 बार उछाला जाता है। कम से कम 3 चचत्त आने की प्रातयकता ज्ञात कीष्जए। 
+A) ¼ 
+B) 3/32 
+C) ½ 
+D) 1/5 
+18. 
+6 coins are thrown together. What is the probability of getting at least 4 heads? 
+6 ससक्के एक सार् फेंके िाते हैं। कम से कम 4 धित आने की प्रातयकता क्या है? 
+A) 21/32 
+B) 11/32 
+C) 11/64 
+ 
+ 
+D) None of these 
+ 
+19. 
+3 coins are tossed. Find the probability of exactly 2 heads? 
+3 ससक्के उछाले गए। ठीक 2 चचत आने की प्रातयकता ज्ञात कीष्जए? 
+A) 1/8 
+B) 2/8 
+C) 3/8 
+D) None 
+ 
+20. 
+4 coins are tossed once. Find the probability of exactly 3 tails? 
+4 ससक्के एक बार उछाले जाते हैं। बबल्कुल 3 पि आने की प्रातयकता ज्ञात कीष्जए? 
+A) ¼ 
+B) 1/16 
+C) 3/16 
+D) None 
+21. 
+A coin is tossed two times. Find the probability of getting at most one head? 
+एक ससक्के को दो  ाि उिाला िाता है। अधिकतम एक धित आने की प्रातयकता ज्ञात कीच्िए? 
+A) ¼ 
+B) ¾ 
+C) 2/3 
+D) 1/3 
+22. 
+Three unbiased coins are tossed. What is the probability of getting at most two 
+heads? 
+तीन तनटपक्ष ससक्कों को उिाला िाता है। अधिकतम दो धित आने की प्रातयकता क्या है? 
+A) ¾ 
+B) 7/8 
+C) ¼ 
+D) 1/2 
+23. 
+3 coins are tossed. Find the probability of at least 1 head and 1 tail? 
+3 ससक्के उछाले गए। कम से कम 1 चचत और 1 पि की प्रातयकता ज्ञात कीष्जए? 
+A) 3/5 
+B) ¾ 
+C) 3/8 
+D) None 
+ 
+24. 
+The probability of getting head and tail alternately in three throws of a coin (or 
+throw of three coins) is? 
+एक ससक्के की तीन उछालों (या तीन ससक्कों की उछाल) में बारी-बारी से चचत और पि आने की प्रातयकता है 
+A) 1/8 
+B) ¼ 
+C) 1/3 
+D) 3/8 
+ 
+ 
+ 
+ 
+25. 
+A fair coin is tossed repeatedly. If tail appears on first four tosses then the 
+probability of head appearing on fifth toss equals? 
+एक तनटपक्ष ससक्के को बार-बार उछाला जाता है। यदद पहले चार बार उछालने पर पि ददखाई देती है तो पााँचिें 
+उछाल पर चचत  आने की प्रातयकता बराबर होती है? 
+A) ½ 
+B) 1/32 
+C) 31/32 
+D) 1/5 
+ 
+26. 
+Three fair coins are tossed. If both heads and tails appears, then the probability 
+that exactly one head appears, is? 
+तीन तनटपक्ष ससक्के उछाले गए। यदद चचत और पि दोनों प्रकि हों, तो ठीक एक ही चचत आने की प्रातयकता 
+क्या है? 
+A) 3/8 
+B) 1/6 
+C) ½ 
+D) 1/3 
+27. 
+A coin is tossed a fixed number of times. If the probability of getting 4 heads 
+equals the probability of getting 7 heads, then the probability of getting 2 heads is? 
+एक ससक्के को एक तनच्चित संख्या में उिाला िाता है। यदद 4 धित आने की प्रातयकता 7 धित आने की प्रातयकता के 
+ िा ि है, तो 2 धित आने की प्रातयकता है? 
+A) 1/1024 
+B) 55/2048 
+C) 3/4096 
+D) None 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

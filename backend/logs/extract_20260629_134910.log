@@ -1,0 +1,361 @@
+2026-06-29 13:49:10,550  INFO      Exam      : SSC CGL
+2026-06-29 13:49:10,550  INFO      PDFs found: 177
+2026-06-29 13:49:13,690  INFO      Processing: quant/algebra/Algebra  Sheet -1.pdf
+2026-06-29 13:49:14,082  INFO        Algebra  Sheet -1.pdf                                | extracted=158  valid=51  invalid=107
+2026-06-29 13:49:14,943  INFO      Processing: quant/algebra/Algebra Sheet - 6.pdf
+2026-06-29 13:49:15,080  INFO        Algebra Sheet - 6.pdf                                | extracted=106  valid=29  invalid=77
+2026-06-29 13:49:15,879  INFO      Processing: quant/algebra/Algebra Sheet -3.pdf
+2026-06-29 13:49:16,095  INFO        Algebra Sheet -3.pdf                                 | extracted=102  valid=31  invalid=71
+2026-06-29 13:49:16,962  INFO      Processing: quant/algebra/Algebra Sheet -4.pdf
+2026-06-29 13:49:17,072  INFO        Algebra Sheet -4.pdf                                 | extracted=65  valid=12  invalid=53
+2026-06-29 13:49:17,911  INFO      Processing: quant/algebra/Algebra Sheet -5.pdf
+2026-06-29 13:49:17,939  INFO        Algebra Sheet -5.pdf                                 | extracted=30  valid=8  invalid=22
+2026-06-29 13:49:18,839  INFO      Processing: quant/algebra/Algebra Sheet-2.pdf
+2026-06-29 13:49:18,890  INFO        Algebra Sheet-2.pdf                                  | extracted=20  valid=4  invalid=16
+2026-06-29 13:49:19,685  INFO      Processing: quant/ap_gp_hp/AP, GP, HP.pdf
+2026-06-29 13:49:19,731  INFO        AP, GP, HP.pdf                                       | extracted=10  valid=0  invalid=10
+2026-06-29 13:49:20,650  INFO      Processing: quant/average/Average Sheet-1.pdf
+2026-06-29 13:49:20,787  INFO        Average Sheet-1.pdf                                  | extracted=56  valid=23  invalid=33
+2026-06-29 13:49:21,593  INFO      Processing: quant/average/Average Sheet-2.pdf
+2026-06-29 13:49:21,715  INFO        Average Sheet-2.pdf                                  | extracted=43  valid=22  invalid=21
+2026-06-29 13:49:22,598  INFO      Processing: quant/boat_and_stream/Boat and Stream Sheet (1).pdf
+2026-06-29 13:49:22,713  INFO        Boat and Stream Sheet (1).pdf                        | extracted=45  valid=31  invalid=14
+2026-06-29 13:49:23,619  INFO      Processing: quant/compound_interest/Compound Interest Sheet -1.pdf
+2026-06-29 13:49:23,720  INFO        Compound Interest Sheet -1.pdf                       | extracted=50  valid=41  invalid=9
+2026-06-29 13:49:24,591  INFO      Processing: quant/compound_interest/Compound Interest Sheet -2.pdf
+2026-06-29 13:49:24,760  INFO        Compound Interest Sheet -2.pdf                       | extracted=143  valid=113  invalid=30
+2026-06-29 13:49:25,671  INFO      Processing: quant/compound_interest/Compound Interest Sheet -3.pdf
+2026-06-29 13:49:25,756  INFO        Compound Interest Sheet -3.pdf                       | extracted=29  valid=26  invalid=3
+2026-06-29 13:49:26,692  INFO      Processing: quant/compound_interest/Compund Intrest Sheet-3 NEW (1).pdf
+2026-06-29 13:49:26,778  INFO        Compund Intrest Sheet-3 NEW (1).pdf                  | extracted=44  valid=41  invalid=3
+2026-06-29 13:49:27,737  INFO      Processing: quant/coordinate_geometry/Co-ordinate Geometry.pdf
+2026-06-29 13:49:27,859  INFO        Co-ordinate Geometry.pdf                             | extracted=107  valid=63  invalid=44
+2026-06-29 13:49:28,752  INFO      Processing: quant/data_interpretation/DI  Sheet -1 (PIE AND BAR CHART).pdf
+2026-06-29 13:49:28,844  INFO        DI  Sheet -1 (PIE AND BAR CHART).pdf                 | extracted=34  valid=23  invalid=11
+2026-06-29 13:49:29,657  INFO      Processing: quant/data_interpretation/DI  Sheet -2 (TABULAR DI  & LINE GRAPH).pdf
+2026-06-29 13:49:29,757  INFO        DI  Sheet -2 (TABULAR DI  & LINE GRAPH).pdf          | extracted=27  valid=20  invalid=7
+2026-06-29 13:49:30,661  INFO      Processing: quant/discount/Discount Sheet- 2.pdf
+2026-06-29 13:49:30,770  INFO        Discount Sheet- 2.pdf                                | extracted=43  valid=34  invalid=9
+2026-06-29 13:49:31,667  INFO      Processing: quant/discount/Discount Sheet-1.pdf
+2026-06-29 13:49:31,874  INFO        Discount Sheet-1.pdf                                 | extracted=90  valid=63  invalid=27
+2026-06-29 13:49:32,742  INFO      Processing: quant/dishonest_shopkeeper/Dishonest Shopkeeper.pdf
+2026-06-29 13:49:32,839  INFO        Dishonest Shopkeeper.pdf                             | extracted=33  valid=25  invalid=8
+2026-06-29 13:49:33,721  INFO      Processing: quant/geometry/Geometry 10.pdf
+2026-06-29 13:49:33,789  INFO        Geometry 10.pdf                                      | extracted=18  valid=15  invalid=3
+2026-06-29 13:49:34,692  INFO      Processing: quant/geometry/Geometry Sheet -1.pdf
+2026-06-29 13:49:34,806  INFO        Geometry Sheet -1.pdf                                | extracted=21  valid=17  invalid=4
+2026-06-29 13:49:35,694  INFO      Processing: quant/geometry/Geometry Sheet -12 ,13, 14, 15.pdf
+2026-06-29 13:49:36,357  INFO        Geometry Sheet -12 ,13, 14, 15.pdf                   | extracted=287  valid=221  invalid=66
+2026-06-29 13:49:37,226  INFO      Processing: quant/geometry/Geometry Sheet -9.pdf
+2026-06-29 13:49:37,309  INFO        Geometry Sheet -9.pdf                                | extracted=27  valid=17  invalid=10
+2026-06-29 13:49:38,110  INFO      Processing: quant/geometry/Geometry Sheet-1.pdf
+2026-06-29 13:49:38,221  INFO        Geometry Sheet-1.pdf                                 | extracted=21  valid=17  invalid=4
+2026-06-29 13:49:39,108  INFO      Processing: quant/geometry/Geometry Sheet-11.pdf
+2026-06-29 13:49:39,245  INFO        Geometry Sheet-11.pdf                                | extracted=52  valid=33  invalid=19
+2026-06-29 13:49:40,104  INFO      Processing: quant/geometry/Geometry Sheet-2.pdf
+2026-06-29 13:49:40,200  INFO        Geometry Sheet-2.pdf                                 | extracted=40  valid=32  invalid=8
+2026-06-29 13:49:41,007  INFO      Processing: quant/geometry/Geometry Sheet-3.pdf
+2026-06-29 13:49:41,093  INFO        Geometry Sheet-3.pdf                                 | extracted=25  valid=19  invalid=6
+2026-06-29 13:49:41,922  INFO      Processing: quant/geometry/Geometry Sheet-4.pdf
+2026-06-29 13:49:41,996  INFO        Geometry Sheet-4.pdf                                 | extracted=12  valid=10  invalid=2
+2026-06-29 13:49:42,869  INFO      Processing: quant/geometry/Geometry Sheet-5.pdf
+2026-06-29 13:49:43,051  INFO        Geometry Sheet-5.pdf                                 | extracted=36  valid=29  invalid=7
+2026-06-29 13:49:43,869  INFO      Processing: quant/geometry/Geometry Sheet-7.pdf
+2026-06-29 13:49:43,959  INFO        Geometry Sheet-7.pdf                                 | extracted=19  valid=14  invalid=5
+2026-06-29 13:49:44,761  INFO      Processing: quant/geometry/Geometry Sheet-8.pdf
+2026-06-29 13:49:44,850  INFO        Geometry Sheet-8.pdf                                 | extracted=16  valid=14  invalid=2
+2026-06-29 13:49:45,705  INFO      Processing: quant/height_and_distance/Height and Distance.pdf
+2026-06-29 13:49:45,836  INFO        Height and Distance.pdf                              | extracted=56  valid=39  invalid=17
+2026-06-29 13:49:46,657  INFO      Processing: quant/lcm_hcf/LCM & HCF Sheet - 2 (1).pdf
+2026-06-29 13:49:46,829  INFO        LCM & HCF Sheet - 2 (1).pdf                          | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:47,679  INFO      Processing: quant/lcm_hcf/LCM & HCF Sheet -1 (1).pdf
+2026-06-29 13:49:47,747  INFO        LCM & HCF Sheet -1 (1).pdf                           | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:48,595  INFO      Processing: quant/maxima_and_minima/Maxima & Minima Sheet.pdf
+2026-06-29 13:49:48,627  INFO        Maxima & Minima Sheet.pdf                            | extracted=5  valid=2  invalid=3
+2026-06-29 13:49:49,538  INFO      Processing: quant/mensuration_2d/2D mensuration sheet-1.pdf
+2026-06-29 13:49:49,610  INFO        2D mensuration sheet-1.pdf                           | extracted=24  valid=17  invalid=7
+2026-06-29 13:49:50,428  INFO      Processing: quant/mensuration_2d/Mensuration 2d ( circle ).pdf
+2026-06-29 13:49:50,550  INFO        Mensuration 2d ( circle ).pdf                        | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:51,441  INFO      Processing: quant/mensuration_2d/Mensuration 2d (polygon) (1).pdf
+2026-06-29 13:49:51,525  INFO        Mensuration 2d (polygon) (1).pdf                     | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:52,447  INFO      Processing: quant/mensuration_2d/Mensuration 2D (quadrilateral).pdf
+2026-06-29 13:49:52,540  INFO        Mensuration 2D (quadrilateral).pdf                   | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:53,478  INFO      Processing: quant/mensuration_2d/Mensuration 2D Triangle Sheet-01.pdf
+2026-06-29 13:49:53,561  INFO        Mensuration 2D Triangle Sheet-01.pdf                 | extracted=24  valid=19  invalid=5
+2026-06-29 13:49:54,457  INFO      Processing: quant/mensuration_2d/Mensuration sheet 02 (quadrilateral) (1).pdf
+2026-06-29 13:49:54,524  INFO        Mensuration sheet 02 (quadrilateral) (1).pdf         | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:55,459  INFO      Processing: quant/mensuration_2d/Mensuration sheet 02 (quadrilateral).pdf
+2026-06-29 13:49:55,524  INFO        Mensuration sheet 02 (quadrilateral).pdf             | extracted=0  valid=0  invalid=0
+2026-06-29 13:49:56,500  INFO      Processing: quant/mensuration_2d/Mensuration Sheet-6.pdf
+2026-06-29 13:49:56,551  INFO        Mensuration Sheet-6.pdf                              | extracted=20  valid=15  invalid=5
+2026-06-29 13:49:57,612  INFO      Processing: quant/mensuration_3d/3D Mensuration Sheet -1.pdf
+2026-06-29 13:49:57,804  INFO        3D Mensuration Sheet -1.pdf                          | extracted=46  valid=33  invalid=13
+2026-06-29 13:49:58,689  INFO      Processing: quant/mensuration_3d/3D Mensuration Sheet- 2.pdf
+2026-06-29 13:49:58,809  INFO        3D Mensuration Sheet- 2.pdf                          | extracted=30  valid=20  invalid=10
+2026-06-29 13:49:59,607  INFO      Processing: quant/mensuration_3d/3D Mensuration Sheet-3.pdf
+2026-06-29 13:49:59,727  INFO        3D Mensuration Sheet-3.pdf                           | extracted=38  valid=28  invalid=10
+2026-06-29 13:50:00,516  INFO      Processing: quant/mensuration_3d/3D Mensuration Sheet-4.pdf
+2026-06-29 13:50:00,613  INFO        3D Mensuration Sheet-4.pdf                           | extracted=44  valid=34  invalid=10
+2026-06-29 13:50:01,443  INFO      Processing: quant/mensuration_3d/3D Mensuration Sheet-5.pdf
+2026-06-29 13:50:01,488  INFO        3D Mensuration Sheet-5.pdf                           | extracted=16  valid=10  invalid=6
+2026-06-29 13:50:02,435  INFO      Processing: quant/mixture_and_alligation/Mixture and Alligation Sheet-1.pdf
+2026-06-29 13:50:02,676  INFO        Mixture and Alligation Sheet-1.pdf                   | extracted=76  valid=55  invalid=21
+2026-06-29 13:50:03,551  INFO      Processing: quant/mixture_and_alligation/Mixture and Alligation Sheet-2.pdf
+2026-06-29 13:50:03,661  INFO        Mixture and Alligation Sheet-2.pdf                   | extracted=42  valid=25  invalid=17
+2026-06-29 13:50:04,603  INFO      Processing: quant/mixture_and_alligation/Mixture and Alligation Sheet-3.pdf
+2026-06-29 13:50:04,706  INFO        Mixture and Alligation Sheet-3.pdf                   | extracted=37  valid=26  invalid=11
+2026-06-29 13:50:05,563  INFO      Processing: quant/number_system/Number System Sheet -3 & 4.pdf
+2026-06-29 13:50:05,690  INFO        Number System Sheet -3 & 4.pdf                       | extracted=78  valid=13  invalid=65
+2026-06-29 13:50:06,527  INFO      Processing: quant/number_system/Number System Sheet-1.pdf
+2026-06-29 13:50:06,584  INFO        Number System Sheet-1.pdf                            | extracted=34  valid=11  invalid=23
+2026-06-29 13:50:07,454  INFO      Processing: quant/number_system/Number System Sheet-2.pdf
+2026-06-29 13:50:07,529  INFO        Number System Sheet-2.pdf                            | extracted=23  valid=4  invalid=19
+2026-06-29 13:50:08,365  INFO      Processing: quant/number_system/Number System Sheet-5.pdf
+2026-06-29 13:50:08,453  INFO        Number System Sheet-5.pdf                            | extracted=46  valid=2  invalid=44
+2026-06-29 13:50:09,288  INFO      Processing: quant/number_system/NUMBER SYSTEM SHEET.pdf
+2026-06-29 13:50:09,334  INFO        NUMBER SYSTEM SHEET.pdf                              | extracted=5  valid=0  invalid=5
+2026-06-29 13:50:10,258  INFO      Processing: quant/partnership/Partnership Sheet.pdf
+2026-06-29 13:50:10,365  INFO        Partnership Sheet.pdf                                | extracted=32  valid=26  invalid=6
+2026-06-29 13:50:11,261  INFO      Processing: quant/percentage/Percentage Sheet -1.pdf
+2026-06-29 13:50:11,413  INFO        Percentage Sheet -1.pdf                              | extracted=100  valid=70  invalid=30
+2026-06-29 13:50:12,266  INFO      Processing: quant/percentage/Percentage Sheet -3.pdf
+2026-06-29 13:50:12,377  INFO        Percentage Sheet -3.pdf                              | extracted=29  valid=15  invalid=14
+2026-06-29 13:50:13,296  INFO      Processing: quant/percentage/Percentage Sheet-2.pdf
+2026-06-29 13:50:13,529  INFO        Percentage Sheet-2.pdf                               | extracted=118  valid=82  invalid=36
+2026-06-29 13:50:14,344  INFO      Processing: quant/permutation_and_combination/Permutation and Combination.pdf
+2026-06-29 13:50:14,438  INFO        Permutation and Combination.pdf                      | extracted=47  valid=8  invalid=39
+2026-06-29 13:50:15,355  INFO      Processing: quant/pipes_and_cistern/Pipes and Cistern Sheet.pdf
+2026-06-29 13:50:15,577  INFO        Pipes and Cistern Sheet.pdf                          | extracted=80  valid=37  invalid=43
+2026-06-29 13:50:16,459  INFO      Processing: quant/probability/Probability Sheet-1.pdf
+2026-06-29 13:50:16,516  INFO        Probability Sheet-1.pdf                              | extracted=29  valid=25  invalid=4
+2026-06-29 13:50:17,373  INFO      Processing: quant/probability/Probability Sheet-2.pdf
+2026-06-29 13:50:17,416  INFO        Probability Sheet-2.pdf                              | extracted=16  valid=15  invalid=1
+2026-06-29 13:50:18,216  INFO      Processing: quant/probability/Probability Sheet-3.pdf
+2026-06-29 13:50:18,308  INFO        Probability Sheet-3.pdf                              | extracted=52  valid=50  invalid=2
+2026-06-29 13:50:19,132  INFO      Processing: quant/problem_on_ages_sheet/Problem on Ages Sheet.pdf
+2026-06-29 13:50:19,284  INFO        Problem on Ages Sheet.pdf                            | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:20,237  INFO      Processing: quant/profit_and_loss/Profit and Loss Sheet-1.pdf
+2026-06-29 13:50:20,442  INFO        Profit and Loss Sheet-1.pdf                          | extracted=101  valid=71  invalid=30
+2026-06-29 13:50:21,306  INFO      Processing: quant/profit_and_loss/Profit and Loss Sheet-2.pdf
+2026-06-29 13:50:21,391  INFO        Profit and Loss Sheet-2.pdf                          | extracted=36  valid=28  invalid=8
+2026-06-29 13:50:22,180  INFO      Processing: quant/profit_and_loss/Profit and Loss Sheet-3.pdf
+2026-06-29 13:50:22,275  INFO        Profit and Loss Sheet-3.pdf                          | extracted=28  valid=21  invalid=7
+2026-06-29 13:50:23,195  INFO      Processing: quant/quadratic_equations/Quadratic Equations Sheet.pdf
+2026-06-29 13:50:23,262  INFO        Quadratic Equations Sheet.pdf                        | extracted=40  valid=23  invalid=17
+2026-06-29 13:50:24,052  INFO      Processing: quant/race_sheet/Race Sheet.pdf
+2026-06-29 13:50:24,108  INFO        Race Sheet.pdf                                       | extracted=27  valid=21  invalid=6
+2026-06-29 13:50:24,936  INFO      Processing: quant/ratio/Ratio Sheet-1.pdf
+2026-06-29 13:50:25,152  INFO        Ratio Sheet-1.pdf                                    | extracted=158  valid=102  invalid=56
+2026-06-29 13:50:25,941  INFO      Processing: quant/ratio/Ratio Sheet-2.pdf
+2026-06-29 13:50:26,046  INFO        Ratio Sheet-2.pdf                                    | extracted=32  valid=13  invalid=19
+2026-06-29 13:50:27,037  INFO      Processing: quant/ratio_and_proportion/Ratio and Proportion Sheet (Complete).pdf
+2026-06-29 13:50:27,272  INFO        Ratio and Proportion Sheet (Complete).pdf            | extracted=1  valid=0  invalid=1
+2026-06-29 13:50:28,218  INFO      Processing: quant/simple_interes/Simple Interest Sheet -2.pdf
+2026-06-29 13:50:28,293  INFO        Simple Interest Sheet -2.pdf                         | extracted=27  valid=24  invalid=3
+2026-06-29 13:50:29,215  INFO      Processing: quant/simple_interes/Simple Interest Sheet-1.pdf
+2026-06-29 13:50:29,408  INFO        Simple Interest Sheet-1.pdf                          | extracted=126  valid=99  invalid=27
+2026-06-29 13:50:30,384  INFO      Processing: quant/simplification/Simplification Sheet -1.pdf
+2026-06-29 13:50:30,558  INFO        Simplification Sheet -1.pdf                          | extracted=5  valid=2  invalid=3
+2026-06-29 13:50:31,485  INFO      Processing: quant/statistics/Statistics.pdf
+2026-06-29 13:50:31,622  INFO        Statistics.pdf                                       | extracted=89  valid=35  invalid=54
+2026-06-29 13:50:32,533  INFO      Processing: quant/surf_and_indices/Surds and Indices Sheet - 1.pdf
+2026-06-29 13:50:32,608  INFO        Surds and Indices Sheet - 1.pdf                      | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:33,565  INFO      Processing: quant/time_and_work/Time and Work Sheet -1.pdf
+2026-06-29 13:50:33,701  INFO        Time and Work Sheet -1.pdf                           | extracted=59  valid=31  invalid=28
+2026-06-29 13:50:34,597  INFO      Processing: quant/time_and_work/Time and Work Sheet -2.pdf
+2026-06-29 13:50:34,708  INFO        Time and Work Sheet -2.pdf                           | extracted=50  valid=31  invalid=19
+2026-06-29 13:50:35,562  INFO      Processing: quant/time_and_work/Time and Work Sheet-3.pdf
+2026-06-29 13:50:35,740  INFO        Time and Work Sheet-3.pdf                            | extracted=93  valid=31  invalid=62
+2026-06-29 13:50:36,667  INFO      Processing: quant/time_speed_distance/Time , Speed and Distance Sheet-1.pdf
+2026-06-29 13:50:36,897  INFO        Time , Speed and Distance Sheet-1.pdf                | extracted=88  valid=60  invalid=28
+2026-06-29 13:50:37,807  INFO      Processing: quant/time_speed_distance/Time Speed and Distance Sheet-02.pdf
+2026-06-29 13:50:37,977  INFO        Time Speed and Distance Sheet-02.pdf                 | extracted=81  valid=44  invalid=37
+2026-06-29 13:50:38,880  INFO      Processing: quant/time_speed_distance/Time Speed and Distance Sheet-03.pdf
+2026-06-29 13:50:39,005  INFO        Time Speed and Distance Sheet-03.pdf                 | extracted=48  valid=32  invalid=16
+2026-06-29 13:50:39,804  INFO      Processing: quant/train_sheet/Train sheet.pdf
+2026-06-29 13:50:39,904  INFO        Train sheet.pdf                                      | extracted=30  valid=12  invalid=18
+2026-06-29 13:50:40,708  INFO      Processing: quant/trignometry/Trigonometry Sheet-1.pdf
+2026-06-29 13:50:40,962  INFO        Trigonometry Sheet-1.pdf                             | extracted=136  valid=64  invalid=72
+2026-06-29 13:50:41,769  INFO      Processing: quant/trignometry/Trigonometry Sheet-2.pdf
+2026-06-29 13:50:41,929  INFO        Trigonometry Sheet-2.pdf                             | extracted=75  valid=41  invalid=34
+2026-06-29 13:50:42,775  INFO      Processing: quant/trignometry/Trigonometry Sheet-3.pdf
+2026-06-29 13:50:42,943  INFO        Trigonometry Sheet-3.pdf                             | extracted=81  valid=44  invalid=37
+2026-06-29 13:50:43,863  INFO      Processing: quant/trignometry/Trigonometry Sheet-4.pdf
+2026-06-29 13:50:43,954  INFO        Trigonometry Sheet-4.pdf                             | extracted=48  valid=19  invalid=29
+2026-06-29 13:50:44,879  INFO      Processing: quant/trignometry/Trigonometry Sheet-5.pdf
+2026-06-29 13:50:44,991  INFO        Trigonometry Sheet-5.pdf                             | extracted=66  valid=31  invalid=35
+2026-06-29 13:50:45,880  INFO      Processing: reasoning/alphabet/Alphabet PYQ Practice Set.pdf
+2026-06-29 13:50:46,033  INFO        Alphabet PYQ Practice Set.pdf                        | extracted=151  valid=120  invalid=31
+2026-06-29 13:50:46,970  INFO      Processing: reasoning/alphabet/Alphabetical Series Class Questions.pdf
+2026-06-29 13:50:47,033  INFO        Alphabetical Series Class Questions.pdf              | extracted=16  valid=15  invalid=1
+2026-06-29 13:50:48,013  INFO      Processing: reasoning/alphabet/Alphabetical Series Practice Set.pdf
+2026-06-29 13:50:48,115  INFO        Alphabetical Series Practice Set.pdf                 | extracted=62  valid=57  invalid=5
+2026-06-29 13:50:49,023  INFO      Processing: reasoning/analogy/Analogy _ 10 Feb _ Class.pdf
+2026-06-29 13:50:49,038  INFO        Analogy _ 10 Feb _ Class.pdf                         | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:49,922  INFO      Processing: reasoning/analogy/Analogy _ 11 Feb _ Class.pdf
+2026-06-29 13:50:49,965  INFO        Analogy _ 11 Feb _ Class.pdf                         | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:50,781  INFO      Processing: reasoning/analogy/Analogy Class Questions Final.pdf
+2026-06-29 13:50:50,807  INFO        Analogy Class Questions Final.pdf                    | extracted=75  valid=21  invalid=54
+2026-06-29 13:50:51,718  INFO      Processing: reasoning/analogy/Analogy PYQ Practice Set.pdf
+2026-06-29 13:50:51,832  INFO        Analogy PYQ Practice Set.pdf                         | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:52,709  INFO      Processing: reasoning/analytical_reasoning/Analytical Reasoning PYQ.pdf
+2026-06-29 13:50:52,842  INFO        Analytical Reasoning PYQ.pdf                         | extracted=26  valid=13  invalid=13
+2026-06-29 13:50:53,653  INFO      Processing: reasoning/analytical_reasoning/Analytical Reasoning Test.pdf
+2026-06-29 13:50:53,865  INFO        Analytical Reasoning Test.pdf                        | extracted=60  valid=21  invalid=39
+2026-06-29 13:50:54,679  INFO      Processing: reasoning/assertion_and_reason/Assertion and Reason _ 3 June _ Class PNG.pdf
+2026-06-29 13:50:54,727  INFO        Assertion and Reason _ 3 June _ Class PNG.pdf        | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:55,522  INFO      Processing: reasoning/assertion_and_reason/Assertion And Reason Class Question.pdf
+2026-06-29 13:50:55,584  INFO        Assertion And Reason Class Question.pdf              | extracted=9  valid=9  invalid=0
+2026-06-29 13:50:56,385  INFO      Processing: reasoning/assumptions/Assumptions _ 26 May _ Class PNG.pdf
+2026-06-29 13:50:56,414  INFO        Assumptions _ 26 May _ Class PNG.pdf                 | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:57,260  INFO      Processing: reasoning/assumptions/Assumptions _ 27 May _ Class PNG.pdf
+2026-06-29 13:50:57,379  INFO        Assumptions _ 27 May _ Class PNG.pdf                 | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:58,192  INFO      Processing: reasoning/blood_relation/Blood Relation _ 14 May _ Class PNG.pdf
+2026-06-29 13:50:58,244  INFO        Blood Relation _ 14 May _ Class PNG.pdf              | extracted=0  valid=0  invalid=0
+2026-06-29 13:50:59,149  INFO      Processing: reasoning/blood_relation/Blood Relation Practice Set (2).pdf
+2026-06-29 13:50:59,304  INFO        Blood Relation Practice Set (2).pdf                  | extracted=102  valid=99  invalid=3
+2026-06-29 13:51:00,272  INFO      Processing: reasoning/blood_relation/Blood Relation PYQ Practice Set (2).pdf
+2026-06-29 13:51:00,321  INFO        Blood Relation PYQ Practice Set (2).pdf              | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:01,176  INFO      Processing: reasoning/blood_relation/Blood Relations (Class Que) (2).pdf
+2026-06-29 13:51:01,235  INFO        Blood Relations (Class Que) (2).pdf                  | extracted=65  valid=60  invalid=5
+2026-06-29 13:51:02,061  INFO      Processing: reasoning/calendar/Calendar (Class Que) (2).pdf
+2026-06-29 13:51:02,152  INFO        Calendar (Class Que) (2).pdf                         | extracted=70  valid=50  invalid=20
+2026-06-29 13:51:02,961  INFO      Processing: reasoning/calendar/Calendar Class Questions (2).pdf
+2026-06-29 13:51:03,037  INFO        Calendar Class Questions (2).pdf                     | extracted=70  valid=50  invalid=20
+2026-06-29 13:51:04,012  INFO      Processing: reasoning/calendar/Calendar Practice Set (2).pdf
+2026-06-29 13:51:04,065  INFO        Calendar Practice Set (2).pdf                        | extracted=57  valid=39  invalid=18
+2026-06-29 13:51:04,903  INFO      Processing: reasoning/cause_and_effect/Cause And  Effect.pdf
+2026-06-29 13:51:04,979  INFO        Cause And  Effect.pdf                                | extracted=9  valid=0  invalid=9
+2026-06-29 13:51:05,954  INFO      Processing: reasoning/cause_and_effect/Cause and Effect _ 05 Aug Class PNG.pdf
+2026-06-29 13:51:06,004  INFO        Cause and Effect _ 05 Aug Class PNG.pdf              | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:06,959  INFO      Processing: reasoning/cause_and_effect/Cause and Effect _ 29 May _ Class PNG.pdf
+2026-06-29 13:51:06,995  INFO        Cause and Effect _ 29 May _ Class PNG.pdf            | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:07,863  INFO      Processing: reasoning/classification/Classification (Class Que) Final 2025.pdf
+2026-06-29 13:51:07,901  INFO        Classification (Class Que) Final 2025.pdf            | extracted=52  valid=0  invalid=52
+2026-06-29 13:51:08,882  INFO      Processing: reasoning/classification/Classification (PYQ Practice Set) 2025.pdf
+2026-06-29 13:51:08,994  INFO        Classification (PYQ Practice Set) 2025.pdf           | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:09,971  INFO      Processing: reasoning/classification/Classification _ 12 Feb _ Class PNG.pdf
+2026-06-29 13:51:09,986  INFO        Classification _ 12 Feb _ Class PNG.pdf              | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:10,843  INFO      Processing: reasoning/clock/Clock Class Question.pdf
+2026-06-29 13:51:10,914  INFO        Clock Class Question.pdf                             | extracted=70  valid=66  invalid=4
+2026-06-29 13:51:11,848  INFO      Processing: reasoning/clock/Clock Practice Set.pdf
+2026-06-29 13:51:11,957  INFO        Clock Practice Set.pdf                               | extracted=98  valid=88  invalid=10
+2026-06-29 13:51:12,890  INFO      Processing: reasoning/coded_equation/Coded Equation _ 14 Feb _ Class PNG.pdf
+2026-06-29 13:51:12,922  INFO        Coded Equation _ 14 Feb _ Class PNG.pdf              | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:13,753  INFO      Processing: reasoning/coding_decoding/Coding  Decoding PYQ Practice Set.pdf
+2026-06-29 13:51:13,985  INFO        Coding  Decoding PYQ Practice Set.pdf                | extracted=302  valid=177  invalid=125
+2026-06-29 13:51:14,885  INFO      Processing: reasoning/coding_decoding/Coding Decoding  Practice Set.pdf
+2026-06-29 13:51:15,000  INFO        Coding Decoding  Practice Set.pdf                    | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:15,967  INFO      Processing: reasoning/counting_figures/Counting Figures Class Questions.pdf
+2026-06-29 13:51:16,048  INFO        Counting Figures Class Questions.pdf                 | extracted=79  valid=0  invalid=79
+2026-06-29 13:51:16,880  INFO      Processing: reasoning/counting_figures/Counting of Figures Practice Set (2).pdf
+2026-06-29 13:51:17,098  INFO        Counting of Figures Practice Set (2).pdf             | extracted=102  valid=1  invalid=101
+2026-06-29 13:51:17,968  INFO      Processing: reasoning/course_of_action/Course of Action Class Question.pdf
+2026-06-29 13:51:18,046  INFO        Course of Action Class Question.pdf                  | extracted=10  valid=10  invalid=0
+2026-06-29 13:51:18,992  INFO      Processing: reasoning/cube_and_cuboid/Cube and Cuboid Class Question.pdf
+2026-06-29 13:51:19,108  INFO        Cube and Cuboid Class Question.pdf                   | extracted=59  valid=3  invalid=56
+2026-06-29 13:51:20,093  INFO      Processing: reasoning/cube_and_cuboid/Cube and Cuboid Practice Set.pdf
+2026-06-29 13:51:20,183  INFO        Cube and Cuboid Practice Set.pdf                     | extracted=33  valid=0  invalid=33
+2026-06-29 13:51:20,996  INFO      Processing: reasoning/cube_and_cuboid/Cube and Cuboid Test.pdf
+2026-06-29 13:51:21,100  INFO        Cube and Cuboid Test.pdf                             | extracted=34  valid=0  invalid=34
+2026-06-29 13:51:22,017  INFO      Processing: reasoning/cube_and_cuboid/Cube PYQs Practice _ 10 April _ Class PNG.pdf
+2026-06-29 13:51:22,049  INFO        Cube PYQs Practice _ 10 April _ Class PNG.pdf        | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:22,858  INFO      Processing: reasoning/data_sufficiency/Data Sufficiency _ 5 June _ Class PNG.pdf
+2026-06-29 13:51:22,882  INFO        Data Sufficiency _ 5 June _ Class PNG.pdf            | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:23,794  INFO      Processing: reasoning/decision_making/Decision making _ 4 June _ Class PNG.pdf
+2026-06-29 13:51:23,829  INFO        Decision making _ 4 June _ Class PNG.pdf             | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:24,663  INFO      Processing: reasoning/dice/Dice Class Question.pdf
+2026-06-29 13:51:24,735  INFO        Dice Class Question.pdf                              | extracted=59  valid=15  invalid=44
+2026-06-29 13:51:25,619  INFO      Processing: reasoning/dice/Dice Practice Set.pdf
+2026-06-29 13:51:25,715  INFO        Dice Practice Set.pdf                                | extracted=51  valid=12  invalid=39
+2026-06-29 13:51:26,560  INFO      Processing: reasoning/dice/Dice PYQs Set.pdf
+2026-06-29 13:51:26,642  INFO        Dice PYQs Set.pdf                                    | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:27,660  INFO      Processing: reasoning/dice/Dice Test Question.pdf
+2026-06-29 13:51:27,739  INFO        Dice Test Question.pdf                               | extracted=51  valid=3  invalid=48
+2026-06-29 13:51:28,607  INFO      Processing: reasoning/dictionary_jumbling_wordformation/Dictionary ,  Word formation, Jumbling WBP Class Questions.pdf
+2026-06-29 13:51:28,661  INFO        Dictionary ,  Word formation, Jumbling WBP Class Que | extracted=40  valid=35  invalid=5
+2026-06-29 13:51:29,576  INFO      Processing: reasoning/direction_and_distance/Direction And Distance Class Question.pdf
+2026-06-29 13:51:29,674  INFO        Direction And Distance Class Question.pdf            | extracted=55  valid=55  invalid=0
+2026-06-29 13:51:30,620  INFO      Processing: reasoning/direction_and_distance/Direction And Distance Practice Set.pdf
+2026-06-29 13:51:30,759  INFO        Direction And Distance Practice Set.pdf              | extracted=51  valid=13  invalid=38
+2026-06-29 13:51:31,743  INFO      Processing: reasoning/direction_and_distance/Direction and Distance PYQ.pdf
+2026-06-29 13:51:31,779  INFO        Direction and Distance PYQ.pdf                       | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:32,586  INFO      Processing: reasoning/direction_and_distance/Direction And Distance Test.pdf
+2026-06-29 13:51:32,693  INFO        Direction And Distance Test.pdf                      | extracted=33  valid=10  invalid=23
+2026-06-29 13:51:33,502  INFO      Processing: reasoning/inequality/Inequality Class Questions.pdf
+2026-06-29 13:51:33,535  INFO        Inequality Class Questions.pdf                       | extracted=33  valid=33  invalid=0
+2026-06-29 13:51:34,329  INFO      Processing: reasoning/inequality/Inequality Practice Set.pdf
+2026-06-29 13:51:34,386  INFO        Inequality Practice Set.pdf                          | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:35,207  INFO      Processing: reasoning/letter_series/Letter Series Class Questions.pdf
+2026-06-29 13:51:35,240  INFO        Letter Series Class Questions.pdf                    | extracted=50  valid=50  invalid=0
+2026-06-29 13:51:36,127  INFO      Processing: reasoning/letter_series/Letter Series Practice Set.pdf
+2026-06-29 13:51:36,170  INFO        Letter Series Practice Set.pdf                       | extracted=62  valid=60  invalid=2
+2026-06-29 13:51:36,986  INFO      Processing: reasoning/missing_number/Missing Number Class Questions Final.pdf
+2026-06-29 13:51:37,025  INFO        Missing Number Class Questions Final.pdf             | extracted=40  valid=0  invalid=40
+2026-06-29 13:51:37,949  INFO      Processing: reasoning/non_verbal/Non Verbal Practice Set.pdf
+2026-06-29 13:51:38,407  INFO        Non Verbal Practice Set.pdf                          | extracted=506  valid=16  invalid=490
+2026-06-29 13:51:39,263  INFO      Processing: reasoning/non_verbal/Non Verbal PYQs [Part-01].pdf
+2026-06-29 13:51:39,360  INFO        Non Verbal PYQs [Part-01].pdf                        | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:40,339  INFO      Processing: reasoning/non_verbal/Non Verbal PYQs [Part-02].pdf
+2026-06-29 13:51:40,434  INFO        Non Verbal PYQs [Part-02].pdf                        | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:41,396  INFO      Processing: reasoning/non_verbal/Non Verbal PYQs [Part-03].pdf
+2026-06-29 13:51:41,495  INFO        Non Verbal PYQs [Part-03].pdf                        | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:42,328  INFO      Processing: reasoning/non_verbal/Non Verbal PYQs [Part-04].pdf
+2026-06-29 13:51:42,373  INFO        Non Verbal PYQs [Part-04].pdf                        | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:43,274  INFO      Processing: reasoning/non_verbal/Non Verbal Test.pdf
+2026-06-29 13:51:43,436  INFO        Non Verbal Test.pdf                                  | extracted=101  valid=12  invalid=89
+2026-06-29 13:51:44,262  INFO      Processing: reasoning/number_series/Number Series Class Questions.pdf
+2026-06-29 13:51:44,288  INFO        Number Series Class Questions.pdf                    | extracted=20  valid=2  invalid=18
+2026-06-29 13:51:45,199  INFO      Processing: reasoning/number_series/Number Series Practice Set.pdf
+2026-06-29 13:51:45,443  INFO        Number Series Practice Set.pdf                       | extracted=124  valid=2  invalid=122
+2026-06-29 13:51:46,333  INFO      Processing: reasoning/pair_formation/Pair Formation Class Questions.pdf
+2026-06-29 13:51:46,379  INFO        Pair Formation Class Questions.pdf                   | extracted=21  valid=13  invalid=8
+2026-06-29 13:51:47,326  INFO      Processing: reasoning/police_dice_cube_cuboid/Police Dice,  Cube and Cuboid PYQs.pdf
+2026-06-29 13:51:47,360  INFO        Police Dice,  Cube and Cuboid PYQs.pdf               | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:48,333  INFO      Processing: reasoning/puzzle/Puzzle Complete Class PNG.pdf
+2026-06-29 13:51:49,277  INFO        Puzzle Complete Class PNG.pdf                        | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:50,171  INFO      Processing: reasoning/ranking/Ranking Class Questions.pdf
+2026-06-29 13:51:50,252  INFO        Ranking Class Questions.pdf                          | extracted=50  valid=11  invalid=39
+2026-06-29 13:51:51,074  INFO      Processing: reasoning/ranking/Ranking Practice Set.pdf
+2026-06-29 13:51:51,147  INFO        Ranking Practice Set.pdf                             | extracted=52  valid=21  invalid=31
+2026-06-29 13:51:52,108  INFO      Processing: reasoning/ranking/Ranking PYQ Practice Set.pdf
+2026-06-29 13:51:52,176  INFO        Ranking PYQ Practice Set.pdf                         | extracted=1  valid=1  invalid=0
+2026-06-29 13:51:53,144  INFO      Processing: reasoning/seating_arrangement/Seating Arrangement (Class Question).pdf
+2026-06-29 13:51:53,290  INFO        Seating Arrangement (Class Question).pdf             | extracted=26  valid=26  invalid=0
+2026-06-29 13:51:54,190  INFO      Processing: reasoning/seating_arrangement/Seating Arrangement And Puzzle PYQ Practice Set.pdf
+2026-06-29 13:51:54,238  INFO        Seating Arrangement And Puzzle PYQ Practice Set.pdf  | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:55,144  INFO      Processing: reasoning/seating_arrangement/Seating Arrangement Practice Set.pdf
+2026-06-29 13:51:55,223  INFO        Seating Arrangement Practice Set.pdf                 | extracted=26  valid=16  invalid=10
+2026-06-29 13:51:56,112  INFO      Processing: reasoning/series/Series PYQ Practice Set.pdf
+2026-06-29 13:51:56,167  INFO        Series PYQ Practice Set.pdf                          | extracted=0  valid=0  invalid=0
+2026-06-29 13:51:57,086  INFO      Processing: reasoning/statement_argument/Statement Argument Class Question.pdf
+2026-06-29 13:51:57,157  INFO        Statement Argument Class Question.pdf                | extracted=9  valid=9  invalid=0
+2026-06-29 13:51:58,072  INFO      Processing: reasoning/statement_assumption_and_conclusion/Statement Assumption And Conclusion Class Question.pdf
+2026-06-29 13:51:58,201  INFO        Statement Assumption And Conclusion Class Question.p | extracted=9  valid=9  invalid=0
+2026-06-29 13:51:59,175  INFO      Processing: reasoning/syllogism/Syllogism Part-1.pdf
+2026-06-29 13:51:59,276  INFO        Syllogism Part-1.pdf                                 | extracted=0  valid=0  invalid=0
+2026-06-29 13:52:00,226  INFO      Processing: reasoning/syllogism/Syllogism Part-2.pdf
+2026-06-29 13:52:00,332  INFO        Syllogism Part-2.pdf                                 | extracted=0  valid=0  invalid=0
+2026-06-29 13:52:01,211  INFO      Processing: reasoning/syllogism/Syllogism Part-3.pdf
+2026-06-29 13:52:01,294  INFO        Syllogism Part-3.pdf                                 | extracted=0  valid=0  invalid=0
+2026-06-29 13:52:02,169  INFO      Processing: reasoning/teaching_dice_cube_cuboid/Teaching Dice, Cube and Cuboid PYQs.pdf
+2026-06-29 13:52:02,181  INFO        Teaching Dice, Cube and Cuboid PYQs.pdf              | extracted=0  valid=0  invalid=0
+2026-06-29 13:52:02,977  INFO      Processing: reasoning/upsc_csat_dice_cube_cuboid/UPSC CSAT Dice, Cube and Cuboid PYQs.pdf
+2026-06-29 13:52:03,020  INFO        UPSC CSAT Dice, Cube and Cuboid PYQs.pdf             | extracted=12  valid=6  invalid=6
+2026-06-29 13:52:03,964  INFO      Processing: reasoning/venn_diagram/Venn Diagram (Class Question).pdf
+2026-06-29 13:52:04,080  INFO        Venn Diagram (Class Question).pdf                    | extracted=45  valid=22  invalid=23
+2026-06-29 13:52:05,029  INFO      Processing: reasoning/venn_diagram/Venn Diagram Practice Set.pdf
+2026-06-29 13:52:05,182  INFO        Venn Diagram Practice Set.pdf                        | extracted=101  valid=14  invalid=87
+2026-06-29 13:52:06,140  INFO      Processing: reasoning/venn_diagram/Venn Diagram PYQ.pdf
+2026-06-29 13:52:06,229  INFO        Venn Diagram PYQ.pdf                                 | extracted=0  valid=0  invalid=0
+2026-06-29 13:52:07,164  INFO      Processing: reasoning/venn_diagram/Venn Diagram Test.pdf
+2026-06-29 13:52:07,251  INFO        Venn Diagram Test.pdf                                | extracted=51  valid=12  invalid=39
+2026-06-29 13:52:08,065  INFO      Processing: reasoning/word_based/Word-Based Problems (English).pdf
+2026-06-29 13:52:08,147  INFO        Word-Based Problems (English).pdf                    | extracted=263  valid=154  invalid=109
+2026-06-29 13:52:09,135  INFO      Processing: reasoning/word_based/Word-Based-Problems (Hindi).pdf
+2026-06-29 13:52:09,655  INFO        Word-Based-Problems (Hindi).pdf                      | extracted=0  valid=0  invalid=0
+2026-06-29 13:52:10,612  INFO      ─────────────────────────────────────────────────────────────────
+2026-06-29 13:52:10,633  INFO      Done in 180.1s — valid=4189  invalid=3845  skipped(unchanged)=0
+2026-06-29 13:52:10,634  INFO      JSON saved to : C:\Users\BIT\Desktop\vidyaAi\backend\processed
+2026-06-29 13:52:10,635  INFO      Invalid saved : C:\Users\BIT\Desktop\vidyaAi\backend\invalid
+2026-06-29 13:52:10,635  INFO      Run next      : python scripts/validate_questions.py

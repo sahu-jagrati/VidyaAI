@@ -1,0 +1,863 @@
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+ 
+1. A and B can do a piece of work in 36 days. B and C can do the same work in 60 days. A and C can do 
+the same work in 45 days. In how many days can B alone complete the same work? 
+A और B किसी िाम िो 36 दिनों में िर सिते हैं। B और C उसी िाम िो 60 दिनों में िर सिते हैं। A और C उसी िाम िो 
+45 दिनों में िर सिते हैं। B अिेले उसी िाम िो कितने दिनों में पूरा िर सिता है? 
+(a) 45  
+ 
+(b) 60  
+ 
+ 
+(c) 90  
+ 
+(d) 120 
+2. Reena and Riya together can complete a piece of work in 36 days. Riya and Geeta together can 
+complete it in 54 days. Reena and Geeta together can complete it in 81 days. In how many days 
+can Reena alone complete the work? 
+रीना और ररया ममलिर एि िाम िो 36 दिनों में पूरा िर सिते हैं। ररयाज़ और गीता ममलिर इसे 54 दिनों में पूरा िर सिते 
+हैं। रीना और गीता ममलिर इसे 81 दिनों में पूरा िर सिती हैं। रीना अिेले कितने दिनों में िाम पूरा िर सिती है? 
+(SSC CHSL 2024) 
+A) 82
+𝟒
+𝟕 days 
+B) 87
+𝟒
+𝟕 days 
+C) 97
+𝟒
+𝟕 days 
+D) 92
+𝟒
+𝟕 days 
+3. Amar, Akbar and Anthony are working on a project. Working together Amar and Akbar can complete 
+the project in 1 year, Akbar and Anthony can complete in 16 months, Anthony and Amar can 
+complete in 2 years. If the person who is neither the fastest nor the slowest works alone, the time 
+in months he will take to complete the project is? 
+अमर, अकबर और एंथनी एक प्रोजेक्ट पर काम कर रहे हैं। अमर और अकबर एक साथ काम करते हुए पररयोजना को 1 साल में पूरा कर 
+सकते हैं, अकबर और एंथोनी 16 महीने में पूरा कर सकते हैं, एंथनी और अमर 2 साल में पूरा कर सकते हैं। यदि वह व्यक्क्त जो न तो 
+सबसे तेज और न ही सबसे धीमा काम करता है, वह पररयोजना को पूरा करने के ललए महीनों में ककतना समय लेगा? 
+A) 48 
+B) 32 
+C) 40 
+D) 52 
+4. P & Q can do a job in 90 days, Q and R can do it in 112.5 days, while P and R can do it in 150 days. 
+X is five times as efficient as P, Y is two-thirds as efficient as Q, and Z is 2.5 times as efficient as R. 
+Determine the number of days required to complete the same job if X, Y and Z work together? 
+P & Q एि िाम िो 90 दिनों में िर सिते हैं, Q और R इसे 112.5 दिनों में िर सिते हैं, जबकि P और R इसे 150 दिनों 
+में िर सिते हैं। X, P से पाांच गुना िुशल है, Y, Q से िो-ततहाई िुशल है, और Z, R से 2.5 गुना िुशल है। यदि X, Y और Z 
+एि साथ िाम िरते हैं तो समान िायय िो पूरा िरने िे मलए आवश्यि दिनों िी सांख्या तनर्ायररत िरें?  
+ 
+( IB ACIO  GRDE -2 2023) 
+A) 31
+𝟑
+𝟐𝟗 
+B) 31
+𝟏
+𝟐𝟗 
+C) 30
+𝟐𝟖
+𝟐𝟗 
+D) 31
+𝟐
+𝟐𝟗 
+5. A and B can complete a job together in 12.5 days; B and C can complete the same job together in 
+18.75 days, while C and A can complete the same job together in 15 days. In how many days will A, 
+B and C together be able to complete the same job alongside D, who is only 40% as efficient as C? 
+A और B मिलकर एक कार्य को 12.5 मिनोों िें पूरा कर सकते हैं; B और C मिलकर उसी कार्य को 18.75 मिनोों िें पूरा कर सकते 
+हैं, जबमक C और A मिलकर उसी कार्य को 15 मिनोों िें पूरा कर सकते हैं। D को साथ लेते हुए, जो C की तुलना िें केवल 40% 
+कुशल है, A, B और C मिलकर उसी कार्य को मकतने मिनोों िें पूरा कर पाएोंगे? (SSC CGL MAINS  2023) 
+(a) 9
+𝟏
+𝟑  
+(b) 9
+𝟏𝟕
+𝟐𝟕 
+(c) 9
+𝟐
+𝟑  
+(d) 9
+𝟕
+𝟐𝟕 
+ 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+6. Adil and Viren together can complete a work in 20 days. Viren and Chirag together can complete the same work in 50 days. 
+Adil and Chirag together can complete the same work in 40 days. If the same work was to be done by them alone, then what 
+will be the ratio of the time taken by Viren to the time taken by Adil? 
+ 
+आदिल और वीरेन ममलिर एि िाम िो 20 दिनों में पूरा िर सिते हैं। वीरेन और चचराग ममलिर उसी िायय िो 50 दिनों में पूरा 
+िर सिते हैं। आदिल और चचराग ममलिर उसी िाम िो 40 दिनों में पूरा िर सिते हैं। यदि वही िायय उन्हें अिेले िरना हो तो 
+वीरेन द्वारा मलये गये समय और आदिल द्वारा मलये गये समय िा अनुपात क्या होगा? 
+RRB NTPC 09/05/2022 Shift : 2 
+ 
+(A) 11:9  
+ 
+(B) 11:3 
+ 
+ (C) 7:9  
+ 
+(D) 9:11 
+7. W and X together can complete a work in 40 days. X and Y together can complete the same work in 
+60 days. If W, X and Y all work together, then the same work gets completed in 30 days. How many 
+days will W and Y together take to complete the same work? 
+W और X ममलिर एि िायय िो 40 दिनों में पूरा िर सिते हैं। X और Y ममलिर उसी िायय िो 60 दिनों में पूरा िर सिते हैं। 
+यदि W, X और Y सभी एि साथ िायय िरते हैं, तो वही िायय 30 दिनों में पूरा हो जाता है। W और Y िो ममलिर उसी िायय िो 
+पूरा िरने में कितने दिन लगेंगे?  
+SSC GD TIER I 2024 
+A) 45 days 
+B) 40 days 
+C) 50 days 
+D) 36 days 
+8. A , B and C can complete a job in 5 days. B , C and D can complete the same job in 10 days.  
+C , D and A can complete the same job in 15 days and D, A and B can complete the same job in 30 days. How 
+long do A , B , C and D together take to finish the job ? 
+A, B और C एक काि को 5 मिनोों िें पूरा कर सकते हैं, B, C और D उसी काि को 10 मिनोों िें पूरा कर सकते हैं। C, D और A उसी 
+काि को 15 मिनोों िें पूरा कर सकते हैं, और D, A और B उसी काि को 30 मिनोों िें पूरा कर सकते हैं। A, B, C और D मिलकर कार्य 
+को पूरा करने िें मकतना सिर् लेंगे ? 
+ 
+RRB NTPC 29/12/2020 (Morning) 
+(a) 8 days  
+(b) 8
+𝟏
+𝟐 days   
+(c) 7
+𝟏
+𝟐 days  
+(d) 7 days    
+9. A and B together can complete a piece of work in 25 days, B and C together can complete the same piece of work in 
+36 days, while C and A together can complete it in 30 days. If A, B, C, and D together can complete this piece of work 
+in 18 days, then in how many days can D alone complete this piece of work? 
+A और B ममलिर किसी िायय िो 25 दिनों में पूरा िर सिते हैं, B और C ममलिर उसी िायय िो 36 दिनों में पूरा िर सिते हैं, 
+जबकि C और A ममलिर उसी िायय िो 30 दिनों में पूरा िर सिते हैं। यदि A, B, C और D ममलिर इस िायय िो 18 दिनों में 
+पूरा िर सिते हैं, तो D अिेला इस िायय िो कितने दिनों में पूरा िर सिता है? 
+ 
+SSC CPO Pre 2024 
+[A]225 
+ 
+[B] 210 
+ 
+[C]200 
+ 
+[D] 180 
+10. Amita can build a room in the same amount of time that Bina and Sita working together can build. 
+If Amita and Bina together could do it in 25 days and Sita alone in 35 days, then how many days 
+are required for Bina alone to do the same work? 
+अममता उतने ही समय में एि िमरा बना सिती है जजतना बीना और सीता ममलिर बना सिती हैं। यदि अममता और बीना 
+ममलिर उस िायय िो 25 दिनों में और सीता अिेले 35 दिनों में िर सिती हैं, तो बीना िो अिेले उसी िायय िो िरने में कितने 
+दिन लगेंगे? 
+SSC CPO 2024 
+A) 152 days 
+B) 175 days 
+C) 165 days 
+D) 180 days 
+11. A and B together can complete a certain work in 20 days whereas B and C together can complete it in 24 days. If A is twice 
+as good a workman as C, then in what time will B alone do 40% of the same work? 
+A vkSj B feydj ,d fuf'pr dk;Z dks 20 fnu eas iwjk dj ldrs gSa tcfd B vkSj C feydj mlh dk;Z dks 24 fnu eas iwjk dj ldrs gSaA ;fn A, C ls nksxquk 
+dq'ky Jfed gS] rks B vdsys ml dk;Z ds 40% Hkkx dks fdrus le; esa djsxk\ 
+(a) 
+12 days/fnu 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+(b) 
+10 days/fnu 
+(c) 
+18 days/fnu 
+(d) 
+15 days/fnu 
+ 
+12. Anu can complete a piece of work in 22 days. Shama is 60% more efficient than Anu. How many days does Shama alone 
+take to complete the same piece of work? 
+vuq] fdlh dk;Z dks 22 fnu eas dj ldrh gSA 'kek] vuq ls 60% vf/kd dq'ky gSA vdsys 'kek] mlh dk;Z dks fdrus fnu esa iwjk djsxh\ 
+(a) 
+2
+36 3
+ 
+(b) 
+1
+353
+ 
+(c) 
+1
+135
+ 
+(d) 
+3
+13 4
+ 
+13. Abhay can do a work in 22 days. Nidhi is 28% more efficient than Abhay. The number of days Nidhi 
+will take to do the same piece of work is: 
+अभर् एक कार्य को 22 मिनोों िें कर सकता है। मनमि अभर् से 28% अमिक कुशल है। मनमि को उसी कार्य को करने िें मकतने मिन 
+लगेंगे: 
+1. 17
+𝟑
+𝟏𝟔 
+2. 16
+𝟑
+𝟏𝟕 
+3. 28
+𝟏
+𝟏𝟔 
+4. 16
+𝟏
+𝟏𝟕 
+ 
+ 
+(SSC SELECTION POST XI 2023) 
+14. A can do a piece of work in 1695 days. B is 25% more efficient than A. Find the number of days taken 
+by B to do the same piece of work. 
+A, 1695 दिनों में एि िायय िर सिता है । B, A िी तुलना में 25% अचर्ि िुशल है । उसी िायय िो िरने िे मलए B द्वारा 
+मलए गए दिनों िी सांख्या ज्ञात िीजजए।(UP POLICE SI 2021) 
+(A) 1356 
+(B) 1256 
+(C) 1456 
+(D) 1556 
+15. A is 40% more efficient than B. How much time will they take to work together to complete a job, 
+which A along could have done in 31 days? 
+A, B से 40% अमिक कुशल है। र्मि A अकेले मकसी काि को 31 मिनोों िें पूरा कर सकता है, तो िोनोों को मिलकर उस काि को पूरा 
+करने िें मकतने मिनोों का सिर् लगेगा? 
+(a) 
+𝟐𝟏𝟕
+𝟏𝟐
+ days      
+   (b) 
+𝟓𝟏𝟓
+𝟑𝟐
+ days 
+          
+(c) 
+𝟐𝟏𝟓
+𝟏𝟐
+ days         
+   (d) 
+𝟓𝟏𝟕
+𝟑𝟐
+ days 
+SSC CGL 2023 PRE 
+16. A is 40% more efficient than B. How much time will both, working together, take to finish the work, which B alone can finish 
+in 36 days? 
+A, B ls 40% vf/kd dq'ky gSA nksuksa feydj dk;Z djrs gq, ml dk;Z dks iwjk djus eas fdruk le; ysaxs] ftls B vdsyks 36 fnuksa esa iwjk dj ldrk gS\ 
+(a) 
+18 days 
+(b) 
+𝟗
+𝟏
+𝟑 days 
+(c) 
+15 days 
+(d) 
+11 
+𝟐
+𝟑 days  
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+17. P is four times as good a workman as Q, and therefore is able to finish a task in 36days less than Q. Working together, both 
+can finish the work in: 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+P, Q dh rqyuk esa pkj xquk vPNk Jfed gS] vkSj blfy, ,d dk;Z dks Q ls 36 fnu de esa iwjk djrk gSA ,d lkFk dk;Z djrs gq,] nksuksa bl 
+dk;Z dks fdrus le; esa iwjk dj ldrs gSa\ 
+(a) 𝟗
+𝟏
+𝟓days 
+ (b) 𝟗
+𝟑
+𝟓days 
+(c) 48 days 
+ (d) 12 days  
+18. A works 5.4 times as fast as B, and A takes 22 days less than B to complete the job when each 
+works alone. Calculate the number of days taken to complete the same job if A and B work 
+together? 
+A, B से 5.4 गुना तेजी से िाम िरता है, और A िो िाम पूरा िरने में B से 22 दिन िम लगते हैं, जब प्रत्येि अिेले िाम 
+िरता है। यदि A और B एि साथ िायय िरते हैं तो समान िायय िो पूरा िरने में लगने वाले दिनों िी सांख्या िी गणना िरें? 
+(SSC CGL 2023) 
+A) 4
+𝟏
+𝟒 
+B) 4
+𝟑
+𝟏𝟔 
+C) 4
+𝟕
+𝟑𝟐 
+D) 4
+𝟓
+𝟑𝟐 
+19. To complete a wall, Vijay takes 40% more time than Ramesh. If together they complete the wall in 
+25 days, then how musch time will Vijay alone take to complete it? 
+एि िीवार िो पूरा िरने में ववजय िो रमेश से 40% अचर्ि समय लगता है। यदि वे ममलिर िीवार िो 25 दिनों में पूरा िरते 
+हैं, तो ववजय अिेले इसे पूरा िरने में कितना समय लेगा? 
+A) 45 days 
+B) 40 days 
+C) 300/7 days 
+D) 60 days 
+20. A takes twice as much time as B and thrice as much time as C to finalise a task.Working together, they can complete the task 
+in 8 days. The time (in days) taken by A, B and C, respectively, to complete the task is: 
+A fdlh dk;Z dks iwjk djus esa B ls nksxquk vkSj C ls rhu xquk le; ysrk gSA ,d lkFk feydj dk;Z djrs gq,] os 8 fnuksa esa dk;Z dks iwjk dj ldrs gSaA dk;Z 
+dks iwjk djus ds fy, Øe'k% A, B vkSj C }kjk fy;k x;k le; ¼fnuksa esa½ Kkr dhft,A 
+(a) 
+42, 21, 14 
+(b) 
+60, 30, 20 
+(c) 
+54, 27, 18 
+(d) 
+48, 24, 16  
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+21. A takes 4 times as much time as B or 5 times as much time as C to finish a piece of work. Working together, they can finish 
+the work in 4 days. B can do the work alone in: 
+A fdlh dk;Z dks iwjk djus esa B ls 4 xquk vf/kd ;k C ls 5 xquk vf/kd le; ysrk gSA ,d lkFk dke djrs gq,] os 4 fnu eas dke lekIr dj ldrs gSaA B 
+vdsys fdrus fnu eas dke iwjk dj ldrk gS\ 
+(a) 
+10 days/fnu 
+(b) 
+15 days/fnu 
+(c) 
+12 days/fnu 
+(d) 
+20 days/fnu 
+ 
+ 
+ 
+ 
+ 
+(SSC CGL 2022) 
+ 
+22. To do a certain work, the ratio of the efficiencies of A and B is 7: 5. Working together, they can complete the same work in 
+17
+𝟏
+𝟐 days. A alone will complete 60% of the same work in:  
+िोई तनजश्चत िायय िरने िे मलए, A और B िी िायय िुशलता िा अनुपात 7: 5 है। एि साथ ममलिर िायय िरते हुए, वे उसी िायय 
+िो 17
+𝟏
+𝟐 दिन में पूरा िर सिते हैं। अिेले A उसी िायय िा 60% कितने दिन में पूरा िरेगा? 
+(a) 16 days 
+ 
+(b) 18 days 
+ 
+ 
+(c) 21 days 
+ 
+(d) 15 days 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+23. The ratio of the efficiencies of A, B and C is 4 : 5 : 3. Working together, they can complete that 
+work in 25 days. A and C together will complete 35% of that work in: 
+A, B और C की कार्यक्षमता का अनुपात 4 : 5 : 3 है। एक साथ काम करते हुए, वे उस काम को 25 दिनों में पूरा कर सकते हैं। A और C दमलकर उस काम का 35% समर् पूरा 
+करेंगे:  
+(a) 12 days 
+   
+(b) 10 days 
+  
+ 
+(c) 18 days 
+   
+(d) 15 days 
+ 
+24. To complete a certain task, X is 30% more efficient than Y, and Z is 20% less efficient than Y. working 
+together, they can complete the task in 44 days. Y and Z together worked for 70 days. The remaining 
+work will be complete by X alone is: 
+एि तनजश्चत िायय िो पूरा िरने िे मलए X, Yिी तुलना में 30% अचर्ि िुशल है, और Z, Y िी तुलना में 20% िम िुशल है। 
+एि साथ िाम िरते हुए, वे 44 दिनों में िायय पूरा िर सिते हैं। Y और Z ने ममलिर 70 दिनों ति िाम किया। शेष िायय X 
+अिेले पूरा िरेगा: 
+a) 7 days 
+ 
+b) 5 days 
+ 
+ 
+c) 9 days 
+ 
+d) 8 days 
+25. To do a certain work, the ratio of the efficiencies of A, B and C is 7 : 5 : 6. Working together, they 
+can complete the same work in 35 days. B and C work together for 21 days. The remaining work 
+will be completed by A alone in: 
+ 
+ककसी कायय को करने के ललए, A, B और C की काययक्षमताओं का अनुपात 7 : 5 : 6 है। साथ लमलकर, वे उसी कायय को 35 दिनों में पूरा कर सकते हैं। 
+B और C लमलकर 21 दिन कायय करते हैं। शेष कायय A अकेले ककतने दिनों में पूरा करेगा?  
+(a) 60 days 
+ 
+(b) 57 days 
+ 
+ 
+(c) 54 days 
+ 
+(d) 50 days  
+26. A piece of work in 40 days. B is 25% more efficient than A and C is 28% more efficient than B. they work together for 5 
+days. The remaining work will be completed by B alone, in:- 
+A एक निनित कार्य को 40 नििों में पूरा कर सकता है। B, A से 25% अनिक कुशल है और C, B से 28% अनिक कुशल है। एक साथ वे 5 नििों तक काम करते है। अकेले B 
+द्वारा शेष कार्य को ....... में पूरा नकर्ा जाएगा। 
+a) 16
+𝟑
+𝟓 𝒅𝒂𝒚𝒔              
+b) 20
+𝟏
+𝟐 𝒅𝒂𝒚𝒔 
+ 
+ 
+c) 20
+𝟑
+𝟒 𝒅𝒂𝒚𝒔                
+d) 16
+𝟏
+𝟓 𝒅𝒂𝒚𝒔 
+27. Ankur is 20% less efficient than Gopal whereas Vikrant is 37.5% less efficient than Ankur. If Ankur 
+and Vikrant work together they can do the work in 46 days, then in how many days can they all 
+together finish the same work? 
+अंकुर ,गोपाल से 20% कम कुशल है जबकक किक्ांत, अंकुर की तुलना में 37.5% कम कुशल है। यकि अंकुर और किक्ांत एक 
+साथ काम करते हैं तो िे 46 किनों में काम कर सकते हैं, किर िे सभी एक साथ ककतने किनों में एक ही काम पूरा कर सकते हैं? 
+A) 30 days                            C) 26 days 
+B) 24 days                            D) 20 days 
+28. To do a certain work, A is 40% more efficient than B, and C is 25% less efficient than B. Working 
+together, they can complete the work in 20 days. B and C together can complete two-third of the 
+same work in? 
+एक ननक्चित कायय को करने के ललए, A, B से 40% अधधक कुशल है, और C, B से 25% कम कुशल है। एक साथ कायय करते हुए, वे 
+कायय को 20 दिनों में पूरा कर सकते हैं। B और C लमलकर समान कायय का िो-नतहाई भाग ककतने दिनों में पूरा कर सकते हैं? 
+A) 24 days 
+B) 30 days 
+C) 36 days 
+D) 21 days 
+29. A can complete a work in 45 days. B is 80% more efficient than A, and C is 25% less efficient than 
+B. B and C worked together for 10 days. Now in how many days only A can complete the remaining 
+work? 
+A एक कायय को 45  दिनों में पूर्य कर सकता है।  B, A से 80 % अधधक कुशल है, और C, B से 25 % कम कुशल है।  B और C ने 
+लमलकर 10  दिनों तक कायय ककया। अब केवल A शेष कायय को ककतने दिनों में पूर्य कर सकता है? (ICAR Technician 2022) 
+A) 13
+𝟏
+𝟐 days 
+B) 12 days 
+C) 12
+𝟏
+𝟐 days 
+D) 15 days 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+30. Mayank, Ashish and Avinash alone can complete a work in 20, 40 and 60 days respectively. 
+Shubham is 50 percent more efficient than Mayank. Ansh is 60 percent less efficient than Ashish. 
+Vaibhav is 10 percent less efficient than Avinash. Shubham, Ansh and Vaibhav together will 
+complete the same work in how many days? 
+मयांि, आशीष और अववनाश अिेले एि िाम िो क्रमशः 20, 40 और 60 दिनों में पूरा िर सिते हैं। शुभम मयांि से 50 
+प्रततशत अचर्ि िुशल है। अांश, आशीष से 60 प्रततशत िम िुशल है। वैभव, अववनाश से 10 प्रततशत िम िुशल है। शुभम, अांश 
+और वैभव ममलिर उसी िाम िो कितने दिनों में पूरा िरेंगे? 
+A) 7 
+B) 10 
+C) 15 
+D) 12         
+31. A can complete a certain work in 35 days. B is 40% more efficient than A, and C is 25% more 
+efficient than B. B and C work together for 8 days. The remaining work is completed by A with the 
+help of D in 3
+𝟏
+𝟐 days. D alone can complete 72% of the original work in? 
+A एक ननक्चित कायय को 35 दिनों में पूरा कर सकता है। B, A से 40% अधधक कुशल है, और C, B से 25% अधधक कुशल है। B और 
+C लमलकर 8 दिनों तक कायय करते हैं। शेष कायय A द्वारा D की सहायता से 3
+𝟏
+𝟐 दिनों में पूरा ककया जाता है। D अकेले मूल कायय का 72% 
+भाग ककतने दिनों में पूरा कर सकता है?  
+(ICAR Technician 2022) 
+A) 18 days 
+B) 14 days 
+C) 15 days 
+D) 12 days 
+32. The ratio of efficiency of A & B is 9:7. Working together, they can complete a certain work in 5
+𝟏
+𝟒 
+days. A alone completed 
+𝟑
+𝟕 𝒑𝒂𝒓𝒕 of the work and B alone completed the remaining work. The total 
+number of days in which the entire work got completed is? 
+A और B की िक्षता का अनुपात 9:7 है। एक साथ कायय करते हुए, वे एक ननक्चित कायय को 5
+𝟏
+𝟒  दिनों में पूरा कर सकते हैं। A अकेले कायय 
+का 3/7 भाग पूरा करता है और B अकेले शेष कायय को पूरा करता है। पूरा कायय ककतने दिनों में पूरा हुआ? (ICAR Assistant 2022) 
+A) 10
+𝟓
+𝟏𝟒 
+B) 9
+𝟑
+𝟏𝟒 
+C) 10
+𝟔
+𝟕 
+D) 12
+𝟓
+𝟕 
+33. A can complete a certain work in 30 days. B is 20% more efficient than A. C can complete 2/5 part 
+of the same work in 8 days. A and B together complete 11/15th part of the work. The remaining 
+work is completed by A and C together. In how many days was the entire work completed? 
+A एि तनजश्चत िायय िो 30 दिनों में पूरा िर सिता है। B, A से 20% अचर्ि िुशल है। C उसी िायय िा 2/5 भाग 8 दिनों 
+में पूरा िर सिता है। A और B ममलिर िायय िा 11/15 भाग पूरा िरते हैं। शेष िायय A और C द्वारा ममलिर पूरा किया 
+जाता है। पूरा िाम कितने दिनों में पूरा हुआ?  
+( IB ACIO GRADE-2 2023) 
+A) 14
+𝟐
+𝟓 
+B) 13 
+C) 13
+𝟏
+𝟓 
+D) 14 
+34. Working together, A and B can do a certain work in 45 days. They work together for 10 days. The 
+complete the remaining work in 28 days with the assistance of C. The worked by C in 3 days is 
+equal to the work done by B in 2 days. A and C together can complete 70% of the original work in? 
+A और B एक साथ कायय करते हुए एक ननक्चित कायय को 45 दिनों में पूरा कर सकते हैं। वे 10 दिनों तक एक साथ काम करते हैं। शेष 
+कायय को C की सहायता से 28 दिनों में पूरा करें। C द्वारा 3 दिनों में ककया गया कायय B द्वारा 2 दिनों में ककए गए कायय के बराबर है। A 
+और C लमलकर मूल कायय का 70% भाग ककतने दिनों में पूरा कर सकते हैं? (ICAR Technician 2022) 
+A) 36 days 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+B) 35 days 
+C) 40 days 
+D) 30 days 
+35. A works thrice as fast as B and B works 50% more fast as C does. All three working together can 
+finish a task in 8 days with the help of D. If D alone can finish the same task in 24 days, then in how 
+many days will A and D together finish 71
+𝟑
+𝟕% of the same task? 
+A, B dh rqyuk esa ततगुना  rsth ls dke djrk gS vkSj B, C ls 50% rsth ls dke djrk gSA rhuksa ,d lkFk feydj dke djrs gq, ,d dke dks D dh 
+enn ls 14 fnu eas iwjk dj ldrs gSaA ;fn D vdsys bl dke dks 24 fnuksa esa iwjk dj ldrk gS] rks A और D  ममलिर s blh dke ds 71
+𝟑
+𝟕%  Hkkx dks 
+fdrus fnuksa esa iwjk dj nsxk\ 
+(a) 10  
+ 
+(b) 9 
+ 
+ 
+ 
+         (c) 8 
+ 
+ 
+(d) 7.5 
+36. A alone can do 2/5 of a work in 12 days. B is 25 percent more efficient than A. C alone can do the same work in 12 days less than B. 
+D is 25 percent less efficient than C. If they all work together, then work will be completed in how many days?  
+A vdsyk ,d dk;Z dk 2/5 Hkkx 12 fnuksa esa iwjk dj ldrk gSA A dh rqyuk esa B, 25 izfr”kr vf/kd dk;Zdq”ky gSA C vdsyk mlh dk;Z dks B ls 
+12 fnu de esa dj ldrk gSA C dh rqyuk esa D, 25 izfr”kr de dk;Zdq”ky gSA ;fn os lkjs ,d lkFk feydj dk;Z djsa] rks dk;Z fdrus fnuksa esa iwjk 
+tk,xkk\  
+(a) 300/47  
+(b) 200/51  
+(c) 240/53  
+(d) 180/43  
+37. A and B can complete a certain work in 15 days and x days, respectively. C is 25% less efficient than 
+A. All the three work together for 4 days and the remaining work gets completed by B and C together 
+in the next 4 days. B alone can  complete 25% of the original work in: 
+A vkSj B ,d fo'ks"k dk;Z dks Øe'k% 15 fnuksa vkSj x fnuksa esa iwjk dj ldrs gSaA  C] A ls 25% de dq'ky gSA lHkh rhuksa us 4 fnuksa rd feydj dke fd;k 
+vkSj 'ks"k dk;Z dks B ckSj C feydj vxys 4 fnuksa esa iwjk fd;kA B vdsys ewy dk;Z dk 25% Hkkx fdrus le; esa iwjk dj ldrk gS\ 
+( ICAR Technician 2023) 
+1. 5 days  
+2. 4 days 
+ 
+3. 8 days 
+4. 6 days 
+ 
+ 
+ 
+ 
+38. Gautam and Suhani, working together, can finish a job in 20 days. If Gautam does only 60% of his 
+usual work on a day, Suhani must do 150% of her usual work on that day to exactly make up for it. 
+Then, the number of days required by the faster worker to complete the job working alone is? 
+गौतम और सुहानी, एि साथ िाम िरते हुए, 20 दिनों में एि िाम पूरा िर सिते हैं। यदि गौतम एि दिन में अपने सामान्य 
+िायय िा िेवल 60% ही िरता है, तो उसिी भरपाई िे मलए सुहानी िो उस दिन अपने सामान्य िायय िा 150% िायय िरना 
+होगा। तो किर, तेज़ िामगार िो अिेले िाम पूरा िरने में कितने दिन लगेंगे? (CAT 2023) 
+A) 30 
+B) 32 
+C) 36 
+D) 40 
+39. Two workers A and B working together completed a job in 8 days. If A had worked with twice efficiency 
+as he actually did, B had worked with 60% of efficiency as he actually did. The work would have been 
+completed in 6 days. To complete the job alone, B would require how many days? 
+िो श्रममिों A और B एि साथ ममलिर एि िाम िो 8 दिनों में पूरा  िरते है। यदि A अपनी  िोगुनी िक्षता िे साथ िाम िरे, 
+और  B अपनी 60% िक्षता िे साथ िाम िरे तब िाम 6 दिनों मे पूरा हो जाएगा। अिेले िाम पूरा िरने िे मलए B िो कितने 
+दिनों िी आवश्यिता होगी? 
+a) 16
+𝟒
+𝟓 
+ 
+ 
+b) 14
+𝟑
+𝟓  
+ 
+ 
+c) 17
+𝟏
+𝟓 
+ 
+ 
+d) 15
+𝟐
+𝟓 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+40. Abha and Anuj working together completed a job in 
+𝟒𝟎
+𝟗 days. If Abha had worked twice as efficiently as she actually did and 
+Anuj had worked 
+𝟏
+𝟑 of his actual efficiency, then the work would have been completed in 
+𝟔𝟎
+𝟏𝟕 days. Find the time Abha would 
+take to complete the work alone. 
+vkHkk vkSj vuqt ,d lkFk feydj dk;Z djrs gq, fdlh dke dks 
+𝟒𝟎
+𝟗 fnu esa iwjk djrs gSaA ;fn vkHkk us viuh okLrfod n{krk ls nksxquh n{krk ls dk;Z fd;k gksrk 
+vkSj vuqt us viuh okLrfod n{krk ds 
+𝟏
+𝟑 ls dk;Z fd;k gksrk] rks dke 
+𝟔𝟎
+𝟏𝟕 fnu esa iwjk gks tkrkA vkHkk }kjk vdsys dke dks iwjk djus esa fy;k x;k le; Kkr 
+djsaA 
+(SSC CGL 2022) 
+(a) 
+10 days 
+(b) 
+8 days 
+(c) 
+12 days 
+(d) 
+6 days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41. Pratap and Raju can together complete a work in 16 days. After seven days of working together. 
+Pratap got sick and his efficiency fell by 30%. As a resul, they completed the work in 17 days instead 
+of 16 days. If Raju had worked alone after Pratap got sick, in how many days would be have completed 
+the remaining work? 
+प्रताप और राजू लमलकर एक काम को 16 दिनों में पूरा कर सकते हैं। सात दिन साथ काम करने के बाि प्रताप बीमार हो गया और उसकी 
+काययक्षमता में 30% की धगरावट आई। नतीजतन, उन्होंने 16 दिनों के बजाय 17 दिनों में काम पूरा ककया। यदि प्रताप के बीमार होने के 
+बाि राजू अकेले कायय करता, तो शेष कायय ककतने दिनों में पूरा कर लेता? 
+A) 13.5 
+B) 11 
+C) 12 
+D) 14.5 
+42. Working together, printer A and printer B would finish a task in 24 minutes, Printer A alone would 
+finish the task in 60 minutes. How many pages does the task contain if printer B paints 5 pages a 
+minute more than printer A? 
+ वप्रांटर A और वप्रांटर B ममलिर  किसी िायय िो 24 ममनट में ख़त्म िरते है| वप्रांटर A अिेला किसी िाम िो 60 ममनट में ख़त्म 
+िर सिता है यदि वप्रांटर B  एि ममनट में वप्रांटर A से 5 पेज ज्यािा वप्रांट िरता है, तो िुल कितने पेज वप्रांट हुए  ? 
+a) 1200            b) 600 
+ 
+c) 300 
+ 
+ 
+d) 400 
+43. Three workers A, B & C can dig a ditch of 205.2m deep in 12 days working simultaneously in a day, 
+then C digs as many meters more than B as B digs more than A. The work of C in 7 days is equal to 
+the work of A in 12 days. How many meters does A dig per day? 
+तीन श्रलमक A, B और C एक दिन में एक साथ काम करते हुए 12 दिनों में 205.2 मीटर गहरी खाई खोि सकते हैं, किर C, B से उतने 
+ही मीटर अधधक खोिता है क्जतना B, A से अधधक खोिता है। 7 दिनों में C का कायय 12 दिनों में A के कायय के बराबर है । A प्रनतदिन 
+ककतने मीटर खुिाई करता है? 
+A) 7 meters 
+B) 5.6 meters 
+C) 4.2 meters 
+D) 10.5meters 
+44. Pinki, Chinki and Reema started a work and Reema left after 4 days when 46% of the work is completed and then work got 
+completed in 9 more days. In how many days can Reema alone complete the work?  
+वपांिी, चचांिी और रीमा ने एि िायय शुरू किया तथा रीमा ने 4 दिन बाि िायय िरना छोड़ दिया, तब ति िायय िा 46% िायय पूरा 
+हो गया था और किर पूरे िायय िो पूरा होने में 9 और दिन लग गए। रीमा अिेले िायय िो कितने दिनों में पूरा िर सिती है? 
+(SSC GD 2025) 
+1. 18
+𝟐
+𝟏𝟏   
+ 
+ 
+ 
+2. 18
+𝟒
+𝟏𝟏 
+3.  18
+𝟗
+𝟏𝟏  
+ 
+ 
+ 
+4. 18
+𝟕
+𝟏𝟏 
+ 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+45. A and B together can do a piece of work in 12 days which B and C together do in 16 days. If A works 
+for 5 days, B works for 7 days than C completes the remaining work in 13 days. In how much time B 
+alone does the whole work. 
+A और B ममलिर किसी िाम िो 12 दिनों में तथा B और C ममलिर उसी िाम िो 16 दिनों में िरते है| अगर A 5 दिन 
+िाम िरता है, B 7 दिन िाम िरता है और C 13 दिनों में शेष िाम िरता है, तो B अिेला पूरा िाम कितने दिनों में ख़त्म 
+िरेगा? 
+a) 48 days 
+ 
+b) 24 days 
+ 
+c) 16 days 
+ 
+d) 12 days 
+46. Three persons A, B and C together can do a piece of work in 36 days. A and B together can do five 
+times as much work as C alone; B and C together can do as much work as A alone. If A and C 
+together can do n times as alone work as B alone, then what is the value of n? 
+तीन व्यजक्त A, B और C ममलिर एि िायय िो 36 दिनों में पूरा िर सिते हैं। A और B ममलिर अिेले C से पाांच गुना िाम 
+िर सिते हैं; B और C ममलिर उतना िाम िर सिते हैं जजतना A अिेले िर सिता है। यदि A और C ममलिर अिेले B से n 
+गुना िायय िर सिते हैं, तो n िा मान क्या है? (CDS 2023) 
+A) 1.5 
+B) 2 
+C) 2.5 
+D) 3 
+47. To do a certain task X would take 3 times as long as Y and Z together; and Z would takes 4 times as long as Y and X together. 
+Three of them together can complete the task in 10 days. How much time is taken by X and Z to complete the task? 
+,d fuf'pr dke djus ds fy, X dks] mlh dke dks Y vkSj Z dks ,d lkFk feydj djus esa yxs le; ls 3 xquk le; yxrk gS( vkSj Z dks] Y vkSj X dks 
+,dlkFk feydj djus eas yxs le; ls 4 xquk le; yxrk gSA rhuksa feydj dke dks 10 fnuksa eas iwjk dj ldrs gSaA X vkSj Z dks ,d lkFk feydj dke iwjk 
+djus eas druk le; yxsxk\ 
+(a) 𝟏𝟖
+𝟐
+𝟗days/fnu 
+(b)𝟐𝟎
+𝟏
+𝟗 days/fnu 
+(c) 𝟐𝟏
+𝟏
+𝟗days/fnu 
+(d) 𝟐𝟐
+𝟐
+𝟗 days/fnu 
+48. A can do a certain piece of work in 2.4 times the number of days in which B and C together can do 
+it. If A and B together can do the same piece of work in 27 days and C alone can do it in 75 days, 
+then how many days will B take to do this piece of same work? 
+A एि तनजश्चत िायय िो B और C द्वारा ममलिर किए गए दिनों िी तुलना में 2.4 गुना  दिनों में पूरा िर सिता है। यदि A 
+और B ममलिर उसी िायय िो 27 दिनों में िर सिते हैं और C अिेले उस िायय िो 75 दिनों में िर सिता है, तो उसी िायय िो 
+िरने में B िो कितने दिन लगेंगे? (SSC CPO 2023) 
+A) 42 
+B) 54 
+C) 48 
+D) 45 
+49. A can complete a given task in as much time as B and C together can complete that task. If A and B 
+together can complete the work in 25 days, and C alone can complete it in 60 days, in how many 
+days can B alone complete the work(approximately)?   
+ 
+A एि तनजश्चत िायय िो उतने ही समय में पूरा िर सिता है, जजतने समय में B और C एि साथ ममलिर उस िायय िो पूरा िर 
+सिते है। यदि A और B एि साथ ममलिर उस िायय िो 25 दिन में पूरा िर सिते है, और C अिेले उसे 60 दिन में पूरा िर 
+सिता है, तो B अिेले उस िायय िो कितने दिन में (लगभग)पूरा िर सिता है? 
+ 
+[RRB Group-D 2022] 
+ 
+[A] 
+75 days 
+[B] 90 days 
+ 
+[C] 
+81 days 
+[D] 86 days 
+ 
+ 
+ 
+                     
+ 
+            BY:-GAGAN PRATAP  
+50. When they work alone, B needs 25% more time to finish a job than A does. They two finish the job 
+in 13 days in the following manner: A works alone till half the job is done, then A and B work together 
+for four days, and finally B works alone to complete the remaining 5% of the job. In how many days 
+can B alone finish the entire job? 
+जब वे अिेले-अिेले िाम िरते हैं, तो A िी तुलना में B िो िाम खत्म िरने िे मलए 25% अचर्ि समय िी आवश्यिता होती 
+है। वे िोनों  िाम िो 13 दिनों में तनम्नमलखखत तरीिे से पूरा िरते हैं: A अिेले तब ति िाम िरता है जब ति आर्ा िाम  
+पूरा नहीां हो जाता , उसिे बाि A और B ममलिर  चार दिनों िे मलए एि साथ िाम िरते हैं, और आखरी में B अिेले शेष 5% 
+िाम िो पूरा िरता हैं। B अिेले कितने दिनों में पूरा िाम खत्म  िर सिता है? 
+a)16 
+ 
+b)20 
+ 
+c)22 
+ 
+d)18 
+51. Kiran, Vishal and Dinesh work in a juice factory. Kiran takes 2 hours to extract asmuch juice as Vishal can in 3 hours. 
+Dinesh takes 5 hours to extract as much juice thatKiran extracts in 4 hours. A tank can be filled with juice in 48 hours, if all 
+of them work together. How long will it take to fill the tank, if Dinesh alone is trying to fill the tank? 
+fdj.k] fo'kky vkSj fnus'k ,d twl QSDVªh esa dke djrs gSaA fo'kky ftruk twl 3 ?kaVs esa fudky ldrk gS] fdj.k mruk twl fudkyus esa 2 ?kaVs dk le; ysrh gSA 
+fdj.k ftruk twl 4 ?kaVs eas fudkyrh gS] fnus'k dks mruk twl fudkyus esa 5 ?kaVs yxrs gSaA ;fn os lHkh ,d lkFk dke djsa] rks ,d Vadh dks twl ls 48 ?kaVs eas 
+Hkjk tk ldrk gSA ;fn fnus'k vdsyk Vadh dks Hkjus dk ç;kl dj jgk gS] rks Vadh dks Hkjus esa fdruk le; yxsxk\ 
+(a) 140 hours   
+(b)135 hours 
+(c)132 hours   
+(d) 148 hours 
+52. 2 men can build a wall in 15 and 20 hours respectively but, if they work together, they use 280 less 
+bricks per hour and build a wall in 12 hours. Find the number of bricks in the wall. 
+2 पुरुष क्रमशः 15 और 20 घांटे में एि िीवार िा तनमायण िर सिते हैं, लेकिन अगर वे एि साथ िाम िरते हैं, तो वे प्रतत घांटे 280 
+िम ईंटों िा उपयोग िरते हैं और 12 घांटों में एि िीवार िा तनमायण िरते हैं। िीवार में ईंटों िी सांख्या ज्ञात िीजजए। 
+a) 8400  
+b) 2800 
+ 
+c) 4200  
+d) 16800 
+53. B is 20% more efficient than A. B started the work & do it for x days. And then B is replaced by A and 
+A completed the remaining work in x+8 days. Ratio of work done by A & B is 3:2. In how many day 
+A&B working together to complete the whole work? 
+B, A से 20% अचर्ि िुशल है, B ने  िायय शुरू किया और x दिनों ति िाम  किया। और किर B िो A से बिल दिया जाता है 
+और A ने शेष िायय x + 8 दिनों में पूरा िर मलया है। A और B द्वारा दकर्े गए कार्य का अनुपात है, A और B िोनों ममलिर पुरे िाम िो 
+एि साथ िरिे कितने दिनों में िर सिते है? 
+a) 130/12 days  
+b) 150/11 days 
+c) 140/13 days  
+d) 100/33 days 
+54. A can do 1/3 of a piece of work in 32 days, B can do 37
+𝟏
+𝟐% of the same work in 24 days, while C can 
+do 60% of the same work in 48 days. B and C together started and worked for x days. After x days, B 
+left the work and A joined C and both completed the remaining work in (x+8) days. If the ratio of the 
+work done by (B+C) together to the work done by (A+C) together is 9:11, then what fraction of the 
+same work can be completed by C alone in 3.5x days? 
+A मकसी कार्य का 1/3  भाग 32 मिन िें कर सकता है. B उसी कार्य का 37
+𝟏
+𝟐%, कार्य 24 मिन िें कर सकता है, जबमक C उसी कार्य 
+का 60% कार्य 48 मिन िें कर सकता है। B और C ने मिलकर काि करना शुरू मकर्ा और x मिन तक कार्य मकर्ा। x मिन के बाि, B 
+ने कार्य छोड़ मिर्ा और A, C के साथ शामिल हुआ और िोनोों ने शेष कार्य को (x + 8) मिन िें पूरा मकर्ा। र्मि (B+C) द्वारा मिलकर 
+मकए गए कार्य और (A + C) द्वारा मिलकर मकए गए कार्य का अनुपात 9 : 11 है, तो 3.5x मिन अकेले C द्वारा उस कार्य का मकतना 
+भाग पूरा मकर्ा जा सकता है? 
+ 
+SSC CGL 2023 PRE 
+A) 18/25 
+b) 4/5 
+c)7/10 
+d)¾ 
+55. One man, three women and four children 55. does a work in 96 hours while two men and eight 
+children can complete the same work in 80 hours.2 men and 3 women can do it in 120 hrs. Find in 
+how much time will 10 men and 5 women complete the work. 
+एि आिमी, तीन औरतें और चार बच्चे  ममलिर 96 घांटों में एि िाम िरते हैं, िो आिमी और आठ बच्चे ममलिर 80 घांटों में वही 
+िाम पूरा िर सिते हैं। 2 पुरुष और 3 मदहलाएां इसे 120 घांटे में िर सिते हैं। 10 पुरुषों और 5 मदहलाओां िो ममलिर िाम पूरा 
+िरने में कितना समय लगता है। 
+a) 39 hours 
+ 
+b) 42 hours 
+c) 36hours  
+ 
+d) 34 hours 
+ 

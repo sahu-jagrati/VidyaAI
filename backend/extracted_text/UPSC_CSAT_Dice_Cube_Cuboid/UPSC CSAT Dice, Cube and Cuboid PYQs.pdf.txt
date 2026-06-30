@@ -1,0 +1,391 @@
+ 
+ 
+ 
+ 
+ 
+CUBE AND CUBOID 
+UPSC CSAT PREVIOUS YEAR QUESTIONS  
+      PIYUSH VARSHNEY SIR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. What is the least possible number of 
+cuts required to cut a cube into 64 
+identical pieces ? 
+एक घन को 64 समरूप टुकड़ों में 
+काटने के लिए अवस्यक काटों की 
+न्यूनतम संभाववत संख्या क्या है ? 
+a) 8 
+b) 9 
+c) 12 
+d) 16 
+UPSC CSAT 2024 
+2. 125 identical cubes are arranged in the 
+form of a cubical block . How many 
+cubes are surrounded by other cubes 
+from each side ? 
+125 सववसम घन एक घनाकार खंड के 
+रूप में व्यवस्स्ित ककए गए है । ककतने 
+घन हर पार्व से अन्य घनों द्वारा घघरे 
+हुए है ? 
+a) 27 
+b) 25 
+c) 21 
+d) 18 
+UPSC CSAT 2023 
+3. A cuboid of dimensions 7 cm × 5 cm × 3 
+cm is painted red , green and blue 
+colour on each pair of opposite faces of 
+dimensions  7 cm × 5 cm , 5 cm × 3 cm 
+, 7 cm × 3 cm respectively . Then the 
+cuboid is cut and separated into  
+Various cubes each of side length 1 cm . 
+Which of the following statement is/are 
+correct ? 
+1. There are exactly 15 small cubes 
+with no paint on any face .  
+2. There are exactly 6 small cubes 
+with exactly two faces , one 
+painted with blue and the other 
+with green . 
+ 
+Select the correct answer using the 
+code given below : 
+ 
+ 
+7 cm × 5 cm × 3 cm ववमाओं वािे एक 
+घनाभ के क्रमस: 7 cm × 5 cm , 5 cm × 
+3 cm , 7 cm × 3 cm ववमाओं वािे 
+सम्मुख फिकों के प्रत्यक युग्म को िाि 
+, हरे , और नीिे रंग से रंगा गया है । 
+तब इस घनाभ को काटकर प्रत्यक 1 cm 
+भुजा के ववलभन्न घन अिग कर दिया 
+जाते है । घनम्नलिखखत किनों में से 
+कोन-सा/से सही है/हैं ? 
+1. एसे ठीक-ठाक 15 छोटे घन है 
+स्जनके ककसी भी फिक पर कोई 
+रंग नहीं है ।  
+2. एसे ठीक-ठाक 6  छोटे घन है 
+स्जनके ठीक-ठाक िो फिक, एक 
+नीिे और िूसरा हरे रंग से , रंगे 
+हुए है ।  
+नीचे दिए गए कूट का प्रयोग कर सही 
+उत्तर चुघनये  
+ 
+ 
+ 
+CAREER WILL APP 
+Easy to learn ….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) 1 only 
+b) 2 only 
+c) Both 1 and 2 
+d) Neither 1 nor 2  
+UPSC CSAT 2023 
+4. A solid cube is painted yellow , blue and 
+black such that opposite faces are of 
+same colour . The cube is then cut into 36 
+cubes of two different sizes such that 32 
+cubes are small and the other four cubes 
+are big .  None of the faces of the bigger 
+cubes is painted blue . How many cubes 
+have only one face painted ? 
+एक ठोस घन का पीिा , नीिा और 
+कािा इस प्रकार रंगा गया है की इसके 
+ववपरीत फिक एक ही रंग के है । तब 
+इस घन िो लभन्न आमापों के 36 घनों में 
+इस प्रकार काटा गया है की 32 घन छोटे 
+है और अन्य 4 घन बड़े है । बड़े घनों का 
+कोई भी फिक नीिा नहीं रंगा गए है । 
+ककतने घनों में केवि एक फिक रंगा 
+हुआ है ? 
+a) 4 
+b) 6 
+c) 8  
+d) 10 
+  
+UPSC CSAT 2019 
+5. What is the symbol on the face opposite 
+to that containing a single dot ? 
+एक ही बबन्िु वािे फिक के ववपरीत 
+फिक पर क्या प्रतीक है ? 
+a) Four dots 
+b) Three dots  
+c) Two dots  
+d) Cross  
+ 
+                
+ 
+ 
+ 
+ 
+ 
+UPSC CSAT 2018 
+6. 
+What is the symbol on the face 
+opposite to that containing two dots ? 
+िो बबंिुओं वािे फिक के ववपरीत 
+फिक पर क्या प्रतीक है ? 
+ 
+ 
+ 
+CAREER WILL APP 
+Easy to learn ….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) Single dot 
+b) Three dots  
+c) Four dots  
+d) Line  
+UPSC CSAT 2018 
+7. 
+What is the symbol on the face opposite 
+to that containing the cross ? 
+क्रांस वािे फिक के ववपरीत फिक पर 
+क्या प्रतीक है ? 
+a) Single dot 
+b) Two dots 
+c) Line 
+d) Four dots  
+UPSC CSAT 2018 
+8. 
+A solid cube of 3 cm side , painted on all 
+its faces , is cut up into small cubes of 1 
+cm side . How many of the small cubes 
+will have exactly two painted faces ? 
+3 cm भुजा वािे एक ठोस गफहन के 
+सभी फिकों को रंग कर उसे 1 cm भुजा 
+वािे छोटे घनों में काटा गया है । छोटे 
+घनों में से ककतने घनों के केवि िो 
+फिक रंगे हुए होंगे ? 
+a) 12 
+b) 8 
+c) 6 
+d) 4 
+UPSC CSAT 2018 
+ 
+ 
+ 
+CAREER WILL APP 
+Easy to learn ….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. 
+The outer surface of a 4 cm × 4 cm × 4 
+cm cube is painted completely in red . 
+It is sliced parallel to the faces to yield 
+sixty four 1 cm × 1 cm × 1 cm small 
+cubes . How many small cubes do not 
+have painted faces ? 
+4 cm × 4 cm × 4 cm के एक घन के 
+बाह्य पृष्ठ को पूरी तरह िाि रंग में 
+रंगा गया है । इसे फिकों के समान्तर 1 
+cm × 1 cm × 1 cm के चौसठ छोटे घनों 
+में काटा गया है । ककतने छोटे घनों की 
+फिकें रंगी हुई नहीं होगी ? 
+a) 8 
+b) 16 
+c) 24  
+d) 36  
+UPSC CSAT 2017 
+10. 
+A cube has all its faces painted with 
+different colours . It is cut into smaller 
+cubes of equal sizes such that the size 
+of the small cube is one-fourth the big 
+cube . The number of small cubes with 
+only one of the sides painted is : 
+ककसी घन के सभी फिक बबलभन्न रंगों 
+से रंगे गए है । उसे समान आमाप के 
+छोटे-छोटे घनों में इस प्रकार काट गया 
+की छोटे घन की भुजा बड़े घन की एक 
+चौिाई हो । केवि एक ही रंगे हुए 
+फिक वािे छोटे घनों की संख्या ककतनी 
+होगी ? 
+a) 32 
+b) 24 
+c) 16 
+d) 8 
+UPSC CSAT 2016 
+ 
+ 
+ 
+CAREER WILL APP 
+Easy to learn ….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Each of the six different faces of a cube 
+has been coated with a different colour 
+i.e., V , I , B , G , Y and O . Following 
+information is given : 
+1. Colours Y , O and B are on 
+adjacent faces .  
+2. Colours I , G and Y are on adjacent 
+faces .  
+3. Colours B , G and Y are on 
+adjacent faces .  
+4. Colours O , V and B are on 
+adjacent faces .  
+ 
+Which is the colour of the face 
+opposite to the face coloured with 
+O ? 
+ 
+एक घन के छ: बबलभन्न फिकों में से 
+प्रत्यक को लभन्न रंग अिावत , V , I , B , 
+G , Y और O से रंगा गया है ।  
+घनम्नलिखखत सूचना िी गई है : 
+1. रंग Y , O और B संिग्न फिकों 
+पर है ।  
+2. रंग I , G और Y संिग्न फिकों पर 
+है ।  
+3. रंग B , G और Y संिग्न फिकों 
+पर है ।  
+4. रंग O , V और B संिग्न फिकों 
+पर है ।  
+UPSC CSAT 2015 
+a) B 
+b) V 
+c) G 
+d) I 
+12. A cube has numbers marked 1 , 2 , 3 , 4 
+, 5 and 6 on its faces . Three views  of 
+the cube are shown below : 
+एक घन के फिकों पर 1 , 2 , 3 , 4 , 5 
+और 6 के छह अंक चचस्न्हत ककए गए 
+है । घन को तीन द्रुस्य नीचे िर्ावए 
+गए है :  
+What possible numbers can exist on 
+the two faces marked   A    and    B   , 
+respectively on the cube ? 
+घन पर क्रमस:  A    और  B    चचस्न्हत 
+िो फिकों पर संभाववत अंक क्या हो 
+सकते है ? 
+a) 2 and 3 
+b) 6 and 1 
+c) 1 and 4 
+d) 3 and 1 
+UPSC CSAT 2013 

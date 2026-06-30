@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 5,
+    "question_en": "What is the rate of interest (in%) if simple interest earned on a certain sum for the 5 years is Rs 45,000 and compound interest earned for 2 years is Rs 18,630?",
+    "question_hi": "ब्याज िर (%में) क्या है, यदि एक तिजचिि राशि पर 5 साल के शलए अजजषि सािारण ब्याज, 45,000रू और 2 साल के शलए अजजषि िक्रवृद्धि ब् याज 18,630 रू है?",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Compound Interest",
+    "source_pdf": "Compound Interest Sheet -3.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 12,
+    "question_en": "The simple interest on a certain sum at the end of three years at 5% p.a. is 1200 rupees. The compound interest on the same sum for the same period at the same rate is (interest compound yearly)",
+    "question_hi": "िीि साल के अंि में एक तिजचिि राशि पर सािारण ब्याज 5% p.a. की िर से 1200 रुपये है। समाि िर पर समाि अवधि के शलए समाि राशि पर िक्रवृद्धि ब्याज (वार्र्षक िक्रवृद्धि ब्याज)क्या होगा?",
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Compound Interest",
+    "source_pdf": "Compound Interest Sheet -3.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 37,
+    "question_en": "A person borrowed a sum of `30800 at 10% p.a. for 3 years, interest compounded annually. At the end of two years, he paid a sum of `13268. At the end of 3rd year, he paid `x to clear of the debt. What is the value of x? ,d O;fDr us 10% okf\"kZd pØo`f) C;kt nsj ij `30,800 dh jkf'k 3 o\"kZ ds fy, m/kkj yh] ftleas C;kt okf\"kZd :i ls pØo`f) gksrk gSA nwljs o\"kZ ds var esa] mlus `13,268 dh jkf'k dk Hkqxrku fd;kA rhljs o\"kZ ds var esa] mlus _.k pqdkus ds fy, `x dk Hkqxrku fd;kA x dk eku Kkr djsaA",
+    "question_hi": null,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Quant",
+    "topic": "Compound Interest",
+    "source_pdf": "Compound Interest Sheet -3.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  }
+]

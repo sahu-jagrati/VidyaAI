@@ -1,0 +1,900 @@
+ 
+ 
+                                                                  BY Gagan Pratap 
+sphere 
+1. The volumes of two spheres are in the ratio of 
+512: 3375. The ratio of their surface areas is: 
+दो गोलों के आयतन का अनुपात 512:3375 है। उनके सतह 
+क्षेत्रफलों का अनुपात है: SSC CPO 2024 
+A) 64:225 
+B) 49:325 
+C) 27:144 
+D) 68:125 
+2. A sphere and a cube have equal surface areas. 
+The ratio of the volume of the sphere to that of 
+the cube is: 
+ 
+एक गोले और एक घन के पृष्ठीय क्षेत्रफल समान हैं। गोले 
+के आयतन और घन के आयतन का अनुपात ज्ञात करें। 
+     
+ 
+ SSC Selection Post 2024 (Phase-XII) 
+ 
+[A]√3 ∶√𝜋             [B] √6 ∶√𝜋 
+ 
+[C]√𝜋∶√8            [D]√2 ∶√𝜋 
+3. Find the surface area of the sphere whose 
+radius is 112 cm and  
+π = 22/7(cm2). 
+उस गोले का पृष्ठीय क्षेत्रफल ज्ञात कीजिए जिसकी त्रत्रज्या 
+112 सेमी और π = 22/7(सेमी2) है।    
+(UP POLICE SI 2021) 
+(A) 177696        (B) 187696 
+(C) 157696        (D) 167696 
+4. The curved surface area of a sphere is 9856 
+cm2, find its diameter in m. 
+एक गोले का वक्र पृष्ठीय क्षेत्रफल 9856 cm2 है, इसका व्यास 
+m में ज्ञात कीजिए। (SSC GD 2025) 
+1. 2.8 
+ 
+ 
+ 
+ 
+2. 0.28 
+3. 5.6 
+ 
+ 
+ 
+ 
+4. 0.56 
+5. The cost of painting a spherical vessel of radius 
+7 cm is ₹18,480. What is the cost of painting 
+per square centimetre? (use π = 22/7) 
+7 cm त्रत्रज्या के एक गोलाकार पात्र को पेंट करने की लागत 
+₹18,480 है। प्रतत वगग सेंटीमीटर की दर से पेंट करने की 
+लागत ज्ञात कीजिए। (π = 22/7 का उपयोग कीजिए) 
+ (SSC GD 2025) 
+1. ₹33  
+2. ₹32 
+3. ₹30  
+4. ₹31 
+6. The diameter of a sphere is 14.7 m. what will 
+be the volume of the sphere? 
+एक गोले का व्यास 14.7 मीटर है। गोले का आयतन ककतना 
+होगा? 
+A) 1663.893 𝒎𝟑 
+B) 1873.487𝒎𝟑 
+C) 1693.563𝒎𝟑 
+D) 1783.723𝒎𝟑 
+7. The volume of the hemisphere (to the nearest 
+integer) with a radius of 5.5cm is (use 𝝅 = 3.14): 
+5.5 cm की त्रत्रज्या वाले अर्गोले का आयतन (तनकटतम 
+पूर्ाांक तक) ककतना है  (𝝅 = 3.14 का उपयोगकरें)?           
+SSC CHSL Pre 2024 
+[A] 
+378 cm3      [B] 325 cm3 
+[C]  
+348 cm3          [D]362 cm3 
+ 
+8. What will be the volume of sphere with radius 
+65 cm? (approximately) 
+65 सेमी त्रत्रज्या वाले गोले का आयतन क्या होगा? (लगभग) 
+A) 𝟒. 𝟓× 𝟏𝟎𝟔 𝒄𝒎𝟑 
+B) 𝟔× 𝟏𝟎𝟔 𝒄𝒎𝟑 
+C) 𝟏. 𝟏𝟓× 𝟏𝟎𝟔 𝒄𝒎𝟑 
+D) 𝟐× 𝟏𝟎𝟔 𝒄𝒎𝟑 
+9. What is the radius of a sphere having a volume 
+of 38808  𝒄𝒎𝟑? 
+38808 सेमी
+𝟑 आयतन वाले गोले की त्रिज्या क्या है ? 
+(SSC SELECTION POST XII GRADUATE LEVEL) 
+A) 27 cm 
+B) 21 cm 
+C) 24 cm 
+D) 18 cm 
+10. If the volume of a sphere is 4851 cm3, then its 
+surface area (in cm2) is: 
+यदि एक गोले का आयतन 4851 cm3 है, तो इसका क्षेत्रफल 
+(cm2 में) है: (Take 𝝅=
+𝟐𝟐
+𝟕) 
+(a) 1323  
+ 
+(b) 2772 
+(c) 1337  
+ 
+(d) 1386 
+11. The surface area of a sphere is 2464 cm2. 
+Calculate its volume.  
+(Use 𝜋 = 
+22
+7 ) 
+ 
+एक गोले का पृष्ठीय क्षेत्रफ़ल 2464 cm2 है। इसके आयतन 
+की गर्ना कीजिए। (𝜋 = 
+22
+7  का प्रयोग कीजिए) 
+ 
+SSC Selection Post (Phase-XII)  
+ 
+[A]11598.67cm3         [B]11498.67 cm3 
+ 
+ 
+[C]11488.67cm3         [D]11478.67 cm3 
+ 
+12. The cost of painting surface of a large spherical 
+ball at the rate of Rs 2.40 per sq cm is Rs 9240. 
+What is the radius (in cm) of the ball? 
+ ( Take 𝝅 =
+𝟐𝟐
+𝟕  ) 
+एक बडी गोलाकार गेंद की सतह को 2.40 रुपये प्रतत वगग 
+सेमी की दर से पेंट करने की लागत 9240 रुपये है। गेंद की 
+त्रत्रज्या (सेमी में) क्या है? ( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए)  
+(SSC MTS 2024) 
+ 
+ 
+                                                                  BY Gagan Pratap 
+A) 16.5 
+B) 21 
+C) 18.5 
+D) 17.5 
+13. If the radius of a sphere is increased by 2 cm. 
+its surface area increases by 704 cm2. What was 
+the radius of the sphere before the increase? 
+(Use 𝜋 = 
+22
+7 ) 
+ 
+यदद एक गोले की त्रत्रज्या में 2 cm की वृद्धर् की िाती है] 
+तो इसके पृष्ठीय क्षेत्रफल में 704 cm2 की वृद्धर् होती है। 
+वृद्धर् से पहले गोल की त्रत्रज्या क्या थी? (𝜋 = 
+22
+7  का प्रयोग 
+कीजिए) 
+        SSC Selection Post (Phase-XII) 
+ 
+ [A] 12 cm [B]11 cm 
+ 
+ 
+[C]13 cm [D]14 cm 
+ 
+14. Three solid metallic spheres of radii 1 cm, 6 cm 
+and 8 cm, respectively, are malted and recast 
+into a single solid sphere, The radius of the new 
+sphere so formed is : 
+क्रमश :1 cm, 6 cm और 8 cm दत्रज्या वाले तीन ठोस धातु के 
+गोलोों को दिघलाकर एक ठोस गोले में ढाला जाता है। इस 
+प्रकार बने नए गोले की दत्रज्या दकतनी होगी? 
+(a) 9.0 cm 
+(b) 5.9 cm                
+(c) 7.7 cm 
+(d)  8.5 cm 
+ 
+SSC CGL 2023 PRE 
+ 
+ 
+15. A metallic solid spherical ball of radius 3 cm is 
+melted and recast into three spherical balls. 
+The radii of two of these balls are 2 cm and 1.5 
+cm. What is the surface area (in cm2) of the 
+third ball? 
+3 cm त्रत्रज्या वाली र्ातु की ठोस गोलाकार गेंद को पपघलाया 
+िाता है और कफर से तीन गोलाकार गेंद बनाई िाती हैं, तो 
+इनमें से दो गेंदों की त्रत्रज्या 2 cm और 1.5 cm होती है। तीसरी 
+गेंद का पृष्ठीय क्षेत्रफल (cm2 में) ज्ञात कीजिए। 
+(a) 
+𝟐𝟓
+𝟐𝝅  
+(b) 
+𝟐𝟓
+𝟒 𝝅  
+ 
+(c) 𝟓𝟎 𝝅  
+(d) 25 𝝅 
+16. The sum of radii  of two spheres is 10 cm and 
+the sum of their volumes is 880cm3.what will 
+be the product of their radii ? 
+दो गोलो की त्रत्रज्याओ का योग 10 cm है,और उनके आयतनो 
+का योगफल 880cm3 है, तब उनकी त्रत्रज्याओ का गुर्नफल ज्ञात 
+करे। 
+a)25
+𝟐
+𝟑 cm2   b)26
+𝟏
+𝟑 cm2   c)33
+𝟏
+𝟑  cm2   d) 27
+𝟏
+𝟑cm2 
+17. Air 
+is 
+leaking 
+from 
+a 
+spherical-shaped 
+advertising balloon at the rate of 24 cubic feet 
+per minute. If the radius of the balloon is 8 
+feet, how long would it take for the balloon to 
+empty? Round your answer to the nearest 
+minute. (Use the approximate of value of π, 
+that is 3.14)  
+एक गोलाकार पवज्ञापन गुब्बारे से 24 घन फीट प्रतत ममनट 
+की दर से हवा का ररसाव हो रहा है। यदद गुब्बारे की त्रत्रज्या 
+8 फीट है, तो गुब्बारे को खाली होने में ककतना समय लगेगा? 
+अपने उत्तर को तनकटतम ममनट तक पूर्ाांककत करें। (π के 
+अनुमातनत मान का उपयोग करें, िो कक 3.14 है) 
+(SSC MTS 2024) 
+ A) 89 minutes 
+ B) 80 minutes  
+ C) 65 minutes  
+ D) 94 minutes 
+18. The length of the side of a cube is 5.6 cm. What 
+is the volume of the largest sphere that can be 
+taken out of the cube? 
+,d ?ku dh Hkqtk dh yackbZ 5.6 cm gSA ?ku ls ckgj fudkys tk ldus 
+okys lcls cM+s xksys dk vk;ru D;k gS\ 
+(a) 
+91.98 cm³ 
+(b) 
+99.96 cm³ 
+(c) 
+96.98 cm³ 
+(d) 
+90.69 cm³  
+(SSC CGL 2022) 
+19. The length of the largest possible rod that can 
+be placed in cubical room is 42 √𝟑 𝒎. The 
+surface area (in sq m) of the largest possible 
+sphere that fit within the cubical room is? 
+घनाकार कमरे में रखी िा सकने वाली सबसे बडी संभापवत 
+छड की लंबाई 42√3 मीटर है। घनाकार कमरे के भीतर कफट 
+होने वाले सबसे बडे संभापवत गोले का सतह क्षेत्र (वगग मीटर 
+में) क्या है? SSC CPO 2024 
+A) 3590 
+B) 4589 
+C) 2564 
+D) 5544 
+20. There is a wooden sphere of radius 15√𝟑 cm. 
+the total surface area of the largest possible 
+cube cut from the sphere will be? 
+15√𝟑 सेमी त्रत्रज्या का एक लकडी का गोला है। गोले से काटे 
+गए सबसे बडे संभापवत घन का कुल पृष्ठीय क्षेत्रफल होगा? 
+(SSC GD 2022) 
+A) 540𝒄𝒎𝟐 
+B) 600𝒄𝒎𝟐 
+C) 5400𝒄𝒎𝟐 
+D) 900𝒄𝒎𝟐 
+21. What is the radius of the sphere passing 
+through the corners of the cuboid with edges 8 
+cm, 12 cm and 24 cm? 
+ 
+ 
+                                                                  BY Gagan Pratap 
+8 सेमी, 12 सेमी और 24 सेमी ककनारों वाले घनाभ के कोनों 
+से गुिरने वाले गोले की त्रत्रज्या क्या है?  (CDS 2023) 
+A) 10.5 cm 
+B) 14 cm 
+C) 21 cm 
+D) 28 cm 
+ 
+22. The ratio between volume of a sphere and 
+volume of a circumscribing right circular 
+cylinder is: 
+एक गोले के आयतन और एक पररगत लंब वृत्तीय बेलन के 
+आयतन के बीच का अनुपात क्या है?  
+(RRB TECHNICIAN GRADE-3  2024) 
+[A] 
+1 : 1     [B]2 : 1 
+[C] 
+1 : 2     [D]2 : 3 
+23. A metallic sphere of diameter 40cm is melted 
+into smaller spheres of radius 0.5 cm. How 
+many such small balls can be made? 
+40 cm व्यास  के एक र्ातु गोले को त्रत्रज्या 0.5 सेमी के 
+छोटे गोलों में पपघलाया िाता है। ऐसे ककतने छोटे गोले बनाए 
+िा सकते हैं? 
+a) 6400  
+ 
+b) 64,000 
+ 
+ 
+c) 32,000 
+ 
+d) 3200 
+24. A spherical ball of radius 35cm is melted to 
+form 8000 small balls of equal size. in this 
+process the surface area of solid  is increased 
+by  ? 
+35cm त्रत्रज्या के  एक ठोस गोले को पपघलाकर , समान  
+त्रत्रज्या की 8000 छोटी गोमलया बनायी गयी है, इस प्रकक्रया 
+में ठोस के पृष्ठ क्षेत्रफल में हुई वृद्धर्% ज्ञात करे ? 
+a)1900%      b)19900%     c)190%     d)900% 
+25. If 2744 identical small spheres are made out of 
+a big sphere of radius 7 cm, then what is the 
+surface area of each small sphere? 
+यदद 7 सेमी त्रत्रज्या वाले एक बडे गोले से 2744 समान छोटे 
+गोले बनाए िाते हैं, तो प्रत्येक छोटे गोले का पृष्ठीय क्षेत्रफल 
+क्या है? 
+(SSC MTS 2024) 
+ A) 2π cm2  
+ B) 3π cm2  
+ C) π cm2  
+ D) 4π cm2 
+26. The diameter of a solid sphere is 3 cm. It is 
+melted and drawn into a wire of diameter 8 
+mm. The length of the wire is: 
+एक ठोस गोले का व्यास 3 सेमी है। इसे पपघलाकर 8 मममी 
+व्यास का एक तार बनाया िाता है। तार की लंबाई है: 
+(SSC MTS 2024) 
+A) 25
+𝟏
+𝟒𝒄𝒎 
+B) 26
+𝟑
+𝟖𝒄𝒎 
+C) 28
+𝟏
+𝟖𝒄𝒎 
+D) 32
+𝟏
+𝟒𝒄𝒎 
+ 
+27. A solid metallic sphere of radius 8.4 cm is 
+melted and recast into a right circular cylinder 
+of radius 12 cm. What is the height of the 
+cylinder? 
+8-4 lseh f=T;k okys /kkrq ds ,d Bksls xksys dks fi?kyk dj ,d yEco`Rrh; 
+csyu cuk;k tkrk gS] ftldh f=T;k 12 lseh gSA csyu dh mapkbZ fdruh gS\ 
+(a) 6.5cm 
+ 
+ 
+(b) 7.0cm 
+ 
+(c) 5.5cm 
+ 
+ 
+(d) 6.0cm 
+28. A solid sphere of radius 3 cm is melted to form 
+a hollow cylinder of height 4 cm and external 
+diameter 10 cm. what is the thickness of the 
+cylinder? 
+3 सेमी त्रत्रज्या वाले एक ठोस गोले को पपघलाकर 4 सेमी 
+ऊंचाई और 10 सेमी बाहरी व्यास वाला एक खोखला मसलेंडर 
+बनाया िाता है। मसलेंडर की मोटाई ककतनी है? (CDS 2023) 
+A) 0.42 cm 
+B) 0.46 cm 
+C) 0.50 cm 
+D) 1.00 cm 
+29. Two metallic right circular cones having their 
+heights of 5.2 cm and 6 cm and the radii of their 
+bases 2.8 cm each, have been melted together 
+and recast into a sphere. The diameter of the 
+sphere is: 
+5.2 सेमी और 6 सेमी की ऊोंचाई और प्रत्येक 2.8 सेमी की 
+आधार दत्रज्या वाले, धातु के िो धात्विक लोंबवृत्तीय शोंकुओों को 
+एक साथ दिघलाया गया है और एक गोले में ढाला गया है। गोले 
+का व्यास दकतना है? 
+1. 6.4 cm 
+2. 5.0 cm 
+ 
+3. 6.2 cm 
+4. 5.6 cm 
+ 
+( ICAR Technician 2023) 
+30. Some marbles, each of diameter 4.2 cm, are 
+dropped into a cylindrical beaker containing 
+some water and are fully submerged. The 
+diameter of the beaker is 28 cm. Find how 
+many marbles have been dropped in it if the 
+water rises by 15.75 cm. 
+कुछ कोंचे, दजनमे से प्रत्येक का व्यास 4.2 सेमी है, उन्हें एक 
+बेलनाकार बीकर में डाला जाता है दजसमें कुछ िानी होता है 
+और िूरी तरह से डूब जाता है। बीकर का व्यास 28 सेमी है। 
+यदि िानी 15.75 सेमी बढ़ जाता है तो ज्ञात कीदजए दक इसमें 
+दकतने कोंचे दगराए गए हैं। 
+1. 225  
+2. 275  
+ 
+3. 250  
+4. 290 
+MTS 2020 
+ 
+ 
+                                                                  BY Gagan Pratap 
+31. The largest sphere to be covered out of a right 
+circular cylinder of radius 8 cm and height 16 
+cm. find the volume of the sphere? 
+त्रत्रज्या 8 सेमी और ऊँचाई 16 सेमी वाले एक लम्ब वृत्तीय 
+बेलन से ढका िाने वाला सबसे बडा गोले का आयतन ज्ञात 
+कीजिये?  
+DSSSB ASSISTANT GRADE-III 2024 
+A. 2200.50 𝒄𝒎𝟑 
+B. 2321.63 𝒄𝒎𝟑 
+C. 2140.70𝒄𝒎𝟑 
+D. 2145.52 𝒄𝒎𝟑 
+32. A cylinder can whose base is horizontal and is 
+of internal radius 3.5 cm contains sufficient 
+water, so that when a solid sphere is placed 
+inside it. Water just covers the sphere. The 
+sphere fits in the can exactly. The depth of 
+water in can before the sphere was put) 
+एक बेलन जिसका आतंररक त्रत्रज्या 3.5 cm  है, इस बेलन 
+के अंदर इतना पानी भरा हुआ है, िब इसके अंदर एक गोला 
+डाला िाता हैं तो यह गोले को पूर्गत डुबो देता है , गोले डूबने 
+से पहले पानी की गहराई क्या थी ? 
+a)
+𝟐𝟓
+𝟑   b)
+𝟏𝟕
+𝟑     c)
+𝟕
+𝟑     d)
+𝟏𝟒
+𝟑 
+ 
+33. The inner and outer radii of a hollow metal 
+cylinder are 1.1 cm and 4.3 cm respectively, 
+and its height is 16
+𝟐
+𝟑 cm. It is melted and made 
+into a sphere. What will be the surface area 
+(𝒄𝒎𝟐)of the sphere? 
+धातु के एक खोखले बेलन की आतंरिक औि बाहिी त्रिज्याएँ 
+क्रमशः 1.1  cm औि 4.3  cm है , औि इसकी ऊंचाई 16
+𝟐
+𝟑  
+cm है।  इसे पिघलाकि एक गोला बनाया गया है।  गोले का 
+िृष्ठीय क्षेिफल ककतना होगा ? (ICAR Technician 2022) 
+A) 196𝝅 
+B) 100 𝝅 
+C) 256 𝝅 
+D) 144 𝝅 
+34. A hollow metal sphere of internal and external 
+radii 5 cm and 6cm, respectively, is melted in 
+to a solid cone of base radius 5.2 cm. what is 
+the height (in cm, rounded of to 1 decimal 
+place) of the cone? 
+क्रमशः आंतररक और बाहरी त्रत्रज्या 5 सेमी और 6 सेमी वाले 
+एक खोखले र्ातु के गोले को पपघलाकर आर्ार त्रत्रज्या 5.2 
+सेमी के एक ठोस शंकु में बदल ददया िाता है। शंकु की ऊंचाई 
+(सेमी में, दशमलव के 1 स्थान तक गोलाकार) क्या है?  
+(MTS 2023) 
+A) 11.8 
+B) 12.8 
+C) 13.5 
+D) 14.5 
+35. A hollow spherical shell is made of a metal of density 36 
+g/cm3. Its internal and external radius are 9 cm and 11 
+cm, respectively. What is the weight (in kg) of the shell ? 
+(
+) 
+एक खोखले गोलाकार खोल को 36 g/cm3 घनत्व वाली र्ातु 
+से बनाया गया है। इसकी आंतररक त्रत्रज्या और बाह्य त्रत्रज्या 
+क्रमशः 9 cm और 11 cm है। खोल का भार (kg में) ज्ञात 
+कीजिए। (
+ लीजिए) 
+A. 92.52 
+B. 90.816 
+C. 87.816 
+D. 92.75 
+36. A spherical metallic shell with 6 cm external 
+radius weighs 6688 g. What is the thickness of 
+the shell if the density of metal is 10.5 g per 
+cm3? (Take 𝝅=
+𝟐𝟐
+𝟕 )   
+6 cm बाहय त्रत्रज्या वाले गोलाकार र्ाजत्वक शैल का विन 
+6688 g है। यदद र्ातु का घनत्व 10.5 g प्रततcm3 है, तो शैल की 
+मोटाई िात कीजिए। (𝝅=
+𝟐𝟐
+𝟕 लें)   
+(a) 2 cm  
+ 
+(b) 3 cm 
+ 
+(c) 2
+𝟏
+𝟐 cm 
+ 
+(d) 4 cm 
+37. A solid rubber sphere weighs 40 kg when its 
+diameter is 8 cm. Using the same material, a 
+hollow sphere is made with an outer diameter 
+of 16 cm and inner diameter of 12 cm. What is 
+its weight? 
+8 cm व्यास वाले, रबर के एक ठोस गोले का भार 40 kg है। 
+समान सामग्री का उपयोग करके, 16 cm के बाहरी व्यास और 
+12 cm के आंतररक व्यास वाला एक खोखला गोला बनाया 
+िाता है। इसका भार ककतना होगा? 
+A. 80 kg 
+B. 240 kg 
+C. 185 kg 
+D. 120 kg 
+Hemisphere 
+38.  
+The 
+total 
+surface 
+area 
+of 
+a 
+solid 
+hemisphere is 166.32 sq cm, find its curved 
+surface area? 
+एक ठोस अर्गोले का कुल पृष्ठीय क्षेत्रफल 166.32 वगग 
+सेमी है। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए?  
+(RRB TECHNICIAN GRADE-3  2024) 
+[A]55.44 sq cm       [B] 110.88 sq cm 
+[C]221.76 sq cm     [D]196.96 sq cm 
+ 
+ 
+ 
+                                                                  BY Gagan Pratap 
+39. Find the total surface area of the hemisphere 
+whose radius is 27cm and π = 3.14. 
+एक अर्गोले का कुल पृष्ठीय क्षेत्रफल ज्ञात करें, जिसकी 
+त्रत्रज्या 27 cm है और π = 3.14 है।   
+ (UP POLICE SI 2021) 
+(A) 6567.18 
+(B) 6667.18 
+(C) 6867.18 
+(D) 6767.18 
+ 
+40. A hemispherical bowl is radius 7.7 cm. it is to 
+be painted from inside as well as outside .find 
+the cost of painting (in ₹ )the bowl at ₹17 per 7 
+cm2? 
+( Take 𝝅 =
+𝟐𝟐
+𝟕  ) 
+एक अर्धगोलाकार कटोरे की त्रिज्या 7.7 सेमी है। इसे अंदर और बाहर दोनों तरफ 
+से रंगना है। कटोरे को रंगने की लागत (₹ में) ₹17 प्रत्रत 7 सेमी2 ज्ञात कीत्रिए? 
+( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए) 
+(SSC MTS 2024) 
+A) 1810.16 
+B) 745.36 
+C) 1025.24 
+D) 1620.35 
+41. If the diameter of a hemisphere is 63 cm, then 
+what is the volume of hemisphere? 
+यदद एक गोलार्ग का व्यास 63 सेमी है, तो गोलार्ग का आयतन 
+ककतना है? 
+A) 72654.5𝒄𝒎𝟑 
+B) 61324.5 𝒄𝒎𝟑 
+C) 65488.5 𝒄𝒎𝟑 
+D) 69246.5 𝒄𝒎𝟑 
+42. The volume of a hemisphere is 2425 
+𝟏
+𝟐 cm3. 
+Find its radius.  
+(Take 𝝅= 𝟐𝟐
+𝟕) 
+एक गोलार्ध का आयतन 𝟐𝟒𝟐𝟓
+𝟏
+𝟐  cm3 है। इसकी त्रिज्या ज्ञात कीत्रिए। 
+( 𝝅=
+𝟐𝟐
+𝟕 लें)  
+(a) 10cm  
+ 
+(b) 9.5 cm  
+ 
+ 
+(c) 12 cm 
+ 
+(d) 10.5 cm  
+ 
+43. How many liter of water can a hemispherical 
+bowl of diameter 21 m hold? (𝟏𝒎𝟑= 𝟏𝟎𝟎𝟎𝑳) 
+21 मीटर व्यास वाले एक अर्गोलाकार कटोरे में ककतना लीटर 
+पानी समा सकता है? 
+A) 2100000 L 
+B) 2425500 L 
+C) 2322500 L 
+D) 2250500 L 
+44. The volume of a solid hemisphere is 19,404 
+cm3. Its total surface area (in cm²) is:  
+(Take 𝝅=
+𝟐𝟐
+𝟕  ) 
+एक ठोस अर्गोले का आयतन 19,404 cm3 है। इसका संपूर्ग 
+पृष्ठीय क्षेत्रफल (cm2 में) ककतना होगा? (𝝅=
+𝟐𝟐
+𝟕  लें) 
+(a)2079  
+(b)3465  
+(c)2772  
+(d)4158 
+(SSC CPO 2023) 
+45. The total surface area of a solid hemisphere is 
+1039.5 cm2. The volume of the hemisphere is: 
+,d Bksl v/kZxksys dk dqy i`’Bh; {ks=Qy 1039-5 oxZlseh gSa v/kZxksys dk 
+vk;ru fdruk gksxk\ 
+(a) 2225.5 
+ 
+(b) 2530.6 
+ 
+ 
+(c) 2425.5 
+ 
+(d) 2525.6 
+46. A hemispherical solid of radius 21 cm is melted 
+and made into a cylinder whose height is 14 
+cm. the volume of the cylinder is given by 
+(𝒂× 𝒃𝒂× 𝒄𝒃)𝝅 where a, b and c are prime. Then 
+the value of (a+b)c is? 
+21 सेमी त्रत्रज्या वाले एक अर्गोलाकार ठोस को पपघलाकर 
+एक बेलन बनाया िाता है जिसकी ऊंचाई 14 सेमी है। मसलेंडर 
+का आयतन (𝒂× 𝒃𝒂× 𝒄𝒃)𝝅 द्वारा ददया िाता है िहां a, b 
+और c अभाज्य हैं। तो (a+b)c का मान क्या है? 
+(SSC MTS 2024) 
+A) 66 
+B) 42 
+C) 54 
+D) 35 
+47. 20 identical solid hemispheres of radius 3 cm 
+are melted to form a big solid hemisphere. 
+What is the radius (in cm) of the biggest 
+hemisphere formed, if 20% of the solid is 
+wasted during the process? 
+3 सेमी त्रत्रज्या वाले 20 समान ठोस अर्गोले को पपघलाकर 
+एक बडा ठोस अर्गोला बनाया िाता है। यदद प्रकक्रया के 
+दौरान 20% ठोस बबागद हो िाता है, तो बने सबसे बडे गोलार्ग 
+की त्रत्रज्या (सेमी में) क्या है? 
+(SSC MTS 2024) 
+A) 3√𝟐 
+B) 6 
+C) 6√𝟐
+𝟑
+ 
+D) 3 
+48. Three toys are in a shape of cylinder, 
+hemisphere and cone. The three toys have 
+same base. Height of each toy is 2√2cm. what 
+is the ratio of the total surface areas of 
+cylinder, hemisphere and cone respectively? 
+तीन खखलौने बेलन , गोलाद्गर् और शंकु के आकार में हैं। तीनों 
+खखलौनों का आर्ार एक ही है। प्रत्येक खखलौने की ऊंचाई 2√2 
+ 
+ 
+                                                                  BY Gagan Pratap 
+सेमी है। क्रमशः बेलन , गोलाद्गर् और शंकु के कुल पृष्ठ 
+क्षेत्रफल का अनुपात क्या है? 
+a)4:3:(√2+1) 
+b)4:3:(2+√2)      
+c)2:1:(1+√2)     d)4:3:2√2 
+ 
+49. A hemispherical tank full of water is emptied 
+by a pipe at the rate of 7.7 litres per second. 
+How much time (in hours) will it take to empty 
+𝟐
+𝟑 part of the tank, if the internal radius of the 
+tank is 10.5 m? 
+पानी से भरी अद्गर् गोलीय टंकी को 7.7 लीटर प्रतत सेकंड की 
+दर से ककसी पाइप द्वारा खाली ककया िाता है। टंकी के 
+𝟐
+𝟑 
+भाग को खाली करने में ककतना समय (घंटे में) लगेगा, यदद 
+टंकी की आंतररक त्रत्रज्या 10.5 m है? 
+(a) 
+𝟏𝟖𝟓
+𝟔  
+ 
+(b) 
+𝟏𝟕𝟓
+𝟑  
+ 
+ 
+(c) 
+𝟏𝟖𝟓
+𝟑  
+ 
+(d) 
+𝟏𝟕𝟓
+𝟐 
+50. A hemispherical bowl is made of 1cm thick 
+steel. The inside radius of the bowl is 4cm. The 
+volume of the steel (in cm3) used in making the 
+bowl is:  
+,d v/kZxksykdkj dVksjk 1 cm eksVh LVhy ls cuk gSA dVksjs dh vkarfjd 
+f=T;k 4 ehVj gSA dVksjs dks cukus esa iz;qDr LVhy dk vk;rus (𝒄𝒎𝟑 esa½ 
+D;k gS\ 
+(a) 
+4
+413  
+(b) 
+1
+27 3  
+ 
+(c) 
+1
+35 3  
+(d) 
+2
+40 3  
+51. The internal and external radii of a hollow 
+hemispherical vessel are 6 cm and 7 cm 
+respectively. What is total surface area (in cm2) 
+of the vessel? 
+एक खोखले गोलार्द्ध के बर्धन की आंर्रिक औि बाहिी त्रिज्या 
+क्रमशः 6 सेमी औि 7 सेमी हैं। बर्धन का कुल सर्ह क्षेिफल 
+(सेमी2 में) क्या है? 
+(a) 177  
+ 
+ 
+(b) 174   
+(c) 183   
+ 
+ 
+(d) 189  
+52. A metallic hemispherical bowl is made up of 
+steel. The total steel used in making the bowl 
+is 342πcm3. The bowl can hold 144πcm3 water. 
+What is the thickness (in cm3) of bowl and the 
+curved surface area (in cm2) of outer side? 
+एक अर्ग गोलाकार बाउल स्टील का बना हुआ है  , इस बाउल 
+को बनाने में 342πcm3 स्टील का उपयोग हुआ है  , इस 
+बाउल में 144πcm3 पानी  आ सकता है, इस बाउल की मोटाई 
+और बाहरी पृष्ठ का वक्र पृष्ठ क्षेत्रफल ज्ञात कीजिये ? 
+a)6,162 π      b)3,162 π     c)6,81 π   d)3,81π 
+ 
+53. The internal and external diameters of a hollow 
+hemispherical vessel are 28 cm and 32 cm, 
+respectively. The cost incurred to paint 1 sq 
+cm of the vessel surface is Rs 2.50. Find the 
+total cost incurred to paint the vessel all over, 
+correct to two decimals. 
+एक खोखले अर्गोलाकार बतगन का आंतररक और बाहरी व्यास 
+क्रमशः 28 सेमी और 32 सेमी है। बतगन की 1 वगग सेमी सतह 
+को पेंट करने की लागत 2.50 रुपये है। पूरे बतगन को (दो 
+दशमलव तक सही) ढंग से रंगने में आई कुल लागत ज्ञात 
+कीजिए। 
+A) Rs 7,574.28 
+B) Rs 7,745.28 
+C) Rs 5774.28 
+D) Rs 7547.28 
+54. A solid cone of base radius 7 cm and height 18 
+cm is melted and recast into a hollow metal 
+hemisphere of internal and external radii 20 
+cm and R cm, respectively. What is the value 
+of R (in cm)? 
+आर्ार त्रत्रज्या 7 सेमी और ऊंचाई 18 सेमी वाले एक ठोस 
+शंकु को पपघलाया िाता है और क्रमशः आंतररक और बाहरी 
+त्रत्रज्या 20 सेमी और आर सेमी के खोखले र्ातु गोलार्ग में 
+बदल ददया िाता है। R का मान (सेमी में) क्या है? 
+(SSC MTS 2024) 
+A) √𝟖𝟏𝟒𝟒
+𝟑
+ 
+B) √𝟖𝟒𝟒𝟏
+𝟑
+ 
+C) √𝟖𝟒𝟒𝟖
+𝟑
+ 
+D) √𝟖𝟓𝟔𝟖
+𝟑
+ 
+55. A toy is in the form of a cone mounted on a 
+hemisphere. The radius of the hemisphere and 
+that of the cone is 36 cm and height of the cone 
+is 105 cm. The total surface area (in cm2) of the 
+toy is: 
+एक खखलौना शंक्वाकार है, िो एक अर्गोले पर लगा 
+(mounted) हुआ है। अर्गोले और शंकु की त्रत्रज्या 36 cm है 
+तथा शंकु की ऊंचाई 105 cm है। खखलौने का संपूर्ग पृष्ठीय 
+क्षेत्रफल (cm2 में) ज्ञात कीजिए। 
+(SSC CGL MAINS 2024) 
+A) 6588 π 
+B) 5240 π 
+C) 6025 π 
+D) 5799 π 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                  BY Gagan Pratap 
+56. To make a toy, a hemisphere is attached to one 
+end of a cylinder and a cone is attached to the 
+other end of the cylinder.  The common radius 
+of the cylinder, cone and hemisphere is 4.2 cm.  
+The height of the cylinder and the height of the 
+cone are 7 cm.  Find the volume (in cubic cm) 
+of the toy? 
+एक खखलौना बनाने के मलए, एक बेलन के एक मसरे पर एक 
+अर्गोला िुडा हुआ है और बेलन के दूसरे मसरे पर एक शंकु 
+िुडा हुआ है।  बेलन, शंकु और अर्गोले की उभयतनष्ठ त्रत्रज्या 
+4.2 cm है।  बेलन की ऊंचाई और शंकु की ऊंचाई 7 सेमी 
+है।  खखलौना का आयतन (घन सेमी में ) ज्ञात कीजिये? 
+(SSC CHSL MAINS 2024) 
+A) 863.25 
+B) 358.8 
+C) 672.672 
+D) 762.255 
+57. The radius of base of solid cylinder is 7 cm and 
+its height is 21 cm. It melted and converted 
+into small bullets. Each bullet is of same size. 
+Each bullet consisted of two parts viz. a 
+cylinder and a hemisphere on one of its base. 
+The total height of bullet is 3.5 cm and radius 
+of base is 2.1 cm. Approximately how many 
+complete bullets can be obtained? 
+ठोस बेलन  के आर्ार की त्रत्रज्या 7 सेमी है और इसकी ऊंचाई 
+21 सेमी है। यह पपघल गया और छोटी गोमलयों में बदल गया। 
+प्रत्येक गोली एक ही आकार की है। प्रत्येक गोली में दो भाग 
+है ,इसके एक ही आर्ार  पर एक बेलन  और एक गोलार्ग है 
+। बुलेट की कुल ऊंचाई 3.5 सेमी और आर्ार की त्रत्रज्या 2.1 
+सेमी है। तो ज्ञात करे ककतनी गोमलयां प्राप्त की िा सकती 
+हैं? 
+a)83  b)89   c)74  d)79 
+58. A solid top is in the form of a cone surmounted 
+by a hemisphere. If the volume of the solid is 
+2816 
+cube 
+cm 
+and 
+the 
+radius 
+of 
+the 
+hemispherical part is 8 cm, then the height of 
+the top is? ( Take 𝝅 =
+𝟐𝟐
+𝟕  ) 
+एक ठोस शीर्ग एक शंकु के आकार का है जिसके ऊपर एक 
+गोलार्ग है। यदद ठोस का आयतन 2816 घन सेमी है और 
+अर्गोलाकार भाग की त्रत्रज्या 8 सेमी है, तो शीर्ग की ऊंचाई 
+है? 
+(SSC MTS 2024) ( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए) 
+A) 26 cm 
+B) 50 cm 
+C) 34 cm 
+D) 42 cm 
+ 
+ 
+ 
+ 
+59. A medicine capsule is shaped like a cylinder 
+with two hemispheres attached to each of its 
+ends. The length of the entire capsule is 15 
+mm, and its diameter is 6 mm. calculate the 
+surface area (in sq mm) of the capsule?   ( Take 
+𝝅 =
+𝟐𝟐
+𝟕  ) 
+एक दवा कैप्सूल एक मसलेंडर के आकार का होता है जिसके 
+प्रत्येक मसरे पर दो गोलार्ग िुडे होते हैं। पूरे कैप्सूल की लंबाई 
+15 मममी और इसका व्यास 6 मममी है। कैप्सूल के सतह क्षेत्र 
+(वगग मममी में) की गर्ना करें? ( 𝝅 = 
+𝟐𝟐
+𝟕 लीजिए) 
+(SSC MTS 2024) 
+A) 286 
+B) 283 
+C) 280 
+D) 289 
+60. The inside of a bowl is part of a sphere. When 
+water is put into the bowl to a depth d, the 
+water surface becomes a circle of radius 2d. 
+what is the radius of the sphere? 
+एक कटोरे के अंदर एक गोले का दहस्सा है। िब पानी को 
+कटोरे में गहराई d तक डाला िाता है, तो पानी की सतह 2d 
+त्रत्रज्या का एक वृत्त बन िाती है। गोले की त्रत्रज्या क्या है? 
+(UPSC CDS-1 2025) 
+A) 2.5d 
+B) 2.75d 
+C) 3d 
+D) 3.25 d 
+ 

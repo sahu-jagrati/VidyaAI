@@ -1,0 +1,2444 @@
+ 
+                                                  BY Gagan Pratap 
+1. 
+If the simple interest for 9 years be equal to 45% of the principal, 
+then the rate of interest per annum is equal to : 
+;fn 9 o"kZ dk lk/kkj.k C;kt] ewy/ku ds 45% ds cjkcj gS] rks okf"kZd C;kt nj Kkr 
+dhft,A 
+(a) 
+5% 
+(b) 
+8% 
+(c) 
+9% 
+(d) 
+6% 
+2. 
+If the simple interest for 7 years is equal to 56% of the 
+principal, it will be equal to the principal after: 
+यदि 7 वर्षों के दिए साधारण ब्याज मूिधन के 56% के बराबर है, तो 
+यह दकतने समय बाि मूिधन के बराबर होगा? 
+RRB NTPC 01/02/2021 (Morning) 
+(a)  7 years 6 months  
+(b)  10 years 9 months  
+(c)  12 years 6 months  
+(d)  9 years 8 months  
+3. If the ratio of the principal and the simple interest 
+for 5 years is 10: 7, then the rate of interest per 
+annum is: 
+;fn 5 o"kZ ds fy, ewy/ku vkSj lk/kkj.k C;kt dk vuqikr 10%7 gS] rks okf"kZd C;kt 
+dh nj D;k gS\  
+ 
+ 
+ 
+(SSC MTS 2023) 
+(a) 18% 
+(b) 16% 
+ 
+(c) 12% 
+(d) 14% 
+4. A sum triples itself in 9 years at simple interest. 
+Find the rate of interest per annum is? 
+एक राशि साधारण ब्याज पर 9 वर्षों में स्वयं का तीन गुना हो जाती 
+है। वार्र्षिक ब्याज दर ज्ञात कीजजये? 
+A) 38
+𝟐
+𝟗% 
+B) 33
+𝟏
+𝟑% 
+C) 27
+𝟏
+𝟗% 
+D) 22
+𝟐
+𝟗% 
+5. 
+A financial institution claims that it returns four times 
+the principal in 25 years on a certain rate of simple 
+interest per annum. What is the rate of simple interest? 
+,d foÙkh; laLFkku ;g nkok djrk gS fd og okf’kZd lk/kkj.k C;kt dh ,d fuf”pr 
+nj ij 25 o’kksaZ esa ewy/ku dh 4 xquk jkf”k nsrk gSA lk/kkj.k C;kt dh nj fdruh gS\   
+(a) 12%          (b) 15%  
+(c) 8%          (d) 16% 
+6. 
+At what annual rate (rounded off to the nearest integer) 
+of simple interest will a sum of money becomes five 
+times its initial value in 18 years? 
+lk/kkj.k C;kt dh fdl okf’kZd nj ¼fudVre iw.kkZad rd lf™kdfVr½ ij dksbZ /kujkf”k 
+18 o’kksZa esa vius izkjafHkd ewY; ls ikap xquk gks tk,xh\ 
+(a) 24% (b) 22% 
+ 
+(c) 18% (d) 20% 
+7. If a certain sum of money becomes double of itself 
+in 11 years 6 months at simple interest, then what 
+will be the annual rate of interest? 
+यदद एक ननजचित धनराशि साधारण ब्याज पर 11 वर्षि 6 माह में 
+दोगुनी हो जाती है, तो ब्याज की वार्र्षिक दर क्या होगी? 
+SSC GD 2024 
+ 
+A) 9.68% 
+B) 8.44% 
+C) 8.69% 
+D) 12.27% 
+8. The simple interest on a sum for 8 years is three-
+fifth of the sum. The rate of interest per annum is: 
+ककसी राशि पर 8 वर्षों के शिए साधारण ब्याज उस राशि का तीन-
+पााँिवााँ दहस्सा है। प्रनत वर्षि ब्याज दर है: 
+(SSC CGL 2024 Pre) 
+A) 
+5
+𝟏
+𝟐% 
+B) 
+7
+𝟏
+𝟐% 
+C) 
+6% 
+D) 9%               ( ICAR Technician 2023) 
+9. 
+A sum of money invested at simple interest becomes 17/10 of 
+itself in 2 years and 6 months. What is the rate of interest per 
+annum? 
+,d jkf'k lk/kkj.k C;kt ij fuos'k djus ij 2 o"kZ rFkk 6 eghus esa Lo;a dh 17/10 
+xquk gks tkrh gSA C;tk dh okf"kZd nj D;k gS\ 
+(a) 
+22 percent 
+(b) 
+16 percent 
+(c) 
+28 percent 
+(d) 
+34 percent  
+ 
+ 
+ 
+ (SSC CGL 2022) 
+10. A sum of money becomes 
+𝟖
+𝟕 of itself in 2 years at a 
+certain rate of simple interest. The rate per annum 
+is : 
+साधारण ब्याज की एक दनदित िर पर कोई रादि 2 वर्षष में स्वयं की 
+8/7 गुनी हो जाती है। वादर्षषक ब्याज िर ज्ञात करें। 
+(a) 𝟔
+𝟑
+𝟕%                   (b) 𝟖
+𝟏
+𝟕%              
+(c) 𝟕
+𝟏
+𝟕%                  (d) 𝟕
+𝟑
+𝟕% 
+11. A person borrowed some money on simple interest. 
+After 3 years, he returned 
+𝟒
+𝟑 of the money to the 
+lender. What was the rate of interest? 
+एक व्यक्ति ने साधारण ब्याज पर कुछ पैसे उधार लिए। 3 साि बाद, उसने 
+ऋणदािा को 4/3 पैसे िौटा ददए। ब्याज की दर तया थी? 
+ (CHSL MAINS 2023)   
+[a] 
+11
+𝟐
+𝟗%p.a 
+ [b] 11
+𝟑
+𝟗%p.a 
+ 
+[c] 
+11
+𝟒
+𝟗%p.a 
+ [d] 11
+𝟏
+𝟗%p.a 
+12. If the simple interest on a certain sum of money 
+for 6 years 6 months is seven times the principal, 
+then find the rate of interest per month? 
+(approximately) 
+यदि दिसी धनरादि पर 6 वर्ष 6 माह िा साधारण ब्याज मूलधन 
+िा सात गुना है, तो प्रदत माह ब्याज िी िर ज्ञात िीदजए। 
+A) 9.6%                                         C) 9% 
+B) 8.8%                                         D) 10% 
+13. At what rate of simple interest per annum (correct to one 
+decimal place) is the interest earned for 11 months on a certain 
+sum of money 0.08 times the principal amount? 
+lk/kkj.k C;kt dh fdl okf"kZd nj ij ¼,d n'keyo LFkku rd iw.kkZafdr½ ,d fuf'pr 
+/kujkf'k ij 11 eghus esa çkIr C;kt] ewy /kujkf'k dk 0.08 xquk gksxk\ 
+(a) 
+8.2% 
+(b) 
+9.3% 
+(c) 
+8.7% 
+ 
+                                                  BY Gagan Pratap 
+(d) 
+11.2% 
+14. The ratio of an amount invested and the amount 
+received is 5:8 in 5 years at simple interest. Find 
+rate of interest.  
+5 वर्षि में, ननवेि की गई राशि और प्राप्त शमश्रधन का अनुपात  
+5 : 8 है। ब्याज की दर जात कीजजये।  
+a) 10 %        b) 12.5%        
+c) 15%         d) 12%    
+15. The simple interest on a certain sum of money at 
+the rate of 6% per annum for 8 years is Rs.920. 
+Find the rate of interest for which the same 
+amount of interest can be received on the same sum 
+after 3 year? 
+एि दनदित रादि पर 6% प्रदत वर्ष िी िर से 8 वर्ों िे दलए साधारण 
+ब्याज 920 रुपये है। ब्याज िी वह िर ज्ञात िीदजए दजसिे दलए 3 
+वर्ष िे बाि समान रादि पर समान ब्याज प्राप्त दिया जा सिता है? 
+A) 12% per annum                  C) 16% per annum 
+B) 14% per annum                D) 15% per annum 
+16. Brajesh had Rs.8,600 which he invested in two parts. Simple 
+interest received on the first part at 15% p.a. in 4 years is equal 
+to the simple interest received on the second part at 20% p.a. in 
+3 years. Find the difference in the two parts. 
+czts'k ds ikl #- 8]600 Fks ftls mlus nks Hkkxksa esa fuos'k fd;kA igys Hkkx ij 4 o"kksZa 
+esa 15% çfr o"kZ dh nj ls çkIr lk/kkj.k C;kt nwljs Hkkx ij 3 o"kksZa eas 20% 
+okf"kZd dh nj ls çkIr lk/kkj.k C;kt ds cjkcj gSA nksuksa Hkkxksa esa varj Kkr dhft,A 
+(a) Rs. 190 
+(b) Rs. 0 
+(c) Rs. 290 
+(d) Rs. 210     (SSC SELECTION POST XI 2023) 
+17. The simple interest on Rs 800 for 6 year at 5.5% per 
+annum is equal to the simple interest on Rs 600 at 
+4% per annum for a certain period of time. The 
+period of time is : 
+₹800 की रादि पर 6 वर्षों में 5.5% की वादर्षषक िर से प्राप्त साधारण 
+ब्याज, एक दनदित समयावदध में ₹600 की रादि पर 4% की वादर्षषक 
+िर से प्राप्त साधारण ब्याज के बराबर है। समयावदध ज्ञात करें। 
+(a) 11 years         (b) 9 years              
+(c) 12 years        (d) 10 years 
+ 
+SSC CGL 2023 PRE 
+18. The simple interest earned on ₹7,000 in 2 years at 
+the rate of R% per annum equals to the simple 
+interest earned on ₹5,000 at the rate of 5% per 
+annum in 14 years. The value of R (in percentage) is: 
+₹7,000 पर R% वादर्षषक िर से 2 वर्षों में अदजषत साधारण ब्याज, 
+₹5,000 पर 5% वादर्षषक िर से 14 वर्षों में अदजषत साधारण ब्याज के 
+बराबर है। R का मान (प्रदतित में) क् या है? 
+1. 28% 
+2. 15% 
+3. 25% 
+4. 20% 
+19. ₹x invested at 8% simple interest per annum for 5 years 
+yields the same interest as that of ₹y invested at 7.5% 
+simple interest per annum for 6 years. Find x: y. 
+8% प्रदत वर्षष साधारण ब्याज की िर से दनवेदित ₹ x पर 5 वर्षष का 
+ब्याज उतना ही है दजतना दक 7.5% वादर्षषक साधारण ब्याज िर पर 6 
+वर्षों के दिए दनवेदित रादि ₹ y पर I  x : y ज्ञात करें। 
+RRB ALP  21/08/2018  (Morning) 
+(a) 16 : 15   
+(b) 40 : 45   
+(c)  9 : 8   
+(d) 5 : 6 
+20. A bank charges simple interest for Rs K at the rate 
+of 𝒓
+𝟏
+𝟐 for 𝒏𝟐 years. Another bank charges simple 
+interest for Rs L at the rate of 𝒓
+𝟑
+𝟐 for 𝒏𝟑 years and 
+gives the same interest. The ratio between K and L 
+is? 
+एक बैंक 𝒏𝟐 वर्षों के शिए K रुपये पर 𝒓
+𝟏
+𝟐 की दर से साधारण ब्याज 
+िेता है। एक अन्य बैंक 𝒏𝟑 वर्षों के शिए L रुपये पर 𝒓
+𝟑
+𝟐 की दर से 
+साधारण ब्याज िेता है और उतना ही ब्याज देता है। K और L के 
+बीि का अनुपात है? 
+(SSC CHSL 2024) 
+A) 
+𝟏
+𝒓:
+𝟏
+𝒏 
+B) rn:1 
+C) 𝒓𝟐: 𝒏𝟐 
+D) 𝒓𝟏/𝟐: 𝒏𝟏/𝟐 
+21. What will be the ratio of the simple interest earned by a certain 
+amount in 12 yrs for 5%  and that for 8% rate of interest? 
+,d fuf'pr /kujkf'k }kjk 5% vkSj 8% ds fy, C;kt nj ij 12 वर्षि में vftZr 
+lk/kkj.k C;kt dk vuqikr Kkr dhft,A 
+(a) 6 : 7 
+(b) 5 : 8 
+(c) 4 : 5 
+(d) 3 : 4 
+22. What is the ratio of the simple interest earned on a 
+certain sum of money at 21% per annum in 8 years 
+to the simple interest earned on the same sum at 
+the same rate for 21 years? 
+एक ननजचित धनराशि पर 8 वर्षि  में 21 % वार्र्षिक दर से अजजित 
+साधारण ब्याज का उसी धनराशि पर 21 वर्षि में सामान दर से 
+अजजित साधारण ब्याज से अनुपात क्या है? 
+A) 21:5 
+B) 21:8 
+C) 8:21 
+D) 5:21 
+23. The ratio of simple interest earned by a certain amount at 
+the rate of 8% for 10 years and 6% for 16 years is: 
+एक दनदित रादि द्वारा 10 वर्षों के दिए 8% और 16 वर्षों के दिए 6% 
+की िर से अदजषत साधारण ब्याज का अनुपात है: 
+RRB NTPC 13/03/2021 (Evening) 
+(a) 5 : 6 
+(b) 3 : 2 
+(c) 2 : 3 
+(d) 4 : 5 
+24. What is the simple interest (in `) earned on `12,400 at the 6% per 
+annum for 15 months? 
+`12,400 dh /kujkf'k ij 6% okf"kZd nj ls 15 ekg dh vof/k esa vftZr lk/kkj.k 
+C;kt (` esa) Kkr dhft,A 
+(a) 
+1,020 
+(b) 
+840 
+(c) 
+930 
+(d) 
+750 
+25. Find the simple interest on ₹27,000 at 14
+𝟐
+𝟑% per 
+annum for 8 months. 
+₹27,000 पर 14
+𝟐
+𝟑% प्रदत वर्षष की िर से 8 महीने का साधारण ब्याज 
+ज्ञात कीदजए। 
+1. ₹2,600 
+2. ₹2,630 
+ 
+ 
+                                                  BY Gagan Pratap 
+3. ₹2,610 
+4. ₹2,640 
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+26. Find the simple interest on ₹27,000 at 14
+𝟐
+𝟑% per 
+annum for 8 months. 
+₹27,000 पर 14
+𝟐
+𝟑% प्रदत वर्षष की िर से 8 महीने का साधारण ब्याज 
+ज्ञात कीदजए। 
+1. ₹2,600 
+2. ₹2,630 
+ 
+3. ₹2,610 
+4. ₹2,640 
+27. What will be the simple interest (in ₹) earned on an 
+amount of ₹24,000 in 9 months at the rate of 4.25% 
+per annum? 
+4.25% की िर से 9 महीने में ₹24,000 की रादि पर अदजषत साधारण 
+ब्याज (₹ में) क्या होगा? 
+1. 730 
+2. 795  
+ 
+3. 785 
+4. 765 
+ 
+( ICAR Technician 2023) 
+28. Find the simple interest on Rs 48750 at 16% per annum for 
+73 days of a non-leap year. 
+48750 रुपये की धनरादि पर 16% वादर्षषक िर पर दकसी गैर-अदधवर्षष 
+(non-leap year) के 73 दिन का साधारण ब्याज ज्ञात कीदजए। 
+Level 2 (16/06/2022) Shift 2 
+(a) 1560 
+(b) 1600    
+(c) 1860    
+(d) 1500 
+29. What will be the simple interest on a sum of Rs. 2,000 for 
+4 years at a rate of 1 paisa per rupee per month? 
+4 साि के दिए 2,000 रुपये की रादि पर 1 पैसे प्रदत रुपये प्रदत माह 
+की िर से साधारण ब्याज क्या होगा? 
+RRB NTPC 15/02/2021 (Morning) 
+(a) Rs. 960 
+(b) Rs. 609 
+(c) Rs. 690 
+(d) Rs. 900 
+ 
+30. Find the Simple Interest on Rs.5000 at 6.25% per annum 
+from 5th February 2017 to 19th April 2017. 
+6.25% वादर्षषक ब्याज की िर से रु.5000 की रादि का 5 फरवरी 2017 
+से 19 अप्रैि 2017 तक का साधारण ब्याज ज्ञात कीदजए।  
+RRB JE 26/06/2019 (Evening) 
+(a) Rs. 62.50        
+(b) Rs. 48.50  
+(c) Rs. 64              
+(d) Rs. 80  
+31. Find the simple interest (in Rs) on Rs 9600 from 18 
+October 2021 to 13 March 2022 at the rate of 8% 
+per annum? 
+Rs 9600 पर 18 अक्टूबर 2021 से 13 मािि 2022 तक 8% 
+प्रनत वर्षि की दर से साधारण ब्याज (रुपये में) ज्ञात कीजजये? 
+A) 307.2 
+B) 358.5 
+C) 321.8 
+D) 334.4 
+32. An amount invested fetched a total simple interest 
+of ₹4,050 at the rate of 9% per annum in 5 years. 
+What is the amount invested (in ₹)? 
+ननवेि की गई राशि पर 5 वर्षों में 9% प्रनत वर्षि की दर से कुि 
+₹4,050 का साधारण ब्याज प्राप्त हुआ। ननवेि की गई राशि (₹ 
+में) क्या है? 
+(SSC CHSL 2024) 
+A) 
+9000 
+B) 
+8300 
+C) 
+7500 
+D) 9050 
+33. A man took a loan from a bank at the rate of 11% p.a. simple 
+interest. After three years, he had to pay Rs 9,570 interest only 
+for the period. The principal amount burrowed by him was: 
+एक आदमी बैंक से 11% वार्र्षिक साधारण ब् याज की दर पर ऋण शिया। 
+तीन वर्षों बाद उसे केवि इस अवधध के शिए ब् याज के रूप में Rs.9570 
+िुकाने पडे
+े़
+ उसके द्वारा 
+.
+कीजजए।
+ 
+ज्ञात
+ 
+धनराशि
+ 
+मूि
+ 
+गई
+ 
+िी
+ 
+में
+ 
+रूप
+ 
+के 
+ऋण
+ 
+(a) 27,685 
+ 
+(b) 26,545 
+ 
+(c) 25,000 
+ 
+(d) 29,000  
+34. A certain sum invested at 8% p.a. simple interest 
+amounts to ₹16,896 in 4 years. The sum (in ₹) is: 
+8% izfr o"kZ lk/kkj.k C;kt nj ij fuosf'kr ,d fuf'pr jkf'k] 4 o"kksZa esa #i;s 16]896 
+gks tkrh gSA og jkf'k ¼#i;s esa½ fdruh gS\ 
+1. 13,500 
+2. 3,200  
+ 
+3. 12,800  
+4. 12,500 
+( ICAR Technician 2023) 
+35. A borrowed a loan from B at 8% simple interest for 
+2 years and repaid the loan with interest totalling 
+₹1,91,864. The amount of loan taken by A is: 
+A ने 2 वर्षों के शिए 8% साधारण ब्याज पर B से ऋण शिया और 
+ब्याज सदहत ऋण कुि 1,91,864 िुकाया। A द्वारा शिए गए ऋण 
+की राशि है: 
+A)₹1,68,920               B)₹1,66,540 
+C)₹1,64,492               D)₹1,65,400 
+36. The simple interest per annum on a sum of Rs x at 
+the rate of 7
+𝟐
+𝟑% for 2
+𝟏
+𝟐 years is Rs 862.50. find x? 
+2
+𝟏
+𝟐 वर्षों के शिए 7
+𝟐
+𝟑% की दर से x रुपये की राशि पर प्रनत वर्षि 
+साधारण ब्याज 862.50 रुपये है। x ज्ञात करे? 
+A) Rs 3200 
+B) Rs 4500 
+C) Rs 2850 
+D) Rs 3875 
+37. If the simple interest on a certain sum of money is 
+Rs 11220 at the rate of 16
+𝟏
+𝟐% per annum for 8 
+years and 3 months, then what is the principal 
+amount (in Rs rounded off to the nearest rupee)? 
+यदद एक ननजचित राशि पर 8 वर्षि और 3 महीने के शिए 16
+𝟏
+𝟐% 
+प्रनत वर्षि की दर से साधारण ब्याज 11220 रुपये है, तो मूि राशि 
+क्या है (ननकटतम रुपये में पूणाांककत रुपये में) 
+? (CHSL PRE 2023) 
+A) 4228 
+B) 6822 
+C) 8422 
+D) 8242 
+ 
+                                                  BY Gagan Pratap 
+38. A sum at simple interest at 7.5% per annum 
+amounts to Rs 11025 after 3 years. What is the 
+simple interest? 
+साधारण ब्याज पर 7.5% प्रनत वर्षि की दर से एक राशि 3 साि 
+बाद 11025 रुपये हो जाती है। साधारण ब्याज क्या है? 
+a)Rs 2150 
+b)Rs 2275 
+c)Rs 2025 
+d)Rs 2100 
+39. What amount a man would have received on a principal of Rs. 
+7,500 after two years at simple interest at the rate of 7 percent 
+per annum? 
+,d O;fDr dks Rs. 7,500 ds ewy/ku ij 2 o"kZ ckn 7 izfr'kr okf"kZd lk/kkj.k C;kt 
+nj ls fdruh /kujkf'k izkIr gksrh\ 
+(a) 
+Rs. 8,400 
+(b) 
+Rs. 8,550 
+(c) 
+Rs. 7,600 
+(d) 
+Rs. 7,400 
+40. If Seema invests `17,650 in an account that yields 8.5% p.a. 
+simple interest, then how much (to nearest `) will she have after 
+5 years? 
+;fn lhek 8.5% okf"kZd lk/kkj.k C;kt çkIr djus okys [kkrs esa `17,650 dk fuos'k 
+djrh gS] rks 5 o"kZ ckn mls fdruh /kujkf'k ¼fudVre ` rd½ feysxh\ 
+(a) 
+25,151 
+(b) 
+21,155 
+(c) 
+21,551 
+(d) 
+25,115 
+41. Archana took a loan of Rs 78000 from a bank on 
+24th January 2012 at 8
+𝟑
+𝟒% per annum simple 
+interest and paid it back on 18th June 2012. Find 
+the total amount paid by Archana? 
+अििना ने 24 जनवरी 2012 को एक बैंक से 8
+𝟑
+𝟒% वार्र्षिक साधारण 
+ब्याज पर 78000 रुपये का ऋण शिया और 18 जून 2012 को 
+इसका भुगतान ककया। अििना द्वारा भुगतान की गई कुि राशि ज्ञात 
+कीजजए? (SSC CGL 2023) 
+A) Rs 80723 
+B) Rs 90730 
+C) Rs 85733 
+D) Rs 88730 
+ 
+42. What will be the difference between the interest on a sum of Rs. 
+2,000 at 7% per annum for 3 years and that on a sum of Rs. 3,200 
+at 6% per annum for 2 years? 
+Rs. 2,000 dh /kujkf'k ij 3 o"kZ ds fy, 7% okf"kZd nj ij vkSj Rs. 3,200 dh 
+/kujkf'k ij 2 o"kZ ds fy, 6% okf"kZd nj ij lk/kkj.k C;kt ds chp fdruk varj 
+gksxk\ 
+(a) 
+Rs. 36 
+(b) 
+Rs. 44 
+(c) 
+Rs. 30 
+(d) 
+Rs. 40 
+43. A certain sum is invested at simple interest at y% 
+per annum for 𝟑
+𝟏
+𝟐 years. Had it been invested at (y + 
+4)% per annum at simple interest, it would have 
+fetched Rs. 4,452 more as interest. What is the 
+sum? 
+,d ननजचित धनराशि  dks y% okf’kZd lk/kkj.k C;kt nj ij 𝟑
+𝟏
+𝟐 o’kZ ds fy, 
+fuosfिr fd;k tkrk gSA ;fn bls (y + 4)% okf’kZd lk/kkj.k C;kt ij fuosfिr fd;k 
+x;k gksrk] rks 4]452 vf/kd C;kt izkIr gksrkA ewy धनराशि  Kkr dhft,A 
+(a) 30,400 
+ 
+ 
+(b) 31,800 
+ 
+(c) 42,800 
+ 
+ 
+(d) 42,400 
+44. A sum of money when invested for 7.2 years gives Rs5,768 
+as the amount on maturity. If the  Simple rate of Interest 
+was 2% per annum more than what it was, the amount on 
+maturity would have been Rs 6,272. The original sum 
+invested was: 
+एक धनरादि जब 7.2 वर्षों के दिए दनवेि की जाती है तो पररपक्वता 
+पर 5,768 रुपये की रादि प्राप्त होती है। यदि साधारण ब्याज िर इससे 
+2% प्रदत वर्षष अदधक होती, तो पररपक्वता पर    6,272 की रादि प्राप्त 
+होती। दनवेि की गई मूि धनरादि थी:  
+NTPC CBT - I  23/07/2021 (Morning) 
+(a) Rs. 3,500 
+(b) Rs. 4,000 
+(c) Rs. 3,250 
+(d) Rs. 3,750 
+45. A certain sum amounts to Rs 22,494 in 7 years at x% per 
+annum on simple interest. if the rate of simple interest per 
+annum had been (x + 4) % , the amount payable after 7 
+years would have been Rs 25,917. Find the sum invested. 
+एक दनदित धनरादि x% वादर्षषक साधारण ब्याज की िर पर 7 वर्षष में 
+₹22,494 हो जाती है। यदि वादर्षषक साधारण ब्याज की िर (x + 4)% 
+होती, तो 7 वर्षष बाि िेय धनरादि ₹ 25,917 होती। दनवेि की गई 
+धनरादि ज्ञात कीदजए ।      Level 5 (12/06/2022) Shift 1 
+(a) 11,975 
+(b) 12,275 
+(c) 12,175 
+(d) 12,225 
+46. The simple interest on a certain sum for 3 years at 
+8% per annum is 9120 less than the simple interest 
+on the same sum for 7 years at 8% annum. Find the 
+sum. 
+,d fuf”pr /ku jkf”k ij 8% okf’kZd dh njls 3 o’kksaZ ds fy, lk/kkj.k C;kt] mlh 
+/kujkf”k ij 8% okf’kZd dh nj ls 7 o’kksaZ ds fy, lk/kkj.k C;kt ls 9120 de gSA 
+og /kujkf”k Kkr dhft,A 
+(a) 28750 
+(b) 28000 
+ 
+(c) 28250 
+(d) 28500 
+ 
+ 
+SSC CHSL 2023 PRE 
+47. The simple interest on a sum of money in 6 years at 
+the rate of 15% per annum is 1,440 less than the 
+simple interest accrued on the same sum in 9 years 
+at 18% per annum. What is the sum of money (in Rs)? 
+fdlh /kujkf'k ij 6 o"kksaZ esa 15% okf"kZd nj ls vftZr lk/kkj.k C;kt] mlh /kujkf'k 
+ij 18% okf"kZd nj ls 9 o"kksaZ esa vftZr lk/kkj.k C;kt ls ₹1]440 de gSA /kujkf'k 
+¼₹ esa½ fdruh gS\ 
+(a) 2,000  
+(b) 2,400 
+ 
+(c) 2,700                  (d) 1,800 
+ 
+ 
+SSC CHSL 2023 PRE
+ 
+ 
+                                                  BY Gagan Pratap 
+48. The amount received on a certain sum for 𝟐
+𝟐
+𝟓 years at 15% p.a. 
+simple interest is Rs. 507 less than the simple interest on the same 
+sum for 𝟗
+𝟏
+𝟐years at the same rate. The sum (in Rs.) is: 
+,d fuf'pr ewy/ku ij 𝟐
+𝟐
+𝟓 o"kksZa ds fy, 15% çfr o"kZ lk/kkj.k C;kt ij çkIr 
+jkf'k leku ewy/ku ij 𝟗
+𝟏
+𝟐 o"kksZa ds fy, leku nj ij lk/kkj.k C;kt ls 507 #- de 
+gSA ewy/ku ¼#- esa½ ----------------- gSA 
+(a) 8,000 
+(b) 7,400 
+(c) 7,600 
+(d) 7,800 
+49. A certain sum invested at a rate of 8% per annum  
+after 3
+𝟏
+𝟐 years at simple interest is Rs 2944 less 
+than the simple interest on the same sum for 10 
+years at double the rate of interest.  The sum (in 
+Rs) is? 
+साधारण ब्याज पर  3
+𝟏
+𝟐 वर्ष बाद 8% प्रतिवर्ष की दर से तनवेश की गई 
+एक तनक्चिि रालश, उसी रालश पर 10 वर्ों के लिए दोगुने ब्याज दर 
+पर साधारण ब्याज से 2944 रुपये कम है। रालश (रुपये में) है? 
+(ICAR Assistant 2022) 
+A) 9800 
+B) 9200 
+C) 9000 
+D) 9500 
+50. The simple interest on a certain sum for 9
+𝟏
+𝟐 years at 
+the rate of 13% p.a. is ₹3,080 less than the amount of 
+the same sum for 4
+𝟏
+𝟐 years at the same rate of 
+interest. The sum (in ₹) is:  
+,d fuf'pr jkf'k ij] 13% izfr o"kZ dh nj ls 𝟗
+𝟏
+𝟐 o"kksZa dk lk/kkj.k C;kt] mlh 
+jkf'k mlh C;kt nj ij 𝟒
+𝟏
+𝟐 o"kksZa esa izkIr gksus okyh jkf'k ls #i;s 3]080 de gSA og 
+jkf'k ¼#i;s esa½ fdruh gksxh\ 
+1.8,700  
+2. 8,500  
+ 
+3. 8,600  
+4. 8,800 
+ 
+( ICAR Technician 2023) 
+51. The amount of a certain sum in 2
+𝟑
+𝟒 years at 8.4% p.a. simple 
+interest is `2,325 more than the simple interest on the same sum 
+for 7½ years at 16% p.a. What is the sum (in `)? 
+,d fuf'pr /kujkf'k ij 8.4% okf"kZd lk/kkj.k C;kt dh nj ls 𝟐
+𝟑
+𝟒 o"kZ esa çkIr 
+feJ/ku] leku /kujkf'k ij 16% okf"kZd nj ls 7½ o"kZ esa çkIr lk/kkj.k C;kt ls 
+`2325 vf/kd gSA /kujkf'k (` esa) Kkr dhft,A 
+(a) 
+78,000 
+(b) 
+75,000 
+(c) 
+70,000 
+(d) 
+80, 000 
+52. How long (in years) will a sum of money invested at 
+6% per annum simple interest increase its value by 
+40%? 
+6% okf"kZd lk/kkj.k C;kt ij fdlh /kujkf'k dk fdrus le; ¼o"kksaZ esa½ ds fy, fuos'k 
+fd;k tk, rkfd   mlds ewY; esa 40% dh o`f) gks tk, ? 
+    (a) 𝟓
+𝟐
+𝟑 
+     
+ 
+   (b) 𝟒
+𝟏
+𝟑      
+    (c) 𝟔
+𝟐
+𝟑 
+                  (d) 𝟔
+𝟏
+𝟑 
+53. In a certain time, a sum of money becomes five times itself if the 
+rate of the interest is 16% p.a. Then, the certain time (in years) 
+is: 
+एक ननजचित समय में कोई धनराशि स् वयं की पांि गुनी हो जाती है। यदद 
+ब् याज दर 16% p.a. है तो वह ननजचित समय ज्ञात करें।  
+(a) 32 
+ 
+ 
+(b) 38 
+ 
+ 
+ 
+(c) 25 
+ 
+ 
+(d) 30 
+54. A sum at simple interest of 8% p.a. becomes 
+𝟕
+𝟓 of 
+itself in how many years? 
+8% की साधारण ब्याज पर एक राशि प्रतिवर्ष, खुद का 
+𝟕
+𝟓 ककतने वर्षों 
+में बन जाता है?                             (CPO 2018)  
+(a) 5 
+ 
+ 
+(b) 𝟐
+𝟏
+𝟐 
+ 
+ 
+(c) 𝟑
+𝟏
+𝟐 
+ 
+               (d) 4 
+55. In how many years will a sum of money be 12 times 
+itself at 44% per annum simple interest? 
+ककतने वर्षों में कोई धनराशि 44% वार्र्षिक साधारण ब्याज की दर 
+से 12 गुना हो जाएगी? 
+ ( IB ACIO 2023) 
+A) 35 years 
+B) 20 years 
+C) 25 years 
+D) 30 years 
+56. In how many least number of complete years a sum of money 
+become more than four times of itself at the rate of 50 percent 
+per annum on simple interest?  
+,d jkf'k 50 izfr'kr izfro"kZ dh nj ls lk/kkj.k C;kt ij de ls de fdrus iw.kZ 
+o"kksZ esa Lo;a ds pkj xquk ls vf/kd gks tkrh gS\ 
+(a) 
+9 years/o"kZ 
+(b) 
+7 years/o"kZ 
+(c) 
+6 years/o"kZ 
+(d) 
+5 years/o"kZ  
+ 
+ 
+ 
+(SSC CGL 2022) 
+57. A certain sum becomes 3 times itself in 10 years at 
+a certain SI per annum. In how many years will it 
+becomes 10 times itself at the same simple interest 
+rate per annum? 
+एक ननजचित साधारण ब्याज की दर से एक ननजचित राशि 10 वर्षों 
+में 3 गुना हो जाती है। ककतने वर्षों में यह उसी साधारण ब्याज दर 
+पर प्रनत वर्षि 10 गुना हो जाएगी? 
+A) 45 
+B) 42 
+C) 35 
+D) 40 
+58. A certain amount will become six times in 20 years. How long 
+does it take for the same amount to become 5 times? Assume the 
+same rate of simple interest in each case. 
+,d fuf'pr jkf'k 20 o"kksZ esa Ng xquk gks tk,xhA mlh jkf'k dks 5 xquk gksus esa 
+fdruk le; yxrk gS\ çR;sd ekeys eas lk/kkj.k C;kt dh leku nj eku ysaA 
+(a) 
+16 years 8 months 
+(b) 
+15 years 8 months 
+(c) 
+15 years 
+(d) 
+16 years 
+ 
+ 
+ 
+ 
+ (SSC CGL 2022) 
+ 
+                                                  BY Gagan Pratap 
+59. If a sum of money a simple interest becomes 45 times 
+in 110 years. Then in how many years will that sum 
+become 23 times?  
+;fn dksbZ /kujkf”k lk/kkj.k C;kt ij 110 o’kksZ esa 45 xquk gks tkrh gS] rks fdrus o’kksZ 
+esa og /kujkf”k 23 xquk gks tk,xh\ 
+(a) 48 
+         (b) 60 
+ 
+(c) 55 
+         (d) 50 
+ 
+ 
+SSC CHSL 2023 PRE 
+60. If a sum of money at simple interest becomes 36 
+times in 100 years, then it will become 29 times in: 
+कोई धनराशि 100 वर्षो में 36 गुना हो जाता है| इसी धनराशि का 
+29 गुना होने के शिए ककतना समय िगेगा? 
+(a) 48 years 
+ 
+(b) 90 years 
+(c) 80 years 
+ 
+(d) 87 years 
+61. A certain sum of money becomes 5 times in 15 years when 
+invested at simple interest. In how much time (years and 
+months) will it become 12 times of itself at the same rate at 
+simple interest? 
+lk/kkj.k C;kt ij fuos'k dh xbZ ,d fuf'pr /kujkf'k 15 o"kZ esa Lo;a dh 5 xquh gks 
+tkrh gSA mlh /kujkf'k dks lk/kkj.k C;kt dh leku nj ij Lo;a dh 12 xquh gksus eas 
+fdruk le; ¼o"kZ vkSj ekg esa½ yxsxk\ 
+(a) 
+41 years 3 months/41 o"kZ 3 ekg 
+(b) 
+40 years 6 months/40 o"kZ 6 ekg 
+(c) 
+39 years 9 months/39 o"kZ 9 ekg 
+(d) 
+42 years 4 months/42 o"kZ 4 ekg 
+62. A certain sum of money becomes seven times itself 
+when invested at a certain rate of simple interest, 
+in 14 years. How much time (in years, rounded off 
+to 2 decimal places) will it take to become 18 times 
+itself at the same rate?  
+साधारण ब्याज की एक ननजचित दर पर ननवेि करने पर एक 
+ननजचित धनराशि 14 वर्षों में सात गुना हो जाती है। इसे समान दर 
+से 18 गुना होने में ककतना समय (वर्षों में, 2 दिमिव स्थानों तक 
+पूणाांककत) िगेगा? 
+SSC CGL PRE 2024 
+A) 27.33        B) 39.67  
+C) 42.78        D) 35.5 
+63. If a sum of money at simple interest becomes 11/8 
+times in 7.5 years, then it will become 19/12 times 
+in: 
+एक धनराशि 7.5 वर्षो में अपने का 11/8 गुना हो जाती है| इस 
+धनराशि को स्वयं का 19/12 गुना होने के शिए ककतना समय 
+िगेगा? 
+(a)9years 4months 
+ 
+ 
+(b)12year 3months 
+ 
+(c)10years 9 months 
+ 
+ 
+(d)11years 8 months 
+64. A sum of money invested at simple interest 7 times 
+itself in 12 years. How many times will it become in 
+42 years time? 
+कोई  धनराशि 12 वर्षों में 7 गुना हो जाता है | इसी धनराशि का 
+42 वर्षों में ककतना गुना हो जाएगा? 
+(a) 19 times 
+ 
+(b) 37 times 
+(c) 22 times 
+ 
+(d) 21 times 
+65. A sum of money becomes five times its original value 
+in 15 years when invested at a certain simple 
+interest rate. If the sum was invested twice the time 
+at the same rate of interest, what would be the final 
+amount? 
+ 
+एक ननजचित साधारण ब्याज दर पर ननवेि करने पर एक धनराशि 
+15 वर्षों में अपने मूि मूल्य से पांि गुना हो जाती है। यदद धनराशि 
+को समान ब्याज दर पर दुगने समय के शिए ननवेि ककया जाए, तो 
+अंनतम धनराशि क्या होगी?        SSC CHSL PRE 2024 
+ 
+[A] 
+The money becomes 7 times its original 
+value/धनराशि अपने मूि मूल्य से 7 गुना हो जाएगी 
+ 
+ 
+[B] 
+The money becomes 9 times its original 
+value/धनराशि अपने मूि मूल्य से 9 गुना हो जाएगी 
+  
+ 
+[C] 
+The money becomes 6 times its original 
+value/धनराशि अपने मूि मूल्य से 6 गुना हो जाएग  
+ 
+ 
+[D]  
+The money becomes 8 times its original 
+value/धनराशि अपने मूि मूल्य से 8 गुना हो जाएगी 
+66. A sum of money invested at simple interest triples 
+itself in 8 years and becomes n times in 20 years. 
+What is the value of n? 
+साधारण ब्याज पर ननवेि की गई कोई धनराशि 8 वर्षों में तीन गुना 
+हो जाती है और 20 वर्षों में n गुना हो जाती है। n का मान क्या 
+है? (CDS-1 2024) 
+A) 5 
+B) 6 
+C) 7.5 
+D) 9 
+67. If a sum of money doubles itself in 5 years at a 
+certain rate of simple interest, then how many 
+times will the sum become after 8 years at the 
+same rate of simple interest? 
+यदि एक दिदित साधारण ब्याज दि िर पर कोई धिरादि 5 वर्ष में स्वंय दि िोगुिी हो जाती है 
+तो साधारण ब्याज दि उसी िर पर यह धिरादि 8 वर्ष बाि स्वंय दि दकतिे गुिा हो जाएगी? 
+( RRB NTPC 2021 ) 
+A) 3
+𝟑
+𝟓𝒕𝒊𝒎𝒆𝒔 
+B) 2
+𝟑
+𝟓𝒕𝒊𝒎𝒆𝒔 
+C) 2
+𝟏
+𝟓𝒕𝒊𝒎𝒆𝒔 
+D) 3
+𝟐
+𝟓𝒕𝒊𝒎𝒆𝒔 
+68. In a certain time, a sum becomes 5 times at the rate 
+of 6% per annum on simple interest. At what rate of 
+interest, the same sum becomes 8 times in the same 
+duration? 
+,d fuf'pr le; esa ,d jkf'k lk/kkj.k C;kt ij 6% çfr o"kZ dh nj ls 5 xquk gks 
+tkrh gSA fdl C;kt nj ij leku vof/k esa leku jkf'k 8 xquk gks tkrh gS\ 
+(SSC MTS 2023) 
+(a) 8.5% 
+(b) 10.5% 
+ 
+(c) 5.5% 
+(d) 12.5% 
+69. In how many years will Rs.1,900 produce an interest of ₹798 at 
+the rate of 7% simple interest per annum? 
+7% okf"kZd lk/kkj.k C;kt dh nj ls fdrus o"kZ eas 1]900 #- ij #- 798 dk C;kt 
+,d= gks tk,xk\ 
+(a) 6          (b)8             (c)9         (d) 5 
+ 
+                                                  BY Gagan Pratap 
+70. In how much time will a sum of Rs. 5250 amounts to Rs. 9870 at 
+the rate of 11 percent per annum at simple interest? 
+5250 #i;s dh ,d jkf'k 11 çfr'kr çfro"kZ dh nj ls fdrus le; esa lk/kkj.k C;kt 
+ij 9870 #i;s gks tk;sxh\ 
+(a) 
+8 years/o"kZ 
+(b) 
+14 years/o"kZ 
+(c) 
+12 years/o"kZ 
+(d) 
+15 years/o"kZ  
+ 
+ 
+ 
+ (SSC CGL 2022) 
+71. In how much time will a sum of Rs. 10200 amounts to Rs. 19125 
+at the rate of 12.5 percent per annum at simple interest? 
+10200 #i;s dh ,d jkf'k 12-5 çfr'kr çfro"kZ dh nj ls fdrus le; esa lk/kkj.k 
+C;kt ij 19125 #i;s gks tk;sxh\ 
+(a) 
+6 years 
+(b) 
+5 years 
+(c) 
+8 years 
+(d) 
+7 years 
+ 
+ 
+ 
+ 
+  
+(SSC CGL 2022) 
+72. In how much time (in years) will Rs 25600 becomes 
+Rs 36848 at the rate of 9
+𝟏
+𝟒% simple interest per 
+annum? 
+25600 रुपये ककतने समय में (वर्षों में) 9.25% साधारण ब्याज 
+की दर से 36848 रुपये हो जायेंगे? 
+A) 4
+𝟑
+𝟒 
+B) 3
+𝟏
+𝟐 
+C) 5
+𝟐
+𝟑 
+D) 6
+𝟏
+𝟒 
+73. In what time will ₹3,720 amount to ₹5,282.4 at 12% 
+simple interest per annum? 
+12% वादर्षषक साधारण ब्याज की िर से दकतने समय में ₹3,720 की 
+रादि पर प्राप्त दमश्रधन ₹5,282.4 होगा?  
+(a) 3 years 
+(b) 3
+𝟏
+𝟐 years 
+ 
+(c) 5
+𝟏
+𝟐 years 
+(d) 5 years 
+74.  
+In how much time (in years, rounded off to 
+2 decimal places) will ₹10,800 amount to ₹24,800 if 
+invested at simple interest at the rate of 15.5% per 
+annum?  
+यदद 15.5% प्रनत वर्षि की दर से साधारण ब्याज पर ननवेि ककया 
+जाए तो ककतने समय में (वर्षों में, 2 दिमिव स्थानों तक पूणाांककत) 
+₹10,800 की राशि ₹24,800 हो जाएगी? 
+(SSC CGL 2024 Pre) 
+A) 7.72  
+B) 8.36  
+ 
+C) 9.54  
+D) 6.89  
+ 
+ 
+ 
+ 
+75. Rs. P are invested at 5% per annum of simple interest. After T 
+years an interest of Rs. 82 is earned and the amount becomes Rs. 
+902. What is the value of T? 
+Rs. P dks lk/kkj.k C;kt ds 5% okf"kZd nj ij fuos'k fd;k tkrk gSA mlis T o"kZ 
+ds ckn Rs. 82 dk C;kt feyrk gS vkSj /kujkf'k Rs. 902 gks tkrh gS rks T dk 
+eku D;k gS\ 
+(a) 
+4 years 
+(b) 
+1 years 
+(c) 
+3 years 
+(d) 
+2 years 
+76. A person borrowed ₹ 1760 at 6% per annum and ₹ 
+2240 at 9% per annum at simple interest for the 
+same period. He had to pay ₹ 1536 in all as 
+interest. Find the time (in years). 
+एक व्यजक्त ने समान अवधध के शिए 6% प्रनत वर्षि की दर से ₹ 
+1760 और प्रनत वर्षि 9% की दर से साधारण ब्याज पर ₹ 2240 
+उधार शिए। उसे ब्याज के रूप में कुि शमिाकर ₹1536 िुकाने पडे। 
+समय ज्ञात कीजजए (वर्षों में)। 
+SSC CPO 2024 
+A) 3 
+B) 4 
+C) 5 
+D) 2 
+77. A person borrowed Rs 9000 at 7%, Rs 12000 at 8% 
+and Rs 15000 at 9% simple interest per annum. He 
+had to pay Rs 50700 at the end of n years. What is 
+the value of n? 
+एक व्यजक्त ने 9000 रुपये 7%, 12000 रुपये 8% और 15000 
+रुपये 9% साधारण ब्याज प्रनत वर्षि की दर से उधार शिए। उसे n 
+वर्षि के अंत में 50700 रुपये का भुगतान करना पडा। n का मान 
+क्या है?  (CDS 2022) 
+A) 3                                    C) 4 
+B) 5                                    D) 6 
+78. Aravind deposited ₹18,500 for 5 years at simple 
+interest. After 5 years, he received ₹4,625 as 
+interest. The annual rate of interest was: 
+अरदवंि ने साधारण ब्याज पर 5 वर्षों के दिए ₹18,500 जमा दकए। 5 
+वर्षों के बाि, उन्हें ब्याज के रूप में ₹4,625 प्राप्त हुए। ब्याज की 
+वादर्षषक िर थी:  (SSC SELECTION POST XI 2023) 
+1. 6% 
+2. 6.5% 
+3. 5% 
+4. 7% 
+79. At what rate of interest will a sum of Rs 4,500 
+amount to Rs 6,525 at simple interest for 5 years? 
+4,500 रुपये िी धनरादि वादर्षि साधारण ब्याज िी दितनी िर पर 
+5 वर्ों में 6,525 रुपये हो जाएगी?  
+(a) 8%  
+ (b) 12% 
+(c) 10%  
+ (d) 9% 
+80. Salim borrowed Rs.7,200 from the bank for some project at 
+simple interest. After a period of 3 years, the amount will be 
+Rs.9,576. What was the rate of interest? 
+lyhe us lk/kkj.k C;kt ij fdlh çkstsDV ds fy, cSad ls #- 7]200 m/kkj fy,A 3 
+o"kZ dh vof/k ds ckn ]jkf'k #- 9]576 gks tk,xhA C;kt nj D;k gS\ 
+(a) 10% 
+(b) 11% 
+(c) 9% 
+(d) 12% 
+81. A sum of ₹13,500 amount to ₹15,500 in 4 years at a 
+rate of simple interest p.a. What is the rate of 
+interest? 
+₹13,500 की राशि 4 वर्षों में साधारण ब्याज दर पर ₹15,500 हो 
+जाती है। ब्याज दर क्या है? 
+A) 5
+𝟕
+𝟗% 
+B) 4
+𝟕
+𝟖% 
+C) 3
+𝟒
+𝟓% 
+ 
+                                                  BY Gagan Pratap 
+D) 3
+𝟏𝟗
+𝟐𝟕%         SSC CGL 2023 PRE 
+82. What is the rate of interest per annum for simple 
+interest at which Rs 1040 amounts to Rs 1230 in 
+1
+𝟏
+𝟐 years? 
+साधारण ब्याज पर प्रनत वर्षि ब्याज की दर क्या है जजस पर 1040 
+रुपये की राशि 1
+𝟏
+𝟐 वर्षों में 1230 रुपये हो जाती है? 
+(SSC CGL 2024 Pre) 
+A) 
+11
+𝟕
+𝟑𝟗% 
+B) 
+10
+𝟕
+𝟑𝟗% 
+C) 
+12
+𝟕
+𝟑𝟗% 
+D) 13
+𝟕
+𝟑𝟗% 
+83. A man invested Rs 25400 on simple interest for 9 
+years to obtain a total amount of Rs 67790 on a 
+certain annual rate of interest. What was the rate 
+of interest (rounded off to 2 decimal places) to 
+obtain the above amount? 
+एक व्यजक्त ने एक ननजचित वार्र्षिक ब्याज दर पर कुि 67790 
+रुपये प्राप्त करने के शिए 9 वर्षों के शिए साधारण ब्याज पर 25400 
+रुपये का ननवेि ककया। उपरोक्त राशि प्राप्त करने के शिए ब्याज 
+की दर (2 दिमिव स्थानों तक पूणाांककत) क्या थी?  
+(CHSL 2023 PRE) 
+A) 14.58% 
+B) 18.54% 
+C) 18.45% 
+D) 15.84% 
+84. A certain sum amounts to `15,748 in 3 years at r% p.a. simple 
+interest. The same sum amounts to `16,510 at (r + 2)% p.a. 
+simple interest in the same time. What is the value of r? 
+,d fuf'pr /kujkf'k r% okf"kZd lk/kkj.k C;kt ij 3 o"kksZa eas `15,748 gks tkrh 
+gSA og /kujkf'k (r+2)% okf"kZd lk/kkj.k C;kt ij mrus gh le; esa `16,510 gks 
+tkrh gSA r dk eku Kkr djsaA 
+(a) 8 
+(b) 8.5 
+(c) 9.5 
+(d) 9 
+85. A sum of money becomes 79/16 times of itself in 35 
+years at r% of SI. What is the value of r? 
+कोई धनराशि r% साधारण ब्याज की दर पर 35 वर्षों में स्वयं का 
+79/16 गुना हो जाता है। r का मान क्या है? 
+(a) 10.5%  
+(b) 11.25% 
+(c) 10.8%  
+(d) 12.5% 
+86. A certain sum was invested on simple interest. The 
+amount to which it had grown in 5 years was 𝟏
+𝟏
+𝟒 
+times the amount to which it had grown in 3 years. 
+The percentage rate of interest was: 
+कोई तनक्चिि रालश साधारण ब्याज पर तनवेश की गई थी| 5 वर्ष के उपराांि 
+प्राप्ि होने वािा लमश्रधन, 3 वर्ष में प्राप्ि होने वािा लमश्रधन का 𝟏
+𝟏
+𝟒 गुना 
+था| ब्याज की प्रतिशि दर थी: 
+A)10% 
+ 
+ 
+B) 20% 
+ 
+C) 25% 
+              
+ 
+D) 15% 
+87. A person lent Rs. 12,000 to B for 3 years and Rs. 10,000 to C for 
+4 years on simple interest at the same rate of interest and 
+received Rs. 6,080 in all from both of them as interest. What is 
+the annual rate of interest? 
+,d O;fDr us B dks rhu o"kZ ds fy, Rs. 12,000 vkSj C dks 4 o"kZ ds fy, Rs. 
+10,000 lk/kkj.k C;kt ij leku C;kt nj ij m/kkj fn, vkSj mu nksuksa ls C;kt 
+ds :i esa dqy Rs. 6,080 izkIr fd,A okf"kZd C;kt nj D;k gS\ 
+(a) 
+15 percent 
+(b) 
+8 percent 
+(c) 
+11 percent 
+(d) 
+5 percent 
+ 
+ 
+ 
+ 
+SSC CHSL TIER – I 2022 
+88. A person lent Rs. 23000 to B for 3 years and Rs. 19000 to C for 4 
+years on simple interest at the same rate of interest and received 
+Rs. 3625 in all from both of them as interest. What is the annual 
+rate of interest? 
+,d O;fDr us B dks 3 o"kksZa ds fy, 23000 #i;s rFkk C dks 4 o"kksZa ds fy, 19000 
+#i;s C;kt dh leku nj ls lk/kkj.k C;kt ij m/kkj fn, rFkk nksuksa ls dqy 3625 
+#i;s C;kt ds :i esa çkIr fd,A C;kt dh okf"kZd nj D;k gS\ 
+(a) 
+1.5 percent 
+(b) 
+3 percent 
+(c) 
+2.5 percent 
+(d) 
+4 percent 
+ 
+ 
+ 
+ 
+ (SSC CGL 2022) 
+89. A man borrowed ₹29,000 for 3 years and ₹45,000 
+for 5 years at the same rate of simple interest. If he 
+paid a total interest of ₹62,400, then what was the 
+rate of interest? 
+एक आदमी ने साधारण ब्याज की समान दर पर 3 साि के शिए 
+₹29,000 और 5 साि के शिए ₹45,000 उधार शिए। यदद उसने 
+कुि ब्याज ₹62,400 का भुगतान ककया, तो ब्याज की दर क्या 
+थी? SSC CPO 2024 
+A) 27% 
+B) 18% 
+C) 25% 
+D) 20% 
+90. The difference between the simple interest of two 
+banks on Rs 8000 in 3 years is Rs 800. If the rate 
+of interest per annum in two banks is R1 and R2, 
+then what is the value of R1 - R2? ( where R1> R2) 
+3 वर्षि में Rs 8000  पर दो बैंको के साधारण ब्याज का अंतर Rs 
+800  है।  यदद दो बैंको में ब्याज की प्रनतवर्षि दर R1  और R2 है, 
+तो R1 -R2 का मान क्या है ? ( जहााँ R1> R2) 
+a)2
+𝟏
+𝟑%         b)1
+𝟏
+𝟑%           c)3
+𝟏
+𝟑%      d)5
+𝟏
+𝟑% 
+91. The ratio of principal and amount is 5: 6 in a 
+certain time. It will become 4: 7 after 5 years. Find 
+the rate of interest. 
+एि दनदित समय में मूलधन और दमश्रधन  िा अनुपात 5:6 है। यह 
+5 साल बाि 4:7 हो जाएगा। ब्याज िी िर ज्ञात िीदजए। 
+A) 11%                                 C) 10%  
+B) 11.5%                              D) 13% 
+92. If the ratio of principal and amount in current year 
+at simple interest is 9:17 and after 27.5 more years 
+this ratio will become 15:43. Find the rate of simple 
+interest? 
+यदद साधारण ब्याज की दर पर वतिमानं वर्षि में  मूिधन और 
+शमश्रधन का अनुपात 9:17 हो जाता है और अगिे 27.5 वर्षों के 
+ 
+                                                  BY Gagan Pratap 
+बाद यह अनुपात 15:43 हो जाएगा। साधारण ब्याज की दर ज्ञात 
+कीजजये? 
+a) 3
+𝟓
+𝟗% 
+ 
+ 
+b) 4
+𝟒
+𝟗%  
+c) 3
+𝟏
+𝟑% 
+ 
+ 
+d) 3% 
+93. The simple interest on a sum of money is 
+𝟗
+𝟑𝟓 of the 
+sum. If the number of years is numerically 5/7 times 
+of rate percent per annum, then the rate percent per 
+annum is  
+ककसी राशि का साधारण ब्याज उसके मूिधन का 
+𝟗
+𝟑𝟓 है| यदद ददए 
+गए धन पर ब्याज की वार्र्षिक दर का 5/7 गुना, समय का संख्यात्मक 
+मान के बराबर हो, तो ब्याज दर क्या होगी? 
+(a) 9 
+ 
+ 
+(b) 7 
+(c) 𝟔 
+ 
+ 
+(d) 4 
+94. The simple interest at R% per annum on a certain 
+principal P is (16/25)th of P. If R is equal to the 
+number of years (N), find the value of N? 
+एक ननजचित मूिधन P पर R% प्रनत वर्षि की दर से साधारण ब्याज, 
+P का (16/25)वां भाग है। यदद R वर्षों की संख्या (N) के बराबर 
+है, तो N का मान ज्ञात करें? 
+A)  6.5 
+B)  8 
+C)  5 
+D)  7.5 
+95. The simple interest on a certain sum is one-eighth of the sum 
+when the number of years is equal to half of the rate percentage 
+per annum. Find the simple interest (in `) on `15,000 at the same 
+rate of simple interest for 8 years. 
+tc o"kksZa dh la[;k] çfr'kr çfr o"kZ C;kt nj ds vk/ks ds cjkcj gksrh gS] rks fdlh 
+jkf'k ij lk/kkj.k C;kt] jkf'k dk 1/8 oka fgLlk gksrk gSA `15,000 ds fy,] mlh 
+C;kt nj ij 8 o"kksZa ds lk/kkj.k C;kt (` esa) dh x.kuk dhft,A 
+(a) 
+5,800 
+(b) 
+5,000 
+(c) 
+6,000 
+(d)                       5400 
+96. The simple interest on a certain amount of money is 45% of the 
+principal amount. The time for which the money was lent is four-
+fifth of the numerical value of the rate percent per annum. What 
+is the rate percent per annum? 
+,d fuf'pr jkf'k ij lk/kkj.k C;kt] ewy/ku jkf'k ds 45% ds cjkcj gSA m/kkjh 
+vof/k ds le; dk vkafdd eku] çfr'kr okf"kZd nj ds vkafdd eku ds 
+𝟒
+𝟓 ds cjkcj 
+gSA okf"kZd C;kt nj Kkr dhft,A 
+(a) 
+15% 
+(b) 
+7.5% 
+(c) 
+9.5% 
+(d) 
+12% 
+97. The simple interest on a certain sum is one-fifth of the sum and the 
+interest rate percent annum is 3.2 times the number of years. If the 
+rate of interest increases by 4%, then the simple interest (in Rs.) on 
+Rs. 7,500 for 4 years is: 
+ 
+एक ननजचित राशि पर साधारण ब्याज राशि का पांिवां दहस्सा है 
+और प्रनतवर्षि ब्याज दर प्रनतित वर्षों की संख्या का 3.2 गुना है। यदद 
+ब्याज की दर में 4% की वृद्धध होती है, तो ₹7,500 पर 4 वर्षों के शिए 
+साधारण ब्याज (₹ में) ककतना होगा?  SSC Selection Post (Phase-XII)] 
+ 
+[A] 
+3,000 
+ 
+            [B] 
+2,500 
+ 
+[C] 
+3,600 
+ 
+            [D] 
+5,100 
+98. A man took a loan of Rs 32,400 at a certain rate of 
+simple interest per annum. The rate of interest is 
+one-fourth of the number of years for which the loan 
+is taken. If the paid Rs 11,664 as interest at the end 
+loan period, the rate of interest was : 
+,d vkneh us okf’kZd lk/kkj.k C;kt dh ,d fuf”pr nj ij :-32]400 dk _.k 
+fy;kA C;kt dh nj mu o’kksZa dh la[;k dk ,d pkSFkkbZ gS] ftrus vof/k fy, x, 
+_.k fy;k x;kA ;fn mlus _.k vof/k ds var esa :-11]664 C;kt dk Hkqxrku fd;k] 
+rks C;kt dh nj Fkh\ 
+(a) 3% 
+(b) 8% 
+ 
+(c) 5% 
+(d) 12% 
+ 
+SSC CGL 2023 PRE 
+99. If x,y, z are three sum of money such that y is the 
+simple interest on x and z is the simple interest on 
+y for the same time and at the same rate of interest, 
+then what is the relation between x, y, z we have. 
+तीन राशिया x, y, z, इस प्रकार है| कक y, x का साधारण ब्याज 
+तथा z, y का साधारण ब्याज है| इन दोनों जस्थनतयों में यदद समय 
+तथा वार्र्षिक दर समान हो तो x, y तथा z में सम्बन्ध क्या है? 
+(a) xyz = 1 
+ 
+(b) x2 = yz 
+(c) z2 = xy 
+ 
+(d) y2 = xz 
+100.A certain sum of money, invested on simple interest, 
+amounts to Rs. 756 in 2 years and to Rs.873 in 3.5 
+years.Find the sum (in Rs.) 
+साधारण ब्याज पर दनवेि की गई एक दनदित रादि 2 वर्षों में 756 
+रुपये और 3.5 वर्षों में 873 रुपये हो जाती है। रादि ज्ञात कीदजए 
+ (रुपये में)               RRB NTPC 21/03/2021 (Evening) 
+(a) 500 
+(b) 700 
+ 
+(c) 600 
+(d) 400 
+101. A sum of money at simple interest amounts to ₹6,000 in 4 years 
+and to ₹6,750 in 7 years at the same rate per cent p.a. of 
+interest. The sum (in₹) is: 
+एक दिदित धिरादि समाि वादर्षक साधारण ब्याज िर पर 4 वर्ष में ₹6,000 और 7 वर्ष में 
+₹6,750 हो जाती है। वह धिरादि (₹ में) दकतिा है? 
+(a) 5,100  
+(b)4,800  
+ 
+(c)4,000  
+(d)5,000 
+102. A sum lent at simple interest amounts to `6,313 in one year and 
+`7,139 in 3 years. What is the rate of interest per annum? 
+lk/kkj.k C;kt ij _.k yh xbZ ,d jkf'k ,d o"kZ esa `6,313 vkSj 3 o"kZ esa `7,139 
+gks tkrh gS] okf"kZd C;kt nj D;k gS\ 
+(a) 
+8% 
+(b) 
+5% 
+(c) 
+6% 
+(d) 
+7% 
+103. 
+If a sum of money amounts to Rs.2502 in 3 
+years and Rs.3087 in 5.5 years at the same rate of 
+simple interest per annum. Then the rate of simple 
+interest is 
+यदद कोई राशि साधारण ब् याज की एक ही (वार्र्षिक) दर पर 3 वर्षि 
+में 2502 रु और 5.5 वर्षि में 3087 रु हो जाती है तो साधारण ब् याज 
+की दर ज्ञात करें? 
+a)11%   
+b)13% 
+ 
+                                                  BY Gagan Pratap 
+c)19%   
+d)17% 
+104. 
+A sum of money becomes Rs. 8,928 in two 
+years and Rs. 10,224 in 3
+𝟏
+𝟐 years at simple interest. 
+Find out the rate of interest.  
+,d ननजचित èkujkfि okÆ’kd lkèkkj.k C;kt nj ij nks o’kZ esa :-8]928 vkSj 3
+𝟏
+𝟐 o’kZ 
+esa Rs.10,224 gks tkrh gSA okÆ’kd C;kt nj Kkr dhft,A 
+(a) 9%  
+ 
+(b) 15%  
+(c) 12%  
+ 
+(d) 10% 
+105. 
+A certain sum of money amounts to Rs. 
+1,250 in 4 years and to Rs. 1,520 in 5
+𝟏
+𝟐 years at a 
+certain rate of simple interest. Find the rate of 
+interest per annum (correct to two places of 
+decimals).  
+ 
+एक ननजचित धानराजज साधाणरण ब्याज की एक ननजचित दर पर 4 
+वर्षि में Rs. 1,250 और 5
+𝟏
+𝟐 वर्षि में Rs. 1,520 हो जाती है। वार्र्षिक ब्याज 
+दर (दिमिव के दो स्थान तक सही) ज्ञात करें। 
+ 
+[SSC Selection Post (Phase-XII)] 
+ 
+[A] 
+23.96% 
+ 
+            [B] 
+43.96% 
+ 
+ 
+[C] 
+33.96% 
+ 
+             [D] 
+53.96% 
+106. 
+A certain amounts to Rs 16956 in 4 years 
+and to Rs 19116 in 6
+𝟏
+𝟐 years at a certain rate 
+percent per annum, interest being simple in both 
+the cases. The rate of interest per annum is? 
+एक तनक्चिि रालश 4 वर्ों में 16956 रुपये और 6
+𝟏
+𝟐 वर्ों में 19116 
+रुपये प्रति वर्ष एक तनक्चिि दर प्रतिशि पर, ब्याज दोनों मामिों में 
+सरि है। प्रति वर्ष ब्याज का अनुपाि है? 
+A) 6.5% 
+B) 7.5% 
+C) 6.4% 
+D) 7.8% 
+107. A certain sum amounts of `81840 in 3 years and to `92400 in 5 
+years at x% p.a. under simple interest. If the rate of interest is 
+becomes (x+2)%, then in how many years will the same sum 
+double itself? 
+x% okf"kZd lk/kkj.k C;kt dh nj ij] dksbZ fuf'pr jkf'k 3 o"kZ esa `81,840 vkSj 5 
+o"kZ esa `92,400 gks tkrh gSA ;fn C;kt nj (x + 2)% gks tkrh gS] rks fdrus o"kZ 
+esa ogh jkf'k Lo;a dh nksxquh gks tk,xh\ 
+(a) 
+12
+𝟏
+𝟐 
+(b) 
+8 
+(c) 
+10 
+(d) 
+20 
+108. A certain sum amounts to `8,192 in 3½ years and to `9,472 in 6 
+years, at simple interest at a certain rate per cent p.a. The rate 
+of interest p.a. and the sum are _____ and _____, respectively. 
+,d fuf'pr /kujkf'k lk/kkj.k C;kt ij ,d fuf'pr okf"kZd nj ls 3½ o"kksZa esa 
+`8,192 vkSj 6 o"kksZa esa `9,472 gks tkrh gSA okf"kZd C;kt nj vkSj /kujkf'k Øe'k% -
+------------------- vkSj --------------------- gSaA 
+(a) 
+8.5%; `6,400 
+(b) 
+8%; `6,400 
+(c) 
+8.5%; `6,000 
+(d) 
+8%; `6,500 
+109. A sum lent at simple interest amounts to Rs 6,240.80 is one year 
+and to Rs 7,563.20 in 4 years. The sum (in Rs) and the rate of 
+interest per annum, respectively are: 
+lk/kkj.k C;kt ij ,d _k jkf'k 1 o"kZ esa # 6,240.80 rFkk 4 o"kZ esa 7,563.20 gks 
+tkrh gS Øe'k% og /kujkf'k ¼# esa½ vkSj okf"kZd C;kt dh nj Kkr djsaA 
+(a) 
+6,200, 8.5% 
+(b) 
+5,800, 8.5% 
+(c) 
+5,800 7.6% 
+ (d) 
+6,200, 7.6% 
+110. 
+The ratio of numerical value of rate of 
+interest and time period at a sum invested is 5: 2 
+and men get 22.5% of invested sum as interest. Find 
+at the same rate how much interest man will get on 
+the sum of Rs. 1600 for two year? 
+एक धनराशि पर साधारण ब्याज की वार्र्षिक दर और ददए गए 
+समय का संख्यात्मक मान का अनुपात 5:2 है और व्यजक्त को 
+ननवेि की राशि का 22.5% दहस्सा ब्याज के रूप में प्राप्त होता है। 
+समान ब्याज की दर से व्यजक्त को 1600 रुपये पर 2 वर्षि में कुि 
+ककतना ब्याज शमिेगा? 
+(a)240 Rs. 
+(b)180 Rs. 
+ 
+(c)160 Rs. 
+(d)250 Rs. 
+111. 
+4300 rupees become 4644 in 2 years at simple 
+interest and the principle amount that will become 
+10,104 rupees in 5 years at the same rate of interest. 
+साधारण ब् याज पर ककसी वार्र्षिक ब् याज दर प्रनतित से रू. 4,300 
+की एक राशि 2 वर्षि में बढ़कर रू. 4,644 हो जाती है। कौनसी राशि 
+साधारण ब् याज द्वारा इसी ब् याज दर पर 5 वर्षि में बढ़कर रू.10,104 
+हो जायेगी? 
+a) 8,420         
+b) 9,260  
+c) 5,710           
+d) 7,200 
+112. A sum of `8,600 amount to `9,589 in 2½ years at x% p.a. simple 
+interest. What will be the amount of the same sum in 4
+𝟏
+𝟓 years at 
+(x+0.4)% p.a.? 
+`8,600 dh /kujkf'k lk/kkj.k C;kt dh x% okf"kZd nj ls 𝟐
+𝟏
+𝟐 o"kksZa esa `9,589 gks 
+tkrh gSA 𝟒
+𝟏
+𝟓 o"kksZa esa (x+0.4)% dh okf"kZd nj ls leku /kujkf'k ij çkIr feJ/ku 
+D;k gksxk\ 
+(a) 
+`10,384 
+(b) 
+`10,300 
+(c) 
+`10,406 
+(d) 
+`10,205 
+113. A certain sum amounts to `15,179 in 8½ years at 9% p.a. simple 
+interest. What will be the simple interest (in `) on the same sum 
+in 5½ years at the same rate of interest? 
+,d fuf'rp /kujkf'k 9% okf"kZd lk/kkj.k C;kt dh nj ij 𝟖
+𝟏
+𝟐 o"kZ esa `15,179 gks 
+tkrh gSA leku /kujkf'k ij leku C;kt nj ij 𝟓
+𝟏
+𝟐 o"kZ esa çkIr lk/kkj.k C;kt (` 
+esa) Kkr dhft,A 
+(a) 
+4,158 
+(b) 
+4,257 
+(c) 
+4,356 
+(d) 
+4,455 
+ 
+                                                  BY Gagan Pratap 
+114. The simple interest on a certain sum for𝟒
+𝟐
+𝟑 years at 𝟔
+𝟑
+𝟒% is 
+`8,820. What will be the amount of the same sum after 𝟕
+𝟏
+𝟐 years 
+at 𝟖
+𝟏
+𝟑% at simple interest? 
+fdlh fuf'pr jkf'k ij] 𝟔
+𝟑
+𝟒% dh nj ls 𝟒
+𝟐
+𝟑 o"kZ esa çkir lk/kkj.k C;kt `8,820 
+gSA leku jkf'k ij] 𝟖
+𝟏
+𝟑% lk/kkj.k C;kt dh nj ls 𝟕
+𝟏
+𝟐 o"kZ eas çkIr /kujkf'k Kkr 
+djsaA 
+(a) `45,500 
+(b) `45,400 
+(c) `54,500 
+(d) `54,400 
+115. 
+A sum amounts to ₹14,395.20 at 9.25% p.a. 
+simple interest in 5.4 years. What will be the simple 
+interest on the same sum at 8.6% p.a. in 4.5 years? 
+एक राशि 9.25% प्रनत वर्षि की दर से साधारण ब्याज पर 5.4 वर्षों में 
+₹14,395.20 हो जाती है। उसी राशि पर 8.6% प्रनत वर्षि की दर पर 
+4.5 साि में साधारण ब्याज क्या होगा? 
+(a) ₹3,627 
+ 
+ 
+(b) ₹3,715.20 
+(c) ₹3,672 
+ 
+ 
+(d) ₹3,797.76 
+116. If the simple interest on a certain sum of money for 20 
+months at the rate of 19.2% per annum exceeds the simple 
+interest on the same sum for 15 months at the rate of 11.2% 
+p.a. by Rs.2,920, then what is the sum (in Rs. to the nearest 
+hundreds)?  
+ 
+यदद एक ननजचित धनराशि पर 20 महीने के शिए 19.2% की वार्र्षिक 
+दर से प्राप्त साधारण ब्याज, उसी राशि पर 15 महीने के शिए 11.2% 
+की वार्र्षिक दर से प्राप्त साधारण ब्याज से रु- 2,920 अधधक है] तो 
+धनराशि (रु- में ननकटतम सैकडे तक पूणाांककत) ककतनी है?     
+                SSC CPO Pre 2024 
+ 
+[A] 
+16,620 
+ 
+            [B] 
+12,660 
+ 
+ 
+[C] 
+16,200 
+ 
+            [D] 
+16,660 
+117. 
+On a deposit of ₹1,50,000, R gets ₹2,000 
+as interest on simple rate of interest in a year. 
+How much amount (in ₹) should he deposit to get 
+interest of ₹4,500? 
+₹1,50,000 की जमा राशि पर, R को एक वर्षि में साधारण ब्याज 
+दर पर ₹2,000 ब्याज के रूप में शमिते हैं। ₹4,500 का ब्याज 
+पाने के शिए उसे ककतनी राशि (₹ में) जमा करनी िादहए? 
+(SSC SELECTION POST XII MATRICULATION LEVEL) 
+A) 425500 
+B) 337500 
+C) 277500 
+D) 377500 
+118. 
+If Rs 4500 amounts to Rs 4860 in 1 year at 
+a certain rate of simple interest per annum, then 
+how much will it amount to after 3 years at the 
+same rate of interest? 
+यदद साधारण ब्याज की एक ननजचित दर पर 1 वर्षि में 4500 रुपये 
+की राशि 4860 रुपये हो जाती है, तो समान ब्याज दर पर 3 वर्षि 
+बाद ककतनी राशि हो जाएगी? 
+A) Rs 6300 
+B) Rs 5580 
+C) Rs 5670 
+D) Rs 6170 
+119. 
+At simple interest a sum of Rs 6,400 becomes 
+Rs 8,320 in 3 years. What will Rs 7,2000 become in 
+5 years at the same rate? 
+साधारण ब्याज पर ₹6,400 की रादि 3 वर्षों में ₹8,320 हो जाती है। 
+उसी िर पर 5 वर्षष में ₹7,200 की रादि दकतनी हो जाएगी?   
+(a) Rs 10,000    
+       (b)  Rs 10,600 
+       
+(c)  Rs 10,800   
+     (d)  Rs 10,400 
+ 
+SSC CGL 2023 PRE 
+120. A man borrows a sum of Rs. 12,000 which amounts to Rs. 13,200 
+in 2 years on simple interest. What would have been the amount 
+if the rate of interest was doubled? 
+,d vkneh Rs. 12,000 dh /kujkf'k _.k ij ysrk gS tks lk/kkj.k C;kt ij 2 o"kZ 
+esa Rs. 13,200 gks tkrh gSA ;fn C;kt nj nksxquk gksrk rks ;g /kujkf'k fdruh gks 
+xbZ gksrh\ 
+(a) 
+Rs. 13,400 
+(b) 
+Rs. 14,400 
+(c) 
+Rs. 12,400 
+(d) 
+Rs. 14,000 
+121. A sum of Rs. 4,000 becomes Rs. 4,960 in 4 years at simple 
+interest. If the rate of interest becomes 1.5 times of itself, then 
+how much this sum will become after 4 years? 
+lk/kkj.k C;kt ij 4 lky esa Rs. 4,000 #i, dh /kujkf'k Rs. 4,960 #i, gks 
+tkrh gSA ;fn C;kt nj Lo;a dk 1.5 xquk gks tk,] rks 4 o"kZ ckn ;g /kujkf'k fdruh 
+gks tk,xh\ 
+(a) 
+Rs. 5,440 
+(b) 
+Rs. 5,680 
+(c) 
+Rs. 5,280 
+(d) 
+           Rs. 4,890  
+122. 
+A sum of Rs.8,400 amounts to Rs.11,046 at 
+8.75% p.a. simple interest in certain time. What is 
+the simple interest on the sum of Rs.9,600 at the 
+same rate for the same time? 
+रु8,400 िी रादि 8.75% वादर्षि ब्याज िी िर से दनदित समय 
+में  रु11,046 हो जाती है| उसी समय िे दलए तथा उसी ब्याज िर 
+पर  रु9,600 िी रादि पर साधारण ब्याज क्या होगा? 
+(a) Rs.3,024 
+(b) Rs.2,686 
+(c) Rs.3,012 
+(d) Rs.2,990 
+123. 
+A sum of Rs. 9600 amounts to Rs. 10480 
+at 9.25% p.a. simple interest in certain time “T”. 
+What is the simple interest on the sum of Rs.8400 
+at the same rate for the time “0.6T”? 
+9600 रुपये की रादि 9.25% के साधारण ब्याज का वादर्षषक िर 
+तथा एक दनित समय T में 10480 रुपये हो जाती है । 8400 रूपए 
+पर. समान ब्याज िर पर “0.6T” समय के दिए साधारण ब्याज क्या 
+है?  
+(a) 462  
+(b) 484  
+ 
+(c) 440  
+(d) 444 
+124. 
+₹8,500 becomes ₹11,050 in 6 years at a certain 
+rate of simple interest. If the rate becomes 1.8 times 
+of itself, the amount of the same principal in 5 years 
+will be: 
+₹8,500 साधारण ब्याज की एक दनदित िर पर 6 वर्षों में ₹11,050 हो 
+जाता है। यदि िर स्वयं की 1.8 गुनी हो जाती है, तो 5 वर्षष में उसी 
+मूिधन पर प्राप्त होने वािा दमश्रधन ज्ञात करें।  
+A) ₹15,625 
+B) ₹14,350 
+C)₹13,550 
+D) ₹12,325 
+(SSC CGL 2023 PRE) 
+ 
+                                                  BY Gagan Pratap 
+125. 
+A sum of Rs 10,500 amounts to Rs 13,825 in 3
+𝟒
+𝟓 
+years at a certain rate percent per annum simple 
+interest. What will be the simple interest on the 
+same sum for 5 years at double the earlier rate? 
+:-10]500 dh राशि izfr o’kZ lkèkkj.k C;kt dh fdlh fuf”pr nj ij 3
+𝟒
+𝟓 o’kksZa esa 
+c<+dj :-13]825 gks tkrh gSA ;fn C;kt dh iwoZ nj dks nksxquk dj fn;k tk, rks 
+mlh राशि dk 5 वर्षो ds fy, lkèkkj.k C;kt fdruk gksxk\ 
+(a) Rs 8750              (b) Rs 8470 
+(c) Rs 8560              (d) Rs 8670 
+126. 
+A certain amount at certain rate of simple 
+interest for certain time gives a certain interest. 
+The amount is increased by 20%, rate is made 2/3 
+of the previous and time is made 7/4 of the 
+previous. In this way, the simple interest received 
+is Rs 2800. What was the interest received in the 
+first condition? 
+एि दनदित समय िे दलए साधारण ब्याज िी दनदित िर पर एि 
+दनदित रादि एि दनदित ब्याज िेती है। रादि में 20% िी वृद्धि िी 
+जाती है, िर दपछले िे 2/3 िी जाती है और समय दपछले िा 7/4 
+बना दिया जाता है। इस प्रिार, प्राप्त साधारण ब्याज 2800 रुपये 
+है। पहली ितष में प्राप्त ब्याज दितना था? 
+A) Rs 1800                           C) Rs 2400 
+B) Rs 2100                           D) Rs.2000 
+127. 
+The respective ratio of simple interest on 
+Rs 2400 at 14% rate of interest after n years and 
+Rs 2800 at 8% rate of interest for 3 more years is 
+8:7, respectively. What is the value of n? 
+n वर्षों के बाद 2400 रुपये पर 14% ब्याज दर पर साधारण ब्याज  
+और 2800 रुपये पर 3 और वर्षों के शिए 8% ब्याज दर का संबंधधत 
+अनुपात क्रमिः 8:7 है। n का मान क्या है? 
+A) 10.1 
+B) 9.6 
+C) 7.9 
+D) 8.5 
+128. 
+A sum of money amounts to Rs.15360 in 4 
+years. If the rate of interest is increased by 20% the 
+amount becomes Rs.16032 in same time. Then find 
+the rate of interest? 
+कोई धन 4  साि में 15360 रु  की राशि हो जाता है। यदद ब्याज 
+की दर में 20% की वृद्धध कर दी जाए तो उतने ही साि में  16032 
+रू हो  जायेंगे तो किर ब्याज की दर ज्ञात कीजजये? 
+a)6% 
+ 
+ 
+b)7%  
+c)8% 
+ 
+ 
+d)7.5% 
+129. A sum of money was lent in two parts in the ratio 4 : 5 for 4 years 
+and 5 years respectively, both at the rate of 8% per annum 
+simple interest. If the difference between the interests earned 
+from the two parts is `4680, then what was the total sum lent (in 
+`) ? 
+4 : 5 d vuqikr eas dksbZ /ku jkf'k nks Hkkxksa eas Øe'k% 4 o"kZ vkSj 5 o"kZ ds fy, m/kkj 
+nh xbZ] nksuksa Hkkx dks 8% okf"kZd lk/kkj.k C;kt dh nj ij fn;k x;k gSA ;fn nksukas 
+Hkkxksa ls çkIr C;kt ds chp varj `4,680 Fkk] rks m/kkj nh xbZ dqy jkf'k ¼` eas½ Kkr 
+djsaA 
+(a) 
+58,500 
+(b) 
+46,800 
+(c) 
+65,000 
+(d) 
+42,120 
+130. If the simple interest on a sum of `x at 8% p.a. for 3½ years is 
+double the simple interest on another sum of `y at 12% p.a. for 
+3 years, then the ratio of x to y is: 
+यदद x की रादि पर 8% प्रदि वर्ष की दर से साधारण ब्याज 3½ वर्ों के दिए 12% प्रदि वर्ष 
+की दर से y की एक अन्य रादि पर 3 वर्ों के दिए साधारण ब्याज का दोगुना है। 3 वर्ों के दिए, 
+िो x से y का अनुपाि है: 
+(a)20 : 7         (b)18 : 7         (c)8 : 11            (d)5 : 11 
+131. 
+A certain sum of money is invested in two 
+parts in such a way that the S.l. from first part at 
+rate of 16% per annum for 18years is equal to the 
+simple interest on second part at the rate of 22% per 
+annum for 15 years. Find the sum of money, if 
+difference between both investments is Rs 4200. 
+एक धनरादि को िो भागो में इस प्रकार दनवेदित दकया जाता है, दक 
+एक भाग पर 18 वर्षष के दकये 16% प्रदत वादर्षषक ब्याज की िर से 
+साधारण ब्याज , िूसरे भाग पर 15 वर्षष के दिए 22 % प्रदत वादर्षषक 
+ब्याज की िर से साधारण ब्याज के बराबर है। यदि िोनों दनवेि के 
+बीच 4200 रु का अंतर है तो कुि धनरादि ज्ञात कीदजये? 
+(a) 56650            
+(b) 67800           
+(c) 72100                  (d) 61800  
+132. A sum of ₹50,250 is divided into two parts such that the simple 
+interest on the first part for 7
+𝟏
+𝟐 years at 8
+𝟏
+𝟑% p.a. is 
+𝟓
+𝟐 times the 
+simple interest on the second part for 5
+𝟏
+𝟒 years at 8% p.a. What 
+is the difference (in ₹) between the two parts? 
+₹50,250 की रादि को िो भागों में इस प्रकार दवभादजत दकया जाता है दक पहले भाग पर 7
+𝟏
+𝟐 
+वर्ष का साधारण ब्याज 8
+𝟏
+𝟑% प्रदत वर्ष की िर से। 8% प्रदत वर्ष की िर से  5
+𝟏
+𝟒 वर्ों के दलए 
+िूसरे भाग पर साधारण ब्याज का 5/2 गुिा है। िोिों भागों के बीच का अंतर (₹ में) क्या है? 
+(a)10,275 
+(b)12,750 
+ 
+(c)12,570 
+(d)15,270 
+133. 
+Bhumika deposited ₹8,000, which 
+amounted to ₹9,200 after 3 years at r% p.a. 
+simple interest. Had the interest rate been 2% 
+more, that is, (r + 2)% per annum, what amount 
+would she have received? 
+भूशमका ने ₹8,000 जमा ककए, जो 3 साि बाद r% वार्र्षिक दर 
+पर ₹9,200 हो गए। साधारण ब्याज। यदद ब्याज दर 2% अधधक 
+होती, अथाित (r + 2)% प्रनत वर्षि, तो उसे ककतनी राशि प्राप्त 
+होती?        (DP CONSTABLE 2023) 
+ 
+A) Rs 9680 
+B) Rs 9700 
+C) Rs 9600 
+D) Rs 9890 
+134. 
+Rs.3200 becomes Rs.5312 at a certain rate of 
+interest in 6 years. If rate of interest would be 7.5% 
+more, then find the new amount. 
+एक ननजचित ब्याज दर से, 6 वर्षो में 3200 रू की धनराशि 5312 
+रू हो जाती है| यदद ब्याज दर को 7.5% अधधक कर ददया जाए,तो 
+अब नया शमश्रधन क्या होगा? 
+a)Rs.6752 
+ 
+b)Rs.6912 
+ 
+c)Rs.6176 
+ 
+d)Rs.4640 
+ 
+                                                  BY Gagan Pratap 
+135. 
+Rs.8800 becomes Rs.12000 at a certain rate 
+of interest in 4 years. If rate of interest would be 3% 
+more, then find the amount at the end of 7 years. 
+एक ननजचित ब्याज दर से, 4 वर्षों में 8800रू की धनराशि 12000 
+रू हो जाती है | यदद ब्याज दर को 3% अधधक कर ददया जाए, तो 
+7 वर्षों के अंत में शमश्रधन ज्ञात करें? 
+a)Rs.14120  
+ 
+b)Rs.15456 
+c)Rs.16248 
+ 
+d)Rs. 17424 
+136. 
+A total of ₹2,00,000 is divided into two 
+parts for investing in different banks on simple 
+interest. One yields 4% p.a. while the other yields 
+6% p.a. If the total interest at the end of one year 
+is equivalent to 4.7% p.a. on the whole amount, the 
+amount (in ₹) invested in each bank is ________, 
+respectively.  
+साधारण ब्याज पर र्वशभन्न बैंकों में ननवेि के शिए कुि 
+₹2,00,000 को दो भागों में बांटा गया है। एक पर 4% वार्र्षिक 
+ररटनि शमिता है जबकक दूसरे भाग पर 6% प्रनत वर्षि है। यदद एक 
+वर्षि के अंत में कुि ब्याज 4.7% प्रनत वर्षि के बराबर है। पूरी राशि 
+पर, प्रत्येक बैंक में ननवेि की गई राशि (₹ में) क्रमिः ________ 
+है।    SSC CGL PRE 2024 
+ A) 1,30,000 and 70,000 
+ B) 1,45,000 and 55,000 
+ C) 1,20,000 and 80,000  
+ D) 1,60,000 and 40,000 
+137. 
+A man deposited Rs.1850 in a bank at 7% per 
+annum and Rs.2150 in another bank at 9% per 
+annum. Find the rate of interest for the whole sum: 
+एक आदमी ने एक बैंक में 1850 रू 7% वार्र्षिक ब्याज की दर से 
+और दूसरे बैंक में 2150 रु, 9% वार्र्षिक ब्याज की दर से ननवेशित 
+ककया। पूरी धनराशि के शिए ब्याज दर क्या होगी? 
+a)8.133% 
+ 
+b)8.075% 
+ 
+c)8.25% 
+ 
+d)8.375% 
+138. 
+Arun lends Rs.20,000 to two of his friends. 
+He gives Rs.12,000 to the first at 8% p.a. simple 
+interest. Arun wants to make a profit of 10% on the 
+whole. The simple interest rate at which he should 
+lend the remaining sum of money to the second 
+friend is  
+v:.k :-20]000] vius nks nksLrksa dks mèkkj nsrk gSA og igys nksLr dks :-12]000] 
+8% वादर्षक lkèkkj.k C;kt dh nj ij nsrk gSaA v:.k viuh dqy रादि ij 10% 
+ykHk pkgrk gSA vr% mls िेर् रादि nwljs nksLr dks fdl lkèkkj.k C;kt nj ij nsuh 
+pkfg,] rkfd mls bfPNr ykHk fey lds\ 
+(a) 8%  
+ (b) 16% 
+(c) 12%  
+ (d) 13% 
+139. 
+A person invested one-fourth of the sum of 
+Rs 25000 at a certain rate of simple interest and the 
+rest at 4% p.a. higher rate. If the total interest 
+received for 2 years is Rs4125, what is the rate at 
+which the second sum was invested? 
+,d O;fDr :-25]000 dh राशि ds ,d&pkSFkkbZ Hkkx dk lkèkkj.k C;kt dh ,d 
+fuf”pr nj ij vkSj िेर्ष राशि dk 4% izfr o’kZ dh mPp nj ij ननवेि djrk 
+gSA ;fn 2 वर्षो ds fy, dqy :-4]125 C;kt izkIr gksrh gS] rks fuosि dh xbZ f}rh; 
+राशि dh C;kt nj D;k Fkh\ 
+(a) 9.5 % 
+ 
+ 
+(b) 5.25 % 
+(c) 7.5 % 
+ 
+ 
+(d) 9.25 % 
+140. 
+A sum of ₹15,600 is invested partly at 7% per 
+annum and the remaining at 9% per annum simple 
+interest. If the total interest at the end of 3 years is 
+₹ 3738, how much money was invested at 7% per 
+annum? 
+ 15,600 की राशि आंशिक रूप से 7% प्रनत वर्षि और िेर्ष 9% प्रनतवर्षि 
+साधारण ब्याज पर ननवेि की जाती है। यदद 3 वर्षों के अंत में कुि 
+ब्याज 3738 है, तो प्रनत वर्षि 7% पर ककतना पैसा ननवेि ककया गया 
+था? 
+a)₹7800 
+ 
+b)₹7900 
+c)₹7600 
+ 
+d)₹7700 
+141. A sum of `17,200 is lent out at simple interest in two parts for 2 
+years at 8% p.a. and 10% p.a. respectively. If the total interest 
+received after 2 years is `3,008, then the money lent (in `) at the 
+rate of 8% p.a. is: 
+`17,200 dh jkf'k lk/kkj.k C;kt ij nks Hkkxksa esa 2 o"kZ ds fy, Øe'k% 8% okf"kZd 
+vkSj 10% okf"kZd nj ij m/kkj nh tkrh gSA ;fn 2 o"kZ ckn çkIr dqy C;kt `3,008 
+gS] rks 8% okf"kZd nj ij m/kkj nh xbZ jkf'k (` esa) fdruh gS\ 
+(a) 
+6,400 
+(b) 
+9,200 
+(c) 
+9,800 
+(d) 
+10,800 
+142. 
+Kumar invested a total of ₹16,900 partly 
+in two schemes, A and B. The rate of simple 
+interest in the two schemes were 14% p.a. and 
+11% p.a., respectively. If the total interest earned 
+in 2 years was ₹4,498, then what was the amount 
+invested in Scheme B? 
+कुमार ने दो योजनाओं, A और B में आंशिक रूप से कुि 
+₹16,900 का ननवेि ककया। दोनों योजनाओं में साधारण ब्याज की 
+दर 14% प्रनत वर्षि थी। और क्रमिः 11% प्रनतवर्षि। यदद 2 वर्षों में 
+अजजित कुि ब्याज ₹4,498 था, तो योजना B में ननवेि की गई 
+राशि क्या थी?         (DP CONSTABLE 2023) 
+A) Rs 3200 
+B) Rs 4900 
+C) Rs 3000 
+D) Rs 3900 
+143. A sum of `70,000 was lent partly at 4% p.a. and the remaining at 
+6% p.a. simple interest. The total interest received after 3½ years 
+is `12,488. The sum lent at 4% p.a. is: 
+`70,000 dh /kujkf'k ds ,d Hkkx dks 4% okf"kZd vkSj 'ks"k Hkkx dks 6% okf"kZd 
+lk/kkj.k C;kt dh nj ls m/kkj fn;k tkrk gSA 𝟑
+𝟏
+𝟐 o"kZ i'pkr dqy C;kt `12,488 
+çkIr gksrk gSA 4% okf"kZd nj ij m/kkj nh xbZ /kujkf'k fdruh Fkh\ 
+(a)`38,400         (b)`35,200 
+(c)`31,600         (d)`34,800 
+144. 
+A man borrowed a total amount of Rs.45000, 
+one part of it at rate of 10% per annum simple 
+interest and remaining part on 12% per annum. If at 
+the end of three years, he paid in all Rs.59940. To 
+ 
+                                                  BY Gagan Pratap 
+settle the loan amount. What was the amount 
+borrowed at 12% per annum? 
+एक व्यजक्त कुि 45000रू की धनराशि उधार िेता है, इस धनराशि 
+का एक भाग वह 10% प्रनत वार्र्षिक साधारण ब्याज की दर पर और 
+िेर्ष भाग 12% प्रनत वार्र्षिक की ब्याज की दर पर उधार िेता है| 
+यदद तीन वर्षों के अंत में वह कुि शमिाकर 59940 रू का भुगतान 
+करता है, तो 12% प्रनत वार्र्षिक की दर पर उधार िी गई  
+a)Rs.21000 
+ 
+b)Rs.18000 
+ 
+c)Rs.24000 
+ 
+d)Rs.27000 
+145. 
+A person invested a sum of Rs. 90000 in 3 
+Schemes A, B & C at the rate of  16%, 19% & 31%  
+per annum respectively. The amount invested in 
+scheme C is 50% more than the amount invested in 
+scheme A. Find the total amount invested in scheme 
+B, if he gets a total amount of Rs.150300 in three 
+years. 
+एक व्यजक्त 90000 रू की एक ननजचित धनराशि 3 योजना- A, B 
+और C में क्रमिः 16%, 19%  और 31%  प्रनत बार्र्षिक की दर 
+से ननवेशित करता है| योजना C में ननवेशित धनराशि, बैंक-A में 
+ननवेशित धनराशि से 50% अधधक है| यदद तीन वर्षों के अंत में, 
+कुि धनराशि 150300 रू हो जाती है, तो बैंक-B में ननवेशित 
+धनराशि ज्ञात करें? 
+a)30000  
+b)40000 
+ 
+c)50000  
+d)35000 
+146. Anil lent a sum of `5,000 on simple interest for 10 years in such 
+a way that the rate of interest is 6% per annum for the first 2 
+years, 8% per annum for the next 2 years and 10% per annum 
+beyond 4 years. How much interest (in `) will he earn at the end 
+of 10 years? 
+vfuy us] `5,000 dh jkf'k dks 10 o"kksZa ds fy, lk/kkj.k C;kt ij bl çdkj m/kkj 
+fn;k fd C;kt dh nj igys 2 o"kksZa ds fy, 6% çfr o"kZ] vxys 2 o"kksZa ds fy, 
+8% çfr o"kZ vkSj 4 o"kZ ds ckn 10% okf"kZd gksA 10 o"kZ ds var eas og fdruk 
+C;kt (` esa) vftZr djsxk\ 
+(a) 
+5,000 
+(b) 
+4,400 
+(c) 
+4,200 
+(d) 
+3,500 
+147. 
+The rate of interest for the first 2 years is 
+6% p.a., for the next 3 years is 10% p.a. and for the 
+period beyond 5 years is 12% p.a. If a person gets Rs 
+12,771 as simple interest after 7 years, then how 
+much money did he invest? 
+पहले 2 वर्ष िे दलए ब्याज िी िर प्रदत वर्ष 6% है, अगले 3 वर्ष िे 
+दलए प्रदत वर्ष 10% है, और 5 वर्ष िे बाि िी अवदध िे दलए प्रदत 
+वर्ष 12% है। यदि 7 वर्ष बाि दिसी व्यद्धि िो साधारण ब्याज िे 
+रूप में Rs 12,771 दमलता है, तो उसिे द्वारा दनवेि िी गयी रादि 
+ज्ञात िीदजये। 
+(a) Rs 19,450 
+ 
+(b) Rs 19,350 
+(c) Rs 19,300 
+ 
+(d) Rs 20,000 
+148. 
+A sum of money earns a simple interest at 
+7.25% per annum for the first eight years, at 8.5% 
+for the next six years, and at 6.5% for the final four 
+years. If the total interest earned during these 
+eighteen years was Rs 35100, what was the original 
+sum invested (in Rs)? 
+ककसी धनराशि पर पहिे आठ वर्षों के शिए 7.25% प्रनत वर्षि, अगिे 
+छह वर्षों के शिए 8.5% और अंनतम िार वर्षों के शिए 6.5% की 
+दर से साधारण ब्याज शमिता है। यदद इन अठारह वर्षों के दौरान 
+अजजित कुि ब्याज 35100 रुपये था, तो ननवेि की गई मूि राशि 
+(रुपये में) क्या थी? (SSC CGL 2023) 
+A) 25800 
+B) 25500 
+C) 26400 
+D) 26000 
+149. 
+The rate of S.I. on a certain sum of money 
+is 6.5% per annum for first four years, 9% per annum 
+for next 7 years, and 10% per annum for the period 
+beyond 11 years. If the Amount received at at the 
+end of 19 years is Rs.43040. Find the sum. 
+एक ननजचित धनराशि पर पहिे 4 वर्षि में साधारण व्याज की दर 
+6.5% है, अगिे 7 वर्षो तक साधारण व्याज की दर से 9% है, और 
+11 वर्षि के पचिात व्याज की दर 10% है।यदद 19 वर्षि के पचिात 
+43040रु राशि प्राप्त होते है, तो मूिधन ज्ञात करे? 
+a)14000  
+b)16000` 
+ 
+c)20000  
+d)18000 
+150. 
+A person deposited certain money at the 
+starting of each year, if rate of interest is 13% per 
+annum. At the end of 3rd year, the total amount is 
+Rs.24948. Then find how much money he deposited 
+each year. 
+एक ब्यजक्त प्रत्येक बर्षि के आरम्भ एक ननजचित धनराशि ननवेशित 
+करता है, यदद साधारण ब्याज की दर 13% वार्र्षिक है, तो 3 वर्षि  
+के अंत में कुि धनराशि 24948 रू है| उसके द्वारा प्रनत वर्षि जमा 
+की जाने वािी धनराशि ज्ञात करें? 
+a)Rs.6400 
+ 
+b)Rs.6600 
+ 
+c)Rs.6200 
+ 
+d)Rs.6300 
+151. A person lends 40% of his sum of money at 50% per annum, 
+50% of rest at 10% per annum and the rest at 18% per annum 
+rate of interest. What would be the annual rate of interest, if the 
+interest is calculated on the whole sum?                        
+ एक व्यजक्त अपनी धनराशि के 40% को 50% वार्र्षिक ब्याज की दर से, 
+िेर्ष के 50% को 10% वार्र्षिक की दर से तथा िेर्ष को 18% वार्र्षिक की दर से 
+उधार देता है । यदद कुि धन राशि पर ब्याज की गणना करनी हो, तो 
+व्याज की वार्र्षिक दर ककतनी होगी?                                                             
+  (A) 25.4%        (B)26.5%     (C)26.6%       (D) 28.4%  
+152. Sudeep invested 
+𝟏
+𝟖 of a certain sum at 5% p.a. for two years and 
+𝟑
+𝟓 
+of the sum at 6% p.a. for two years and the remaining at 10% p.a. 
+for two years. If the total interest received is Rs. 1,674, then the 
+total sum invested is: 
+lqnhi us ,d ननजचित jkfि dk 
+𝟏
+𝟖 Hkkx 5% okf’kZd C;kt nj ij 2 o’kZ ds fy, 
+fuosि fd;k vkSj mlh /kujkfि dk 
+𝟑
+𝟓 Hkkx 6% okf’kZd C;kt nj ij 2 o’kZ ds fy, 
+fuosि fd;k vkSj “ks’k /kujkfि dks 10% okf’kZd C;kt nj ij 2 o’kZ ds fy, fuosि 
+ 
+                                                  BY Gagan Pratap 
+fd;kA ;fn izkIr gksus okyk dqy C;kt 1674 :i;s gS] rks fuosि dh xbZ dqy /kujkfि 
+fdruh gS\ 
+(a) Rs.10,500 
+ 
+(b) Rs.12,500 
+ 
+ 
+(c) Rs.12,000 
+                 (d) Rs.13,000 
+153. 
+If a man receives on 1/4th of his capital 7.2% 
+simple interest, 5.3% of the remaining 2/5th capital 
+and on the remaining capital 5.8%. The total 
+amount received by man after three years is 
+Rs.82600. Then find total principal? 
+यदद एक व्यजक्त को इसके ननवेि के 1/4 भाग धन पर 7.2% वार्र्षिक 
+साधारण व्याज की दर से व्याज शमिता है, और िेर्ष बिे धन के 2/5 
+भाग धन पर 5.3% वार्र्षिक साधारण व्याज की दर से व्याज प्राप्त 
+होता है, िेर्ष बिे धनराशि पर 5.8% की दर से व्याज प्राप्त होता है, 
+तीन वर्षों के पचिात व्यजक्त को 82600 रु प्राप्त हुए। तब उसका 
+प्रारजम्भक ननवेि ककतना था? 
+ 
+a)Rs.65000 
+b)Rs.60000
+ 
+c)Rs.72000 
+d)Rs.70000 
+154. 
+Nitu has an capital of Rs 20000. Out of this, 
+she invests Rs 8000 at 5.5% in bank A, Rs 5000 at 
+5.6% in Bank B, and the remaining amount at x% 
+in bank C, each rate being simple interest per 
+annum. Her combined annual interest income from 
+these investments is equal to 5% of the initial 
+capital. If she had invested her entire initial capital 
+in bank C alone, then her annual interest income, 
+in rupees, would have been? 
+नीतू के पास 20000 रुपये की पूंजी है। इसमें से, वह बैंक A में 
+5.5% पर 8000 रुपये, बैंक B में 5.6% पर 5000 रुपये और बैंक 
+C में िेर्ष राशि x% पर ननवेि करती है, प्रत्येक दर प्रनत वर्षि साधारण 
+ब्याज है।  इन ननवेिों से उसकी संयुक्त वार्र्षिक ब्याज आय प्रारंशभक 
+पूंजी के 5% के बराबर है। यदद उसने अपनी पूरी आरंशभक पूंजी 
+अकेिे बैंक C में ननवेि की होती, तो उसकी वार्र्षिक ब्याज आय, 
+रुपये में, ककतनी होती? 
+A) 900 
+B) 700 
+C) 1000 
+D) 800 
+155. 
+A person divided a sum of Rs.17,200 into 
+three parts and invested at 5%, 6% and 9% per 
+annum simple interest. At the end of two years, he 
+got the same interest on each part of money. What 
+is the money invested at 9%? 
+,d O;fDr us :-17]200 dh èkujkfि dks rhu Hkkxksa esa foHkkftr dj] mls 5%, 6% 
+vkSj 9% okf’kZd lkèkkj.k C;kt dh nj ij fuosि fd;kA nks o’kksZa dh lekfIr ij] 
+mls lHkh rhuksa fLFkfr;ksa esa ,dleku C;kt izkIr gqvkA 9% C;kt ij fuosि dh xbZ 
+èkujkfि fdruh gS\ 
+(a) Rs.3,200 
+(b) Rs.4,000 
+ 
+(c) Rs.4,800 
+(d) Rs.5,000 
+156. A person invested a total of Rs.57,500 at 4%, 5% and 8% per 
+annum simple interest. At the end of the year, he received equal 
+interest in all the three cases. The amount invested at 5% was: 
+,d O;fDr us dqy #- 57]500 dks 4%, 5% vkSj 8% okf"kZd dh nj ls lk/kkj.k 
+C;kt ij fuos'k fd;kA o"kZ ds var eas] mls rhuksa ekeyksa esa leku C;kt çkIr gqvkA 
+5% ij fuosf'kr jkf'k D;k Fkh\ 
+(a) Rs. 25,000 
+(b) Rs. 20,750 
+(c) Rs. 20,000 
+(d) Rs. 37,500 
+157. A man invests an amount of Rs. 1,05,750 at simple interest in the 
+name of his son, daughter and his wife in such a way that they 
+get the same interest after 3, 4 and 5 years, respectively. If the 
+rate of interest is 5% per annum, then the amount invested for 
+the wife is: 
+dksbZ O;fDr vius csVs] csVh vkSj viuh iRuh ds uke] 1,05,750 #- dh jkf'k lk/kkj.k 
+C;kt ij bl çdkj fuosf'kr djrk gS mUgsa Øe'k% 3, 4 vkSj 5 o"kZ ckn leku C;kt 
+izkIr gksrk gSA ;fn C;kt nj 5% okf"kZd gS] rks iRuh ds fy, fuos'k dh xbZ jkf'k 
+Kkr djsaA 
+ 
+(a) 
+Rs. 27,000 
+ 
+(b) 
+Rs. 28,000 
+ 
+(c) 
+Rs. 25,000 
+ 
+(d) 
+Rs. 30,000 
+158.A man invests money  in three different schemes for 6 
+years, 10 years and 12 years, at 10%, 12% and 15% simple 
+interest , respectively. If at the completion of each scheme, 
+he gets the same interest then the ratio of the respective 
+investments is: 
+एक व्यक्ति तीन दवदभन्न योजनाओं में क्रमि: 10%, 12% और 15% 
+साधारण ब्याज पर 6 वर्षष, 10 वर्षष और 12 वर्षष के दिए धन दनवेि 
+करता है। यदि प्रत्येक योजना के पूरा होने पर, उसे समान ब्याज 
+दमिता है, तो संबंदधत दनवेिों का अनुपात है? 
+NTPC CBT - I   01/03/2021 (Morning) 
+(a) 7 : 4 : 3 
+(b) 5 : 4 : 3 
+ 
+(c) 6 : 3 : 2 
+(d) 4 : 3 : 2 
+159. 
+A sum of Rs. 81400 is divided into three 
+parts such that the corresponding interest earned 
+after 5 year, 8 years and 9 years may be equal. If 
+the rates of simple interest are 12% Per annum, 
+10% Per annum. and 5% Per annum. respectively, 
+what is the smallest part of the sum that was lent? 
+81400 रुपये िी रादि िो तीन भागोों में इस प्रिार दवभादजत 
+दिया जाता है दि 5 वर्ष, 8 वर्ष और 9 वर्ष िे बाि अदजषत ब्याज 
+समान हो सिता है। यदि साधारण ब्याज िी िर क्रमि 12% 
+प्रदतवर्ष, 10% प्रदतवर्ष और 5% प्रदत वर्ष है । उधार िी गई रादि 
+िा सबसे छोटा भाग क्या है? 
+A) 19800                               C) 18000 
+B) 15400                               D) 19120 
+160. 
+Rs.21750 is invested by a person in the 
+bank account of his two sons whose ages are 9 years 
+and 13 years in such a way that they will get equal 
+amount at an age of 21 years at the rate of 4.5% per 
+annum. Find the share of younger child. 
+एक व्यजक्त, अपने दो बच्िों जजनकी आयु 9 वर्षि और 13 वर्षि है, 
+के बैंक खातों में 21750 रू की धनराशि इस प्रकार ननवेशित करता 
+है ताकक 21 वर्षि  की आयु होने पर, 4.5% वार्र्षिक दर से इनकों 
+समान धन प्राप्त हों| छोटे बच्िे का भाग ज्ञात कीजजये? 
+a)10200  
+b)11550 
+ 
+c)9900 
+ 
+d)11475 
+ 
+                                                  BY Gagan Pratap 
+161. 
+A sum of Rs.23790 is divided into three 
+parts and given on loan at 5% simple interest to A, 
+B and C for 2, 3 and 4 years respectively. If the 
+amounts of all three are equal after their respective 
+periods of loan, then A received a loan of  
+23790 :Ik, dh रादि 3 Hkkxksa esa foHkkftr dh tkrh gS vkSj A, B ,oa C dks 
+Øeि% 2, 3 ,oa 4 वर्ों  ds fy, 5% ds lkèkkj.k C;kt ij _.k ds :Ik esa nh 
+tkrh gSA ;fn rhuksa dh रादि muds _.k dh lacafèkr vofèk ds ckn cjkcj gS] rks A 
+us fdrus :Ik, dk _.k fy;k Fkk\ 
+(a) Rs.9150 
+  (b) Rs.8280       
+(c) Rs.8250 
+(d) Rs.8400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

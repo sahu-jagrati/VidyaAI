@@ -1,0 +1,801 @@
+ 
+ 
+1. 
+The LCM of 43 × 62 × 15, 42 × 152 × 19 and 63 × 152 × 192 is: 
+43 × 62 × 15, 42 × 152 × 19 और 63 × 152 × 192 का लघुत्तम समापवर्त्य (LCM) ज्ञात कीजिए। 
+(RRB NTPC 12th LEVEL 2025) 
+ 
+[A] 29 x 35 x 52 x 192 
+[B] 28 x 34 x 52 x 192 
+ 
+[C] 28 x 35 x 53 x 192 
+[D] 28 x 35 x 52 x 192 
+2. 
+The product of two co-prime numbers is 1073. Find their LCM? 
+ 
+दो सह-अभाज्य संख्याओं का गुणनफल 1073 है। उनका LCM ज्ञात करे? 
+ 
+(IB ACIO grade-2 2023) 
+ 
+[A] 29 
+[B] 1 
+ 
+[C] 1073 
+[D] 37 
+3. 
+The least common multiple (LCM) of two prime numbers a and b(a > b ) is 697. Find 
+the value of a – 2b.  
+ 
+दो अभाज्य संख्याओं a और b(a > b ) का लघुत्तम समापवर्त्य (LCM) 697 है। a – 2b का मान ज्ञात 
+कीजिए। 
+ 
+RRB NTPC 2021 
+ 
+[A] 8 
+[B] 6 
+ 
+[C] 7 
+[D] 5 
+4. 
+The LCM of 148 and 185 is ______. 
+ 
+148 और 185 का ल.स.प. (LCM) ककतना है?  
+ 
+[A] 37 
+[B] 940  
+ 
+ 
+[C] 740 
+[D] 87 
+5. 
+Find the LCM of 15, 24, 35 and 54. 
+ 
+15, 24, 35 और 54 का लघुत्तम समापवर्त्य (LCM) ज्ञात कीजिए।  
+ 
+(SSC CPO 2023) 
+ 
+[A] 7650 
+[B] 7560  
+ 
+ 
+[C] 6570 
+[D] 5670 
+6. 
+The LCM of 27, 48, 276 and 368 is: 
+ 
+27, 48, 276 और 368 का LCM है: 
+ 
+(RRB RPF SI 2024) 
+ 
+[A] 9855 
+[B] 9936  
+ 
+[C] 9927 
+[D] 9988 
+7. 
+The LCM of 42, 36, 312 and 126 is: 
+ 
+42, 36, 312 और 126 का लघुत्तम समापवर्त ‍य (LCM) ज्ञात कीजिए। 
+ 
+(SSC GD 2025) 
+ 
+[A] 6587 
+[B] 6616 
+ 
+[C] 6520 
+[D] 6552 
+ 
+ 
+8. 
+The LCM of 96, 136 and 504 is: 
+ 
+96, 136 और 504 का लघुत्तम समापवतयक क्या है? 
+ 
+(SSC CGL 2022) 
+ 
+[A] 34272 
+[B] 36548 
+ 
+[C] 25872 
+[D] 28564 
+ 
+ 
+9. 
+The LCM of 672 and 7056 is _____. 
+ 
+672 और 7056 का LCM ज्ञात कीजिए। 
+ 
+(SSC GD 2025) 
+ 
+[A] 14112 
+[B] 42336 
+ 
+[C] 28224 
+[D] 7056 
+ 
+ 
+ 
+ 
+ 
+ 
+10. If a positive integer 'n' is divisible by 3, 5 and 7, then what is the next larger integer 
+divisible by all these numbers?  
+ 
+‍दद एक धन पूणाांक 'n' 3, 5 और 7 से कवभाज्य है, तो इन सभी संख्याओ से कवभाजित होने वाला अगला 
+बडा पूणाांक क्या होगा? 
+ 
+[A] n + 21 
+[B] n + 35 
+ 
+ 
+ 
+[C] n + 105 
+[D] n + 110 
+11. 
+What is the least 5-digit number that is divisible 91? 
+ 
+कम से कम 5-अंकी‍ संख्या ज्ञात करें िो कवभाज्य 91 है? 
+ 
+[A] 10283 
+[B] 10101 
+ 
+ 
+ 
+[C] 10010 
+[D] 10192 
+12. 
+The largest 5 digit number exactly divisible by 88 is: 
+ 
+88 से पूणयतः कवभाज्य 5 अंकी‍ सबसे बडी संख्या ज्ञात कीजिए:  
+ 
+SSC CGL 2023 PRE 
+ 
+[A] 99990 
+[B] 99984 
+ 
+ 
+[C] 99978 
+[D] 99968 
+13. 
+Find the least number which is exactly divisible by 20, 28, 34, 60 and 75. 
+ 
+वह छोटी से छोटी संख्या ज्ञात कीजिए, िो 20, 28, 34, 60 और 75 से पूणयतः कवभाज्य हो ।  
+ 
+(SSC CPO 2023) 
+ 
+[A] 34500 
+[B] 35900  
+ 
+ 
+[C] 35700 
+[D] 36220 
+14. The smallest four-digit number which is divisible by 4, 8, 12 and 16 is: 
+ 
+चार अंकों की वह सबसे छोटी संख्या कौन-सी है, िो 4, 8, 12, 16 से कवभाज्य है? 
+ 
+[A] 1008 
+[B] 1006 
+ 
+[C] 1012 
+[D] 1010 
+15. What is the largest four-digit number that is exactly divisible by 15, 21, 36 and 42? 
+ 
+चार अंकों की वह सबसे बडी संख्या कौन सी है िो 15, 21, 36 और 42 से पूणयतः कवभाज्य है? 
+ 
+ 
+ 
+(ICAR Technician 2023) 
+ 
+[A] 8820 
+[B] 8930 
+ 
+ 
+[C] 8970 
+[D] 8860 
+16. The least number of   5- digits which exactly divided by 52, 56, 78 and 91? 
+ 
+5 अंकों की सबसे छोटी संख्या िो 52, 56, 78 और 91 से पूणयतः कवभाज्य है: 
+ 
+[A] 10290 
+[B] 10860 
+ 
+ 
+ 
+[C] 10920 
+[D] 10580 
+ 
+17. 
+Find the greatest 5-digit number which is divisible by 11, 33, 99 and 121. 
+ 
+5 अंकों की सबसे बडी संख्या ज्ञात कीजिए िो 11, 33, 99 और 121 से कवभाज्य हो। 
+ 
+[A] 90099 
+[B] 99990 
+ 
+[C] 99099 
+[D] 90909 
+ 
+18. 10A5A is a five-digit number which is exactly divisible by 2, 3, 4, 6, 8, 9, and 24 
+among other numbers. What is the value of the digit A? 
+ 
+10A5A एक पांच अंकों की संख्या है िो अन्य संख्याओं में से 2, 3, 4, 6, 8, 9 और 24 से पूणयतः कवभाज्य है। 
+अंक A का मान क्या है? 
+ 
+[A] 8 
+[B] 4 
+ 
+[C] 2 
+[D] 6 
+19. 
+The number between 22000 and 23000 that is divisible by each of 12,18,21 and 32? 
+ 
+22000 और 23000 के बीच वह संख्या िो 12,18,21 और 32 से कवभाजित हो? 
+ 
+[A] 22176 
+[B] 22536 
+ 
+ 
+[C] 22032 
+[D] 22276 
+20. What is the sum of the numbers between 300 and 500 such that when they are 
+divided by 6, 12 and 16, it leaves no remainder? 
+ 
+300 और 500 के मध्य की उन संख्याओं का ‍ोगफल ककतना होगा जिन्हें 6, 12 और 16 से कवभाजित 
+करने पर शून्य शेषफल बचता है? 
+ 
+MTS 2020 
+ 
+[A] 1586 
+[B] 1632 
+ 
+ 
+[C] 1764 
+[D] 1618 
+21. 
+What is the least square number that is divisible by 8, 12 and 20? 
+वह सबसे छोटी वगय संख्या कौन सी है िो 8, 12 और 20 से कवभाज्य है? 
+[A] 3600 
+[B] 4000 
+[C] 1000 
+[D] 5600 
+22. Let x be the least number divisible by 16, 24, 30, 36 and 45 and x is also a perfect 
+square. What is the remainder when x is divisible by 123? 
+ 
+मान जलजिए x वह छोटी से छोटी संख्या है, िो 16, 24, 30, 36 और 45 से कवभाज्य है तथा x एक पूणय वगय 
+भी है। िब x को 123 से कवभाजित कक‍ा िाता है तो शेषफल ककतना बचता है? 
+ 
+ 
+ 
+[A] 103 
+[B] 33  
+ 
+[C] 100 
+[D] 40 
+23. The least number which, when diminished by 8, is divisible by 15, 12, 18 and 29 is: 
+वह सबसे छोटी संख्या ज्ञात कीजिए, जिसमें से 8 घटाने पर वह 15, 12, 18 और 29 से कवभाज्य हो। 
+[A] 5263 
+[B] 5275 
+[C] 5228 
+[D] 5187 
+24. Let x be the smallest number, which when added to 2000 makes the resulting 
+number divisible by 12, 16, 18 and 21. The sum of the digits of x is? 
+ 
+मान लीजिए x वह सबसे छोटी संख्या है जिसमें ‍दद  2000  िोड दद‍ा िा‍े तो प्राप्त संख्या 12, 16, 18 और 
+21 से पूरी तरह कवभाजित होगी , तब x के अंको का ‍ोगफल ज्ञात करें? 
+ 
+[A] 5 
+[B] 6  
+ 
+ 
+[C] 7 
+[D] 8 
+25. The least number of 5-digits which is divisible by 45, 60, 75 and 120 when it is added 
+to 119? 
+ 
+पांच अंको की सबसे छोटी संख्या क्या है जिसमें ‍दद 119 िोड दद‍ा िाए तो प्राप्त संख्या 45, 60, 75 और 
+120 से पूरी -पूरी कवभाजित होगी ? 
+ 
+[A] 10800 
+[B] 10681 
+ 
+ 
+ 
+[C] 10321 
+[D] 10941 
+26. Find the least number which when divided by 19, 36 and 54 leaves a remainder of 4 
+in each case. 
+ 
+वह सबसे छोटी संख्या ज्ञात कीजिए जिसे 19, 36 और 54 से भाग देने पर प्रर्त्ेक स्थितत में 4 शेषफल बचता है।  
+ 
+(SSC MTS 2023) 
+ 
+[A] 2056 
+[B] 1854 
+ 
+ 
+[C] 2172 
+[D] 1925 
+27. Let x be the least number which on being divided by 8, 12, 15, 24, 25 and 40 leaves a 
+remainder of 7 in each case. What will be the remainder when x is divided by 29? 
+ 
+माना x वह छोटी से छोटी संख्या है, जिसे 8, 12, 15, 24, 25 और 40 से कवभाजित करने पर प्रर्त्ेक स्थितत 
+में 7 शेषफल प्राप्त होता है। िब x को 29 से कवभाजित कक‍ा िाता है, तो प्राप्त होने वाला शेषफल ज्ञात 
+करें। 
+ 
+MTS 2020 
+ 
+[A] 18 
+[B] 27  
+ 
+[C] 19 
+[D] 20 
+28. A number N is such that when divided by 4, 6, 7 or 9, it leaves 3 as remainder. 
+What is the smallest 4-digit number that satisfies this property? 
+ 
+एक संख्या N ऐसी है कक उसे 4, 6, 7 ‍ा 9 से कवभाजित करने पर शेषफल 3 बचता है।वह सबसे छोटी 4-
+अंकी‍ संख्या कौन सी है िो इस गुण को संतुष्ट करती है ? 
+ 
+ 
+ 
+(UPSC CDS -II 2025) 
+ 
+[A] 1003 
+[B] 1005 
+[C] 1007 
+[D] 1011 
+29. What is the greatest number of six digits, which when divided by each of 16, 24, 72 
+and 84, leaves the remainder 15? 
+ 
+छह अंकों की वह बडी से बडी संख्या कौन सी है, जिसे 16, 24, 72 और 84 में से प्रर्त्ेक से कवभाजित करने 
+पर, शेषफल 15 बचता है? 
+ 
+[A] 999981 
+[B] 999951 
+ 
+[C] 999963 
+[D] 999915 
+30. Let x be the least number between 56,000 and 60,000 which when divided by 40, 45, 
+50 and 55 leaves a remainder of 23 in each case. What is the sum of the digits of x? 
+ 
+माना x, 56,000 और 60,000 के बीच वह छोटी से छोटी संख्या है, जिसे िब 40, 45, 50 और 55 से 
+कवभाजित कक‍ा िाता है, तो प्रर्त्ेक स्थितत में शेषफल 23 प्राप्त होता है। X के अंकों का ‍ोगफल ज्ञात करें। 
+ 
+MTS 2020 
+ 
+[A] 23 
+[B] 21  
+ 
+[C] 26 
+[D] 19  
+31. 
+Find the sum of the number between 550 and 700 such that when they are divided 
+by 12, 16 and 24, leave remainder? 
+ 
+550 और 700 के बीच की उन संख्याओं का ‍ोग ज्ञात कीजिए, जिन्हें 12, 16 और 24 से कवभाजित करने 
+पर प्रर्त्ेक स्थितत में शेषफल 5 प्राप्त होगा। 
+ 
+[A] 1980 
+[B] 1887 
+ 
+[C] 1860 
+[D] 1867 
+32. Find the least number which when divided by 12, 18, 24 and 30 leaves 4 as remainder 
+in each case, but when divided by 7 leaves no remainder. 
+ 
+वह छोटी से छोटी संख्या ज्ञात कीजिए, जिसे 12, 18, 24 और 30 से कवभाजित करने पर हर मामले में शेषफल के रूप 
+में 4 बचता है, लेककन िब इसे 7 से कवभाजित कक‍ा िाता है, तब कोई शेषफल नहीं बचता है। 
+ 
+[A] 634 
+[B] 366 
+ 
+ 
+ 
+[C] 364 
+[D] 384 
+33. When 8, 16, 18, 20 and 25 divide the least number x, the remainder in each case is 3, 
+but x is divisible by 7. What is the value of x? 
+ 
+िब 8, 16, 18, 20 और 25 से सबसे छोटी संख्या x को भाग दद‍ा िाता है, तो प्रर्त्ेक स्थितत में शेषफल 3 
+होता है, लेककन x, 7 से कवभाज्य है। x का मान ककतना है? 
+ 
+(SSC GD 2025) 
+ 
+[A] 7203 
+[B] 7302 
+ 
+[C] 7320 
+[D] 7023 
+ 
+ 
+34. Let x be the least number, which when divided by 5, 6, 7 and 8 leaves a remainder 3 
+in each case but when divided by 9 leaves no remainder. The sum of digit of x is: 
+ 
+x सबसे छोटी संख्या है, जिसे 5, 6, 7 और 8 से कवभाजित करने पर प्रर्त्ेक स्थितत में 3 शेष बचता हैं, लेककन 
+िब इसे 9 से कवभाजित कक‍ा िाता है तो शेष नहीं बचता हैं। x के अंक का ‍ोग है: 
+ 
+[A] 17 
+[B] 18  
+ 
+ 
+[C] 19 
+[D] 20 
+35. What is the sum of the smallest number of digits, which divides by 15, 18 and 42, in 
+each case, the remainder remains 8 and which is completely divisible by 13?  
+ 
+उस छोटी से छोटी संख्या के अंको का ‍ोग क्या है, जिसे 15, 18 तथा 42 से कवभाजित करने पर प्रर्त्ेक दशा 
+में  शेषफल 8 बचता है और िो 13 से पूणयतः कवभाज्य है? 
+ 
+[A] 24 
+[B] 22    
+ 
+ 
+[C] 26 
+[D] 25 
+36. When 12, 16, 18, 20 and 25 divide the least number, x, the remainder in each case is 4 
+but x is divisible by 7. What is the digit at the thousands place in x? 
+ 
+िब 12, 16, 18, 20 और 25 छोटी से छोटी संख्या x को कवभाजित करते हैं, तो प्रर्त्ेक मामले में 4 शेष बचता 
+है, लेककन x, 7 से कवभाज्य है। x में एक हिार वें िान पर कौन सा अंक है? 
+ 
+[A] 8 
+[B] 3  
+ 
+ 
+[C] 4 
+[D] 5 
+37. Let x be the least number that when divided by 17, 19, 34 and 95, the remainder in 
+each case is 16, and x is divisible by 46. What is the sum of the digits of x? 
+ 
+मान लीजिए x सबसे छोटी संख्या है जिसे 17, 19, 34 और 95 से कवभाजित करने पर प्रर्त्ेक स्थितत में 
+शेषफल 16 आता है, और x, 46 से कवभाज्य है। x के अंकों का ‍ोग क्या है? 
+ 
+[A] 20 
+[B] 21 
+ 
+[C] 23 
+[D] 22 
+38. Let x be the least number which when divided by 15, 18, 20 and 27, the remainder in 
+each case is 10 and x is a multiple of 31. What least number should be added to x to 
+make it a perfect square? 
+ 
+बता दें कक x सबसे छोटी संख्या है जिसे 15, 18, 20 और 27 से कवभाजित कक‍े िाने पर प्रर्त्ेक मामले में 
+शेष 10 है और x, 31 का गुणक है। x को एक पूणय वगय बनाने के जलए इसमें क्या कम से कम संख्या िोडी 
+िानी चाहहए? 
+ 
+[A] 43 
+[B] 36  
+ 
+ 
+[C] 39 
+[D] 37 
+39. There are some students to be seated in an auditorium. When they were seated in 
+rows of 8, 9, 11, and 12, there always were 3 students left out to be seated. But when 
+they were seated in 15 a row none were left. Find the minimum number of students 
+in the auditorium, if the number of students was more than 1000. 
+ 
+ 
+ 
+एक सभागार में कुछ छात्रों को बैठा‍ा िाना है। िब वे 8, 9, 11, और 12 की पंक्ति‍ों में बैठे थे, तो बैठने के 
+जलए हमेशा 3 छात्र छूट िाते थे। लेककन िब उन्हें 15 कतार में बैठा‍ा ग‍ा तो कोई भी नहीं बचा। सभागार 
+में छात्रों की न्यूनतम संख्या ज्ञात कीजिए, ‍दद छात्रों की संख्या 1000 से अतधक थी। 
+ 
+[A] 3225 
+[B] 4755 
+ 
+ 
+[C] 3660 
+[D] 4185 
+40. What is the sum of the digits of the least 5-digit number which when divided by 10, 
+14, 16 and 35, the remainder in each is 1 and the number is divisible by 19? 
+ 
+5 अंकों की छोटी से छोटी संख्या के अंकों का ‍ोग क्या है जिसे 10, 14, 16 और 35 से कवभाजित करने पर 
+प्रर्त्ेक में शेषफल 1 आता है और संख्या 19 से कवभाज्य होती है?  
+ 
+(ICAR Assistant 2022) 
+ 
+[A] 14 
+[B] 16 
+ 
+[C] 13 
+[D] 17 
+41. Find the smallest number that leaves a remainder of 11 on division by 12, a 
+remainder of 14 on division by 15 and a remainder of 74 on division by 75? 
+ 
+वह छोटी से छोटी संख्या ज्ञात कीजिए जिससे 12 से भाग देने पर 11, 15 से भाग देने पर शेष 14 और 75 से 
+भाग देने पर 74 शेष बचे? 
+ 
+[A] 599 
+[B] 899 
+ 
+[C] 299 
+[D] 598 
+42. Find the least number, which, when divided by 20, 25, 35 and 40 leaves remainders 
+14, 19, 29 and 34, respectively. 
+ 
+वह सबसे छोटी संख्या ज्ञात कीजिए जिसे 20, 25, 35 और 40 से भाग देने पर क्रमशः 14, 19, 29 और 34 
+शेषफल प्राप्त होते हैं। 
+ 
+[A] 1238 
+[B] 1498 
+ 
+ 
+[C] 1389 
+[D] 1394 
+43. A 4-digit number N is such that when divided by 3, 5, 6, 9 leaves a remainder 1, 3, 4, 7 
+respectively. What is the smallest value of N ? 
+ 
+कोई 4-अंकों की संख्या N इस प्रकार है कक उसे 3, 5, 6, 9 से भाग देने पर क्रमशः 1, 3, 4, 7 शेषफल रहता 
+है। N का लघुतम मान क्या है ? 
+ 
+(UPSC CSAT 2025) 
+ 
+[A] 1068 
+[B] 1072 
+ 
+[C] 1078 
+[D] 1082 
+44. Find the smallest 5-digit number which when divided by 15, 20 and 25 leaves 
+remainders 7, 12 and 17, respectively. 
+ 
+5 अंकों की वह सबसे छोटी संख्या ज्ञात करें जिसे 15, 20 और 25 से कवभाजित करने पर क्रमशः 7, 12 और 
+17 शेषफल प्राप्त होते हैं। 
+ 
+[A] 10192 
+[B] 10194 
+ 
+ 
+ 
+[C] 10195 
+[D] 10193 
+45. Which is the largest six-digit number, which when divided by 12, 15, 20, 24 and 30, 
+leaves the remainders 8, 11, 16, 20 and 26 respectively? 
+ 
+छह अंकों वाली वह बडी से बडी संख्या कौन सी है जिसे 12, 15, 20, 24 और 30 से कवभाजित करने पर 
+शेषफल क्रमशः 8, 11, 16, 20 और 26 बचता है 
+ 
+[A] 999982 
+[B] 999956  
+ 
+ 
+[C] 999960 
+[D] 999964 
+46. Let x be the number between 6500 and 7000 that when divided by 10, 12, 14 and 16, 
+the remainders are 3, 5, 7 and 9, respectively. What is the sum of the digits of x? 
+ 
+मान लीजिए x ,6500 और 7000 के बीच की वह संख्या है जिसे 10, 12, 14 और 16 से भाग देने पर शेषफल 
+क्रमशः 3, 5, 7 और 9 आता है। x के अंकों का ‍ोग ककतना है? 
+ 
+[A] 16 
+[B] 18 
+ 
+[C]  19 
+[D] 17 
+47. Let x be the least number of 5 digit which when divided by 12, 16, 35 & 42, the 
+remainders are 5, 9, 28 and 35, respectively. What is the sum of digits of x? 
+ 
+मान लीजिए x ,5 अंको की सबसे छोटी संख्या है जिसे 12, 16, 35 और 42 से कवभाजित करने पर शेषफल 
+क्रमशः 5, 9, 28 और 35 आता है। x के अंकों का ‍ोग ककतना है? 
+ 
+[A] 13 
+[B] 12 
+ 
+[C] 11 
+[D] 10 
+48. Find the sum of digits of a smallest number which when divided by 16, 24, 30 and 36 
+leaves remainder 8, 16, 22 and 28 respectively but exactly divisible by 7? 
+ 
+उस छोटी से छोटी संख्या के अंको का ‍ोग क्या है, जिसे 16, 24, 30 तथा  36 से कवभाजित करने पर क्रमशः 
+8, 16 , 22  और 28 शेषफल बचता है और िो 7 से पूणयतः कवभाज्य है? 
+ 
+[A] 9 
+[B] 10  
+ 
+ 
+[C] 13 
+[D] 11 
+49. Let x be the least number which when divided by 34, 38 and 85, the remainders are 
+25, 29 and 76, respectively, and x is divisible by 21. What is the sum of the digit of x?  
+ 
+माना कक X वह सबसे छोटी संख्या है जिसे 34, 38 और 85 से भाग देने पर क्रमशः 25, 29 और 76 शेषफल 
+बचता है और X, 21 से कवभाज्य है। X के अंकों का ‍ोग ककतना होगा? 
+ 
+(ICAR Technician 2023) 
+ 
+[A] 26 
+[B] 25  
+ 
+[C] 23 
+[D] 24 
+50. Let x be the least number which when divided by 16, 20, 35 and 42, the remainders 
+are 10, 14, 29 and 36, respectively and x is divisible by 13. The value of x lies between: 
+the and. 
+ 
+ 
+ 
+मना कक x वह सबसे छोटी संख्या है जिसे 16, 20, 35 और 42 से भाग देने पर क्रमशः 10, 14, 29 और 36 
+शेषफल बचता है, और x, 13 से कवभाज्य है। x का मान जनम्नजलखित में से ककनके बीच स्थित होगा?  
+ 
+(ICAR Technician 2023) 
+ 
+[A] 3350 and3360 
+[B] 3370and 3380 
+ 
+[C] 3380 and 3390 
+[D] 3360 and 3370 
+51. Nandan had some marbles. When he distributed the marbles equally among 32 
+children, he found that 4 marbles were left. Had he distributed the marbles equally 
+among 41 children and 48 children, he still would have had 13 and 20 marbles, 
+respectively, left with him. But when he distributed them equally among 53 
+children, no marble was left. The number of marbles that Nandan initially had may 
+lie between _____. 
+ 
+नंदन के पास कुछ कंचे थे। िब उसने कंचों को 32 बच्चों में बराबर-बराबर बांट ददए, तो उसने पा‍ा कक 4 
+कंचे शेष बच गए। ‍दद उसने कंचों को 41 बच्चों और 48 बच्चों में बराबर-बराबर बांटा होता, तो भी उसके 
+पास क्रमशः 13 और 20 कंचे शेष बचते। लेककन िब उसने उन्हें 53 बच्चों में बराबर-बराबर बांटा, तो एक 
+भी कंचा शेष नहीं बचा। नंदन के पास आरंभ में जितने कंचे थे, उनकी संख्या _____ के बीच हो सकती 
+है। 
+ 
+(RRB NTPC GRADUATE LEVEL 2025 CBT-1) 
+ 
+[A] 7814 and 7824 
+[B] 7794 and 7804 
+ 
+[C] 7864 and 7874 
+[D] 7834 and 7854 
+52. Five bells ring together at the intervals of 3, 5, 8, 9 and 10 seconds. All the bells ring 
+simultaneously at the same time. They will again ring simultaneously after: 
+ 
+पााँच घंहट‍ा 3, 5, 8, 9 और 10 सेकंड के अंतराल पर एक साथ बिती है, सभी घंहट‍ा एक सम‍ पर एक 
+साथ बिती है। वे ककतने सम‍ के बाद पुन: एक साथ बिेगी? 
+ 
+[A] 6 min. 
+[B] 8 min. 
+ 
+ 
+ 
+[C] 9 min. 
+[D] 4 min. 
+53. Three bells start ringing simultaneously. Each of them rings after 0.25 seconds, 0.1 
+seconds and 0.125 seconds. After how many seconds will they ring together again?  
+ 
+तीन घंहट‍ााँ एक साथ बिना आरंभ करती हैं। उनमें से प्रर्त्ेक 0.25 सेकंड, 0.1 सेकंड और 0.125 सेकंड के 
+बाद बिती है। ककतने सेकंड बाद वे पुनः एक साथ बिेंगी? 
+ 
+RRB NTPC 2021 
+ 
+[A] 0.5 
+[B] 0.1 
+ 
+[C] 0.2 
+[D] 0.6 
+54. The lights of three different traffic signals change every 72,108 and 48 seconds 
+respectively. If the lights change together at 9 : 30 : 00 am, at what time will they 
+change together again? 
+ 
+ 
+तीन अलग-अलग ट्रैकफक जसग्नलों की लाइटें क्रमशः प्रर्त्ेक 72,108 और 48 सेकंड के बाद बदलती है। 
+‍दद लाइटें सुबह 9: 30 : 00 बिे एक साथ बदलती है, तो वे ककस सम‍ पुनः एक साथ बदलेगी?   
+ 
+RRB NTPC 2021 
+ 
+[A] 9:44:24 am 
+[B] 9:37:12 am 
+ 
+[C] 
+9:37:20 am 
+[D] 
+9:36:12 am  
+55. Three bells commence tolling together and toll at intervals of 8 sec, 10 sec and 12 sec 
+respectively. In 30 min, how many times do they toll together? 
+ 
+तीन घंहट‍ााँ एक साथ बिना शुरू होती हैं और क्रमशः 8 sec, 10 sec और 12 sec के अंतराल पर बिती हैं। 
+30 min में वे ककतनी बार एक साथ बिती हैं? 
+ 
+[A] 14 
+[B] 17 
+ 
+[C] 16 
+[D] 18 
+56. Four chimes ring simultaneously at 5:30 a.m. After that, they ring at the intervals of 
+15 seconds, 20 seconds, 25 seconds and 30 seconds, respectively. How many times 
+will these chimes ring together till 8:15 a.m., including at 5:30 a.m.? 
+ 
+चार घंहट‍ााँ 5:30 a.m. पर एक साथ बिती हैं। उसके बाद, वे क्रमशः 15 सेकंड, 20 सेकंड, 25 सेकंड और 
+30 सेकंड के अंतराल पर बिती हैं। 5:30 a.m. सहहत 8:15 a.m. तक ‍े घंहट‍ााँ ककतनी बार एक साथ 
+बिेंगी? 
+ 
+[RRB JE 2024] 
+ 
+[A] 32 
+[B] 34 
+ 
+[C] 31 
+[D] 33 
+57. At a traffic signal, a red light flashes two times per minute and a green light flashes 
+six times in five minutes at regular intervals. If both the lights start flashing at the 
+same time, how many times do they flash together in each hour? 
+ 
+एक ट्रैकफक जसग्नल पर, जन‍जमत अंतराल पर एक लाल बत्ती प्रतत जमनट दो बार चमकती है और एक हरी 
+बत्ती पााँच जमनट में छह बार चमकती है। ‍दद दोनों बक्तत्त‍ााँ एक ही सम‍ पर चमकना शुरू करती हैं, तो वे 
+प्रर्त्ेक घंटे में वे एक साथ ककतनी बार चमकती हैं? 
+ 
+[RRB JE 2024] 
+ 
+[A] 25 
+[B] 28 
+ 
+[C] 20 
+[D] 24  
+58. Three men move from one place to another. Their steps are of length 63 cm, 70 cm 
+and 77 cm, respectively. Minimum how much distance should be covered that all 
+person can cover that distance in whole number of steps? 
+ 
+तीन आदमी एक िान से दूसरे िान की ओर एक साथ चलते हैं। उनके कदम क्रमशः 63 सेमी, 70 सेमी 
+और 77 सेमी के हैं। न्यूनतम ककतनी दूरी त‍ की िानी चाहहए कक सभी उस दूरी को पूरे कदमों में  त‍ कर 
+सकें ? 
+ 
+[A] 9630 cm 
+[B] 9360 cm 
+ 
+ 
+ 
+[C] 6930 cm 
+[D] 6950 cm 
+59. Joseph visits the club on every 5th day, Harsh visits on every 24th day, while Sumit 
+visits on every 9th day. If all three of them met at the club on Sunday, then on which 
+day will all three of them meet again? 
+ 
+िोसेफ प्रर्त्ेक 5वें ददन क्लब का दौरा करता है, हषय प्रर्त्ेक 24वें ददन क्लब का दौरा करता है, िबकक 
+सुजमत प्रर्त्ेक 9वें ददन क्लब का दौरा करता है। ‍दद वे तीनों रकववार को क्लब में जमले, तो वे तीनों ककस 
+ददन कफर जमलेंगे? 
+ 
+[A] Monday 
+[B] Wednesday 
+ 
+[C] Thursday 
+[D] Sunday 
+60. If the LCM of the first 110 natural numbers is N, then find the LCM of the first 115 
+natural numbers. 
+ 
+‍दद प्रथम 110 प्राकृत संख्याओं का लघुत्तम समापवर्त्य N है, तो प्रथम 115 प्राकृत संख्याओं का लघुत्तम 
+समापवर्त्य ज्ञात कीजिए। 
+ 
+[A] 111 × 112 × 113 × 114 × 115 N 
+ 
+[B] 113 N 
+ 
+[C] 115 N 
+ 
+[D] 111 × 113 N 
+61. If LCM (1, 2, 3, 4 … … … …, 20) = x and LCM (1, 2, 3, 4 … … … … 27) = K*x, then find value of 
+K. 
+ 
+‍दद LCM (1, 2, 3, 4 … … … …, 20) = x और LCM (1, 2, 3, 4 … … … … 27) = K*x, तो K का मान ज्ञात 
+कीजिए। 
+ 
+[A] 3289 
+[B] 345               
+ 
+ 
+[C] 429 
+[D] 115 
+62. The LCM of 48, 88 and another number, x, is 4752. Which of the following can be the 
+value of x? 
+ 
+48, 88 और एक अन्य संख्या x का लघुत्तम समापवर्त्य (LCM) 4752 है। x का मान ज्ञात कीजिए। 
+ 
+[A] 202 
+[B] 307 
+ 
+[C] 216 
+[D] 123 
+63. LCM of three natural numbers 150,144 and x is 10800. How many values of x are 
+possible? 
+ 
+तीन प्राकृततक संख्याओं 150,144 और x का LCM 10800 है। x के ककतने मान संभव हैं? 
+ 
+[A] 10 
+[B] 16 
+ 
+[C] 12 
+[D] 15 

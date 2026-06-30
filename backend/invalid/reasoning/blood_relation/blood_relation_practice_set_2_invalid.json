@@ -1,0 +1,50 @@
+[
+  {
+    "question_number": 37,
+    "question_en": "Six members of a family namely A,B,C,D,E and F are trav- elling together, 'B' is the son of C but C is not the mother of B.A and C are married couple. E is the brother of C.D is the daughter of A.F is the brother of B. How many male members are there in the family? A,B,C,D,E F 'B',C C,B A C E,C D,A F,B",
+    "question_hi": null,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Blood Relation",
+    "source_pdf": "Blood Relation Practice Set (2).pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 12,
+    "question_en": "",
+    "question_hi": null,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Blood Relation",
+    "source_pdf": "Blood Relation Practice Set (2).pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing question_en; missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 21,
+    "question_en": "(c) (d) (b) (b) (c)",
+    "question_hi": null,
+    "option_a": "(e)",
+    "option_b": "",
+    "option_c": "(e)",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Blood Relation",
+    "source_pdf": "Blood Relation Practice Set (2).pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing option_b; missing option_d"
+  }
+]

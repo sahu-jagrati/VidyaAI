@@ -1,0 +1,537 @@
+ 
+ 
+                                                              BY Gagan Pratap 
+ 
+1. Find the value of the following expression. 
+fuEufyf[kr O;atd dk eku Kkr dhft,A (CDS 2023) 
+5(sin4+cos4) + 3(sin6+cos6) + 19 sin2cos2 
+(a) 
+8 
+(b) 
+5 
+(c) 
+6 
+(d) 
+7 
+2. Find the value of (𝒔𝒊𝒏𝟔𝑨+ 𝒄𝒐𝒔𝟔𝑨+ +𝟑𝒔𝒊𝒏𝟐𝑨𝒄𝒐𝒔𝟐𝑨) −(𝒔𝒊𝒏𝟒𝑨−𝒄𝒐𝒔𝟒+ 𝟏)𝒄𝒐𝒔𝒆𝒄𝟐𝑨? 
+(𝒔𝒊𝒏𝟔𝑨+ 𝒄𝒐𝒔𝟔𝑨+ +𝟑𝒔𝒊𝒏𝟐𝑨𝒄𝒐𝒔𝟐𝑨) −(𝒔𝒊𝒏𝟒𝑨−𝒄𝒐𝒔𝟒𝑨+ 𝟏)𝒄𝒐𝒔𝒆𝒄𝟐𝑨  का मान ज्ञात कीजिये? 
+(SSC CHSL MAINS 2024) 
+A) -3 
+B) 3 
+C) -1 
+D) 0 
+3. If 𝒇(𝒑) = 𝒔𝒊𝒏𝒑+𝟐𝒙+ 𝒄𝒐𝒔𝒑+𝟐𝒙, then find 𝟔𝒇(𝟐) −𝟒𝒇(𝟒) + 𝟏𝟎𝒇(𝟎)? 
+यदि 𝒇(𝒑) = 𝒔𝒊𝒏𝒑+𝟐𝒙+ 𝒄𝒐𝒔𝒑+𝟐𝒙, तो 6f(2)-4f(4)+10f(0) ज्ञात कीजिए? SSC CHSL PRE 2024 
+A) 14 
+B) 10 
+C) 12 
+D) 11 
+4. The expression (cos6 + sin6–1) (tan² + cot² + 2) + 3 is equal to : 
+O;atd (cos6 + sin6–1) (tan² + cot² + 2) + 3 dk eku Kkr dhft,A 
+(a) 
+0 
+(b) 
+1 
+(c) 
+2 
+(d) 
+–1 
+5. (cosecA – sinA)2 + (secA – cosA)2 – (cotA – tanA)2 is equal to: 
+(a) 2 
+ 
+ 
+(b) 1 
+ 
+ 
+(c) 0 
+ 
+ 
+(d) – 1 
+6. If p sin A – cos A = 1, then p2 – (1+p2) cos A equals 
+यदि p sin A – cos A = 1, तो p2 – (1+p2) cos A का मान ज्ञात कीदिए। 
+(a) 1  
+(b) -1  
+(c) 2 
+(d) 0 
+7. What is (𝒔𝒆𝒄𝟐𝜶+ 𝒕𝒂𝒏𝜶. 𝒕𝒂𝒏𝜷−𝒕𝒂𝒏𝟐𝜶)𝟐+ (𝒕𝒂𝒏𝜶−𝒕𝒂𝒏𝜷)𝟐−𝒔𝒆𝒄𝟐𝜶. 𝒔𝒆𝒄𝟐𝜷 equal to? 
+(𝒔𝒆𝒄𝟐𝜶+ 𝒕𝒂𝒏𝜶. 𝒕𝒂𝒏𝜷−𝒕𝒂𝒏𝟐𝜶)𝟐+ (𝒕𝒂𝒏𝜶−𝒕𝒂𝒏𝜷)𝟐−𝒔𝒆𝒄𝟐𝜶. 𝒔𝒆𝒄𝟐𝜷 ककसके बराबर है? 
+A) -1                                  C) 0 
+B) 1 
+ 
+ 
+     D) 2 
+8. If  𝑨+ 𝑩+ 𝑪= 𝟗𝟎°, then 𝒔𝒊𝒏
+𝑨
+𝟐⋅𝒔𝒊𝒏(
+𝟏𝟖𝟎−𝑩−𝑪
+𝟐
+) + 𝒄𝒐𝒔
+𝑨
+𝟐⋅𝒔𝒊𝒏
+𝑩+𝑪
+𝟐=? 
+a)
+𝟏
+𝟐                     b)
+𝟏
+√𝟐                       c)0                       d)
+𝟑
+√𝟐 
+9. Simplify the given expression. 
+दिए गए व्यंजक का सरलीकरण कीदजए। 
+𝟏+ 𝒔𝒊𝒏𝟒𝜽+ 𝒄𝒐𝒔𝟒𝜽
+𝒄𝒐𝒔𝟐𝜽+ 𝒔𝒊𝒏𝟒𝜽
+ 
+ 
+(a)𝟑  
+(b)   𝟏       
+(c)  𝟐 
+     (d) 𝟒  
+ 
+ 
+ 
+SSC CGL 2023 PRE 
+10. What is simplified value of 1 + tanA.tan(
+𝑨
+𝟐) ? 
+ 
+a) cosA 
+b) sinA 
+ 
+c) secA  
+d) cotA 
+ 
+ 
+ 
+                                                              BY Gagan Pratap 
+11. The value of (2cos2θ-1) (
+𝟏+𝒕𝒂𝒏𝜽
+𝟏−𝒕𝒂𝒏𝜽 + 
+𝟏−𝒕𝒂𝒏𝜽
+𝟏+𝒕𝒂𝒏𝜽)? 
+a)2   
+ 
+b)4   
+ 
+c)3   
+ 
+ d)1 
+12. The value of   cosecθ [
+𝟏+𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽+
+𝒔𝒊𝒏𝜽
+𝟏+𝒄𝒐𝒔𝜽] – 2cot2θ is equal to: 
+ 
+cosecθ [
+𝟏+𝒄𝒐𝒔𝜽
+𝒔𝒊𝒏𝜽+
+𝒔𝒊𝒏𝜽
+𝟏+𝒄𝒐𝒔𝜽] – 2cot2θ  का मान _____________होगा।      
+SSC Selection Post (Phase-XII)  
+ 
+[A]1 
+ 
+[B] 3  
+ 
+[C]0 
+ 
+[D] 2 
+13. Solve: 𝐜𝐨𝐬𝜽[𝒄𝒐𝒕𝟐
+𝟐 − 𝒕𝒂𝒏𝟐
+𝟐 ] − 4𝒄𝒐𝒔𝒆𝒄𝟐  
+(a) − 2                
+(b) -1                
+(c) − 4                 
+(d) 1 
+14. 
+(𝟐𝒔𝒊𝒏𝑨)(𝟏+𝒔𝒊𝒏𝑨)
+𝟏+𝒔𝒊𝒏𝑨+𝒄𝒐𝒔𝑨 is equal to: 
+(𝟐𝒔𝒊𝒏𝑨)(𝟏+𝒔𝒊𝒏𝑨)
+𝟏+𝒔𝒊𝒏𝑨+𝒄𝒐𝒔𝑨 बराबर है: 
+a) 1 – sinAcosA  
+b) 1 + sinA – cosA 
+c) 1 + cosA – sinA 
+d) 1 + sin AcosA 
+15. 
+𝒔𝒊𝒏𝜽
+𝒄𝒐𝒕𝜽+𝒄𝒐𝒔𝒆𝒄𝜽−
+𝒔𝒊𝒏𝜽
+𝒄𝒐𝒕𝜽−𝒄𝒐𝒔𝒆𝒄𝜽=? 
+(a) 1 
+ 
+(b) 2 
+(c) 3 
+ 
+(d) 0 
+16. 
+(𝒄𝒐𝒔𝒆𝒄𝜽−𝒔𝒆𝒄𝜽)(𝒄𝒐𝒕𝜽−𝐭𝐚𝐧⁡ 𝜽)
+(𝒄𝒐𝒔𝒆𝒄𝜽+𝒔𝒆𝒄𝜽)(𝒔𝒆𝒄𝜽.𝒄𝒐𝒔𝒆𝒄𝜽−𝟐) =⁡? 
+a) 2         
+b) 1         
+c) 3         
+d) -1 
+17. For 0° < 𝛉 < 90°, if 
+𝒔𝒆𝒄𝜽(𝟏−𝒔𝒊𝒏𝜽)(𝒔𝒆𝒄𝜽+𝒕𝒂𝒏𝜽)
+(𝒔𝒆𝒄𝜽−𝒕𝒂𝒏𝜽)𝟐
+ = 
+𝟏+𝒌
+𝟏−𝒌 ,then k is equal to: 
+ 0° < 𝛉 < 90° के लिए, अगर 
+𝒔𝒆𝒄𝜽(𝟏−𝒔𝒊𝒏𝜽)(𝒔𝒆𝒄𝜽+𝒕𝒂𝒏𝜽)
+(𝒔𝒆𝒄𝜽−𝒕𝒂𝒏𝜽)𝟐
+ = 
+𝟏+𝒌
+𝟏−𝒌  है तो k बराबर है: 
+A) cosec𝛉  
+B) cos𝛉   
+C) sec𝛉   
+D) sin𝛉    
+18. Cos2𝛉 + cos2 (𝛂+𝛉) – 2cos𝛂.cos𝛉cos(𝛉+𝛂) =? 
+a) sin2𝛂       b) cos2𝛂       c) tan2𝛂        d) sec2𝛂 
+ 
+19. 𝒄𝒐𝒔𝟐(𝑨−𝑩) + 𝒄𝒐𝒔𝟐𝑩-2cos(A-B). cosA.cosB= ? 
+a) 𝒄𝒐𝒔𝟐𝑨       b)⁡𝒔𝒊𝒏𝟐𝑨       c)⁡𝒕𝒂𝒏𝟐𝑨        d)⁡𝒄𝒐𝒕𝟐𝑨 
+20. If 00<𝛉<900, then (
+𝟓𝒄𝒐𝒔𝜽−𝟒
+𝟑−𝟓𝒔𝒊𝒏𝜽−
+𝟑+𝟓𝒔𝒊𝒏𝜽
+𝟒+𝟓𝒄𝒐𝒔𝜽) is equal to   
+a) 0         b) 1         c) 
+𝟏
+𝟐        d) 
+𝟏
+𝟒 
+21. Simplify 
+𝟏+𝒔𝒊𝒏𝒕
+𝟒−𝟒𝒔𝒊𝒏𝒕−
+𝟏−𝒔𝒊𝒏𝒕
+𝟒+𝟒𝒔𝒊𝒏𝒕? 
+𝟏+𝒔𝒊𝒏𝒕
+𝟒−𝟒𝒔𝒊𝒏𝒕−
+𝟏−𝒔𝒊𝒏𝒕
+𝟒+𝟒𝒔𝒊𝒏𝒕⁡को सरल कीजिए? 
+A) 4tan t. sin t 
+B) Tan t. sect 
+C) Tant – sint 
+D) Tan t + sint 
+22. 
+𝟏−𝒔𝒊𝒏𝑨⁡𝒄𝒐𝒔𝑨
+𝒄𝒐𝒔𝑨⁡(⁡𝒔𝒆𝒄𝑨−𝑪𝒐𝒔𝒆𝒄𝑨) .
+𝒔𝒊𝒏𝟐𝑨−⁡𝒄𝒐𝒔𝟐𝑨
+𝒔𝒊𝒏𝟑𝑨+⁡𝒄𝒐𝒔𝟑𝑨=? 
+a) sinA        b) cosA        c) tanA         d) cosecA 
+23. What is the value of  
+(𝟏+ ⁡𝒄𝒐𝒕𝑨⁡ + 𝒕𝒂𝒏𝑨)⁡(𝒔𝒊𝒏𝑨⁡ −⁡𝒄𝒐𝒔𝑨)
+𝒔𝒊𝒏𝑨⁡𝒄𝒐𝒔𝑨⁡
+𝒔𝒊𝒏𝟑⁡𝑨−𝒄𝒐𝒔𝟑⁡𝑨 
+(𝟏+ ⁡𝒄𝒐𝒕𝑨⁡ + 𝒕𝒂𝒏𝑨)⁡(𝒔𝒊𝒏𝑨⁡ −⁡𝒄𝒐𝒔𝑨)
+𝒔𝒊𝒏𝑨⁡𝒄𝒐𝒔𝑨⁡
+𝒔𝒊𝒏𝟑⁡𝑨−𝒄𝒐𝒔𝟑⁡𝑨 का मान क्या है- 
+(a) 2 
+(b) -1 
+(c) 1 
+(d) 0 
+24. 1 - 
+𝒔𝒊𝒏𝟐𝒚
+𝟏+𝒄𝒐𝒔𝒚 + 
+𝟏+𝒄𝒐𝒔𝒚
+𝒔𝒊𝒏𝒚 - 
+𝒔𝒊𝒏𝒚
+𝟏−𝒄𝒐𝒔𝒚 =? 
+a) 0        b) 1        c) siny      d) cosy 
+25. The value of 
+𝒔𝒊𝒏𝑨
+𝒄𝒐𝒕𝑨+𝒄𝒐𝒔𝒆𝒄𝑨−
+𝒔𝒊𝒏𝑨
+𝒄𝒐𝒕𝑨−𝒄𝒐𝒔𝒆𝒄𝑨−𝟏 is: 
+ 
+ 
+                                                              BY Gagan Pratap 
+𝒔𝒊𝒏𝑨
+𝒄𝒐𝒕𝑨+𝒄𝒐𝒔𝒆𝒄𝑨−
+𝒔𝒊𝒏𝑨
+𝒄𝒐𝒕𝑨−𝒄𝒐𝒔𝒆𝒄𝑨−𝟏 dk eku Kkr djsaA 
+(a) 1/2           (b) 3          (c) 1            (d) 2 
+26. 
+𝒔𝒊𝒏𝒙−𝒄𝒐𝒔𝒙+𝟏
+𝒔𝒊𝒏𝒙+𝒄𝒐𝒔𝒙−𝟏  is equal to? 
+a) 
+𝒔𝒊𝒏𝒙−𝟏
+𝒄𝒐𝒔𝒙     
+b)⁡
+𝒔𝒊𝒏𝒙+𝟏
+𝒄𝒐𝒔𝒙     
+c)⁡
+𝒔𝒊𝒏𝒙−𝟏
+𝒄𝒐𝒔𝒙+𝟏     
+d)⁡
+𝒔𝒊𝒏𝒙+𝟏
+𝒄𝒐𝒔𝒙+𝟏    
+ 
+27. What is (
+𝒄𝒐𝒔𝜽−𝒔𝒊𝒏𝜽+𝟏
+𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽−𝟏) (𝒄𝒐𝒕𝜽−𝒄𝒐𝒔𝒆𝒄𝜽) equal to? 
+(
+𝒄𝒐𝒔𝜽−𝒔𝒊𝒏𝜽+𝟏
+𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽−𝟏) (𝒄𝒐𝒕𝜽−𝒄𝒐𝒔𝒆𝒄𝜽)⁡ककसके बराबर है? (UPSC CDS-2 2024) 
+A) -1 
+B) 0 
+C) 1 
+D) 2 
+28. If 
+𝒔𝒊𝒏𝜽−𝒄𝒐𝒔𝜽+𝟏
+𝒔𝒊𝒏𝜽+𝒄𝒐𝒔𝜽−𝟏= 𝒑𝒔𝒆𝒄𝜽+ 𝒒𝒕𝒂𝒏𝜽, 𝒘𝒉𝒆𝒓𝒆⁡𝟎< 𝜽<
+𝝅
+𝟐, then what is the value of p+q? 
+यदि 
+𝒔𝒊𝒏𝜽−𝒄𝒐𝒔𝜽+𝟏
+𝒔𝒊𝒏𝜽+𝒄𝒐𝒔𝜽−𝟏= 𝒑𝒔𝒆𝒄𝜽+ 𝒒𝒕𝒂𝒏𝜽, 𝒘𝒉𝒆𝒓𝒆⁡𝟎< 𝜽<
+𝝅
+𝟐, िहाां 0<θ<
+𝝅
+𝟐 है, तो p+q का मान क्या है? 
+ (CDS-1 2024) 
+A) 0 
+B) 1 
+C) 2 
+D) 4 
+29. Simplify 
+𝟏+𝒔𝒊𝒏𝛉−𝐜𝐨𝐬𝛉
+𝟏+𝒔𝒊𝒏𝛉+𝐜𝐨𝐬𝛉. 
+𝟏+𝒔𝒊𝒏𝛉−𝐜𝐨𝐬𝛉
+𝟏+𝒔𝒊𝒏𝛉+𝐜𝐨𝐬𝛉 को हल करें: 
+(a) 𝐜𝐨𝐬
+𝛉
+𝟐 
+(b)⁡𝐬𝐢𝐧
+𝛉
+𝟐  
+(c) 𝐜𝐨𝐭
+𝛉
+𝟐 
+(d)⁡𝐭𝐚𝐧
+𝛉
+𝟐 
+30. If x = 
+𝟐𝒔𝒊𝒏𝜽
+(𝟏+𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽), then the value of  
+𝟏−𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽
+(𝟏+𝒔𝒊𝒏𝜽)  is: 
+;fn x = 
+𝟐𝒔𝒊𝒏𝜽
+(𝟏+𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽) gS] rks 
+𝟏−𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽
+(𝟏+𝒔𝒊𝒏𝜽) ⁡ dk eku gS&( (CPO 2022) 
+(a) 
+𝒙
+(𝟏+𝒙) 
+(b) x 
+(c) 1/x  
+(d) (1+x 
+31. If 𝒙=
+𝟏−𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽
+𝟏+𝒔𝒊𝒏𝜽
+, 𝒕𝒉𝒆𝒏⁡𝒇𝒊𝒏𝒅⁡
+𝒔𝒊𝒏𝜽+𝒄𝒐𝒔𝜽−𝟏
+𝒄𝒐𝒔𝜽
+? 
+यदि 𝒙=
+𝟏−𝒄𝒐𝒔𝜽+𝒔𝒊𝒏𝜽
+𝟏+𝒔𝒊𝒏𝜽
+⁡है, तो 
+𝒔𝒊𝒏𝜽+𝒄𝒐𝒔𝜽−𝟏
+𝒄𝒐𝒔𝜽
+⁡ज्ञात कीजिये? (CDS 2022) 
+ 
+A) 1/x                                C) x 
+B) 1+x                                D) x-1 
+32. 
+𝒕𝒂𝒏𝑨
+⁡⁡⁡𝟏−𝒄𝒐𝒕𝑨 +⁡
+𝒄𝒐𝒕𝑨
+𝟏−𝒕𝒂𝒏𝑨⁡- 
+𝟐
+𝒔𝒊𝒏𝟐𝑨 =? 
+a) -1      b) 1           c) 0           d) 2 
+33. [(secx secy+tanxtany)2 – (secx tany + tanx secy)2 =? 
+a) -1       b) 0       c) sec2x     
+d) 1 
+34. The expression √𝒔𝒊𝒏𝟒𝒙+ 𝟒𝒄𝒐𝒔𝟐𝒙−√𝒄𝒐𝒔𝟒𝒙+ 𝟒𝒔𝒊𝒏𝟐𝒙 is equal to: 
+√𝒔𝒊𝒏𝟒𝒙+ 𝟒𝒄𝒐𝒔𝟐𝒙−√𝒄𝒐𝒔𝟒𝒙+ 𝟒𝒔𝒊𝒏𝟐𝒙 का मान ज्ञात करें? 
+(a) sin2x 
+ 
+(b) 1 
+ 
+ 
+(c) cos2x 
+ 
+(d) – cos2x 
+35. What is (𝟏+ 𝒕𝒂𝒏𝜶𝒕𝒂𝒏𝜷)𝟐+ (𝒕𝒂𝒏𝜶−𝒕𝒂𝒏𝜷)𝟐 equal to? 
+(𝟏+ 𝒕𝒂𝒏𝜶𝒕𝒂𝒏𝜷)𝟐+ (𝒕𝒂𝒏𝜶−𝒕𝒂𝒏𝜷)𝟐⁡ककसके बराबर है? (UPSC CDS-2 2024) 
+A) 𝒕𝒂𝒏𝟐𝜶𝒕𝒂𝒏𝟐𝜷 
+B) 𝒔𝒆𝒄𝟐𝜶𝒔𝒆𝒄𝟐𝜷 
+C) 𝒕𝒂𝒏𝟐𝜶𝒄𝒐𝒕𝟐𝜷 
+D) 𝒔𝒆𝒄𝟐𝜶𝒕𝒂𝒏𝟐𝜷 
+36. If cosec𝜽 – sin𝜽 = p3 and sec𝜽 – cos𝜽 = q3, then what is the value of tan𝜽? 
+;fn cosec𝜽 – sin𝜽 = p3 vkSj sec𝜽 – cos𝜽 =q3 gS rks tan𝜽 dk eku D;k gS\ 
+ 
+ 
+                                                              BY Gagan Pratap 
+(a) 
+𝒑
+𝒒                   
+(b) 
+𝒒
+𝒑                   
+ 
+(c) pq  
+         (d) p + q 
+37. 
+𝒕𝒂𝒏𝑨
+𝟏−𝒄𝒐𝒕𝑨+
+𝒄𝒐𝒕𝑨
+𝟏−𝒕𝒂𝒏𝑨= 𝑲+ 𝒕𝒂𝒏𝑨+ 𝒄𝒐𝒕𝑨,⁡then K =? 
+(a) 1           (b) 2 
+       (c) 3           (d) 0 
+ 
+ 
+ 
+38. If (𝐬𝐢𝐧𝜽+ 𝐜𝐨𝐬𝐞𝐜𝜽)𝟐+ (𝐜𝐨𝐬𝜽+ 𝐬𝐞𝐜𝜽)𝟐= 𝒌+ 𝐭𝐚𝐧𝟐𝜽+ 𝐜𝐨𝐭𝟐𝜽, then the value of k is equal to: 
+यदि (𝐬𝐢𝐧𝜽+ 𝐜𝐨𝐬𝐞𝐜𝜽)𝟐+ (𝐜𝐨𝐬𝜽+ 𝐬𝐞𝐜𝜽)𝟐= 𝒌+ 𝐭𝐚𝐧𝟐𝜽+ 𝐜𝐨𝐭𝟐𝜽 है, तो k का मान ज्ञात कीजिए। 
+(a) 7 
+ 
+ 
+(b) 2 
+ 
+ 
+(c) 9 
+ 
+ 
+(d) 5 
+39. 
+If 𝟐
+𝒄𝒐𝒔𝟐𝒙−𝒔𝒆𝒄𝟐𝒙
+𝒕𝒂𝒏𝟐𝒙
+= 𝒂+ 𝒃𝒄𝒐𝒔𝟐𝒙, then find a, b? 
+यदि 
+𝟐𝒄𝒐𝒔𝟐𝒙−𝒔𝒆𝒄𝟐𝒙
+𝒕𝒂𝒏𝟐𝒙
+= 𝒂+ 𝒃𝒄𝒐𝒔𝟐𝒙 है, तो a, b ज्ञात कीजिये? 
+A) -3/2, -1/2 
+B) 3/2, ½ 
+C) -3, -1 
+D) 3, 1 
+40. If A, B and C are angles of a triangle, then sin2A+ sin2B+ sin2C - 2cosAcosB.cosC =? 
+a) 0    
+ 
+b) 1      
+c) 2     
+ 
+d) 4 
+41. If sin (X–Y)  = sinXcosY – cosXsinY, then find 
+𝐬𝐢𝐧⁡(𝑨−𝑩)
+𝒄𝒐𝒔𝑨𝒄𝒐𝒔𝑩+
+𝐬𝐢𝐧⁡(𝑩−𝑪)
+𝒄𝒐𝒔𝑩𝒄𝒐𝒔𝑪? 
+यदि sin (X–Y)  = sinXcosY – cosXsinY है, तो 
+𝐬𝐢𝐧⁡(𝑨−𝑩)
+𝒄𝒐𝒔𝑨𝒄𝒐𝒔𝑩+
+𝐬𝐢𝐧⁡(𝑩−𝑪)
+𝒄𝒐𝒔𝑩𝒄𝒐𝒔𝑪⁡ज्ञात कजिये? SSC CHSL PRE 2024 
+A) 
+𝒔𝒊𝒏(𝑪−𝑨)
+𝒄𝒐𝒔𝑨𝒄𝒐𝒔𝑪 
+B) 
+𝒔𝒊𝒏(𝑨−𝑪)
+𝒄𝒐𝒔𝑨𝒄𝒐𝒔𝑪 
+C) 
+𝒄𝒐𝒔(𝑨+𝑪)
+𝒄𝒐𝒔𝑨𝒄𝒐𝒔𝑪 
+D) 
+𝒄𝒐𝒔(𝑨+𝑪)
+𝒔𝒊𝒏𝑨𝒔𝒊𝒏𝑪 
+42. If tanθ – cotθ= a and cosθ+sinθ = b, then (b2 – 1)2 (a2 +4) =? 
+a) 2    
+b) 1    
+ 
+c) 0 
+    
+d) 4 
+43. tan2α =1+ 2tan2β⁡⁡⁡then⁡find⁡the⁡value⁡of⁡√2cosα-cosβ=? 
+a) 0  
+ 
+b) 1  
+ 
+c) 2     
+d)⁡√2 
+ 
+44. If 2ycosθ⁡= x sinθ and 2xsecθ⁡– ycosecθ = 3, then x2+4y2=? 
+a) 1 
+   
+b) 2    
+ 
+c) 0 
+    
+d) 4 
+45. If 𝒙𝒔𝒊𝒏𝟑𝜽+ 𝒚𝒄𝒐𝒔𝟑𝜽= 𝒔𝒊𝒏𝜽𝒄𝒐𝒔𝜽⁡&⁡𝒙𝒔𝒊𝒏𝜽−𝒚𝒄𝒐𝒔𝜽= 𝟎⁡𝒇𝒐𝒓⁡𝒆𝒗𝒆𝒓𝒚⁡𝜽∈(𝟎,
+𝝅
+𝟐), then what is 𝒙𝟐+ 𝒚𝟐⁡equal to? 
+यदि 𝒙𝒔𝒊𝒏𝟑𝜽+ 𝒚𝒄𝒐𝒔𝟑𝜽= 𝒔𝒊𝒏𝜽𝒄𝒐𝒔𝜽⁡&⁡𝒙𝒔𝒊𝒏𝜽−𝒚𝒄𝒐𝒔𝜽= 𝟎 प्रत्येक θ∈(0,π/2) के ललए, तो 𝒙𝟐+ 𝒚𝟐⁡ककसके बराबर है?  
+(CDS 2023) 
+A) 0 
+B) 1 
+C) 2 
+D) 3 
+46. If Cosecθ⁡– sinθ⁡= l & secθ⁡– cosθ⁡= m, then l2m2 (l2+m2+3) =? 
+a) 0      
+b) 1      
+c) -1       d) 2 
+47. If sin θ + cos θ = K and sec θ + cosec θ = m, find the value of m(K2− 1). 
+;fn sin θ + cos θ = K vkSj sec θ + cosec θ = m gS] rks m(K² – 1) dk eku Kkr dhft,A 
+(a) 2M      (b) K             (c) 2K              (d) M 
+48. a(tanθ⁡+ cotθ) = 1, sinθ⁡+ cosθ⁡= b and 0<θ<90, then relation between a and b? 
+a) b2=2(a+1)  
+ 
+b) b2=2(a+1)      c) 2a = b2 – 1    
+ 
+d) 2a= b2+1    
+ 
+49. Which of the following is true when x  = SinA + CosA; y = SecA + CosecA?  
+ 
+x = sinA + cosA, y = secA + cosecA होने पर ननम्नललखित में से कौन-सा विकल्प सत्य होगा? 
+ 
+ 
+ 
+ 
+SSC CPO Pre 2024  
+ 
+[A]y(1 + x2) = 2x 
+[B] y – 2x = x2y 
+ 
+ 
+[C]y + 2x = x2y 
+[D] y(1 – 2x2) = x 
+ 
+ 
+                                                              BY Gagan Pratap 
+ 
+50. If tanA + sinA = p and tanA – sinA = q, then which of the following is true? 
+a) p2+q2=4√𝒑𝒒   b) p+q=pq     
+ 
+c) p-q=pq      
+ 
+d) p2 - q2 = 4√𝒑𝒒 
+51. If a = cotA + cos A & b = cotA – cosA, then find the value of 𝒂𝟐−𝒃𝟐−𝟒√𝒂𝒃? 
+यदि a = cotA + cos A और b = cotA – cosA, तो 𝒂𝟐−𝒃𝟐−𝟒√𝒂𝒃 का मान ज्ञात कीजिए? 
+A) 0 
+B) -1 
+C) 1 
+D) -4 
+52. If 𝐜𝐨𝐬𝟐θ – 𝐬𝐢𝐧𝟐θ = 𝐭𝐚𝐧𝟐φ, then which of the following is true? 
+;fn cos2 – sin2 = tan2   gS] rks fuEufyf[kr esa ls dkSu lk fodYi lgh gS\ 
+(a) cosθ cos φ = 1 
+ 
+(b) 𝐜𝐨𝐬𝟐φ - 𝐬𝐢𝐧𝟐φ = 𝒕𝒂𝒏𝟐θ 
+(c) 𝐜𝐨𝐬𝟐φ - 𝐬𝐢𝐧𝟐φ = 𝐜𝐨𝐭𝟐θ 
+(d) cosθ cosφ = √𝟐 
+ 

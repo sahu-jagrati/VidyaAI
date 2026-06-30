@@ -1,0 +1,34 @@
+[
+  {
+    "question_number": 12,
+    "question_en": "",
+    "question_hi": null,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Letter Series",
+    "source_pdf": "Letter Series Practice Set.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing question_en; missing option_a; missing option_b; missing option_c; missing option_d"
+  },
+  {
+    "question_number": 21,
+    "question_en": "",
+    "question_hi": null,
+    "option_a": "",
+    "option_b": "",
+    "option_c": "",
+    "option_d": "",
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "topic": "Letter Series",
+    "source_pdf": "Letter Series Practice Set.pdf",
+    "correct_answer": null,
+    "difficulty": null,
+    "_invalid_reason": "missing question_en; missing option_a; missing option_b; missing option_c; missing option_d"
+  }
+]
