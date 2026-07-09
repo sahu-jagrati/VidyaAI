@@ -13,7 +13,11 @@ import About          from './pages/About';
 import DailyNews      from './pages/DailyNews';
 import PYQMains       from './pages/PYQMains';
 import PYQAdvanced    from './pages/PYQAdvanced';
-import TopicWise      from './pages/TopicWise';
+import TopicWise          from './pages/TopicWise';
+import Pricing             from './pages/Pricing';
+import SubscriptionSuccess from './pages/SubscriptionSuccess';
+import SubscriptionFailed  from './pages/SubscriptionFailed';
+import ManageSubscription  from './pages/ManageSubscription';
 
 const Spinner = () => (
   <div className="min-h-screen flex items-center justify-center bg-gray-50">
@@ -49,6 +53,11 @@ function AppRoutes() {
       <Route path="/pyq/mains"       element={<ProtectedRoute><PYQMains /></ProtectedRoute>} />
       <Route path="/pyq/advanced"    element={<ProtectedRoute><PYQAdvanced /></ProtectedRoute>} />
       <Route path="/topic-wise"      element={<ProtectedRoute><TopicWise /></ProtectedRoute>} />
+
+      <Route path="/pricing"                  element={<Pricing />} />
+      <Route path="/subscription/success"     element={<ProtectedRoute><SubscriptionSuccess /></ProtectedRoute>} />
+      <Route path="/subscription/failed"      element={<ProtectedRoute><SubscriptionFailed /></ProtectedRoute>} />
+      <Route path="/subscription/manage"      element={<ProtectedRoute><ManageSubscription /></ProtectedRoute>} />
 
       <Route path="/"  element={<Landing />} />
       <Route path="*"  element={<Navigate to="/" replace />} />

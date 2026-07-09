@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, DateTime, Float
+from sqlalchemy import Column, Integer, String, DateTime, Float, Boolean
 from sqlalchemy.orm import relationship
 from datetime import datetime, timezone
 from app.database.connection import Base
@@ -23,8 +23,13 @@ class User(Base):
     created_at       = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
     last_activity    = Column(DateTime(timezone=True), nullable=True)
 
+    # Subscription / premium access
+    is_premium       = Column(Boolean, default=False)
+    subscription_id  = Column(Integer, nullable=True)   # FK resolved via query (avoids circular import)
+
     # Relationships
-    attempts = relationship("Attempt", back_populates="user")
+    attempts      = relationship("Attempt", back_populates="user")
+    subscriptions = relationship("Subscription", back_populates="user", order_by="Subscription.created_at.desc()")
 
     @property
     def accuracy(self) -> float:
