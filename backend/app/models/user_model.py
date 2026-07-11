@@ -29,7 +29,7 @@ class User(Base):
 
     # Relationships
     attempts      = relationship("Attempt", back_populates="user")
-    subscriptions = relationship("Subscription", back_populates="user", order_by="Subscription.created_at.desc()")
+    subscriptions = relationship("Subscription", back_populates="user")
 
     @property
     def accuracy(self) -> float:
