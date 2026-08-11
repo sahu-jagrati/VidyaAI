@@ -6,10 +6,10 @@ from sqlalchemy import text
 from app.database.connection import Base, engine
 from app.models import user_model, question_model, attempt_model  # noqa: F401
 from app.models import news_model, push_model                      # noqa: F401
-from app.models import subscription_model                          # noqa: F401
+# from app.models import subscription_model                        # noqa: F401  ── RAZORPAY (commented out)
 from app.routes import auth, questions, users, leaderboard
 from app.routes import news, notifications
-from app.routes import subscription, webhooks
+# from app.routes import subscription, webhooks                    # ── RAZORPAY (commented out)
 from app import scheduler
 
 
@@ -25,9 +25,10 @@ def _run_migrations():
         conn.execute(text("ALTER TABLE questions ADD COLUMN IF NOT EXISTS option_c_hi TEXT"))
         conn.execute(text("ALTER TABLE questions ADD COLUMN IF NOT EXISTS option_d_hi TEXT"))
         conn.execute(text("ALTER TABLE questions ADD COLUMN IF NOT EXISTS explanation_hi TEXT"))
-        # Subscription / premium columns on users
-        conn.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS is_premium BOOLEAN NOT NULL DEFAULT FALSE"))
-        conn.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS subscription_id INTEGER"))
+        # ── RAZORPAY (commented out) ─────────────────────────────────────────
+        # conn.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS is_premium BOOLEAN NOT NULL DEFAULT FALSE"))
+        # conn.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS subscription_id INTEGER"))
+        # ────────────────────────────────────────────────────────────────────
         conn.commit()
 
 
@@ -61,8 +62,8 @@ app.include_router(users.router)
 app.include_router(leaderboard.router)
 app.include_router(news.router)
 app.include_router(notifications.router)
-app.include_router(subscription.router)
-app.include_router(webhooks.router)
+# app.include_router(subscription.router)                          # ── RAZORPAY (commented out)
+# app.include_router(webhooks.router)                              # ── RAZORPAY (commented out)
 
 
 @app.get("/", tags=["Health"])

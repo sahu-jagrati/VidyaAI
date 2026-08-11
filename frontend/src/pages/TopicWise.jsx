@@ -103,6 +103,13 @@ const SUBJECTS = [
       { name: "Statement & Conclusion", icon: "📋" },
       { name: "Classification", icon: "📂" },
       { name: "Mirror & Water Image", icon: "🪞" },
+      { name: "Clock", icon: "🕐" },
+      { name: "Cube & Cuboid", icon: "🎲" },
+      { name: "Dictionary", icon: "📖" },
+      { name: "Word Formation", icon: "🔤" },
+      { name: "Jumbling", icon: "🔀" },
+      { name: "Letter Series", icon: "🔡" },
+      { name: "Number Series", icon: "🔢" },
     ],
   },
   {

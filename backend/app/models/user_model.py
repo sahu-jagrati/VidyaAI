@@ -23,13 +23,15 @@ class User(Base):
     created_at       = Column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc))
     last_activity    = Column(DateTime(timezone=True), nullable=True)
 
+    # ── RAZORPAY (commented out) ─────────────────────────────────────────────
     # Subscription / premium access
-    is_premium       = Column(Boolean, default=False)
-    subscription_id  = Column(Integer, nullable=True)   # FK resolved via query (avoids circular import)
+    # is_premium       = Column(Boolean, default=False)
+    # subscription_id  = Column(Integer, nullable=True)   # FK resolved via query (avoids circular import)
+    # ────────────────────────────────────────────────────────────────────────
 
     # Relationships
     attempts      = relationship("Attempt", back_populates="user")
-    subscriptions = relationship("Subscription", back_populates="user")
+    # subscriptions = relationship("Subscription", back_populates="user")  # ── RAZORPAY (commented out)
 
     @property
     def accuracy(self) -> float:
