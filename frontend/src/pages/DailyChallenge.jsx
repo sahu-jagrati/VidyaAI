@@ -22,17 +22,93 @@ const subjectStyle = {
   ga:        'text-teal-700   bg-teal-50   border-teal-200',
 };
 
+// Assertion & Reason questions always have a fixed 5th option not stored in DB.
+const AR_OPTION_E = "Both A & R are false. / A और R दोनों असत्य हैं।";
+
+// Cause & Effect questions also have a fixed 5th option not stored in DB.
+const CE_OPTION_E =
+  "If both the statements (A) & (B) are effects of a common cause. / " +
+  "यदि दोनों कथन (A) और (B) किसी सामान्य कारण के परिणाम हैं।";
+
+// Some Course of Action questions use a 5-option format where option (c) is
+// "Either I or II follows" and option (e) is "Both I and II follow". The 5th
+// option is not stored in DB and is injected here. Detected by option_c starting
+// with "Either I or II".
+const COA_5OPT_E = "Both I and II follow. / I और II दोनों कार्यवाही अनुसरण करती हैं।";
+
+// Data Sufficiency questions always have a fixed 5-option set; option (E) is not
+// stored in DB and is injected for every question in this topic.
+const DS_OPTION_E =
+  "Both Statement I and Statement II are sufficient to answer. / " +
+  "कथन I और कथन II दोनों उत्तर देने के लिए पर्याप्त हैं।";
+
+// Some Statement Argument questions use a 5-option format where option (c) is
+// "Either I or II is strong" and option (e) is "Both I and II are strong". The
+// 5th option is not stored in DB and is injected here. Detected by option_c
+// starting with "Either I or II".
+const SA_5OPT_E = "Both I and II are strong. / I और II दोनों मजबूत हैं।";
+
+// Statement Assumption and Conclusion — Conclusion-type questions use a 5-option
+// format where option (e) = "Either I or II follows". The 5th option is not
+// stored in DB and is injected here. Detected by option_a starting with
+// "Only I follows" (assumption questions start with "Only Assumption I is implicit").
+const SAC_CONCLUSION_E = "Either I or II follows. / या तो I या II अनुसरण करता है।";
+
 function transformQuestion(q) {
   const difficulty = q.difficulty || null;
+  const isAR = q.topic === "Assertion and Reason";
+  const isCE = q.topic === "Cause and Effect";
+  const isDS = q.topic === "Data Sufficiency";
+  // 5-option COA: option_c starts with "Either I or II follows"
+  const isCOA5Opt =
+    q.topic === "Course of Action" &&
+    q.option_c &&
+    q.option_c.startsWith("Either I or II");
+  // 5-option SA: option_c starts with "Either I or II is strong"
+  const isSA5Opt =
+    q.topic === "Statement Argument" &&
+    q.option_c &&
+    q.option_c.startsWith("Either I or II");
+  // 5-option SAC Conclusion: option_a starts with "Only I follows" AND option_c
+  // starts with "Both I & II follow" (ampersand). This excludes: 4-opt questions
+  // (option_c = "Both I and II follow." with "and"), 3-conclusion questions
+  // (option_c = "Only III follows."), and special formats (option_c = "Only II follows.").
+  const isSACConclusion5Opt =
+    q.topic === "Statement Assumption and Conclusion" &&
+    q.option_a &&
+    q.option_a.startsWith("Only I follows") &&
+    q.option_c &&
+    q.option_c.startsWith("Both I & II follow");
   return {
     id:          q.id,
     question:    q.question_text,
     imageUrl:    q.image_url || null,
     subject:     q.subject,
     subjectCode: (q.subject || '').toLowerCase(),
+    topic:       q.topic,
     difficulty,
     xp:          XP_MAP[difficulty] || 5,
-    options:     { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d },
+    // Option-injection rules:
+    //  AR              → always inject AR_OPTION_E as 5th option
+    //  CE std          → inject CE_OPTION_E when option_a starts "If statement (A)"
+    //  COA 5-opt       → inject COA_5OPT_E when option_c starts "Either I or II"
+    //  DS              → always inject DS_OPTION_E as 5th option (fixed format)
+    //  SA 5-opt        → inject SA_5OPT_E when option_c starts "Either I or II"
+    //  SAC conclusion  → inject SAC_CONCLUSION_E when option_a starts "Only I follows" AND option_c starts "Both I & II follow"
+    //  all others      → plain 4-option map from DB columns
+    options:     isAR
+      ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: AR_OPTION_E }
+      : isCE && q.option_a && q.option_a.startsWith("If statement (A)")
+      ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: CE_OPTION_E }
+      : isCOA5Opt
+      ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: COA_5OPT_E }
+      : isDS
+      ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: DS_OPTION_E }
+      : isSA5Opt
+      ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: SA_5OPT_E }
+      : isSACConclusion5Opt
+      ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: SAC_CONCLUSION_E }
+      : { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d },
   };
 }
 
