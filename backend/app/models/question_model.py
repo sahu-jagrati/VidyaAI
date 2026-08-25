@@ -21,6 +21,8 @@ class Question(Base):
     option_c        = Column(Text, nullable=False)
     option_d        = Column(Text, nullable=False)
 
+    image_url       = Column(Text,         nullable=True)   # diagram / figure image
+
     correct_answer  = Column(String(1),   nullable=True)   # NULL until solved
     difficulty      = Column(String(10),  nullable=True)   # NULL until graded
     source_pdf      = Column(String(500), nullable=True)

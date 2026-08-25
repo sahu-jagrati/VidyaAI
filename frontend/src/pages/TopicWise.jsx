@@ -205,6 +205,7 @@ const SUBJECTS = [
       { name: "Data Sufficiency", icon: "📊" },
       { name: "Statement Argument", icon: "💬" },
       { name: "Statement Assumption and Conclusion", icon: "🤔" },
+      { name: "Counting Figures", icon: "🔺" },
     ],
   },
   {

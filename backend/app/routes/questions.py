@@ -35,6 +35,7 @@ def _to_dict(q: Question, lang: str) -> dict:
         "option_c":        q.option_c,
         "option_d":        q.option_d,
         "source_pdf":      q.source_pdf,
+        "image_url":       q.image_url,
     }
 
 
