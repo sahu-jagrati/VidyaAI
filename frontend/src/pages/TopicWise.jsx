@@ -183,6 +183,8 @@ const SUBJECTS = [
       { name: "Mirror & Water Image", icon: "🪞" },
       { name: "Clock", icon: "🕐" },
       { name: "Cube & Cuboid", icon: "🎲" },
+      { name: "Cube and Dice", icon: "🎲" },
+      { name: "Seating Arrangement", icon: "🪑" },
       { name: "Dictionary", icon: "📖" },
       { name: "Word Formation", icon: "🔤" },
       { name: "Jumbling", icon: "🔀" },
