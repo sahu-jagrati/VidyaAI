@@ -28,6 +28,17 @@ const subjectStyle = {
 const AR_OPTION_E =
   "Both A & R are false. / A और R दोनों असत्य हैं।";
 
+// Decision Making questions always have 5 fixed options; option E is not stored in DB.
+// Two variants exist — detected by option_d content:
+//   Variant 1 (Q1–5 set): option_d = "GM-Personnel"  → E = "ED-Personnel"
+//   Variant 2 (Q6–10 set): option_d = "Vice President-Marketing" → E = "GM-Marketing"
+const DM_OPTION_E_ED_PERSONNEL =
+  "If the case is to be referred to ED-Personnel. / " +
+  "यदि मामला ईडी-कार्मिक को भेजा जाना है।";
+const DM_OPTION_E_GM_MARKETING =
+  "if the case is to be referred to GM-Marketing. / " +
+  "यदि मामला जीएम-मार्केटिंग को भेजा जाना है।";
+
 // Cause & Effect questions also have a fixed 5th option not stored in DB.
 const CE_OPTION_E =
   "If both the statements (A) & (B) are effects of a common cause. / " +
@@ -59,6 +70,7 @@ const SAC_CONCLUSION_E = "Either I or II follows. / या तो I या II �
 
 function transformQuestion(q) {
   const isAR = q.topic === "Assertion and Reason";
+  const isDM = q.topic === "Decision Making";
   const isCE = q.topic === "Cause and Effect";
   const isDS = q.topic === "Data Sufficiency";
   // 5-option COA: option_c starts with "Either I or II follows"
@@ -85,6 +97,7 @@ function transformQuestion(q) {
     id: q.id,
     question: q.question_text,
     imageUrl: q.image_url || null,
+    optionImageUrl: q.answer_image_url || null,
     subject: q.subject,
     subjectCode: (q.subject || '').toLowerCase(),
     topic: q.topic,
@@ -100,6 +113,16 @@ function transformQuestion(q) {
     //  all others      → plain 4-option map from DB columns
     options: isAR
       ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: AR_OPTION_E }
+      : isDM
+      ? {
+          A: q.option_a,
+          B: q.option_b,
+          C: q.option_c,
+          D: q.option_d,
+          E: q.option_d && q.option_d.toLowerCase().includes("vice president")
+            ? DM_OPTION_E_GM_MARKETING
+            : DM_OPTION_E_ED_PERSONNEL,
+        }
       : isCE && q.option_a && q.option_a.startsWith("If statement (A)")
       ? { A: q.option_a, B: q.option_b, C: q.option_c, D: q.option_d, E: CE_OPTION_E }
       : isCOA5Opt
@@ -175,15 +198,12 @@ const SUBJECTS = [
       { name: "Blood Relation", icon: "👨‍👩‍👧" },
       { name: "Direction & Distance", icon: "🧭" },
       { name: "Syllogism", icon: "💭" },
-      { name: "Matrix", icon: "🔲" },
       { name: "Venn Diagram", icon: "⭕" },
-      { name: "Puzzle", icon: "🧩" },
-      { name: "Statement & Conclusion", icon: "📋" },
       { name: "Classification", icon: "📂" },
-      { name: "Mirror & Water Image", icon: "🪞" },
       { name: "Clock", icon: "🕐" },
       { name: "Cube & Cuboid", icon: "🎲" },
       { name: "Cube and Dice", icon: "🎲" },
+      { name: "Dice", icon: "🎯" },
       { name: "Seating Arrangement", icon: "🪑" },
       { name: "Dictionary", icon: "📖" },
       { name: "Word Formation", icon: "🔤" },
@@ -208,6 +228,8 @@ const SUBJECTS = [
       { name: "Statement Argument", icon: "💬" },
       { name: "Statement Assumption and Conclusion", icon: "🤔" },
       { name: "Counting Figures", icon: "🔺" },
+      { name: "Non-Verbal", icon: "🖼️" },
+      { name: "Decision Making", icon: "⚖️" },
     ],
   },
   {
@@ -550,7 +572,7 @@ export default function TopicWise() {
               <img
                 src={activeQ.imageUrl}
                 alt="Question diagram"
-                className="w-full max-h-64 object-contain rounded-xl mb-4 border border-gray-100"
+                className="w-full max-h-80 object-contain rounded-xl mb-4 border border-gray-100 bg-gray-50 p-1"
               />
             )}
             <p className="text-gray-800 text-base font-medium leading-relaxed whitespace-pre-line">
@@ -558,68 +580,140 @@ export default function TopicWise() {
             </p>
           </div>
 
+          {/* Options panel image (A/B/C/D figures shown as a single image) */}
+          {activeQ.optionImageUrl && (
+            <div className="bg-white border border-gray-200 rounded-2xl p-3 mb-4 shadow-sm">
+              <p className="text-xs text-gray-400 mb-2 font-medium tracking-wide uppercase">Answer Figures</p>
+              <img
+                src={activeQ.optionImageUrl}
+                alt="Answer options"
+                className="w-full max-h-72 object-contain rounded-xl bg-gray-50 p-1"
+              />
+            </div>
+          )}
+
           {/* Options */}
-          <div className="space-y-3 mb-6">
-            {Object.entries(activeQ.options).map(([key, val]) => {
-              let base =
-                "w-full flex items-center gap-4 px-5 py-4 rounded-xl border-2 text-left transition-all duration-150 cursor-pointer ";
-              if (!submitted) {
-                base +=
-                  selected === key
-                    ? "bg-teal-50 border-teal-400 text-gray-800"
-                    : "bg-white border-gray-200 text-gray-600 hover:border-teal-300 hover:text-gray-800";
-              } else if (!currentResult) {
-                base += "bg-white border-gray-100 text-gray-400 cursor-default";
-              } else {
-                if (key === currentResult.correct_answer)
-                  base += "bg-emerald-50 border-emerald-400 text-emerald-800";
-                else if (
-                  key === selected &&
-                  selected !== currentResult.correct_answer
-                )
-                  base += "bg-red-50 border-red-400 text-red-700";
-                else
-                  base +=
-                    "bg-white border-gray-100 text-gray-400 cursor-default";
-              }
+          {/* Detect whether ANY option in this question is an image URL.
+              If so, show all options in a 2×2 image grid; otherwise use
+              the standard vertical text list. */}
+          {(() => {
+            const entries = Object.entries(activeQ.options);
+            const isImgOpt = (v) =>
+              typeof v === "string" &&
+              (v.startsWith("http://") || v.startsWith("https://"));
+            const hasImageOptions = entries.some(([, v]) => isImgOpt(v));
+
+            if (hasImageOptions) {
+              /* ── Image-option grid (2 columns) ─────────────────────── */
               return (
-                <button
-                  key={key}
-                  className={base}
-                  onClick={() => !submitted && setSelected(key)}
-                  disabled={submitted}
-                >
-                  <span
-                    className={`w-8 h-8 rounded-lg flex items-center justify-center text-sm font-bold shrink-0
-                    ${
-                      !submitted && selected === key
-                        ? "bg-teal-700 text-white"
-                        : submitted && currentResult?.correct_answer === key
+                <div className="grid grid-cols-2 gap-3 mb-6">
+                  {entries.map(([key, val]) => {
+                    let border = "border-2 rounded-xl overflow-hidden cursor-pointer transition-all duration-150 ";
+                    if (!submitted) {
+                      border +=
+                        selected === key
+                          ? "border-teal-400 ring-2 ring-teal-300"
+                          : "border-gray-200 hover:border-teal-300";
+                    } else if (!currentResult) {
+                      border += "border-gray-100 cursor-default opacity-60";
+                    } else {
+                      if (key === currentResult.correct_answer)
+                        border += "border-emerald-400 ring-2 ring-emerald-300";
+                      else if (key === selected && selected !== currentResult.correct_answer)
+                        border += "border-red-400 ring-2 ring-red-300";
+                      else border += "border-gray-100 cursor-default opacity-50";
+                    }
+                    return (
+                      <button
+                        key={key}
+                        className={border}
+                        onClick={() => !submitted && setSelected(key)}
+                        disabled={submitted}
+                      >
+                        {/* label bar */}
+                        <div className={`flex items-center justify-between px-3 py-1 text-xs font-bold
+                          ${!submitted && selected === key
+                            ? "bg-teal-700 text-white"
+                            : submitted && currentResult?.correct_answer === key
+                            ? "bg-emerald-500 text-white"
+                            : submitted && key === selected && currentResult
+                            ? "bg-red-500 text-white"
+                            : "bg-gray-100 text-gray-500"}`}
+                        >
+                          <span>{key}</span>
+                          {currentResult && key === currentResult.correct_answer && <span>✓</span>}
+                          {currentResult && key === selected && selected !== currentResult.correct_answer && <span>✗</span>}
+                        </div>
+                        {/* image or text fallback */}
+                        <div className="p-2 bg-white flex items-center justify-center min-h-[90px]">
+                          {isImgOpt(val)
+                            ? <img
+                                src={val}
+                                alt={`Option ${key}`}
+                                className="max-h-24 max-w-full object-contain"
+                              />
+                            : <span className="text-sm text-gray-700 text-center px-1">{val}</span>
+                          }
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              );
+            }
+
+            /* ── Standard text-option list ──────────────────────────── */
+            return (
+              <div className="space-y-3 mb-6">
+                {entries.map(([key, val]) => {
+                  let base =
+                    "w-full flex items-center gap-4 px-5 py-4 rounded-xl border-2 text-left transition-all duration-150 cursor-pointer ";
+                  if (!submitted) {
+                    base +=
+                      selected === key
+                        ? "bg-teal-50 border-teal-400 text-gray-800"
+                        : "bg-white border-gray-200 text-gray-600 hover:border-teal-300 hover:text-gray-800";
+                  } else if (!currentResult) {
+                    base += "bg-white border-gray-100 text-gray-400 cursor-default";
+                  } else {
+                    if (key === currentResult.correct_answer)
+                      base += "bg-emerald-50 border-emerald-400 text-emerald-800";
+                    else if (key === selected && selected !== currentResult.correct_answer)
+                      base += "bg-red-50 border-red-400 text-red-700";
+                    else base += "bg-white border-gray-100 text-gray-400 cursor-default";
+                  }
+                  return (
+                    <button
+                      key={key}
+                      className={base}
+                      onClick={() => !submitted && setSelected(key)}
+                      disabled={submitted}
+                    >
+                      <span
+                        className={`w-8 h-8 rounded-lg flex items-center justify-center text-sm font-bold shrink-0
+                        ${!submitted && selected === key
+                          ? "bg-teal-700 text-white"
+                          : submitted && currentResult?.correct_answer === key
                           ? "bg-emerald-500 text-white"
                           : submitted && key === selected && currentResult
-                            ? "bg-red-500 text-white"
-                            : "bg-gray-100 text-gray-500"
-                    }`}
-                  >
-                    {key}
-                  </span>
-                  <span className="text-sm">{val}</span>
-                  {currentResult && key === currentResult.correct_answer && (
-                    <span className="ml-auto text-emerald-600 text-sm font-bold">
-                      ✓
-                    </span>
-                  )}
-                  {currentResult &&
-                    key === selected &&
-                    selected !== currentResult.correct_answer && (
-                      <span className="ml-auto text-red-500 text-sm font-bold">
-                        ✗
+                          ? "bg-red-500 text-white"
+                          : "bg-gray-100 text-gray-500"}`}
+                      >
+                        {key}
                       </span>
-                    )}
-                </button>
-              );
-            })}
-          </div>
+                      <span className="text-sm">{val}</span>
+                      {currentResult && key === currentResult.correct_answer && (
+                        <span className="ml-auto text-emerald-600 text-sm font-bold">✓</span>
+                      )}
+                      {currentResult && key === selected && selected !== currentResult.correct_answer && (
+                        <span className="ml-auto text-red-500 text-sm font-bold">✗</span>
+                      )}
+                    </button>
+                  );
+                })}
+              </div>
+            );
+          })()}
 
           {/* Explanation */}
           {submitted && (

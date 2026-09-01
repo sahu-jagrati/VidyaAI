@@ -18,7 +18,8 @@ class QuestionResponse(BaseModel):
     option_c:        str
     option_d:        str
     source_pdf:      Optional[str]
-    image_url:       Optional[str] = None
+    image_url:        Optional[str] = None
+    answer_image_url: Optional[str] = None
     # correct_answer is NOT returned here — only after submission
 
     model_config = {"from_attributes": True}
